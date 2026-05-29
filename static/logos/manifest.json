@@ -4,160 +4,160 @@
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg",
     "bytes": 3613,
-    "fetchedAt": "2026-05-29T06:05:54.601Z"
+    "fetchedAt": "2026-05-29T13:18:07.437Z"
   },
   "TSM": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/TSMC_wordmark.svg",
     "bytes": 4774,
-    "fetchedAt": "2026-05-29T06:05:55.802Z"
+    "fetchedAt": "2026-05-29T13:18:09.354Z"
   },
   "ASML": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ASML_Logo.svg",
     "bytes": 10411,
-    "fetchedAt": "2026-05-29T06:05:48.999Z"
+    "fetchedAt": "2026-05-29T13:18:01.276Z"
   },
   "AMAT": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Applied_Materials_Logo.svg",
     "bytes": 13416,
-    "fetchedAt": "2026-05-29T06:05:47.539Z"
+    "fetchedAt": "2026-05-29T13:17:59.741Z"
   },
   "LRCX": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lam-Research-Logo.svg",
     "bytes": 12215,
-    "fetchedAt": "2026-05-29T06:05:52.977Z"
+    "fetchedAt": "2026-05-29T13:18:05.382Z"
   },
   "KLAC": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/KLA_Corp._logo.svg",
     "bytes": 1323,
-    "fetchedAt": "2026-05-29T06:05:52.642Z"
+    "fetchedAt": "2026-05-29T13:18:05.047Z"
   },
   "SNPS": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Synopsys_Logo.svg",
     "bytes": 4058,
-    "fetchedAt": "2026-05-29T06:05:55.439Z"
+    "fetchedAt": "2026-05-29T13:18:08.804Z"
   },
   "CDNS": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cadence-Logo.svg",
     "bytes": 4091,
-    "fetchedAt": "2026-05-29T06:05:50.065Z"
+    "fetchedAt": "2026-05-29T13:18:02.361Z"
   },
   "MU": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Micron_Technology_logo_2024.svg",
     "bytes": 2735,
-    "fetchedAt": "2026-05-29T06:05:54.211Z"
+    "fetchedAt": "2026-05-29T13:18:06.962Z"
   },
   "AMD": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg",
     "bytes": 694,
-    "fetchedAt": "2026-05-29T06:05:47.862Z"
+    "fetchedAt": "2026-05-29T13:18:00.125Z"
   },
   "AMKR": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Amkor_Technology_logo.svg",
     "bytes": 15969,
-    "fetchedAt": "2026-05-29T06:05:48.215Z"
+    "fetchedAt": "2026-05-29T13:18:00.495Z"
   },
   "GFS": {
     "source": "legacy",
     "ext": "png",
     "url": "https://financialmodelingprep.com/image-stock/GFS.png",
     "bytes": 8012,
-    "fetchedAt": "2026-05-29T06:05:50.649Z"
+    "fetchedAt": "2026-05-29T13:18:02.920Z"
   },
   "INTC": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Intel_logo_%281968-2006%29.svg",
     "bytes": 1810,
-    "fetchedAt": "2026-05-29T06:05:52.268Z"
+    "fetchedAt": "2026-05-29T13:18:04.669Z"
   },
   "AMZN": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
     "bytes": 5530,
-    "fetchedAt": "2026-05-29T06:05:48.615Z"
+    "fetchedAt": "2026-05-29T13:18:00.895Z"
   },
   "MSFT": {
     "source": "wikidata",
     "ext": "png",
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Microsoft_logo_%281981%29.png",
     "bytes": 44684,
-    "fetchedAt": "2026-05-29T06:05:53.873Z"
+    "fetchedAt": "2026-05-29T13:18:06.462Z"
   },
   "GOOGL": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alphabet_Inc_Logo_2015.svg",
     "bytes": 2345,
-    "fetchedAt": "2026-05-29T06:05:50.951Z"
+    "fetchedAt": "2026-05-29T13:18:03.361Z"
   },
   "META": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Facebook%2C_Inc._Logo_2019.svg",
     "bytes": 3313,
-    "fetchedAt": "2026-05-29T06:05:53.397Z"
+    "fetchedAt": "2026-05-29T13:18:05.823Z"
   },
   "BIDU": {
     "source": "legacy",
     "ext": "png",
     "url": "https://storage.googleapis.com/iex/api/logos/BIDU.png",
     "bytes": 7462,
-    "fetchedAt": "2026-05-29T06:05:49.362Z"
+    "fetchedAt": "2026-05-29T13:18:01.634Z"
   },
   "HW": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Huawei_wordmark.svg",
     "bytes": 3499,
-    "fetchedAt": "2026-05-29T06:05:51.822Z"
+    "fetchedAt": "2026-05-29T13:18:04.268Z"
   },
   "SN": {
     "source": "legacy",
     "ext": "png",
     "url": "https://storage.googleapis.com/iex/api/logos/SN.png",
     "bytes": 12666,
-    "fetchedAt": "2026-05-29T06:05:55.022Z"
+    "fetchedAt": "2026-05-29T13:18:08.311Z"
   },
   "TT": {
     "source": "legacy",
     "ext": "png",
     "url": "https://storage.googleapis.com/iex/api/logos/TT.png",
     "bytes": 2095,
-    "fetchedAt": "2026-05-29T06:05:56.113Z"
+    "fetchedAt": "2026-05-29T13:18:09.819Z"
   },
   "CB": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cerebras_logo.svg",
     "bytes": 8009,
-    "fetchedAt": "2026-05-29T06:05:49.703Z"
+    "fetchedAt": "2026-05-29T13:18:02.004Z"
   },
   "GQ": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Groq_logo.svg",
     "bytes": 2754,
-    "fetchedAt": "2026-05-29T06:05:51.323Z"
+    "fetchedAt": "2026-05-29T13:18:03.867Z"
   }
 }
