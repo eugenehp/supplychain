@@ -1,6 +1,5 @@
 <script>
   import FilingViewerHost from './FilingViewerHost.svelte';
-  import CompanyLogo from './CompanyLogo.svelte';
   import VendorSelect from './VendorSelect.svelte';
   import SuggestionChips from './SuggestionChips.svelte';
   import LoadingSpinner from './LoadingSpinner.svelte';
@@ -14,7 +13,6 @@
   import { Label } from '$lib/components/ui/label/index.js';
   import { Button } from '$lib/components/ui/button/index.js';
   import { Badge } from '$lib/components/ui/badge/index.js';
-  import * as Card from '$lib/components/ui/card/index.js';
   import { Skeleton } from '$lib/components/ui/skeleton/index.js';
   import { cn } from '$lib/utils.js';
 
@@ -382,36 +380,6 @@
   </div>
 
   <div class="ui-card-scroll space-y-4 pr-1">
-      <div class="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-[var(--stack-gap)]">
-        {#each secFilings as filing}
-          <Card.Root class="flex h-full flex-col">
-            <Card.Header class="flex flex-row items-center gap-3 space-y-0 pb-2">
-              <CompanyLogo ticker={filing.ticker} size={32} {filing} />
-              <div class="min-w-0">
-                <Card.Title class="text-primary text-base">{filing.ticker}</Card.Title>
-                <Card.Description class="truncate">{filing.name}</Card.Description>
-              </div>
-            </Card.Header>
-            <Card.Content class="flex flex-1 flex-col gap-3 pt-0">
-              {#if filing.filing}
-                <p class="text-muted-foreground text-xs">
-                  {filing.filing.form} · {filing.filing.filingDate}
-                  {#if filing.evidenceCount != null}· {filing.evidenceCount} excerpts{/if}
-                </p>
-              {/if}
-              <div class="mt-auto flex items-center gap-3">
-                <Button size="sm" onclick={() => openFiling(filing.ticker)} onmouseenter={() => prefetchFiling(filing.ticker)}>Open in report</Button>
-                {#if filing.filingUrl}
-                  <a href={filing.filingUrl} target="_blank" rel="noreferrer" class="text-muted-foreground text-xs hover:underline">
-                    EDGAR
-                  </a>
-                {/if}
-              </div>
-            </Card.Content>
-          </Card.Root>
-        {/each}
-      </div>
-
       <h3 class="text-muted-foreground flex flex-wrap items-center gap-2 text-xs font-semibold tracking-wide uppercase">
         Supply-chain excerpts ({filteredEvidence.length})
         {#if searchActive}

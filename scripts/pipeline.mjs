@@ -16,6 +16,7 @@ import { exportAllFilingsToStatic, ensureStaticAssets } from './lib/export-stati
 import { exportStaticRag } from './lib/export-static-rag.mjs';
 import { resolveLogoUrls } from './lib/company-logos.mjs';
 import { buildTopicPipeline, writeTopicOutputs, writeTopicsIndex } from './lib/build-sankey.mjs';
+import { writeSimilarityIndex } from './lib/build-similarity-index.mjs';
 import { buildGraphFromPipeline } from './lib/graph-builder.mjs';
 import { TOPIC_MODULES } from './lib/topics/registry.mjs';
 import { queryRag } from './lib/rag-query.mjs';
@@ -124,6 +125,7 @@ async function stageTopics(processed, staticFilings) {
   }
 
   writeTopicsIndex(datasets);
+  writeSimilarityIndex(datasets);
   return { datasets, validations };
 }
 

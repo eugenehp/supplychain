@@ -1,16 +1,61 @@
 /** Client-side research topic registry — synced from data/topics/index.json by pipeline. */
 import topicsIndex from '../../data/topics/index.json';
 
-/** Eager-load all topic supply-chain datasets */
-const dataModules = import.meta.glob('../../data/topics/*/supply-chain.json', { eager: true });
+/** Lazy loaders — one async chunk per topic (not bundled upfront). */
+const dataLoaders = import.meta.glob('../../data/topics/*/supply-chain.json');
 
-/** @param {string} topicId */
-export function getTopicData(topicId) {
-  const mod = dataModules[`../../data/topics/${topicId}/supply-chain.json`];
-  return mod?.default ?? mod ?? null;
-}
+/** @type {Map<string, object>} */
+const dataCache = new Map();
+/** @type {Map<string, Promise<object | null>>} */
+const inflight = new Map();
 
 export const TOPICS = topicsIndex.topics ?? [];
+
+/** @param {string} topicId */
+function loaderPath(topicId) {
+  return `../../data/topics/${topicId}/supply-chain.json`;
+}
+
+/** @param {string} topicId @returns {Promise<object | null>} */
+export async function loadTopicData(topicId) {
+  if (dataCache.has(topicId)) return dataCache.get(topicId) ?? null;
+
+  const existing = inflight.get(topicId);
+  if (existing) return existing;
+
+  const loader = dataLoaders[loaderPath(topicId)];
+  if (!loader) return null;
+
+  const promise = loader()
+    .then((mod) => {
+      const data = mod?.default ?? mod ?? null;
+      if (data) dataCache.set(topicId, data);
+      inflight.delete(topicId);
+      return data;
+    })
+    .catch(() => {
+      inflight.delete(topicId);
+      return null;
+    });
+
+  inflight.set(topicId, promise);
+  return promise;
+}
+
+/** Warm the cache for a topic (e.g. selector hover). */
+export function prefetchTopicData(topicId) {
+  void loadTopicData(topicId);
+}
+
+/** Sync read — only returns data already in cache. */
+export function getTopicData(topicId) {
+  return dataCache.get(topicId) ?? null;
+}
+
+/** @param {string[]} topicIds */
+export async function loadTopicDataBatch(topicIds) {
+  await Promise.all(topicIds.map((id) => loadTopicData(id)));
+}
 
 export function getTopicMeta(topicId) {
   return TOPICS.find((t) => t.id === topicId);

@@ -1,7 +1,7 @@
 <script>
   import CompanyLogo from './CompanyLogo.svelte';
   import LoadingSpinner from './LoadingSpinner.svelte';
-  import { buildSectionDisplay, applyHighlightToBlocks, resolveHighlightRange } from './filing-format.js';
+  import { buildSectionDisplay, applyHighlightToBlocks, resolveHighlightRange, documentOffsetForRagChunk, findSectionForRag } from './filing-format.js';
   import { brandFor } from './company-brands.js';
   import { loadFilingProgressive, peekFilingBundle } from './filing-cache.js';
   import * as Dialog from '$lib/components/ui/dialog/index.js';
@@ -9,7 +9,7 @@
   import { Alert, AlertDescription } from '$lib/components/ui/alert/index.js';
   import ChevronLeftIcon from '@lucide/svelte/icons/chevron-left';
   import ChevronRightIcon from '@lucide/svelte/icons/chevron-right';
-  import { untrack } from 'svelte';
+  import { untrack, tick } from 'svelte';
   import { cn } from '$lib/utils.js';
 
   /** @type {{
@@ -47,6 +47,7 @@
   /** Non-reactive guards — must not be $state or effects loop on read/write. */
   let lastAppliedHighlightKey = '';
   let lastLoadedTicker = '';
+  let scrollAfterHighlight = $state(false);
 
   const EVIDENCE_SIDEBAR_LIMIT = 48;
   const BLOCKS_PAGE = 80;
@@ -77,23 +78,37 @@
     return null;
   });
 
+  const effectiveHighlightRange = $derived.by(() => {
+    if (!activeHighlight.excerpt && activeHighlight.offset == null) return null;
+    if (highlightRange) return highlightRange;
+    if (!text || !activeHighlight.excerpt) return null;
+    return resolveHighlightRange(text, {
+      offset: activeHighlight.offset,
+      excerpt: activeHighlight.excerpt,
+      vendor: activeHighlight.vendor,
+    });
+  });
+
   const activeSectionIndex = $derived(sections.findIndex((s) => s.id === activeSectionId));
 
   const activeSectionView = $derived.by(() => {
     if (!sections.length) return null;
+
+    const range = effectiveHighlightRange;
+    const sectionFromHighlight =
+      range && sections.find((s) => range.start >= s.charStart && range.start < s.charEnd);
+
     const section =
+      sectionFromHighlight ??
       sections.find((s) => s.id === activeSectionId) ??
-      sections.find(
-        (s) => highlightRange && highlightRange.start >= s.charStart && highlightRange.start < s.charEnd,
-      ) ??
       sections[0];
     if (!section) return null;
 
     const precomputed = display?.sectionBlocks?.[section.id]?.blocks;
-    const blocks = precomputed
-      ? applyHighlightToBlocks(precomputed, highlightRange, activeHighlight)
-      : text
-        ? buildSectionDisplay(section, text, highlightRange)
+    const blocks = text
+      ? buildSectionDisplay(section, text, range)
+      : precomputed
+        ? applyHighlightToBlocks(precomputed, range, activeHighlight)
         : [];
 
     return { ...section, blocks };
@@ -123,19 +138,41 @@
     return `${highlightOffset ?? ''}|${highlightExcerpt ?? ''}|${highlightVendor ?? ''}|${highlightSectionId ?? ''}`;
   }
 
+  function needsHighlightTarget() {
+    return Boolean(highlightExcerpt || highlightOffset != null || highlightVendor);
+  }
+
+  function bundleReady(bundle) {
+    return Boolean(bundle?.display?.sectionBlocks || bundle?.text);
+  }
+
   function resetBlocksLimit() {
     blocksLimit = BLOCKS_PAGE;
   }
 
-  function scrollToHighlight() {
-    requestAnimationFrame(() => {
-      requestAnimationFrame(() => {
-        contentEl?.querySelector('mark.evidence-highlight')?.scrollIntoView({
-          behavior: 'instant',
-          block: 'center',
-        });
-      });
-    });
+  function ensureBlocksIncludeHighlight(blocks) {
+    const idx = blocks.findIndex((b) => b.hasHighlight || b.parts?.some((p) => p.type === 'mark'));
+    if (idx >= 0 && idx >= blocksLimit) {
+      blocksLimit = Math.ceil((idx + 1) / BLOCKS_PAGE) * BLOCKS_PAGE;
+    }
+  }
+
+  function scheduleScrollToHighlight() {
+    scrollAfterHighlight = true;
+  }
+
+  async function scrollToHighlight() {
+    await tick();
+    for (let attempt = 0; attempt < 12; attempt++) {
+      const mark = contentEl?.querySelector('mark.evidence-highlight');
+      if (mark) {
+        mark.scrollIntoView({ behavior: 'instant', block: 'center' });
+        scrollAfterHighlight = false;
+        return;
+      }
+      await new Promise((resolve) => requestAnimationFrame(resolve));
+    }
+    scrollAfterHighlight = false;
   }
 
   function resolveHighlightFromEntry(entry) {
@@ -148,7 +185,7 @@
     });
   }
 
-  function resolvePropsHighlightRange(propsHighlight) {
+  function resolvePropsHighlightRange(propsHighlight, sectionId = highlightSectionId) {
     const fromEvidence = evidence.find(
       (e) =>
         e.excerpt === propsHighlight.excerpt &&
@@ -157,7 +194,8 @@
     if (fromEvidence?.range) return fromEvidence.range;
 
     if (!text) return null;
-    const resolvedOffset = resolveOffsetFromSection(sections, highlightSectionId, propsHighlight.offset);
+    const resolvedSectionId = resolveSectionIdFromRag(sections, sectionId, propsHighlight.offset);
+    const resolvedOffset = resolveOffsetFromSection(sections, resolvedSectionId, propsHighlight.offset);
     return resolveHighlightRange(text, { ...propsHighlight, offset: resolvedOffset });
   }
 
@@ -166,12 +204,13 @@
     if (!text && !hasDisplay) return;
 
     const propsHighlight = highlightFromProps();
-    const resolvedOffset = resolveOffsetFromSection(sections, highlightSectionId, propsHighlight.offset);
+    const resolvedSectionId = resolveSectionIdFromRag(sections, highlightSectionId, propsHighlight.offset);
+    const resolvedOffset = resolveOffsetFromSection(sections, resolvedSectionId, propsHighlight.offset);
     setActiveHighlight({ ...propsHighlight, offset: resolvedOffset });
 
-    const range = resolvePropsHighlightRange({ ...propsHighlight, offset: resolvedOffset });
+    const range = resolvePropsHighlightRange({ ...propsHighlight, offset: resolvedOffset }, resolvedSectionId);
     const nextSectionId =
-      (highlightSectionId && sections.find((s) => s.id === highlightSectionId)?.id) ??
+      (resolvedSectionId && sections.find((s) => s.id === resolvedSectionId)?.id) ??
       (range ? sections.find((s) => range.start >= s.charStart && range.start < s.charEnd)?.id : null) ??
       null;
 
@@ -181,7 +220,7 @@
     }
 
     lastAppliedHighlightKey = propsHighlightKey();
-    if (shouldScroll) scrollToHighlight();
+    if (shouldScroll) scheduleScrollToHighlight();
   }
 
   function highlightFromProps() {
@@ -197,9 +236,18 @@
   }
 
   function resolveOffsetFromSection(sectionList, sectionId, offset) {
-    if (offset != null) return offset;
-    if (!sectionId || !sectionList?.length) return null;
-    return sectionList.find((s) => s.id === sectionId)?.charStart ?? null;
+    return documentOffsetForRagChunk(sectionList, sectionId, offset);
+  }
+
+  function resolveSectionIdFromRag(sectionList, sectionId, offset) {
+    const matched = findSectionForRag(sectionList, sectionId);
+    if (matched) return matched.id;
+    if (offset == null || !sectionList?.length) return sectionId;
+
+    const absolute = documentOffsetForRagChunk(sectionList, sectionId, offset);
+    if (absolute == null) return sectionId;
+    const byRange = sectionList.find((s) => absolute >= s.charStart && absolute < s.charEnd);
+    return byRange?.id ?? sectionId;
   }
 
   function setActiveHighlight(next) {
@@ -228,7 +276,8 @@
   }
 
   function applyDisplayShell(propsHighlight, sectionId, { scroll = false } = {}) {
-    const resolvedOffset = resolveOffsetFromSection(sections, sectionId, propsHighlight.offset);
+    const resolvedSectionId = resolveSectionIdFromRag(sections, sectionId, propsHighlight.offset);
+    const resolvedOffset = resolveOffsetFromSection(sections, resolvedSectionId, propsHighlight.offset);
     const withOffset = { ...propsHighlight, offset: resolvedOffset };
 
     if (withOffset.excerpt || withOffset.offset != null) {
@@ -244,9 +293,9 @@
       setActiveHighlight(withOffset);
     }
 
-    const range = resolvePropsHighlightRange(withOffset);
+    const range = resolvePropsHighlightRange(withOffset, resolvedSectionId);
     const nextSectionId =
-      (sectionId && sections.find((s) => s.id === sectionId)?.id) ??
+      (resolvedSectionId && sections.find((s) => s.id === resolvedSectionId)?.id) ??
       (range ? sections.find((s) => range.start >= s.charStart && range.start < s.charEnd)?.id : null) ??
       sections[0]?.id ??
       null;
@@ -257,13 +306,14 @@
     }
 
     lastAppliedHighlightKey = propsHighlightKey();
-    if (scroll) scrollToHighlight();
+    if (scroll) scheduleScrollToHighlight();
   }
 
   function applyText(filingText, propsHighlight, sectionId, { scroll = false } = {}) {
     text = filingText;
 
-    const resolvedOffset = resolveOffsetFromSection(sections, sectionId, propsHighlight.offset);
+    const resolvedSectionId = resolveSectionIdFromRag(sections, sectionId, propsHighlight.offset);
+    const resolvedOffset = resolveOffsetFromSection(sections, resolvedSectionId, propsHighlight.offset);
     const withOffset = { ...propsHighlight, offset: resolvedOffset };
 
     if (withOffset.excerpt || withOffset.offset != null) {
@@ -281,7 +331,7 @@
 
     const range = resolveHighlightRange(text, withOffset);
     const nextSectionId =
-      (sectionId && sections.find((s) => s.id === sectionId)?.id) ??
+      (resolvedSectionId && sections.find((s) => s.id === resolvedSectionId)?.id) ??
       (range ? sections.find((s) => range.start >= s.charStart && range.start < s.charEnd)?.id : null) ??
       sections[0]?.id ??
       null;
@@ -292,15 +342,16 @@
     }
 
     lastAppliedHighlightKey = propsHighlightKey();
-    if (scroll) scrollToHighlight();
+    if (scroll) scheduleScrollToHighlight();
   }
 
   async function ensureFilingLoaded(t) {
     const generation = ++loadGeneration;
     error = '';
+    const wantsText = needsHighlightTarget();
 
     const cached = peekFilingBundle(t);
-    if (cached && (cached.text || cached.display?.sectionBlocks)) {
+    if (cached && bundleReady(cached) && (!wantsText || cached.text)) {
       loadingShell = false;
       loadingText = false;
       applyShell(cached, highlightFromProps(), highlightSectionId, { scroll: true });
@@ -309,16 +360,17 @@
     }
 
     loadingShell = true;
-    loadingText = !cached?.text && !cached?.display?.sectionBlocks;
+    loadingText = wantsText || !cached?.text;
 
     try {
       const propsHighlight = highlightFromProps();
-      if (cached) {
+      if (cached && !wantsText) {
         applyShell(cached, propsHighlight, highlightSectionId);
         loadingShell = false;
       }
 
       const bundle = await loadFilingProgressive(t, {
+        requireText: wantsText,
         onText: (filingText) => {
           if (generation !== loadGeneration || !open || ticker !== t) return;
           applyText(filingText, highlightFromProps(), highlightSectionId, { scroll: true });
@@ -389,6 +441,7 @@
       loadGeneration += 1;
       lastAppliedHighlightKey = '';
       lastLoadedTicker = '';
+      scrollAfterHighlight = false;
       onclose?.();
     }
   }
@@ -423,8 +476,31 @@
         resetBlocksLimit();
       }
     }
-    scrollToHighlight();
+    scheduleScrollToHighlight();
   }
+
+  $effect(() => {
+    if (!open || !scrollAfterHighlight) return;
+    const blocks = activeSectionView?.blocks ?? [];
+    const section = activeSectionView;
+    if (!blocks.length || !section) return;
+
+    if (
+      section.id !== activeSectionId &&
+      blocks.some((b) => b.hasHighlight || b.parts?.some((p) => p.type === 'mark'))
+    ) {
+      untrack(() => {
+        activeSectionId = section.id;
+      });
+    }
+
+    ensureBlocksIncludeHighlight(blocks);
+    if (!blocks.some((b) => b.hasHighlight || b.parts?.some((p) => p.type === 'mark'))) return;
+
+    untrack(() => {
+      void scrollToHighlight();
+    });
+  });
 </script>
 
 <Dialog.Root bind:open onOpenChange={handleOpenChange}>
@@ -562,10 +638,14 @@
               </div>
             {:else if activeSectionView}
               {@const section = activeSectionView}
+              {@const hasInlineHighlight = visibleBlocks.some(
+                (b) => b.hasHighlight || b.parts?.some((p) => p.type === 'mark'),
+              )}
               {@const hasHighlight =
-                highlightRange &&
-                highlightRange.start >= section.charStart &&
-                highlightRange.start < section.charEnd}
+                hasInlineHighlight ||
+                (effectiveHighlightRange &&
+                  effectiveHighlightRange.start >= section.charStart &&
+                  effectiveHighlightRange.start < section.charEnd)}
               <article class="document mx-auto max-w-[820px] px-6 py-6 pb-12 md:px-8">
                 <div class="mb-8 flex items-center gap-4 border-b-2 pb-6">
                   <CompanyLogo ticker={ticker} size={56} filing={meta} />
@@ -579,17 +659,6 @@
                     </p>
                   </div>
                 </div>
-
-                {#if highlightRange && activeHighlight.excerpt}
-                  <aside class="highlight-banner mb-6 rounded-lg border p-4">
-                    <span class="text-primary mb-1 block text-xs font-semibold tracking-wide uppercase">
-                      Highlighted passage
-                    </span>
-                    <p class="text-muted-foreground m-0 text-sm leading-relaxed italic">
-                      {activeHighlight.excerpt.replace(/^…|…$/g, '')}
-                    </p>
-                  </aside>
-                {/if}
 
                 <section
                   id="section-{section.id}"
@@ -649,11 +718,6 @@
 
   :global(.filing-dialog) {
     animation-duration: 0ms !important;
-  }
-
-  .highlight-banner {
-    background: rgba(118, 185, 0, 0.12);
-    border-color: rgba(118, 185, 0, 0.45);
   }
 
   .section-header {

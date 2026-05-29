@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T05:38:10.767Z",
+  "generatedAt": "2026-05-29T06:06:20.506Z",
   "chunkCount": 9392,
   "vendorCount": 5544,
   "tickers": [
@@ -24,6 +24,27 @@
   ],
   "embeddingModel": null,
   "embeddingsReady": false,
+  "sharded": true,
+  "shardUrls": {
+    "AMAT": "/rag/shards/AMAT.json",
+    "AMD": "/rag/shards/AMD.json",
+    "AMKR": "/rag/shards/AMKR.json",
+    "AMZN": "/rag/shards/AMZN.json",
+    "ASML": "/rag/shards/ASML.json",
+    "BIDU": "/rag/shards/BIDU.json",
+    "CDNS": "/rag/shards/CDNS.json",
+    "GFS": "/rag/shards/GFS.json",
+    "GOOGL": "/rag/shards/GOOGL.json",
+    "INTC": "/rag/shards/INTC.json",
+    "KLAC": "/rag/shards/KLAC.json",
+    "LRCX": "/rag/shards/LRCX.json",
+    "META": "/rag/shards/META.json",
+    "MSFT": "/rag/shards/MSFT.json",
+    "MU": "/rag/shards/MU.json",
+    "NVDA": "/rag/shards/NVDA.json",
+    "SNPS": "/rag/shards/SNPS.json",
+    "TSM": "/rag/shards/TSM.json"
+  },
   "chunksUrl": "/rag/chunks.json",
   "vendorsUrl": "/rag/vendors.json",
   "glossaryUrl": "/rag/glossary.json"

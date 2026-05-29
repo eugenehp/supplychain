@@ -17,4 +17,20 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['@xenova/transformers'],
   },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks(id) {
+          if (id.includes('node_modules/@xenova/transformers')) return 'transformers';
+          if (id.includes('node_modules/d3-')) return 'd3';
+          if (id.includes('node_modules/jspdf')) return 'pdf';
+          if (id.includes('/SankeyChart.svelte')) return 'chart-sankey';
+          if (id.includes('/SupplyMapChart.svelte')) return 'chart-map';
+          if (id.includes('/PackChart.svelte')) return 'chart-pack';
+          if (id.includes('/RadialTreeChart.svelte')) return 'chart-radial';
+          if (id.includes('/workers/rag.worker')) return 'rag-worker';
+        },
+      },
+    },
+  },
 })

@@ -107,6 +107,49 @@ export function resolveHighlightRange(text, { offset, excerpt, vendor } = {}) {
   return null;
 }
 
+/** Match RAG pipeline section ids to static filing section metadata. */
+export function findSectionForRag(sectionList, sectionId) {
+  if (!sectionId || !sectionList?.length) return null;
+
+  const exact = sectionList.find((s) => s.id === sectionId);
+  if (exact) return exact;
+
+  const itemMatch = sectionId.match(/^(item_\d+[a-z]?)/i);
+  if (itemMatch) {
+    const itemId = itemMatch[1].toLowerCase();
+    const byItem = sectionList.find((s) => s.id === itemId);
+    if (byItem) return byItem;
+  }
+
+  return (
+    sectionList.find((s) => sectionId.startsWith(`${s.id}_`) || sectionId.startsWith(s.id)) ?? null
+  );
+}
+
+/**
+ * RAG chunks store charStart relative to section text; filings use document-absolute offsets.
+ * @param {object[]} sectionList
+ * @param {string | null | undefined} sectionId
+ * @param {number | null | undefined} offset
+ */
+export function documentOffsetForRagChunk(sectionList, sectionId, offset) {
+  if (offset == null) {
+    return findSectionForRag(sectionList, sectionId)?.charStart ?? null;
+  }
+  if (!sectionList?.length) return offset;
+
+  const section = findSectionForRag(sectionList, sectionId);
+  if (!section) return offset;
+
+  const docStart = section.charStart ?? 0;
+  const sectionLen = Math.max(0, (section.charEnd ?? docStart) - docStart);
+
+  if (offset >= 0 && offset <= sectionLen && offset < docStart) {
+    return docStart + offset;
+  }
+  return offset;
+}
+
 function stripSectionHeader(body, header) {
   let stripped = body;
   let adjustment = 0;
@@ -163,20 +206,43 @@ function splitRawParagraphs(body) {
   return ranges;
 }
 
+function markExcerptInDisplay(display, excerpt) {
+  const core = cleanExcerpt(excerpt);
+  if (!core || !display) return null;
+
+  const probes = uniqueNonEmpty([
+    core,
+    core.length > 140 ? core.slice(30, 130) : null,
+    core.length > 80 ? core.slice(0, 80) : null,
+    core.length > 48 ? core.slice(0, 48) : null,
+  ]);
+
+  for (const probe of probes) {
+    const idx = display.toLowerCase().indexOf(probe.toLowerCase());
+    if (idx >= 0) {
+      const markLen = Math.min(core.length, display.length - idx);
+      return display.slice(idx, idx + Math.max(probe.length, Math.min(markLen, probe.length + 20)));
+    }
+  }
+  return null;
+}
+
 function partsForRange(display, hlDisplay) {
   if (!hlDisplay) return [{ type: 'text', text: display }];
-  const idx = display.toLowerCase().indexOf(hlDisplay.toLowerCase());
+  const normalized = display.replace(/\s+/g, ' ').trim();
+  const needle = hlDisplay.replace(/\s+/g, ' ').trim();
+  const idx = normalized.toLowerCase().indexOf(needle.toLowerCase());
   if (idx >= 0) {
     return [
       { type: 'text', text: display.slice(0, idx) },
-      { type: 'mark', text: display.slice(idx, idx + hlDisplay.length) },
-      { type: 'text', text: display.slice(idx + hlDisplay.length) },
+      { type: 'mark', text: display.slice(idx, idx + needle.length) },
+      { type: 'text', text: display.slice(idx + needle.length) },
     ];
   }
-  const anchor = hlDisplay.length > 50 ? hlDisplay.slice(15, 55) : hlDisplay.slice(0, 30);
-  const idx2 = display.toLowerCase().indexOf(anchor.toLowerCase());
+  const anchor = needle.length > 50 ? needle.slice(15, 55) : needle.slice(0, 30);
+  const idx2 = normalized.toLowerCase().indexOf(anchor.toLowerCase());
   if (idx2 >= 0) {
-    const markEnd = Math.min(display.length, idx2 + hlDisplay.length);
+    const markEnd = Math.min(display.length, idx2 + needle.length);
     return [
       { type: 'text', text: display.slice(0, idx2) },
       { type: 'mark', text: display.slice(idx2, markEnd) },
@@ -286,6 +352,10 @@ export function applyHighlightToBlocks(blocks, highlightRange, meta = {}) {
   const hlCore = meta.excerpt ? cleanExcerpt(meta.excerpt) : null;
   const vendorNeedle = meta.vendor?.split(',')[0]?.trim() ?? null;
 
+  function excerptInBlock(blockText) {
+    return markExcerptInDisplay(blockText, hlCore);
+  }
+
   return blocks.map((block) => {
     if (block.type === 'subheader') {
       return { type: 'subheader', text: block.text, parts: null, hasHighlight: false };
@@ -295,20 +365,24 @@ export function applyHighlightToBlocks(blocks, highlightRange, meta = {}) {
     if (highlightRange && block.gStart != null && block.gEnd != null) {
       const overlaps = highlightRange.end > block.gStart && highlightRange.start < block.gEnd;
       if (overlaps) {
-        if (hlCore) {
-          const probe =
-            hlCore.length > 80 ? hlCore.slice(Math.floor(hlCore.length * 0.15), Math.floor(hlCore.length * 0.65)) : hlCore;
-          const idx = block.text.toLowerCase().indexOf(probe.toLowerCase());
-          if (idx >= 0) {
-            hlDisplay = block.text.slice(idx, Math.min(block.text.length, idx + hlCore.length));
-          }
-        }
+        hlDisplay = excerptInBlock(block.text);
         if (!hlDisplay && vendorNeedle) {
           const idx = block.text.toLowerCase().indexOf(vendorNeedle.toLowerCase());
           if (idx >= 0) {
             hlDisplay = block.text.slice(idx, Math.min(block.text.length, idx + vendorNeedle.length + 80));
           }
         }
+      }
+    }
+
+    if (!hlDisplay && hlCore) {
+      hlDisplay = excerptInBlock(block.text);
+    }
+
+    if (!hlDisplay && vendorNeedle) {
+      const idx = block.text.toLowerCase().indexOf(vendorNeedle.toLowerCase());
+      if (idx >= 0) {
+        hlDisplay = block.text.slice(idx, Math.min(block.text.length, idx + vendorNeedle.length + 80));
       }
     }
 

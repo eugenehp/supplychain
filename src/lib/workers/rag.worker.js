@@ -6,6 +6,7 @@ import { Bm25Index, tokenize, rankEvidenceByBm25 } from '../bm25.js';
 import { loadEmbeddingIndex, rankEvidenceByEmbedding, mergeHybridResults } from '../embeddings.js';
 import { rankByExactMatch } from '../exact-match.js';
 import { hybridSearch } from '../hybrid-search.js';
+import { fetchRagChunkEntries } from '../rag-chunks-loader.js';
 
 /** @type {import('@xenova/transformers').Pipeline | null} */
 let embedPipeline = null;
@@ -56,21 +57,21 @@ function buildChunkBm25Index(chunks) {
 }
 
 async function loadIndex() {
-  const [manifestRes, chunksRes, vendorsRes] = await Promise.all([
+  const [manifestRes, vendorsRes] = await Promise.all([
     fetch('/rag/manifest.json'),
-    fetch('/rag/chunks.json'),
     fetch('/rag/vendors.json'),
   ]);
 
-  if (!manifestRes.ok || !chunksRes.ok) {
+  if (!manifestRes.ok) {
     throw new Error('RAG static index missing — run `npm run pipeline`');
   }
 
   const manifest = await manifestRes.json();
-  const chunksData = await chunksRes.json();
+  const chunks = await fetchRagChunkEntries(manifest);
   const vendorsData = vendorsRes.ok ? await vendorsRes.json() : { vendors: [] };
-  const chunks = chunksData.entries ?? [];
-  const embeddingIndex = chunks[0]?.q ? loadEmbeddingIndex(chunksData) : { map: new Map(), count: 0 };
+  const embeddingIndex = chunks[0]?.q
+    ? loadEmbeddingIndex({ entries: chunks })
+    : { map: new Map(), count: 0 };
 
   indexState = {
     manifest,

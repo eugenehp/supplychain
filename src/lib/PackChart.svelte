@@ -21,6 +21,7 @@
   import ChartTooltip from './ChartTooltip.svelte';
   import { pointerViewport } from './chart-tooltip.js';
   import { getResolvedTheme, subscribeTheme } from './theme.js';
+  import { debounce, prefersReducedMotion } from './performance.js';
 
   /** @type {{ data: object, maxTier?: number, secFilings?: object[], highlightCountry?: string | null }} */
   let { data, maxTier = 5, secFilings = [], highlightCountry = null } = $props();
@@ -46,8 +47,9 @@
   let layoutById = new Map();
   let hoveredId = null;
   let resolvedTheme = $state(getResolvedTheme());
+  const reduceMotion = prefersReducedMotion();
 
-  const anim = () => transition().duration(500).ease(easeCubicInOut);
+  const anim = () => transition().duration(reduceMotion ? 0 : 500).ease(easeCubicInOut);
 
   function nodeMatchesCountry(d) {
     if (!highlightCountry || d.data.isTierGroup || d.data.isRoot) return true;
@@ -559,6 +561,19 @@
     gLabels?.selectAll('g.pack-label').transition(t).attr('opacity', labelOpacity);
   }
 
+  function refreshLogosOnly() {
+    if (!gCircles) return;
+    gCircles.selectAll('g.pack-node').each(function (d) {
+      if (d.data.isTierGroup) return;
+      const content = select(this).select('g.pack-content');
+      const badge = content.select('g.pack-badge');
+      if (badge.empty()) return;
+      const logoSz = packLogoSize(d);
+      const layout = packContentLayout(d, logoSz);
+      renderPackBadge(badge, d, filingMap, logoSz, layout.logoCy);
+    });
+  }
+
   function initSvg() {
     if (!container) return;
     select(container).selectAll('*').remove();
@@ -598,10 +613,11 @@
   onMount(() => {
     initSvg();
     renderChart();
-    const ro = new ResizeObserver(() => {
+    const debouncedRender = debounce(() => {
       hoveredId = null;
       renderChart();
-    });
+    }, 150);
+    const ro = new ResizeObserver(debouncedRender);
     ro.observe(container);
     const unsubTheme = subscribeTheme(() => {
       resolvedTheme = getResolvedTheme();
@@ -617,11 +633,15 @@
     graphLinks;
     secFilings;
     maxTier;
-    resolvedTheme;
     if (container && svgRoot) untrack(() => {
       hoveredId = null;
       renderChart();
     });
+  });
+
+  $effect(() => {
+    resolvedTheme;
+    if (container && svgRoot && gCircles) untrack(() => refreshLogosOnly());
   });
 
   $effect(() => {

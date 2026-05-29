@@ -32,7 +32,21 @@ const BAD_INLINE = /^(the|a|an|and|or|in|of|to|by|for|with|from|loss|income|expe
 function loadCorpusTexts() {
   const texts = [];
   const chunksPath = join(PATHS.staticRag, 'chunks.json');
-  if (existsSync(chunksPath)) {
+  const manifestPath = join(PATHS.staticRag, 'manifest.json');
+  if (existsSync(manifestPath)) {
+    const manifest = JSON.parse(readFileSync(manifestPath, 'utf8'));
+    if (manifest.shardUrls && typeof manifest.shardUrls === 'object') {
+      for (const url of Object.values(manifest.shardUrls)) {
+        const shardPath = join(PATHS.staticRoot, url.replace(/^\//, ''));
+        if (!existsSync(shardPath)) continue;
+        const shard = JSON.parse(readFileSync(shardPath, 'utf8'));
+        for (const c of shard.entries ?? []) texts.push(c.text ?? '');
+      }
+    } else if (existsSync(chunksPath)) {
+      const chunks = JSON.parse(readFileSync(chunksPath, 'utf8'));
+      for (const c of chunks.entries ?? []) texts.push(c.text ?? '');
+    }
+  } else if (existsSync(chunksPath)) {
     const chunks = JSON.parse(readFileSync(chunksPath, 'utf8'));
     for (const c of chunks.entries ?? []) texts.push(c.text ?? '');
   }

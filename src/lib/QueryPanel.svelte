@@ -3,8 +3,9 @@
   import { loadRagIndex, searchChunks, searchVendors, extractVendorsFromChunks } from './rag-client.js';
   import SuggestionChips from './SuggestionChips.svelte';
   import FilingViewerHost from './FilingViewerHost.svelte';
-  import { excerptForHighlight } from './filing-open.js';
+  import { excerptForHighlight, highlightFromRagChunk } from './filing-open.js';
   import { prefetchFiling } from './filing-cache.js';
+  import { preloadFilingViewer } from './filing-viewer-loader.js';
   import LoadingSpinner from './LoadingSpinner.svelte';
   import * as Card from '$lib/components/ui/card/index.js';
   import * as Select from '$lib/components/ui/select/index.js';
@@ -50,11 +51,14 @@
 
   function openFilingFromChunk(chunk) {
     if (!chunk?.ticker) return;
+    const highlight = highlightFromRagChunk(chunk);
     viewerTicker = chunk.ticker;
-    highlightOffset = chunk.charOffset ?? chunk.charStart ?? null;
-    highlightExcerpt = chunk.excerpt ?? excerptForHighlight(chunk.text);
+    highlightOffset = highlight.offset;
+    highlightExcerpt = highlight.excerpt;
     highlightVendor = null;
-    highlightSectionId = chunk.sectionId ?? null;
+    highlightSectionId = highlight.sectionId;
+    void preloadFilingViewer();
+    prefetchFiling(chunk.ticker);
     viewerOpen = true;
   }
 
@@ -77,6 +81,7 @@
   }
 
   onMount(async () => {
+    void preloadFilingViewer();
     try {
       const index = await loadRagIndex();
       stats = {

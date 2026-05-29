@@ -48,3 +48,18 @@ export function runWhenIdle(fn, opts = {}) {
   }
   setTimeout(fn, 1);
 }
+
+/** @param {(...args: unknown[]) => void} fn @param {number} ms */
+export function debounce(fn, ms) {
+  let timer = 0;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn(...args), ms);
+  };
+}
+
+/** @returns {boolean} */
+export function prefersReducedMotion() {
+  if (typeof window === 'undefined' || !window.matchMedia) return false;
+  return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T05:38:10.719Z",
+  "generatedAt": "2026-05-29T06:06:20.459Z",
   "filings": [
     {
       "ticker": "AMAT",
@@ -52,7 +52,7 @@
         }
       },
       "textLength": 291685,
-      "exportedAt": "2026-05-29T05:37:46.427Z",
+      "exportedAt": "2026-05-29T06:05:56.128Z",
       "logoUrl": "/logos/AMAT.svg",
       "logoPrimaryUrl": "/logos/AMAT.svg",
       "logoFallbackUrl": "/logos/AMAT.png",
@@ -112,7 +112,7 @@
         }
       },
       "textLength": 392109,
-      "exportedAt": "2026-05-29T05:37:46.485Z",
+      "exportedAt": "2026-05-29T06:05:56.193Z",
       "logoUrl": "/logos/AMD.svg",
       "logoPrimaryUrl": "/logos/AMD.svg",
       "logoFallbackUrl": "/logos/AMD.png",
@@ -178,7 +178,7 @@
         }
       },
       "textLength": 342542,
-      "exportedAt": "2026-05-29T05:37:46.927Z",
+      "exportedAt": "2026-05-29T06:05:56.641Z",
       "logoUrl": "/logos/AMKR.svg",
       "logoPrimaryUrl": "/logos/AMKR.svg",
       "logoFallbackUrl": "/logos/AMKR.png",
@@ -232,7 +232,7 @@
         }
       },
       "textLength": 283445,
-      "exportedAt": "2026-05-29T05:37:47.523Z",
+      "exportedAt": "2026-05-29T06:05:57.245Z",
       "logoUrl": "/logos/AMZN.svg",
       "logoPrimaryUrl": "/logos/AMZN.svg",
       "logoFallbackUrl": "/logos/AMZN.png",
@@ -292,7 +292,7 @@
         }
       },
       "textLength": 1336690,
-      "exportedAt": "2026-05-29T05:37:47.755Z",
+      "exportedAt": "2026-05-29T06:05:57.478Z",
       "logoUrl": "/logos/ASML.svg",
       "logoPrimaryUrl": "/logos/ASML.svg",
       "logoFallbackUrl": "/logos/ASML.png",
@@ -352,7 +352,7 @@
         }
       },
       "textLength": 1284459,
-      "exportedAt": "2026-05-29T05:38:03.743Z",
+      "exportedAt": "2026-05-29T06:06:13.561Z",
       "logoUrl": "/logos/BIDU.png",
       "logoPrimaryUrl": "/logos/BIDU.png",
       "logoFallbackUrl": "/logos/BIDU.svg",
@@ -400,7 +400,7 @@
         }
       },
       "textLength": 448351,
-      "exportedAt": "2026-05-29T05:38:04.422Z",
+      "exportedAt": "2026-05-29T06:06:14.269Z",
       "logoUrl": "/logos/CDNS.svg",
       "logoPrimaryUrl": "/logos/CDNS.svg",
       "logoFallbackUrl": "/logos/CDNS.png",
@@ -460,7 +460,7 @@
         }
       },
       "textLength": 588724,
-      "exportedAt": "2026-05-29T05:38:04.780Z",
+      "exportedAt": "2026-05-29T06:06:14.633Z",
       "logoUrl": "/logos/GFS.png",
       "logoPrimaryUrl": "/logos/GFS.png",
       "logoFallbackUrl": "/logos/GFS.svg",
@@ -520,7 +520,7 @@
         }
       },
       "textLength": 344455,
-      "exportedAt": "2026-05-29T05:38:05.793Z",
+      "exportedAt": "2026-05-29T06:06:15.644Z",
       "logoUrl": "/logos/GOOGL.svg",
       "logoPrimaryUrl": "/logos/GOOGL.svg",
       "logoFallbackUrl": "/logos/GOOGL.png",
@@ -580,7 +580,7 @@
         }
       },
       "textLength": 516811,
-      "exportedAt": "2026-05-29T05:38:05.935Z",
+      "exportedAt": "2026-05-29T06:06:15.780Z",
       "logoUrl": "/logos/INTC.svg",
       "logoPrimaryUrl": "/logos/INTC.svg",
       "logoFallbackUrl": "/logos/INTC.png",
@@ -646,7 +646,7 @@
         }
       },
       "textLength": 451393,
-      "exportedAt": "2026-05-29T05:38:05.956Z",
+      "exportedAt": "2026-05-29T06:06:15.801Z",
       "logoUrl": "/logos/KLAC.svg",
       "logoPrimaryUrl": "/logos/KLAC.svg",
       "logoFallbackUrl": "/logos/KLAC.png",
@@ -718,7 +718,7 @@
         }
       },
       "textLength": 330553,
-      "exportedAt": "2026-05-29T05:38:06.530Z",
+      "exportedAt": "2026-05-29T06:06:16.364Z",
       "logoUrl": "/logos/LRCX.svg",
       "logoPrimaryUrl": "/logos/LRCX.svg",
       "logoFallbackUrl": "/logos/LRCX.png",
@@ -778,7 +778,7 @@
         }
       },
       "textLength": 516014,
-      "exportedAt": "2026-05-29T05:38:06.895Z",
+      "exportedAt": "2026-05-29T06:06:16.734Z",
       "logoUrl": "/logos/META.svg",
       "logoPrimaryUrl": "/logos/META.svg",
       "logoFallbackUrl": "/logos/META.png",
@@ -850,7 +850,7 @@
         }
       },
       "textLength": 313393,
-      "exportedAt": "2026-05-29T05:38:07.077Z",
+      "exportedAt": "2026-05-29T06:06:16.909Z",
       "logoUrl": "/logos/MSFT.png",
       "logoPrimaryUrl": "/logos/MSFT.png",
       "logoFallbackUrl": "/logos/MSFT.svg",
@@ -916,7 +916,7 @@
         }
       },
       "textLength": 356179,
-      "exportedAt": "2026-05-29T05:38:07.231Z",
+      "exportedAt": "2026-05-29T06:06:17.061Z",
       "logoUrl": "/logos/MU.svg",
       "logoPrimaryUrl": "/logos/MU.svg",
       "logoFallbackUrl": "/logos/MU.png",
@@ -982,7 +982,7 @@
         }
       },
       "textLength": 340242,
-      "exportedAt": "2026-05-29T05:38:08.137Z",
+      "exportedAt": "2026-05-29T06:06:17.949Z",
       "logoUrl": "/logos/NVDA.svg",
       "logoPrimaryUrl": "/logos/NVDA.svg",
       "logoFallbackUrl": "/logos/NVDA.png",
@@ -1048,7 +1048,7 @@
         }
       },
       "textLength": 417623,
-      "exportedAt": "2026-05-29T05:38:08.493Z",
+      "exportedAt": "2026-05-29T06:06:18.295Z",
       "logoUrl": "/logos/SNPS.svg",
       "logoPrimaryUrl": "/logos/SNPS.svg",
       "logoFallbackUrl": "/logos/SNPS.png",
@@ -1108,7 +1108,7 @@
         }
       },
       "textLength": 667613,
-      "exportedAt": "2026-05-29T05:38:08.815Z",
+      "exportedAt": "2026-05-29T06:06:18.610Z",
       "logoUrl": "/logos/TSM.svg",
       "logoPrimaryUrl": "/logos/TSM.svg",
       "logoFallbackUrl": "/logos/TSM.png",

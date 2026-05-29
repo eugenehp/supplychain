@@ -38,23 +38,26 @@ export async function loadFilingBundle(ticker) {
 }
 
 /**
- * Load metadata, sections, evidence, and precomputed display first — filing text only if needed.
+ * Load metadata, sections, evidence, and precomputed display first — filing text when required.
  * @param {string} ticker
- * @param {{ onText?: (text: string) => void }} [opts]
+ * @param {{ onText?: (text: string) => void, requireText?: boolean }} [opts]
  */
 export async function loadFilingProgressive(ticker, opts = {}) {
   if (!ticker) throw new Error('Ticker required');
 
-  const cached = cache.get(ticker);
-  if (cached && shellReady(cached)) return cached;
+  const { requireText = false, onText } = opts;
+  let shell = cache.get(ticker);
+  if (!shell) {
+    shell = await fetchFilingShell(ticker);
+  }
 
-  const shell = cache.get(ticker) ?? (await fetchFilingShell(ticker));
-  if (shellReady(shell)) return shell;
+  const mustLoadText = requireText || !shellReady(shell);
+  if (mustLoadText && !shell.text) {
+    shell.text = await measureAsync(`filing:text:${ticker}`, () => fetchFilingText(ticker));
+    cache.set(ticker, shell);
+    onText?.(shell.text);
+  }
 
-  const text = await measureAsync(`filing:text:${ticker}`, () => fetchFilingText(ticker));
-  shell.text = text;
-  cache.set(ticker, shell);
-  opts.onText?.(text);
   return shell;
 }
 

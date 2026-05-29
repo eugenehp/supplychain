@@ -1,5 +1,5 @@
 <script>
-  import { onMount } from 'svelte';
+  import { preloadFilingViewer } from './filing-viewer-loader.js';
   import { runWhenIdle } from './performance.js';
 
   /** @type {{
@@ -23,16 +23,26 @@
 
   /** @type {typeof import('./FilingViewer.svelte').default | null} */
   let Viewer = $state(null);
+  let loadingViewer = $state(false);
 
   async function ensureViewer() {
     if (Viewer) return Viewer;
-    const mod = await import('./FilingViewer.svelte');
-    Viewer = mod.default;
-    return Viewer;
+    loadingViewer = true;
+    try {
+      const mod = await preloadFilingViewer();
+      Viewer = mod.default;
+      return Viewer;
+    } finally {
+      loadingViewer = false;
+    }
   }
 
-  onMount(() => {
-    runWhenIdle(() => void ensureViewer(), { timeout: 800 });
+  $effect(() => {
+    if (open) void ensureViewer();
+  });
+
+  $effect(() => {
+    runWhenIdle(() => void ensureViewer(), { timeout: 4000 });
   });
 </script>
 
@@ -46,7 +56,7 @@
     {highlightSectionId}
     {onclose}
   />
-{:else if open}
+{:else if open || loadingViewer}
   <div
     class="fixed inset-0 z-50 flex items-center justify-center bg-black/20 p-4"
     role="dialog"

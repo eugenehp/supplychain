@@ -5,15 +5,28 @@
   import ThemeToggle from './lib/ThemeToggle.svelte';
   import SiteLogo from './lib/SiteLogo.svelte';
   import { SITE_AUTHOR, SITE_AUTHOR_LINKEDIN, copyrightYear } from './lib/site.js';
-  import { getTopicData, getTopicMeta, loadTopicId, saveTopicId, installTopicHashSync, topicIdFromHash } from './lib/topics.js';
+  import LoadingSpinner from './lib/LoadingSpinner.svelte';
+  import { loadTopicData, getTopicMeta, loadTopicId, saveTopicId, installTopicHashSync, topicIdFromHash } from './lib/topics.js';
   import { installBrandThemeSync, applyBrandTheme, brandForTopicMeta } from './lib/brand-theme.js';
 
   const year = copyrightYear();
 
   let topicId = $state(loadTopicId());
+  let topicData = $state(/** @type {object | null} */ (null));
+  let topicLoading = $state(true);
 
   const topicMeta = $derived(getTopicMeta(topicId));
-  const topicData = $derived(getTopicData(topicId));
+
+  $effect(() => {
+    const id = topicId;
+    topicLoading = true;
+    loadTopicData(id).then((data) => {
+      if (id === topicId) {
+        topicData = data;
+        topicLoading = false;
+      }
+    });
+  });
 
   $effect(() => {
     if (typeof document === 'undefined') return;
@@ -102,7 +115,18 @@
 </header>
 
 <main class="mx-auto max-w-[1400px] px-[var(--page-gutter)] py-4 pb-[var(--scroll-bottom-offset)] sm:py-6">
-  <TopicView data={topicData} {topicMeta} />
+  {#if topicLoading && !topicData}
+    <div
+      class="text-muted-foreground flex min-h-[40vh] flex-col items-center justify-center gap-3"
+      aria-busy="true"
+      aria-label="Loading research topic"
+    >
+      <LoadingSpinner />
+      <span class="text-sm">Loading supply chain data…</span>
+    </div>
+  {:else}
+    <TopicView data={topicData} {topicMeta} />
+  {/if}
 </main>
 
 <footer

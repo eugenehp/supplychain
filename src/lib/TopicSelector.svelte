@@ -1,5 +1,5 @@
 <script>
-  import { TOPICS, getActiveTopics, getLimitedTopics, loadTopicId, saveTopicId, isBrowsableTopicId } from './topics.js';
+  import { TOPICS, getActiveTopics, getLimitedTopics, loadTopicId, saveTopicId, isBrowsableTopicId, prefetchTopicData } from './topics.js';
   import TopicLogo from './TopicLogo.svelte';
   import * as Select from '$lib/components/ui/select/index.js';
   import { Label } from '$lib/components/ui/label/index.js';
@@ -18,13 +18,18 @@
     saveTopicId(value);
     onchange?.(value);
   }
+
+  function onDropdownOpenChange(open) {
+    if (!open) return;
+    for (const topic of [...active, ...limited]) prefetchTopicData(topic.id);
+  }
 </script>
 
 <div class="flex min-w-0 items-center gap-3">
   <Label for="topic-select-trigger" class="text-muted-foreground shrink-0 text-xs uppercase tracking-wide">
     Research topic
   </Label>
-  <Select.Root type="single" value={topicId} onValueChange={onTopicChange}>
+  <Select.Root type="single" value={topicId} onValueChange={onTopicChange} onOpenChange={onDropdownOpenChange}>
     <Select.Trigger id="topic-select-trigger" class="w-full min-w-[220px]">
       <span class="flex min-w-0 items-center gap-2">
         {#if selectedTopic}

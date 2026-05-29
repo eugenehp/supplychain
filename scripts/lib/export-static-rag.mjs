@@ -73,8 +73,34 @@ export async function exportStaticRag(processed, { skipEmbed = false } = {}) {
     model: skipEmbed ? null : EMBEDDING_MODEL,
     dim: EMBEDDING_DIM,
     count: entries.length,
-    entries,
+    sharded: true,
+    entries: [],
   };
+
+  /** @type {Record<string, string>} */
+  const shardUrls = {};
+  /** @type {Record<string, object[]>} */
+  const byTicker = {};
+  for (const chunk of entries) {
+    const ticker = chunk.ticker ?? 'UNKNOWN';
+    (byTicker[ticker] ??= []).push(chunk);
+  }
+
+  const shardsDir = join(PATHS.staticRag, 'shards');
+  mkdirSync(shardsDir, { recursive: true });
+  for (const [ticker, tickerEntries] of Object.entries(byTicker)) {
+    const shardPath = join(shardsDir, `${ticker}.json`);
+    writeFileSync(
+      shardPath,
+      JSON.stringify({
+        generatedAt: chunksPayload.generatedAt,
+        ticker,
+        count: tickerEntries.length,
+        entries: tickerEntries,
+      }),
+    );
+    shardUrls[ticker] = `/rag/shards/${ticker}.json`;
+  }
 
   writeFileSync(join(PATHS.staticRag, 'chunks.json'), JSON.stringify(chunksPayload));
   writeFileSync(
@@ -89,6 +115,8 @@ export async function exportStaticRag(processed, { skipEmbed = false } = {}) {
     tickers: [...new Set(chunks.map((c) => c.ticker))].sort(),
     embeddingModel: skipEmbed ? null : EMBEDDING_MODEL,
     embeddingsReady: !skipEmbed && chunks.length > 0,
+    sharded: true,
+    shardUrls,
     chunksUrl: '/rag/chunks.json',
     vendorsUrl: '/rag/vendors.json',
     glossaryUrl: '/rag/glossary.json',
@@ -98,6 +126,6 @@ export async function exportStaticRag(processed, { skipEmbed = false } = {}) {
   const glossary = exportRagGlossary();
   console.log(`  Glossary: ${glossary.termCount} abbreviations from RAG corpus → static/rag/glossary.json`);
 
-  console.log(`  Browser RAG index: ${chunks.length} chunks, ${vendors.length} vendors → static/rag/`);
+  console.log(`  Browser RAG index: ${chunks.length} chunks (${Object.keys(shardUrls).length} shards), ${vendors.length} vendors → static/rag/`);
   return manifest;
 }

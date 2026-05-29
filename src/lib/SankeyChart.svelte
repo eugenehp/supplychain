@@ -18,6 +18,7 @@
   import ChartTooltip from './ChartTooltip.svelte';
   import { pointerViewport } from './chart-tooltip.js';
   import { getResolvedTheme, subscribeTheme } from './theme.js';
+  import { debounce, prefersReducedMotion } from './performance.js';
 
   const LINK_LABEL_CAP = 14;
   const PX_PER_NODE = 36;
@@ -47,6 +48,7 @@
   let gNodes;
   let firstDraw = true;
   let resolvedTheme = $state(getResolvedTheme());
+  const reduceMotion = prefersReducedMotion();
 
   const filteredData = $derived(filterSankeyByMaxTier(data, clampSankeyTier(maxTier)));
   const activeTierLabels = $derived(visibleTierLabels(tierLabels, clampSankeyTier(maxTier)));
@@ -59,7 +61,7 @@
   );
 
   const anim = () => {
-    const ms = firstDraw ? 900 : 650;
+    const ms = reduceMotion ? 0 : firstDraw ? 900 : 650;
     return transition().duration(ms).ease(easeCubicInOut);
   };
 
@@ -446,6 +448,12 @@
     tooltip = { ...tooltip, show: false };
   }
 
+  function refreshLogosOnly() {
+    if (!gNodes || !container) return;
+    const width = container.clientWidth || container.getBoundingClientRect().width;
+    gNodes.selectAll('g.node-badge').call((sel) => renderNodeBadge(sel, width, filingMap));
+  }
+
   function initSvg() {
     if (!container) return;
     select(container).selectAll('*').remove();
@@ -463,10 +471,11 @@
   onMount(() => {
     initSvg();
     renderChart();
-    const ro = new ResizeObserver(() => {
+    const debouncedRender = debounce(() => {
       firstDraw = false;
       renderChart();
-    });
+    }, 150);
+    const ro = new ResizeObserver(debouncedRender);
     ro.observe(container);
     const unsubTheme = subscribeTheme(() => {
       resolvedTheme = getResolvedTheme();
@@ -482,8 +491,12 @@
     filteredData;
     chartHeight;
     filingMap;
-    resolvedTheme;
     if (container && svgRoot) untrack(() => renderChart());
+  });
+
+  $effect(() => {
+    resolvedTheme;
+    if (container && svgRoot && gNodes) untrack(() => refreshLogosOnly());
   });
 
   $effect(() => {

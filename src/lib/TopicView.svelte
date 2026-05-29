@@ -1,12 +1,10 @@
 <script>
-  import SankeyChart from './SankeyChart.svelte';
-  import SupplyMapChart from './SupplyMapChart.svelte';
-  import PackChart from './PackChart.svelte';
-  import RadialTreeChart from './RadialTreeChart.svelte';
+  import LazyChart from './LazyChart.svelte';
   import SankeyTierControls from './SankeyTierControls.svelte';
   import LazyInView from './LazyInView.svelte';
   import QueryPanel from './QueryPanel.svelte';
   import FilingEvidencePanel from './FilingEvidencePanel.svelte';
+  import FilingReportsPanel from './FilingReportsPanel.svelte';
   import SourcesPanel from './SourcesPanel.svelte';
   import AbbreviationsPanel from './AbbreviationsPanel.svelte';
   import LimitedTopicsCards from './LimitedTopicsCards.svelte';
@@ -206,21 +204,14 @@
       <div class="flex flex-col gap-[var(--stack-gap)]">
         <SankeyTierControls bind:maxTier={sankeyMaxTier} />
         <div class="chart-export-target w-full min-w-0 overflow-visible rounded-lg" bind:this={chartExportTarget}>
-          {#if chartView === 'sankey'}
-            <SankeyChart
-              data={data}
-              maxTier={sankeyMaxTier}
-              tierLabels={TIER_LABELS}
-              {secFilings}
-              {highlightCountry}
-            />
-          {:else if chartView === 'world'}
-            <SupplyMapChart data={data} maxTier={sankeyMaxTier} {highlightCountry} />
-          {:else if chartView === 'pack'}
-            <PackChart data={data} maxTier={sankeyMaxTier} {secFilings} {highlightCountry} />
-          {:else}
-            <RadialTreeChart data={data} maxTier={sankeyMaxTier} {highlightCountry} />
-          {/if}
+          <LazyChart
+            view={chartView}
+            {data}
+            maxTier={sankeyMaxTier}
+            tierLabels={TIER_LABELS}
+            {secFilings}
+            {highlightCountry}
+          />
         </div>
       </div>
       {#if chartView === 'sankey' || chartView === 'pack' || chartView === 'radial'}
@@ -266,17 +257,33 @@
       id="panels"
       class="ui-section bottom-panels grid grid-cols-1 items-start gap-[var(--section-gap)] lg:grid-cols-[1.65fr_1fr]"
     >
-      <Card.Root id="sec-evidence" class="flex min-w-0 flex-col">
-        <Card.Header class="shrink-0">
-          <Card.Title>SEC filing evidence</Card.Title>
-          <Card.Description>Search excerpts, filter by vendor, and open full filings in-page with highlights.</Card.Description>
-        </Card.Header>
-        <Card.Content class="min-h-0 pt-0">
-          <LazyInView minHeight="18rem">
-            <FilingEvidencePanel secFilings={secFilings} graphEvidence={graph.evidence ?? []} />
-          </LazyInView>
-        </Card.Content>
-      </Card.Root>
+      <div class="flex min-w-0 flex-col gap-[var(--block-gap)]">
+        <Card.Root id="sec-evidence" class="flex min-w-0 flex-col">
+          <Card.Header class="shrink-0">
+            <Card.Title>SEC filing evidence</Card.Title>
+            <Card.Description>Search excerpts, filter by vendor, and open full filings in-page with highlights.</Card.Description>
+          </Card.Header>
+          <Card.Content class="min-h-0 pt-0">
+            <LazyInView minHeight="18rem">
+              <FilingEvidencePanel secFilings={secFilings} graphEvidence={graph.evidence ?? []} />
+            </LazyInView>
+          </Card.Content>
+        </Card.Root>
+
+        <Card.Root id="sec-reports" class="flex min-w-0 flex-col">
+          <Card.Header class="shrink-0">
+            <Card.Title>SEC reports</Card.Title>
+            <Card.Description>
+              Full 10-K / 20-F filings indexed for this topic — open in-page with search highlights or view on EDGAR.
+            </Card.Description>
+          </Card.Header>
+          <Card.Content class="min-h-0 pt-0">
+            <LazyInView minHeight="10rem">
+              <FilingReportsPanel {secFilings} />
+            </LazyInView>
+          </Card.Content>
+        </Card.Root>
+      </div>
 
       <div id="reference" class="flex flex-col gap-[var(--block-gap)]">
         <Card.Root class="shrink-0">

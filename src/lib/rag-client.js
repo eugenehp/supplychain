@@ -5,6 +5,7 @@ import { loadEmbeddingIndex } from './embeddings.js';
 import { hybridSearch } from './hybrid-search.js';
 import { exactHighlightTerms } from './exact-match.js';
 import { excerptForHighlight } from './filing-open.js';
+import { fetchRagChunkEntries } from './rag-chunks-loader.js';
 import {
   isRagWorkerAvailable,
   preloadRagIndex,
@@ -56,21 +57,21 @@ export function highlightSnippet(text, query, radius = 220) {
 }
 
 async function loadRagIndexMainThread() {
-  const [manifestRes, chunksRes, vendorsRes] = await Promise.all([
+  const [manifestRes, vendorsRes] = await Promise.all([
     fetch('/rag/manifest.json'),
-    fetch('/rag/chunks.json'),
     fetch('/rag/vendors.json'),
   ]);
 
-  if (!manifestRes.ok || !chunksRes.ok) {
+  if (!manifestRes.ok) {
     throw new Error('RAG static index missing — run `npm run pipeline`');
   }
 
   const manifest = await manifestRes.json();
-  const chunksData = await chunksRes.json();
+  const chunks = await fetchRagChunkEntries(manifest);
   const vendorsData = vendorsRes.ok ? await vendorsRes.json() : { vendors: [] };
-  const chunks = chunksData.entries ?? [];
-  const embeddingIndex = chunks[0]?.q ? loadEmbeddingIndex(chunksData) : { map: new Map(), count: 0 };
+  const embeddingIndex = chunks[0]?.q
+    ? loadEmbeddingIndex({ entries: chunks })
+    : { map: new Map(), count: 0 };
 
   return {
     manifest,
@@ -86,6 +87,23 @@ async function loadRagIndexMainThread() {
 
 /** @type {Promise<object> | null} */
 let loadPromise = null;
+/** @type {Promise<unknown> | null} */
+let embedWarmPromise = null;
+
+function usesEmbeddings(mode) {
+  return mode === 'semantic' || mode === 'hybrid';
+}
+
+async function ensureEmbeddingsWarm(mode) {
+  if (!usesEmbeddings(mode)) return;
+  if (embedWarmPromise) return embedWarmPromise;
+  if (isRagWorkerAvailable()) {
+    embedWarmPromise = warmEmbeddingModel();
+    return embedWarmPromise;
+  }
+  embedWarmPromise = Promise.resolve();
+  return embedWarmPromise;
+}
 
 export async function loadRagIndex() {
   if (loadPromise) return loadPromise;
@@ -94,7 +112,6 @@ export async function loadRagIndex() {
     if (isRagWorkerAvailable()) {
       try {
         const stats = await preloadRagIndex();
-        void warmEmbeddingModel();
         return {
           manifest: stats.manifest,
           chunks: [],
@@ -122,12 +139,13 @@ export async function searchChunks(query, {
   limit = 12,
 } = {}) {
   const index = await loadRagIndex();
+  await ensureEmbeddingsWarm(mode);
 
   if (index.workerBacked) {
     const ranked = await searchChunksViaWorker(query, { mode, ticker, limit });
     return ranked.map((row) => ({
       ...row,
-      excerpt: excerptForHighlight(row.text),
+      excerpt: row.excerpt ?? excerptForHighlight(row.text, 600),
       snippet: highlightSnippet(row.text, query),
     }));
   }
@@ -156,7 +174,7 @@ export async function searchChunks(query, {
     charStart: row.charStart ?? null,
     charEnd: row.charEnd ?? null,
     charOffset: row.charStart ?? row.charOffset ?? null,
-    excerpt: excerptForHighlight(row.text),
+    excerpt: row.excerpt ?? excerptForHighlight(row.text, 600),
     text: row.text,
     snippet: highlightSnippet(row.text, query),
     hybridScore: row._hybridScore,
@@ -213,11 +231,10 @@ export function extractVendorsFromChunks(chunks) {
     .map(([name, count]) => ({ name, count }));
 }
 
-/** Kick off background index + embedding load as early as possible. */
+/** Kick off background index load (no embedding model until semantic/hybrid search). */
 export function preloadRagInBackground() {
   if (isRagWorkerAvailable()) {
     void preloadRagIndex().catch(() => {});
-    void warmEmbeddingModel();
     return;
   }
   void loadRagIndex().catch(() => {});
