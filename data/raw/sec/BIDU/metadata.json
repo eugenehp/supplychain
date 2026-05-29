@@ -1,0 +1,51 @@
+{
+  "ticker": "BIDU",
+  "cik": "0001329099",
+  "name": "Baidu, Inc.",
+  "scrapedAt": "2026-05-29T04:56:00.994Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 18458000000,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "form": "20-F"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 2922000000,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "form": "20-F"
+    },
+    "CostOfRevenue": {
+      "value": 1035063000,
+      "end": "2012-12-31",
+      "filed": "2013-03-27",
+      "form": "20-F"
+    },
+    "Assets": {
+      "value": 64229000000,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "form": "20-F"
+    },
+    "SalesRevenueNet": {
+      "value": 13034000000,
+      "end": "2017-12-31",
+      "filed": "2018-03-15",
+      "form": "20-F"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 18458000000,
+  "filing": {
+    "form": "20-F",
+    "filingDate": "2026-03-17",
+    "accessionNumber": "0001193125-26-109289",
+    "primaryDocument": "d38065d20f.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526109289/d38065d20f.htm",
+  "htmlLength": 6674808
+}

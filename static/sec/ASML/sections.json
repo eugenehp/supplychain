@@ -1,0 +1,92 @@
+[
+  {
+    "id": "item_3",
+    "item": "3",
+    "title": "Key Information",
+    "header": "Item 3. Key Information",
+    "charStart": 6251,
+    "charEnd": 7011,
+    "length": 760,
+    "type": "item"
+  },
+  {
+    "id": "item_1a",
+    "item": "1A",
+    "title": "Risk Factors",
+    "header": "Item 1A. Risk Factors",
+    "charStart": 15632,
+    "charEnd": 174246,
+    "length": 158614,
+    "type": "item"
+  },
+  {
+    "id": "item_16k",
+    "item": "16K",
+    "title": "Cybersecurity",
+    "header": "Item 16K. Cybersecurity",
+    "charStart": 249445,
+    "charEnd": 306719,
+    "length": 57274,
+    "type": "item"
+  },
+  {
+    "id": "item_15",
+    "item": "15",
+    "title": "Controls and Procedures",
+    "header": "Item 15. Controls and Procedures",
+    "charStart": 358591,
+    "charEnd": 473742,
+    "length": 115151,
+    "type": "item"
+  },
+  {
+    "id": "item_8",
+    "item": "8",
+    "title": "Financial Information",
+    "header": "Item 8. Financial Information",
+    "charStart": 485416,
+    "charEnd": 909306,
+    "length": 423890,
+    "type": "item"
+  },
+  {
+    "id": "item_4",
+    "item": "4",
+    "title": "Information on the Company",
+    "header": "Item 4. Information on the Company",
+    "charStart": 1299249,
+    "charEnd": 1299634,
+    "length": 385,
+    "type": "item"
+  },
+  {
+    "id": "item_5",
+    "item": "5",
+    "title": "Operating and Financial Review and Prospects",
+    "header": "Item 5. Operating and Financial Review and Prospects",
+    "charStart": 1299949,
+    "charEnd": 1300744,
+    "length": 795,
+    "type": "item"
+  },
+  {
+    "id": "item_6",
+    "item": "6",
+    "title": "Directors, Senior Management and Employees",
+    "header": "Item 6. Directors, Senior Management and Employees",
+    "charStart": 1300952,
+    "charEnd": 1302094,
+    "length": 1142,
+    "type": "item"
+  },
+  {
+    "id": "part_iii",
+    "item": "III",
+    "title": "Part III",
+    "header": "Part III",
+    "charStart": 1304582,
+    "charEnd": 1336690,
+    "length": 32108,
+    "type": "part"
+  }
+]

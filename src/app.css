@@ -1,0 +1,334 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --radius: 0.625rem;
+  /* Spacing scale */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --page-gutter: clamp(1rem, 3vw, 2rem);
+  --section-gap: clamp(1.75rem, 4vw, 2.5rem);
+  --block-gap: 1.25rem;
+  --stack-gap: 0.875rem;
+  --card-padding: 1.5rem;
+  --card-padding-sm: 1.25rem;
+  --app-header-height: 4.5rem;
+  --app-footer-height: 3.5rem;
+  --page-nav-height: 2.75rem;
+  --scroll-offset: calc(var(--app-header-height) + var(--page-nav-height) + 0.5rem);
+  --scroll-bottom-offset: calc(var(--app-footer-height) + var(--space-6));
+  --background: oklch(0.985 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: var(--brand-color, oklch(0.45 0.14 130));
+  --primary-foreground: var(--brand-on-color, oklch(0.985 0 0));
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent-ui: oklch(0.97 0 0);
+  --accent-ui-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border-ui: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: #1a1f2e;
+  --card-foreground: oklch(0.985 0 0);
+  --popover: #1a1f2e;
+  --popover-foreground: #e8eaed;
+  --primary: var(--brand-color, oklch(0.72 0.19 130));
+  --primary-foreground: var(--brand-on-color, oklch(0.145 0 0));
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent-ui: oklch(0.269 0 0);
+  --accent-ui-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border-ui: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+}
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent-ui);
+  --color-accent-foreground: var(--accent-ui-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border-ui);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --height-panel-scroll: 28rem;
+  --height-chart-min: 30rem;
+  --height-stat: 5.5rem;
+}
+
+@layer components {
+  .ui-panel-fill {
+    @apply flex h-full min-h-0 flex-col overflow-hidden;
+  }
+
+  .ui-panel-grow {
+    @apply flex min-h-0 flex-1 flex-col;
+  }
+
+  .ui-scroll-fill {
+    @apply min-h-0 flex-1 overflow-y-auto;
+  }
+
+  .ui-scroll-panel {
+    @apply max-h-panel-scroll min-h-0 overflow-y-auto;
+  }
+
+  .ui-card-scroll {
+    @apply min-h-0 overflow-y-auto overscroll-contain;
+    max-height: min(70vh, 44rem);
+    scrollbar-gutter: stable;
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in srgb, var(--muted-foreground) 45%, transparent)
+      color-mix(in srgb, var(--muted) 80%, transparent);
+  }
+
+  .ui-card-scroll::-webkit-scrollbar {
+    width: 11px;
+  }
+
+  .ui-card-scroll::-webkit-scrollbar-track {
+    background: color-mix(in srgb, var(--muted) 75%, transparent);
+    border-radius: 999px;
+  }
+
+  .ui-card-scroll::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--muted-foreground) 42%, transparent);
+    border: 2px solid transparent;
+    background-clip: padding-box;
+    border-radius: 999px;
+  }
+
+  .ui-card-scroll::-webkit-scrollbar-thumb:hover {
+    background: color-mix(in srgb, var(--muted-foreground) 62%, transparent);
+    background-clip: padding-box;
+  }
+
+  .ui-card-scroll-sm {
+    max-height: min(65vh, 40rem);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* ── Light theme (explicit) ── */
+:root[data-theme='light'],
+:root[data-resolved='light']:not([data-theme='dark']) {
+  color-scheme: light;
+  --bg: #f4f6f9;
+  --surface: #ffffff;
+  --surface-2: #eef1f6;
+  --surface-3: #e4e8ef;
+  --surface-solid: #ffffff;
+  --surface-elevated: #f8f9fb;
+  --border: rgba(0, 0, 0, 0.1);
+  --text: #1a1f2e;
+  --text-muted: #5c6578;
+  --text-subtle: #8892a4;
+  --accent: var(--brand-color, #5a8f00);
+  --accent-dim: color-mix(in srgb, var(--brand-color, #5a8f00) 12%, transparent);
+  --map-flow: var(--brand-color, #5a8f00);
+  --map-supply-fill: color-mix(in srgb, var(--brand-color, #5a8f00) 14%, transparent);
+  --map-marker-ring: color-mix(in srgb, var(--brand-color, #5a8f00) 18%, transparent);
+  --link: #2563eb;
+  --error: #dc2626;
+  --chart-bg: rgba(0, 0, 0, 0.02);
+  --tooltip-bg: rgba(255, 255, 255, 0.96);
+  --tooltip-border: rgba(0, 0, 0, 0.12);
+  --node-label: #1a1f2e;
+  --tier-label: #8892a4;
+  --popover: #ffffff;
+  --popover-foreground: #1a1f2e;
+  --card: #ffffff;
+  --background: #f4f6f9;
+  --foreground: #1a1f2e;
+}
+
+/* ── Dark theme (explicit or system default) ── */
+:root[data-theme='dark'],
+:root[data-resolved='dark']:not([data-theme='light']) {
+  color-scheme: dark;
+  --bg: #0f111a;
+  --surface: #1a1f2e;
+  --surface-2: #222836;
+  --surface-3: #2c3344;
+  --surface-solid: #1a1f2e;
+  --surface-elevated: #222836;
+  --border: rgba(255, 255, 255, 0.1);
+  --text: #e8eaed;
+  --text-muted: #b0b8c8;
+  --text-subtle: #8892a4;
+  --accent: var(--brand-color, #76b900);
+  --accent-dim: color-mix(in srgb, var(--brand-color, #76b900) 18%, transparent);
+  --map-flow: var(--brand-color, #76b900);
+  --map-supply-fill: color-mix(in srgb, var(--brand-color, #76b900) 20%, transparent);
+  --map-marker-ring: color-mix(in srgb, var(--brand-color, #76b900) 24%, transparent);
+  --link: #5b9bd5;
+  --error: #e63946;
+  --chart-bg: rgba(255, 255, 255, 0.02);
+  --tooltip-bg: rgba(15, 17, 26, 0.96);
+  --tooltip-border: rgba(255, 255, 255, 0.12);
+  --node-label: #e8eaed;
+  --tier-label: #8892a4;
+  --popover: #1a1f2e;
+  --popover-foreground: #e8eaed;
+  --card: #1a1f2e;
+  --background: #0f111a;
+  --foreground: #e8eaed;
+}
+
+/* System default: dark when prefers dark, light otherwise */
+@media (prefers-color-scheme: dark) {
+  :root[data-theme='system'] {
+    color-scheme: dark;
+    --bg: #0f111a;
+    --surface: #1a1f2e;
+    --surface-2: #222836;
+    --surface-3: #2c3344;
+    --surface-solid: #1a1f2e;
+    --surface-elevated: #222836;
+    --border: rgba(255, 255, 255, 0.1);
+    --text: #e8eaed;
+    --text-muted: #b0b8c8;
+    --text-subtle: #8892a4;
+    --accent: var(--brand-color, #76b900);
+    --accent-dim: color-mix(in srgb, var(--brand-color, #76b900) 18%, transparent);
+    --map-flow: var(--brand-color, #76b900);
+    --map-supply-fill: color-mix(in srgb, var(--brand-color, #76b900) 20%, transparent);
+    --map-marker-ring: color-mix(in srgb, var(--brand-color, #76b900) 24%, transparent);
+    --link: #5b9bd5;
+    --error: #e63946;
+    --chart-bg: rgba(255, 255, 255, 0.02);
+    --tooltip-bg: rgba(15, 17, 26, 0.96);
+    --tooltip-border: rgba(255, 255, 255, 0.12);
+    --node-label: #e8eaed;
+    --tier-label: #8892a4;
+    --popover: #1a1f2e;
+    --popover-foreground: #e8eaed;
+    --card: #1a1f2e;
+    --background: #0f111a;
+    --foreground: #e8eaed;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root[data-theme='system'] {
+    color-scheme: light;
+    --bg: #f4f6f9;
+    --surface: #ffffff;
+    --surface-2: #eef1f6;
+    --surface-3: #e4e8ef;
+    --surface-solid: #ffffff;
+    --surface-elevated: #f8f9fb;
+    --border: rgba(0, 0, 0, 0.1);
+    --text: #1a1f2e;
+    --text-muted: #5c6578;
+    --text-subtle: #8892a4;
+    --accent: var(--brand-color, #5a8f00);
+    --accent-dim: color-mix(in srgb, var(--brand-color, #5a8f00) 12%, transparent);
+    --map-flow: var(--brand-color, #5a8f00);
+    --map-supply-fill: color-mix(in srgb, var(--brand-color, #5a8f00) 14%, transparent);
+    --map-marker-ring: color-mix(in srgb, var(--brand-color, #5a8f00) 18%, transparent);
+    --link: #2563eb;
+    --error: #dc2626;
+    --chart-bg: rgba(0, 0, 0, 0.02);
+    --tooltip-bg: rgba(255, 255, 255, 0.96);
+    --tooltip-border: rgba(0, 0, 0, 0.12);
+    --node-label: #1a1f2e;
+    --tier-label: #8892a4;
+    --popover: #ffffff;
+    --popover-foreground: #1a1f2e;
+    --card: #ffffff;
+    --background: #f4f6f9;
+    --foreground: #1a1f2e;
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.2s, color 0.2s;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: var(--link);
+}
+
+/* ── Layout helpers (charts use D3; chrome uses shadcn) ── */
+.ui-section {
+  scroll-margin-top: var(--scroll-offset);
+}
+
+mark {
+  background: var(--accent-dim);
+  color: var(--text);
+  border-radius: 2px;
+  padding: 0 0.12em;
+}
+
+/* Portaled popups — always use opaque surfaces (not glass/translucent tokens) */
+[data-slot='select-content'],
+[data-slot='popover-content'],
+[data-slot='dialog-content'] {
+  background-color: var(--surface-solid) !important;
+  color: var(--popover-foreground, var(--text));
+  border: 1px solid var(--border-ui, var(--border));
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.28);
+}
+
+[data-slot='dialog-overlay'] {
+  background-color: rgba(0, 0, 0, 0.62) !important;
+  backdrop-filter: blur(4px);
+}

@@ -1,0 +1,1213 @@
+{
+  "ticker": "BIDU",
+  "count": 82,
+  "generatedAt": "2026-05-29T05:38:04.414Z",
+  "entries": [
+    {
+      "id": "BIDU-kw-0",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 34906,
+      "excerpt": "…ces, the Human Resource Services License, the Filing Certificate for Business of Category II Medical Devices, the Registration Certificate for Medical Devices, the Filing Certificate for Sales of Pre-Packaged Foods, the Medicine Business License, the Filing Certificate for the Publication Online Transaction Platform, the Internet Domain Name Services License, the Medical Device Operation License, the Filing Certificate for Third-Party Platform Provider of Online Trading Service for Drugs and the Filing Certificate for Third-Party Platform Provider of Online Trading Service for Medical Device,…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 34706,
+        "end": 35365
+      }
+    },
+    {
+      "id": "BIDU-Arm-0",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 63589,
+      "excerpt": "…inese mainland. These risks are discussed more fully in “Item 3.D. Key Information—Risk Factors.” Risks Related to Our Business and Industry • If we fail to retain existing customers or attract new customers for our online marketing services, our business, results of operations and growth prospects could be seriously harmed; • Our business and results of operations could continue to be materially and adversely affected by the challenging macroeconomic environment impacting online marketing demand; • Our business depends on a strong brand. If we are unable to maintain and enhance our brand, or if there is negative publicity related t…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 63269,
+        "end": 63909
+      }
+    },
+    {
+      "id": "BIDU-Arm-1",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 64027,
+      "excerpt": "…ing macroeconomic environment impacting online marketing demand; • Our business depends on a strong brand. If we are unable to maintain and enhance our brand, or if there is negative publicity related to our products and services, our employees, or our business practices, our business and results of operations may be harmed; • We may not be able to achieve the anticipated benefits of our acquisition of YY Live, and face other risks associated with the acquisition and the operation of YY Live; • We face significant competition and may suffer from loss of users and customers as a result; • If our expansions into new businesses are not…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 63707,
+        "end": 64407
+      }
+    },
+    {
+      "id": "BIDU-Arm-2",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 64971,
+      "excerpt": "…We have experienced slowdowns and declines in our revenue, and we may sustain net loss from time to time, and we may experience downward pressure on our operating and profit margins in the future; • Potential issues in the adoption and use of artificial intelligence in our product offerings may result in reputational harm or liability; • If we fail to continue to innovate and provide products, services and high-quality internet experience that attract and retain users, we may not be able to remain competitive; we may expend significant resources in order to remain competitive; and • Our business is subject to complex and evolving Ch…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 64652,
+        "end": 65292
+      }
+    },
+    {
+      "id": "BIDU-Arm-3",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 65573,
+      "excerpt": "…is subject to complex and evolving Chinese and international laws and regulations, including those regarding data privacy and cybersecurity. Failure to comply with these laws and regulations would result in claims, penalties, damages to our reputation and brand, or declines in user growth or engagement, or otherwise harm our business. Risks Related to Our Corporate Structure • Our company is a Cayman Islands holding company with no equity ownership in the variable interest entities and we conduct our operations in Chinese mainland through (i) our Chinese mainland subsidiaries and (ii) the variable interest entities with which we ha…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 65254,
+        "end": 65893
+      }
+    },
+    {
+      "id": "BIDU-Arm-4",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 70665,
+      "excerpt": "…gatively affect the trading prices of our Class A ordinary shares and/or ADSs. 17 Table of Contents Risks Related to Our Business and Industry If we fail to retain existing customers or attract new customers for our online marketing services, our business, results of operations and growth prospects could be seriously harmed. Our online marketing customers will not continue to do business with us if their investment does not generate sales leads and ultimately consumers, or if we do not deliver their web pages in an appropriate and effective manner. Our online marketing customers may choose to discontinue their business with us, whic…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 70346,
+        "end": 71046
+      }
+    },
+    {
+      "id": "BIDU-Arm-5",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 72596,
+      "excerpt": "…ness with us. Since most of our customers are not bound by long-term contracts, they may amend or terminate their advertising arrangements with us with little advance notice under certain circumstances. Failure to retain our existing customers or attract new customers for our online marketing services could seriously harm our business, results of operations and future prospects. We have recorded substantial customer deposits and deferred revenue received from certain customers of our online marketing services. If we are unable to fulfill our obligation in respect of such customer deposits and deferred revenue, we may have to refund…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 72276,
+        "end": 72975
+      }
+    },
+    {
+      "id": "BIDU-Arm-6",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 77671,
+      "excerpt": "…tened regulatory environment in Chinese mainland’s internet space. Our business depends on a strong brand. If we are unable to maintain and enhance our brand, or if there is negative publicity related to our products and services, our employees, or our business practices, our business and results of operations may be harmed. We believe that our brand “Baidu” has contributed significantly to the success of our business. We also believe that maintaining and enhancing the “Baidu” brand is critical to increasing the number of our users, customers, Baidu Union partners and content providers, as well as to expanding our developer communit…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 77351,
+        "end": 77991
+      }
+    },
+    {
+      "id": "BIDU-Arm-7",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 78660,
+      "excerpt": "…penses in this effort, our business and results of operations may be materially and adversely affected. In addition, any negative publicity about us, our products and services, our employees, our business practices, our search results or the platform to which our search results link, regardless of its veracity, could harm our brand image and in turn adversely affect our business and results of operations. We cannot assure you that we will be able to defuse negative publicity to the satisfaction of our investors, users, customers and business partners. From time to time, there has been negative publicity about us, our brand image, ou…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 78341,
+        "end": 79041
+      }
+    },
+    {
+      "id": "BIDU-kw-1",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 111397,
+      "excerpt": "…l condition may be materially and adversely affected. Our businesses operate in industries that are subject to rapid technological advancements, upgrades and changing consumer needs. Our success will depend on our ability to keep up with the latest developments in technology innovations and commercialization and if we fail to do so successfully, the demand for our products, solutions and services may decline. For instance, applications of technologies similar to ChatGPT to our products and services to cater to consumer needs may be essential for us to remain competitive in the market. In addit…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 111197,
+        "end": 111797
+      }
+    },
+    {
+      "id": "BIDU-kw-2",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 122625,
+      "excerpt": "…IT spending by enterprises, which may adversely affect our revenue and growth prospects and result in excess inventory or even inventory write-downs. Our success in cloud-based services strategy will depend on the level of adoption of our products and services. We may not establish market share sufficient to achieve the scale necessary to achieve our business objectives or recoup costs incurred to build and maintain infrastructure to support our cloud-based services. It is uncertain whether our strategies will attract the users or generate the revenue required to succeed. If we fail to generat…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 122425,
+        "end": 123025
+      }
+    },
+    {
+      "id": "BIDU-kw-3",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 133756,
+      "excerpt": "…h as raw material availability, manufacturing capacity, labor shortages, tariffs, trade disputes and barriers, natural disasters, and significant changes in the financial or business condition of our suppliers. We may experience shortages or other supply chain disruptions that could negatively affect our operations. In addition, some of the components we use in our Xiaodu smart products are available only from a single source or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. Our Xiaodu smart products may have qu…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 133556,
+        "end": 134156
+      }
+    },
+    {
+      "id": "BIDU-kw-4",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 133972,
+      "excerpt": "…y experience shortages or other supply chain disruptions that could negatively affect our operations. In addition, some of the components we use in our Xiaodu smart products are available only from a single source or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. Our Xiaodu smart products may have quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Aging components of our products may also cause…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 133813,
+        "end": 134333
+      }
+    },
+    {
+      "id": "BIDU-kw-5",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 134049,
+      "excerpt": "…y affect our operations. In addition, some of the components we use in our Xiaodu smart products are available only from a single source or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. Our Xiaodu smart products may have quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Aging components of our products may also cause quality risks, leading to user complaints. If the quality of our Xiaodu smar…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 133849,
+        "end": 134449
+      }
+    },
+    {
+      "id": "BIDU-kw-6",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 134277,
+      "excerpt": "…n the event of a supply chain disruption. Our Xiaodu smart products may have quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Aging components of our products may also cause quality risks, leading to user complaints. If the quality of our Xiaodu smart products does not meet expectations or is defective, it could harm our reputation, financial condition, and operating results. We are exposed to significant inventory risks that may adversely affect our operating results as a…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 134597,
+        "end": 134677
+      }
+    },
+    {
+      "id": "BIDU-kw-7",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 134314,
+      "excerpt": "…ion. Our Xiaodu smart products may have quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Aging components of our products may also cause quality risks, leading to user complaints. If the quality of our Xiaodu smart products does not meet expectations or is defective, it could harm our reputation, financial condition, and operating results. We are exposed to significant inventory risks that may adversely affect our operating results as a result of seasonality, new product la…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 134114,
+        "end": 134714
+      }
+    },
+    {
+      "id": "BIDU-kw-8",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 142817,
+      "excerpt": "…rruption or failure of our own information technology and communications systems or those of third-party service providers we rely upon, as well as of AI related resources we acquire from third-party suppliers, could impair our ability to provide products and services, which could damage our reputation and harm our results of operations. Our ability to provide products and services depends on the continuing operation of our information technology and communications systems. Any damage to or failure of our systems could interrupt our services. Service interruptions could reduce our revenue and…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 142617,
+        "end": 143276
+      }
+    },
+    {
+      "id": "BIDU-kw-9",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 145214,
+      "excerpt": "…uency or duration of service interruptions. We have made significant investments in foundation model and generative AI, and made significant prepayments to acquire relevant resources from third-party suppliers. We rely on these suppliers to provide consistent and reliable cloud services and other resources necessary for our AI initiatives. Any failure of these suppliers to provide such resources, or a failure to replace any such supplier at a reasonable cost, could result in financial losses and may have a material adverse effect on our business and operations. We may not be able to manage our…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 145015,
+        "end": 145615
+      }
+    },
+    {
+      "id": "BIDU-kw-10",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 145242,
+      "excerpt": "…interruptions. We have made significant investments in foundation model and generative AI, and made significant prepayments to acquire relevant resources from third-party suppliers. We rely on these suppliers to provide consistent and reliable cloud services and other resources necessary for our AI initiatives. Any failure of these suppliers to provide such resources, or a failure to replace any such supplier at a reasonable cost, could result in financial losses and may have a material adverse effect on our business and operations. We may not be able to manage our expanding operations effect…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 145043,
+        "end": 145642
+      }
+    },
+    {
+      "id": "BIDU-kw-11",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 145377,
+      "excerpt": "…relevant resources from third-party suppliers. We rely on these suppliers to provide consistent and reliable cloud services and other resources necessary for our AI initiatives. Any failure of these suppliers to provide such resources, or a failure to replace any such supplier at a reasonable cost, could result in financial losses and may have a material adverse effect on our business and operations. We may not be able to manage our expanding operations effectively. We expect to continue to expand our operations as we grow our user and customer base and explore new opportunities. To manage th…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 145178,
+        "end": 145777
+      }
+    },
+    {
+      "id": "BIDU-kw-12",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 145447,
+      "excerpt": "…iers to provide consistent and reliable cloud services and other resources necessary for our AI initiatives. Any failure of these suppliers to provide such resources, or a failure to replace any such supplier at a reasonable cost, could result in financial losses and may have a material adverse effect on our business and operations. We may not be able to manage our expanding operations effectively. We expect to continue to expand our operations as we grow our user and customer base and explore new opportunities. To manage the further expansion of our business and growth of our operations and p…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 145248,
+        "end": 145848
+      }
+    },
+    {
+      "id": "BIDU-kw-13",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 182848,
+      "excerpt": "…ed. We rely on highly skilled personnel. If we are unable to retain or motivate them or hire additional qualified personnel, we may not be able to grow effectively. Our performance and future success depend on the talents and efforts of highly skilled individuals. We will need to continue to identify, hire, develop, motivate and retain highly skilled personnel for all areas of our organization and business operations. Competition for qualified employees in the industries we operate in is intense. Our continued ability to compete effectively depends on our ability to attract new employees and t…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 182649,
+        "end": 183309
+      }
+    },
+    {
+      "id": "BIDU-kw-14",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 194093,
+      "excerpt": "…additional capital to support our business growth or to respond to business opportunities, challenges or unforeseen circumstances. Our ability to obtain additional capital, if and when required, will depend on our business plans, investor demand, our operating performance, the condition of the capital markets, and other factors, and our indebtedness may limit our ability to borrow additional funds. We may have difficulty incurring new debt on terms that we would consider to be commercially reasonable. In addition, we may also need to refinance a portion or all of our outstanding debt as it mat…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 193893,
+        "end": 194493
+      }
+    },
+    {
+      "id": "BIDU-kw-15",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 215761,
+      "excerpt": "…ted countries, markets and/or entities, making compliance more complicated and time-consuming and increasing the risk of inadvertent omissions. 45 Table of Contents Measures such as these could deter suppliers in the United States and/or other countries that impose export controls and other restrictions from providing technologies and products to, making investments in, or otherwise engaging in transactions with Chinese companies. As a result, Chinese companies may have to identify and secure alternative supplies or sources of financing, which they may not be able to do so in a timely manner a…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 215561,
+        "end": 216161
+      }
+    },
+    {
+      "id": "BIDU-kw-16",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 232705,
+      "excerpt": "…our products and services, an increased level of expertise of hackers, new discoveries in the field of cryptography or others, software bugs or other technical malfunctions, employee, contractor, or vendor error or malfeasance, government surveillance, or other evolving threats. As a result, we may incur significant costs in protecting against or remediating cyber-attacks. In addition, some of our developers or other partners, such as those that help us measure the effectiveness of advertisements, may receive or store information provided by us or by our users through mobile or web applicatio…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 232507,
+        "end": 233106
+      }
+    },
+    {
+      "id": "BIDU-kw-17",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 249690,
+      "excerpt": "…rospects.” Potential impacts of health epidemics may include, but are not limited to, the following: • temporary closure of offices, travel restrictions or suspension of services of our customers and suppliers may negatively affect the demand for our services; • our customers in industries that are negatively impacted by epidemics, including the healthcare, travel, offline education, franchising, auto/transportation and real estate/home furnishing sectors, may reduce their budgets on online advertising and marketing, which may materially adversely impact our revenue from online marketing servi…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 249490,
+        "end": 250090
+      }
+    },
+    {
+      "id": "BIDU-kw-18",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 250788,
+      "excerpt": "…cial condition and operating results; • any disruption of our supply chain, logistics providers or customers could adversely impact our business and results of operations, including causing us or our suppliers to cease manufacturing Xiaodu smart devices for a period of time or materially delay delivery to customers, which may also lead to loss of customers, as well as reputational, competitive and business harm to us; • many of our customers, third-party agents, suppliers and other partners are SMEs, which may not have strong cash flows or be well capitalized, and may be vulnerable to a pandem…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 250588,
+        "end": 251188
+      }
+    },
+    {
+      "id": "BIDU-kw-19",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 251055,
+      "excerpt": "…of time or materially delay delivery to customers, which may also lead to loss of customers, as well as reputational, competitive and business harm to us; • many of our customers, third-party agents, suppliers and other partners are SMEs, which may not have strong cash flows or be well capitalized, and may be vulnerable to a pandemic and slowing macroeconomic conditions; • the global stock markets may experience significant declines and the private and public companies that we have invested in could be materially adversely affected, which may lead to significant impairment in the fair values o…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 250855,
+        "end": 251455
+      }
+    },
+    {
+      "id": "BIDU-kw-20",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 268443,
+      "excerpt": "…t entities in Chinese mainland in connection with any increase in their capitalization to the extent necessary and permissible under applicable law. Our ability to ultimately collect these loans will depend on the profitability of these variable interest entities and their operational needs, which are uncertain. As of the date of this annual report, we do not have any repayment schedule with respect to such loans to the nominee shareholders of the variable interest entities. We are in the process of registering the pledges of equity interests by nominee shareholders of some of the variable int…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 268243,
+        "end": 268843
+      }
+    },
+    {
+      "id": "BIDU-kw-21",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 279420,
+      "excerpt": "…f Beijing Administration for Market Regulation, a Registration Certificate for Medical Devices, which is issued by Beijing Medical Products Administration, several Filing Certificate for Sales of Pre-Packaged Foods, which are issued by the local branches of the SAMR, a Medicine Business License, which is issued by Guangdong Medical Products Administration, several Filing Certificates for the Publication Online Transaction Platform, which are issued by local branches of the National Press and Publication Administration, an Internet Domain Name Services License, which is issued by Beijing Commun…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 279220,
+        "end": 279820
+      }
+    },
+    {
+      "id": "BIDU-kw-22",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 426373,
+      "excerpt": "…e launched ERNIE 4.0 (EB4), our most advanced foundation model at the time. EB4 is a GPT4-type of model, displaying human-level performance in understanding, content generation, complex reasoning and memory retention. These capabilities are crucial for developing AI-native applications and solutions. In June 2024, we launched ERNIE 4.0 Turbo, which provides superior capabilities for typical use cases and is designed to run faster and at lower cost compared to ERNIE 4.0. We have been using the ERNIE family of models to renovate our products and offerings in order to provide AI-native experience…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 426173,
+        "end": 426773
+      }
+    },
+    {
+      "id": "BIDU-kw-23",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 465312,
+      "excerpt": "…partner accounts. Membership Services. iQIYI’s membership services provide subscribing members with a choice of various membership privileges. iQIYI’s current membership program consists of multiple packages, tailored for individuals and families. Both individual and family packages include an ad-supported basic service tier and a standard service tier. Moreover, the family package also features a premium service tier. Each membership plan is offered at a different price and provides subscribing members with access to a large collection of subscribing members-only content comprised of long-fo…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 465113,
+        "end": 465712
+      }
+    },
+    {
+      "id": "BIDU-kw-24",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 465388,
+      "excerpt": "…subscribing members with a choice of various membership privileges. iQIYI’s current membership program consists of multiple packages, tailored for individuals and families. Both individual and family packages include an ad-supported basic service tier and a standard service tier. Moreover, the family package also features a premium service tier. Each membership plan is offered at a different price and provides subscribing members with access to a large collection of subscribing members-only content comprised of long-form videos, micro dramas and others. Subscribing members also enjoy earlier a…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 465188,
+        "end": 465788
+      }
+    },
+    {
+      "id": "BIDU-kw-25",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 465490,
+      "excerpt": "…consists of multiple packages, tailored for individuals and families. Both individual and family packages include an ad-supported basic service tier and a standard service tier. Moreover, the family package also features a premium service tier. Each membership plan is offered at a different price and provides subscribing members with access to a large collection of subscribing members-only content comprised of long-form videos, micro dramas and others. Subscribing members also enjoy earlier access to certain content aired on the iQIYI platform and a bundle of viewing functions and features. i…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 465291,
+        "end": 465890
+      }
+    },
+    {
+      "id": "BIDU-kw-26",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 466341,
+      "excerpt": "…iodically, and may adjust based on evolving market needs from time to time. iQIYI assesses and improves its membership services to better meet the evolving user demand. For example, it offers Express Packages ( 加更礼 ) that grant early access to finale episodes of hit drama series, and in 2025, it integrated this benefit into the S-diamond Plans at no additional cost to encourage membership upgrades. Additionally, during selected offline major marketing events, it offers exclusive perks like red-carpet viewing privilege and live feeds featuring the members’ favorite celebrities. iQIYI also offer…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 466142,
+        "end": 466802
+      }
+    },
+    {
+      "id": "BIDU-kw-27",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 470076,
+      "excerpt": "…lgorithm, industry coverage, developer tools and ecosystem. We believe that EB4 is a GPT4-type of model, displaying human-level performance in understanding, content generation, complex reasoning and memory retention. In June 2024, Baidu expanded the ERNIE family of models with the launch of ERNIE 4.0 Turbo, offering superior capabilities for typical use cases, and designed to run faster and at lower costs compared to ERNIE 4.0. These capabilities are crucial for developing AI-native applications and solutions. Baidu’s ERNIE family of models has been accessible to users and enterprises. In Mar…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 469876,
+        "end": 470476
+      }
+    },
+    {
+      "id": "BIDU-kw-28",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 620549,
+      "excerpt": "…s organizations or individuals that independently determine the purposes and methods of processing in automotive data processing activities, including automobile manufacturers, component and software suppliers, telecommunications operators, autonomous driving service providers, platform operators, dealers, maintenance institutions, and mobility service companies, among others. These guidelines establish criteria for determining important data across six scenarios: research and development design, production and manufacturing, autonomous driving, software update services, connected operation, a…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 620349,
+        "end": 620949
+      }
+    },
+    {
+      "id": "BIDU-kw-29",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 690704,
+      "excerpt": "…ity which such product should have and there are no prior indications about such situation; (ii) the actual quality of such product fails to comply with the standards specified on such product or the package of such product; and (iii) the actual quality of such product fails to meet the quality status specified by way of product specifications and samples. After the seller performs its obligation of repairing, replacing and returning the defective product and/or compensating for the customers’ damages, such seller is entitled to seek reimbursement from the manufacturer of such product, if it c…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 690504,
+        "end": 691104
+      }
+    },
+    {
+      "id": "BIDU-kw-30",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 728302,
+      "excerpt": "…ng preferential tax treatment may cause our effective tax rate to increase. The amount of income tax payable by our Chinese mainland subsidiaries and the variable interest entities in the future will depend on various factors, including, among other things, the results of operations and taxable income of, and the statutory tax rate applicable to, each of the entities. Our effective tax rate depends partially on the extent of the relative contribution of each of our subsidiaries and the variable interest entities to our consolidated taxable income. Withholding Tax Under the EIT Law and its impl…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 728102,
+        "end": 728702
+      }
+    },
+    {
+      "id": "BIDU-kw-31",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 940456,
+      "excerpt": "…ied as a partnership for U.S. federal income tax purposes) is the beneficial owner of the ADSs or ordinary shares, the U.S. federal income tax treatment of a partner in the partnership will generally depend on the status of the partner and the activities of the partnership. Partners in a partnership holding our ordinary shares or ADSs should consult their tax advisors regarding the United States federal income tax considerations relating to the ownership or disposition of our ordinary shares or ADSs. The discussion below assumes that the representations contained in the deposit agreement are t…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 940257,
+        "end": 940857
+      }
+    },
+    {
+      "id": "BIDU-kw-32",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 990270,
+      "excerpt": "…methods, including technical safeguards, procedural requirements, an intensive monitoring program on our corporate network, continuous testing of our security posture both internally and with outside vendors, a robust incident response program, a review of the effectiveness of our security system with reference to applicable security standards by qualified third parties and regular cybersecurity awareness training for employees. Both our Security Department and Operation and Maintenance Department continually monitor the performance of our apps, platforms and infrastructure to enable us to res…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 990070,
+        "end": 990670
+      }
+    },
+    {
+      "id": "BIDU-VAT Group-0",
+      "ticker": "BIDU",
+      "vendor": "VAT Group",
+      "charOffset": 1135641,
+      "excerpt": "…ncipally from online marketing services and others. Revenue is recognized when control of promised goods or services is transferred to the Group’s customers in an amount of consideration to which an entity expects to be entitled to in exchange for those goods or services. Revenue is recorded net of value added taxes (“VAT”). For arrangements that include multiple promised goods or services, the Group would evaluate all of the performance obligations in the arrangement to determine whether each performance obligation is distinct. For arrangements with multiple distinct performance obligations, each distinct performance obligation is…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 1135321,
+        "end": 1136020
+      }
+    },
+    {
+      "id": "BIDU-kw-33",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 1160352,
+      "excerpt": "…services and products; changes in business offerings; competitive pressures due to existing and new entrants; advances and new trends in new technologies and industry standards; changes in bandwidth suppliers; changes in certain strategic relationships or customer relationships; regulatory considerations; copyright regulations; cybersecurity regulations; brand maintenance and enhancement; risks associated with the Group’s ability to anticipate user preferences and provide high-quality content in a cost-effective manner; risks associated with the Group’s ability to attract and retain employees…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 1160153,
+        "end": 1160812
+      }
+    },
+    {
+      "id": "BIDU-kw-34",
+      "ticker": "BIDU",
+      "vendor": "VAT Group",
+      "charOffset": 1184462,
+      "excerpt": "…SOLIDATED FINANCIAL STATEMENTS FOR THE YEARS ENDED DECEMBER 31, 2023, 2024 AND 2025 9. OTHER ASSETS As of December 31, 2024 2025 2025 RMB RMB US$ (In millions) Inventories 5,989 6,200 887 Advances to suppliers 3,048 5,180 741 VAT prepayments 2,262 3,215 460 Contract assets, net 2,353 1,904 272 Receivables from online payment agencies 1,033 1,144 164 Others 4,133 5,102 729 Total other current assets 18,818 22,745 3,253 Long-term advances to suppliers 8,870 17,997 2,574 Loan due from PAG (i) 3,814 4,474 640 Prepaid licensed copyrights 2,289 3,507 501 Others 1,842 1,577 226 Total other non-curren…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 1184262,
+        "end": 1184862
+      }
+    },
+    {
+      "id": "BIDU-VAT Group-1",
+      "ticker": "BIDU",
+      "vendor": "VAT Group",
+      "charOffset": 1184488,
+      "excerpt": "…ce as of December 31 3,176 3,517 5,001 715 F-35 Table of Contents BAIDU, INC. NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEARS ENDED DECEMBER 31, 2023, 2024 AND 2025 9. OTHER ASSETS As of December 31, 2024 2025 2025 RMB RMB US$ (In millions) Inventories 5,989 6,200 887 Advances to suppliers 3,048 5,180 741 VAT prepayments 2,262 3,215 460 Contract assets, net 2,353 1,904 272 Receivables from online payment agencies 1,033 1,144 164 Others 4,133 5,102 729 Total other current assets 18,818 22,745 3,253 Long-term advances to suppliers 8,870 17,997 2,574 Loan due from PAG (i) 3,814 4,474 640 Prepaid licensed copyrights 2,289 3…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "range": {
+        "start": 1184168,
+        "end": 1184808
+      }
+    },
+    {
+      "id": "BIDU-kw-35",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 1184706,
+      "excerpt": "…262 3,215 460 Contract assets, net 2,353 1,904 272 Receivables from online payment agencies 1,033 1,144 164 Others 4,133 5,102 729 Total other current assets 18,818 22,745 3,253 Long-term advances to suppliers 8,870 17,997 2,574 Loan due from PAG (i) 3,814 4,474 640 Prepaid licensed copyrights 2,289 3,507 501 Others 1,842 1,577 226 Total other non-current assets 16,815 27,555 3,941 (i) In 2024, iQIYI entered into facility agreement with PAG and provided PAG loan facilities up to US$ 523 million in aggregate, with an interest rate of 6 % per annum. In October 2025, iQIYI entered into another fa…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 1184506,
+        "end": 1185106
+      }
+    },
+    {
+      "id": "BIDU-kw-36",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 1189496,
+      "excerpt": "…le Arrangements In 2023, 2024 and 2025, iQIYI entered into structured payable arrangements with banks or other financial institutions (“factoring arrangements”). Under the factoring arrangements, the suppliers’ receivables collection process was accelerated through selling its receivables from iQIYI to the banks or other financial institutions at a discount. For the years ended December 31, 2023, 2024 and 2025, iQIYI was legally obligated to pay the banks or other financial institutions in the amount totaling RMB 1.8 billion, RMB 1.1 billion and RMB 812 m illion (US$ 116 million), respectively…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 1189296,
+        "end": 1189896
+      }
+    },
+    {
+      "id": "BIDU-kw-37",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 1235471,
+      "excerpt": "…r claims or a portion of the claims made against its directors and officers. Since a maximum obligation is not explicitly stated in the Company’s by-laws or in the indemnification agreements and will depend on the facts and circumstances that arise out of any future claims, the overall maximum amount of the obligations cannot be reasonably estimated. Historically, the Group was not required to make payments related to these obligations. Litigation The Group was involved in certain cases pending in various PRC, Brazil and Japan courts and arbitration as of December 31, 2025. These cases include…",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "keyword",
+      "range": {
+        "start": 1235271,
+        "end": 1235931
+      }
+    },
+    {
+      "id": "ad4cb587aa647583",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 1531,
+      "excerpt": "rnet Drug and Medical Devices Information Services/the Filing Certificate for Internet Drug Information Services, the Human Resource Services License, the Filing Certificate for Business of Category II Medical Devices, the Registration Certificate for Medical Devices, the Filing Certificate for Sales of Pre-Packaged Foods, the Medicine Business License, the Filing Certificate for the Publication Online Transaction Platform, the Internet Domain Name Services License, the Medical Device Operation",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Doing Business in China—Our ADSs",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 34597,
+        "end": 35156
+      }
+    },
+    {
+      "id": "39a84d8836b8061e",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 8302,
+      "excerpt": "n order to remain competitive. If we fail to keep up with technological advancements and upgrades, our business, results of operations and financial condition may be materially and adversely affected. Our businesses operate in industries that are subject to rapid technological advancements, upgrades and changing consumer needs. Our success will depend on our ability to keep up with the latest developments in technology innovations and commercialization and if we fail to do so successfully, the d",
+      "sectionId": "item_4_b_information_on_the_company_busi",
+      "sectionHeader": "Item 4.B. Information on the Company—Business Overview—Regulations—Regulations on Artifi",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 111050,
+        "end": 111550
+      }
+    },
+    {
+      "id": "501826da7cfbc2fc",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 2683,
+      "excerpt": "g, technology and delivery models are evolving. Devices and form factors influence how users access services in the cloud and sometimes the user’s choice of which suite of cloud-based services to use. Intense price competition among our competitors may affect our pricing strategy and our financial performance, potentially compressing margins or forcing us to offer more favorable terms than anticipated. Further, weakened macroeconomic conditions could lead to reduced IT spending by enterprises, w",
+      "sectionId": "item_8_a_financial_information_consolida",
+      "sectionHeader": "Item 8.A. Financial Information—Consolidated Statements and Other Financial Information—",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 121954,
+        "end": 122454
+      }
+    },
+    {
+      "id": "6bc420bc0da957ee",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 13973,
+      "excerpt": "f those we engage fail to meet their obligations (whether due to financial difficulties or other reasons), or make adverse changes in the pricing or other material terms of our arrangements with them. 29 Table of Contents We may experience supply shortages and price increases driven by a variety of factors, such as raw material availability, manufacturing capacity, labor shortages, tariffs, trade disputes and barriers, natural disasters, and significant changes in the financial or business condi",
+      "sectionId": "item_8_a_financial_information_consolida",
+      "sectionHeader": "Item 8.A. Financial Information—Consolidated Statements and Other Financial Information—",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 133244,
+        "end": 133744
+      }
+    },
+    {
+      "id": "9fcf886da35a8026",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 14944,
+      "excerpt": "tions. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Aging components of our products may also cause quality risks, leading to user complaints. If the quality of our Xiaodu smart products does not meet expectations or is defective, it could harm our reputation, financial condition, and operating results. We are exposed to significant inventory risks that may adversely affect our operating results as a result of seasonality, new product lau",
+      "sectionId": "item_8_a_financial_information_consolida",
+      "sectionHeader": "Item 8.A. Financial Information—Consolidated Statements and Other Financial Information—",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 134215,
+        "end": 134715
+      }
+    },
+    {
+      "id": "a1cfa8886b776987",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 23141,
+      "excerpt": "rt of our consolidated group. Many internet financial platforms, including Du Xiaoman, have removed deposit products from their platforms. Events like this may expose us to negative publicity as well. Interruption or failure of our own information technology and communications systems or those of third-party service providers we rely upon, as well as of AI related resources we acquire from third-party suppliers, could impair our ability to provide products and services, which could damage our re",
+      "sectionId": "item_8_a_financial_information_consolida",
+      "sectionHeader": "Item 8.A. Financial Information—Consolidated Statements and Other Financial Information—",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 142412,
+        "end": 142912
+      }
+    },
+    {
+      "id": "a7f3851a5cfe8cf3",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 24776,
+      "excerpt": "-ins, sabotage and vandalism. The occurrence of natural disasters or closure of an internet data center by a third-party provider without adequate notice could result in lengthy service interruptions. In addition, our domain names are resolved into internet protocol (IP) addresses by systems of third-party domain name registrars and registries. Any interruptions or failures of those service providers’ systems, which are beyond our control, could significantly disrupt our own services. If we expe",
+      "sectionId": "item_8_a_financial_information_consolida",
+      "sectionHeader": "Item 8.A. Financial Information—Consolidated Statements and Other Financial Information—",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 144047,
+        "end": 144547
+      }
+    },
+    {
+      "id": "f4c6410e2eebd19a",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 25753,
+      "excerpt": "uration of service interruptions. We have made significant investments in foundation model and generative AI, and made significant prepayments to acquire relevant resources from third-party suppliers. We rely on these suppliers to provide consistent and reliable cloud services and other resources necessary for our AI initiatives. Any failure of these suppliers to provide such resources, or a failure to replace any such supplier at a reasonable cost, could result in financial losses and may have",
+      "sectionId": "item_8_a_financial_information_consolida",
+      "sectionHeader": "Item 8.A. Financial Information—Consolidated Statements and Other Financial Information—",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 145024,
+        "end": 145583
+      }
+    },
+    {
+      "id": "92b81308c341bd1e",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 5606,
+      "excerpt": "pool of qualified candidates is limited, and we may not be able to retain the services of our executives or key personnel, or attract and retain experienced executives or key personnel in the future. If any of our executives or other key personnel joins a competitor or forms a competing company, we may not be able to successfully retain customers, key agents, know-how and key personnel. Each of our executive officers and key employees has entered into an employment agreement with us, containing",
+      "sectionId": "item_4_b_information_on_the_company_busi",
+      "sectionHeader": "Item 4.B. Information on the Company—Business Overview—Regulations—Regulations on Advert",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 181945,
+        "end": 182504
+      }
+    },
+    {
+      "id": "86f6a13770f10edb",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 5.B. Operating and Financial Review and Prospects—Liquidity and Capital Resources.” If the payment of any of our outstanding notes is accelerated, we may be required to renegotiate, repay or refinance these obligations and may not have sufficient funds available to repay it, and our liquidity and financial position would be materially and adversely affected. We may require additional capital to support our business growth or to respond to business opportunities, challenges or unforeseen cir",
+      "sectionId": "item_5_b_operating_and_financial_review_",
+      "sectionHeader": "Item 5.B. Operating and Financial Review and Prospects—Liquidity and Capital Resources.”",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 193512,
+        "end": 194012
+      }
+    },
+    {
+      "id": "c7fa238b270735f1",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 21765,
+      "excerpt": "Entity List and Military End-User List restrictions to entities that are 50% or more owned, directly or indirectly, by parties designated on those lists. This rule is currently suspended for one year. If implemented, these measures are expected to have significant impact on the targeted countries, markets and/or entities, making compliance more complicated and time-consuming and increasing the risk of inadvertent omissions. 45 Table of Contents Measures such as these could deter suppliers in the",
+      "sectionId": "item_5_b_operating_and_financial_review_",
+      "sectionHeader": "Item 5.B. Operating and Financial Review and Prospects—Liquidity and Capital Resources.”",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 215277,
+        "end": 215837
+      }
+    },
+    {
+      "id": "1bbb83cb8caabb83",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 38106,
+      "excerpt": "a result of our prominence, the size of our user base, and the types and volume of personal data on our systems, we believe that we are a particularly attractive target for such breaches and attacks. Such attacks may cause interruptions to the services we provide, degrade the user experience, cause users or customers to lose confidence and trust in our products and services, impair our internal systems, or result in financial harm to us. We have adopted strict information security policies and d",
+      "sectionId": "item_5_b_operating_and_financial_review_",
+      "sectionHeader": "Item 5.B. Operating and Financial Review and Prospects—Liquidity and Capital Resources.”",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 231619,
+        "end": 232119
+      }
+    },
+    {
+      "id": "60b69a69eee37453",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 39073,
+      "excerpt": "overies in the field of cryptography or others, software bugs or other technical malfunctions, employee, contractor, or vendor error or malfeasance, government surveillance, or other evolving threats. As a result, we may incur significant costs in protecting against or remediating cyber-attacks. In addition, some of our developers or other partners, such as those that help us measure the effectiveness of advertisements, may receive or store information provided by us or by our users through mobi",
+      "sectionId": "item_5_b_operating_and_financial_review_",
+      "sectionHeader": "Item 5.B. Operating and Financial Review and Prospects—Liquidity and Capital Resources.”",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 232585,
+        "end": 233085
+      }
+    },
+    {
+      "id": "f2a448d93c2ebdb8",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 5. Operating and Financial Review and Prospects.” Potential impacts of health epidemics may include, but are not limited to, the following: • temporary closure of offices, travel restrictions or suspension of services of our customers and suppliers may negatively affect the demand for our services; • our customers in industries that are negatively impacted by epidemics, including the healthcare, travel, offline education, franchising, auto/transportation and real estate/home furnishing sect",
+      "sectionId": "item_5_operating_and_financial_review_an",
+      "sectionHeader": "Item 5. Operating and Financial Review and Prospects.” Potential impacts of health epidem",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 249446,
+        "end": 249946
+      }
+    },
+    {
+      "id": "17e5d062b30811bb",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 1000,
+      "excerpt": "ur distribution channel, or result in loss of customers or disruption of our services, which may in turn materially adversely affect our financial condition and operating results; • any disruption of our supply chain, logistics providers or customers could adversely impact our business and results of operations, including causing us or our suppliers to cease manufacturing Xiaodu smart devices for a period of time or materially delay delivery to customers, which may also lead to loss of customers",
+      "sectionId": "item_5_operating_and_financial_review_an",
+      "sectionHeader": "Item 5. Operating and Financial Review and Prospects.” Potential impacts of health epidem",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 250446,
+        "end": 250946
+      }
+    },
+    {
+      "id": "ec34e9807effba9e",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 18499,
+      "excerpt": "RMB19.6 billion (US$2.8 billion) to the nominee shareholders of the variable interest entities. We extended these loans to enable the nominee shareholders to fund the capitalization of these entities. We may in the future provide additional loans to the nominee shareholders of the variable interest entities in Chinese mainland in connection with any increase in their capitalization to the extent necessary and permissible under applicable law. Our ability to ultimately collect these loans will de",
+      "sectionId": "item_5_operating_and_financial_review_an",
+      "sectionHeader": "Item 5. Operating and Financial Review and Prospects.” Potential impacts of health epidem",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 267945,
+        "end": 268445
+      }
+    },
+    {
+      "id": "71e2dd5dfd4fa7c1",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 29546,
+      "excerpt": "man Resource Services License, which is issued by the local bureau of the Ministry of Human Resources and Social Security, a Filing Certificate for the Business of Category II Medical Devices, which is issued by Haidian Branch of Beijing Administration for Market Regulation, a Registration Certificate for Medical Devices, which is issued by Beijing Medical Products Administration, several Filing Certificate for Sales of Pre-Packaged Foods, which are issued by the local branches of the SAMR, a Me",
+      "sectionId": "item_5_operating_and_financial_review_an",
+      "sectionHeader": "Item 5. Operating and Financial Review and Prospects.” Potential impacts of health epidem",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 278992,
+        "end": 279492
+      }
+    },
+    {
+      "id": "8569df5ea3b5355b",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 1894,
+      "excerpt": ", in the first quarter of 2023. We have continued to expand the ERNIE family of models. In May 2023, we launched ERNIE 3.5, which served as the latest foundation model powering ERNIE Bot at that time. According to the International Data Corporation (IDC)’s latest report on the technological abilities of AI models, issued in July 2023, ERNIE 3.5 excelled in many areas, such as algorithm, industry coverage, developer tools and ecosystem. In October 2023, we launched ERNIE 4.0 (EB4), our most advan",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Business and Industry—We may",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 425715,
+        "end": 426215
+      }
+    },
+    {
+      "id": "4f28f42430fbf338",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 40538,
+      "excerpt": "e a broader user base, drive user engagement and enhance user stickiness. 94 Table of Contents iQIYI’s other video content is created and uploaded to our platform by a wide array of content providers. The content providers range from ordinary registered users, amateurs, and semiprofessional partners to internet influencers, multi-channel networks, and production studios, which collectively contribute to growing our creative user community. Content providers upload their videos onto their iQIYI p",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Business and Industry—We may",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 464359,
+        "end": 464859
+      }
+    },
+    {
+      "id": "49c748a4884eb825",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 41514,
+      "excerpt": "individuals and families. Both individual and family packages include an ad-supported basic service tier and a standard service tier. Moreover, the family package also features a premium service tier. Each membership plan is offered at a different price and provides subscribing members with access to a large collection of subscribing members-only content comprised of long-form videos, micro dramas and others. Subscribing members also enjoy earlier access to certain content aired on the iQIYI pla",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Business and Industry—We may",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 465335,
+        "end": 465835
+      }
+    },
+    {
+      "id": "9b973fdd55c0fa57",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 42288,
+      "excerpt": "e of its membership services periodically, and may adjust based on evolving market needs from time to time. iQIYI assesses and improves its membership services to better meet the evolving user demand. For example, it offers Express Packages ( 加更礼 ) that grant early access to finale episodes of hit drama series, and in 2025, it integrated this benefit into the S-diamond Plans at no additional cost to encourage membership upgrades. Additionally, during selected offline major marketing events, it o",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Business and Industry—We may",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 466109,
+        "end": 466609
+      }
+    },
+    {
+      "id": "02281ce35aecf928",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 45182,
+      "excerpt": "k, which includes cloud infrastructure, our in-house developed deep learning framework PaddlePaddle, our self-developed ERNIE foundation models, and applications. 95 Table of Contents AI Capabilities. In 2021, Baidu released ERNIE 3.0 Titan, a pre-training language model with 260 billion parameters. ERNIE 3.0 Titan is trained on a vast knowledge graph and massive unstructured data. Baidu released ERNIE Bot, our conversational AI bot powered by ERNIE, our in-house foundation model in the first qu",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Business and Industry—We may",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 469003,
+        "end": 469503
+      }
+    },
+    {
+      "id": "8006ccfcefb66a76",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 46072,
+      "excerpt": "y coverage, developer tools and ecosystem. We believe that EB4 is a GPT4-type of model, displaying human-level performance in understanding, content generation, complex reasoning and memory retention. In June 2024, Baidu expanded the ERNIE family of models with the launch of ERNIE 4.0 Turbo, offering superior capabilities for typical use cases, and designed to run faster and at lower costs compared to ERNIE 4.0. These capabilities are crucial for developing AI-native applications and solutions.",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Business and Industry—We may",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 469893,
+        "end": 470452
+      }
+    },
+    {
+      "id": "fcb5e7ce8a246ccd",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 120447,
+      "excerpt": "123 Table of Contents On January 30, 2026, eight departments including the MIIT issued the Guidelines on Automotive Data Outbound Transfer Security (2026 Edition), which took effect on the same date. According to the guidelines, “automotive data” refers to personal information and important data involved in the processes of automobile design, production, sales, use, operation, and maintenance. “Automotive data processors” are defined as organizations or individuals that independently determine t",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Corporate Structure,” “—Risk",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 619910,
+        "end": 620410
+      }
+    },
+    {
+      "id": "86ec1c742661441d",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 190535,
+      "excerpt": ". Regulation on Product Quality Products made in Chinese mainland are subject to the PRC Product Quality Law, which was promulgated on February 22, 1993 and most recently amended on December 29, 2018. According to the PRC Product Quality Law, a seller of a product should be responsible for repairing, replacing or returning the product with any of the following defects, and should compensate for the damages incurred by consumers who bought such defective product: (i) the product does not have the",
+      "sectionId": "item_3_d_key_information_risk_factors_ri",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors—Risks Related to Our Corporate Structure,” “—Risk",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 689997,
+        "end": 690557
+      }
+    },
+    {
+      "id": "e2019970e7ad7b95",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 5145,
+      "excerpt": "tial tax treatment no longer qualify for the preferential treatment, we will consider available options under applicable law that would enable us to qualify for alternative preferential tax treatment. To the extent we are unable to offset the impact of the expiration of existing preferential tax treatment with new tax exemptions, tax incentives or other tax benefits, the expiration of existing preferential tax treatment may cause our effective tax rate to increase. The amount of income tax payab",
+      "sectionId": "item_3_d_key_information_risk_factors_in",
+      "sectionHeader": "Item 3.D. Key Information—Risk Factors” in this annual report on Form 20-F. We caution y",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 727708,
+        "end": 728208
+      }
+    },
+    {
+      "id": "352ca497f5d6e48c",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 6132,
+      "excerpt": "oration for U.S. federal income tax purposes) that is created or organized in or under the laws of the United States, any State or the District of Columbia; • an estate whose income is subject to U.S. federal income taxation regardless of its source; or • a trust that (i) is subject to the supervision of a court within the United States and the control of one or more U.S. persons or (ii) has a valid election in effect under applicable U.S. Treasury regulations to be treated as a U.S. person. Thi",
+      "sectionId": "item_4_b_information_on_the_company_busi",
+      "sectionHeader": "Item 4.B. Information on the Company—Business Overview—Regulations—Regulations on Foreig",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 939459,
+        "end": 939959
+      }
+    },
+    {
+      "id": "c9a84443ea5fa0a2",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 7003,
+      "excerpt": "al owner of the ADSs or ordinary shares, the U.S. federal income tax treatment of a partner in the partnership will generally depend on the status of the partner and the activities of the partnership. Partners in a partnership holding our ordinary shares or ADSs should consult their tax advisors regarding the United States federal income tax considerations relating to the ownership or disposition of our ordinary shares or ADSs. The discussion below assumes that the representations contained in t",
+      "sectionId": "item_4_b_information_on_the_company_busi",
+      "sectionHeader": "Item 4.B. Information on the Company—Business Overview—Regulations—Regulations on Foreig",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 940330,
+        "end": 940830
+      }
+    },
+    {
+      "id": "df1569e21f3c5f4a",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 16K. CYBERSECURITY Risk Management and Strategy We have implemented comprehensive cybersecurity risk assessment procedures to ensure effectiveness in cybersecurity management, strategy and governance and reporting cybersecurity risks. We have also integrated cybersecurity risk management into our overall enterprise risk management system . We have developed a comprehensive cybersecurity threat defense system to address both internal and external threats. This system encompasses various leve",
+      "sectionId": "item_16k_cybersecurity_risk_management_a",
+      "sectionHeader": "ITEM 16K. CYBERSECURITY Risk Management and Strategy We have implemented comprehensive cybe",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 989294,
+        "end": 989794
+      }
+    },
+    {
+      "id": "2600d1807c022e8e",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 166124,
+      "excerpt": "lly unsecured. In evaluating the collectability of the amounts due from related parties, the Group considers many factors, including the related parties’ repayment history and their credit-worthiness. The Group maintains reserves for estimated credit losses and these losses have generally been within its expectations. Business and economic risks The Group participates in the dynamic and competitive high technology industry and believes that changes in any of the following areas could have a mate",
+      "sectionId": "item_19_exhibits_exhibit_number_descript",
+      "sectionHeader": "ITEM 19. EXHIBITS Exhibit Number Description of Document 1.1 Fifth Amended and Restated Me",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 1159519,
+        "end": 1160019
+      }
+    },
+    {
+      "id": "87e333f669618a6f",
+      "ticker": "BIDU",
+      "vendor": "VAT Group",
+      "charOffset": 190650,
+      "excerpt": "2,554 3,176 3,517 503 Amounts charged to expenses 669 404 1,713 245 Amounts written off ( 47 ) ( 63 ) ( 229 ) ( 33 ) Balance as of December 31 3,176 3,517 5,001 715 F-35 Table of Contents BAIDU, INC. NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEARS ENDED DECEMBER 31, 2023, 2024 AND 2025 9. OTHER ASSETS As of December 31, 2024 2025 2025 RMB RMB US$ (In millions) Inventories 5,989 6,200 887 Advances to suppliers 3,048 5,180 741 VAT prepayments 2,262 3,215 460 Contract assets, net 2,353",
+      "sectionId": "item_19_exhibits_exhibit_number_descript",
+      "sectionHeader": "ITEM 19. EXHIBITS Exhibit Number Description of Document 1.1 Fifth Amended and Restated Me",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 1184046,
+        "end": 1184606
+      }
+    },
+    {
+      "id": "eae185073953f2bc",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 195259,
+      "excerpt": "n Chinese mainland that were repayable within one year. As of December 31, 2024 and 2025, the Group factored certain notes receivables, which mainly comprised of intercompany notes, for cash proceeds. These notes receivable factoring transactions did not qualify as a sale of financial assets under ASC 860 as these notes receivables were transferred with recourse. The factoring transactions were accounted for as secured borrowings and were included in “Short-term loans”. The factored intercompany",
+      "sectionId": "item_19_exhibits_exhibit_number_descript",
+      "sectionHeader": "ITEM 19. EXHIBITS Exhibit Number Description of Document 1.1 Fifth Amended and Restated Me",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 1188654,
+        "end": 1189214
+      }
+    },
+    {
+      "id": "ec53303343d56976",
+      "ticker": "BIDU",
+      "vendor": null,
+      "charOffset": 196061,
+      "excerpt": ". Under the factoring arrangements, the suppliers’ receivables collection process was accelerated through selling its receivables from iQIYI to the banks or other financial institutions at a discount. For the years ended December 31, 2023, 2024 and 2025, iQIYI was legally obligated to pay the banks or other financial institutions in the amount totaling RMB 1.8 billion, RMB 1.1 billion and RMB 812 m illion (US$ 116 million), respectively, which will mature within one year. As a result of the fact",
+      "sectionId": "item_19_exhibits_exhibit_number_descript",
+      "sectionHeader": "ITEM 19. EXHIBITS Exhibit Number Description of Document 1.1 Fifth Amended and Restated Me",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 1189456,
+        "end": 1189956
+      }
+    },
+    {
+      "id": "f86852cffa5e2bab",
+      "ticker": "BIDU",
+      "vendor": "Arm",
+      "charOffset": 241752,
+      "excerpt": "d in the by-laws and the indemnification agreements. The Company purchases standard directors and officers insurance to cover claims or a portion of the claims made against its directors and officers. Since a maximum obligation is not explicitly stated in the Company’s by-laws or in the indemnification agreements and will depend on the facts and circumstances that arise out of any future claims, the overall maximum amount of the obligations cannot be reasonably estimated. Historically, the Group",
+      "sectionId": "item_19_exhibits_exhibit_number_descript",
+      "sectionHeader": "ITEM 19. EXHIBITS Exhibit Number Description of Document 1.1 Fifth Amended and Restated Me",
+      "form": "20-F",
+      "filingDate": "2026-03-17",
+      "type": "chunk",
+      "range": {
+        "start": 1235147,
+        "end": 1235707
+      }
+    }
+  ]
+}

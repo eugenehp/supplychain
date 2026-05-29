@@ -1,0 +1,57 @@
+{
+  "ticker": "MU",
+  "cik": "0000723125",
+  "name": "MICRON TECHNOLOGY INC",
+  "scrapedAt": "2026-05-29T04:56:04.912Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 30391000000,
+      "end": "2018-08-30",
+      "filed": "2018-10-15",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 37378000000,
+      "end": "2025-08-28",
+      "filed": "2025-10-03",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 3798000000,
+      "end": "2025-08-28",
+      "filed": "2025-10-03",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 14873000000,
+      "end": "2025-08-28",
+      "filed": "2025-10-03",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 82798000000,
+      "end": "2025-08-28",
+      "filed": "2025-10-03",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 20322000000,
+      "end": "2017-08-31",
+      "filed": "2017-10-26",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 30391000000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2025-10-03",
+    "accessionNumber": "0000723125-25-000028",
+    "primaryDocument": "mu-20250828.htm",
+    "reportDate": "2025-08-28"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm",
+  "htmlLength": 2439110
+}

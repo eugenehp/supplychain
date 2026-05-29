@@ -1,0 +1,2007 @@
+{
+  "ticker": "AMD",
+  "count": 133,
+  "generatedAt": "2026-05-29T05:37:46.919Z",
+  "entries": [
+    {
+      "id": "AMD-kw-0",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 13355,
+      "excerpt": "…d applications. By working closely with customers, we deliver customized solutions that meet their evolving needs, leveraging our broad IP portfolio and leadership in design, integration and advanced packaging. Our investments in technologies such as our custom-ready chiplet platform and AMD Infinity Fabric™ switch position us to maintain our leadership as a custom-design silicon provider of choice. Our Strategy We believe AI is shaping the next era of computing and its full potential will be realized when it becomes pervasive across cloud, edge and endpoint devices. With our compute engines,…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 13155,
+        "end": 13814
+      }
+    },
+    {
+      "id": "AMD-Cadence-0",
+      "ticker": "AMD",
+      "vendor": "Cadence",
+      "charOffset": 14310,
+      "excerpt": "…ake AMD the end-to-end AI leader. In 2025, a key priority was accelerating growth in our Data Center segment. Demand for our data center AI accelerator products was strong as large hyperscale customers, OEMs and ODMs deployed our AMD Instinct™ MI350X Series GPUs. We advanced our AMD AI GPU roadmap to deliver an annual cadence of leadership for AMD Instinct solutions, beginning with the AMD Instinct MI350 Series GPUs in 2025. Beyond GPUs, we launched the 5th Gen AMD EPYC™ family of server processors in 2025, which deliver leadership performance and capabilities for a wide range of data center workloads, including AI. In addition, we…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 13990,
+        "end": 14689
+      }
+    },
+    {
+      "id": "AMD-kw-1",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 15561,
+      "excerpt": "…usiness) to Sanmina Corporation (Sanmina). We made other strategic acquisitions during the year to advance our software capabilities and enable highly optimized solutions across the stack, support co-packaged optics solutions for next-generation AI systems, and bring deep expertise in high-speed inference and reasoning-based AI technologies for large-scale deployments. 2 Table of Conten t s We believe that AI systems will require not only powerful chips, but also full-stack innovation across compute, networking, systems architecture and software. AMD is uniquely positioned to deliver across th…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 15361,
+        "end": 15961
+      }
+    },
+    {
+      "id": "AMD-kw-2",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 15570,
+      "excerpt": "…to Sanmina Corporation (Sanmina). We made other strategic acquisitions during the year to advance our software capabilities and enable highly optimized solutions across the stack, support co-packaged optics solutions for next-generation AI systems, and bring deep expertise in high-speed inference and reasoning-based AI technologies for large-scale deployments. 2 Table of Conten t s We believe that AI systems will require not only powerful chips, but also full-stack innovation across compute, networking, systems architecture and software. AMD is uniquely positioned to deliver across this stack,…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 15370,
+        "end": 16030
+      }
+    },
+    {
+      "id": "AMD-kw-3",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 21922,
+      "excerpt": "…2026, we announced the Ryzen 7 9850X3D, in addition to our Ryzen 7 9800X3D series. Our Ryzen Threadripper™ 9000 Series processors for professional workstations feature increased core counts, expanded memory bandwidth and updated platform capabilities. Our portfolio also includes a broad range of Ryzen 9000 and Ryzen series desktop processors featuring a wide range of capabilities and price points for the growing Socket AM5 platform. In 2025, we released additional AMD Ryzen G Series processors with integrated advanced graphics to extend the longevity of the Socket AM4 platform. Notebook CPUs.…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 21722,
+        "end": 22381
+      }
+    },
+    {
+      "id": "AMD-kw-4",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 22986,
+      "excerpt": "…by introducing Ryzen AI-powered platforms across notebooks and mini desktops and introduced a new reference platform for AI developers in January 2026, the Ryzen AI Halo, that features up to 128GB of memory for large AI model support. We also expanded the Ryzen AI Max processor lineup with the Ryzen AI Max+392 and Ryzen AI Max+388 to enable wider price points for our maximum GPU configurations. Our AMD Ryzen 8000 Series mobile processors, built on the “Zen 4” architecture feature our first generation NPU, and our Ryzen 10 and 100 series mobile processors, powered by both our “Zen 2” and “Zen 3…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 22787,
+        "end": 23387
+      }
+    },
+    {
+      "id": "AMD-kw-5",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 24810,
+      "excerpt": "…of price points. For desktops, the AMD Ryzen PRO 8000G Series desktops offer an integrated AI solution for enterprises, and our AMD Ryzen Threadripper PRO CPU enables leadership performance, expanded memory bandwidth and platform reliability for premium workstations. Chipsets. We offer a full suite of chipset products to support our AMD Ryzen and AMD Ryzen Threadripper platforms, for entry level through professional workstation desktop systems. These chipsets complement our latest CPU innovations, supporting robust connectivity and scalability for diverse client computing needs. Gaming Busines…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 24610,
+        "end": 25210
+      }
+    },
+    {
+      "id": "AMD-kw-6",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 32566,
+      "excerpt": "…atforms. We offer two types of platforms that support our customers' designs and reduce their development efforts: FPGAs and adaptive SoCs. FPGAs feature reconfigurable hardware as well as integrated memory, DSP, analog mixed signal, high-speed serial transceivers and networking cores coupled with advanced software for a broad range of applications in all of our end markets. Our adaptive SoCs feature a heterogeneous processing system with integrated programmable hardware fabric targeting embedded systems that need real-time control, analytics, sensor fusion and adaptable hardware for different…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 32366,
+        "end": 32966
+      }
+    },
+    {
+      "id": "AMD-kw-7",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 33463,
+      "excerpt": "…daptive SoCs target software developers as well as traditional hardware designers. Our Versal portfolio combines a processing system, programmable logic, AI Engines, and DSP Engines with leading-edge memory and interfacing technologies to deliver powerful heterogeneous acceleration for any application. This product portfolio is ideally suited to accelerate a broad set of applications in the emerging era of big data and AI. Software Development Platform. Our AMD Vivado™ Design Suite provides hardware design teams with the tools and methodology needed to program FPGAs and adaptive SoCs. Our Viti…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 33263,
+        "end": 33863
+      }
+    },
+    {
+      "id": "AMD-kw-8",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 36462,
+      "excerpt": "…e+, Artix™ 7, Artix UltraScale+, Spartan™ 6, and Spartan 7 brands. 7 Table of Conten t s Our product brands for adaptive SoCs are Zynq™ 7000, Zynq UltraScale+™ MPSoC, Zynq UltraScale+ RFSoCs, Versal™ HBM, Versal Premium, Versal Prime, Versal™ AI Core and Versal AI Edge. The software tools for our programmable devices are Vitis™, Vitis AI™, and Vivado™ tools. Our System-on-Module (SOM) product is the Kria™ brand. We also sell low-power versions of our AMD Athlon™, as well as AMD Geode™, AMD Ryzen™, AMD EPYC™, AMD R Series and G Series processors as embedded processor solutions. Our compute and…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 36262,
+        "end": 36921
+      }
+    },
+    {
+      "id": "AMD-kw-9",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 38785,
+      "excerpt": "…hese products, we either sell directly to our customers or through a network of distributors and OEM partners. We are also developing a network of Value Added Resellers (VARs) and Integrated Solution Vendors (ISVs) for our Alveo products. We work closely with our customers to define product features, performance and timing of new products so that the products we are developing meet our customers’ needs. We also employ application engineers to assist our customers in designing, testing and qualifying system designs that incorporate our products. We believe that our commitment to customer servic…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 38586,
+        "end": 39246
+      }
+    },
+    {
+      "id": "AMD-Arm-0",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 44145,
+      "excerpt": "…ment, we compete primarily against Intel Corporation (Intel) and Nvidia Corporation (Nvidia with our CPU, GPU DPU and AI NIC server products. In addition, we compete against Altera with our FPGA and adaptive SoC server products. A variety of smaller fabless silicon companies offer proprietary accelerator solutions and Arm®-based CPUs targeting data center use cases. In addition, some of our customers are internally developing their own data center microprocessor products and accelerator products which could impact the available market for our products. Competition in Client and Gaming Segment Our primary competitor in the supply of…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 43825,
+        "end": 44524
+      }
+    },
+    {
+      "id": "AMD-Arm-1",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 44538,
+      "excerpt": "…customers are internally developing their own data center microprocessor products and accelerator products which could impact the available market for our products. Competition in Client and Gaming Segment Our primary competitor in the supply of CPUs and APUs is Intel. A variety of companies provide or have developed Arm-based microprocessors and platforms which could lead to further adoption of Arm-based PC solutions. 9 Table of Conten t s Our principal competitor in the supply of discrete graphics is Nvidia, who is the discrete GPU market share leader, and Intel, who manufactures and sells integrated graphics processors and gamin…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 44219,
+        "end": 44858
+      }
+    },
+    {
+      "id": "AMD-Arm-2",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 44618,
+      "excerpt": "…ts and accelerator products which could impact the available market for our products. Competition in Client and Gaming Segment Our primary competitor in the supply of CPUs and APUs is Intel. A variety of companies provide or have developed Arm-based microprocessors and platforms which could lead to further adoption of Arm-based PC solutions. 9 Table of Conten t s Our principal competitor in the supply of discrete graphics is Nvidia, who is the discrete GPU market share leader, and Intel, who manufactures and sells integrated graphics processors and gaming-focused discrete GPUs. With respect to integrated graphics, higher unit shipme…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 44298,
+        "end": 44938
+      }
+    },
+    {
+      "id": "AMD-kw-10",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 45533,
+      "excerpt": "…critical. Competition in Embedded Segment We expect continued competition from our primary FPGA competitors such as Altera, Lattice Semiconductor Corporation and Microsemi Corporation, and from ASSP vendors such as Broadcom Corporation, Marvell Technology Group, Ltd., Analog Devices, Texas Instruments Incorporated, NXP Semiconductors N.V., Qualcomm Incorporated and NVIDIA. In addition, we expect continued competition from the ASIC market, which has been ongoing since the inception of FPGAs. Intel is our main competitor for embedded CPUs. Other competitors include manufacturers of high-density…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 45334,
+        "end": 45993
+      }
+    },
+    {
+      "id": "AMD-kw-11",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 47008,
+      "excerpt": "…th security in mind, new integrated circuits (ICs) with improved performance and performance-per-watt in advanced semiconductor manufacturing processes, the design of logic and interface IP, advanced packaging technologies, and heterogeneous integration technologies. We also focus on software as part of the development of our products, including design automation tools for hardware, embedded software, AI stack, and optimized software tools and libraries that extend the reach of our platforms to software and AI developers. Through our R&D efforts, we were able to introduce a number of new produ…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 46808,
+        "end": 47408
+      }
+    },
+    {
+      "id": "AMD-kw-12",
+      "ticker": "AMD",
+      "vendor": "TSMC, GlobalFoundries",
+      "charOffset": 48047,
+      "excerpt": "…tates with additional design and development engineering teams located in various countries who undertake specific activities at the direction of our U.S. headquarters. Manufacturing Arrangements and Assembly and Test Facilities Third-Party Wafer Foundry Facilities We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 47847,
+        "end": 48506
+      }
+    },
+    {
+      "id": "AMD-kw-13",
+      "ticker": "AMD",
+      "vendor": "TSMC, Samsung, GlobalFoundries",
+      "charOffset": 48094,
+      "excerpt": "…gineering teams located in various countries who undertake specific activities at the direction of our U.S. headquarters. Manufacturing Arrangements and Assembly and Test Facilities Third-Party Wafer Foundry Facilities We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 47894,
+        "end": 48554
+      }
+    },
+    {
+      "id": "AMD-TSMC-0",
+      "ticker": "AMD",
+      "vendor": "TSMC",
+      "charOffset": 48124,
+      "excerpt": "…activities for our products in the United States with additional design and development engineering teams located in various countries who undertake specific activities at the direction of our U.S. headquarters. Manufacturing Arrangements and Assembly and Test Facilities Third-Party Wafer Foundry Facilities We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporati…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 47804,
+        "end": 48444
+      }
+    },
+    {
+      "id": "AMD-kw-14",
+      "ticker": "AMD",
+      "vendor": "TSMC, Samsung, GlobalFoundries",
+      "charOffset": 48176,
+      "excerpt": "…the direction of our U.S. headquarters. Manufacturing Arrangements and Assembly and Test Facilities Third-Party Wafer Foundry Facilities We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Part…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 47976,
+        "end": 48576
+      }
+    },
+    {
+      "id": "AMD-GlobalFoundries-0",
+      "ticker": "AMD",
+      "vendor": "GlobalFoundries",
+      "charOffset": 48259,
+      "excerpt": "…who undertake specific activities at the direction of our U.S. headquarters. Manufacturing Arrangements and Assembly and Test Facilities Third-Party Wafer Foundry Facilities We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party M…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 47939,
+        "end": 48579
+      }
+    },
+    {
+      "id": "AMD-kw-15",
+      "ticker": "AMD",
+      "vendor": "Samsung, GlobalFoundries",
+      "charOffset": 48405,
+      "excerpt": "…afers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foun…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48205,
+        "end": 48805
+      }
+    },
+    {
+      "id": "AMD-Samsung-0",
+      "ticker": "AMD",
+      "vendor": "Samsung",
+      "charOffset": 48457,
+      "excerpt": "…nductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foun…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 48137,
+        "end": 48777
+      }
+    },
+    {
+      "id": "AMD-kw-16",
+      "ticker": "AMD",
+      "vendor": "Samsung, GlobalFoundries",
+      "charOffset": 48457,
+      "excerpt": "…d GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP)…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48257,
+        "end": 48917
+      }
+    },
+    {
+      "id": "AMD-kw-17",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48678,
+      "excerpt": "…o., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co.,…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48478,
+        "end": 49138
+      }
+    },
+    {
+      "id": "AMD-kw-18",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48703,
+      "excerpt": "…on of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Silic…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48503,
+        "end": 49103
+      }
+    },
+    {
+      "id": "AMD-kw-19",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48773,
+      "excerpt": "…arty Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Comp…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48574,
+        "end": 49174
+      }
+    },
+    {
+      "id": "AMD-kw-20",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48801,
+      "excerpt": "…rce board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP serv…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48601,
+        "end": 49201
+      }
+    },
+    {
+      "id": "AMD-kw-21",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48816,
+      "excerpt": "…graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP services for our pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48617,
+        "end": 49216
+      }
+    },
+    {
+      "id": "AMD-kw-22",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48841,
+      "excerpt": "…turing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP services for our products. 10 Table of Conte…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48642,
+        "end": 49302
+      }
+    },
+    {
+      "id": "AMD-kw-23",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48870,
+      "excerpt": "…turers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP services for our products. 10 Table of Conten t s Intellectual Property a…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48670,
+        "end": 49270
+      }
+    },
+    {
+      "id": "AMD-kw-24",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 48925,
+      "excerpt": "…afers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd. The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP services for our products. 10 Table of Conten t s Intellectual Property and Licensing We rely on contracts and intellectual prop…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 48725,
+        "end": 49325
+      }
+    },
+    {
+      "id": "AMD-kw-25",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 58089,
+      "excerpt": "…ts, discharge of pollutants into the environment, the treatment, transport, storage and disposal of solid and hazardous wastes and remediation of contamination. These laws and regulations require our suppliers to obtain permits for operations in making our products, including the discharge of air pollutants and wastewater. Environmental laws are complex, change frequently and tend to become more stringent over time. 12 Table of Conten t s Certain environmental laws, including the United States Comprehensive, Environmental Response, Compensation and Liability Act of 1980, or the Superfund Act,…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 57889,
+        "end": 58548
+      }
+    },
+    {
+      "id": "AMD-kw-26",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 61901,
+      "excerpt": "…t recycling efforts. Certain of these laws target end-user products. However, the scope of such laws is inconsistent, which increases the complexity of compliance. We continue to work with customers, suppliers and industry groups to monitor and address product-related environmental regulations. While compliance has not historically had a material impact on our financial condition, earnings, or competitive position, there can be no assurance that these evolving laws will not require us to incur significant costs, modify our operations or product designs, or take other actions for compliance. Ad…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 61701,
+        "end": 62301
+      }
+    },
+    {
+      "id": "AMD-Arm-3",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 63773,
+      "excerpt": "…o Devices, Inc. Microsoft, Windows, and Xbox One are registered trademarks of Microsoft Corporation in the United States and/or other countries. Linux is the registered trademark of Linus Torvalds in the United States and/or other countries. PlayStation is a registered trademark of Sony Interactive Entertainment, Inc. Arm is a registered trademark of Arm Limited (or its subsidiaries) in the United States and/or other countries. 13 Table of Conten t s Other names are for informational purposes only and are used to identify companies and products and may be trademarks of their respective owners. Website Access to Our SEC Filings and C…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 63453,
+        "end": 64093
+      }
+    },
+    {
+      "id": "AMD-Arm-4",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 63806,
+      "excerpt": "…s, and Xbox One are registered trademarks of Microsoft Corporation in the United States and/or other countries. Linux is the registered trademark of Linus Torvalds in the United States and/or other countries. PlayStation is a registered trademark of Sony Interactive Entertainment, Inc. Arm is a registered trademark of Arm Limited (or its subsidiaries) in the United States and/or other countries. 13 Table of Conten t s Other names are for informational purposes only and are used to identify companies and products and may be trademarks of their respective owners. Website Access to Our SEC Filings and Corporate Governance Documents On…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 63486,
+        "end": 64185
+      }
+    },
+    {
+      "id": "AMD-kw-27",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 68586,
+      "excerpt": "…nvolving the ordering and shipment of our products could materially adversely affect us. • Our ability to design and introduce new products includes the use of third-party intellectual property. • We depend on third-party companies for the design, manufacture and supply of motherboards, software, memory and other computer platform components to support our business and products. • If we lose Microsoft Corporation’s support for our products or other software vendors do not design and develop software to run on our products, our ability to sell our products could be materially adversely affected…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 68386,
+        "end": 68986
+      }
+    },
+    {
+      "id": "AMD-kw-28",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 68684,
+      "excerpt": "…lity to design and introduce new products includes the use of third-party intellectual property. • We depend on third-party companies for the design, manufacture and supply of motherboards, software, memory and other computer platform components to support our business and products. • If we lose Microsoft Corporation’s support for our products or other software vendors do not design and develop software to run on our products, our ability to sell our products could be materially adversely affected. • Our reliance on third-party distributors and add-in-board (AIB) partners subjects us to certai…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 68485,
+        "end": 69145
+      }
+    },
+    {
+      "id": "AMD-kw-29",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 68848,
+      "excerpt": "…d supply of motherboards, software, memory and other computer platform components to support our business and products. • If we lose Microsoft Corporation’s support for our products or other software vendors do not design and develop software to run on our products, our ability to sell our products could be materially adversely affected. • Our reliance on third-party distributors and add-in-board (AIB) partners subjects us to certain risks. • Our business depends on the proper functioning of our internal business processes and information systems. • Our products may not be compatible with some…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 68648,
+        "end": 69308
+      }
+    },
+    {
+      "id": "AMD-Arm-5",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 70527,
+      "excerpt": "…ty to other claims or litigation. • We are subject to environmental laws, conflict minerals regulations, as well as a variety of other laws or regulations. • Evolving expectations from governments, investors, customers and other stakeholders regarding corporate responsibility matters could result in additional costs, harm to our reputation and a loss of customers. • Issues related to the responsible use of AI may result in reputational, competitive and financial harm and liability. • The agreements governing our notes, our guarantee of Xilinx’s notes and the Revolving Credit Agreement. • We may be required to satisfy financial oblig…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 70208,
+        "end": 70848
+      }
+    },
+    {
+      "id": "AMD-Arm-6",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 70675,
+      "excerpt": "…ations. • Evolving expectations from governments, investors, customers and other stakeholders regarding corporate responsibility matters could result in additional costs, harm to our reputation and a loss of customers. • Issues related to the responsible use of AI may result in reputational, competitive and financial harm and liability. • The agreements governing our notes, our guarantee of Xilinx’s notes and the Revolving Credit Agreement. • We may be required to satisfy financial obligations under guarantees and other commercial commitments. Merger, Acquisition, Divestiture, and Integration Risks • Acquisitions, joint ventures, an…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 70355,
+        "end": 70995
+      }
+    },
+    {
+      "id": "AMD-Arm-7",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 73325,
+      "excerpt": "…eting, and distribution resources than us. As a result, they may be able to acquire market share or limit our ability to do so, more effectively capitalize on new market opportunities, and transition their products more efficiently than we can. Some competitors are pursuing alternative computing architectures, such as Arm, which could grow the Arm ecosystem and increase competition in consumer, commercial and data center, reducing demand for our products. Additionally, we may encounter competition from customers who internally develop products to support similar AI workloads to those supported by ours. Our competitors may use their…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 73005,
+        "end": 73704
+      }
+    },
+    {
+      "id": "AMD-kw-30",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 78091,
+      "excerpt": "…segment, we offer products that are optimized for generative AI applications and since 2024, we have experienced significant demand for our AI accelerators. The demand for such products will in part depend on the extent to which our customers utilize generative AI solutions in a wide variety of applications, and both the near-term and long-term trajectory of such generative AI solutions is unknown. Some customers in AI markets may be unable to secure access to internal and external infrastructure, including availability of sufficient data center capacity or energy for the buildout of data cen…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 77892,
+        "end": 78491
+      }
+    },
+    {
+      "id": "AMD-kw-31",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 78958,
+      "excerpt": "…d future growth strategy. Customers may also lack, or be unable to, secure capital to fund their required AI infrastructure and may request alternative financing or deferred‑payment arrangements from vendors and suppliers. These limitations could delay or reduce the demand for our products, which could negatively impact our revenue. Our Client and Gaming segment revenue is focused on the consumer desktop and notebook PC segments and will depend in part on the market’s adoption of AI PCs. We are actively building AI capabilities into all our Client products, such as Ryzen AI PC processors, but…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 78758,
+        "end": 79417
+      }
+    },
+    {
+      "id": "AMD-kw-32",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 78970,
+      "excerpt": "…wth strategy. Customers may also lack, or be unable to, secure capital to fund their required AI infrastructure and may request alternative financing or deferred‑payment arrangements from vendors and suppliers. These limitations could delay or reduce the demand for our products, which could negatively impact our revenue. Our Client and Gaming segment revenue is focused on the consumer desktop and notebook PC segments and will depend in part on the market’s adoption of AI PCs. We are actively building AI capabilities into all our Client products, such as Ryzen AI PC processors, but there can be…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 78770,
+        "end": 79430
+      }
+    },
+    {
+      "id": "AMD-kw-33",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 83339,
+      "excerpt": "…Data Center segment, we offer products that are optimized for generative AI applications and we have experienced significant demand for our AI accelerators. The demand for such products in part will depend on the extent to which our customers utilize generative AI solutions in a wide variety of applications as both the near-term and long-term trajectory of such generative AI solutions is unknown. If we fail to develop and timely offer or deploy such products and technologies, keep pace with the product offerings of our competitors, or adapt to unexpected changes in industry standards or disru…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 83140,
+        "end": 83739
+      }
+    },
+    {
+      "id": "AMD-kw-34",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 84831,
+      "excerpt": "…ion in a customer’s system or product can be lengthy and could cause us to further miss a cycle in the demand of end-users, which could result in a loss of market share and harm our business. We also depend on the timing and success of our customers’ platform launches. If our customers delay their product launches or if our customers do not effectively market their platforms with our products, it could result in a delay in bringing our products to market and cause us to miss a cycle in the demand of end-users, which could materially adversely affect our business. In addition, as market demand…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 84631,
+        "end": 85290
+      }
+    },
+    {
+      "id": "AMD-kw-35",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 86786,
+      "excerpt": "…y also result in unanticipated quality or production issues that could result in product delays. 19 Table of Conten t s The loss of a significant customer may have a material adverse effect on us. We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue and receivables in the future. If one of our key customers decides to stop buying our products, materially reduces its operations or its demand for our products, or has operations that are materially impaired f…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 86586,
+        "end": 87186
+      }
+    },
+    {
+      "id": "AMD-kw-36",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 88747,
+      "excerpt": "…ings and cash flow could be adversely impacted. This risk is heightened as we expect that a small number of customers will continue to account for a substantial part of our revenue. Moreover, our key suppliers may reduce their output or become insolvent, thereby adversely impacting our ability to manufacture our products. Adverse changes in economic conditions could increase costs of memory, equipment, materials or substrates and other supply chain expenses. For example, there is currently an industry-wide memory shortage as the demand for such components has outpaced supply. The price of memo…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 88547,
+        "end": 89147
+      }
+    },
+    {
+      "id": "AMD-kw-37",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 88934,
+      "excerpt": "…ver, our key suppliers may reduce their output or become insolvent, thereby adversely impacting our ability to manufacture our products. Adverse changes in economic conditions could increase costs of memory, equipment, materials or substrates and other supply chain expenses. For example, there is currently an industry-wide memory shortage as the demand for such components has outpaced supply. The price of memory has also increased as a result of the shortage. If we are not able to procure a stable supply of materials, including memory, on an ongoing basis and at reasonable costs to meet our pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 88734,
+        "end": 89334
+      }
+    },
+    {
+      "id": "AMD-kw-38",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 89059,
+      "excerpt": "…r products. Adverse changes in economic conditions could increase costs of memory, equipment, materials or substrates and other supply chain expenses. For example, there is currently an industry-wide memory shortage as the demand for such components has outpaced supply. The price of memory has also increased as a result of the shortage. If we are not able to procure a stable supply of materials, including memory, on an ongoing basis and at reasonable costs to meet our production requirements, we could experience a supply shortage or an increase in production costs, which could negatively impac…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 88859,
+        "end": 89459
+      }
+    },
+    {
+      "id": "AMD-kw-39",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 89143,
+      "excerpt": "…quipment, materials or substrates and other supply chain expenses. For example, there is currently an industry-wide memory shortage as the demand for such components has outpaced supply. The price of memory has also increased as a result of the shortage. If we are not able to procure a stable supply of materials, including memory, on an ongoing basis and at reasonable costs to meet our production requirements, we could experience a supply shortage or an increase in production costs, which could negatively impact our gross margin and materially adversely affect our business. Our ability to fore…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "keyword",
+      "range": {
+        "start": 88943,
+        "end": 89543
+      }
+    },
+    {
+      "id": "AMD-TSMC-1",
+      "ticker": "AMD",
+      "vendor": "TSMC",
+      "charOffset": 94628,
+      "excerpt": "…ly on third parties to manufacture our products, and if they are unable to do so on a timely basis in sufficient quantities and using competitive technologies, our business could be materially adversely affected. We utilize third-party wafer foundries to fabricate the silicon wafers for all of our products. We rely on Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of all wafers for microprocessor and GPU products at 7 nanometer (nm) or smaller nodes, and we rely primarily on GLOBALFOUNDRIES Inc. (GF) for wafers for microprocessor and GPU products manufactured at process nodes larger than 7 nm. We also u…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 94309,
+        "end": 94949
+      }
+    },
+    {
+      "id": "AMD-GlobalFoundries-1",
+      "ticker": "AMD",
+      "vendor": "GlobalFoundries",
+      "charOffset": 94818,
+      "excerpt": "…ly adversely affected. We utilize third-party wafer foundries to fabricate the silicon wafers for all of our products. We rely on Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of all wafers for microprocessor and GPU products at 7 nanometer (nm) or smaller nodes, and we rely primarily on GLOBALFOUNDRIES Inc. (GF) for wafers for microprocessor and GPU products manufactured at process nodes larger than 7 nm. We also utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for our integrated circuits (IC) in the form of programmable logic devices. We also rely on third-par…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 94498,
+        "end": 95138
+      }
+    },
+    {
+      "id": "AMD-Samsung-1",
+      "ticker": "AMD",
+      "vendor": "Samsung",
+      "charOffset": 95007,
+      "excerpt": "…or the production of all wafers for microprocessor and GPU products at 7 nanometer (nm) or smaller nodes, and we rely primarily on GLOBALFOUNDRIES Inc. (GF) for wafers for microprocessor and GPU products manufactured at process nodes larger than 7 nm. We also utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for our integrated circuits (IC) in the form of programmable logic devices. We also rely on third-party manufacturers to assemble, test, mark and pack (ATMP) our products. Our third-party package assembly partners are responsible for packaging technology used to fabricate our products. It…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 94687,
+        "end": 95386
+      }
+    },
+    {
+      "id": "AMD-Cadence-1",
+      "ticker": "AMD",
+      "vendor": "Cadence",
+      "charOffset": 210143,
+      "excerpt": "…significant progress executing our AI strategy. A priority in 2025 was accelerating growth in the Data Center segment. Demand for our data center AI GPU products was strong as large hyperscale customers, OEMs and ODMs deployed our AMD Instinct MI350X Series GPUs. We advanced our AMD AI GPU roadmap to deliver an annual cadence of leadership for AMD Instinct solutions, beginning with the AMD Instinct MI350 Series GPUs in 2025. Beyond GPUs, we launched the 5th Gen AMD EPYC family of server processors in 2025, which deliver leadership performance and capabilities for a wide range of data center workloads, including AI. We also expanded…",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "range": {
+        "start": 209823,
+        "end": 210522
+      }
+    },
+    {
+      "id": "afd2f4adcce61cc3",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 3578,
+      "excerpt": "ng with integrated AI processing capabilities. We develop comprehensive software stacks that include development tools, compilers and drivers to enable our high-performance CPUs, APUs, GPUs and FPGAs. We have a comprehensive and open AI software stack to support the diverse set of AI ecosystems across frameworks, large and small language models and applications. By working closely with customers, we deliver customized solutions that meet their evolving needs, leveraging our broad IP portfolio an",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 12806,
+        "end": 13306
+      }
+    },
+    {
+      "id": "6932b1089a5da69b",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 5382,
+      "excerpt": "AI. In addition, we previewed our “Helios” AI rack-scale platform solution that incorporates all of our data center products (CPUs, GPUs and Networking) to address the growing AI compute requirements. We strengthened our AI leadership through a number of strategic acquisitions during the year. In March 2025, we acquired ZT Group Int’l, Inc. (ZT Systems), where we retained certain intellectual property and employees associated with the design operations (ZT Design Business). This acquisition enab",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 14610,
+        "end": 15110
+      }
+    },
+    {
+      "id": "b6ec2f59aa3183d9",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 6304,
+      "excerpt": "across the stack, support co-packaged optics solutions for next-generation AI systems, and bring deep expertise in high-speed inference and reasoning-based AI technologies for large-scale deployments. 2 Table of Conten t s We believe that AI systems will require not only powerful chips, but also full-stack innovation across compute, networking, systems architecture and software. AMD is uniquely positioned to deliver across this stack, combining industry-leading CPUs, GPUs and adaptive SoCs with",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 15532,
+        "end": 16091
+      }
+    },
+    {
+      "id": "9f03da2247069582",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 11914,
+      "excerpt": "specific use cases. We built a leadership roadmap across these areas and are continuing to further differentiate end user experiences by infusing AI across our portfolio. Client Products Desktop CPUs. Our desktop CPU and APU offerings include the AMD Ryzen™ and AMD Ryzen Threadripper™ processors. The Ryzen 9000 Series processors feature “Zen 5” cores, along with X3D models featuring 2nd generation AMD 3D V-Cache™ technology for leadership gaming performance. In 2025, we launched processors for g",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 21142,
+        "end": 21642
+      }
+    },
+    {
+      "id": "0a73ab102c05354b",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 12893,
+      "excerpt": "for the growing Socket AM5 platform. In 2025, we released additional AMD Ryzen G Series processors with integrated advanced graphics to extend the longevity of the Socket AM4 platform. Notebook CPUs. Our latest mobile processors are designed to deliver premium laptop experiences with local AI. In 2025, we launched AMD Ryzen AI 300 Series processors featuring a next generation NPU supporting Microsoft Copilot+ PCs, our latest “Zen 5” architecture and our AMD RDNA™ 3.5 graphics architecture. In Ja",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 22122,
+        "end": 22622
+      }
+    },
+    {
+      "id": "257206780da849ed",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 13755,
+      "excerpt": "of memory for large AI model support. We also expanded the Ryzen AI Max processor lineup with the Ryzen AI Max+392 and Ryzen AI Max+388 to enable wider price points for our maximum GPU configurations. Our AMD Ryzen 8000 Series mobile processors, built on the “Zen 4” architecture feature our first generation NPU, and our Ryzen 10 and 100 series mobile processors, powered by both our “Zen 2” and “Zen 3+” core architectures, all address mainstream consumer and commercial markets. For handheld gamin",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 22983,
+        "end": 23483
+      }
+    },
+    {
+      "id": "02913ac00e5c9112",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 14708,
+      "excerpt": "In 2025, we reinforced our leadership in commercial computing with new Ryzen PRO offerings that integrate AI capabilities, delivering performance, mobility, and enterprise features for our customers. Our AMD Ryzen AI PRO 300 Series, brings world-class security and manageability, with leadership productivity, battery life and AI capabilities to business notebooks and mobile workstations. With the announcement of our Ryzen AI 400 PRO Series, we continued to expand our next gen AI PC leadership and",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 23937,
+        "end": 24497
+      }
+    },
+    {
+      "id": "0b1bea98b071af01",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 23077,
+      "excerpt": "able of Conten t s Design Platforms and Services Adaptable Platforms. We offer two types of platforms that support our customers' designs and reduce their development efforts: FPGAs and adaptive SoCs. FPGAs feature reconfigurable hardware as well as integrated memory, DSP, analog mixed signal, high-speed serial transceivers and networking cores coupled with advanced software for a broad range of applications in all of our end markets. Our adaptive SoCs feature a heterogeneous processing system w",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 32305,
+        "end": 32805
+      }
+    },
+    {
+      "id": "a5e6773664f0f989",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 23917,
+      "excerpt": "h hardware and software design tools and an extensive operating system, middleware, software stack and IP ecosystem, adaptive SoCs target software developers as well as traditional hardware designers. Our Versal portfolio combines a processing system, programmable logic, AI Engines, and DSP Engines with leading-edge memory and interfacing technologies to deliver powerful heterogeneous acceleration for any application. This product portfolio is ideally suited to accelerate a broad set of applicat",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 33145,
+        "end": 33645
+      }
+    },
+    {
+      "id": "c3b9421430df7f47",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 26582,
+      "excerpt": "n™, and AMD PRO A-Series processors. Our product brand for the consumer graphics market is AMD Radeon™ graphics, and AMD Embedded Radeon graphics is our product brand for the embedded graphics market. Our product brand for professional graphics products is AMD Radeon™ PRO graphics. We also market and sell our chipsets under AMD trademarks. Our FPGA products are Virtex™ 6, Virtex 7, Virtex UltraScale+, Kintex™ 7, Kintex UltraScale™, Kintex UltraScale+, Artix™ 7, Artix UltraScale+, Spartan™ 6, and",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 35810,
+        "end": 36370
+      }
+    },
+    {
+      "id": "8647f75dc4d886e8",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 28482,
+      "excerpt": "s and independent distributors in both domestic and international markets. ODMs provide design and/or manufacturing services to branded and unbranded private label resellers, OEMs and system builders. Our Client and Gaming Segment customers consist primarily of PC OEMs, a network of independent distributors and, for chipset products, ODMs that manufacture motherboards. PC OEMs and independent distributors as well as add-in-board manufacturers (AIBs), independent game console and portable gaming",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 37710,
+        "end": 38269
+      }
+    },
+    {
+      "id": "de7d7c266db3d7b9",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 29395,
+      "excerpt": "to our customers or through a network of distributors and OEM partners. We are also developing a network of Value Added Resellers (VARs) and Integrated Solution Vendors (ISVs) for our Alveo products. We work closely with our customers to define product features, performance and timing of new products so that the products we are developing meet our customers’ needs. We also employ application engineers to assist our customers in designing, testing and qualifying system designs that incorporate ou",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 38624,
+        "end": 39124
+      }
+    },
+    {
+      "id": "47d06891b397ecaf",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 35915,
+      "excerpt": "y may offer satisfactory graphics performance for most mainstream PC users at a lower cost. We are the market share leader in semi-custom game console products, where graphics performance is critical. Competition in Embedded Segment We expect continued competition from our primary FPGA competitors such as Altera, Lattice Semiconductor Corporation and Microsemi Corporation, and from ASSP vendors such as Broadcom Corporation, Marvell Technology Group, Ltd., Analog Devices, Texas Instruments Incorp",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 45143,
+        "end": 45643
+      }
+    },
+    {
+      "id": "eaaee0760dd87a4d",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 37354,
+      "excerpt": "is on delivering the next generation of processors (CPU and GPU), FPGAs and adaptive SoCs, accelerators (adaptive, graphics and DPU), SOMs and AI NICs, and the associated software for these products. We focus on designing, with security in mind, new integrated circuits (ICs) with improved performance and performance-per-watt in advanced semiconductor manufacturing processes, the design of logic and interface IP, advanced packaging technologies, and heterogeneous integration technologies. We also",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 46583,
+        "end": 47143
+      }
+    },
+    {
+      "id": "ef51b6f5f2bbe0a6",
+      "ticker": "AMD",
+      "vendor": "TSMC, Samsung, GlobalFoundries",
+      "charOffset": 38341,
+      "excerpt": "ther industry consortia to conduct early-stage R&D. We are also actively contributing to numerous industry open-source software initiatives and industry consortia across a broad range of technologies. We conduct product and system R&D activities for our products in the United States with additional design and development engineering teams located in various countries who undertake specific activities at the direction of our U.S. headquarters. Manufacturing Arrangements and Assembly and Test Faci",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 47569,
+        "end": 48069
+      }
+    },
+    {
+      "id": "179f58fd508fde5d",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 39249,
+      "excerpt": "Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-party manufacturers. Assembly, Test, Mark and Packaging Facilities Wafers for our products are either sorted by the foundry or delivered by the foundry to our assembly, test, mark and packaging (ATMP) partners or subcontractors located in the Asia-Pacific region, who package and test our final semiconductor products. W",
+      "sectionId": "item_1a_risk_factors_and_the_financial_c",
+      "sectionHeader": "Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 48477,
+        "end": 48977
+      }
+    },
+    {
+      "id": "35dd67e06606bb58",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1A. Environmental Regulations Our operations and properties are subject to various United States and foreign laws and regulations, including those relating to materials used in our products and the manufacturing processes of our products, discharge of pollutants into the environment, the treatment, transport, storage and disposal of solid and hazardous wastes and remediation of contamination. These laws and regulations require our suppliers to obtain permits for operations in making our pro",
+      "sectionId": "item_1a_environmental_regulations_our_op",
+      "sectionHeader": "Item 1A. Environmental Regulations Our operations and properties are subject to various Un",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 57649,
+        "end": 58149
+      }
+    },
+    {
+      "id": "7f8c8f6fb64662ec",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 3567,
+      "excerpt": "Jurisdictions including the EU, California and China are developing or have finalized product energy efficiency regulations impacting market access and/or public procurement for computers and servers. Existing and developing regulations related to electronic waste recycling and extended producer responsibility, including the EU, China, Brazil, India, as well as state and municipal jurisdictions like California and Sao Paulo Brazil, require labeling, fees and/or reporting to support recycling eff",
+      "sectionId": "item_1a_environmental_regulations_our_op",
+      "sectionHeader": "Item 1A. Environmental Regulations Our operations and properties are subject to various Un",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 61216,
+        "end": 61716
+      }
+    },
+    {
+      "id": "ab3c934eeb1dc149",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 1839,
+      "excerpt": "erially adversely affected. • Essential equipment, materials, substrates or manufacturing processes may not be available to us. • We may fail to achieve expected manufacturing yields for our products. • Our revenue from our semi-custom System-on-Chip (SoC) products is dependent upon our semi-custom SoC products being incorporated into customers’ products and the success of those products. • Our products may be subject to security vulnerabilities that could have a material adverse effect on us. •",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 67589,
+        "end": 68149
+      }
+    },
+    {
+      "id": "c46392c35be79484",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 2817,
+      "excerpt": "ual property. • We depend on third-party companies for the design, manufacture and supply of motherboards, software, memory and other computer platform components to support our business and products. • If we lose Microsoft Corporation’s support for our products or other software vendors do not design and develop software to run on our products, our ability to sell our products could be materially adversely affected. • Our reliance on third-party distributors and add-in-board (AIB) partners subj",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 68567,
+        "end": 69067
+      }
+    },
+    {
+      "id": "ae895b907674b493",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 11922,
+      "excerpt": "lly adversely affect us in the future. We offer products that are used in different end markets and the demand for our products can vary among our Data Center, Client, Gaming and Embedded end markets. In our Data Center segment, we offer products that are optimized for generative AI applications and since 2024, we have experienced significant demand for our AI accelerators. The demand for such products will in part depend on the extent to which our customers utilize generative AI solutions in a",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 77672,
+        "end": 78231
+      }
+    },
+    {
+      "id": "d2a1eeab0db1cd7f",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 12833,
+      "excerpt": "ta centers could impact the timing of customer demand. Such delays in the buildout of data centers could have a material adverse effect on our business, financial condition and future growth strategy. Customers may also lack, or be unable to, secure capital to fund their required AI infrastructure and may request alternative financing or deferred‑payment arrangements from vendors and suppliers. These limitations could delay or reduce the demand for our products, which could negatively impact our",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 78583,
+        "end": 79143
+      }
+    },
+    {
+      "id": "33c4a01b985805c6",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 17346,
+      "excerpt": "adoption of such product offerings. In our Data Center segment, we offer products that are optimized for generative AI applications and we have experienced significant demand for our AI accelerators. The demand for such products in part will depend on the extent to which our customers utilize generative AI solutions in a wide variety of applications as both the near-term and long-term trajectory of such generative AI solutions is unknown. If we fail to develop and timely offer or deploy such pro",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 83097,
+        "end": 83597
+      }
+    },
+    {
+      "id": "8e777446a99f7443",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 18294,
+      "excerpt": "lize on the opportunities presented by demand for AI solutions. Moreover, while AI adoption is likely to continue and may accelerate, the long-term trajectory of this technological trend is uncertain. Delays in developing, qualifying or shipping new products may cause us to miss our customers’ product design windows or, in some cases, breach contractual obligations. If our products are not selected by our customers in the initial design of their computer systems or products, they are typically e",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 84044,
+        "end": 84544
+      }
+    },
+    {
+      "id": "62456d1d60d1b4ce",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 20102,
+      "excerpt": "shifts toward shorter launch cycles and a broader range of accelerated computing platforms. Product transitions are complex and as such we may ship both new and prior-generation products concurrently. Customer adoption patterns can vary and while some customers may shift to newer products more quickly and reduce demand for current-generation offerings, other customers may lower their inventory of existing products before purchasing new ones. The increased frequency of product transitions and exp",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 85852,
+        "end": 86352
+      }
+    },
+    {
+      "id": "c2a3a2d430183dd8",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 22516,
+      "excerpt": "lly, if our customers are not successful in generating sufficient revenue or are unable to secure financing, they may not be able to pay, or may delay payment of, accounts receivable that they owe us. If current or prospective customers default on or delay payments to us, our earnings and cash flow could be adversely impacted. This risk is heightened as we expect that a small number of customers will continue to account for a substantial part of our revenue. Moreover, our key suppliers may reduc",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 88266,
+        "end": 88766
+      }
+    },
+    {
+      "id": "61bb884cfae356c1",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 23247,
+      "excerpt": "in expenses. For example, there is currently an industry-wide memory shortage as the demand for such components has outpaced supply. The price of memory has also increased as a result of the shortage. If we are not able to procure a stable supply of materials, including memory, on an ongoing basis and at reasonable costs to meet our production requirements, we could experience a supply shortage or an increase in production costs, which could negatively impact our gross margin and materially adve",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 88997,
+        "end": 89497
+      }
+    },
+    {
+      "id": "77c70af2c179d505",
+      "ticker": "AMD",
+      "vendor": "TSMC, Samsung, GlobalFoundries",
+      "charOffset": 28666,
+      "excerpt": "ient quantities and using competitive technologies, our business could be materially adversely affected. We utilize third-party wafer foundries to fabricate the silicon wafers for all of our products. We rely on Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of all wafers for microprocessor and GPU products at 7 nanometer (nm) or smaller nodes, and we rely primarily on GLOBALFOUNDRIES Inc. (GF) for wafers for microprocessor and GPU products manufactured at process n",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 94416,
+        "end": 94916
+      }
+    },
+    {
+      "id": "e4f79aaab9742e7b",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 29539,
+      "excerpt": "gy used to fabricate our products. It is important to have reliable relationships with all of these third-party manufacturing suppliers to ensure adequate product supply to respond to customer demand. We cannot guarantee that these manufacturers or our other third-party manufacturing suppliers will be able to meet our near-term or long-term manufacturing requirements. If we experience supply constraints from our third-party manufacturing suppliers, we may be required to allocate the reduced quan",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 95289,
+        "end": 95789
+      }
+    },
+    {
+      "id": "3ffc30a9d9d32ae2",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 30464,
+      "excerpt": "s for our microprocessor and GPU products at 7 nm or smaller nodes and our newest IC products in sufficient quantities to meet customer demand, it could have a material adverse effect on our business. 21 Table of Conten t s We do not have long-term commitment contracts with some of our third-party manufacturing suppliers. We obtain many of these manufacturing services on a purchase order basis and these manufacturers are not required to provide us with any specified minimum quantity of product b",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 96214,
+        "end": 96714
+      }
+    },
+    {
+      "id": "e75c506c2f97d422",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 32066,
+      "excerpt": "d to meet the applicable annual wafer purchase target, we could have excess inventory or higher inventory unit costs, both of which may adversely impact our gross margin and our results of operations. Other risks associated with our dependence on third-party manufacturers include limited control over delivery schedules, yield, cycle times, quality assurance, price increases, lack of capacity in periods of excess demand, misappropriation of our intellectual property, dependence on several subcont",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 97816,
+        "end": 98316
+      }
+    },
+    {
+      "id": "66c9168e4ea38a0f",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 33987,
+      "excerpt": "ct. We could experience significant delays in the shipment of our products if we are required to find alternative third-party manufacturers, which could have a material adverse effect on our business. We are party to two ATMP joint ventures (collectively, the ATMP JVs) with affiliates of Tongfu Microelectronics Co., Ltd. The majority of our ATMP services are provided by the ATMP JVs and there is no guarantee that the ATMP JVs will be able to fulfill our long-term ATMP requirements. If we are una",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 99737,
+        "end": 100237
+      }
+    },
+    {
+      "id": "f5945873a5b926f2",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 34911,
+      "excerpt": "manufacturing service providers from a number of suppliers and our operations depend upon obtaining deliveries of adequate supplies of equipment and materials of acceptable quality on a timely basis. Our third-party suppliers also depend on the same timely delivery of adequate quantities of equipment and materials of acceptable quality in the manufacture of our products. In addition, as many of our products increase in technical complexity, we rely on our third-party suppliers to update their pr",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 100662,
+        "end": 101162
+      }
+    },
+    {
+      "id": "5c2aa740b2163238",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 35860,
+      "excerpt": "omponents such as memory, printed circuit boards (PCBs), interposers, substrates and capacitors used in the manufacture of our products are currently available from only a limited number of suppliers. For example, there is currently an industry-wide memory shortage as the demand for such components has outpaced supply. The price of memory has also increased as a result of the shortage. If we are unable to procure a stable supply of memory, equipment, materials or substrates of acceptable quality",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 101610,
+        "end": 102170
+      }
+    },
+    {
+      "id": "f6c8b91b3bca6831",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 36708,
+      "excerpt": "pliers. If the delivery of such supply is delayed or does not occur for any reason, it could materially impact our ability to procure and process the required volume of supply to meet customer demand. Conversely, if we overestimate our customer demand or experience a decrease in customer demand, either because customers cancel orders or choose to purchase from our competitors, it could result in excess inventory and an increase in our production costs, particularly since we have prepayment arran",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 102458,
+        "end": 102958
+      }
+    },
+    {
+      "id": "7b1c3963aa7e7712",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 37700,
+      "excerpt": "ly or increased demand in the industry could cause shortages and price increases in various essential materials. Dependence on a sole supplier or a limited number of suppliers exacerbates these risks. If we are unable to procure certain of these materials for our back-end manufacturing operations, or our third-party manufacturers are unable to procure materials for manufacturing our products, our business would be materially adversely affected. 23 Table of Conten t s Failure to achieve expected",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 103450,
+        "end": 104009
+      }
+    },
+    {
+      "id": "1536919628bb15e5",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 38510,
+      "excerpt": "technology failures, process technology failures or a combination of some or all of these. Our third-party manufacturers are responsible for the process technologies used to fabricate silicon wafers. If our third-party manufacturers experience manufacturing inefficiencies or encounter disruptions, errors or difficulties during production, we may fail to achieve acceptable yields or we may experience product delivery delays. We cannot be certain that our third-party manufacturers will be able to",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 104261,
+        "end": 104820
+      }
+    },
+    {
+      "id": "1cfb866190b6b084",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 39492,
+      "excerpt": "elay in the technology transitions to smaller process technologies could have a material adverse effect on us, particularly if our competitors transition to more cost effective technologies before us. For example, we are presently focusing our 7 nm and lower product microprocessor and GPU portfolio on TSMC’s processes. If TSMC is not able to manufacture wafers for our products at 7 nm or smaller nodes in sufficient quantities to meet customer demand, it could have a material adverse effect on ou",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 105242,
+        "end": 105742
+      }
+    },
+    {
+      "id": "043d58a2b0457c3a",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 41850,
+      "excerpt": "e expected by us may not be fully realized and our operating results may be adversely affected. Our products may be subject to security vulnerabilities that could have a material adverse effect on us. The products that we sell are complex and have been and may in the future be subject to security vulnerabilities that could result in, among other things, the loss, corruption, theft or misuse of confidential data or system performance issues. Our efforts to prevent and address security vulnerabili",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 107600,
+        "end": 108100
+      }
+    },
+    {
+      "id": "771c55597caca8ed",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 43733,
+      "excerpt": "e, software, cloud services, infrastructure, networks and systems (collectively, IT Systems). We own and manage some IT Systems but also rely on critical third-party IT Systems, products and services. In the ordinary course of business, we and various third-party providers and business partners process and maintain sensitive data, including personal information about workers, customers and others, as well as intellectual property and proprietary or confidential information relating to our busine",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 109483,
+        "end": 109983
+      }
+    },
+    {
+      "id": "6b65511ea9afb641",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 51198,
+      "excerpt": "mers may also experience a shortage of, or delay in receiving certain components to build their products, which in turn may affect the demand for or the timing of our products. In April 2025, the U.S. government implemented a new license requirement for the export of certain semiconductor products to China (including Hong Kong and Macau) and D5 countries, or to companies headquartered in or with an ultimate parent located in such countries. This restriction impacts our AMD Instinct™ MI308 produc",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 116948,
+        "end": 117448
+      }
+    },
+    {
+      "id": "64f81b681ac5972e",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 53840,
+      "excerpt": "ctionality that meet customer demands, or laws are adopted that affect our use of third party intellectual property in certain regions or products, our business could be materially adversely affected. 26 Table of Conten t s We depend on third-party companies for the design, manufacture and supply of motherboards, software, memory and other computer platform components to support our business and products. We depend on third-party companies for the design, manufacture and supply of motherboards,",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 119590,
+        "end": 120149
+      }
+    },
+    {
+      "id": "9738a48a757f486e",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 54562,
+      "excerpt": "ngs. We also rely on our AIB partners to support our products. In addition, our microprocessors are not designed to function with motherboards and chipsets designed to work with Intel microprocessors. If the designers, manufacturers, AIBs and suppliers of motherboards, graphics cards, software, memory and other components cease or reduce their design, quality, manufacture or production of current or future products that are based on, utilized in, or support our products, or laws are adopted that",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 120312,
+        "end": 120872
+      }
+    },
+    {
+      "id": "f46d022c57f25294",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 55523,
+      "excerpt": "port our x86-based microprocessor products. With respect to our graphics products, we depend in part on Microsoft to design and develop its operating system to run on or support our graphics products. Similarly, the success of our products in the market, such as our APU products, is dependent on independent software providers designing and developing software to run on our products. If Microsoft does not continue to design and develop its operating systems so that they work with our x86 instruct",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 121273,
+        "end": 121773
+      }
+    },
+    {
+      "id": "d40e54c43388b97e",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 56503,
+      "excerpt": "rosoft or other software vendors, our ability to market our x86 products would be materially adversely affected. Our reliance on third-party distributors and AIB partners subjects us to certain risks. We market and sell our products directly and through third-party distributors and AIB partners pursuant to agreements that can generally be terminated for convenience by either party upon prior notice. These agreements are non-exclusive and permit both our distributors and AIB partners to offer our",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 122253,
+        "end": 122813
+      }
+    },
+    {
+      "id": "f18177eea41d8f3c",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 67944,
+      "excerpt": "nd NGO cooperation and export control compliance (including licensing where required), we may not fully eliminate these risks. 29 Table of Conten t s Climate change may have an impact on our business. Climate change may adversely affect our business, as well as that of our suppliers and customers. Increasing frequency and severity of natural disasters and climate-related events could impact the major regions where we have operations and could disrupt our business and that of our customers and su",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 133694,
+        "end": 134194
+      }
+    },
+    {
+      "id": "7238bfd663eb6326",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 68916,
+      "excerpt": "erations and our suppliers’ or customers’ operations, including by disrupting, the availability of energy or water necessary for the operations of our business or those of our suppliers and customers. Such disruptions could interrupt our supply chain, delay manufacturing and product shipments, lead to a loss of business and higher costs to maintain or restore operations, any of which could adversely affect our business and operating results. Supply chain delays resulting from climate change rela",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 134666,
+        "end": 135166
+      }
+    },
+    {
+      "id": "0464c8576638367c",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 69906,
+      "excerpt": "stop purchases from us. Although we maintain property, casualty, and other insurance, coverage varies by type, availability and cost. Some of our policies have large deductibles and broad exclusions. Additionally, our insurance providers may be unable or unwilling to pay a claim. Losses not covered by insurance may be significant, which could materially harm our results of operations and financial condition. Our business and the business of our suppliers and customers may also be subject to curr",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 135657,
+        "end": 136157
+      }
+    },
+    {
+      "id": "068a568a271f587d",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 70801,
+      "excerpt": "of doing business should they be affected by new climate-related expectations such as those affecting abatement equipment, renewable energy, and/or alter production processes and materials selections. The additional compliance costs incurred by our suppliers may be passed on to us and result in greater indirect costs to us. These costs and restrictions could materially harm our business and results of operations by increasing our expenses, damaging our reputation for actual or perceived non-comp",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 136551,
+        "end": 137051
+      }
+    },
+    {
+      "id": "b62217297297dd30",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 74336,
+      "excerpt": "ntory and related charges in the second quarter of 2025. We applied for and were granted some licenses by the U.S. government that allow us to ship our MI308 products to certain China-based customers. During the fourth quarter of fiscal year 2025, we began shipping products and reversed approximately $360 million of the charges recorded earlier in the year. Sales of our MI308 products into China depend on customer demand, China’s import control rules and our ability to obtain licenses. In August",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 140086,
+        "end": 140646
+      }
+    },
+    {
+      "id": "4aba88a5da5e5002",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 77055,
+      "excerpt": "troduce uncertainty as we evaluate whether specific products, technologies, or software fall within the scope of any new restrictions, and whether BIS will grant licenses in a timely matter or at all. Compliance with the planned or existing rules could result in increased costs, disruption of key customer and supplier relationships, loss of competitive positioning in international markets or reputational harm. 31 Table of Conten t s The implementation or increase of any tariffs, trade protection",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 142805,
+        "end": 143365
+      }
+    },
+    {
+      "id": "fe9a30f0fa49800e",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 82470,
+      "excerpt": "d more Chinese companies to the Entity List and introduce new regulations on advanced computing, semiconductor manufacturing, and AI, while China has imposed retaliatory tariffs. Moreover, as the U.S. government continues adding companies to the Entity List, our supply chain may be negatively impacted as we may be required to suspend purchasing from such suppliers or selling to such customers or otherwise unable to fulfill our contractual obligations to them. For example, in September 2025, BIS",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 148220,
+        "end": 148779
+      }
+    },
+    {
+      "id": "1f3054e8bec79748",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 83403,
+      "excerpt": "imposed at any time. These restrictive governmental actions and any similar measures that may be imposed on U.S. companies by other governments, especially in light of ongoing trade tensions with U.S. trading partners, will likely limit or prevent us from doing business with certain of our customers or suppliers and harm our ability to compete effectively or otherwise negatively affect our ability to sell our products. If we were ever found to have violated these laws or similar applicable non-U",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 149153,
+        "end": 149653
+      }
+    },
+    {
+      "id": "3577a4ef505f7306",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 87537,
+      "excerpt": ", by changes in the tax rules and regulations or the interpretation of tax rules and regulations in the jurisdictions in which we do business or by changes in the valuation of our deferred tax assets. Many countries have implemented legislation and other guidance to align their international tax rules with the Organization for Economic Co-operation and Development’s (OECD) Base Erosion and Profit Shifting recommendations and action plan that aim to standardize and modernize global corporate tax",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 153287,
+        "end": 153846
+      }
+    },
+    {
+      "id": "a8986310849e4838",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 88412,
+      "excerpt": "January 2026, the OECD released a \"side-by-side\" package introducing new safe harbors and providing an exemption for U.S.-based multinational companies from parts of the global minimum tax framework. This guidance is intended to simplify compliance with a permanent simplified Effective Tax Rate safe harbor, a one-year extension of the transitional Country-by-Country Reporting safe harbor and reinforce the role of Qualified Domestic Minimum Top-up Taxes (QDMTT). While these rules are generally fa",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 154163,
+        "end": 154663
+      }
+    },
+    {
+      "id": "307d319231c0689d",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 93996,
+      "excerpt": "he manufacturing processes of our products, discharge of pollutants into the environment, the treatment, transport, storage and disposal of solid and hazardous wastes and remediation of contamination. In addition, our operations and those of our suppliers are further governed by regulations prohibiting the use of forced labor (e.g., mining conflict materials), and restrictions on other materials, as well as laws or regulations governing the operation of our facilities, sale and distribution of o",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 159746,
+        "end": 160246
+      }
+    },
+    {
+      "id": "9d46bdc8ba44cb9b",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 94994,
+      "excerpt": "uences could result, including fines, suspension of production, alteration of manufacturing processes, import/export restrictions, sales limitations, criminal and civil liabilities or other sanctions. Such non-compliance from our manufacturing suppliers could result in disruptions in supply, higher sourcing costs, and/or reputational damage for us. We could also be held liable for any and all consequences arising out of exposure to hazardous materials used, stored, released, disposed of by us or",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 160744,
+        "end": 161304
+      }
+    },
+    {
+      "id": "af488715f0791a8b",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 96934,
+      "excerpt": "hazardous substances may increase and could have a material adverse effect on us. 35 Table of Conten t s Environmental laws are complex, change frequently and tend to become more stringent over time. For example, the European Union (EU) and China are among a growing number of jurisdictions that have enacted restrictions on the use of lead and other materials in electronic products. These regulations affect semiconductor devices and packaging. As regulations restricting materials in electronic pr",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 162685,
+        "end": 163185
+      }
+    },
+    {
+      "id": "fef7b3fc0f427f82",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 98873,
+      "excerpt": "r challenges to satisfy customers who require that all of the components of our products be certified as “conflict free.” If we cannot satisfy these customers, they may choose a competitor’s products. In addition, new or increased regulations limiting the use of such components, or regulation regarding greenhouse gas emissions and climate change-related risks, could increase our energy costs, for example as a result of carbon pricing impacts on electrical utilities and/or necessitating that we p",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 164623,
+        "end": 165123
+      }
+    },
+    {
+      "id": "722a757eb48e6f61",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 99802,
+      "excerpt": "isks of forced labor in supply chains which may increase the cost of our compliance program. Several customers have also issued expectations to eliminate these occurrences, if any, that may impact us. While we have a Human Rights Policy and management systems to identify and avoid these practices in our supply chain, we cannot guarantee that our suppliers will always be in conformance with laws and expectations. Our failure to satisfy customer expectations on forced and trafficked labor policies",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 165552,
+        "end": 166112
+      }
+    },
+    {
+      "id": "d7218df2925fb703",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 102404,
+      "excerpt": "ers regarding corporate responsibility matters including those involving the environment and climate, energy and water consumption, diversity and inclusion, human rights, governance and cybersecurity. Additionally, we are and expect to continue to be subject to various new and proposed climate-related and sustainability laws and requirements that may impact how we and our suppliers and customers conduct and report on our business by requiring the disclosure and tracking of greenhouse gas emissio",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 168154,
+        "end": 168654
+      }
+    },
+    {
+      "id": "228ddb68a9d3ef98",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 113263,
+      "excerpt": "ergies, accretion and cost efficiencies, and drive product innovations, achieving these anticipated benefits depends on our ability to successfully integrate the acquired businesses into our business. We cannot be certain that our acquisitions can be successfully integrated with our business in a timely manner or at all, for a variety of reasons, including, but not limited to: difficulty in integrating the technology, systems, products, policies, processes or operations and integrating and retai",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 179013,
+        "end": 179513
+      }
+    },
+    {
+      "id": "523f41e00957872f",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 114263,
+      "excerpt": "inability to effectively retain suppliers, vendors and customers of the acquired businesses; entry into geographic or business markets in which we have little or no experience; adverse changes in general economic conditions in regions in which we and the acquired companies operate; potential litigation associated with the acquisitions; difficulties in the assimilation of employees and culture; difficulties in managing the expanded operations of a larger and more complex company; and difficulties",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 180013,
+        "end": 180573
+      }
+    },
+    {
+      "id": "73e6483834a62d9f",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 120562,
+      "excerpt": "lly introduce new products in the marketplace; an inability to successfully achieve internal forecasts; significant declines in our stock price; significant negative industry; or macroeconomic trends. A deterioration in the long-term economic outlook or expected future cash flows of our business could result in impairment charges, which may have a material adverse impact on our financial position and results of operations. 40 Table of Conten t s General Risks Our worldwide operations are subject",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 186312,
+        "end": 186872
+      }
+    },
+    {
+      "id": "c5d29bac16fceab8",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 121540,
+      "excerpt": "pping services are provided by third-party subcontractors. We also have international sales operations. International sales, as a percent of net revenue, were 67% for the year ended December 27, 2025. We expect that international sales will continue to be a significant portion of total sales in the foreseeable future. The political, legal and economic risks associated with our worldwide operations include, without limitation: expropriation; changes in a specific country’s or region’s political o",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 187290,
+        "end": 187790
+      }
+    },
+    {
+      "id": "419f91e4a2dd9fcf",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 123371,
+      "excerpt": "opolitical tensions, such as the Ukraine-Russia, Israel-Hamas and Venezuela conflicts, could escalate and expand, which in turn could have negative impacts on the global economy and financial markets. Also, in addition to restrictions imposed by the United States or China on exports or imports from one another, geopolitical changes between China and Taiwan could disrupt the operations of our Taiwan-based third-party wafer foundries, manufacturing facilities and subcontractors, and materially adv",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 189121,
+        "end": 189621
+      }
+    },
+    {
+      "id": "4a14ed9da66ab973",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 124296,
+      "excerpt": "s or customers. For example, our California operations are located near major earthquake fault lines. In April 2024, Taiwan experienced an earthquake where our third-party wafer foundries are located. We also have operations and employees in regions that have experienced extreme weather such as prolonged heat waves, wildfires and freezing. Extreme weather events and natural disasters can also disrupt the ability of our suppliers to deliver expected manufacturing parts and/or services for periods",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 190046,
+        "end": 190606
+      }
+    },
+    {
+      "id": "69ae2ab765a54cc6",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 125071,
+      "excerpt": "may result in chronic changes that result in certain natural disasters occurring more frequently or with greater intensity, which could disrupt our operations, or the operations of our third parties. There may be conflict or uncertainty in the countries in which we, our customers and suppliers operate, including public health issues, epidemics and pandemics, safety issues, natural disasters, fire, disruptions of service from utilities, nuclear power plant accidents or general economic or politic",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 190822,
+        "end": 191322
+      }
+    },
+    {
+      "id": "dc936dd0070b706d",
+      "ticker": "AMD",
+      "vendor": "Arm",
+      "charOffset": 125953,
+      "excerpt": "hain, which may have a material adverse effect on our business. The U.S. has been and may continue to be involved in armed conflicts that could have a further impact on our sales and our supply chain. The consequences of armed conflict, political instability or civil or military unrest are unpredictable, and we may not be able to foresee events that could have a material adverse effect on us. Terrorist attacks or other hostile acts may negatively affect our operations, or adversely affect demand",
+      "sectionId": "item_1a_risk_factors_the_risks_and_uncer",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The risks and uncertainties described below are not the only ones we",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 191703,
+        "end": 192263
+      }
+    },
+    {
+      "id": "26f028388328864a",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 776,
+      "excerpt": "risks relevant to our business. Information about cybersecurity risks and our risk management processes is collected, analyzed and considered as part of our overall enterprise risk management program. Key components of our cybersecurity risk management program include: • periodic risk assessments designed to help identify cybersecurity risks to our critical systems, information, services, and our broader enterprise IT environment; • a security team principally responsible for managing our cybers",
+      "sectionId": "item_1b_unresolved_staff_comments_none_4",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. 42 Table of Conten t s ITEM 1C. CYBERSECURITY Cyb",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 198364,
+        "end": 198864
+      }
+    },
+    {
+      "id": "86361c970b89b6f2",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 1776,
+      "excerpt": "onse plan that includes procedures for responding to cybersecurity incidents; and • a third-party cyber risk management process for vendors including, among other things, a security assessment and contracting program for vendors based on their risk profile. At this time, we have not identified risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected us, including our operations, business strategy, results of operations, or",
+      "sectionId": "item_1b_unresolved_staff_comments_none_4",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. 42 Table of Conten t s ITEM 1C. CYBERSECURITY Cyb",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 199364,
+        "end": 199923
+      }
+    },
+    {
+      "id": "bab0427f92a42b83",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 4963,
+      "excerpt": "ded portfolio continued to expand in 2025 with the introduction of three new AMD EPYC embedded processor series: AMD EPYC Embedded 9005 Series, EPYC Embedded 4005 Series and EPYC Embedded 2005 Series. We also made strategic investments through acquisitions to further advance our software capabilities including compiler and AI expertise in machine learning, inference and performance optimization, and enable highly optimized solutions across the stack; to scale our ability to support and develop a",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 211358,
+        "end": 211918
+      }
+    },
+    {
+      "id": "bbb475a28f743267",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 29366,
+      "excerpt": "le to us effective in 2024, certain jurisdictions in which we operate have not adopted corresponding legislation to date. For 2024 and 2025, the impact to us associated with Pillar Two was immaterial. In January 2026, the OECD released a \"side-by-side\" package introducing new safe harbors and providing an exemption for U.S.-based multinational companies from parts of the global minimum tax framework. We continue to evaluate the impact of proposed and enacted legislative changes to our effective",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 235761,
+        "end": 236320
+      }
+    },
+    {
+      "id": "f5ecf0d08508aa64",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 31914,
+      "excerpt": "vely. We have $3.0 billion available under an unsecured revolving credit facility that expires on April 29, 2027. No funds were drawn from this credit facility during the year ended December 27, 2025. We also have a commercial paper program to issue unsecured commercial paper notes up to a maximum principal amount outstanding, at any time, of $3.0 billion, with a maturity of up to 397 days from the date of issue. We had no commercial paper outstanding as of December 27, 2025. As of December 27,",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 238309,
+        "end": 238868
+      }
+    },
+    {
+      "id": "389ce9f21a1b82c2",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 51059,
+      "excerpt": "equity interest in two joint ventures (collectively, the ATMP JV) with affiliates of Tongfu Microelectronics Co., Ltd, a Chinese joint stock company. The Company has no obligation to fund the ATMP JV. The Company accounts for its equity interests in the ATMP JV under the equity method of accounting due to its significant influence over the ATMP JV. The carrying value of the investment was $ 176 million and $ 149 million as of December 27, 2025 and December 28, 2024, respectively, and are recorde",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Advanced Micro Devices, Inc. Consolid",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 299988,
+        "end": 300488
+      }
+    },
+    {
+      "id": "77b21f934f9ffaa5",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 66641,
+      "excerpt": "ude the Company’s obligations to purchase wafers and substrates from third parties, and future payments related to multi-year cloud service provider (CSP), software, and technology license agreements. Some cloud service capacity may be reduced, terminated or sold to others by the CSPs, in which case the Company’s commitments will be reduced. The Company expects to utilize the cloud service capacity in its operations or assign the capacity to third parties. These commitments were made under nonca",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Advanced Micro Devices, Inc. Consolid",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 315570,
+        "end": 316070
+      }
+    },
+    {
+      "id": "8e4fb437446d0645",
+      "ticker": "AMD",
+      "vendor": null,
+      "charOffset": 67482,
+      "excerpt": "$ 1,216 $ 1,197 $ 156 $ — $ 12,166 The Company continually works with suppliers and partners on the timing of payments and deliveries of purchase commitments, taking into account business conditions. Warranties and Indemnities The Company generally warrants that its products sold to its customers will conform to its approved specifications and be free from defects in material and workmanship under normal use and conditions for one year. The Company may also offer, in general, one to three-year l",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Advanced Micro Devices, Inc. Consolid",
+      "form": "10-K",
+      "filingDate": "2026-02-04",
+      "type": "chunk",
+      "range": {
+        "start": 316412,
+        "end": 316912
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ticker": "AMKR",
+  "cik": "0001047127",
+  "name": "AMKOR TECHNOLOGY, INC.",
+  "scrapedAt": "2026-05-29T04:55:59.517Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 4052650000,
+      "end": "2019-12-31",
+      "filed": "2020-02-19",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 6707981000,
+      "end": "2025-12-31",
+      "filed": "2026-02-20",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 166743000,
+      "end": "2025-12-31",
+      "filed": "2026-02-20",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 938599000,
+      "end": "2025-12-31",
+      "filed": "2026-02-20",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 8136309000,
+      "end": "2025-12-31",
+      "filed": "2026-02-20",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 4186497000,
+      "end": "2017-12-31",
+      "filed": "2018-02-23",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 4052650000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-20",
+    "accessionNumber": "0001047127-26-000014",
+    "primaryDocument": "amkr-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1047127/000104712726000014/amkr-20251231.htm",
+  "htmlLength": 2701262
+}

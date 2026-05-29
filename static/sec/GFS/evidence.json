@@ -1,0 +1,2719 @@
+{
+  "ticker": "GFS",
+  "count": 179,
+  "generatedAt": "2026-05-29T05:38:05.784Z",
+  "entries": [
+    {
+      "id": "GFS-GlobalFoundries-0",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 700,
+      "excerpt": "…N REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 OR o SHELL COMPANY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of event requiring this shell company report For the transition period from to Commission file number 001-40974 _________________________ GLOBALFOUNDRIES Inc. (Exact Name of Registrant as Specified in Its Charter) _________________________ N/A Cayman Islands (Translation of Registrant’s Name Into English) (Jurisdiction of Incorporation or Organization) 400 Stonebreak Road Extension Malta , NY 12020 (518) 305-9013 (Address of Principal Executive Offices)…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 380,
+        "end": 1079
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-1",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 5363,
+      "excerpt": "…n response to the previous question, indicate by check mark which financial statement item the registrant has elected to follow. Item 17 ☐ Item 18 ☐ If this is an annual report, indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☑ TABLE OF CONTENTS GLOBALFOUNDRIES Inc. Page CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 1 PART I 3 ITEM 1. IDENTITY OF DIRECTORS, SENIOR MANAGEMENT AND ADVISORS 3 ITEM 2. OFFER STATISTICS AND EXPECTED TIMETABLE 3 ITEM 3. KEY INFORMATION 3 ITEM 4. INFORMATION ON THE COMPANY 37 ITEM 4A. UNRESOLVED STAFF COMMENTS 44 ITEM 5.…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 5043,
+        "end": 5742
+      }
+    },
+    {
+      "id": "GFS-kw-0",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 8093,
+      "excerpt": "…ement’s beliefs and assumptions and on information currently available to our management. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. Forward-looking statements are not guarantees of future performance and our actual results of operations, financial condition and liquidity, and the development of the industries in which we operate may differ materially from those made in or suggested by the forward-looking statements contained in this Annual Report. Important facto…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 7893,
+        "end": 8493
+      }
+    },
+    {
+      "id": "GFS-kw-1",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 10023,
+      "excerpt": "…sign wins; • our expectations regarding demand for and market acceptance of our products and services; • our expectations regarding our relationships with customers, contract manufacturers, component suppliers, third-party service providers, strategic partners and other stakeholders; • our expectations regarding our capacity to develop, manufacture and deliver semiconductor products in fulfillment of our contractual commitments; • our ability to conduct our manufacturing operations without disruptions; • our ability to manage our capacity and production facilities effectively, including throug…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 9823,
+        "end": 10423
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-2",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 13286,
+      "excerpt": "…es could decline and you could lose all or part of your investment. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by this cautionary statement. As used in this Annual Report, all references to “we”, “us”, “our”, the “Company” and \"GF” are to GLOBALFOUNDRIES Inc. and its consolidated subsidiaries. The GF design logo, “GF” and our other registered or common law trademarks, service marks, or trade names appearing in this Annual Report are the property of GLOBALFOUNDRIES Inc. Other trade names, trademarks and service marks used in this Annual Report are the pr…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 12966,
+        "end": 13606
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-3",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 13500,
+      "excerpt": "…tement. As used in this Annual Report, all references to “we”, “us”, “our”, the “Company” and \"GF” are to GLOBALFOUNDRIES Inc. and its consolidated subsidiaries. The GF design logo, “GF” and our other registered or common law trademarks, service marks, or trade names appearing in this Annual Report are the property of GLOBALFOUNDRIES Inc. Other trade names, trademarks and service marks used in this Annual Report are the property of their respective owners. 2 PART I ITEM 1. IDENTITY OF DIRECTORS, SENIOR MANAGEMENT AND ADVISORS Not applicable. ITEM 2. OFFER STATISTICS AND EXPECTED TIMETABLE Not applicable. ITEM 3. KEY INFORMATION A. R…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 13180,
+        "end": 13820
+      }
+    },
+    {
+      "id": "GFS-kw-2",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 15361,
+      "excerpt": "…ed economic downturns. • Securing and maintaining design wins, in particular single-sourced awards, and managing our LTAs may present challenges to our business in differing demand environments. • We depend on a small number of customers for a significant portion of our revenue and any loss of these or our other key customers, including potentially through further customer consolidation, could result in significant declines in our revenue. • We rely on a complex silicon supply chain and breakdowns in that chain could affect our ability to produce our products and could materially and adversely…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15162,
+        "end": 15762
+      }
+    },
+    {
+      "id": "GFS-kw-3",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 16368,
+      "excerpt": "…periods of overcapacity, could have a material adverse effect on our revenue, earnings and margins. If we are unable to compete effectively with other sophisticated players in the highly competitive foundry segment of the semiconductor industry, we may lose customers and our profit margins and earnings may decrease. • Our competitors and Integrated Device Manufacturers (“IDMs”) have commenced or announced expansions and may continue to expand in the United States, Europe and Singapore, which could materially and adversely affect our competitive position. • The semiconductor industry is capita…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16169,
+        "end": 16768
+      }
+    },
+    {
+      "id": "GFS-kw-4",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 25894,
+      "excerpt": "…xample, the U.S. Department of Commerce’s Bureau of Industry and Security (“BIS”) implemented an interim final rule it rescinded in May 2025, which would have imposed a requirement on us as a Trusted Foundry to ensure physical goods, regardless of the ship to location, are appropriately reported to BIS to track potential diversion of semiconductor chips that enable military and surveillance applications in countries like China. As of January 2026, a replacement rule has yet to be introduced and there has been no indication of expected timing for a replacement rule. Trade tensions between the U…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 25694,
+        "end": 26294
+      }
+    },
+    {
+      "id": "GFS-kw-5",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 29525,
+      "excerpt": "…could result in the imposition of additional tariffs targeting the semiconductor industry. The ultimate impact of the tariffs and other foreign trade-related restrictions and any future tariffs will depend on various factors, including the scope of tariffs and other restrictions, any retaliatory actions taken by foreign governments to the tariffs, and ongoing legal challenges to U.S. tariffs. If we cannot find ways to mitigate the potential impacts of these tariffs and other restrictions successfully or in a timely manner, these additional tariffs and restrictions could have a significant imp…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29326,
+        "end": 29925
+      }
+    },
+    {
+      "id": "GFS-kw-6",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 33999,
+      "excerpt": "…own in the growth of such end markets, due to, among other things, a potential recession and/or prolonged inflation, resulting in a substantial decrease in the demand for overall global semiconductor foundry services, including our products and services, could adversely affect our revenue and profit margins. Demand for semiconductors used in AI and ML applications may be volatile and difficult to forecast. We may allocate capital and fab capacity to such products that subsequently experience rapid obsolescence, oversupply, or reduced customer demand. If demand for AI-related products declines…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 33799,
+        "end": 34458
+      }
+    },
+    {
+      "id": "GFS-kw-7",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 37039,
+      "excerpt": "…ion rates in the markets in which we operate may lead us to experience higher costs related to labor, energy, water, transportation, research and development, wafer and other raw materials costs from suppliers. Because our business is, and will continue to be, largely dependent on the requirements of both consumer and industrial high-end technology product suppliers for our services, downturns in this broad industry will likely lead to reduced demand for our products and services. Demand for our customers’ end products is affected by seasonal variations in market conditions that contribute to…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 36839,
+        "end": 37498
+      }
+    },
+    {
+      "id": "GFS-kw-8",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 37198,
+      "excerpt": "…wafer and other raw materials costs from suppliers. Because our business is, and will continue to be, largely dependent on the requirements of both consumer and industrial high-end technology product suppliers for our services, downturns in this broad industry will likely lead to reduced demand for our products and services. Demand for our customers’ end products is affected by seasonal variations in market conditions that contribute to the fluctuations of demand and prices for semiconductor services and products. The seasonal sales trends for semiconductor services and products closely mirror…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 36998,
+        "end": 37658
+      }
+    },
+    {
+      "id": "GFS-kw-9",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 42854,
+      "excerpt": "…ipment or quality raw materials in a cost-effective and timely manner, and retain and attract highly skilled personnel. As a result, we may not realize the anticipated benefits of these contracts. We depend on a small number of customers for a significant portion of our revenue and any loss of these or our other key customers, including potentially through further customer consolidation, could result in significant declines in our revenue. We have been largely dependent on a small number of customers for a substantial portion of our revenue. Our ten largest customers in 2025, 2024 and 2023 acc…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 42655,
+        "end": 43255
+      }
+    },
+    {
+      "id": "GFS-kw-10",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 44557,
+      "excerpt": "…t chain could affect our ability to produce our products and could materially and adversely affect our results of operations, financial condition, business and prospects. We rely on a small number of suppliers for wafers, which is a key input into our products. In particular, only a limited number of companies in the world are able to produce silicon-on-insulator (“SOI”) wafers. If there is an insufficient supply of wafers, particularly SOI wafers, to satisfy our requirements, we may need to limit or delay our production, which could materially and adversely affect our results of operations, f…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 44357,
+        "end": 44957
+      }
+    },
+    {
+      "id": "GFS-kw-11",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45023,
+      "excerpt": "…r requirements, we may need to limit or delay our production, which could materially and adversely affect our results of operations, financial condition, business and prospects. If our limited source suppliers and suppliers for wafer preparation were to experience difficulties that affected their manufacturing yields or the quality of the materials they supply to us, it could materially and adversely affect our results of operations, financial condition, business and prospects. In order to secure attractive pricing, we have undertaken purchases of raw wafers from multiple suppliers ahead of cu…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 44864,
+        "end": 45384
+      }
+    },
+    {
+      "id": "GFS-kw-12",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45037,
+      "excerpt": "…, we may need to limit or delay our production, which could materially and adversely affect our results of operations, financial condition, business and prospects. If our limited source suppliers and suppliers for wafer preparation were to experience difficulties that affected their manufacturing yields or the quality of the materials they supply to us, it could materially and adversely affect our results of operations, financial condition, business and prospects. In order to secure attractive pricing, we have undertaken purchases of raw wafers from multiple suppliers ahead of customer demand,…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 44837,
+        "end": 45497
+      }
+    },
+    {
+      "id": "GFS-kw-13",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45402,
+      "excerpt": "…materially and adversely affect our results of operations, financial condition, business and prospects. In order to secure attractive pricing, we have undertaken purchases of raw wafers from multiple suppliers ahead of customer demand, risking the build up of excess inventory. If we are unable to obtain 300mm SOI wafers from Soitec S.A. (“Soitec”), our primary supplier, for any reason, we expect that it would take us an extended period to find a replacement supplier on commercially acceptable terms. In 2025, Soitec accounted for approximately 71% of our SOI wafer spend. While we are in the pro…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 45202,
+        "end": 45802
+      }
+    },
+    {
+      "id": "GFS-kw-14",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45565,
+      "excerpt": "…urchases of raw wafers from multiple suppliers ahead of customer demand, risking the build up of excess inventory. If we are unable to obtain 300mm SOI wafers from Soitec S.A. (“Soitec”), our primary supplier, for any reason, we expect that it would take us an extended period to find a replacement supplier on commercially acceptable terms. In 2025, Soitec accounted for approximately 71% of our SOI wafer spend. While we are in the process of developing relationships with alternate suppliers, we do not expect to be able to acquire a significant amount of SOI wafers from those suppliers in the ne…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 45365,
+        "end": 45965
+      }
+    },
+    {
+      "id": "GFS-kw-15",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45664,
+      "excerpt": "…cess inventory. If we are unable to obtain 300mm SOI wafers from Soitec S.A. (“Soitec”), our primary supplier, for any reason, we expect that it would take us an extended period to find a replacement supplier on commercially acceptable terms. In 2025, Soitec accounted for approximately 71% of our SOI wafer spend. While we are in the process of developing relationships with alternate suppliers, we do not expect to be able to acquire a significant amount of SOI wafers from those suppliers in the near term, and there is no assurance that we will ever be able to do so. The ability of our suppliers…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 45464,
+        "end": 46124
+      }
+    },
+    {
+      "id": "GFS-kw-16",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45850,
+      "excerpt": "…a replacement supplier on commercially acceptable terms. In 2025, Soitec accounted for approximately 71% of our SOI wafer spend. While we are in the process of developing relationships with alternate suppliers, we do not expect to be able to acquire a significant amount of SOI wafers from those suppliers in the near term, and there is no assurance that we will ever be able to do so. The ability of our suppliers to meet our requirements could be impaired or interrupted by factors beyond their control, such as earthquakes or other natural phenomena, labor strikes or shortages, or political unres…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 45650,
+        "end": 46250
+      }
+    },
+    {
+      "id": "GFS-kw-17",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 45946,
+      "excerpt": "…tely 71% of our SOI wafer spend. While we are in the process of developing relationships with alternate suppliers, we do not expect to be able to acquire a significant amount of SOI wafers from those suppliers in the near term, and there is no assurance that we will ever be able to do so. The ability of our suppliers to meet our requirements could be impaired or interrupted by factors beyond their control, such as earthquakes or other natural phenomena, labor strikes or shortages, or political unrest or failure to obtain materials for their suppliers. For example, Soitec is reliant on third-pa…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 45746,
+        "end": 46346
+      }
+    },
+    {
+      "id": "GFS-kw-18",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 46055,
+      "excerpt": "…iers, we do not expect to be able to acquire a significant amount of SOI wafers from those suppliers in the near term, and there is no assurance that we will ever be able to do so. The ability of our suppliers to meet our requirements could be impaired or interrupted by factors beyond their control, such as earthquakes or other natural phenomena, labor strikes or shortages, or political unrest or failure to obtain materials for their suppliers. For example, Soitec is reliant on third-party providers to obtain raw silicon wafers—difficulties in obtaining raw silicon wafers may result in Soitec’…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 45855,
+        "end": 46455
+      }
+    },
+    {
+      "id": "GFS-kw-19",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 46293,
+      "excerpt": "…ld be impaired or interrupted by factors beyond their control, such as earthquakes or other natural phenomena, labor strikes or shortages, or political unrest or failure to obtain materials for their suppliers. For example, Soitec is reliant on third-party providers to obtain raw silicon wafers—difficulties in obtaining raw silicon wafers may result in Soitec’s inability to produce SOI wafers. In the event one of our suppliers is unable to deliver products to us or is unwilling to sell materials or components to us, our operations may be adversely affected. Further, financial or other difficul…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 46093,
+        "end": 46693
+      }
+    },
+    {
+      "id": "GFS-kw-20",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 46514,
+      "excerpt": "…e, Soitec is reliant on third-party providers to obtain raw silicon wafers—difficulties in obtaining raw silicon wafers may result in Soitec’s inability to produce SOI wafers. In the event one of our suppliers is unable to deliver products to us or is unwilling to sell materials or components to us, our operations may be adversely affected. Further, financial or other difficulties faced by our suppliers, or significant changes in demand for the components or materials they use in the products they supply to us, could limit the availability of those products, components, or materials to us. Any…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 46315,
+        "end": 46915
+      }
+    },
+    {
+      "id": "GFS-kw-21",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 46711,
+      "excerpt": "…ur suppliers is unable to deliver products to us or is unwilling to sell materials or components to us, our operations may be adversely affected. Further, financial or other difficulties faced by our suppliers, or significant changes in demand for the components or materials they use in the products they supply to us, could limit the availability of those products, components, or materials to us. Any breakdown of our wafer supply chain could materially and adversely affect our results of operations, financial condition, business and prospects. If we are unable to attract customers with our tec…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 46511,
+        "end": 47111
+      }
+    },
+    {
+      "id": "GFS-kw-22",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 47955,
+      "excerpt": "…ces. If we do not anticipate changes in technology requirements and our customers’ demands or fail to rapidly develop new and innovative solutions to meet those demands, we may not be able to provide foundry or design and engineering services on competitive terms with respect to capability, cost, schedule or volume manufacturing capacity. There is a risk that our competitors may successfully adopt new or more differentiated technology before we do, resulting in us losing 8 design wins (including in cases in which we have expended significant resources to pursue design wins) and market share. I…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 47755,
+        "end": 48355
+      }
+    },
+    {
+      "id": "GFS-kw-23",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 48875,
+      "excerpt": "…, 3nm, 5nm, 7nm) faster than their original plans. Some original equipment manufacturers may develop their own in-house application-specific ICs, cut out the fabless GF customer and adopt a different foundry strategy. Nearly all of our customers already maintain their own semiconductor design capability, and they may choose to leverage those design resources instead of utilizing our services. If this happens and we are unable to offset with additional revenue from existing and new customers in the technology offerings and services we do provide, our results of operations, financial condition,…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 48675,
+        "end": 49334
+      }
+    },
+    {
+      "id": "GFS-kw-24",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 51486,
+      "excerpt": "…d materials as compared to our competitors, including specialized wafers upon which some of our technologies are currently manufactured, raw materials for wafer fabrication, and materials used in the packaging of ICs to enable them to be used in the end products. A disruption in the availability or quality of these raw materials, as well as a significant increase in the price of these new or unique materials during technology development can have a variety of negative impacts. These impacts include increased time-to-market, decreased quality of finished goods or increased cost of finished good…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 51286,
+        "end": 51886
+      }
+    },
+    {
+      "id": "GFS-kw-25",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 53565,
+      "excerpt": "…vernment support, have announced and/or implemented plans to increase capacity expenditures. As IDMs expand internal capacity to service internal production needs, the demand from those companies for foundry services from us and other pure-play foundries may be negatively impacted as they service a higher percentage or all of their production requirements. In addition, the increased capacity and internal production. especially for prolonged periods, may allow those IDMs to more effectively compete with pure-play foundry customers in certain markets, including our customers, resulting in lower…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 53365,
+        "end": 54024
+      }
+    },
+    {
+      "id": "GFS-kw-26",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 53883,
+      "excerpt": "…or all of their production requirements. In addition, the increased capacity and internal production. especially for prolonged periods, may allow those IDMs to more effectively compete with pure-play foundry customers in certain markets, including our customers, resulting in lower demand for pure-play foundry services in markets we serve. For example, as an IDM adds internal capacity, if it is successful in securing market share from competitors that utilize pure-play foundry services, the overall market we serve could be negatively impacted, which could result in a material and adverse effect…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 53683,
+        "end": 54343
+      }
+    },
+    {
+      "id": "GFS-kw-27",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 53986,
+      "excerpt": "…specially for prolonged periods, may allow those IDMs to more effectively compete with pure-play foundry customers in certain markets, including our customers, resulting in lower demand for pure-play foundry services in markets we serve. For example, as an IDM adds internal capacity, if it is successful in securing market share from competitors that utilize pure-play foundry services, the overall market we serve could be negatively impacted, which could result in a material and adverse effect to our results of operations, financial condition, business and prospects. In addition, in periods of…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 53786,
+        "end": 54445
+      }
+    },
+    {
+      "id": "GFS-kw-28",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 54156,
+      "excerpt": "…in lower demand for pure-play foundry services in markets we serve. For example, as an IDM adds internal capacity, if it is successful in securing market share from competitors that utilize pure-play foundry services, the overall market we serve could be negatively impacted, which could result in a material and adverse effect to our results of operations, financial condition, business and prospects. In addition, in periods of industry overcapacity, the Company may have aged construction in progress due to equipment that may not be installed until customer demand recovers. The Company has in th…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 53956,
+        "end": 54556
+      }
+    },
+    {
+      "id": "GFS-kw-29",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 55626,
+      "excerpt": "…e of our industry. Such actions could reduce our margin and profitability and weaken our financial condition and results of operations. We cannot give any assurance that an increase in the demand for foundry services in the immediate and short-term will not lead to overcapacity in the future, which could materially and adversely affect our results of operations, financial condition, business and prospects. If we are unable to compete effectively with other sophisticated players in the highly competitive foundry segment of the semiconductor industry, we may lose customers and our profit margins…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 55426,
+        "end": 56086
+      }
+    },
+    {
+      "id": "GFS-kw-30",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 55935,
+      "excerpt": "…erially and adversely affect our results of operations, financial condition, business and prospects. If we are unable to compete effectively with other sophisticated players in the highly competitive foundry segment of the semiconductor industry, we may lose customers and our profit margins and earnings may decrease. We believe the foundry market is comprised of five major foundries (including four scaled pure-play foundries) that accounted for the vast majority of worldwide foundry revenue in 2025. We define a scaled pure-play foundry as a company that focuses on producing ICs for other compa…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 55735,
+        "end": 56335
+      }
+    },
+    {
+      "id": "GFS-kw-31",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 56069,
+      "excerpt": "…tively with other sophisticated players in the highly competitive foundry segment of the semiconductor industry, we may lose customers and our profit margins and earnings may decrease. We believe the foundry market is comprised of five major foundries (including four scaled pure-play foundries) that accounted for the vast majority of worldwide foundry revenue in 2025. We define a scaled pure-play foundry as a company that focuses on producing ICs for other companies, rather than those of its own design, with more than $3 billion of annual foundry revenue. Key competitors include Taiwan Semicon…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 55869,
+        "end": 56469
+      }
+    },
+    {
+      "id": "GFS-kw-32",
+      "ticker": "GFS",
+      "vendor": "TSMC",
+      "charOffset": 56215,
+      "excerpt": "…fit margins and earnings may decrease. We believe the foundry market is comprised of five major foundries (including four scaled pure-play foundries) that accounted for the vast majority of worldwide foundry revenue in 2025. We define a scaled pure-play foundry as a company that focuses on producing ICs for other companies, rather than those of its own design, with more than $3 billion of annual foundry revenue. Key competitors include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporat…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56015,
+        "end": 56615
+      }
+    },
+    {
+      "id": "GFS-kw-33",
+      "ticker": "GFS",
+      "vendor": "TSMC",
+      "charOffset": 56269,
+      "excerpt": "…foundry market is comprised of five major foundries (including four scaled pure-play foundries) that accounted for the vast majority of worldwide foundry revenue in 2025. We define a scaled pure-play foundry as a company that focuses on producing ICs for other companies, rather than those of its own design, with more than $3 billion of annual foundry revenue. Key competitors include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation servic…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56069,
+        "end": 56669
+      }
+    },
+    {
+      "id": "GFS-kw-34",
+      "ticker": "GFS",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 56414,
+      "excerpt": "…foundry revenue in 2025. We define a scaled pure-play foundry as a company that focuses on producing ICs for other companies, rather than those of its own design, with more than $3 billion of annual foundry revenue. Key competitors include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56215,
+        "end": 56874
+      }
+    },
+    {
+      "id": "GFS-TSMC-0",
+      "ticker": "GFS",
+      "vendor": "TSMC",
+      "charOffset": 56455,
+      "excerpt": "…r scaled pure-play foundries) that accounted for the vast majority of worldwide foundry revenue in 2025. We define a scaled pure-play foundry as a company that focuses on producing ICs for other companies, rather than those of its own design, with more than $3 billion of annual foundry revenue. Key competitors include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Sa…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 56135,
+        "end": 56775
+      }
+    },
+    {
+      "id": "GFS-kw-35",
+      "ticker": "GFS",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 56509,
+      "excerpt": "…ducing ICs for other companies, rather than those of its own design, with more than $3 billion of annual foundry revenue. Key competitors include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also off…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56309,
+        "end": 56909
+      }
+    },
+    {
+      "id": "GFS-kw-36",
+      "ticker": "GFS",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 56645,
+      "excerpt": "…s include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also offer foundry services. Other smaller dedicated foundry competitors include HuaHong Group, X-FAB Silicon Foundries, Tower Semiconductor Ltd…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56445,
+        "end": 57045
+      }
+    },
+    {
+      "id": "GFS-Samsung-0",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 56741,
+      "excerpt": "…revenue. Key competitors include Taiwan Semiconductor Manufacturing Company, Limited (“TSMC”), United Microelectronics Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also offer foundry services. Other smaller dedicated foundry competitors include HuaHong Group, X-FAB Silicon Foundries, Tower Semiconductor Ltd., Vanguard Inte…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 56422,
+        "end": 57061
+      }
+    },
+    {
+      "id": "GFS-kw-37",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 56741,
+      "excerpt": "…Corporation (“UMC”) and Semiconductor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also offer foundry services. Other smaller dedicated foundry competitors include HuaHong Group, X-FAB Silicon Foundries, Tower Semiconductor Ltd., Vanguard International Semiconductor Corporation, and Powerchip Semiconductor Manufacturing C…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56541,
+        "end": 57141
+      }
+    },
+    {
+      "id": "GFS-kw-38",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 56773,
+      "excerpt": "…uctor Manufacturing International Corporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also offer foundry services. Other smaller dedicated foundry competitors include HuaHong Group, X-FAB Silicon Foundries, Tower Semiconductor Ltd., Vanguard International Semiconductor Corporation, and Powerchip Semiconductor Manufacturing Corporation. Some of our competit…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56573,
+        "end": 57173
+      }
+    },
+    {
+      "id": "GFS-kw-39",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 56912,
+      "excerpt": "…Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also offer foundry services. Other smaller dedicated foundry competitors include HuaHong Group, X-FAB Silicon Foundries, Tower Semiconductor Ltd., Vanguard International Semiconductor Corporation, and Powerchip Semiconductor Manufacturing Corporation. Some of our competitors may offer more advanced or differentiated technologies than we do and some have greater access to capital and substantially greater pro…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 56713,
+        "end": 57312
+      }
+    },
+    {
+      "id": "GFS-Arm-0",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 61499,
+      "excerpt": "…ed, and may in the future incur, operating losses if our revenue and planned cost reductions do not adequately offset the impact of our capital expenditures and the cost of financing these expenditures. We invest significantly in R&D, and to the extent our R&D efforts are unsuccessful, our competitive position may be harmed and we may not be able to realize a return on our investments. To compete successfully, we must maintain a successful R&D effort, develop new product technologies, features and manufacturing processes, and improve our existing products and services, technologies and processes. Our R&D efforts may not deliver the…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 61179,
+        "end": 61878
+      }
+    },
+    {
+      "id": "GFS-Arm-1",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 65736,
+      "excerpt": "…government funding for capital and R&D investment for our industry, that we and various participants in our industry plan to benefit from. The CHIPS and Science Act provided for a 25% investment tax refund and appropriated $52 billion in grants to support the domestic semiconductor industry, of which $39 billion was earmarked for manufacturing capacity expansion. The EU has enacted the European Chips Act, which is intended to provide, through its member states, significant funding to strengthen the EU’s semiconductor industry. Historically, we have benefited from these kinds of government programs (albeit to a lesser extent than ot…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 65417,
+        "end": 66056
+      }
+    },
+    {
+      "id": "GFS-Arm-2",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 75889,
+      "excerpt": "…ect to a number of compliance challenges and risks, including regarding access to and required protection of classified information. Failure to comply with our Foreign Ownership, Control or Influence agreements could lead to a loss of our security clearance and, therefore, certain government business and reputational harm. Selling to governmental and highly regulated entities can be highly competitive, expensive and time-consuming, often requiring significant upfront time and expense without any assurance that these efforts will generate a sale. Government contracting requirements may change and in doing so restrict our ability to s…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 75569,
+        "end": 76209
+      }
+    },
+    {
+      "id": "GFS-Arm-3",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 77188,
+      "excerpt": "…ed to public fiscal budget calendars. We have faced, and may in the future face, a prolonged U.S. government shutdown, which could lead to program cancellations or disruptions, delays in funding authorizations or appropriations and limitations on the U.S. government's ability make timely payments, which could in turn harm our business and financial condition. Further, governmental and highly regulated entities may demand contract terms that differ from our standard commercial arrangements, and those contract terms may be in some respects less favorable than terms agreed to by private sector customers. Governments routinely retain ce…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 76869,
+        "end": 77509
+      }
+    },
+    {
+      "id": "GFS-Arm-4",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 79388,
+      "excerpt": "…the extent and impact to such products, regulatory proceedings, litigation, mitigation and other actions, as well as penalties, fines, increased insurance premiums, indemnification expenditures and administrative, civil and criminal liabilities, breach of covenants under our existing debt agreements, and reputational harm, each of which could negatively impact operations for multiple products and future business, cause production and sales delays and materially and adversely affect our results of operations, financial condition, business and prospects. We have increased legal and regulatory requirements, and stakeholder expectations…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 79068,
+        "end": 79768
+      }
+    },
+    {
+      "id": "GFS-Arm-5",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 86718,
+      "excerpt": "…his information is critical to our business and reputation. We have put in place policies, procedures and technological safeguards designed to protect the security of this information. However, we cannot guarantee that this information will not be improperly disclosed or accessed. Disclosure of this information could harm our reputation, subject us to liability under our contracts and harm our relationships with key counterparties, including our customers, which could materially and adversely affect our results of operations, financial condition, business and prospects. Any outbreak of contagious disease could materially and adverse…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 86398,
+        "end": 87038
+      }
+    },
+    {
+      "id": "GFS-Arm-6",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 86787,
+      "excerpt": "…ut in place policies, procedures and technological safeguards designed to protect the security of this information. However, we cannot guarantee that this information will not be improperly disclosed or accessed. Disclosure of this information could harm our reputation, subject us to liability under our contracts and harm our relationships with key counterparties, including our customers, which could materially and adversely affect our results of operations, financial condition, business and prospects. Any outbreak of contagious disease could materially and adversely affect our results of operations, financial condition, business an…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 86468,
+        "end": 87168
+      }
+    },
+    {
+      "id": "GFS-Arm-7",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 115587,
+      "excerpt": "…lt in the unauthorized access to, and destruction, loss, theft, misappropriation or release of, proprietary, confidential, sensitive or otherwise valuable information of ours, our customers or our employees, including trade secrets, which could be used to compete against us or for disruptive, destructive or otherwise harmful purposes and outcomes; • result in litigation and governmental investigation and proceedings that could expose us to civil or criminal liabilities; • compromise national security and other sensitive government functions; • require significant management attention and resources to remedy the damages that result;…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 115267,
+        "end": 115966
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-4",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 204619,
+      "excerpt": "…irements for “relevant entities” conducting “relevant activities”. As we are a Cayman Islands exempted company, compliance obligations include filing annual notifications stating whether we are carrying out any “relevant activities” and, if so, whether we have satisfied applicable economic substance tests. As of 2025, GlobalFoundries Inc. does not conduct any relevant activities in the Cayman Islands requiring economic substance reporting or satisfaction of economic substance tests. Our subsidiary, GLOBALFOUNDRIES Finance Inc., a Cayman Islands exempted company, conducts “financing business” as defined in the Cayman Economic Substan…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 204299,
+        "end": 204939
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-5",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 204803,
+      "excerpt": "…er we are carrying out any “relevant activities” and, if so, whether we have satisfied applicable economic substance tests. As of 2025, GlobalFoundries Inc. does not conduct any relevant activities in the Cayman Islands requiring economic substance reporting or satisfaction of economic substance tests. Our subsidiary, GLOBALFOUNDRIES Finance Inc., a Cayman Islands exempted company, conducts “financing business” as defined in the Cayman Economic Substance Act and satisfies the applicable economic substance and reporting requirements.. Failure to satisfy applicable requirements may subject us to penalties under the Cayman Economic Sub…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 204483,
+        "end": 205123
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-6",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 222946,
+      "excerpt": "…be unable to recoup. We have been advised that, in the opinion of the SEC, indemnification for liabilities arising under federal securities laws is against public policy as expressed in the Securities Act, and is, therefore, unenforceable. 36 ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDRIES Inc. (“GlobalFoundries,” “GF,” “we,” “us,” or “our”) is an exempted company with limited liability that was incorporated under the laws of the Cayman Island in October 2008. Our principal executive offices are located at 400 Stonebreak Road Extension, Malta, New York, 12020, United States, and our telep…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 222626,
+        "end": 223266
+      }
+    },
+    {
+      "id": "GFS-GlobalFoundries-7",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 222969,
+      "excerpt": "…have been advised that, in the opinion of the SEC, indemnification for liabilities arising under federal securities laws is against public policy as expressed in the Securities Act, and is, therefore, unenforceable. 36 ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDRIES Inc. (“GlobalFoundries,” “GF,” “we,” “us,” or “our”) is an exempted company with limited liability that was incorporated under the laws of the Cayman Island in October 2008. Our principal executive offices are located at 400 Stonebreak Road Extension, Malta, New York, 12020, United States, and our telephone number is +1 (518)…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 222650,
+        "end": 223349
+      }
+    },
+    {
+      "id": "GFS-Synopsys-0",
+      "ticker": "GFS",
+      "vendor": "Synopsys",
+      "charOffset": 227420,
+      "excerpt": "…y are becoming critical for performance in the AI-driven chip sector. Our multi-year strategy is designed to enable us to compete in this growing market and increase in demand through our enhanced products and foundry capabilities, including through our recent acquisitions of MIPS, a leader in AI and processor IP, and Synopsys, Inc., which will allow us to offer a comprehensive processor IP suite tailored for physical AI applications. Delivering dependable, geographically diverse operations: GF operates four manufacturing sites globally – Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore – with design, developmen…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 227100,
+        "end": 227740
+      }
+    },
+    {
+      "id": "GFS-Samsung-1",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 289649,
+      "excerpt": "…innovation, safety and a respectful workplace culture. Prior to joining GF, Ms. Raman was Global Head of Human Resources and Chief Transformation Officer for the Global Tools & Storage business unit of Stanley Black & Decker, Chief Talent Officer of Stanley Black & Decker, and held senior human resources positions at Samsung Electronics America and Avaya. Ms. Raman began her career as a software developer. Ms. Raman holds a Bachelor’s degree in Electronics and Communication Engineering from Alagappa Chettiar College of Engineering and Technology in India, and a Master’s degree in Human Resources from Rutgers University. Pradip Sing…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 289330,
+        "end": 289969
+      }
+    },
+    {
+      "id": "GFS-Ansys-0",
+      "ticker": "GFS",
+      "vendor": "Ansys",
+      "charOffset": 297817,
+      "excerpt": "…serve on the board of directors of Xanadu Quantum Technologies Limited, subject to and effective upon the closing of the business combination of Crane Harbor Acquisition Corp. and Xanadu Quantum Technologies Inc., which is expected to occur in March 2026. Previously, she served as a member of the board of directors of ANSYS, Inc. from 2018 to 2025, Wolfspeed Inc. from 2020 to 2025, Mellanox Technologies from 2009 to 2020, Viavi Solutions from 2019 to 2021 and Quantenna Communications from 2018 to 2019. Ms. Dorchak is an independent, non-executive director pursuant to applicable Nasdaq rules. Martin L. Edelman was elected to the Boar…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 297498,
+        "end": 298198
+      }
+    },
+    {
+      "id": "GFS-Synopsys-1",
+      "ticker": "GFS",
+      "vendor": "Synopsys",
+      "charOffset": 578720,
+      "excerpt": "…llion, respectively. Any failure in the supplier’s ability to provide SOI wafers could materially and adversely affect the Company’s results of operations, financial condition, business and prospects. 33. Subsequent Events Definitive Agreement - On January 13, 2026, the Company entered into a definitive agreement with Synopsys, Inc. (\"Synopsys\") for the acquisition of Synopsys’ ARC Processor IP Solutions business and its teams of engineers and designers for $ 445 million. This strategic acquisition builds on the differentiated capabilities the Company gained through the MIPS acquisition by expanding our RISC-V and custom processor I…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 578400,
+        "end": 579040
+      }
+    },
+    {
+      "id": "GFS-Synopsys-2",
+      "ticker": "GFS",
+      "vendor": "Synopsys",
+      "charOffset": 578737,
+      "excerpt": "…ly. Any failure in the supplier’s ability to provide SOI wafers could materially and adversely affect the Company’s results of operations, financial condition, business and prospects. 33. Subsequent Events Definitive Agreement - On January 13, 2026, the Company entered into a definitive agreement with Synopsys, Inc. (\"Synopsys\") for the acquisition of Synopsys’ ARC Processor IP Solutions business and its teams of engineers and designers for $ 445 million. This strategic acquisition builds on the differentiated capabilities the Company gained through the MIPS acquisition by expanding our RISC-V and custom processor IP portfolio and s…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 578417,
+        "end": 579057
+      }
+    },
+    {
+      "id": "GFS-Synopsys-3",
+      "ticker": "GFS",
+      "vendor": "Synopsys",
+      "charOffset": 578771,
+      "excerpt": "…ability to provide SOI wafers could materially and adversely affect the Company’s results of operations, financial condition, business and prospects. 33. Subsequent Events Definitive Agreement - On January 13, 2026, the Company entered into a definitive agreement with Synopsys, Inc. (\"Synopsys\") for the acquisition of Synopsys’ ARC Processor IP Solutions business and its teams of engineers and designers for $ 445 million. This strategic acquisition builds on the differentiated capabilities the Company gained through the MIPS acquisition by expanding our RISC-V and custom processor IP portfolio and software tools and accelerates time…",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "range": {
+        "start": 578451,
+        "end": 579091
+      }
+    },
+    {
+      "id": "ead5acd0a3e35620",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 900,
+      "excerpt": "l forward-looking statements contain these identifying words. Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. Forward-looking statements are not guarantees of future performance and our actual results of operations, financial conditio",
+      "sectionId": "item_18_financial_statements_77_item_19_",
+      "sectionHeader": "ITEM 18. FINANCIAL STATEMENTS 77 ITEM 19. EXHIBITS 79 i CAUTIONARY STATEMENT REGARDING FOR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 7782,
+        "end": 8282
+      }
+    },
+    {
+      "id": "f78522e27c9cb702",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 2501,
+      "excerpt": "ed benefits of our acquisitions and our ability to successfully integrate acquired businesses; • our expectations regarding funding we have received or plan to receive, including awards under the U.S. CHIPS and Science Act and New York State Green CHIPS; • our future business development, financial condition, and results of operations; • expected changes in our revenue, costs or expenditures; • our assumptions and estimates regarding design wins; • our expectations regarding demand for and marke",
+      "sectionId": "item_18_financial_statements_77_item_19_",
+      "sectionHeader": "ITEM 18. FINANCIAL STATEMENTS 77 ITEM 19. EXHIBITS 79 i CAUTIONARY STATEMENT REGARDING FOR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 9383,
+        "end": 9883
+      }
+    },
+    {
+      "id": "447b34447f52daa2",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 817,
+      "excerpt": "oreign trade, and in particular increased trade restrictions, tariffs or taxes on imports, could materially and adversely affect our results of operations, financial condition, business and prospects. • Reductions in demand and ASPs for our customers’ end products may decrease demand for our products and services and could materially and adversely affect our results of operations, financial condition, business and prospects. • The cyclical nature and seasonality of the semiconductor industry mak",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 14609,
+        "end": 15109
+      }
+    },
+    {
+      "id": "b871e6e1ab9b9c52",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 1612,
+      "excerpt": "significant portion of our revenue and any loss of these or our other key customers, including potentially through further customer consolidation, could result in significant declines in our revenue. • We rely on a complex silicon supply chain and breakdowns in that chain could affect our ability to produce our products and could materially and adversely affect our results of operations, financial condition, business and prospects. • If we are unable to attract customers with our technology and",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 15405,
+        "end": 15964
+      }
+    },
+    {
+      "id": "0545af6b02831500",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 2494,
+      "excerpt": "to compete effectively with other sophisticated players in the highly competitive foundry segment of the semiconductor industry, we may lose customers and our profit margins and earnings may decrease. • Our competitors and Integrated Device Manufacturers (“IDMs”) have commenced or announced expansions and may continue to expand in the United States, Europe and Singapore, which could materially and adversely affect our competitive position. • The semiconductor industry is capital-intensive and, i",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 16286,
+        "end": 16786
+      }
+    },
+    {
+      "id": "55307b530fee68b7",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 11412,
+      "excerpt": "entation of trade barriers, including the use of economic sanctions and export control restrictions against certain countries and individual companies. Since 2022, the United States has increased U.S. export controls and other restrictions on semiconductor manufacturing equipment, AI and advanced computing products and has partnered with other nations to impose similar restrictions. The United States is expected to continue expanding U.S. export controls on certain such products. For example, th",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 25204,
+        "end": 25704
+      }
+    },
+    {
+      "id": "04daa36b5b21f8ce",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 15096,
+      "excerpt": "one such investigation relating to the semiconductor industry, the President issued a Proclamation imposing 25% additional tariffs on limited advanced computing chips and certain derivative products. Although we do not believe our business is currently implicated by the new tariffs, the Proclamation contemplates continued negotiations with other countries in early 2026 to mitigate the national security effects of such imports, which could result in the imposition of additional tariffs targeting",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 28889,
+        "end": 29448
+      }
+    },
+    {
+      "id": "4c3d8a0d02def69a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 15729,
+      "excerpt": "ill depend on various factors, including the scope of tariffs and other restrictions, any retaliatory actions taken by foreign governments to the tariffs, and ongoing legal challenges to U.S. tariffs. If we cannot find ways to mitigate the potential impacts of these tariffs and other restrictions successfully or in a timely manner, these additional tariffs and restrictions could have a significant impact on our business and operating results, specifically due to actions imposed on China and any",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 29521,
+        "end": 30080
+      }
+    },
+    {
+      "id": "6be22fdf837428ca",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 19780,
+      "excerpt": "oducts in intelligent and highly connected devices in markets such as Smart Mobile Devices, Home and Industrial internet of things (“IoT”), Communications Infrastructure & Data Center, and Automotive. A deterioration or a slowdown in the growth of such end markets, due to, among other things, a potential recession and/or prolonged inflation, resulting in a substantial decrease in the demand for overall global semiconductor foundry services, including our products and services, could adversely af",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 33572,
+        "end": 34072
+      }
+    },
+    {
+      "id": "b1de9c7062f96bf3",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 22549,
+      "excerpt": "in end-customer preferences. Fluctuations in our customers’ demand drive significant variations in order levels for our products and services and can result in volatility in our revenue and earnings. Also, increases in inflation rates or fluctuations in cross border expenses in the markets in which we operate, as we have experienced in recent years, may affect our business by increasing costs of our manufacturing inputs and by decreasing demand for our customers’ products. Increases in inflation",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 36342,
+        "end": 36902
+      }
+    },
+    {
+      "id": "744772b3e6d2f8cf",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 28781,
+      "excerpt": "ond to competitive and regulatory changes, access semiconductor manufacturing equipment or quality raw materials in a cost-effective and timely manner, and retain and attract highly skilled personnel. As a result, we may not realize the anticipated benefits of these contracts. We depend on a small number of customers for a significant portion of our revenue and any loss of these or our other key customers, including potentially through further customer consolidation, could result in significant",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 42573,
+        "end": 43132
+      }
+    },
+    {
+      "id": "c6779b05311292de",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 29633,
+      "excerpt": "tively limited number of customers. We cannot assure you that our revenue generated from these customers, individually or in the aggregate, will reach or exceed historical levels in any future period. Loss or cancellation of business from, significant changes in scheduled deliveries to, or a decrease of products and services sold to, any of these customers could significantly reduce our revenue. In addition, a significant portion of our revenue is derived from specialty technologies serving the",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 43425,
+        "end": 43984
+      }
+    },
+    {
+      "id": "818d6b64d3929230",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 30626,
+      "excerpt": "could materially and adversely affect our results of operations, financial condition, business and prospects. We rely on a small number of suppliers for wafers, which is a key input into our products. In particular, only a limited number of companies in the world are able to produce silicon-on-insulator (“SOI”) wafers. If there is an insufficient supply of wafers, particularly SOI wafers, to satisfy our requirements, we may need to limit or delay our production, which could materially and advers",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 44418,
+        "end": 44918
+      }
+    },
+    {
+      "id": "3be4fbc8851d32df",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 31548,
+      "excerpt": "ing, we have undertaken purchases of raw wafers from multiple suppliers ahead of customer demand, risking the build up of excess inventory. If we are unable to obtain 300mm SOI wafers from Soitec S.A. (“Soitec”), our primary supplier, for any reason, we expect that it would take us an extended period to find a replacement supplier on commercially acceptable terms. In 2025, Soitec accounted for approximately 71% of our SOI wafer spend. While we are in the process of developing relationships with",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 45340,
+        "end": 45899
+      }
+    },
+    {
+      "id": "1702dfd9c94a1f06",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 32497,
+      "excerpt": "eir suppliers. For example, Soitec is reliant on third-party providers to obtain raw silicon wafers—difficulties in obtaining raw silicon wafers may result in Soitec’s inability to produce SOI wafers. In the event one of our suppliers is unable to deliver products to us or is unwilling to sell materials or components to us, our operations may be adversely affected. Further, financial or other difficulties faced by our suppliers, or significant changes in demand for the components or materials th",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 46289,
+        "end": 46789
+      }
+    },
+    {
+      "id": "76a7713f88eeb4da",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 33386,
+      "excerpt": "dynamics or maintain our leadership in product quality, we will become less competitive. The semiconductor industry and the technologies it brings to market are constantly being created and evolving. We primarily compete by developing process technologies that incorporate increasingly higher performance and advanced features, offering increasing functionality depending upon the customer’s application requirements, and we have recently completed strategic transactions to gain the capability to of",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 47179,
+        "end": 47679
+      }
+    },
+    {
+      "id": "0123a9573d259e29",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 34361,
+      "excerpt": "pt new or more differentiated technology before we do, resulting in us losing 8 design wins (including in cases in which we have expended significant resources to pursue design wins) and market share. If we are unable to continue to offer differentiated services and processes on a competitive and timely basis, we may lose customers to competitors providing similar or better technologies. Some of our customers may alter their process technology roadmaps and adopt single-digit nanometer manufactur",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 48153,
+        "end": 48653
+      }
+    },
+    {
+      "id": "aec734c8e218744f",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 37223,
+      "excerpt": "meets the demand of our customers, we may become less competitive and our revenue and margins may decline significantly. External risks also exist that can impact our position as a technology leader. Differentiated technology offerings may rely upon unique or specialized materials as compared to our competitors, including specialized wafers upon which some of our technologies are currently manufactured, raw materials for wafer fabrication, and materials used in the packaging of ICs to enable the",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 51016,
+        "end": 51516
+      }
+    },
+    {
+      "id": "3cc16c2e71d20533",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 39150,
+      "excerpt": "and margins. The prices that we can charge our customers for manufacturing services are significantly related to the overall worldwide supply of integrated circuits (“ICs”) and semiconductor products. The overall supply of semiconductors is based in part on the capacity of other companies, which is outside of our control. For example, we and some other companies, including IDMs and competitors with access to material government support, have announced and/or implemented plans to increase capacit",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 52942,
+        "end": 53442
+      }
+    },
+    {
+      "id": "1b7f81ac466eff16",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 40031,
+      "excerpt": "allow those IDMs to more effectively compete with pure-play foundry customers in certain markets, including our customers, resulting in lower demand for pure-play foundry services in markets we serve. For example, as an IDM adds internal capacity, if it is successful in securing market share from competitors that utilize pure-play foundry services, the overall market we serve could be negatively impacted, which could result in a material and adverse effect to our results of operations, financial",
+      "sectionId": "item_3_key_information_a_reserved_b_capi",
+      "sectionHeader": "ITEM 3. KEY INFORMATION A. Reserved. B. Capitalization and Indebtedness Not applicable. C",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 53823,
+        "end": 54383
+      }
+    },
+    {
+      "id": "a504268958654946",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business and Industry - Strong government support in China for their domestic capacity expansion, combined with strained economic relations with that country, could lead to underutilization or significant ASP erosion for our fabs. In periods of overcapacity, if we are unable to offset the adverse effects of overcapacity through, among other things, our technology and product mix, we may have to lower the prices we ch",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 54795,
+        "end": 55295
+      }
+    },
+    {
+      "id": "a3e0161396ae4080",
+      "ticker": "GFS",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 840,
+      "excerpt": "ervices in the immediate and short-term will not lead to overcapacity in the future, which could materially and adversely affect our results of operations, financial condition, business and prospects. If we are unable to compete effectively with other sophisticated players in the highly competitive foundry segment of the semiconductor industry, we may lose customers and our profit margins and earnings may decrease. We believe the foundry market is comprised of five major foundries (including fou",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 55635,
+        "end": 56135
+      }
+    },
+    {
+      "id": "9a3f35c80ecc85c8",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 1814,
+      "excerpt": "rporation. We also compete with the foundry operation services of some IDMs, such as Texas Instruments, Inc. (“Texas Instruments”), Samsung Electronics Co., Ltd. (“Samsung”) and, more recently, Intel. IDMs principally manufacture and sell their own proprietary semiconductor products but may also offer foundry services. Other smaller dedicated foundry competitors include HuaHong Group, X-FAB Silicon Foundries, Tower Semiconductor Ltd., Vanguard International Semiconductor Corporation, and Powerch",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 56609,
+        "end": 57109
+      }
+    },
+    {
+      "id": "d8fd6a0279cbfc90",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 2631,
+      "excerpt": "subsidies and economic stimulus (including protective demand-side measures), than we do. As a result, these companies may be able to compete more aggressively over a longer period of time than we can. The principal elements of competition in the wafer foundry market include: • scale and the ability to access capital, whether public or private, to fund future growth; • capacity utilization; • technical competence, including internal and access to external design enablement capabilities; • technol",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 57426,
+        "end": 57926
+      }
+    },
+    {
+      "id": "97da1f6db05be59e",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 3600,
+      "excerpt": "core engineering/technical talent; • the ability to access integration of advanced packaging solutions; and • strategic alliances in both the private and public sectors and geographic diversification. We may fail to compete successfully in any one or more of these elements, any or all of which could impair our business performance and our ability to scale our operations in a way that adequately responds to our long-term strategy. Our ability to compete successfully also depends on factors partia",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 58395,
+        "end": 58895
+      }
+    },
+    {
+      "id": "3e60a129a7de2206",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 4544,
+      "excerpt": "d others have commenced construction or initiated plans to develop new fabs and substantially increase their manufacturing capacity in the United States, and other competitors may seek to do likewise. Similarly, our competitors are developing or seeking to develop new fabs in Europe and Singapore (including TSMC and UMC in Dresden, Germany, and Singapore, respectively) and substantially increase their manufacturing capacity. Such expansions may increase the attractiveness of our competitors to c",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 59339,
+        "end": 59839
+      }
+    },
+    {
+      "id": "1da11c3b42a355b8",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 12359,
+      "excerpt": "ng supports three GF projects: expansion of our existing Fab 8 facility, construction of a new state-of-the-art fab on the Fab 8 campus, and modernization of our Fab 9 facility in Burlington, Vermont. In January 2025, an additional $75 million of funding was added to the Direct Funding Agreement to support GF’s plans to create a new center for advanced packaging and testing of essential chips at the Fab 8 facility. The Direct Funding Agreement contains detailed milestones we must achieve in orde",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 67154,
+        "end": 67654
+      }
+    },
+    {
+      "id": "dad5e19a95f2face",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 15056,
+      "excerpt": "P erosion for our fabs. The Chinese government has invested heavily in its indigenous semiconductor manufacturing and has continued to promote the expansion of fabrication capacity for semiconductors. This has contributed to and may continue to lead to overcapacity and increased competition, in particular in the current and legacy node market. China’s decision to build capacity for China will likely have the dual effect of limiting the Chinese market (which will have a preference for domestic so",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 69851,
+        "end": 70351
+      }
+    },
+    {
+      "id": "65a3ede3a7de0593",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 15954,
+      "excerpt": "ed export controls that are intended to, among other things, prevent Chinese expansion with respect to certain semiconductor process technologies (i.e., 16nm/14nm FinFET and smaller technology nodes). Following the implementation of those controls, the Chinese semiconductor industry, with significant government support, has accelerated building its own foundry capacity, and shifted to focus domestic manufacturing on mature nodes (i.e., 28nm and larger technology nodes), and China's foundry capac",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information — D. Risk Factors – Risk Factors – Risks Related to our Business",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 70749,
+        "end": 71249
+      }
+    },
+    {
+      "id": "3d3365fdb722aba4",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 13276,
+      "excerpt": "y us could materially and adversely affect our results of operations, financial condition, business and prospects. Improper disclosure of confidential information could negatively impact our business. In the ordinary course of our business, we maintain sensitive data on our networks, including our and our customers’ intellectual property and proprietary or confidential business information relating to our business and that of our customers 14 and business partners. In addition, we regularly ente",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 85744,
+        "end": 86244
+      }
+    },
+    {
+      "id": "9c2ef9d542c1e704",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 14011,
+      "excerpt": "policies, procedures and technological safeguards designed to protect the security of this information. However, we cannot guarantee that this information will not be improperly disclosed or accessed. Disclosure of this information could harm our reputation, subject us to liability under our contracts and harm our relationships with key counterparties, including our customers, which could materially and adversely affect our results of operations, financial condition, business and prospects. Any",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 86479,
+        "end": 87038
+      }
+    },
+    {
+      "id": "f7fc39442f1e9a41",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 15004,
+      "excerpt": "contagious diseases may slow economic growth, including in regions of the world where we, our customers and suppliers operate, and can negatively impact the global supply chain, market and economies. We have significant operations in the United States, Europe, and Singapore, including supply chain and manufacturing facilities and sales and marketing channels and information technology (“IT”) design and other support services in these regions as well as in other countries, including Japan, India,",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 87473,
+        "end": 88033
+      }
+    },
+    {
+      "id": "469c5ed6b48d278a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 25228,
+      "excerpt": "ant factor in our profitability, and there can be no assurance that we will be able to maintain our manufacturing efficiency or increase manufacturing efficiency to the same extent as our competitors. We may experience manufacturing problems in achieving acceptable yields or experience product delivery delays in the future as a result of, among other things, capacity constraints, upgrading or expanding our existing facilities, transferring technologies between our sites or introducing new manufa",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 97696,
+        "end": 98196
+      }
+    },
+    {
+      "id": "1f7e4278b2689664",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 26209,
+      "excerpt": "ions. In the past, shortages in the supply of some materials, whether by specific vendors or by the industry generally, have resulted in occasional industry-wide price adjustments and delivery delays. Moreover, major natural disasters, trade barriers and political or economic turmoil occurring within the country of origin of such raw materials may also significantly disrupt the availability of such raw materials or increase their prices. Further, since we procure some of our raw materials from s",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 98677,
+        "end": 99177
+      }
+    },
+    {
+      "id": "efd2b39ef4da04ff",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 27207,
+      "excerpt": "sed in our products or in our production operations. Similar price volatility risks may be presented by the conflict in Israel and its potential expansion. Tariffs, including those imposed by the U.S. on imports from China, Mexico and Canada, the global 50% tariff on most steel and aluminum imports and the retaliatory tariffs imposed by other countries, sanctions, export controls, other non-tariff barriers, and other measures undertaken by state actors due to global or local economic conditions",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 99675,
+        "end": 100234
+      }
+    },
+    {
+      "id": "f4e3d4eeed4ac05e",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 28115,
+      "excerpt": "ng, and in the future will continue to seek, alternative suppliers and substitute materials and work closely with our existing vendors to support their efforts to provide us with uninterrupted supply. Failure to obtain adequate supplies could result in our being unable to meet commitments under our contracts with customers, which could expose us to substantial liquidated damages and other claims, which could materially and adversely affect our results of operations, financial condition, business",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 28409,
+        "end": 28549
+      }
+    },
+    {
+      "id": "85b6e61d73e82bb9",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 32662,
+      "excerpt": "cial condition, business and prospects. 17 In addition, we base many of our operating decisions, and enter into purchase commitments, on the basis of anticipated sales, which are highly unpredictable. Some of our purchase commitments are non-cancelable, and in some cases we are required to recognize a charge representing the amount of material or capital equipment purchased or ordered that exceeds our actual requirements. For example, we have non-cancelable purchase commitments with vendors and",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 105130,
+        "end": 105689
+      }
+    },
+    {
+      "id": "60f7120907b5bfc5",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 33414,
+      "excerpt": "nventory to address declining market demands. If demand for our products is less than we expect, we may experience additional excess and obsolete inventories and be forced to incur additional charges. If sales in future periods fall substantially below our expectations, or if we fail to accurately forecast changes in demand mix, we could be required to record substantial charges for obsolete or excess inventories or non-cancelable purchase commitments. Moreover, during a market upturn, we may no",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 105882,
+        "end": 106382
+      }
+    },
+    {
+      "id": "b3fc665786928f44",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 34355,
+      "excerpt": "the global memory and storage market has experienced significant shortages due to AI demand, leaving supply constrained, which may have an adverse impact on our operations and our customers’ demands. Our failure to adjust our supply chain volume or estimate our customers’ demands could materially and adversely affect our results of operations, financial condition, business and prospects. Historically, we do not typically operate with any significant backlog, except in periods of capacity shortag",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 106824,
+        "end": 107324
+      }
+    },
+    {
+      "id": "50eb76c9c53018d3",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 37580,
+      "excerpt": "a on our networks, including our and our customers’ intellectual property and proprietary or confidential business information relating to our business and that of our customers and business partners. Our and our service providers’ information technology (\"IT\") and computer systems store and transmit customer information, trade secrets, corporate data and personal information, and are otherwise essential to the operation of our production lines, which may make us and our service providers target",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 110048,
+        "end": 110548
+      }
+    },
+    {
+      "id": "75996dfd6643846a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 38328,
+      "excerpt": "in the past and may continue to make us an attractive and frequent target for attacks by third parties, including industrial or nation-state espionage, organized criminals, and terrorist cyberattacks. Further, we depend on our employees and the employees of our service providers to appropriately handle confidential and sensitive data and deploy our IT resources in a safe and secure manner that does not expose our network systems to security breaches or the loss of data. However, there is always",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 110796,
+        "end": 111355
+      }
+    },
+    {
+      "id": "8779501602342068",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 44610,
+      "excerpt": "erations, financial condition, business and prospects. 19 We may be unable to obtain manufacturing equipment in a timely manner and at a reasonable cost that is necessary for us to remain competitive. Our operations and ongoing revenue expansion plans depend on our ability to obtain complex and specialized manufacturing equipment and related services from a limited number of suppliers in a market that is characterized from time to time by limited supply and long delivery cycles. During such time",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 117078,
+        "end": 117578
+      }
+    },
+    {
+      "id": "a2f54a422f11818a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 47212,
+      "excerpt": "by fire, including business interruption insurance. However, our insurance coverage is subject to deductibles and self-insured retention and may not be sufficient to cover all of our potential losses. If any of our fabs were to be damaged or cease operations as a result of a fire, our manufacturing capacity would be reduced, which could materially and adversely affect our results of operations, financial condition, business and prospects. Our operations are subject to the risks of earthquakes, w",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 119680,
+        "end": 120180
+      }
+    },
+    {
+      "id": "1297b2faf0e759e6",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 48011,
+      "excerpt": "sm occurring in any of our manufacturing or office locations, or where a business partner, such as a customer or supplier, is located, could adversely affect our operational and financial performance. In addition, natural disasters, spills or hazardous exposure incidents, accidents and acts of terrorism could cause disruptions in our business or our suppliers’ or customers’ businesses, national economies or the global economy as a whole, and we may not have insurance coverage for these matters.",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 120479,
+        "end": 121038
+      }
+    },
+    {
+      "id": "b2fc65c12a0c1bde",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 49678,
+      "excerpt": "rs and we may incur significant costs that do not provide us with commensurate returns. AI/ML has the potential to generate significant business value for semiconductor companies, including foundries. Manufacturing is the semiconductor industry's largest cost driver and AI/ML has the potential to, among other things, reduce costs, improve yields, shorten processing times, and increase production. Use cases include utilizing AI/ML to handle repetitive tasks, improve predictive maintenance, develo",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 122146,
+        "end": 122646
+      }
+    },
+    {
+      "id": "6becd3ab8a30efda",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 50453,
+      "excerpt": "e foundry services on competitive terms, including with respect to cost, schedule, and volume manufacturing capacity, which may lead to us losing design wins, losing market share and losing customers. The rapid pace of AI/ML’s development may require the investment of significant resources for us to remain competitive, and we may not receive commensurate returns if we are not successful in achieving the outcomes we expect (either on the timelines we expect or at all). The risk of falling behind",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to our Business and I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 122921,
+        "end": 123480
+      }
+    },
+    {
+      "id": "054fc7cd3b798494",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 1921,
+      "excerpt": "rship in Artificial Intelligence, which instead prioritizes deregulation. However, several states are considering enacting or have already enacted regulations concerning the development and use of AI. Unfavorable legal and regulatory developments could also impact our vendors, suppliers and industry as a whole, and we may be exposed to increased risk of liability, reputational harm, and other significant costs if we need to make business and operational changes in response to such developments.",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 128965,
+        "end": 129524
+      }
+    },
+    {
+      "id": "f03f6ef412448831",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 8133,
+      "excerpt": "es, or require us to change our business practices, sometimes in expensive ways, or other potential liabilities. Additionally, to be eligible for a contract award pursuant to which we will handle U.S. Government controlled unclassified information (“CUI”), the Department of War (“DoW”) may require us to receive a specific third-party cybersecurity certification or self-certify that we meet certain cybersecurity requirements. As the program is being phased in gradually over a three year period, w",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 135177,
+        "end": 135677
+      }
+    },
+    {
+      "id": "5742ad818b5eccce",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 10874,
+      "excerpt": "icant time and money in litigation or arbitration or to pay significant settlements or damages. Defending a lawsuit, regardless of merit, can be costly and divert management’s attention and resources. Accordingly, any such claim could materially and adversely affect our results of operations, financial condition, business and prospects. Any problem in the semiconductor outsourcing infrastructure could materially and adversely affect our results of operations, financial condition, business and pr",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 137918,
+        "end": 138418
+      }
+    },
+    {
+      "id": "fdf5578ec1a33e47",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 14273,
+      "excerpt": "terially and adversely affect our results of operations, financial condition, business and prospects. Some of our know-how or technology is not patented or patentable and may constitute trade secrets. To protect our trade secrets, we have a policy of requiring our employees, consultants, advisors and other collaborators who contribute to our material intellectual property to enter into confidentiality agreements. We also rely on customary contractual protections with our suppliers and customers,",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 141317,
+        "end": 141877
+      }
+    },
+    {
+      "id": "cb02a54b3eb4d155",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 21369,
+      "excerpt": "rs and partners may also discontinue the use of our products, services, and solutions, as a result of injunctions or otherwise, which could result in loss of revenue and adversely affect our business. We may also have to seek a license for the technology, which may not be available on reasonable terms, if at all, and may significantly increase our operating expenses or may require us to restrict our business activities and limit our ability to develop and deliver our products. As a result, we ma",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 148413,
+        "end": 148913
+      }
+    },
+    {
+      "id": "a97e7574f2b72742",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 25038,
+      "excerpt": "fees, stop selling our products or services or be required to implement costly or inferior redesigns to the affected products or services, or pay damages to satisfy contractual obligations to others. If we do not resolve these claims in advance of a trial, there is no guarantee that we will be successful in court. These outcomes could materially and adversely affect our results of operations, financial condition, business and prospects. We may be unable to provide technology to our customers if",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 152083,
+        "end": 152642
+      }
+    },
+    {
+      "id": "ac2fa887164f49fc",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 25924,
+      "excerpt": "technologies, our business involves collaboration, including customization and other development of technologies and intellectual property, with and for our customers, vendors and other third parties. We frequently enter into agreements with customers, vendors, equipment suppliers and others that involve customization and other development of technologies and intellectual property. As a result of these agreements, we may be required to limit use of, or refrain from using, certain technologies an",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 152968,
+        "end": 153468
+      }
+    },
+    {
+      "id": "67ae426065a29eff",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 26835,
+      "excerpt": "ion of our agreements with these third parties, and these disputes may result in claims against us or claims that intellectual property rights are not owned by us, are not enforceable, or are invalid. In addition, we may face claims based on the alleged theft or unauthorized use or disclosure of customer, vendor or other third-party trade secrets, confidential information, or end-user data that we obtain in conducting our business. The cost and effort to resolve these types of disputes, or the l",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 153879,
+        "end": 154379
+      }
+    },
+    {
+      "id": "13775d6f7034a3b0",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 27574,
+      "excerpt": "s, or other problems affecting their development activities and ability to supply us with certain technology and intellectual property, which could adversely affect our business and operating results. Further, if we are unable to continue any of our joint development arrangements or other agreements, on mutually beneficial terms, or if we cannot re-evaluate the technological and economic benefits of such relationships with these partners, vendors or suppliers in a timely manner sufficient to sup",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 154618,
+        "end": 155118
+      }
+    },
+    {
+      "id": "34383d3367cd36b5",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 32174,
+      "excerpt": "have disagreements with our partner or have interests or goals that are inconsistent with our partner’s goals, which may result in conflicting views as to plan and timing of the strategic transaction. We or our partner may not perform the obligations or meet the milestones necessary for both parties to reap the benefits of the transaction, including receipt of substantial government funding or paying for certain capital investments. Further, we or our partner may decide not to move forward with",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 159218,
+        "end": 159777
+      }
+    },
+    {
+      "id": "054b46d14151bec7",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 33066,
+      "excerpt": "foundry acquisitions because they frequently have different capital and operating expense needs, business models and processes, IT and infrastructure considerations, and customer engagement practices. Failure or delay in understanding and resolving these differences may eliminate, reduce or delay our ability to realize anticipated benefits from these acquisitions. We may encounter difficulties assimilating or integrating the businesses, technologies, products, personnel or operations (including",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 160110,
+        "end": 160669
+      }
+    },
+    {
+      "id": "027f28feb6895157",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 33907,
+      "excerpt": "arget’s controls and procedures relating to cybersecurity and compliance with data privacy and protection laws, regulations and standards that were not identified in our pre-transaction due diligence. Additional risks related to strategic transactions include, but are not limited to: coordinating and integrating operations, particularly in countries in which we do not currently operate; stock price impact, fines, fees or reputational harm if we are unable to obtain regulatory approval for an acq",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 160951,
+        "end": 161451
+      }
+    },
+    {
+      "id": "0304e4e7bf61219c",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 34886,
+      "excerpt": "impairment of relationships with, or loss of our or our target’s employees, vendors and customers, which could adversely affect our results of operations, financial condition, business and prospects. We have also in the past sought, and may in the future seek, to divest ourselves of businesses, dispose of assets, cease investments, or wind down joint ventures or manufacturing alliances. Current market conditions may increase the difficulty and costs of finding buyers and may cause us to obtain l",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 161931,
+        "end": 162431
+      }
+    },
+    {
+      "id": "2849702e6c6c19c6",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 36608,
+      "excerpt": "y and Legal Risks Environmental, health and safety laws and regulations expose us to liability and risk of non-compliance, and any such liability or non-compliance could adversely affect our business. In each jurisdiction in which we operate, our operations are subject to diverse environmental, health and safety laws and regulations that govern, among other things, emissions of pollutants into the air, wastewater discharges, the use and handling of hazardous substances, waste disposal, the inves",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 163652,
+        "end": 164152
+      }
+    },
+    {
+      "id": "b32f232a31a9897a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 37598,
+      "excerpt": "ld also present reputational risks if our direct or indirect suppliers are found to be in violation of environmental health and safety regulations, or ethical or human rights regulations or standards. Regulatory changes, including restrictions on new or existing materials critical to our manufacturing processes, proposed regulations to address emerging contaminants such as per- and polyfluoroalkyl substances, increased restrictions related to discharges into water, air emissions and hazardous su",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 164642,
+        "end": 165142
+      }
+    },
+    {
+      "id": "82bdda7f21cf46af",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 39891,
+      "excerpt": "ly, emerging contaminants) on the U.S. properties where we operate should the currently responsible parties cease their ongoing remediation efforts notwithstanding their contractual obligations to us. Regulations and customer-imposed requirements in response to climate change could result in additional costs related to changes in process materials, control of process emissions, “carbon taxes” or related fees, and sourcing of energy supplies. Increased frequency of extreme weather events, and chr",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 166935,
+        "end": 167435
+      }
+    },
+    {
+      "id": "2414e4687dbc9e4e",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 40675,
+      "excerpt": "ustainability initiatives. However, there can be no assurance that our employees, contractors, suppliers or agents will not violate such laws or our policies, including due to inadvertent human error. Violations of these laws and regulations have resulted in, and in the future, can result in fines, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of our business, breach of covenants under our existing debt agreements that could result in events of defaul",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 167719,
+        "end": 168219
+      }
+    },
+    {
+      "id": "5135fb9b13c1851a",
+      "ticker": "GFS",
+      "vendor": "Arm",
+      "charOffset": 872,
+      "excerpt": ", damages, other civil or criminal penalties or injunctions, suspension or debarment from contracting with certain persons, reputational harm, adverse media coverage and other collateral consequences. In the past, we have experienced minor issues related to anti-corruption investigations involving vendors attempting to influence employees at our Singapore location. To date, we have not experienced any such investigations that were determined to be material to our business or financial results. I",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 171637,
+        "end": 172137
+      }
+    },
+    {
+      "id": "bcd1fd53b84ba374",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 3543,
+      "excerpt": "gnated persons and entities. We have corporate policies and procedures in place reasonably designed to ensure compliance with all applicable export control and economic sanctions laws and regulations. However, there can be no assurance that our employees, contractors, suppliers or agents will not violate such laws or our policies, including due to inadvertent human error. Failure to comply with applicable export and customs compliance requirements or applicable sanctions laws, including violatio",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 174308,
+        "end": 174808
+      }
+    },
+    {
+      "id": "595a3fa28bc9fcca",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 10274,
+      "excerpt": "lue of the U.S. dollar can increase the real cost to our customers of our products and services in those markets outside of the United States where we sell in U.S. dollars. Conversely, a weakened U.S. dollar can increase the cost of expenses such as our direct labor, raw materials and overhead that are incurred outside of the United States. These operating expenses are denominated in foreign currencies and are subject to fluctuations due to changes in foreign currency exchange rates. Additionall",
+      "sectionId": "item_3_key_information_d_risk_factors_ri",
+      "sectionHeader": "Item 3. Key Information —D. Risk Factors—Risk Factors—Risks Related to Manufacturing, Ope",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 181039,
+        "end": 181539
+      }
+    },
+    {
+      "id": "b182c17cb36fec06",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 4982,
+      "excerpt": "shares after price appreciation, which may never occur, as the only way to realize any future gains on their investment. Investors seeking dividends should not purchase shares of our ordinary shares. Any future determination to pay dividends will be at the discretion of the Company’s Board of Directors (the “Board of Directors” or “Board”) and will be subject to or depend on, among other things, our compliance with applicable law, our business prospects, financial condition, results of operation",
+      "sectionId": "item_15_controls_and_procedures_for_furt",
+      "sectionHeader": "Item 15—Controls and Procedures ” for further discussion on remediation activities. If ou",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 213053,
+        "end": 213553
+      }
+    },
+    {
+      "id": "6965a8923ec2b608",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 8. Financial Information —A. Consolidated Financial Statements and Other Financial Information—Dividends and Dividend Policy.” We cannot guarantee that our stock repurchase program will be fully consummated or that it will enhance long-term stockholder value. In February 2026, we announced that our Board of Directors approved a share repurchase authorization of up to $500 million of our ordinary shares. The authorization is valid for an initial period of 12 months and may be modified, suspe",
+      "sectionId": "item_8_financial_information_a_consolida",
+      "sectionHeader": "Item 8. Financial Information —A. Consolidated Financial Statements and Other Financial I",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 214254,
+        "end": 214754
+      }
+    },
+    {
+      "id": "87eb3699ed434007",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 887,
+      "excerpt": "in 2009 when a wholly-owned subsidiary of Mubadala, acquired Advanced Micro Devices, Inc.’s (“AMD”) manufacturing operations in Dresden, Germany, as well as their fab project site in Malta, New York. Since our founding, we have achieved the following key milestones: We continue to expand our global manufacturing capacity, including through ongoing investments at our Malta, New York site, new advanced packaging capabilities in the United States, and expansions of our Dresden and Singapore fabs. T",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 223757,
+        "end": 224257
+      }
+    },
+    {
+      "id": "6257f55f3535ea13",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 1817,
+      "excerpt": ", plant and equipment, intangible assets and capitalized development costs for the years ended December 31, 2025, 2024 and 2023 amounted to $722 million, $625 million and $1.804 billion, respectively. We continue to build on our core strengths with strategic investments that broadened our role in AI and expanded our semiconductor design capabilities. Our website address is www.gf.com. Information contained on, or that can be accessed through our website is not incorporated by reference into this",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 224686,
+        "end": 225246
+      }
+    },
+    {
+      "id": "caf48e706260bf74",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 2776,
+      "excerpt": "ip technologies that enable billions of devices across a broad range of end markets, including automotive, communications infrastructure and data center, smart mobile devices, home and industrial IoT. We are the only scaled foundry with a global manufacturing footprint spanning the United States, Europe, and Asia operating for more than a decade. Our business strategy is built on three core pillars: 37 Creating differentiated, essential chip technology: We specialize in differentiated technologi",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 225645,
+        "end": 226145
+      }
+    },
+    {
+      "id": "3250cf5696f10e00",
+      "ticker": "GFS",
+      "vendor": "Synopsys",
+      "charOffset": 3770,
+      "excerpt": "IP”) offerings and RISC-V expertise, with the acquisition of MIPS Holding, Inc. (“MIPS”), a leader in AI and processor IP, to accelerate edge artificial intelligence and embedded computing innovation. We believe the continuing rapid adoption of AI technologies, particularly physical AI, is introducing broader workloads that are reshaping the requirements for semiconductors. Multi-modal sensing, distributed intelligence, actuation, memory and power efficiency are becoming critical for performance",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 226639,
+        "end": 227199
+      }
+    },
+    {
+      "id": "64d8969fd2e64333",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 4726,
+      "excerpt": ": GF operates four manufacturing sites globally – Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore – with design, development, and R&D centers in multiple international locations. Our multi-site technology qualifications and geographic diversity are designed to reduce concentration risk and enhance supply chain resilience. In addition, through a strategic partnership with a China-based foundry we are proceeding with plans to enable our customers to access GF production, perf",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 227595,
+        "end": 228095
+      }
+    },
+    {
+      "id": "696284b9992ca599",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 5540,
+      "excerpt": "ced Semiconductor Assembly and Test (“OSAT”) partners. Our design enablement capabilities and integrated partnerships help accelerate customer time-to-market and optimize performance across use cases. Technology Solutions We focus on essential chip technologies spanning digital, analog, mixed-signal, RF, ultra-low power and embedded memory enabling the connected, secure and intelligent systems that power the digital world. To meet diverse customer requirements, we invest in a broad portfolio, in",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 228409,
+        "end": 228909
+      }
+    },
+    {
+      "id": "a3daf4924dbe51bb",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 10005,
+      "excerpt": "he seasonal sales trends for semiconductor services and products closely mirror those for automotive, consumer electronics, communication and computer sales due to increased holiday consumer spending. Customers and Sales We primarily sell our manufacturing services through a direct sales organization supported by technical account managers and customer application engineers, who work closely with customers to understand and meet their design and production requirements. This direct engagement is",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 232874,
+        "end": 233434
+      }
+    },
+    {
+      "id": "3377ee7b475537be",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 10902,
+      "excerpt": "s Competition The foundry segment of the semiconductor industry is highly competitive globally. Our competitors include major pure-play foundries as well as IDMs that offer their own foundry services. We compete primarily in areas such as technology leadership and differentiation, manufacturing yields, time-to-volume production and cycle time, pricing and customer service, and design support. We believe that our global footprint is one of our key advantages, appealing to customers seeking geogra",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 233771,
+        "end": 234271
+      }
+    },
+    {
+      "id": "5a5518fa09fef782",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 11896,
+      "excerpt": "ew manufacturing capacity and capabilities to securely produce more essential chips for automotive, IoT (which includes aerospace and defense), smart mobile devices and data center and communications. The funding will support three GF projects: expansion of our existing Fab 8 facility in Malta, New York, construction of a new state-of-the-art fab on the Fab 8 campus, and modernization of our Fab 9 facility in Burlington, Vermont. In January 2025, an additional $75 million of proposed funding was",
+      "sectionId": "item_4_information_on_the_company_a_hist",
+      "sectionHeader": "ITEM 4. INFORMATION ON THE COMPANY A. History and Development of the Company GLOBALFOUNDR",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 234765,
+        "end": 235325
+      }
+    },
+    {
+      "id": "55e250dcbbbcf7a7",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4. Information on the Company – Environmentally Sustainable Manufacturing and Operations” for more information on the Company’s policies related to these topics. Additionally, we are subject to anti-corruption, anti-bribery, anti-money laundering, and counter-terrorist financing laws, and have adopted policies and practices reflecting our dedication to ethical business practices and regulatory compliance acro",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 236330,
+        "end": 236830
+      }
+    },
+    {
+      "id": "7a466d90f7c4cc62",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 882,
+      "excerpt": "rom sole-sourced suppliers, including raw materials that are significant to our production operations. From time to time, we are advised of shortages of raw materials that could impact our operations. We work closely with our existing vendors to support their efforts to provide us with uninterrupted supply and continue to seek alternative suppliers and substitute materials. We regularly review raw material supply, and we maintain a safety stock depending on the critical nature of materials, typi",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 237212,
+        "end": 237712
+      }
+    },
+    {
+      "id": "4887c90184f04fb3",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 1766,
+      "excerpt": "order to secure a reliable and flexible supply of high-quality wafers, we have entered into multiple long-term agreements with the majority of our principal suppliers, the largest of which is Soitec. We believe the close relationships with our silicon wafer suppliers allows us to maintain a sufficient supply of silicon wafers. Research and Development We have a strong commitment to R&D, focusing efforts primarily on delivering a comprehensive and expanded portfolio of highly-differentiated, esse",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 238097,
+        "end": 238597
+      }
+    },
+    {
+      "id": "06f4d2b23177778a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 2724,
+      "excerpt": "l economy. In 2025, 2024 and 2023, we spent $518 million, $496 million and $428 million, respectively, on R&D, which represented approximately 8%, 7% and 6% of our net revenue in each respective year. Intellectual Property We rely on IP rights, particularly patents and trade secrets, as well as contractual arrangements, to protect our core process and design enablement technologies and provide our customers with protected technology to enable their mission-critical offerings. As of December 31,",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 239054,
+        "end": 239613
+      }
+    },
+    {
+      "id": "98d387674c9a1515",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 3672,
+      "excerpt": "vanced semiconductor companies, including AMD, Samsung, TSMC and IBM. These cross-licenses provide us with valuable freedom of operation under patents owned or subsequently divested by such companies. As is common practice in the semiconductor industry, we have periodically received communications from third parties, asserting patents that allegedly cover certain of our technologies, and we expect to receive similar communications in the future. Some of the patents asserted against us are not va",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 240002,
+        "end": 240502
+      }
+    },
+    {
+      "id": "270682db9eaa9d4e",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 6423,
+      "excerpt": "ur enterprise-wide environmental management system is certified to the ISO 14001:2015 standard. In 2021, we launched our Journey to Zero Carbon commitment that aims to reduce greenhouse gas emissions. In 2025, we submitted an increased commitment to the Science Based Targets Initiative to reduce Scope 1 and Scope 2 greenhouse gas emissions by 42% by 2030, compared to a 2021 baseline. In 2024, we announced our commitment to achieve net-zero greenhouse gas emissions and 100% carbon-neutral power b",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 242753,
+        "end": 243253
+      }
+    },
+    {
+      "id": "b53152aac641a00f",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 10059,
+      "excerpt": "ollowing locations: Dresden, Germany; Singapore; Malta, New York; and Burlington, Vermont. The total clean room space is approximately 239,000 square meters spread across our four manufacturing sites. 42 We have continued to invest in our capacity footprint and at the end of 2025 our total installed capacity was approximately 2.8 million wafers per annum. The rate and pace at which we expect to increase shipments within our capacity footprint will be subject to, among other things, a reduction i",
+      "sectionId": "item_4_information_on_the_company_employ",
+      "sectionHeader": "Item 4. Information on the Company – Employee Safety, Health and Well-being” and “ Item 4",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 246389,
+        "end": 246889
+      }
+    },
+    {
+      "id": "65fc466918ac7b80",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 1443,
+      "excerpt": "y sector of the global economy. Our ability to attract a significant share of single-sourced products is supported by our scaled manufacturing footprint and highly differentiated technology offerings. As we look forward, factors influencing our business performance include: • Global demand for semiconductor products • Customer demand for diversified global semiconductor supply including non-China and non-Taiwan based suppliers • Design wins with new and existing customers • Single-sourced revenu",
+      "sectionId": "item_5_operating_and_financial_review_an",
+      "sectionHeader": "Item 5. Operating and Financial Review and Prospects – A. Operating Results” and “ Item 5",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 251379,
+        "end": 251879
+      }
+    },
+    {
+      "id": "0be4cc5d281fe91e",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 2764,
+      "excerpt": "conductors are increasingly integral to the performance, safety and comfort of automotive vehicles, and we believe the continued electrification of automobiles will only further accelerate this trend. Single-sourced Revenue Mix We manufacture products based on a combination of our own technologies and our customers’ IP, resulting in a significant number of products that can only be sourced from us. Our sales and marketing strategy centers on deepening relationships with top customers and investi",
+      "sectionId": "item_4_information_on_the_company_govern",
+      "sectionHeader": "Item 4. Information on the Company - Government Regulations.” Global Demand for Semicondu",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 254787,
+        "end": 255287
+      }
+    },
+    {
+      "id": "4438d655d9a98eae",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 3700,
+      "excerpt": "hnology or cannot be manufactured elsewhere without significant customer redesigns. We believe that single-sourced business will continue to represent a stable percentage of our wafer shipment volume. Technology Solution Mix and Pricing Product mix is among the most important factors affecting revenue and margins, as our wafer price varies significantly across technology platforms. The value of a wafer is determined principally by the uniqueness and complexity of the technology, performance char",
+      "sectionId": "item_4_information_on_the_company_govern",
+      "sectionHeader": "Item 4. Information on the Company - Government Regulations.” Global Demand for Semicondu",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 255723,
+        "end": 256223
+      }
+    },
+    {
+      "id": "a3137380f84ca018",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 6511,
+      "excerpt": "e efficiency in production facilities, complexity and mix of wafer types ordered by customers, including the impact of export controls and other regulatory changes affecting customers and competitors. Our production capacity is determined based on the capacity ratings of the equipment in the fab, adjusted for expected down time due to set up for production runs and maintenance and R&D. In 2025, we operated below our production capacity driven by customer demand and market conditions. Components",
+      "sectionId": "item_4_information_on_the_company_govern",
+      "sectionHeader": "Item 4. Information on the Company - Government Regulations.” Global Demand for Semicondu",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 258534,
+        "end": 259093
+      }
+    },
+    {
+      "id": "c78113e65db9a63a",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 20544,
+      "excerpt": "curities. As of December 31, 2024, our cash and cash equivalents and marketable securities of $4.2 billion included $2.2 billion of cash and cash equivalents and $2.0 billion of marketable securities. As of December 31, 2025 and 2024, respectively, we had an undrawn revolving credit facility of $1.0 billion. In addition to our available revolvers, we had $1.2 billion and $1.8 billion of debt outstanding as of December 31, 2025, and 2024, respectively, which was comprised of multiple term loans a",
+      "sectionId": "item_4_information_on_the_company_govern",
+      "sectionHeader": "Item 4. Information on the Company - Government Regulations.” Global Demand for Semicondu",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 272567,
+        "end": 273067
+      }
+    },
+    {
+      "id": "288c955fa78b1fd3",
+      "ticker": "GFS",
+      "vendor": "Samsung",
+      "charOffset": 7365,
+      "excerpt": "ring his 16-year tenure. Mr. Hogan holds a Bachelor’s degree in Electrical Engineering from Syracuse University. Pradheepa Raman is Chief People Officer at GF, a position she was appointed to in 2022. She has global responsibility for GF’s human resources practice areas including talent acquisition, development and retention, creation and delivery of people solutions, total rewards, organizational development and further strengthening GF’s commitment to innovation, safety and a respectful workpl",
+      "sectionId": "item_6_directors_senior_management_and_e",
+      "sectionHeader": "ITEM 6. DIRECTORS, SENIOR MANAGEMENT AND EMPLOYEES A. Directors and Senior Management The",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 288872,
+        "end": 289372
+      }
+    },
+    {
+      "id": "33c5b527c44edf12",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 8351,
+      "excerpt": "ineering and Technology in India, and a Master’s degree in Human Resources from Rutgers University. Pradip Singh is the Chief Manufacturing Officer at GF, a position to which he was appointed in 2024. He is responsible for GF’s global manufacturing operations, quality and supply chain. Mr. Singh joined GF in 2009 and has more than 25 years of foundry industry experience with a proven track record in manufacturing operations and technology transfer. Mr. Singh’s career spans manufacturing, managem",
+      "sectionId": "item_6_directors_senior_management_and_e",
+      "sectionHeader": "ITEM 6. DIRECTORS, SENIOR MANAGEMENT AND EMPLOYEES A. Directors and Senior Management The",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 289858,
+        "end": 290358
+      }
+    },
+    {
+      "id": "81dd27754b7a9123",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 963,
+      "excerpt": "elopment of firm-wide allocation strategies, integrating macroeconomic insights with portfolio-level decision-making, as well as the design and implementation of large-scale corporate transformations. He joined the Portfolio Strategy unit in 2012, following his initial role in Mubadala in 2008, where he led investment and asset management in the logistics and transportation sector—defining strategies and managing key investments in that space. He holds a Master’s degree in Manufacturing Manageme",
+      "sectionId": "item_6_directors_senior_management_and_e",
+      "sectionHeader": "Item 6. Directors, Senior Management and Employees – A. Directors and Senior Management—E",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 295736,
+        "end": 296236
+      }
+    },
+    {
+      "id": "fa78286bc875e6db",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 978,
+      "excerpt": "vidends and Dividend Policy We have not historically paid dividends on our ordinary shares, and while we may consider doing so in the future, we cannot assure you that we will ever pay cash dividends. We do not have a current plan to declare or pay cash dividends on our ordinary shares. Any future determination as to the declaration and payment of dividends, if any, will be at the discretion of our Board of Directors, subject to applicable laws, and will depend on a number of factors, including",
+      "sectionId": "item_18_financial_statements_other_than_",
+      "sectionHeader": "Item 18. Financial Statements ”. Other than as disclosed elsewhere in this Annual Report,",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 347040,
+        "end": 347599
+      }
+    },
+    {
+      "id": "c111213252ea271e",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 4427,
+      "excerpt": "ls over financial statement accounts and disclosures. The material weaknesses resulted in immaterial errors to various accounts and disclosures during the years ended December 31, 2025, 2024 and 2023. Additionally, the material weaknesses could result in misstatements to the consolidated financial statements that would result in a material misstatement of the annual or interim financial statements that would not be prevented or detected in a timely manner. In accordance with guidance issued by t",
+      "sectionId": "item_15_controls_and_procedures_a_disclo",
+      "sectionHeader": "ITEM 15. CONTROLS AND PROCEDURES A. Disclosure Controls and Procedures. Our management, wi",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 388318,
+        "end": 388818
+      }
+    },
+    {
+      "id": "7d43fb8017c1dab4",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 960,
+      "excerpt": "nths and may be modified, suspended or terminated at any time. Our repurchase program does not require us to repurchase any specific dollar amount or to acquire any specific number of ordinary shares. The timing and amount of any repurchases, if any, will depend on factors 74 such as our historical and expected business performance and cash and liquidity positions, the price of our ordinary shares, economic and market conditions and regulatory requirements. We made no repurchases of our securiti",
+      "sectionId": "item_16d_exemptions_from_the_listing_sta",
+      "sectionHeader": "ITEM 16D. EXEMPTIONS FROM THE LISTING STANDARDS FOR AUDIT COMMITTEES Not applicable. ITEM 1",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 397724,
+        "end": 398224
+      }
+    },
+    {
+      "id": "a6b0579360580b98",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 1750,
+      "excerpt": "erty and products. The program integrates information security, product security, operational security and cybersecurity into a comprehensive program that covers all phases of the customer experience. Annually, we conduct comprehensive security training for all employees, as well as more focused role-specific training for employees whose job roles require an enhanced level of security awareness and control as well as data and government product security. The program leverages and embraces GF’s e",
+      "sectionId": "item_16k_cybersecurity_in_the_ordinary_c",
+      "sectionHeader": "ITEM 16K. CYBERSECURITY In the ordinary course of our business, we maintain sensitive data",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 405346,
+        "end": 405846
+      }
+    },
+    {
+      "id": "bf83e9ecc42e2a75",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 3131,
+      "excerpt": "sponse tools. We monitor issues that are internally discovered or externally reported that may affect our products and have processes to assess those issues for potential cybersecurity impact or risk. Our dedicated cybersecurity team continually monitor cybersecurity threats to GF, and any incidents or potential incidents are flagged in our systems and escalated for assessment and investigation in accordance with our cybersecurity incident response policies and procedures. Our cybersecurity team",
+      "sectionId": "item_16k_cybersecurity_in_the_ordinary_c",
+      "sectionHeader": "ITEM 16K. CYBERSECURITY In the ordinary course of our business, we maintain sensitive data",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 406727,
+        "end": 407287
+      }
+    },
+    {
+      "id": "d640c5184764f5a4",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 3916,
+      "excerpt": "roviders, including our suppliers, vendors and other partners, as well as our outside consultants, legal counsel and auditors who help us with our cybersecurity risk management and strategy processes. We impose security requirements upon our suppliers, with whom we share sensitive and confidential information, including maintaining an effective security management program, abiding by information handling and asset management requirements, and notifying us in the event of any known or suspect cyb",
+      "sectionId": "item_16k_cybersecurity_in_the_ordinary_c",
+      "sectionHeader": "ITEM 16K. CYBERSECURITY In the ordinary course of our business, we maintain sensitive data",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 407512,
+        "end": 408012
+      }
+    },
+    {
+      "id": "4ee7aa5ef61c81f1",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 1959,
+      "excerpt": "ur audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed ri",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 415883,
+        "end": 416383
+      }
+    },
+    {
+      "id": "45b569f425c895ed",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 5740,
+      "excerpt": "ts, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. Acquisition of Advanced Micro Foundry Pte. Ltd. – Valuation of Customer Relationships, In-Process Research & Development and Developed Technology As described in Note 5 to the consolidated financial statements, on November 18, 2025, the Company completed the acquisition of AMF. The total purchase c",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 419664,
+        "end": 420164
+      }
+    },
+    {
+      "id": "159d6e859d9a7134",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 25086,
+      "excerpt": "Revenue Recognition – The Company generates the majority of revenue from volume production and sales of finished semiconductor wafers, which are priced on a per-wafer basis for the applicable design. We also generate non-wafer revenue from rendering non-recurring engineering (“NRE”) services, mask production, process qualification, post-fabrication services such as bump, test, and packaging, and revenue from intellectual property licenses and related royalties. The Company recognizes revenue whe",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 439011,
+        "end": 439511
+      }
+    },
+    {
+      "id": "fe939f4bfc7662a1",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 47375,
+      "excerpt": "rs 5 years The Company periodically assesses the estimated useful lives of property, plant and equipment. Leases – The Company determines if an arrangement is a lease or contains a lease at inception. That is, if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. Right-of-Use Assets – Right-of-Use (“ROU”) assets are measured at cost, less any accumulated depreciation and impairment losses, and adjusted for any remeasuremen",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 461299,
+        "end": 461799
+      }
+    },
+    {
+      "id": "453c30a036317a35",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 48352,
+      "excerpt": "e of the lease payments to be made over the lease term. The lease payments include fixed payments (including in-substance fixed payments) and variable lease payments that depend on an index or a rate. In calculating the present value of lease payments, the Company uses its incremental borrowing rate at the lease commencement date. After the commencement date, the amount of lease liabilities is increased to reflect the accretion of interest and reduced for the lease payments made. The carrying am",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 462276,
+        "end": 462776
+      }
+    },
+    {
+      "id": "635b733c4b926647",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 80605,
+      "excerpt": "other share-based payment that is cancelled. When modification accounting is applied, the entity accounts for any incremental fair value in addition to the grant-date fair value of the original award. In the case of a replacement, the incremental fair value is the difference between the fair value of the replacement award and the net fair value of the cancelled award, both measured at the date on which the replacement award is issued. The net fair value is the fair value of the cancelled award m",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 494529,
+        "end": 495029
+      }
+    },
+    {
+      "id": "0e77bbc82acaf6d7",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 81513,
+      "excerpt": "ents during the vesting period by the Company are accounted for as accelerated vesting; therefore, the amount that would otherwise have been recognized for services received is recognized immediately. In September 2023, the People and Compensation Committee of GlobalFoundries approved a modification to the 2023 PSUs, to adjust the return on invested capital (“ROIC”) performance threshold. The modification did not increase the fair value of the 2023 PSUs as the non-market performance condition wa",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 495437,
+        "end": 495937
+      }
+    },
+    {
+      "id": "8b4bbd508f6393a9",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 87819,
+      "excerpt": "$ 37 million goodwill and the derecognition of the existing investment in joint venture. On November 14, 2025, the Company completed its acquisition of InfiniLink Inc. (“InfiniLink”) for $ 48 million. InfiniLink specializes in advanced optical data connectivity chips intended for hyper-scale data centers and enterprises. The acquisition is expected to enhance the Company’s in-house design capabilities and further strengthen competitiveness in optics. We recognized goodwill, other intangible asse",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 501743,
+        "end": 502243
+      }
+    },
+    {
+      "id": "5043b7a0cf57e1c7",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 90642,
+      "excerpt": "ies in the consolidated statements of financial positions. Interest paid relating to the Company’s debt is included in cash flow from operating activities on the consolidated statements of cash flows. Geographical concentration of cash and cash equivalents is as follows: (in millions) December 31, 2025 December 31, 2024 United States of America $ 1,133 $ 1,637 Republic of Singapore 436 341 Other 240 214 Total $ 1,809 $ 2,192 F-22 GLOBALFOUNDRIES Inc. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 7.",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 504566,
+        "end": 505126
+      }
+    },
+    {
+      "id": "6f150411d9044186",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 91608,
+      "excerpt": "quity investments 101 25 Other 106 22 Total $ 498 $ 351 (1) The Company’s trade receivables, other than related parties, are all classified as current and are expected to be collected within one year. The Company’s provision for sales returns was not material for either of the years ended December 31, 2025 and 2024. See the table below for the aging of the Company’s trade receivables, other than related parties. (2) Unbilled accounts receivable represents amounts recognized on revenue contracts",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 505532,
+        "end": 506091
+      }
+    },
+    {
+      "id": "092d49ab2f5d5d77",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 92172,
+      "excerpt": "ll be billed in accordance with the agreed-upon contractual terms or upon shipment of products or rendering services. (3) Primarily represents advances to suppliers to offset against future purchases. The following table summarizes the activity in the Company’s unbilled accounts receivable: (in millions) December 31, 2025 December 31, 2024 Beginning balance $ 38 $ 33 Revenue recognized during the year 177 118 Amounts invoiced ( 135 ) ( 113 ) Other 1 — Ending balance $ 81 $ 38 The following table",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 506096,
+        "end": 506656
+      }
+    },
+    {
+      "id": "745e8ca5a37f3c88",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 141652,
+      "excerpt": "Limited India X X X MIPS Embedded Technologies Private Limited India X N/A N/A Tagore Technology Private Limited India X X N/A GLOBALFOUNDRIES Japan Ltd. Japan X X X GLOBALFOUNDRIES Malaysia Sdn. Bhd. Malaysia X X X GLOBALFOUNDRIES (Netherlands) Coöperatief U.A. The Netherlands X X X GLOBALFOUNDRIES Netherlands Holding B.V. The Netherlands X X X GLOBALFOUNDRIES Bulgaria EAD Bulgaria X X X Advanced Micro Foundry Pte. Ltd. Singapore X N/A N/A GF Asia Investments Pte. Ltd. Singapore X X X GF Asia S",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 555576,
+        "end": 556076
+      }
+    },
+    {
+      "id": "d3cc42eae1640654",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 148297,
+      "excerpt": "ted supply-driven price spikes in the short term exists. Our hedging programs generally protect us against short-term spikes in prices due to higher near-term minimum and maximum hedging requirements. In addition, the Company has sourcing plans in place that are designed to mitigate the risk of a potential supplier concentration for its key commodities. Interest Rate Risk – The Company’s exposure to market risk for changes in interest rates relates primarily to interest-earning financial assets",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 562221,
+        "end": 562780
+      }
+    },
+    {
+      "id": "84e04a303111e3cb",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 159657,
+      "excerpt": "ncial Liability Category Carrying Amount Fair Value Carrying Amount Fair Value Other long-term debt FLAC $ 1,151 $ 1,156 $ 1,806 $ 1,736 Total $ 1,151 $ 1,156 $ 1,806 $ 1,736 F-44 GLOBALFOUNDRIES Inc. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Estimated fair values of loans and borrowings are based on quoted prices for similar liabilities for which significant inputs are observable and represents Level 2 valuation. The fair values are estimated based on the type of loan and maturity. The Company",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 573581,
+        "end": 574141
+      }
+    },
+    {
+      "id": "ab95d06e78c6d0e9",
+      "ticker": "GFS",
+      "vendor": null,
+      "charOffset": 162065,
+      "excerpt": "sults and planning for levels or components below the consolidated unit level. Accordingly, the Company has determined that the Company has a single reportable segment and operating segment structure. Revenue based on customers’ headquarters and non-current assets by geography were as follows: Year ended December 31, Revenue by Geography 2025 2024 2023 (in millions) United States $ 3,395 $ 3,713 $ 4,262 Europe, the Middle East and Africa 1,710 1,423 1,533 Other 1,686 1,614 1,597 Total $ 6,791 $",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 575989,
+        "end": 576548
+      }
+    },
+    {
+      "id": "d86b46a90023879e",
+      "ticker": "GFS",
+      "vendor": "GlobalFoundries",
+      "charOffset": 162982,
+      "excerpt": "er assets. 32. Customer And Supplier Concentration Significant customers and suppliers are those that account for greater than 10% of the Company’s revenue and purchases in any of the years presented. The Company earned a substantial portion of revenue from three customers in 2025, 2024 and 2023: Customer A amounted to 16.4 %, 15.7 % and 17.0 % of total wafer revenue, respectively, and Customer B accounted for less than 10% of total wafer revenue in both 2025 and 2023, and 10.7 % in 2024. Custom",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 576906,
+        "end": 577406
+      }
+    },
+    {
+      "id": "d93f4ea28b580f18",
+      "ticker": "GFS",
+      "vendor": "Synopsys",
+      "charOffset": 163827,
+      "excerpt": "B included in accounts receivable was $ 103 million and $ 145 million, respectively. The amounts due from Customer C included in accounts receivable were $ 142 million and $ 79 million, respectively. The loss of the significant customers or the failure to attract new customers could have a material adverse effect on the Company’s business, results of operations and financial condition. The Company purch ased 71.4 % , 60.9 % and 63.0 % of its SOI wafers, a key input into its products, from a sing",
+      "sectionId": "item_15_we_considered_these_material_wea",
+      "sectionHeader": "Item 15. We considered these material weaknesses in determining the nature, timing, and ex",
+      "form": "20-F",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 577752,
+        "end": 578252
+      }
+    }
+  ]
+}

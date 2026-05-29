@@ -1,0 +1,2852 @@
+{
+  "ticker": "AMKR",
+  "count": 186,
+  "generatedAt": "2026-05-29T05:37:47.516Z",
+  "entries": [
+    {
+      "id": "AMKR-Amkor-0",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 245,
+      "excerpt": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 10-K ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Fiscal Year Ended December 31 , 2025 Commission File Number 000-29472 Amkor Technology, Inc. (Exact name of registrant as specified in its charter) Delaware 23-1722724 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) 2045 East Innovation Circle Tempe , AZ 85284 (Address of principal executive offices and zip code) ( 480 ) 821-5000 (Te…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 0,
+        "end": 565
+      }
+    },
+    {
+      "id": "AMKR-Amkor-1",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 5656,
+      "excerpt": "…irector Independence 99 Item 14. Principal Accountant Fees and Services 99 PART IV Item 15. Exhibits and Financial Statement Schedules 100 Item 16. Form 10-K Summary 103 Forward-Looking Statements All references to “Amkor,” “we,” “us,” “our” or the “Company” in this Annual Report on Form 10-K (this “Form 10-K”) are to Amkor Technology, Inc. and its subsidiaries. We refer to the Republic of Korea, which is also commonly known as South Korea, as “Korea.” Amounts preceded by ¥ are in Japanese yen and ₩ are in Korean won. Amkor ® , Amkor Technology ® , Micro LeadFrame ® , SWIFT ® and S-Connect TM , among others, are trademarks of Amkor…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 5336,
+        "end": 6035
+      }
+    },
+    {
+      "id": "AMKR-Amkor-2",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 5870,
+      "excerpt": "…“Amkor,” “we,” “us,” “our” or the “Company” in this Annual Report on Form 10-K (this “Form 10-K”) are to Amkor Technology, Inc. and its subsidiaries. We refer to the Republic of Korea, which is also commonly known as South Korea, as “Korea.” Amounts preceded by ¥ are in Japanese yen and ₩ are in Korean won. Amkor ® , Amkor Technology ® , Micro LeadFrame ® , SWIFT ® and S-Connect TM , among others, are trademarks of Amkor Technology, Inc. All other trademarks appearing herein are held by their respective owners. Subsequent use of the above trademarks in this Form 10-K may occur without the respective superscript symbol ( ® and TM )…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 5551,
+        "end": 6249
+      }
+    },
+    {
+      "id": "AMKR-Amkor-3",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 5970,
+      "excerpt": "…re to Amkor Technology, Inc. and its subsidiaries. We refer to the Republic of Korea, which is also commonly known as South Korea, as “Korea.” Amounts preceded by ¥ are in Japanese yen and ₩ are in Korean won. Amkor ® , Amkor Technology ® , Micro LeadFrame ® , SWIFT ® and S-Connect TM , among others, are trademarks of Amkor Technology, Inc. All other trademarks appearing herein are held by their respective owners. Subsequent use of the above trademarks in this Form 10-K may occur without the respective superscript symbol ( ® and TM ) in order to facilitate the readability of this Form 10-K and are not a waiver of any rights that may…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 5650,
+        "end": 6350
+      }
+    },
+    {
+      "id": "AMKR-kw-0",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 8139,
+      "excerpt": "…on of acquired operations and implementation of an enterprise resource planning system, (16) our efforts to enlarge our customer base in certain geographic areas and markets, (17) demand for advanced packages and our technology leadership and potential growth in our end markets, (18) projects to install or integrate new information technology systems or upgrade our existing systems, (19) our expected revenue recognition, (20) the anticipated benefits from our manufacturing facility in Bac Ninh, Vietnam (the “Vietnam Facility”), (21) the anticipated schedule for construction of our new facility…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 7939,
+        "end": 8599
+      }
+    },
+    {
+      "id": "AMKR-kw-1",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 10812,
+      "excerpt": "…r the date of this Form 10-K except as may be required by applicable law. 2 Table of Contents PART I Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semiconductor assembly and test service provider (“OSAT”) and is a global leader in outsourced semiconductor packaging and test services. With a strong track record of innovation, a broad and diverse geographic footprint and solid partnerships with lead customers, Amkor delivers high-quality solutions that enable the world’s leading semiconductor and electronics companies to bring advanced technologies to marke…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 10612,
+        "end": 11212
+      }
+    },
+    {
+      "id": "AMKR-kw-2",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 10907,
+      "excerpt": "…ART I Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semiconductor assembly and test service provider (“OSAT”) and is a global leader in outsourced semiconductor packaging and test services. With a strong track record of innovation, a broad and diverse geographic footprint and solid partnerships with lead customers, Amkor delivers high-quality solutions that enable the world’s leading semiconductor and electronics companies to bring advanced technologies to market. The company’s comprehensive portfolio includes advanced packaging, wafer-level processing an…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 10707,
+        "end": 11307
+      }
+    },
+    {
+      "id": "AMKR-kw-3",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 11271,
+      "excerpt": "…livers high-quality solutions that enable the world’s leading semiconductor and electronics companies to bring advanced technologies to market. The company’s comprehensive portfolio includes advanced packaging, wafer-level processing and system-in-package solutions targeting applications for smartphones, data centers, artificial intelligence, automobiles and wearables. Amkor has built a leading position by: • Designing and developing innovative packaging and test technologies focused on advanced packaging solutions in key markets, including artificial intelligence; • Building expertise in high…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 11072,
+        "end": 11672
+      }
+    },
+    {
+      "id": "AMKR-kw-4",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 11319,
+      "excerpt": "…rld’s leading semiconductor and electronics companies to bring advanced technologies to market. The company’s comprehensive portfolio includes advanced packaging, wafer-level processing and system-in-package solutions targeting applications for smartphones, data centers, artificial intelligence, automobiles and wearables. Amkor has built a leading position by: • Designing and developing innovative packaging and test technologies focused on advanced packaging solutions in key markets, including artificial intelligence; • Building expertise in high-volume manufacturing processes and developing a…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 11119,
+        "end": 11779
+      }
+    },
+    {
+      "id": "AMKR-kw-5",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 11520,
+      "excerpt": "…ackage solutions targeting applications for smartphones, data centers, artificial intelligence, automobiles and wearables. Amkor has built a leading position by: • Designing and developing innovative packaging and test technologies focused on advanced packaging solutions in key markets, including artificial intelligence; • Building expertise in high-volume manufacturing processes and developing a reputation for high quality and solid execution; • Providing a geographically diverse operating base with manufacturing facilities in multiple countries, including in the United States, where the Ariz…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 11320,
+        "end": 11920
+      }
+    },
+    {
+      "id": "AMKR-kw-6",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 11572,
+      "excerpt": "…nes, data centers, artificial intelligence, automobiles and wearables. Amkor has built a leading position by: • Designing and developing innovative packaging and test technologies focused on advanced packaging solutions in key markets, including artificial intelligence; • Building expertise in high-volume manufacturing processes and developing a reputation for high quality and solid execution; • Providing a geographically diverse operating base with manufacturing facilities in multiple countries, including in the United States, where the Arizona Facility is under construction; • Cultivating lo…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 11372,
+        "end": 11972
+      }
+    },
+    {
+      "id": "AMKR-kw-7",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 12201,
+      "excerpt": "…h our customers and industry partners; • Focusing on strategic end markets that offer solid growth potential; and • Developing a competitive cost structure through disciplined capital investment. Our packaging and test services are designed to meet application and chip-specific requirements, including: the required type of interconnect technology; size; thickness; and electrical, mechanical and thermal performance. We provide turnkey packaging and test services including wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system level and final test and drop shipment…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12001,
+        "end": 12661
+      }
+    },
+    {
+      "id": "AMKR-kw-8",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 12439,
+      "excerpt": "…ed to meet application and chip-specific requirements, including: the required type of interconnect technology; size; thickness; and electrical, mechanical and thermal performance. We provide turnkey packaging and test services including wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system level and final test and drop shipment services. Our customers use us for one or more of these services. We provide our services to integrated device manufacturers (“IDMs”), “fabless” semiconductor companies, original equipment manufacturers (“OEMs”) and contract foundries. I…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12239,
+        "end": 12839
+      }
+    },
+    {
+      "id": "AMKR-kw-9",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 12520,
+      "excerpt": "…pe of interconnect technology; size; thickness; and electrical, mechanical and thermal performance. We provide turnkey packaging and test services including wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system level and final test and drop shipment services. Our customers use us for one or more of these services. We provide our services to integrated device manufacturers (“IDMs”), “fabless” semiconductor companies, original equipment manufacturers (“OEMs”) and contract foundries. IDMs generally design, manufacture, package and test semiconductors in their own f…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12320,
+        "end": 12920
+      }
+    },
+    {
+      "id": "AMKR-kw-10",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 12536,
+      "excerpt": "…ct technology; size; thickness; and electrical, mechanical and thermal performance. We provide turnkey packaging and test services including wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system level and final test and drop shipment services. Our customers use us for one or more of these services. We provide our services to integrated device manufacturers (“IDMs”), “fabless” semiconductor companies, original equipment manufacturers (“OEMs”) and contract foundries. IDMs generally design, manufacture, package and test semiconductors in their own facilities. Howev…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12337,
+        "end": 12937
+      }
+    },
+    {
+      "id": "AMKR-kw-11",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 12874,
+      "excerpt": "…vide our services to integrated device manufacturers (“IDMs”), “fabless” semiconductor companies, original equipment manufacturers (“OEMs”) and contract foundries. IDMs generally design, manufacture, package and test semiconductors in their own facilities. However, the availability of technologically advanced outsourced manufacturing services has encouraged IDMs to outsource a portion of their manufacturing. By offering a broad package portfolio, Amkor allows IDMs to outsource packaging and test services and focus their investments on core competencies such as silicon fabrication. Fabless semi…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12674,
+        "end": 13274
+      }
+    },
+    {
+      "id": "AMKR-kw-12",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13106,
+      "excerpt": "…in their own facilities. However, the availability of technologically advanced outsourced manufacturing services has encouraged IDMs to outsource a portion of their manufacturing. By offering a broad package portfolio, Amkor allows IDMs to outsource packaging and test services and focus their investments on core competencies such as silicon fabrication. Fabless semiconductor companies do not have factories. They focus exclusively on semiconductor design and outsource virtually every step of the manufacturing process, utilizing contract foundries to manufacture their semiconductors in wafer for…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12906,
+        "end": 13506
+      }
+    },
+    {
+      "id": "AMKR-kw-13",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13156,
+      "excerpt": "…of technologically advanced outsourced manufacturing services has encouraged IDMs to outsource a portion of their manufacturing. By offering a broad package portfolio, Amkor allows IDMs to outsource packaging and test services and focus their investments on core competencies such as silicon fabrication. Fabless semiconductor companies do not have factories. They focus exclusively on semiconductor design and outsource virtually every step of the manufacturing process, utilizing contract foundries to manufacture their semiconductors in wafer form and companies such as Amkor for their packaging…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 12957,
+        "end": 13615
+      }
+    },
+    {
+      "id": "AMKR-kw-14",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13546,
+      "excerpt": "…iconductor design and outsource virtually every step of the manufacturing process, utilizing contract foundries to manufacture their semiconductors in wafer form and companies such as Amkor for their packaging and test needs. Some companies will engage a contract foundry to manage the complete semiconductor manufacturing process, and, in turn, the contract foundry will outsource some of its packaging and test needs. INDUSTRY BACKGROUND Semiconductor devices are essential building blocks in most electronic products. As electronic and semiconductor devices have evolved, several important trends…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 13346,
+        "end": 14005
+      }
+    },
+    {
+      "id": "AMKR-kw-15",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13610,
+      "excerpt": "…facturing process, utilizing contract foundries to manufacture their semiconductors in wafer form and companies such as Amkor for their packaging and test needs. Some companies will engage a contract foundry to manage the complete semiconductor manufacturing process, and, in turn, the contract foundry will outsource some of its packaging and test needs. INDUSTRY BACKGROUND Semiconductor devices are essential building blocks in most electronic products. As electronic and semiconductor devices have evolved, several important trends have emerged that have fueled the growth of the overall semicond…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 13410,
+        "end": 14010
+      }
+    },
+    {
+      "id": "AMKR-kw-16",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13705,
+      "excerpt": "…rm and companies such as Amkor for their packaging and test needs. Some companies will engage a contract foundry to manage the complete semiconductor manufacturing process, and, in turn, the contract foundry will outsource some of its packaging and test needs. INDUSTRY BACKGROUND Semiconductor devices are essential building blocks in most electronic products. As electronic and semiconductor devices have evolved, several important trends have emerged that have fueled the growth of the overall semiconductor industry, as well as the market for outsourced semiconductor packaging and test services.…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 13505,
+        "end": 14165
+      }
+    },
+    {
+      "id": "AMKR-kw-17",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13740,
+      "excerpt": "…their packaging and test needs. Some companies will engage a contract foundry to manage the complete semiconductor manufacturing process, and, in turn, the contract foundry will outsource some of its packaging and test needs. INDUSTRY BACKGROUND Semiconductor devices are essential building blocks in most electronic products. As electronic and semiconductor devices have evolved, several important trends have emerged that have fueled the growth of the overall semiconductor industry, as well as the market for outsourced semiconductor packaging and test services. These trends include: • Accelerati…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 13540,
+        "end": 14140
+      }
+    },
+    {
+      "id": "AMKR-kw-18",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 14077,
+      "excerpt": "…nic and semiconductor devices have evolved, several important trends have emerged that have fueled the growth of the overall semiconductor industry, as well as the market for outsourced semiconductor packaging and test services. These trends include: • Accelerating adoption of artificial intelligence applications by both enterprises and consumers, which has increased demand for computing power at data centers and in edge computing devices such as smartphones, autonomous vehicles and consumer and industrial devices. • Growing demand for smart mobile and connected devices, including the worldwid…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 13877,
+        "end": 14477
+      }
+    },
+    {
+      "id": "AMKR-kw-19",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 15020,
+      "excerpt": "…nfotainment. • The increased demand for new broadband wired and wireless networking equipment. • The adoption of heterogeneous integration (diverse dies positioned close to each other within the same package) for scaling performance beyond Moore’s Law to achieve improved power efficiency, design flexibility and scalability in data center computing, artificial intelligence and similar end uses. • The growth of advanced system-in-package (“SiP”) modules (combining multiple semiconductor and other electronic components in a single package) to meet the demand for miniaturization and higher functio…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 14820,
+        "end": 15420
+      }
+    },
+    {
+      "id": "AMKR-kw-20",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 15252,
+      "excerpt": "…beyond Moore’s Law to achieve improved power efficiency, design flexibility and scalability in data center computing, artificial intelligence and similar end uses. • The growth of advanced system-in-package (“SiP”) modules (combining multiple semiconductor and other electronic components in a single package) to meet the demand for miniaturization and higher functionality at competitive cost. • An increase in the semiconductor content within electronic products to provide greater functionality and higher levels of performance. • The continued build out of 5G infrastructure and 5G enabled devic…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 15053,
+        "end": 15652
+      }
+    },
+    {
+      "id": "AMKR-kw-21",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 15354,
+      "excerpt": "…enter computing, artificial intelligence and similar end uses. • The growth of advanced system-in-package (“SiP”) modules (combining multiple semiconductor and other electronic components in a single package) to meet the demand for miniaturization and higher functionality at competitive cost. • An increase in the semiconductor content within electronic products to provide greater functionality and higher levels of performance. • The continued build out of 5G infrastructure and 5G enabled devices. • Digitalization, driving expansion of data generation and storage. As a supplier in the semicondu…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 15155,
+        "end": 15755
+      }
+    },
+    {
+      "id": "AMKR-kw-22",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 15729,
+      "excerpt": "…greater functionality and higher levels of performance. • The continued build out of 5G infrastructure and 5G enabled devices. • Digitalization, driving expansion of data generation and storage. As a supplier in the semiconductor industry, our business is cyclical and impacted by broad economic factors, such as worldwide gross domestic product and consumer spending. With the exception of 2020, when the Covid-19 pandemic caused worldwide gross domestic product levels to decline during a period of strong growth in the semiconductor industry, there has generally been a strong correlation between…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 15529,
+        "end": 16188
+      }
+    },
+    {
+      "id": "AMKR-kw-23",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 16568,
+      "excerpt": "…timing, strength or duration of any correction, economic slowdown, recession or subsequent economic recovery. Outsourcing Trends in Semiconductor Manufacturing Semiconductor companies outsource their packaging and test needs to service providers such as Amkor for the following reasons: Packaging and test service providers have developed expertise in advanced technologies. The increasing demands for miniaturization, greater functionality, lower power consumption and improved thermal and electrical performance are driving the continuous development of semiconductor packaging and test technologie…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 16368,
+        "end": 16968
+      }
+    },
+    {
+      "id": "AMKR-kw-24",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 16655,
+      "excerpt": "…ent economic recovery. Outsourcing Trends in Semiconductor Manufacturing Semiconductor companies outsource their packaging and test needs to service providers such as Amkor for the following reasons: Packaging and test service providers have developed expertise in advanced technologies. The increasing demands for miniaturization, greater functionality, lower power consumption and improved thermal and electrical performance are driving the continuous development of semiconductor packaging and test technologies that are increasingly complex, capital intensive and customized. This trend has led m…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 16455,
+        "end": 17055
+      }
+    },
+    {
+      "id": "AMKR-kw-25",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 16938,
+      "excerpt": "…ies. The increasing demands for miniaturization, greater functionality, lower power consumption and improved thermal and electrical performance are driving the continuous development of semiconductor packaging and test technologies that are increasingly complex, capital intensive and customized. This trend has led many semiconductor companies and OEMs to view packaging and test as enabling technologies that can benefit from the technological innovation expertise found in the leading outsourced assembly and test companies. At the same time, these companies are often looking to reduce their inte…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 16738,
+        "end": 17338
+      }
+    },
+    {
+      "id": "AMKR-kw-26",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17100,
+      "excerpt": "…ntinuous development of semiconductor packaging and test technologies that are increasingly complex, capital intensive and customized. This trend has led many semiconductor companies and OEMs to view packaging and test as enabling technologies that can benefit from the technological innovation expertise found in the leading outsourced assembly and test companies. At the same time, these companies are often looking to reduce their internal manufacturing and research and development costs for packaging and test solutions. As a result, many of these companies are increasingly relying on packaging…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 16900,
+        "end": 17560
+      }
+    },
+    {
+      "id": "AMKR-kw-27",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17237,
+      "excerpt": "…is trend has led many semiconductor companies and OEMs to view packaging and test as enabling technologies that can benefit from the technological innovation expertise found in the leading outsourced assembly and test companies. At the same time, these companies are often looking to reduce their internal manufacturing and research and development costs for packaging and test solutions. As a result, many of these companies are increasingly relying on packaging and test service providers as key sources for new package designs and advanced interconnect technologies. Packaging and test service pro…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17037,
+        "end": 17637
+      }
+    },
+    {
+      "id": "AMKR-kw-28",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17396,
+      "excerpt": "…xpertise found in the leading outsourced assembly and test companies. At the same time, these companies are often looking to reduce their internal manufacturing and research and development costs for packaging and test solutions. As a result, many of these companies are increasingly relying on packaging and test service providers as key sources for new package designs and advanced interconnect technologies. Packaging and test service providers can facilitate a more efficient supply chain and help shorten time-to-market for new products. We believe that semiconductor companies, together with th…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17196,
+        "end": 17796
+      }
+    },
+    {
+      "id": "AMKR-kw-29",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17491,
+      "excerpt": "…ompanies are often looking to reduce their internal manufacturing and research and development costs for packaging and test solutions. As a result, many of these companies are increasingly relying on packaging and test service providers as key sources for new package designs and advanced interconnect technologies. Packaging and test service providers can facilitate a more efficient supply chain and help shorten time-to-market for new products. We believe that semiconductor companies, together with their customers, are seeking to shorten the time-to-market for new products and that an efficient…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17292,
+        "end": 17892
+      }
+    },
+    {
+      "id": "AMKR-kw-30",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17551,
+      "excerpt": "…uring and research and development costs for packaging and test solutions. As a result, many of these companies are increasingly relying on packaging and test service providers as key sources for new package designs and advanced interconnect technologies. Packaging and test service providers can facilitate a more efficient supply chain and help shorten time-to-market for new products. We believe that semiconductor companies, together with their customers, are seeking to shorten the time-to-market for new products and that an efficient supply chain is a critical factor in facilitating timely an…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17351,
+        "end": 17951
+      }
+    },
+    {
+      "id": "AMKR-kw-31",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17607,
+      "excerpt": "…nd test solutions. As a result, many of these companies are increasingly relying on packaging and test service providers as key sources for new package designs and advanced interconnect technologies. Packaging and test service providers can facilitate a more efficient supply chain and help shorten time-to-market for new products. We believe that semiconductor companies, together with their customers, are seeking to shorten the time-to-market for new products and that an efficient supply chain is a critical factor in facilitating timely and successful product introductions. Packaging and test s…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17407,
+        "end": 18007
+      }
+    },
+    {
+      "id": "AMKR-kw-32",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17987,
+      "excerpt": "…r with their customers, are seeking to shorten the time-to-market for new products and that an efficient supply chain is a critical factor in facilitating timely and successful product introductions. Packaging and test service providers have the resources and expertise to timely develop and implement new packaging technology in high volume. For this reason, semiconductor companies and OEMs are leveraging the capabilities of outsourced packaging and test service providers to bring new high quality products to market more quickly. 4 Table of Contents High quality packaging and test service provi…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17787,
+        "end": 18387
+      }
+    },
+    {
+      "id": "AMKR-kw-33",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 18093,
+      "excerpt": "…upply chain is a critical factor in facilitating timely and successful product introductions. Packaging and test service providers have the resources and expertise to timely develop and implement new packaging technology in high volume. For this reason, semiconductor companies and OEMs are leveraging the capabilities of outsourced packaging and test service providers to bring new high quality products to market more quickly. 4 Table of Contents High quality packaging and test service providers enable semiconductor manufacturers to focus their resources on semiconductor design and wafer fabrica…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 17894,
+        "end": 18494
+      }
+    },
+    {
+      "id": "AMKR-kw-34",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 18226,
+      "excerpt": "…ve the resources and expertise to timely develop and implement new packaging technology in high volume. For this reason, semiconductor companies and OEMs are leveraging the capabilities of outsourced packaging and test service providers to bring new high quality products to market more quickly. 4 Table of Contents High quality packaging and test service providers enable semiconductor manufacturers to focus their resources on semiconductor design and wafer fabrication. As semiconductor process technology migrates to larger wafers and smaller feature sizes, the cost of building a state-of-the-ar…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 18026,
+        "end": 18626
+      }
+    },
+    {
+      "id": "AMKR-kw-35",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 18355,
+      "excerpt": "…uctor companies and OEMs are leveraging the capabilities of outsourced packaging and test service providers to bring new high quality products to market more quickly. 4 Table of Contents High quality packaging and test service providers enable semiconductor manufacturers to focus their resources on semiconductor design and wafer fabrication. As semiconductor process technology migrates to larger wafers and smaller feature sizes, the cost of building a state-of-the-art wafer fabrication factory has risen significantly. The high cost of investing in next generation silicon technology and equipme…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 18155,
+        "end": 18755
+      }
+    },
+    {
+      "id": "AMKR-kw-36",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 18930,
+      "excerpt": "…on technology and equipment is causing many semiconductor companies to adopt or maintain a “fabless” or “fab-lite” strategy to reduce or eliminate their investment in wafer fabrication and associated packaging and test operations. As a result, these companies are increasing their reliance on outsourced providers of semiconductor manufacturing services, including high quality packaging and test solutions. Packaging and test service providers offer a cost-effective solution in a cyclical, capital intensive industry. The semiconductor industry is cyclical by nature and impacted by broad economic…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 18730,
+        "end": 19389
+      }
+    },
+    {
+      "id": "AMKR-kw-37",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 19108,
+      "excerpt": "…cation and associated packaging and test operations. As a result, these companies are increasing their reliance on outsourced providers of semiconductor manufacturing services, including high quality packaging and test solutions. Packaging and test service providers offer a cost-effective solution in a cyclical, capital intensive industry. The semiconductor industry is cyclical by nature and impacted by broad economic factors, such as changes in worldwide gross domestic product and consumer spending. Semiconductor packaging and test are complex processes requiring substantial investment in spe…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 18908,
+        "end": 19508
+      }
+    },
+    {
+      "id": "AMKR-kw-38",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 19138,
+      "excerpt": "…g and test operations. As a result, these companies are increasing their reliance on outsourced providers of semiconductor manufacturing services, including high quality packaging and test solutions. Packaging and test service providers offer a cost-effective solution in a cyclical, capital intensive industry. The semiconductor industry is cyclical by nature and impacted by broad economic factors, such as changes in worldwide gross domestic product and consumer spending. Semiconductor packaging and test are complex processes requiring substantial investment in specialized equipment, factories…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 18938,
+        "end": 19597
+      }
+    },
+    {
+      "id": "AMKR-kw-39",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 19428,
+      "excerpt": "…l intensive industry. The semiconductor industry is cyclical by nature and impacted by broad economic factors, such as changes in worldwide gross domestic product and consumer spending. Semiconductor packaging and test are complex processes requiring substantial investment in specialized equipment, factories and human capital. As a result of this cyclicality and the large investments required, manufacturing facilities must operate at consistently high levels of utilization to be cost-effective. Shorter product life cycles, coupled with the need to update or replace packaging and test equipment…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "keyword",
+      "range": {
+        "start": 19228,
+        "end": 19888
+      }
+    },
+    {
+      "id": "AMKR-Arm-0",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 23088,
+      "excerpt": "…tor design and wafer fabrication. Our commitment to technology leadership is reinforced by ongoing investment in research and development, environmental responsibility and sustainable manufacturing practices. We continually advance our processes and package designs to meet evolving customer needs, minimize the use of harmful materials and optimize energy and water usage. 5 Table of Contents Expand our Geographic Footprint Amkor’s broad and strategically located manufacturing footprint is a key differentiator, enabling us to deliver flexible, resilient and cost-effective solutions to customers worldwide. With facilities located in ke…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 22768,
+        "end": 23408
+      }
+    },
+    {
+      "id": "AMKR-ASE Technology-0",
+      "ticker": "AMKR",
+      "vendor": "ASE Technology",
+      "charOffset": 52741,
+      "excerpt": "…MPETITION The outsourced semiconductor packaging and test market is highly competitive, and geopolitical trade tensions have increased competition from Chinese firms supporting a China-for-China supply chain. We face competition from established packaging and test service providers primarily located in Asia, including ASE Technology, JCET Group and Powertech Technology. Additionally, we compete with contract foundries and electronic manufacturing service providers or contract electronics manufacturers, which offer certain types of advanced packaging. Our IDM customers also evaluate our services and scale against their own in-house c…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 52421,
+        "end": 53061
+      }
+    },
+    {
+      "id": "AMKR-Arm-1",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 64129,
+      "excerpt": "…s, health conditions or pandemics, political instability, hostilities or other disruptions. 15 Table of Contents Risks Related to Our Business, Operations and Industry Our packaging and test services are used in volatile industries, and industry downturns and declines in global economic and financial conditions could harm our performance. Our business is impacted by market conditions in the semiconductor industry, which is cyclical by nature and impacted by broad economic factors, such as worldwide gross domestic product and consumer spending. The semiconductor industry has experienced significant and sometimes sudden and prolonged…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 63810,
+        "end": 64449
+      }
+    },
+    {
+      "id": "AMKR-Arm-2",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 66431,
+      "excerpt": "…furthermore, fire, severe weather, earthquakes, flooding and tsunamis in the past have impacted the supply of specialty chemicals, substrates, silicon wafers, equipment and other supplies to the electronics industry. In addition, we purchase the majority of our materials on a purchase order basis. Our business may be harmed if we cannot obtain materials and other supplies from our vendors in a timely manner, in sufficient quantities, at acceptable quality or at competitive prices or are unable to increase our prices sufficiently to recover inflationary price increases in materials or supplies. Some of our customers are also dependen…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 66112,
+        "end": 66812
+      }
+    },
+    {
+      "id": "AMKR-Arm-3",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 82528,
+      "excerpt": "…h a lawsuit or with adverse public perceptions in general regarding our customers’ products. Further, if our packages are delivered with defects, we could incur additional development, repair or replacement costs or suffer other economic losses, and our credibility and the market’s acceptance of our packages could be harmed. Due to our high percentage of fixed costs, we may be unable to maintain satisfactory gross margins if we are unable to achieve relatively high-capacity utilization rates. Our operations are characterized by high fixed costs and the absence of any material backlog. Our profitability depends in part not only on pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 82208,
+        "end": 82848
+      }
+    },
+    {
+      "id": "AMKR-Arm-4",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 103474,
+      "excerpt": "…reduce reliance on U.S. suppliers. Furthermore, if these export restrictions cause our current or potential customers to view U.S. companies as unreliable, we could suffer reputational damage or lose business to foreign competitors who are not subject to such export restrictions, and our business could be materially harmed. We are continuing to evaluate the impact of these restrictions on our business, but these actions may have direct and indirect material adverse impacts on our revenues and results of operations in China and elsewhere. In addition, our success in the Chinese markets may be adversely affected by China’s evolving p…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 103155,
+        "end": 103794
+      }
+    },
+    {
+      "id": "AMKR-Arm-5",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 111650,
+      "excerpt": "…occur in the future. Cybersecurity breaches could result in unauthorized disclosure of confidential information, disruptions to our operations and/or impacts to a third party with which we have a relationship, such as a customer or vendor, which could result in reputational, competitive, operational or other business harms as well as financial costs and regulatory action. While we have not experienced a material information security breach, we cannot be sure that such a breach will not occur in the future. The information technology systems in our factories are at varying levels of sophistication and maturity as the factories have d…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 111330,
+        "end": 111970
+      }
+    },
+    {
+      "id": "AMKR-Arm-6",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 112937,
+      "excerpt": "…plementation of the system; • costs may exceed our plans and expectations; and • disruptions resulting from the implementation, integration or cybersecurity breach of the systems may impact our ability to process transactions and delay shipments to customers, impact our results of operations or financial condition or harm our control environment. Our business could be materially and adversely affected if our information technology systems are disrupted or if we are unable to successfully install new systems or improve, upgrade, integrate or expand upon our existing systems. We maintain insurance policies for various types of informa…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 112617,
+        "end": 113257
+      }
+    },
+    {
+      "id": "AMKR-Arm-7",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 134272,
+      "excerpt": "…and remedial actions, and we could be subject to revocation of permits, which may materially and adversely affect our ability to maintain or expand our operations. Additionally, if Amkor is unable to align its environmental, health and safety practices with shifting customer preferences, we could suffer reputational harm, which could have a material and adverse effect on our business, results of operations, liquidity and cash flows. There has also been an increase in regulatory and public attention and industry and customer focus on the materials contained in semiconductor products, the environmental impact of semiconductor operati…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 133953,
+        "end": 134592
+      }
+    },
+    {
+      "id": "AMKR-Amkor-4",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 151290,
+      "excerpt": "…erformance. We will not make or endorse any predictions as to Amkor’s future stock performance. The following table sets forth the cumulative total returns included in the preceding Stock Performance Graph for the years ended December 31, 2020 through 2025: For the Year Ended December 31, 2020 2021 2022 2023 2024 2025 Amkor Technology, Inc. $ 100.00 $ 165.56 $ 161.76 $ 226.98 $ 179.83 $ 280.28 S&P MidCap 400 100.00 124.76 108.47 126.29 143.89 154.68 PHLX Semiconductor 100.00 142.85 93.02 155.35 186.98 268.23 Item 6. <Reserved> Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations This section…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 150970,
+        "end": 151669
+      }
+    },
+    {
+      "id": "AMKR-Amkor-5",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 176636,
+      "excerpt": "…others, covenants to maintain a minimum interest coverage ratio and a maximum consolidated leverage ratio, which restrict our ability to pay dividends and could restrict our operations. These restrictions do not currently have a material impact on our ability to make dividend payments or stock repurchases. The debt of Amkor Technology, Inc. is structurally subordinated in right of payment to all existing and future debt and other liabilities of our subsidiaries. From time to time, Amkor Technology, Inc., Amkor Technology Singapore Holding Pte. Ltd. (“ATSH”) and Guardian Assets, Inc. (“Guardian”) guarantee certain debt of our subsidi…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 176316,
+        "end": 176956
+      }
+    },
+    {
+      "id": "AMKR-Amkor-6",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 176802,
+      "excerpt": "…ict our operations. These restrictions do not currently have a material impact on our ability to make dividend payments or stock repurchases. The debt of Amkor Technology, Inc. is structurally subordinated in right of payment to all existing and future debt and other liabilities of our subsidiaries. From time to time, Amkor Technology, Inc., Amkor Technology Singapore Holding Pte. Ltd. (“ATSH”) and Guardian Assets, Inc. (“Guardian”) guarantee certain debt of our subsidiaries. 42 Table of Contents In order to reduce our debt and future cash interest payments, we may from time to time repurchase or redeem our outstanding senior notes…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 176482,
+        "end": 177181
+      }
+    },
+    {
+      "id": "AMKR-Amkor-7",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 176826,
+      "excerpt": "…e restrictions do not currently have a material impact on our ability to make dividend payments or stock repurchases. The debt of Amkor Technology, Inc. is structurally subordinated in right of payment to all existing and future debt and other liabilities of our subsidiaries. From time to time, Amkor Technology, Inc., Amkor Technology Singapore Holding Pte. Ltd. (“ATSH”) and Guardian Assets, Inc. (“Guardian”) guarantee certain debt of our subsidiaries. 42 Table of Contents In order to reduce our debt and future cash interest payments, we may from time to time repurchase or redeem our outstanding senior notes for cash or exchange sha…",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "range": {
+        "start": 176506,
+        "end": 177146
+      }
+    },
+    {
+      "id": "0c3738889b0ea3d0",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 1715,
+      "excerpt": "e grant and expiration of conditional reduced tax rates in jurisdictions in which we operate and expectations regarding our effective tax rate and the availability of tax incentives, (8) the creation or release of valuation allowances related to taxes in the future, (9) our repurchase or repayment of outstanding debt, (10) payment of dividends, (11) compliance with restrictive covenants in the indentures and agreements governing our current and future indebtedness, (12) liability for unrecognize",
+      "sectionId": "item_15_exhibits_and_financial_statement",
+      "sectionHeader": "Item 15. Exhibits and Financial Statement Schedules 100 Item 16. Form 10-K Summary 103 For",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 7134,
+        "end": 7634
+      }
+    },
+    {
+      "id": "bdd5df2db17337c4",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 2715,
+      "excerpt": "nced packages and our technology leadership and potential growth in our end markets, (18) projects to install or integrate new information technology systems or upgrade our existing systems, (19) our expected revenue recognition, (20) the anticipated benefits from our manufacturing facility in Bac Ninh, Vietnam (the “Vietnam Facility”), (21) the anticipated schedule for construction of our new facility in Arizona, United States (the “Arizona Facility”), (22) the receipt of government awards and",
+      "sectionId": "item_15_exhibits_and_financial_statement",
+      "sectionHeader": "Item 15. Exhibits and Financial Statement Schedules 100 Item 16. Form 10-K Summary 103 For",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 8134,
+        "end": 8693
+      }
+    },
+    {
+      "id": "05fd229e5660947a",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semiconductor assembly and test service provider (“OSAT”) and is a global leader in outsourced semiconductor packaging and test services. With a strong track record of innovation, a broad and diverse geographic footprint and solid partnerships with lead customers, Amkor delivers high-quality solutions that enable the world’s leading semiconductor and electronics companies to bring advanced technologies to market",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 10713,
+        "end": 11213
+      }
+    },
+    {
+      "id": "5044b2a03e8fd728",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 529,
+      "excerpt": "portfolio includes advanced packaging, wafer-level processing and system-in-package solutions targeting applications for smartphones, data centers, artificial intelligence, automobiles and wearables. Amkor has built a leading position by: • Designing and developing innovative packaging and test technologies focused on advanced packaging solutions in key markets, including artificial intelligence; • Building expertise in high-volume manufacturing processes and developing a reputation for high qua",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 11243,
+        "end": 11743
+      }
+    },
+    {
+      "id": "2240c30931fc766f",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 1506,
+      "excerpt": "services are designed to meet application and chip-specific requirements, including: the required type of interconnect technology; size; thickness; and electrical, mechanical and thermal performance. We provide turnkey packaging and test services including wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system level and final test and drop shipment services. Our customers use us for one or more of these services. We provide our services to integrated device manufac",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 12220,
+        "end": 12720
+      }
+    },
+    {
+      "id": "b847f81d374767fb",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 2403,
+      "excerpt": "rtfolio, Amkor allows IDMs to outsource packaging and test services and focus their investments on core competencies such as silicon fabrication. Fabless semiconductor companies do not have factories. They focus exclusively on semiconductor design and outsource virtually every step of the manufacturing process, utilizing contract foundries to manufacture their semiconductors in wafer form and companies such as Amkor for their packaging and test needs. Some companies will engage a contract foundr",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 13116,
+        "end": 13616
+      }
+    },
+    {
+      "id": "9524850ef75c988c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 3192,
+      "excerpt": "s have evolved, several important trends have emerged that have fueled the growth of the overall semiconductor industry, as well as the market for outsourced semiconductor packaging and test services. These trends include: • Accelerating adoption of artificial intelligence applications by both enterprises and consumers, which has increased demand for computing power at data centers and in edge computing devices such as smartphones, autonomous vehicles and consumer and industrial devices. • Growi",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 13905,
+        "end": 14405
+      }
+    },
+    {
+      "id": "568c2ef997b860db",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 4001,
+      "excerpt": "products such as automotive systems for advanced driver assistance systems (“ADAS”), electrification and infotainment. • The increased demand for new broadband wired and wireless networking equipment. • The adoption of heterogeneous integration (diverse dies positioned close to each other within the same package) for scaling performance beyond Moore’s Law to achieve improved power efficiency, design flexibility and scalability in data center computing, artificial intelligence and similar end use",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 14714,
+        "end": 15214
+      }
+    },
+    {
+      "id": "8168a22ccae44475",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 4984,
+      "excerpt": "ta generation and storage. As a supplier in the semiconductor industry, our business is cyclical and impacted by broad economic factors, such as worldwide gross domestic product and consumer spending. With the exception of 2020, when the Covid-19 pandemic caused worldwide gross domestic product levels to decline during a period of strong growth in the semiconductor industry, there has generally been a strong correlation between worldwide gross domestic product levels, consumer spending and semic",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 15697,
+        "end": 16197
+      }
+    },
+    {
+      "id": "9e6a4a5f0c7e3662",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 5829,
+      "excerpt": "companies outsource their packaging and test needs to service providers such as Amkor for the following reasons: Packaging and test service providers have developed expertise in advanced technologies. The increasing demands for miniaturization, greater functionality, lower power consumption and improved thermal and electrical performance are driving the continuous development of semiconductor packaging and test technologies that are increasingly complex, capital intensive and customized. This tr",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 16542,
+        "end": 17042
+      }
+    },
+    {
+      "id": "1b5550461fdae3b7",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 6825,
+      "excerpt": "rces for new package designs and advanced interconnect technologies. Packaging and test service providers can facilitate a more efficient supply chain and help shorten time-to-market for new products. We believe that semiconductor companies, together with their customers, are seeking to shorten the time-to-market for new products and that an efficient supply chain is a critical factor in facilitating timely and successful product introductions. Packaging and test service providers have the resou",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 17538,
+        "end": 18038
+      }
+    },
+    {
+      "id": "11dfe794edf73d89",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 7765,
+      "excerpt": "d wafer fabrication. As semiconductor process technology migrates to larger wafers and smaller feature sizes, the cost of building a state-of-the-art wafer fabrication factory has risen significantly. The high cost of investing in next generation silicon technology and equipment is causing many semiconductor companies to adopt or maintain a “fabless” or “fab-lite” strategy to reduce or eliminate their investment in wafer fabrication and associated packaging and test operations. As a result, thes",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 18478,
+        "end": 18978
+      }
+    },
+    {
+      "id": "5fc8824a834a7f2a",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 8643,
+      "excerpt": "n worldwide gross domestic product and consumer spending. Semiconductor packaging and test are complex processes requiring substantial investment in specialized equipment, factories and human capital. As a result of this cyclicality and the large investments required, manufacturing facilities must operate at consistently high levels of utilization to be cost-effective. Shorter product life cycles, coupled with the need to update or replace packaging and test equipment to accommodate new package",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 19356,
+        "end": 19915
+      }
+    },
+    {
+      "id": "0308c410c3e9d23c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 9453,
+      "excerpt": "entially generating more efficient use of their production assets and a more cost-effective solution. STRATEGY AND COMPETITIVE STRENGTHS Amkor’s primary financial objective is profitable sales growth. Our strategy is built on providing industry-leading packaging and test technologies, expanding our global manufacturing footprint, including new investments in the U.S, and deepening strategic partnerships with leading semiconductor companies. These strategic pillars enable us to deliver innovative",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 20166,
+        "end": 20666
+      }
+    },
+    {
+      "id": "a789c856110890d9",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 10361,
+      "excerpt": "ing and test technologies, enabling next-generation devices across key markets such as high-performance computing (“HPC”) and artificial intelligence (“AI”), automotive, IoT and mobile communications. Our technology leadership encompasses areas such as high density fan-out (“HDFO”), including SWIFT and S-Connect packaging technologies, 2.5D integration, advanced flip chip, fine pitch bumping, wafer-level processing and advanced system-in-package (“SiP”) solutions, which support the industry’s dr",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 21074,
+        "end": 21574
+      }
+    },
+    {
+      "id": "f397d7f54ed1ee9e",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 11261,
+      "excerpt": "Our advanced packages may incorporate Through Silicon Via (TSV) interconnects and silicon interposers, enabling the integration of high-bandwidth memory and graphics processors into a single package. Amkor’s broad offering of semiconductor package design, packaging and test services addresses the diverse needs of our customers. We provide turnkey solutions that include package design, wafer bump, wafer probe, wafer back-grind, packaging, burn-in, system level and final test and drop shipment ser",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 21975,
+        "end": 22475
+      }
+    },
+    {
+      "id": "722abe11738702fa",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 12228,
+      "excerpt": "ustainable manufacturing practices. We continually advance our processes and package designs to meet evolving customer needs, minimize the use of harmful materials and optimize energy and water usage. 5 Table of Contents Expand our Geographic Footprint Amkor’s broad and strategically located manufacturing footprint is a key differentiator, enabling us to deliver flexible, resilient and cost-effective solutions to customers worldwide. With facilities located in key manufacturing regions in Asia a",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 22941,
+        "end": 23441
+      }
+    },
+    {
+      "id": "d20f76f1f246696d",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 14052,
+      "excerpt": "of the world’s leading semiconductor companies over the last five decades. Our operational excellence, high quality, reliability and predictability have been key to attracting and retaining customers. Our collaborative approach enables us to work closely with customers and suppliers to co-develop proprietary process technologies, accelerate time-to-market, improve quality and lower costs. We work closely with lead customers in the following key markets to deliver advanced packaging solutions tai",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 24765,
+        "end": 25265
+      }
+    },
+    {
+      "id": "6300182944949438",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 14878,
+      "excerpt": "ntent in automobiles is driving demand for advanced packaging to enable safety features such as ADAS, in-car computing, radar and digital cockpit features such as infotainment displays and telematics. Increasing battery voltage, higher voltage power converters, onboard chargers, automotive inverter components and microcontrollers also require innovative power packaging solutions. • IoT: Hearables, watches and augmented and virtual reality devices integrate multiple functions, such as processors,",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 25591,
+        "end": 26151
+      }
+    },
+    {
+      "id": "12d17ffcd4a82565",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 15852,
+      "excerpt": "ons, enhanced features and higher performance requirements to support increased data processing. The trend to greater functionality drives miniaturization and innovation enabled by advanced packaging. PACKAGING AND TEST SERVICES In general, the semiconductor manufacturing process consists of IC design, wafer fabrication, wafer probe, packaging and final test. The packaging and test services we provide occur subsequent to wafer fabrication, and the wafers that we receive from our customers are ge",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 26565,
+        "end": 27065
+      }
+    },
+    {
+      "id": "2072e4405a33ccc4",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 16727,
+      "excerpt": "ainstream Products.” The following table sets forth, for the periods indicated, net sales for Advanced Products and Mainstream Products and the percentage of total net sales for each service offering. For the Year Ended December 31, 2025 2024 2023 (In millions, except percentage of net sales) Advanced Products $ 5,556 82.8 % $ 5,175 81.9 % $ 5,033 77.4 % Mainstream Products 1,152 17.2 % 1,143 18.1 % 1,470 22.6 % Total net sales $ 6,708 100.0 % $ 6,318 100.0 % $ 6,503 100.0 % Advanced Products Ou",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 27440,
+        "end": 27940
+      }
+    },
+    {
+      "id": "384f2d11c44b046d",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17599,
+      "excerpt": "rcuit board. FC CSP Package Products : FC CSP packages are small form factor packages where the substrate size is not much larger than the die itself. • FC CSP can be a single die or multi die format. The size advantage provided by CSP technologies has made FC CSP an attractive choice for a wide variety of applications that require very small form factors, such as smartphones, tablets and other mobile consumer electronic devices. • Flip chip stacked chip scale packages (“FC SCSP”) stack a second",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 28312,
+        "end": 28872
+      }
+    },
+    {
+      "id": "360fd56116fea3ee",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 18578,
+      "excerpt": ". • Fine pitch copper pillar flip chip interconnect technology creates interconnects at finer pitches using a plating process to reduce the number of substrate layers to facilitate very thin packages. This innovative technology also enables package stacking with TSVs. FCBGA Products: FCBGA packages are large form factor substrate-based packages which are used where processing power and speed are a higher priority than a small form factor. Our FCBGA packages are assembled using state-of-the-art s",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 29291,
+        "end": 29791
+      }
+    },
+    {
+      "id": "57fa35c247e50546",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 19415,
+      "excerpt": "hermal requirements of the end product. We offer FCBGA packaging in a variety of product formats to fit a wide range of applications, including networking, storage, computing, automotive and consumer. Some FCBGA products incorporate 2.5D technology, which utilizes high density silicon interposers to enable the integration of high-performance chips, such as high bandwidth memory and graphics processors, into a single package. Memory Products: Memory packages consist of either standalone packaging",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 30128,
+        "end": 30688
+      }
+    },
+    {
+      "id": "1249b6a602c84810",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 20388,
+      "excerpt": "ologies and customers can choose between these package types as their die sizes shrink or grow. • Wafer-level CSP packages (also known as fan-in wafer-level packages) do not utilize a package carrier. The bumped wafer is singulated into individual die, and the wafer-level package is then attached directly to the system board. Wafer-level CSP offers one of the lowest total system costs, enabling higher semiconductor content while leveraging the smallest form factor and one of the highest performi",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 31101,
+        "end": 31601
+      }
+    },
+    {
+      "id": "20ce947b1f1aaf09",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 21354,
+      "excerpt": "ng a border around the die using low-cost molding compound. These packages can include multiple die. Applications for WLFO packages include power management, transceivers, radar and specialty silicon. • SiPh and CPO allow for the integration of fiberoptic interconnects both within a package and within the server architecture to reduce power consumption, heat generation and improve performance. Amkor has supported previous generations of SiPh packaging needs and is aligned with the market to supp",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 32067,
+        "end": 32567
+      }
+    },
+    {
+      "id": "f968bc57f968e30e",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 22220,
+      "excerpt": "of performance with a balanced cost structure. HDFO solutions enable high performance in a compact form factor that combines tiled processors, memory, I/O (input/output) die and other peripheral ICs. Mainstream Products Our Mainstream Products use wirebond interconnect technology to connect a die to a leadframe or substrate package carrier and include leadframe packages, substrate-based wirebond packages and micro-electro-mechanical systems (“MEMS”) packages. Leadframe Packages: Leadframe packag",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 32934,
+        "end": 33434
+      }
+    },
+    {
+      "id": "1ea0d6fd62b8a7f9",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 23107,
+      "excerpt": "traditional leadframe package types are small outline IC and quad flat package, commonly known as “dual” and “quad” products, respectively, based upon the number of sides from which the leads extend. The traditional leadframe package family has evolved from “through hole design,” where the leads are plugged into holes on the circuit board to “surface mount design,” where the leads are soldered to the surface of the circuit board. We offer a wide range of lead counts and body sizes to satisfy var",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 33821,
+        "end": 34321
+      }
+    },
+    {
+      "id": "9fcfa2d9de638387",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 23929,
+      "excerpt": "ges typically have superior thermal and electrical characteristics, which allow them to dissipate heat generated by high-powered semiconductor devices while providing enhanced electrical connectivity. We are developing increasingly smaller versions of these packages to keep pace with continually shrinking semiconductor device sizes and demand for miniaturization of portable electronic products. One of our more successful leadframe package offerings is the Micro LeadFrame family of quad flat no l",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 34642,
+        "end": 35142
+      }
+    },
+    {
+      "id": "708d17e9989a3dcc",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 24872,
+      "excerpt": "dules with wafers from silicon carbide and other wide band gap materials. Substrate-based Wirebond Packages : Substrate-based wirebond packages use wirebond technology to connect a die to a substrate. Some of our packages in this category include stacked CSP, wirebond ball grid array packages and plastic ball grid array (“PBGA”) packages. • Stacked CSP technology enables the stacking of a wide range of different semiconductor devices to deliver high levels of silicon integration and area efficie",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 35585,
+        "end": 36085
+      }
+    },
+    {
+      "id": "81995677017172dc",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 25799,
+      "excerpt": "component integration together with thermal management solutions. They are applicable for a wide range of semiconductors requiring a smaller package size than conventional PBGAs or leadframe packages. • PBGA packages are used in applications requiring higher pin count than leadframe packages but typically have lower pin counts than flip chip. PBGA packages are designed for low inductance, improved thermal operation and enhanced surface-mount technology ability. Custom performance enhancements, l",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 36512,
+        "end": 37012
+      }
+    },
+    {
+      "id": "521f64cdc5263569",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 26652,
+      "excerpt": "s, magnetometers and humidity, temperature and pressure sensors. We also specialize in sensor fusion products which utilize our cavity MEMS platform and combine multiple sensors into a single package. MEMS packages leverage our expertise in wafer thinning, die stacking, wirebonding and flip chip interconnect to deliver sophisticated products with a very small form factor. Advanced System-in-Package Modules Advanced SiP modules combine multiple semiconductor and other electronic components with d",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 37365,
+        "end": 37865
+      }
+    },
+    {
+      "id": "86f0bcf94f396fc4",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 27597,
+      "excerpt": "applications such as radio frequency (“RF”) and front-end modules, basebands, connectivity, fingerprint sensors, display and touch screen drivers, sensors and MEMS, NAND memory and solid state drives. Advanced SiP modules are found in many products including smartphones and tablets, automobiles, IoT wearables, high-performance gaming systems, computers and network systems. In 2025, 2024 and 2023, we had net sales of approximately $3,080 million, $3,085 million and $2,955 million, respectively, f",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 38310,
+        "end": 38810
+      }
+    },
+    {
+      "id": "35878a8b4756d0e9",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 28413,
+      "excerpt": "ost advantages of co-located turn-key services and are differentiated by our geographically diverse locations, high quality execution and delivery and our expertise, particularly for wafer level test. Our test services are used as both an interim step or as the final testing step to ensure screening and rejection of defects, performance grading and overall outgoing quality and reliability. Interim testing eliminates the manufacturing costs of assembling the defective chips. Below is a descriptio",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 39126,
+        "end": 39626
+      }
+    },
+    {
+      "id": "6335713ec02b255a",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 29250,
+      "excerpt": "rn-In Test: Burn-in test is a process in which components of a system are exercised, monitored and measured in extreme operational conditions such as high temperature, voltage and frequency over time. The purpose of the environmental and operational stress conditions of burn-in testing is to accelerate and screen early life failures and estimate and monitor long-term degradation and ultimate lifetime. • System Level Test: System level test identifies defective products that may not otherwise be",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 39963,
+        "end": 40522
+      }
+    },
+    {
+      "id": "8c1c2d4208c0c6ac",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 30193,
+      "excerpt": "omplete test software and hardware solutions to our customers. These services also enable early engagement with our customers in the product design phases for maximum compatibility with manufacturing. Our test development teams are experienced in a full suite of test engineering disciplines for Memory, Power, RF, Mixed Signal, Analog and digital test solution development. End Markets The following table lists the end markets that use our products and sets forth, for the periods indicated, the pe",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 40906,
+        "end": 41406
+      }
+    },
+    {
+      "id": "ac595956736d1921",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 31176,
+      "excerpt": "rables) 15 % 15 % 13 % Total net sales 100 % 100 % 100 % RESEARCH AND DEVELOPMENT We believe that technology development is one of the keys to success in the semiconductor packaging and test industry. Our research and development efforts focus on developing new packaging technologies and test solutions to meet evolving customer needs for higher performance, greater integration, smaller form factors and lower costs. Key areas of focus include: • Heterogeneous integration: Developing multi-chip mo",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 41889,
+        "end": 42389
+      }
+    },
+    {
+      "id": "4eacb29c389d7c6b",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 31996,
+      "excerpt": "essors, chiplets or integrated passive devices into one packaged module. Through die partitioning and heterogeneous integration, these modules provide higher functionality at lower total product cost. • Wafer-level and panel-level packaging: Innovating 2D and 3D wafer-level chip-scale packages and WLFO packages are increasingly the preferred package type for many applications in IoT and mobile devices, including processors, power management integrated circuits (“PMICs”), display drivers and ante",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 42709,
+        "end": 43209
+      }
+    },
+    {
+      "id": "5aadce17931f6c44",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 32814,
+      "excerpt": "ins copper interconnects between stacked chips or wafers, enabling extremely dense, ultra fine pitch interconnects to provide performance and power advantages over traditional microbump interconnects. • Highly integrated SiP modules: Creating compact, cost efficient modules such as DSMBGA and DSMLGA packages to minimize form factor and reduce material and processing costs for wearables and mobile devices. • Advanced automotive packaging: Developing new package technologies as higher performance",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 43527,
+        "end": 44086
+      }
+    },
+    {
+      "id": "2d1efc36c58c52bf",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 33772,
+      "excerpt": "l permit ever increasing interface bandwidth improvements between processors, artificial intelligence accelerators, memory and other support components, all coupled together through our CPO solutions. Our research and development teams are located across our facilities with the primary Center of Excellence based in Korea. In 2025, 2024 and 2023, we incurred $166.7 million, $163.0 million and $177.5 million, respectively, of research and development expense. SALES AND MARKETING Our sales offices",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 44485,
+        "end": 45044
+      }
+    },
+    {
+      "id": "2e2597e44b68e4fe",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 34678,
+      "excerpt": "rt representatives. We also support our largest multinational customers from multiple geographic office locations to ensure that we are aligned with their global operational and business requirements. Our direct support teams are further supported by an extended staff of product, process, quality and reliability engineers, as well as marketing and advertising specialists, information systems technicians and factory personnel. Together, these direct and extended support teams deliver an array of",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 45391,
+        "end": 45950
+      }
+    },
+    {
+      "id": "7097630c22a662b0",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 35651,
+      "excerpt": "omic conditions, changes in our product mix or overall demand in any of our end markets can impact our seasonality. CUSTOMERS Our customers include most of the world’s largest semiconductor companies. Our ten largest customers accounted for 72% of our net sales in 2025. Direct sales to Apple and Qualcomm accounted for 29.8% and 11.1% of our net sales, respectively, for the year ended December 31, 2025. MATERIALS AND EQUIPMENT Materials Our materials are used primarily for packaging activities. O",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 46364,
+        "end": 46864
+      }
+    },
+    {
+      "id": "35336274b28bd63d",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 36638,
+      "excerpt": "t cost. Generally, we purchase materials based on Amkor’s commitments to customer forecasts, and our customers are generally responsible for any unused materials we purchase based on such commitments. 11 Table of Contents We obtain the materials required for packaging services from various suppliers and source most of our materials, including critical materials such as leadframes, laminate substrates and bonding wires, from a limited group of suppliers. We work closely with our primary material",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 47351,
+        "end": 47910
+      }
+    },
+    {
+      "id": "43da9653da7a546d",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 37574,
+      "excerpt": "ring and delivery of equipment to meet our expected capacity needs. The primary types of equipment used in providing our packaging services are wire bonders, die bonders, chip shooters and die attach. In addition, we maintain a variety of other packaging equipment, including mold, singulation, ball attach and wafer backgrind, along with numerous other types of manufacturing equipment. A substantial portion of our packaging equipment base can generally be used and adapted to support the manufactu",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 48287,
+        "end": 48787
+      }
+    },
+    {
+      "id": "7af74a183b923f5c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 38556,
+      "excerpt": "increments of capacity. The primary equipment used in the testing process includes testers, handlers and probers. Handlers are used to transfer individual or small groups of packaged ICs to a tester. Test equipment is generally a more capital-intensive activity than packaging, and test equipment tends to have longer delivery lead times than most types of packaging equipment. We focus our capital expenditures on standardized tester platforms to maximize test equipment utilization where possible.",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 49270,
+        "end": 49829
+      }
+    },
+    {
+      "id": "9b6f34d373900bb2",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 39432,
+      "excerpt": "ting disclosure rules, accounting standards and environmental, corporate governance, intellectual property, tax, trade, antitrust, employment, immigration and travel, privacy and anti-corruption laws. Costs and accruals incurred to comply with these governmental regulations are presently not material to our capital expenditures, results of operations and competitive position. Although there is no assurance that existing or future government laws applicable to our operations, services or products",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 50145,
+        "end": 50705
+      }
+    },
+    {
+      "id": "3be72ab9c97e116d",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 40410,
+      "excerpt": "eposition process produces wastewater. Scrap from metal lead-frame or substrate processing or excessive molding resin produces solid waste. Emissions from solvents used for coating produce flue gases. In addition to byproducts, semiconductor packages have historically contained lead, a naturally occurring element that can be toxic. The use of lead in our packages has decreased over time due to the use of lead-free alternatives. The use and storage of chemicals and materials are subject to variou",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 51123,
+        "end": 51623
+      }
+    },
+    {
+      "id": "63f90eee307bc9b0",
+      "ticker": "AMKR",
+      "vendor": "ASE Technology",
+      "charOffset": 41215,
+      "excerpt": "ol at our factories. In the future, we may be subject to changes to existing environmental regulations or new green initiatives required by our customers, investors, governments or other stakeholders. We do not believe that capital expenditures or other costs attributable to compliance with environmental laws and regulations or green initiatives will have a material adverse effect on our business, liquidity, results of operations, financial condition or cash flows. 12 Table of Contents COMPETITI",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 51928,
+        "end": 52428
+      }
+    },
+    {
+      "id": "67388be9517c5b03",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 42160,
+      "excerpt": "ervice providers or contract electronics manufacturers, which offer certain types of advanced packaging. Our IDM customers also evaluate our services and scale against their own in-house capabilities. The key competitive factors in the outsourced semiconductor packaging and test services market are: • Advanced packaging technology • Geographic location of services • Manufacturing scale and expertise • Customer co-development and innovation • Investment in new technology and capacity • Quality an",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 52873,
+        "end": 53373
+      }
+    },
+    {
+      "id": "f33539ff74be89de",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 44768,
+      "excerpt": "act and motivate employees, Amkor is committed to providing competitive and comprehensive benefits that are designed to enable our employees and their families to live healthier and more secure lives. Additionally, Amkor has implemented various retention programs to incentivize and retain high-performing employees. We regularly evaluate such retention programs and our compensation practices generally to ensure they remain competitive and are aligned with local market practices. We look to promot",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 55481,
+        "end": 55981
+      }
+    },
+    {
+      "id": "8005eb13f6768e0a",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 45695,
+      "excerpt": "rint. For career development and advancement, we may provide employees with the opportunity to move between factories, often in support of new factories or the introduction of new packaging offerings. We believe that these initiatives are efficient for training new local employees and allow existing employees to continue to develop in their careers. 13 Table of Contents We believe that our efforts to motivate, retain and support the growth of qualified employees is reflected in the long average",
+      "sectionId": "item_1_business_overview_amkor_is_the_wo",
+      "sectionHeader": "Item 1. Business OVERVIEW Amkor is the world’s largest U.S. headquartered outsourced semi",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 56408,
+        "end": 56967
+      }
+    },
+    {
+      "id": "708210b0ebd45593",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 744,
+      "excerpt": "perations. The occurrence of any of the risks and uncertainties described below could materially and adversely affect our business, liquidity, results of operations, financial condition or cash flows. Summary of Risk Factors An investment in our common stock involves various risks, and you are urged to carefully consider all of the matters discussed in Part I, Item 1A of this Form 10-K under the caption “Risk Factors” (in addition to those discussed under this “Summary of Risk Factors” section)",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 59755,
+        "end": 60314
+      }
+    },
+    {
+      "id": "fd0062d43377d054",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 1744,
+      "excerpt": "petitors in the packaging and test business, the internal capabilities of IDMs, and other competitors, including foundries and contract manufacturers; • our substantial investments in equipment and facilities to support the demand of our customers; • warranty claims, product return and liability risks, and the risk of negative publicity if our products fail, as well as the risk of litigation incident to our business; 14 Table of Contents • difficulty achieving the relatively high-capacity utiliz",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 60755,
+        "end": 61255
+      }
+    },
+    {
+      "id": "621b4992e596660a",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 4537,
+      "excerpt": "allowances on deferred tax assets; • environmental, health and safety liabilities and expenditures; and • conditions and obligations in connection with the receipt of government awards and incentives. General Risk Factors • natural disasters and other calamities, health conditions or pandemics, political instability, hostilities or other disruptions. 15 Table of Contents Risks Related to Our Business, Operations and Industry Our packaging and test services are used in volatile industries, and in",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 63548,
+        "end": 64048
+      }
+    },
+    {
+      "id": "db063baed2d23a27",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 5432,
+      "excerpt": "onged downturns in the past. If the industry or markets in which we compete experience slower, or even negative growth, our business and results of operations may be materially and adversely affected. Since our business is, and will continue to be, dependent on the requirements of semiconductor companies for outsourced packaging and test services, any downturn in the semiconductor industry or any other industry that uses a significant number of semiconductor devices, such as communications, comp",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 64443,
+        "end": 64943
+      }
+    },
+    {
+      "id": "90842f7b1d4906be",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 6424,
+      "excerpt": "cost, quality or supply of materials or equipment changes adversely. We obtain the materials and equipment required for the packaging and test services performed by our factories from various vendors. We source most of our materials, including critical materials such as leadframes, laminate substrates and gold wire, from a limited group of suppliers. A disruption to the operations of one or more of our suppliers could extend lead times for materials and equipment and have a negative impact on ou",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 65435,
+        "end": 65935
+      }
+    },
+    {
+      "id": "9d3891fb1ea455a6",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 7198,
+      "excerpt": "e supply of specialty chemicals, substrates, silicon wafers, equipment and other supplies to the electronics industry. In addition, we purchase the majority of our materials on a purchase order basis. Our business may be harmed if we cannot obtain materials and other supplies from our vendors in a timely manner, in sufficient quantities, at acceptable quality or at competitive prices or are unable to increase our prices sufficiently to recover inflationary price increases in materials or supplie",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 66209,
+        "end": 66709
+      }
+    },
+    {
+      "id": "911ac0be1ce713db",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 8104,
+      "excerpt": "and related industry initiatives require diligence and disclosure regarding the use of certain minerals originating from the conflict zones of the Democratic Republic of Congo and adjoining countries. Many of our customers’ initiatives require us to certify that the covered materials we use in our packages do not come from the conflict areas. We incur costs associated with complying with these requirements and customer initiatives, and we may be required to increase our efforts in the future to",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 67115,
+        "end": 67674
+      }
+    },
+    {
+      "id": "b3038e9fc49df828",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 9079,
+      "excerpt": "e are unable to meet these requirements and customer initiatives, some customers may move their business to other suppliers, and our reputation and business could be materially and adversely affected. We purchase new packaging and test equipment to maintain and expand our operations. From time to time, increased demand for new equipment or supply chain disruptions and economic turbulence may cause lead times to extend beyond those normally required by equipment vendors. In periods of increased d",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 68090,
+        "end": 68590
+      }
+    },
+    {
+      "id": "7d8aa664c41443c7",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 10722,
+      "excerpt": "thinner gold wire and migration to copper wire. However, we typically do not have long-term contracts that permit us to impose price adjustments, and market conditions may limit our ability to do so. Significant price increases may materially and adversely impact our gross margin in future periods to the extent we are unable to pass along past or future commodity price increases to our customers. Our operating results and cash flows have varied and may vary significantly as a result of factors t",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 69734,
+        "end": 70234
+      }
+    },
+    {
+      "id": "ed67e26a7aae0448",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 11601,
+      "excerpt": "tor package mix, the average selling price of our services, our ability to manage our capital expenditures and our ability to control our costs including labor, material, overhead and financing costs. Our net sales, gross margin, gross profit, operating income, net income and cash flows have historically fluctuated significantly from quarter to quarter as a result of many of the following factors, over which we have little or no control and which we expect to continue to impact our business: • f",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 70612,
+        "end": 71112
+      }
+    },
+    {
+      "id": "9e8d1da6cd93a1c5",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 12601,
+      "excerpt": "jectives, including transitioning second-wave customers to advanced packages and increasing our share of the automotive and industrial end market; • changes in our capacity and capacity utilization rates; • fluctuations in interest rates and currency exchange rates; • changes in average selling prices which can occur quickly due to the absence of long-term agreements on price; • changes in the mix of the semiconductor packaging and test services that we sell; • fluctuations in our manufacturing",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 71612,
+        "end": 72171
+      }
+    },
+    {
+      "id": "39818a76da0a8235",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 15509,
+      "excerpt": "have a material and adverse effect on our business, liquidity, results of operations, financial condition and cash flows or lead to significant volatility in our quarterly or annual operating results. In addition, these factors may materially and adversely affect our credit ratings, which could make it more difficult and expensive for us to raise capital and could materially and adversely affect the price of our securities. We compete against established competitors in the packaging and test bus",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 74520,
+        "end": 75020
+      }
+    },
+    {
+      "id": "6ecfd4b0712c2bd2",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 16489,
+      "excerpt": "ology and other capabilities. In addition, we may compete with electronics manufacturing service providers or contract electronics manufacturers that also provide advanced integrated device solutions. We also may face increased competition from domestic companies located in China, where there are government-supported efforts to promote and subsidize the development and growth of the local semiconductor industry. We may be at a disadvantage in attempting to compete with entities associated with s",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 75500,
+        "end": 76000
+      }
+    },
+    {
+      "id": "be6f892506fedcd0",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 17438,
+      "excerpt": "ong our competitors could also strengthen their competitive position. Historically, we have also been dependent on the trend in outsourcing of packaging and test services by IDM and foundry customers. Our IDM and foundry customers continually evaluate the need for outsourced services against their own in-house packaging and test services. As a result, at any time and for a variety of reasons, IDMs and foundries may decide to shift some or all of their outsourced packaging and test services to in",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 76449,
+        "end": 76949
+      }
+    },
+    {
+      "id": "9afce170617220be",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 18413,
+      "excerpt": "and cash flows, especially during a prolonged industry downturn. We face competition from foundries, which offer full turnkey services from silicon wafer fabrication through packaging and final test. These foundries, which are substantially larger than us and have greater financial resources than we do, have expanded their operations to include packaging and test services and may continue to expand these capabilities in the future. If a key customer decides to purchase wafers from a semiconducto",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 77425,
+        "end": 77925
+      }
+    },
+    {
+      "id": "4506b73ea485aae2",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 19208,
+      "excerpt": "e larger than us, have lower cost structures, and may be willing or able to sell their services at lower margins. These competitors have increased and could increase pricing and competitive pressures. We cannot assure you that we will be able to compete successfully in the future against our existing or potential competitors, that our customers will not rely on internal sources, foundries or contract manufacturers for packaging and test services or that our business, liquidity, results of operat",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 78219,
+        "end": 78719
+      }
+    },
+    {
+      "id": "d29b7f14388805c7",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 20851,
+      "excerpt": "significant capital expenditures based on specific business opportunities with one or a few key customers, and the additional equipment purchased may not be readily usable to support other customers. If demand is insufficient to fill our capacity, or we are unable to efficiently redeploy such equipment, our capacity utilization and gross profit could be negatively impacted. Furthermore, if we cannot generate or raise additional funds to pay for capital expenditures, particularly in some of the a",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 79863,
+        "end": 80363
+      }
+    },
+    {
+      "id": "6b4018375a220270",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 21813,
+      "excerpt": "and other global conditions. We began delivering advanced packages from the Vietnam Facility in the third quarter of 2024, and we began construction of our Arizona Facility in the second half of 2025. While manufacturing has begun at the Vietnam Facility and construction has begun on our Arizona Facility, there can be no assurance that the actual scope, costs or benefits of these projects will be consistent with our current expectations. We may face warranty claims, product return and liability",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 80824,
+        "end": 81383
+      }
+    },
+    {
+      "id": "76792493e4f032fd",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 22694,
+      "excerpt": "ordinary course of our business. If we were to experience an unusually high incidence of warranty claims, we could incur significant costs and our business could be materially and adversely affected. In addition, we are exposed to the product and economic liability risks and the risk of negative publicity affecting our customers. Our sales may decline if any of our customers are sued on a product liability claim. We also may suffer a decline in sales from the negative publicity associated with s",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 81706,
+        "end": 82206
+      }
+    },
+    {
+      "id": "679e62bffc584b97",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 23588,
+      "excerpt": "aintain satisfactory gross margins if we are unable to achieve relatively high-capacity utilization rates. Our operations are characterized by high fixed costs and the absence of any material backlog. Our profitability depends in part not only on pricing levels for our packaging and test services but also on the efficient utilization of our human resources and packaging and test equipment. Increases or decreases in our capacity utilization can significantly affect gross margins. Transitions betw",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 82599,
+        "end": 83099
+      }
+    },
+    {
+      "id": "3a654ab35b1bca4d",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 24335,
+      "excerpt": "ty utilization, and if we fail to do so, our gross margins may be negatively impacted. In addition, our fixed operating costs have increased as a result of capital expenditures for capacity expansion. The anticipated customer demand for which we have made capital investments may not materialize, and our sales may not adequately cover fixed costs, resulting in reduced profit levels or even significant losses, either of which may materially and adversely impact our business, liquidity, results of",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 83346,
+        "end": 83905
+      }
+    },
+    {
+      "id": "a9680a34b5d9bf22",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 25226,
+      "excerpt": "ot commit to purchase any significant amount of packaging or test services or provide us with binding forecasts of demand for packaging and test services for any future period, in any material amount. In addition, we sometimes experience double booking by customers, and our customers often reduce, cancel or delay their purchases of packaging and test services for a variety of reasons, including industry-wide, customer-specific and Amkor-specific reasons. This makes it difficult for us to forecas",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 84237,
+        "end": 84737
+      }
+    },
+    {
+      "id": "271c8cf002bcd55e",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 26218,
+      "excerpt": "prices of our packaging and test services. Prices for packaging and test services have generally declined over time, and sometimes prices can change significantly in relatively short periods of time. We expect downward pressure on average selling prices for our packaging and test services to continue in the future, and this pressure may intensify during downturns in business. If we experience declining average selling prices and are unable to offset such declines by developing and marketing new",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 85230,
+        "end": 85789
+      }
+    },
+    {
+      "id": "dd8b80b4518c705c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 27012,
+      "excerpt": "ckaging and test processes are complex, and our production yields and customer relationships may suffer from defects in the services we provide or if we do not successfully implement new technologies. Semiconductor packaging and test services are complex processes that require significant technological and process expertise, and in line with industry practice, customers usually require us to pass a lengthy and rigorous qualification process that may take several months. Once qualified and in pro",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 86023,
+        "end": 86523
+      }
+    },
+    {
+      "id": "64303fac1d47691c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 28001,
+      "excerpt": "r “bugs.” The test equipment is also subject to malfunction, and the test process is subject to operator error. These and other factors have, from time to time, contributed to lower production yields. They may also do so in the future, particularly as we adjust our capacity, change our processing steps or ramp new technologies. In addition, we must continue to develop and implement new packaging and test technologies and expand our offering of packages to be competitive. Our production yields on",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 87012,
+        "end": 87572
+      }
+    },
+    {
+      "id": "3eee86b0d0864f11",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 29537,
+      "excerpt": "general economic conditions, inflationary pressure, disruptive innovation and end-market preferences, which can adversely affect sales of our products and, correspondingly, our results of operations. The automotive industry is also subject to long design-in time frames, long product life cycles and a high degree of regulatory and safety requirements, necessitating suppliers to the industry to comply with stringent qualification processes, very low defect rates and high reliability standards, all",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 88549,
+        "end": 89109
+      }
+    },
+    {
+      "id": "f559ad355c239668",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 31286,
+      "excerpt": "cial arrangements may result in a decline in our sales and profitability and could have a material adverse effect on our business, liquidity, results of operations, financial condition and cash flows. The demand for our services from each customer is directly dependent upon that customer’s financial health, level of business activity and purchasing decisions, the quality and price of our services, our cycle time and delivery performance, the customer’s qualification of additional competitors on",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 90297,
+        "end": 90856
+      }
+    },
+    {
+      "id": "b43573a6128e3fdc",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 33952,
+      "excerpt": "y decisions we might make to either repay debt and other long-term obligations out of our operating cash flows or refinance debt at or prior to maturity with the proceeds of debt or equity financings. Servicing our current and future customers requires that we incur significant operating expenses and continue to make significant capital expenditures and other investments, and the amount of our capital expenditures for 2026 and thereafter may vary materially and will depend on several factors. Th",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 92963,
+        "end": 93463
+      }
+    },
+    {
+      "id": "421a27973aea632e",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 38095,
+      "excerpt": "usinesses to our systems typically is a slow, expensive process requiring us to divert significant resources from other parts of our operations. We may continue to face these challenges in the future. As a result of the risks discussed above, the anticipated benefits of these or other future acquisitions, consolidations and partnering arrangements may not be fully realized, if at all, and these activities could have a material adverse effect on our business, financial condition and results of op",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 97106,
+        "end": 97606
+      }
+    },
+    {
+      "id": "523b6dda7f8c8b31",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 39060,
+      "excerpt": "nificant portion of our property, plant and equipment is located outside of the United States, and many of our customers and the vendors in our supply chain are also located outside the United States. The following are some of the risks we face in doing business internationally: • restrictive trade barriers considered or adopted by U.S. and foreign governments applicable to the semiconductor supply chain, including laws, rules, regulations and policies in areas such as national security, licensi",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 98071,
+        "end": 98571
+      }
+    },
+    {
+      "id": "7d40ad63661b4e61",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 43294,
+      "excerpt": "to one or more of our competitors as a result of the BIS Regulations, particularly if our competitors have, or are not required to have, required licenses or authorizations that we have not obtained. It is also possible that government agencies in China or in other countries may adopt retaliatory export control rules in response to the BIS Regulations, which could further impact our business, liquidity, results of operations, financial condition and cash flows. These restrictions have created, a",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 102306,
+        "end": 102806
+      }
+    },
+    {
+      "id": "823699b4e7546f92",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 46209,
+      "excerpt": "nts in Korea, and there have been heightened security concerns in recent years stemming from North Korea’s nuclear weapon and long-range missile programs as well as its military actions in the region. Furthermore, there has been a history of conflict and tension within and among other countries in the region. Global pandemics and the spread of infectious diseases may impact our operations and the operations of our customers and suppliers as a result of illness, quarantines, facility closures and",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 105220,
+        "end": 105780
+      }
+    },
+    {
+      "id": "a4ed28769e54d67f",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 47133,
+      "excerpt": "ser demand in each geography where our customers sell their products and services, which may materially and adversely affect demand for our services, our operating results and our financial condition. Risks Related to Cybersecurity, Data Privacy and Intellectual Property Our business will suffer if we are not able to develop new proprietary technology, protect our proprietary technology and operate without infringing the proprietary rights of others. The complexity and scope of semiconductor pac",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 106144,
+        "end": 106644
+      }
+    },
+    {
+      "id": "94f87b781114a3dd",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 48004,
+      "excerpt": "less competitive or our existing inventories obsolete. If we cannot achieve advances in packaging design or obtain access to advanced packaging designs developed by others, our business could suffer. The need to develop and maintain advanced packaging capabilities and equipment could require significant research and development, capital expenditures and acquisitions in future years. In addition, converting to new packaging designs or process methodologies could result in delays in producing new",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 107016,
+        "end": 107575
+      }
+    },
+    {
+      "id": "88eb9550cb585880",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 50522,
+      "excerpt": "d parties, or defend ourselves against claimed infringement of the rights of others through litigation, which could result in substantial cost and diversion of our resources and may not be successful. Furthermore, if we fail to obtain necessary licenses, our business could suffer, and we could be exposed to claims for damages and injunctions from third parties, as well as claims from our customers for indemnification. Unfavorable outcomes in any legal proceedings involving intellectual property",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 109533,
+        "end": 110092
+      }
+    },
+    {
+      "id": "1d16c38d95e5b2b1",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 51437,
+      "excerpt": "ing development and implementation of changes to, and maintenance and security of, our information technology systems. We depend on our information technology systems for many aspects of our business. Our systems may be susceptible to damage, disruptions or shutdowns due to failures during the process of upgrading, replacing or maintaining software, databases or components thereof, power outages, hardware failures, interruption, failures or vulnerabilities in the systems of third-parties (includ",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 110448,
+        "end": 110948
+      }
+    },
+    {
+      "id": "b72a5803b93ed1fc",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 52139,
+      "excerpt": "s, user errors, malfeasance or catastrophic events. Threat actors may utilize emerging technologies, such as AI and machine learning. Such events have occurred in the past and may occur in the future. Cybersecurity breaches could result in unauthorized disclosure of confidential information, disruptions to our operations and/or impacts to a third party with which we have a relationship, such as a customer or vendor, which could result in reputational, competitive, operational or other business h",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 111150,
+        "end": 111650
+      }
+    },
+    {
+      "id": "bbb562bcd0f0f10c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 73643,
+      "excerpt": "d in semiconductor products. For example, at our foreign facilities we produce liquid waste when semiconductor wafers are diced into chips with the aid of diamond saws, then cooled with running water. In addition, semiconductor packages have historically utilized metallic alloys containing lead within the interconnect terminals typically referred to as leads, pins or balls. The European Union’s Restriction of Hazardous Substances in Electrical and Electronic Equipment directive and similar laws",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 132654,
+        "end": 133213
+      }
+    },
+    {
+      "id": "58e86db0b2696968",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 75507,
+      "excerpt": "semiconductor products, the environmental impact of semiconductor operations and the risk of chemical releases from such operations, climate change, sustainability and related environmental concerns. Increased regulation of and restriction on the use of hazardous substances may impact our supply chain due to decreased availability, necessitate changes in our packaging processes, require us to seek substitutes that may not be readily available in the marketplace or eliminate the use of such hazar",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 134519,
+        "end": 135019
+      }
+    },
+    {
+      "id": "a3d52d507023071a",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 76464,
+      "excerpt": "tewater from operations, additional reporting on the materials and components used in the products for which we perform our services, and the use of renewable energy sources in our factory operations. In addition, recent and ongoing changes to climate change regulation could increase our compliance costs, including as a result of carbon pricing impacts on electrical utilities as well as increased indirect costs resulting from our customers, suppliers, and other stakeholders incurring additional",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 135475,
+        "end": 136034
+      }
+    },
+    {
+      "id": "64329ba896903519",
+      "ticker": "AMKR",
+      "vendor": "Arm",
+      "charOffset": 79040,
+      "excerpt": "n adversely affected, and could be adversely affected in the future, by natural disasters and other calamities, health conditions or pandemics, political instability, hostilities or other disruptions. We have significant packaging and test services and other operations in China, Japan, Korea, Malaysia, the Philippines, Portugal, Singapore, Taiwan and Vietnam, and the Arizona Facility is a new factory under construction in the United States. Such operations are or could be subject to: natural dis",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 138051,
+        "end": 138551
+      }
+    },
+    {
+      "id": "2c7ac8ac1351c9f8",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 80947,
+      "excerpt": "Japan. As a result of these earthquakes, our sales were reduced due to the temporary disruption in operations, and we incurred earthquake-related costs for damaged inventory, buildings and equipment. Our suppliers and customers also have significant operations in such locations, and this could compound the effect of any such disruption. In the event of such a disruption or shutdown, we may be unable to reallocate production to other facilities in a timely or cost-effective manner (if at all), an",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 139959,
+        "end": 140459
+      }
+    },
+    {
+      "id": "01d90e10085074de",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 81928,
+      "excerpt": "we utilize in our operations place us at risk of fire and other damage. For example, highly flammable gases are used in the preparation of wafers holding semiconductor devices for flip chip packaging. We maintain insurance policies for various types of property, casualty and other risks, but we do not carry insurance for all the above referred risks. With regard to the insurance we do maintain, we cannot assure you that it would be sufficient to cover all of our potential losses. As a result, ou",
+      "sectionId": "item_1a_risk_factors_the_factors_discuss",
+      "sectionHeader": "Item 1A. Risk Factors The factors discussed below are cautionary statements that identify",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 140939,
+        "end": 141439
+      }
+    },
+    {
+      "id": "e7fda3eb4ad8f8f4",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations This section includes comparisons of certain 2025 financial information to the same information for 2024. For discussion of 2024 results in comparison with 2023 results refer to “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K filed with the SEC on February 21, 2025. 36 Table of Contents Overview Amkor is the world’s largest U.S. h",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 151503,
+        "end": 152003
+      }
+    },
+    {
+      "id": "8c8142f68dbc7adc",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 985,
+      "excerpt": "tomers in the key markets of HPC and AI, automotive, IoT and mobile communications, selectively growing our scale and scope through strategic investments and optimizing utilization of existing assets. Amkor is a global leader in advanced semiconductor packaging and test technologies. Our technology leadership encompasses areas such as HDFO, 2.5D integration, advanced flip chip, fine pitch bumping, wafer-level processing and advanced SiP solutions which support the industry’s drive toward smaller",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 152488,
+        "end": 153048
+      }
+    },
+    {
+      "id": "b166478da06ef564",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 1866,
+      "excerpt": "o frequency devices. This breadth of services allows customers to streamline their supply chains, limit the number of suppliers and focus their resources on semiconductor design and wafer fabrication. Our commitment to technology leadership is reinforced by ongoing investment in research and development, and we intend to continue to leverage our investments in advanced technology to meet the demand for these services in key markets. Amkor’s broad and strategically located manufacturing footprint",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 153369,
+        "end": 153929
+      }
+    },
+    {
+      "id": "bc9adcce37d464f8",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 2856,
+      "excerpt": "025, and we believe that this investment will strengthen our ability to serve customers seeking to regionalize their supply chains and will enhance our participation in U.S. semiconductor initiatives. In addition, we continue to scale production in our Vietnam facility, which opened in 2024, further increasing our capacity and operational flexibility in Asia. Our scale and geographic diversity allow us to qualify production at multiple sites, optimize asset utilization and absorb large orders wi",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 154359,
+        "end": 154859
+      }
+    },
+    {
+      "id": "4235558602392a72",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 3741,
+      "excerpt": "etary process technologies, accelerate time-to-market, improve quality and lower costs. We work closely with lead customers to deliver advanced packaging solutions tailored to evolving industry needs. High performance computing supporting artificial intelligence and increasing demand for improved networking speed and storage within data centers, cloud computing, PCs and laptops are driving demand for more semiconductors and advanced packaging in the computing end market. Increasing semiconductor",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 155244,
+        "end": 155804
+      }
+    },
+    {
+      "id": "01cae31af4e9f80f",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 4645,
+      "excerpt": "and augmented and virtual reality devices integrate multiple functions, such as processors, sensors and connectivity devices, into small form factors, which requires innovation in advanced packaging. We have a strong position across multiple device functionalities within premium and high-tier smartphones. We are collaborating with industry leaders as smartphones transition to include artificial intelligence and drive semiconductor growth through the adoption of new wireless standards, integratio",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 156149,
+        "end": 156649
+      }
+    },
+    {
+      "id": "e19b210f09ba30c1",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 7344,
+      "excerpt": "m quarter to quarter due to many factors, including the seasonality of our business, the cyclical nature of the semiconductor industry and other factors discussed in Part 1, Item 1A of this Form 10-K. We continue to monitor the recent changes in global trade policy, including tariffs and related trade actions announced by the U.S. and other countries. The degree to which such tariffs and other related actions impact our business, financial condition and results of operations will depend on futur",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 158847,
+        "end": 159347
+      }
+    },
+    {
+      "id": "841dcb5b12e65d7e",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 8345,
+      "excerpt": "eased overhead and employee compensation costs, partially offset by higher factory utilization driven by the increase in net sales and a gain recognized on the sale of certain machinery and equipment. Gross margin for 2025 was also constrained by the ramp up of production at the Vietnam Facility, which is in the early stages of high-volume manufacturing. Operating income margin increased to 7.0% in 2025 from 6.9% in 2024. The increase in our operating income margin was primarily due to the net a",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 159848,
+        "end": 160348
+      }
+    },
+    {
+      "id": "6c1fbbbcc0471ec8",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 9201,
+      "excerpt": ", or 13.5% of net sales, compared to $743.8 million, or 11.8% of net sales in 2024. Our spending was primarily focused on investments in advanced packaging and test equipment and the Arizona Facility. Net cash provided by operating activities was $1,095.6 million for the year ended December 31, 2025, compared to $1,088.9 million for the year ended December 31, 2024. This increase was primarily due to changes in contract liabilities due to customer advance payments and higher operating profits, o",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 160704,
+        "end": 161204
+      }
+    },
+    {
+      "id": "d773a43ca6561579",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 11600,
+      "excerpt": "labor, depreciation and manufacturing overhead. Since a substantial portion of the costs at our factories is fixed, there tends to be a strong relationship between our revenue levels and gross margin. Accordingly, relatively modest increases or decreases in revenue can have a significant effect on margin and on labor and other manufacturing costs as a percentage of revenue, depending on product mix, utilization, foreign currency exchange rate movements and seasonality. We have expanded our busin",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 163103,
+        "end": 163603
+      }
+    },
+    {
+      "id": "d2e26a9ff5a41350",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 13536,
+      "excerpt": "ompensation costs, the recovery of bad debt expense in 2024 and higher professional fees and software maintenance costs. The net amount recognized from the Nanium Insolvency Receipt was $32.4 million. The incremental costs incurred during start-up at the Vietnam Facility were approximately $16 million in 2024. For additional information regarding the Nanium Insolvency Receipt, please refer to Note 17 to our Consolidated Financial Statements in Part II, Item 8 of this Form 10-K. Research and Deve",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 165039,
+        "end": 165539
+      }
+    },
+    {
+      "id": "839fc4bc9e080e93",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 14355,
+      "excerpt": "ies of our existing production processes. The costs related to our technology and product development projects are included in research and development expense until the project moves into production. Once production begins, the costs relating to production become part of the cost of sales, including ongoing depreciation for the equipment previously held for research and development activities. Research and development expenses increased in 2025 compared to 2024 primarily due to development proj",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 165858,
+        "end": 166358
+      }
+    },
+    {
+      "id": "089874d1ac2954df",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 21952,
+      "excerpt": "e from 25% to 35% for qualified property placed in service after 2025. For additional information, please refer to Note 1 to our Consolidated Financial Statements in Part II, Item 8 of this Form 10-K. In May 2025, we entered into a $1.0 billion senior secured revolving credit facility (the “2025 Revolving Credit Facility”) that replaced an existing revolving credit facility. The 2025 Revolving Credit Facility includes an uncommitted optional accordion of up to $200.0 million, which may be incurr",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 173455,
+        "end": 173955
+      }
+    },
+    {
+      "id": "c0b25a0de5ea2a0c",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 22952,
+      "excerpt": "7 Notes”) and repay the remaining $98.0 million of term loans at Amkor Assembly & Test (Shanghai) Co., Ltd. (“AATS Loans”). The 2025 Revolving Credit Facility and Term A Loans will mature in May 2030. As of December 31, 2025, we had availability of $1.0 billion under the 2025 Revolving Credit Facility. As of December 31, 2025, our foreign subsidiaries also had $58.6 million available to be borrowed under term loan credit facilities. For additional information regarding the 2025 Revolving Credit",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 174455,
+        "end": 175014
+      }
+    },
+    {
+      "id": "c6f16837b3a3ec8e",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 27543,
+      "excerpt": "ies and Board of Directors’ approval. In 2025, we paid total quarterly cash dividends of $81.9 million, and we currently anticipate that we will continue to pay quarterly cash dividends in the future. However, the payment, amount and timing of future dividends remain within the discretion of our Board of Directors and will depend upon our results of operations, financial condition, cash requirements, debt restrictions and other factors. Capital Resources We make significant capital expenditures",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 179046,
+        "end": 179605
+      }
+    },
+    {
+      "id": "fabeed79f64cc142",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 28277,
+      "excerpt": "Arizona Facility. We expect that our 2026 capital expenditures will be approximately $2.5 billion to $3.0 billion. The increase from 2025 is primarily due to the construction of the Arizona Facility. Ultimately, the amount of our 2026 capital expenditures will depend on several factors including, among others, the timing and implementation of any capital projects under review, including the progress of construction of the Arizona Facility, the performance of our business, economic and market con",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 179781,
+        "end": 180281
+      }
+    },
+    {
+      "id": "15153bd6260488e1",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 34770,
+      "excerpt": "ion. We recognize revenue, net of sales, use, value-added and other similar taxes, as a performance obligation is satisfied in an amount reflecting the consideration to which we expect to be entitled. We apply a five-step approach in determining the amount and timing of revenue to be recognized: (1) identifying the contract with a customer; (2) identifying the performance obligations in the contract; (3) determining the transaction price; (4) allocating the transaction price to the performance o",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 186273,
+        "end": 186773
+      }
+    },
+    {
+      "id": "71f5ff9e258bf097",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 35613,
+      "excerpt": "d test services to our customers either individually or as part of a combined offering. In a combined offering, we account for the individual services separately if they are determined to be distinct. We determine a service to be distinct if it is separately identifiable from other services in the combined offering and if a customer can benefit from the unique service on its own or with other resources that are readily available to the customer. The consideration, including variable consideratio",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 187116,
+        "end": 187616
+      }
+    },
+    {
+      "id": "42a3ea45840a4822",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 36601,
+      "excerpt": "he course of two to three weeks. Services are generally billed at completion of each individual packaging or test service or in some instances at the completion of all services in a combined offering. We recognize revenue over time as services are rendered because our services create or enhance the customer’s wafer. We utilize an input method (cost incurred plus estimated margin) to determine the amount of revenue to recognize for in-process, but incomplete, customer orders at a reporting date.",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 188104,
+        "end": 188663
+      }
+    },
+    {
+      "id": "0c697c0fe7ba6d47",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 37457,
+      "excerpt": "to package and/or test customer wafers are not linear over the duration of these services. Shipping and handling costs are accounted for as a cost to fulfill our performance obligations to customers. Accordingly, we record customer payments of shipping and handling costs as a component of net sales, and the costs incurred for shipping and handling are then charged to cost of sales. Income Taxes. We operate in and file income tax returns in various U.S. and non-U.S. jurisdictions which are subjec",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 188961,
+        "end": 189461
+      }
+    },
+    {
+      "id": "65f886b093b053dd",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 39381,
+      "excerpt": "ertain foreign jurisdiction and select U.S. and foreign carryforwards, we consider it more likely than not that we will have sufficient taxable income to allow us to realize these deferred tax assets. However, in the event taxable income falls short of current expectations, we may need to establish a valuation allowance against such deferred tax assets. We have valuation allowances on certain U.S. foreign tax credit carryforwards expected to expire unused and on select deferred tax assets in cer",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 190884,
+        "end": 191384
+      }
+    },
+    {
+      "id": "dec4548ba3b90393",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 40267,
+      "excerpt": "nable to cancel our raw materials order, or if our vendors require that we order a minimum quantity that exceeds the current forecasted demand, we will experience a build-up in raw material inventory. We will either seek to recover the cost of the materials from our customers or utilize the inventory in production. However, we may not be successful in recovering the cost from our customers or be able to use the inventory in production and, accordingly, if we believe that it is probable that we w",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 191770,
+        "end": 192270
+      }
+    },
+    {
+      "id": "82a669376b0b1c5e",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 18349,
+      "excerpt": "n of right of use assets 70,776 41,348 4,563 Property, plant and equipment acquired through grants — 32,670 — Grants and incentive receivables recognized for qualified capital expenditures 49,461 1,403 — Investment tax credit applied to income taxes payable 3,938 — — The accompanying notes are an integral part of these statements. 58 Table of Contents AMKOR TECHNOLOGY, INC. Notes to Consolidated Financial Statements 1. Description of Business and Summary of Significant Accounting Policies Descri",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 222621,
+        "end": 223121
+      }
+    },
+    {
+      "id": "68bb2b0095ec7052",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 24047,
+      "excerpt": "ers’ equity section of the balance sheet. Assets and liabilities denominated in a currency other than the functional currency are remeasured into the functional currency prior to translation into U.S. dollars, and the resulting transaction exchange gains or losses are included in other (income) expense, net in the period in which they occur. Risks and Concentrations The semiconductor industry is characterized by rapid technological change, competitive pricing pressures and cyclical market patter",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 228319,
+        "end": 228819
+      }
+    },
+    {
+      "id": "1f080ae1cd6e5c2f",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 24860,
+      "excerpt": "evolving market and reliance on materials and equipment suppliers. In addition, the semiconductor market has historically been cyclical and subject to significant economic downturns at various times. Our profitability and ability to generate cash from operations is principally dependent upon demand for semiconductors, the utilization of our capacity, semiconductor package mix, the average selling price of our services, our ability to manage our capital expenditures and our ability to control our",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 229133,
+        "end": 229693
+      }
+    },
+    {
+      "id": "6b7aef5d92ac773f",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 40532,
+      "excerpt": "t; (3) determining the transaction price; (4) allocating the transaction price to the performance obligations in the contract; and (5) recognizing revenue when the performance obligation is satisfied. Substantially all of our revenue is recognized as services are rendered. Our packaging and test services are our performance obligations to our customers. Our packaging services include wafer bump, probe and assembly. We provide packaging and test services to our customers either individually or as",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 186674,
+        "end": 187234
+      }
+    },
+    {
+      "id": "6adab3ca2d84f428",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 41412,
+      "excerpt": "e customer. The consideration, including variable consideration, is allocated between the distinct services in a combined offering based upon the stand-alone selling prices of the individual services. Our services involve a high degree of specialization which are unique based on the design and purpose of the customer’s wafers. Accordingly, our negotiated pricing reflects the customized nature of our services and represents a customer-specific stand-alone selling price. We recognize revenue as se",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 187554,
+        "end": 188054
+      }
+    },
+    {
+      "id": "c89e0887a1af3fa2",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 42261,
+      "excerpt": "customer’s wafer. We utilize an input method (cost incurred plus estimated margin) to determine the amount of revenue to recognize for in-process, but incomplete, customer orders at a reporting date. During the period of providing our services, we generally do not control or take ownership of customers’ wafers, nor do we include the cost of the wafer in our cost calculations. We believe that a cost-based input method is the most appropriate manner to measure how we satisfy our performance obliga",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 188404,
+        "end": 188904
+      }
+    },
+    {
+      "id": "bcf307d8d7486f26",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 44938,
+      "excerpt": "gnized during the year that was included in the contract liability balance at the beginning of the period was $ 64.3 million, $ 66.0 million, and $ 66.9 million, for 2025, 2024 and 2023, respectively. As of December 31, 2025, $ 100.0 million of standby letters of credit were issued and outstanding related to customer advance payments received. Research and Development Costs Research and development expenses include costs attributable to the conduct of research and development programs primarily",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 249210,
+        "end": 249769
+      }
+    },
+    {
+      "id": "8d93b830f3d977f7",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 88006,
+      "excerpt": "y or monthly on our other fixed- and variable-rate debt. Refer to the table above for the interest rates on our fixed-rate debt and to the table below for the interest rates on our variable-rate debt. December 31, 2025 2024 Debt of Amkor Technology, Inc.: Term A Loans, applicable bank rate plus 1.75 % due May 2030 5.42 % — % Amkor Assembly & Test (Shanghai) Co., Ltd.: Term loans, SOFR plus 0.75 % due June 2025 — % 5.15 % Term loans, SOFR plus 0.75 %, due 2025 — % 5.15 % Term loans, SOFR plus 0.9",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 292278,
+        "end": 292778
+      }
+    },
+    {
+      "id": "212c430fc9d1f117",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 105284,
+      "excerpt": "chy for ranking the quality and reliability of the information used to measure fair value, which enables the reader of the financial statements to assess the inputs used to develop those measurements. The fair value hierarchy consists of three tiers as follows: Level 1, defined as quoted market prices in active markets for identical assets or liabilities; Level 2, defined as inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 309556,
+        "end": 310115
+      }
+    },
+    {
+      "id": "d60d25190b019865",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 106253,
+      "excerpt": "ade data, benchmark yields, broker/dealer quotes, and other similar data obtained from quoted market prices and independent pricing vendors to determine the fair value of these assets and liabilities. The fair values of cash, accounts receivable, trade accounts payable, capital expenditures payable and certain other current assets and accrued expenses approximate carrying values because of their short-term nature. The carrying value of certain other non-current assets and liabilities approximate",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 310525,
+        "end": 311025
+      }
+    },
+    {
+      "id": "77a024cd41768757",
+      "ticker": "AMKR",
+      "vendor": null,
+      "charOffset": 110523,
+      "excerpt": "arious contracts related to the construction and development of our manufacturing facilities. As of December 31, 2025, the remaining commitments under these contracts were approximately $ 475 million. In order to provide packaging and test services, we purchase materials under various long-term supply contracts. Future minimum payments to be made under these contracts for the period 2026 through 2035 are $ 12.1 million. 18. Business Segments, Customer Concentrations and Geographic Information We",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 314795,
+        "end": 315355
+      }
+    },
+    {
+      "id": "4b043f1b6615dd94",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 112834,
+      "excerpt": "me $ 376,116 $ 355,535 $ 362,131 (1) Other segment items included in segment net income includes interest income, foreign currency (gain) loss, net, loss on debt retirement and other (income) expense. The following tables represent other balances included in net income or that are regularly provided to the CODM: For the Year Ended December 31, 2025 2024 2023 (In thousands) Interest income $ 62,397 $ 65,541 $ 48,458 Depreciation and amortization expense 642,008 594,663 631,508 Capital expenditure",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 317106,
+        "end": 317606
+      }
+    },
+    {
+      "id": "b8e5926773e474b2",
+      "ticker": "AMKR",
+      "vendor": "Amkor",
+      "charOffset": 113737,
+      "excerpt": "p chip, memory and wafer-level processing and related test services. (2) Mainstream Products include all other wirebond packaging and related test services. 94 Table of Contents AMKOR TECHNOLOGY, INC. Notes to Consolidated Financial Statements — (Continued) Net sales by end market consist of the following : For the Year Ended December 31, 2025 2024 2023 Communications (smartphones, tablets) 46 % 48 % 50 % Computing (data center, infrastructure, PC/laptop, storage) 20 % 19 % 16 % Automotive, indu",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-20",
+      "type": "chunk",
+      "range": {
+        "start": 318009,
+        "end": 318509
+      }
+    }
+  ]
+}

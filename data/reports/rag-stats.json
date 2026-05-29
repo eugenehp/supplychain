@@ -1,0 +1,16 @@
+{
+  "documents": 4612,
+  "vendors": 3815,
+  "tickers": [
+    "NVDA",
+    "TSM",
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "KLAC",
+    "SNPS",
+    "CDNS",
+    "MU"
+  ],
+  "queries": 103
+}

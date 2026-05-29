@@ -1,0 +1,885 @@
+{
+  "ticker": "GOOGL",
+  "count": 60,
+  "generatedAt": "2026-05-29T05:38:05.925Z",
+  "entries": [
+    {
+      "id": "GOOGL-kw-0",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 29495,
+      "excerpt": "…listening to our employees. When appropriate we partner with outside companies on a contractual basis to provide a specialized service or to temporarily cover a short-term need. The employees of our suppliers and staffing partners — vendors and temporary staff, respectively — and independent contractors who are self-employed, make up our extended workforce. We choose our partners and staffing agencies carefully, and review their compliance with Google’s Supplier Code of Conduct. Government Regulation We are subject to numerous United States (US) federal, state, and local, as well as foreign l…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 29296,
+        "end": 29895
+      }
+    },
+    {
+      "id": "GOOGL-kw-1",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 29529,
+      "excerpt": "…appropriate we partner with outside companies on a contractual basis to provide a specialized service or to temporarily cover a short-term need. The employees of our suppliers and staffing partners — vendors and temporary staff, respectively — and independent contractors who are self-employed, make up our extended workforce. We choose our partners and staffing agencies carefully, and review their compliance with Google’s Supplier Code of Conduct. Government Regulation We are subject to numerous United States (US) federal, state, and local, as well as foreign laws, and regulations covering a wi…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 29329,
+        "end": 29929
+      }
+    },
+    {
+      "id": "GOOGL-kw-2",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 29754,
+      "excerpt": "…ff, respectively — and independent contractors who are self-employed, make up our extended workforce. We choose our partners and staffing agencies carefully, and review their compliance with Google’s Supplier Code of Conduct. Government Regulation We are subject to numerous United States (US) federal, state, and local, as well as foreign laws, and regulations covering a wide variety of subjects, and the scope of this coverage continues to broaden with continuing new legal and regulatory developments in the US and internationally. Like other companies in the technology industry, we face increas…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 29554,
+        "end": 30154
+      }
+    },
+    {
+      "id": "GOOGL-Arm-0",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 31656,
+      "excerpt": "…oing business, make our products and services less useful, limit our ability to pursue certain business practices or offer certain products and services (either in certain geographies or at all), cause us to change our business models and operations, affect our competitive position relative to our peers, or otherwise harm our business, reputation, financial condition, and operating results. F or additional information about government regulation applicable to our business, see Item 1A Risk Factors; Trends in Our Business and Financial Effect in Part II, Item 7; and Legal Matters in Note 10 of the Notes to Consolidated Financial Stat…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 31336,
+        "end": 31976
+      }
+    },
+    {
+      "id": "GOOGL-Arm-1",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 34918,
+      "excerpt": "…nt we file with the SEC, and any references to our websites are intended to be inactive textual references only. 8. Table of Contents Alphabet Inc. ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks and uncertainties, including but not limited to those described below, which could harm our business, reputation, financial condition, and operating results, and may affect the trading price and price volatility of our Class A and Class C stock. Risks Specific to our Company We generate a significant portion of our revenues from advertising. Reduced spending by advertisers, a loss of partners, shifts…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 34598,
+        "end": 35297
+      }
+    },
+    {
+      "id": "GOOGL-Arm-2",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 35401,
+      "excerpt": "…isks Specific to our Company We generate a significant portion of our revenues from advertising. Reduced spending by advertisers, a loss of partners, shifts in online advertising, new and evolving advertising formats, or new or existing technologies that block ads online or affect our ability to personalize ads could harm our business. We generated more than 70% of total revenues from online advertising in 2025. Many of our advertisers, companies that distribute our products and services, digital publishers, and content providers can terminate their contracts with us at any time. These partners may not continue to do business with u…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 35081,
+        "end": 35721
+      }
+    },
+    {
+      "id": "GOOGL-Arm-3",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 36939,
+      "excerpt": "…d ads more difficult, or that block the display of ads altogether, and some providers of online services have integrated technologies that could impair the availability and functionality of third-party digital advertising. Failing to provide superior value or deliver advertisements effectively and competitively could harm our business, reputation, financial condition, and operating results. Expenditures by advertisers tend to correlate with overall economic conditions. Adverse macroeconomic conditions have affected, and may in the future affect, the demand for advertising, resulting in fluctuations in the amounts our advertisers spe…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 36619,
+        "end": 37259
+      }
+    },
+    {
+      "id": "GOOGL-Arm-4",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 37291,
+      "excerpt": "…nancial condition, and operating results. Expenditures by advertisers tend to correlate with overall economic conditions. Adverse macroeconomic conditions have affected, and may in the future affect, the demand for advertising, resulting in fluctuations in the amounts our advertisers spend on advertising, which could harm our financial condition and operating results. Our increasing investment in new businesses, products, services, and technologies is inherently risky, and could divert management attention and harm our business, financial condition, and operating results. We have invested and expect to expand our investment in new b…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 36971,
+        "end": 37611
+      }
+    },
+    {
+      "id": "GOOGL-Arm-5",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 37488,
+      "excerpt": "…t, the demand for advertising, resulting in fluctuations in the amounts our advertisers spend on advertising, which could harm our financial condition and operating results. Our increasing investment in new businesses, products, services, and technologies is inherently risky, and could divert management attention and harm our business, financial condition, and operating results. We have invested and expect to expand our investment in new businesses, products, services, and technologies in a wide range of industries beyond online advertising. The investments that we are making across our businesses — such as building AI-optimized inf…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 37169,
+        "end": 37809
+      }
+    },
+    {
+      "id": "GOOGL-kw-3",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 38725,
+      "excerpt": "…onal complexity. We also have a number of large, long-duration commercial agreements, which could increase our liabilities and obligations in the event of nonperformance by us, our counterparties, or vendors. In such nonperformance or an industry downturn, we may incur additional liabilities, have excess capacity that we cannot easily redeploy, and not receive payments from our counterparties or customers. We have invested and expect to significantly expand our investment in property and equipment, including our technical infrastructure, and we expect these assets to benefit our business over…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 38525,
+        "end": 39184
+      }
+    },
+    {
+      "id": "GOOGL-Arm-6",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 42575,
+      "excerpt": "…development of new and emerging technologies, may not be successful, or be able to compete effectively or operate at sufficient levels of profitability. In addition, new and evolving products and services, including those that use AI, raise ethical, technological, legal, regulatory, and other challenges, which could harm our brands and demand for our products and services. Because all of these investment areas are inherently risky, no assurance can be given that such strategies and offerings will be successful or will not harm our reputation, financial condition, and operating results. We face intense competition. If we do not cont…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 42256,
+        "end": 42895
+      }
+    },
+    {
+      "id": "GOOGL-Arm-7",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 42785,
+      "excerpt": "…luding those that use AI, raise ethical, technological, legal, regulatory, and other challenges, which could harm our brands and demand for our products and services. Because all of these investment areas are inherently risky, no assurance can be given that such strategies and offerings will be successful or will not harm our reputation, financial condition, and operating results. We face intense competition. If we do not continue to innovate and provide products and services that are useful to users, customers, and other partners, we may not remain competitive, which could harm our business, financial condition, and operating resul…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "range": {
+        "start": 42465,
+        "end": 43105
+      }
+    },
+    {
+      "id": "GOOGL-kw-4",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 45712,
+      "excerpt": "…estment, including technical infrastructure, development, and operational costs. Our ability to deploy certain AI technologies critical for our products and services and for our business strategy may depend on the availability and pricing of third-party equipment and other technical infrastructure operations costs, including network capacity, energy, and equipment costs. Additionally, other companies may develop 10. Table of Contents Alphabet Inc. AI products and technologies that are similar or superior to our technologies or more cost-effective to develop or deploy. Other companies may also…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 45512,
+        "end": 46171
+      }
+    },
+    {
+      "id": "GOOGL-kw-5",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 54430,
+      "excerpt": "…al tensions, armed conflicts, natural disasters or pandemics, the effects of climate change, power and transmission availability, and significant changes in the financial or business condition of our suppliers. Some of the components we use in our technical infrastructure and our devices are available from only one or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. A significant supply interruption that affects us or our vendors could delay critical data center or network infrastructure upgrades or expansions and…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 54230,
+        "end": 54890
+      }
+    },
+    {
+      "id": "GOOGL-kw-6",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 54610,
+      "excerpt": "…ss condition of our suppliers. Some of the components we use in our technical infrastructure and our devices are available from only one or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. A significant supply interruption that affects us or our vendors could delay critical data center or network infrastructure upgrades or expansions and delay consumer product availability. Our ability to scale our technical infrastructure is increasingly constrained by the availability of power, water, and land. For example, ener…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 54410,
+        "end": 55010
+      }
+    },
+    {
+      "id": "GOOGL-kw-7",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 54737,
+      "excerpt": "…only one or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. A significant supply interruption that affects us or our vendors could delay critical data center or network infrastructure upgrades or expansions and delay consumer product availability. Our ability to scale our technical infrastructure is increasingly constrained by the availability of power, water, and land. For example, energy supply is constrained globally due to the significant increase in demand for and limited availability of energy to power AI…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 54538,
+        "end": 55196
+      }
+    },
+    {
+      "id": "GOOGL-kw-8",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 55417,
+      "excerpt": "…rrangements. Additionally, manufacturing and supply of servers and network equipment for our technical infrastructure, particularly for specialized AI chips, is limited to a small number of qualified suppliers. Extended or unforeseen disruptions at these suppliers could impact our ability to meet customer demand. Failure to secure sufficient capacity in a timely manner would limit our ability to train models and serve Cloud customers. We may enter into long-term contracts for materials and products that commit us to significant terms and conditions. We may face costs for materials and products…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 55217,
+        "end": 55877
+      }
+    },
+    {
+      "id": "GOOGL-kw-9",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 55472,
+      "excerpt": "…servers and network equipment for our technical infrastructure, particularly for specialized AI chips, is limited to a small number of qualified suppliers. Extended or unforeseen disruptions at these suppliers could impact our ability to meet customer demand. Failure to secure sufficient capacity in a timely manner would limit our ability to train models and serve Cloud customers. We may enter into long-term contracts for materials and products that commit us to significant terms and conditions. We may face costs for materials and products that are not consumed due to market demand, technologi…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 55272,
+        "end": 55872
+      }
+    },
+    {
+      "id": "GOOGL-kw-10",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 56745,
+      "excerpt": "…on, and operating results. Our devices have had, and in the future may have, quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. In addition, quality issues with equipment used in our technical infrastructure could constrain our capacity to support the delivery and continued development of our products and services. If the quality of our products and services does not meet expectations, we lack the capacity to deliver them, or our products or services are defective or require…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 56545,
+        "end": 57204
+      }
+    },
+    {
+      "id": "GOOGL-kw-11",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 56782,
+      "excerpt": "…s have had, and in the future may have, quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. In addition, quality issues with equipment used in our technical infrastructure could constrain our capacity to support the delivery and continued development of our products and services. If the quality of our products and services does not meet expectations, we lack the capacity to deliver them, or our products or services are defective or require a corrective action or recall, it cou…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 56582,
+        "end": 57182
+      }
+    },
+    {
+      "id": "GOOGL-kw-12",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 57275,
+      "excerpt": "…to deliver them, or our products or services are defective or require a corrective action or recall, it could harm our business, reputation, financial condition, and operating results. We require our suppliers and business partners to comply with laws and, where applicable, our company policies and practices, such as the Google Supplier Code of Conduct, regarding workplace and employment practices, data security, environmental compliance, and intellectual property licensing, but we do not control them or their practices. Violations of law or unethical business practices could result in supply…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 57075,
+        "end": 57734
+      }
+    },
+    {
+      "id": "GOOGL-kw-13",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 57405,
+      "excerpt": "…eputation, financial condition, and operating results. We require our suppliers and business partners to comply with laws and, where applicable, our company policies and practices, such as the Google Supplier Code of Conduct, regarding workplace and employment practices, data security, environmental compliance, and intellectual property licensing, but we do not control them or their practices. Violations of law or unethical business practices could result in supply chain disruptions, canceled orders, harm to key relationships, and damage to our reputation. Their failure to procure necessary li…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 57205,
+        "end": 57805
+      }
+    },
+    {
+      "id": "GOOGL-kw-14",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 58336,
+      "excerpt": "…provide our products and services, which could harm our reputation, financial condition, and operating results. The availability of our products and services and fulfillment of our customer contracts depend on the continuing operation of our information technology and communications systems. Our systems are vulnerable to damage, interference, or interruption from modifications or upgrades, terrorist attacks, state-sponsored attacks, natural disasters or pandemics, geopolitical tensions or armed conflicts, export controls and sanctions, tariffs and non-tariff trade barriers, the effects of clim…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 58137,
+        "end": 58737
+      }
+    },
+    {
+      "id": "GOOGL-kw-15",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 68099,
+      "excerpt": "…nue to devote significant resources to creating and supporting products and services across multiple platforms and devices. Failing to attract and retain a substantial number of device manufacturers, suppliers, distributors, developers, and users, or failing to develop products and technologies that work well on new devices and platforms, could harm our business, financial condition, and operating results and ability to capture future business opportunities. Problematic content on our platforms, including low-quality user-generated content, web spam, content farms, and other violations of our…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 67899,
+        "end": 68558
+      }
+    },
+    {
+      "id": "GOOGL-kw-16",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 81862,
+      "excerpt": "…ble to restrict, block, degrade, or charge for access to certain of our products and services, which could lead to additional expenses and the loss of users and advertisers. Our products and services depend on the ability of our users to access the Internet, and certain of our products require significant network capacity to work effectively. Currently, this access is provided by companies that have significant market power in the broadband and internet access marketplace, including incumbent telephone companies, cable companies, mobile communications companies, and government-owned service pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 81662,
+        "end": 82262
+      }
+    },
+    {
+      "id": "GOOGL-kw-17",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 103820,
+      "excerpt": "…e us to change our business practices in ways that could result in a loss of revenues for us and otherwise harm our business. Many of our agreements with our customers and partners, including certain suppliers, require us to defend against certain intellectual property infringement claims and in some cases indemnify them for certain intellectual property infringement claims against them, which could result in increased costs for defending such claims or significant damages if there were an adverse ruling in any such claims. Such customers and partners may also discontinue the use of our produc…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 103620,
+        "end": 104220
+      }
+    },
+    {
+      "id": "GOOGL-kw-18",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 104457,
+      "excerpt": "…result of injunctions or otherwise, which could 20. Table of Contents Alphabet Inc. result in loss of revenues and harm our business. Moreover, intellectual property indemnities provided to us by our suppliers, when obtainable, may not cover all damages and losses suffered by us and our customers arising from intellectual property infringement claims. Furthermore, in connection with our divestitures, we have agreed, and may in the future agree, to provide indemnification for certain potential liabilities, including those associated with intellectual property claims. Regardless of their merits,…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 104257,
+        "end": 104917
+      }
+    },
+    {
+      "id": "GOOGL-kw-19",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 109396,
+      "excerpt": "…t to declare, a cash dividend each quarter, and does not obligate our Board of Directors to declare a dividend at any specific dollar amount per share. Any such decision by our Board of Directors may depend on a variety of factors that it may deem relevant, including but not limited to our earnings, liquidity, financial condition, other capital deployment opportunities, level of indebtedness, and general market conditions. Our share repurchases and dividends could affect our share trading prices, increase their volatility, reduce our cash reserves and may be suspended or terminated at any time…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 109196,
+        "end": 109796
+      }
+    },
+    {
+      "id": "GOOGL-kw-20",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 118794,
+      "excerpt": "…subsidiaries and plays an important role in the development of our technology, maintaining our culture, and setting our strategic direction. Our ability to compete effectively and our future success depend on our continuing to identify, hire, develop, motivate, and retain highly skilled personnel for all areas of our organization. Competition in our industry for qualified employees, particularly AI talent, is intense, and certain of our competitors have directly targeted, and may continue to target, our employees. In addition, our compensation arrangements, such as our equity award programs,…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 118595,
+        "end": 119253
+      }
+    },
+    {
+      "id": "GOOGL-kw-21",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 121519,
+      "excerpt": "…e context of other material risks to the company. As part of our cybersecurity risk management process, our incident management teams track and log privacy and security incidents across Alphabet, our vendors, and other third-party service providers to remediate and resolve any such incidents. Significant incidents are reviewed regularly by a cross-functional working group to determine whether further escalation is appropriate. Any incident assessed as potentially being or potentially becoming material is promptly escalated for further assessment, and then reported to designated members of our…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 121319,
+        "end": 121978
+      }
+    },
+    {
+      "id": "GOOGL-kw-22",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 163668,
+      "excerpt": "…ting activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for devices, to tax authorities for income taxes, and other general corporate expenditures. 37. Table of Contents Alphabet Inc. Net cash provided by operating activities increased from 2024 to 2025 due to an increase in cash received from customers, partially offset by an increase in cash payments for cost of revenues and operating expenses. Cash Used in Investing Activities Cash provide…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 163468,
+        "end": 164068
+      }
+    },
+    {
+      "id": "GOOGL-kw-23",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 166300,
+      "excerpt": "…acilities, ground-up development projects, and building improvements. Assets not yet in service are those that are not ready for their intended use, including assets in the process of construction or assembly, and consist primarily of technical infrastructure. The time frame from date of purchase to placement in service of these assets may extend from months to years. For example, our data center construction projects are generally multi-year projects with multiple phases, where we acquire land and buildings, construct buildings, and secure and install servers and network equipment. During the…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 166100,
+        "end": 166760
+      }
+    },
+    {
+      "id": "GOOGL-kw-24",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 170395,
+      "excerpt": "…ormation, see Note 6 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. We use contract manufacturers for our technical infrastructure and device assembly and may supply them with components purchased directly from suppliers. Certain of these arrangements result in a portion of the cash received from and paid to contract manufacturers to be presented as financing activities on the Consolidated Statements of Cash Flows included in Item 8 of this Annual Report on Form 10-K. Share Repurchase Program During 2025, we repurchased and subsequently…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 170196,
+        "end": 170796
+      }
+    },
+    {
+      "id": "GOOGL-kw-25",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 170464,
+      "excerpt": "…s included in Item 8 of this Annual Report on Form 10-K. We use contract manufacturers for our technical infrastructure and device assembly and may supply them with components purchased directly from suppliers. Certain of these arrangements result in a portion of the cash received from and paid to contract manufacturers to be presented as financing activities on the Consolidated Statements of Cash Flows included in Item 8 of this Annual Report on Form 10-K. Share Repurchase Program During 2025, we repurchased and subsequently retired 240 million shares for $45.4 billion. In April 2024, the com…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 170264,
+        "end": 170864
+      }
+    },
+    {
+      "id": "GOOGL-kw-26",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 173575,
+      "excerpt": "…nd any minimum quantities and/or pricing as of December 31, 2025. In certain instances, the amount of our contractual obligations may change based on the expected timing of order fulfillment from our suppliers. For additional information related to our content licenses, see Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. As of December 31, 2025, we provided backstops in the form of financial guarantees and credit derivatives with maximum potential amount of future payments of $5.7 billion and $16.9 billion, respectively. For addi…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 173375,
+        "end": 173975
+      }
+    },
+    {
+      "id": "GOOGL-kw-27",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 174278,
+      "excerpt": "…to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. In addition, we regularly enter into multi-year, non-cancellable power purchase agreements with third-party suppliers that do not include a minimum dollar commitment. The amounts to be paid under these agreements are based on the actual volumes to be generated and are not readily determinable. We may experience increases in the costs associated with our purchase commitments and other contractual obligations as a result of ongoing developments surrounding international trade. For details on risks related…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 174078,
+        "end": 174738
+      }
+    },
+    {
+      "id": "GOOGL-kw-28",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 230037,
+      "excerpt": "…nd, buildings, and leasehold improvements. Assets not yet in service are those that are not ready for their intended use, including data center buildings and servers in the process of construction or assembly. Property and equipment are stated at cost less accumulated depreciation. Depreciation commences once assets are ready for their intended use and is recorded using the straight-line method over the estimated useful lives of the assets, which we regularly evaluate for factors such as technological obsolescence and our planned use and utilization. We depreciate data center and office buildi…",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "keyword",
+      "range": {
+        "start": 229837,
+        "end": 230437
+      }
+    },
+    {
+      "id": "8e875110690fbd30",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 838,
+      "excerpt": "rom courses for new managers, to learning resources that help them provide feedback and manage performance, to coaching and individual support. As of December 31, 2025, Alphabet had 190,820 employees. We have work councils and statutory employee representation obligations in certain countries, and we are committed to supporting protected labor rights, maintaining an open culture, and listening to our employees. When appropriate we partner with outside companies on a contractual basis to provide",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A Risk Factors of this Annual Report on Form 10-K. Culture and Workforce Our people",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 28909,
+        "end": 29468
+      }
+    },
+    {
+      "id": "77a33b3bb56d8e16",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 3595,
+      "excerpt": "g and inference, as well as traditional cloud computing services, we are entering into significant leasing arrangements with third party operators, which may increase costs and operational complexity. We also have a number of large, long-duration commercial agreements, which could increase our liabilities and obligations in the event of nonperformance by us, our counterparties, or vendors. In such nonperformance or an industry downturn, we may incur additional liabilities, have excess capacity t",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 38341,
+        "end": 38841
+      }
+    },
+    {
+      "id": "e28bedf6c169eb4e",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 10274,
+      "excerpt": "e advantages. Our competitors may also be able to innovate and provide products and services faster or more cost effectively than we can or may foresee the need for products and services before we do. We are developing frontier generative AI models and building AI capabilities into products and services across the company, tailoring them to the evolving preferences of our users and customers. AI technology and services are highly competitive, rapidly evolving, and require significant investment,",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 45020,
+        "end": 45580
+      }
+    },
+    {
+      "id": "89a7e67b49c7a4a8",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 18824,
+      "excerpt": "f those we engage fail to meet their obligations (whether due to financial difficulties or other reasons), or make adverse changes in the pricing or other material terms of our arrangements with them. We have experienced and may in the future experience supply shortages, price increases, quality issues, or longer lead times that could harm our operations, driven by raw material or component availability, manufacturing capacity, labor shortages, industry allocations, logistics capacity, inflation",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 53570,
+        "end": 54070
+      }
+    },
+    {
+      "id": "585c0c848042fb38",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 19733,
+      "excerpt": "echnical infrastructure and our devices are available from only one or limited sources, and we may not be able to find replacement vendors on favorable terms in the event of a supply chain disruption. A significant supply interruption that affects us or our vendors could delay critical data center or network infrastructure upgrades or expansions and delay consumer product availability. Our ability to scale our technical infrastructure is increasingly constrained by the availability of power, wat",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 54479,
+        "end": 54979
+      }
+    },
+    {
+      "id": "0dd8dc5d3c0b7db2",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 20709,
+      "excerpt": "uptions at these suppliers could impact our ability to meet customer demand. Failure to secure sufficient capacity in a timely manner would limit our ability to train models and serve Cloud customers. We may enter into long-term contracts for materials and products that commit us to significant terms and conditions. We may face costs for materials and products that are not consumed due to market demand, technological change, excess or obsolete inventory, changed consumer preferences, quality, pr",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 55455,
+        "end": 55955
+      }
+    },
+    {
+      "id": "28afe0e2c4da1ed3",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 21625,
+      "excerpt": "contractual terms or our competitors claim the supply or capacity first, we may face increased costs and supply constraints, which could harm our business, financial condition, and operating results. Our devices have had, and in the future may have, quality issues resulting from design, manufacturing, or operations. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. In addition, quality issues with equipment used in our technical infrastructure",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 56372,
+        "end": 56932
+      }
+    },
+    {
+      "id": "9c1ead8abe25a683",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 22313,
+      "excerpt": "ck the capacity to deliver them, or our products or services are defective or require a corrective action or recall, it could harm our business, reputation, financial condition, and operating results. We require our suppliers and business partners to comply with laws and, where applicable, our company policies and practices, such as the Google Supplier Code of Conduct, regarding workplace and employment practices, data security, environmental compliance, and intellectual property licensing, but",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 57059,
+        "end": 57618
+      }
+    },
+    {
+      "id": "9ede840eac57c205",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 23301,
+      "excerpt": "information technology and communications systems could hurt our ability to effectively provide our products and services, which could harm our reputation, financial condition, and operating results. The availability of our products and services and fulfillment of our customer contracts depend on the continuing operation of our information technology and communications systems. Our systems are vulnerable to damage, interference, or interruption from modifications or upgrades, terrorist attacks,",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 58048,
+        "end": 58607
+      }
+    },
+    {
+      "id": "942bf427f1a972a8",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 32934,
+      "excerpt": "so elect not to include our products on their devices. It is hard to predict the challenges we may encounter in adapting our products and services and developing competitive new products and services. We expect to continue to devote significant resources to creating and supporting products and services across multiple platforms and devices. Failing to attract and retain a substantial number of device manufacturers, suppliers, distributors, developers, and users, or failing to develop products an",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 67680,
+        "end": 68180
+      }
+    },
+    {
+      "id": "4ba10324d4aafd6f",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 46889,
+      "excerpt": "t access providers may be able to restrict, block, degrade, or charge for access to certain of our products and services, which could lead to additional expenses and the loss of users and advertisers. Our products and services depend on the ability of our users to access the Internet, and certain of our products require significant network capacity to work effectively. Currently, this access is provided by companies that have significant market power in the broadband and internet access marketpl",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 81635,
+        "end": 82135
+      }
+    },
+    {
+      "id": "b3b3ad60b6c3d9c7",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 68799,
+      "excerpt": "alities, products, or services in certain jurisdictions. They may also cause us to change our business practices in ways that could result in a loss of revenues for us and otherwise harm our business. Many of our agreements with our customers and partners, including certain suppliers, require us to defend against certain intellectual property infringement claims and in some cases indemnify them for certain intellectual property infringement claims against them, which could result in increased co",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 103545,
+        "end": 104045
+      }
+    },
+    {
+      "id": "0fe10aa9ac5a7932",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 69664,
+      "excerpt": "ual property indemnities provided to us by our suppliers, when obtainable, may not cover all damages and losses suffered by us and our customers arising from intellectual property infringement claims. Furthermore, in connection with our divestitures, we have agreed, and may in the future agree, to provide indemnification for certain potential liabilities, including those associated with intellectual property claims. Regardless of their merits, intellectual property claims are often time consumin",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 104410,
+        "end": 104910
+      }
+    },
+    {
+      "id": "cb32a7b1a7e62b02",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 73918,
+      "excerpt": "Alphabet to repurchase any specific dollar amount or to acquire any specific number of shares. Our cash dividend program pays regular cash dividends to our Class A, Class B, and Class C stockholders. Any and all future cash dividends are subject to declaration by our Board of Directors in its sole discretion, and in accordance with the requirements of any applicable laws, rules, and regulations, including the Delaware General Corporation Law. Our cash dividend program does not require, and our B",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 108665,
+        "end": 109165
+      }
+    },
+    {
+      "id": "1387400009455ec8",
+      "ticker": "GOOGL",
+      "vendor": "Arm",
+      "charOffset": 83176,
+      "excerpt": "rtain strategic arrangements, we have agreed, and may in the future agree, to provide indemnification for certain potential liabilities, which could harm our financial condition and operating results. We rely on highly skilled personnel and, if we are unable to retain or motivate key personnel, hire qualified personnel, or maintain and continue to adapt our corporate culture, we may not be able to grow or operate effectively. Our performance and future success depends in large part upon the cont",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 117922,
+        "end": 118422
+      }
+    },
+    {
+      "id": "b165bbaf6952534b",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 960,
+      "excerpt": "ustries and are led by our Vice President of Privacy, Safety, and Security, who has more than 20 years of experience, including roles in technology infrastructure for two other large public companies. Our executive leadership team, along with input from the above teams, are responsible for our overall enterprise risk management system and processes and regularly consider cybersecurity risks in the context of other material risks to the company. As part of our cybersecurity risk management proces",
+      "sectionId": "item_1b_unresolved_staff_comments_not_ap",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS Not applicable. ITEM 1C. CYBERSECURITY 23. Table of Con",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 120920,
+        "end": 121420
+      }
+    },
+    {
+      "id": "c53e06010f765d9e",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 5382,
+      "excerpt": "sale of apps and in-app purchases, and devices. In Google Cloud, we generate cash through consumption-based fees and subscriptions for infrastructure, platform, applications, and other cloud services. Our primary uses of cash from operating activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for devices, to tax authorities for income taxes, and",
+      "sectionId": "item_1_business_and_note_15_of_the_notes",
+      "sectionHeader": "Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included i",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 163232,
+        "end": 163791
+      }
+    },
+    {
+      "id": "e214b08999ab3445",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 8119,
+      "excerpt": "s of our investments in servers and network equipment, data center land, and building construction and improvements; and • office facilities, ground-up development projects, and building improvements. Assets not yet in service are those that are not ready for their intended use, including assets in the process of construction or assembly, and consist primarily of technical infrastructure. The time frame from date of purchase to placement in service of these assets may extend from months to years",
+      "sectionId": "item_1_business_and_note_15_of_the_notes",
+      "sectionHeader": "Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included i",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 165969,
+        "end": 166469
+      }
+    },
+    {
+      "id": "f1e0622e272578f6",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 11550,
+      "excerpt": "ior unsecured notes and $17.0 billion of US dollar-denominated fixed-rate senior unsecured notes with a weighted-average coupon rate of 4.92% and a weighted-average maturity of approximately 20 years. We also issued €6.5 billion of euro-denominated fixed-rate senior unsecured notes with a weighted-average coupon rate of 3.44% and a weighted-average maturity of approximately 16 years. As of December 31, 2025, we had $10.0 billion of revolving credit facilities, $4.0 billion expiring in April 2026",
+      "sectionId": "item_1_business_and_note_15_of_the_notes",
+      "sectionHeader": "Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included i",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 169400,
+        "end": 169960
+      }
+    },
+    {
+      "id": "8ed7e7e57903880b",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 12424,
+      "excerpt": "in Item 8 of this Annual Report on Form 10-K. We use contract manufacturers for our technical infrastructure and device assembly and may supply them with components purchased directly from suppliers. Certain of these arrangements result in a portion of the cash received from and paid to contract manufacturers to be presented as financing activities on the Consolidated Statements of Cash Flows included in Item 8 of this Annual Report on Form 10-K. Share Repurchase Program During 2025, we repurcha",
+      "sectionId": "item_1_business_and_note_15_of_the_notes",
+      "sectionHeader": "Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included i",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 170275,
+        "end": 170775
+      }
+    },
+    {
+      "id": "6059393aafc01733",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 15229,
+      "excerpt": "cture and inventory orders . These amounts reflect commitments and obligations through open purchase orders as well as the non-cancelable portion or the minimum cancellation fee in certain agreements. For those agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of December 31, 2025. In certain instances, the amount of our contractual obligations may change based on the expected timing of order fulfillment from our supp",
+      "sectionId": "item_1_business_and_note_15_of_the_notes",
+      "sectionHeader": "Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included i",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 173079,
+        "end": 173579
+      }
+    },
+    {
+      "id": "50441f07fb97bfaa",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 16119,
+      "excerpt": "r additional information on credit derivatives and financial guarantees, see Note 3 and Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. In addition, we regularly enter into multi-year, non-cancellable power purchase agreements with third-party suppliers that do not include a minimum dollar commitment. The amounts to be paid under these agreements are based on the actual volumes to be generated and are not readily determinable. We m",
+      "sectionId": "item_1_business_and_note_15_of_the_notes",
+      "sectionHeader": "Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included i",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 173969,
+        "end": 174469
+      }
+    },
+    {
+      "id": "4b28489b44b477b2",
+      "ticker": "GOOGL",
+      "vendor": null,
+      "charOffset": 39951,
+      "excerpt": "orate and other assets currently in service, and assets not yet in service. Technical infrastructure includes data center land, buildings and leasehold improvements, and servers and network equipment. Office space includes office land, buildings, and leasehold improvements. Assets not yet in service are those that are not ready for their intended use, including data center buildings and servers in the process of construction or assembly. Property and equipment are stated at cost less accumulated",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Alphabet Inc. INDEX TO CONSOLIDATED F",
+      "form": "10-K",
+      "filingDate": "2026-02-05",
+      "type": "chunk",
+      "range": {
+        "start": 229605,
+        "end": 230165
+      }
+    }
+  ]
+}

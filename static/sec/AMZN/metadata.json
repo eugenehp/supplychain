@@ -1,0 +1,51 @@
+{
+  "ticker": "AMZN",
+  "name": "AMAZON COM INC",
+  "cik": "0001018724",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-06",
+    "accessionNumber": "0001018724-26-000004",
+    "primaryDocument": "amzn-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 716924000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-06",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 5531000000,
+      "end": "2009-12-31",
+      "filed": "2010-01-29",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 818042000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-06",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 177866000000,
+      "end": "2017-12-31",
+      "filed": "2018-02-02",
+      "form": "10-K"
+    }
+  },
+  "textLength": 283445,
+  "exportedAt": "2026-05-29T05:37:47.523Z",
+  "logoUrl": "/logos/AMZN.svg",
+  "logoPrimaryUrl": "/logos/AMZN.svg",
+  "logoFallbackUrl": "/logos/AMZN.png",
+  "localUrls": {
+    "text": "/sec/AMZN/filing.txt",
+    "metadata": "/sec/AMZN/metadata.json",
+    "sections": "/sec/AMZN/sections.json",
+    "evidence": "/sec/AMZN/evidence.json",
+    "display": "/sec/AMZN/display.json"
+  }
+}

@@ -1,0 +1,1196 @@
+{
+  "ticker": "MSFT",
+  "count": 81,
+  "generatedAt": "2026-05-29T05:38:07.224Z",
+  "entries": [
+    {
+      "id": "MSFT-kw-0",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 18233,
+      "excerpt": "…ee services, LinkedIn offers monetized solutions designed to offer AI-enabled insights and productivity: Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions. Growth will depend on our ability to increase LinkedIn member engagement on the platform and our ability to continue offering insight and AI-enabled services that provide value for our members and customers. LinkedIn revenue is mainly affected by demand from enterprises and professionals for subscriptions to Talent Solutions, Sales Solutions, and Premium Subscriptions offerings, as well as member engagement a…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 18033,
+        "end": 18633
+      }
+    },
+    {
+      "id": "MSFT-kw-1",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 19523,
+      "excerpt": "…based intelligent business applications, including our low code development platforms, such as Power Apps and Power Automate. Competition Competitors to Office include software and global application vendors, web-based and mobile application companies, AI-first application companies, as well as local application developers. We compete by providing secure, integrated industry-specific, and easy-to-use productivity and collaboration tools and services that create comprehensive solutions and work well with technologies our customers already have both on-premises or in the cloud. Windows faces com…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 19323,
+        "end": 19923
+      }
+    },
+    {
+      "id": "MSFT-kw-2",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 20205,
+      "excerpt": "…. Microsoft Defender for Endpoint competes with endpoint security solution providers. Our Enterprise Mobility + Security offerings compete with products from a range of competitors including identity vendors, security solution vendors, and numerous other security point solution vendors. LinkedIn faces competition from online professional networks; recruiting, talent management, and human resource services companies; job boards; companies that provide learning and development products and services; online and offline outlets that generate revenue from advertisers and marketers; and online and o…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 20005,
+        "end": 20605
+      }
+    },
+    {
+      "id": "MSFT-kw-3",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 20232,
+      "excerpt": "…dpoint competes with endpoint security solution providers. Our Enterprise Mobility + Security offerings compete with products from a range of competitors including identity vendors, security solution vendors, and numerous other security point solution vendors. LinkedIn faces competition from online professional networks; recruiting, talent management, and human resource services companies; job boards; companies that provide learning and development products and services; online and offline outlets that generate revenue from advertisers and marketers; and online and offline outlets for companie…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 20032,
+        "end": 20632
+      }
+    },
+    {
+      "id": "MSFT-kw-4",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 20284,
+      "excerpt": "…iders. Our Enterprise Mobility + Security offerings compete with products from a range of competitors including identity vendors, security solution vendors, and numerous other security point solution vendors. LinkedIn faces competition from online professional networks; recruiting, talent management, and human resource services companies; job boards; companies that provide learning and development products and services; online and offline outlets that generate revenue from advertisers and marketers; and online and offline outlets for companies with lead generation and customer intelligence and…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 20084,
+        "end": 20744
+      }
+    },
+    {
+      "id": "MSFT-kw-5",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 22691,
+      "excerpt": "…ented by our rapidly expanding portfolio of AI cloud services (including the latest models) and hardware, which includes custom-built silicon and strong partnerships with chip manufacturers. Azure AI Foundry is a unified platform for developers to design, customize, and manage AI applications and agents. Our server products are designed to make IT professionals, developers, and their systems more productive and efficient. Server software is integrated server infrastructure and middleware designed to support software applications built on the Windows Server operating system. This includes the s…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 22491,
+        "end": 23091
+      }
+    },
+    {
+      "id": "MSFT-kw-6",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 23526,
+      "excerpt": "…tools for software architects, developers, testers, and project managers. Server products revenue is mainly affected by purchases through volume licensing programs, licenses sold to OEMs, and retail packaged products. CALs provide access rights to certain server products, including SQL Server and Windows Server, and revenue is reported along with the associated server product. GitHub and Nuance Healthcare include both cloud and on-premises offerings. GitHub provides a collaboration platform for developers to manage code and incorporate AI and agent-based tools across the software development…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 23327,
+        "end": 23985
+      }
+    },
+    {
+      "id": "MSFT-kw-7",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 25984,
+      "excerpt": "…dware and nearly all computer manufacturers offer server hardware for the Linux operating system. We compete to provide enterprise-wide computing and point solutions with numerous commercial software vendors that offer solutions and middleware technology platforms, software applications for connectivity, security, hosting, database, and e-business servers. 7 PART I Item 1 Our database, business intelligence, and data warehousing solutions offerings compete with products from providers in the data and analytics industry. Our system management solutions compete with server management and server…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 25784,
+        "end": 26443
+      }
+    },
+    {
+      "id": "MSFT-kw-8",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 34584,
+      "excerpt": "…y differentiated and competitive within the market, and we also monitor pay equity across multiple dimensions. We have invested significantly in employee wellbeing and offer a differentiated benefits package which includes many physical, emotional, and financial wellness programs. We also provide access to continuous learning through a wide range of internal and external content, supporting professional growth across roles and disciplines. Through our employee listening systems, we gather direct feedback from our workforce, enabling us to adapt our programs and address employee needs globally…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 34384,
+        "end": 35043
+      }
+    },
+    {
+      "id": "MSFT-kw-9",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 35442,
+      "excerpt": "…c, Europe, and the Middle East that support our business operations, including customer contract and order processing, billing, credit and collections, customer lifecycle AI and cloud operations, and vendor management and logistics. In addition to our operations centers, we also operate datacenters throughout each of these regions. We continue to align our datacenter locations and server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, netw…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 35242,
+        "end": 35842
+      }
+    },
+    {
+      "id": "MSFT-kw-10",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 35758,
+      "excerpt": "…of these regions. We continue to align our datacenter locations and server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components. We engage third-party manufacturers to produce our devices and have implemented measures to enhance supply chain efficiency and resilience, including the ability to relocate production geographically. There are few qual…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 35558,
+        "end": 36158
+      }
+    },
+    {
+      "id": "MSFT-kw-11",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 36164,
+      "excerpt": "…ufacturers to produce our devices and have implemented measures to enhance supply chain efficiency and resilience, including the ability to relocate production geographically. There are few qualified suppliers for certain components of our servers and devices. Extended or unforeseen disruptions at these suppliers could impact our ability to operate our datacenters and manufacture devices on time to meet consumer demand. RESEARCH AND DEVELOPMENT Product and Service Development Our success is based on our ability to create new and compelling products, services, and experiences for our users, ini…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 35964,
+        "end": 36564
+      }
+    },
+    {
+      "id": "MSFT-kw-12",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 36269,
+      "excerpt": "…silience, including the ability to relocate production geographically. There are few qualified suppliers for certain components of our servers and devices. Extended or unforeseen disruptions at these suppliers could impact our ability to operate our datacenters and manufacture devices on time to meet consumer demand. RESEARCH AND DEVELOPMENT Product and Service Development Our success is based on our ability to create new and compelling products, services, and experiences for our users, initiate and embrace disruptive technology trends, enter new geographic and product markets, and drive broad…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 36069,
+        "end": 36729
+      }
+    },
+    {
+      "id": "MSFT-kw-13",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 37583,
+      "excerpt": "…rns and hardware advances that may affect software and hardware design. Before releasing new software platforms, and as we make significant modifications to existing platforms, we provide application vendors with a range of resources and guidelines for development, training, and testing. We plan to continue to make significant investments in a broad range of product research and development activities, and as appropriate, we will coordinate our research and development across operating segments and leverage the results across the company. This includes continuing to support fundamental researc…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 37383,
+        "end": 37983
+      }
+    },
+    {
+      "id": "MSFT-kw-14",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 40385,
+      "excerpt": "…ith commercial enterprises and public-sector organizations worldwide to identify and meet their technology and digital transformation requirements; supporting system integrators, independent software vendors, and other partners who engage directly with our customers to perform sales, consulting, and fulfillment functions for our products and services; and managing OEM relationships. Direct Many organizations that license our products and services transact directly with us through Enterprise Agreements and Enterprise Services contracts, with sales support from system integrators, independent so…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 40185,
+        "end": 40785
+      }
+    },
+    {
+      "id": "MSFT-kw-15",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 40792,
+      "excerpt": "…ions that license our products and services transact directly with us through Enterprise Agreements and Enterprise Services contracts, with sales support from system integrators, independent software vendors, web agencies, and partners that advise organizations on licensing our products and services (“Enterprise Agreement Software Advisors” or “ESA”). Microsoft offers direct sales programs targeted to reach small, medium, and corporate customers, in addition to those offered through the reseller channel. A large network of partner advisors support many of these sales. We also sell commercial a…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 40592,
+        "end": 41192
+      }
+    },
+    {
+      "id": "MSFT-kw-16",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 42148,
+      "excerpt": "…thorized as LSPs and operate as resellers for our other volume licensing programs. Microsoft Cloud Solution Provider is our main partner program for reselling cloud services. We distribute our retail packaged products primarily through independent non-exclusive distributors, authorized replicators, resellers, and retail outlets. Individual consumers obtain these products primarily through retail outlets. We distribute our devices through third-party retailers. We have a network of field sales representatives and field support personnel that solicit orders from distributors and resellers and pr…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 41948,
+        "end": 42548
+      }
+    },
+    {
+      "id": "MSFT-kw-17",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 47273,
+      "excerpt": "…he cloud services they need in combination with the value-added services offered by their systems integrator, managed services provider, or cloud reseller partner. Partners in this program can easily package their own products and services to directly provision, manage, and support their customer subscriptions. The Microsoft Services Provider License Agreement allows hosting service providers and independent software vendors who want to license eligible Microsoft software products to provide hosted applications and software services to their end customers. Partners license software over a thre…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 47074,
+        "end": 47674
+      }
+    },
+    {
+      "id": "MSFT-kw-18",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 47494,
+      "excerpt": "…ducts and services to directly provision, manage, and support their customer subscriptions. The Microsoft Services Provider License Agreement allows hosting service providers and independent software vendors who want to license eligible Microsoft software products to provide hosted applications and software services to their end customers. Partners license software over a three-year period and are billed monthly based on units licensed. The Independent Software Vendor Royalty Program enables partners to integrate Microsoft products into other applications and then license the unified business…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 47294,
+        "end": 47953
+      }
+    },
+    {
+      "id": "MSFT-kw-19",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 47760,
+      "excerpt": "…o provide hosted applications and software services to their end customers. Partners license software over a three-year period and are billed monthly based on units licensed. The Independent Software Vendor Royalty Program enables partners to integrate Microsoft products into other applications and then license the unified business solution to their end users. GOVERNMENT REGULATION We are subject to a wide range of laws, regulations, and legal requirements in the U.S. and globally, including those that may apply to our products and online services offerings, and those that impose requirements…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 47560,
+        "end": 48219
+      }
+    },
+    {
+      "id": "MSFT-kw-20",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 52838,
+      "excerpt": "…ent, Cloud Marketing from January 2012. Prior to that, Mr. Numoto served as a Corporate Vice President for Office 365 Marketing from 2004, where he led the transformation from traditional on-premises packaged software to the introduction of Office 365. Since joining Microsoft in 1997, Mr. Numoto has held multiple roles in Windows Program Management and Office Marketing. Mr. Smith was appointed Vice Chair and President in September 2021. Prior to that, he served as President and Chief Legal Officer since September 2015. He served as Executive Vice President, General Counsel, and Secretary from…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 52638,
+        "end": 53297
+      }
+    },
+    {
+      "id": "MSFT-Arm-0",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 69996,
+      "excerpt": "…er it has been completed. These events could adversely affect our business, operations, financial condition, and results of operations. 18 PART I Item 1A CYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS Cyberattacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position. Security of our information technology Threats to security can take a variety of forms. Threat actors, including individual and groups of hackers and sophisticated organizations, including nation-states, state-sponsored organizations, or cybercriminal groups, continuously…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 69676,
+        "end": 70375
+      }
+    },
+    {
+      "id": "MSFT-Arm-1",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 71913,
+      "excerpt": "…ain unauthorized access to some of our source code repositories and internal systems, and the threat actor could continue to utilize this and other information to attempt to gain access to our systems or otherwise adversely affect our business and results of operations. This incident has and may continue to result in harm to our reputation and customer relationships. Nation-state and state-sponsored actors can sustain malicious activities for extended periods and deploy significant resources to plan and carry out attacks. Nation-state attacks against us, our customers, or our partners have and may continue to intensify due to our tr…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 71593,
+        "end": 72233
+      }
+    },
+    {
+      "id": "MSFT-Arm-2",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 72374,
+      "excerpt": "…ds and deploy significant resources to plan and carry out attacks. Nation-state attacks against us, our customers, or our partners have and may continue to intensify due to our transparency to our customers, other stakeholders, and the public about cyberattacks, and during elections or periods of intense diplomatic or armed conflict. Challenges or failures in applying security patches to all hardware and devices connected to our systems, including end-of-life and end-of-support equipment, have and may continue to result in unauthorized access to our systems and data in the future. Cyber incidents and attacks, individually or in the…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 72054,
+        "end": 72753
+      }
+    },
+    {
+      "id": "MSFT-kw-21",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 73592,
+      "excerpt": "…ctions may compel actions by such parties against our interests and could limit our recourse. Malicious actors may employ the supply chain to introduce malware through software updates or compromised supplier accounts or hardware. Cyberthreats are constantly evolving and becoming increasingly sophisticated and complex, increasing the difficulty of detecting and successfully defending against them. Threat actors may also utilize emerging technologies, such as AI and machine learning. Our current capabilities may not detect certain vulnerabilities or new attack methods, which may allow them to p…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 73392,
+        "end": 73992
+      }
+    },
+    {
+      "id": "MSFT-Arm-3",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 74145,
+      "excerpt": "…merging technologies, such as AI and machine learning. Our current capabilities may not detect certain vulnerabilities or new attack methods, which may allow them to persist in the environment over long periods of time. It may be difficult to determine the best way to investigate, mitigate, contain, and remediate the harm caused by a cyber incident. Such efforts may not be successful, and we may make errors or fail to take necessary actions. It is possible that threat actors may gain undetected access to other networks and systems after establishing a foothold on an internal system. Cyber incidents and attacks can have cascading imp…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 73825,
+        "end": 74465
+      }
+    },
+    {
+      "id": "MSFT-kw-22",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 76853,
+      "excerpt": "…e nation-state attack described in the prior risk factor, have also affected our customers and may do so in the future. The reliability of our cloud-based services and the protection of customer data depend on the security of our infrastructure, which includes hardware and other elements provided by third parties. Adversaries tend to focus their efforts on the most popular operating systems, programs, and services, including many of ours, as well as customers with sensitive data, and we expect that to continue. In addition, adversaries can attack our customers’ on-premises or cloud environment…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 76694,
+        "end": 77214
+      }
+    },
+    {
+      "id": "MSFT-kw-23",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 78549,
+      "excerpt": "…into our products. Additionally, features that rely on generative AI can be susceptible to security threats. Our customers operate complex systems with third-party hardware and software from multiple vendors that may include systems acquired over many years. They expect our products and services to support all these systems and products, including those that no longer incorporate the strongest current security advances or standards. As a result, we may not be able to discontinue support in our services for a product, service, standard, or feature solely because a more secure alternative is ava…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 78350,
+        "end": 78950
+      }
+    },
+    {
+      "id": "MSFT-Arm-4",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 80424,
+      "excerpt": "…ese attacks for all of our customers or have information on how to detect or track an attack, especially where an attack involves on-premises software such as Exchange Server where we may have no or limited visibility into our customers’ computing environments. Any of the foregoing events could result in reputational harm, loss of revenue, increased costs, or otherwise adversely affect our business, financial condition, and results of operations. 20 PART I Item 1A Development and deployment of defensive measures To defend against security threats to our internal infrastructure, our cloud-based services, and our customers’ systems, w…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 80104,
+        "end": 80744
+      }
+    },
+    {
+      "id": "MSFT-Arm-5",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 81882,
+      "excerpt": "…es and the impact of doing so. The cost of these measures to protect products and customer-facing services could reduce our operating margins. If we fail to do these things well, actual or perceived security vulnerabilities in our processes, products, and services, data corruption issues, or reduced performance could harm our reputation and lead customers to exercise contractual or other remedies against us, reduce or delay future purchases of products or subscriptions to services, or to use competing products or services. Customers and third parties granted access to customer systems may fail to update their systems, continue to ru…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 81562,
+        "end": 82202
+      }
+    },
+    {
+      "id": "MSFT-Arm-6",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 83593,
+      "excerpt": "…road ecosystem of third parties. If there is a security vulnerability in one of these components, and if there is a security exploit targeting it, we could experience adverse impacts to our results of operations, reputation, or competitive position. Disclosure and misuse of personal data could result in liability and harm our reputation. As we continue to grow the number, breadth, and scale of our cloud-based offerings, we store and process increasingly large amounts of personal data of our customers and users. The continued occurrence of high-profile data breaches provides evidence of an external environment increasingly hostile to…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 83273,
+        "end": 83973
+      }
+    },
+    {
+      "id": "MSFT-kw-24",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 84267,
+      "excerpt": "…ls over personal data, our training of employees and third parties on data security, and other practices we follow may not prevent the improper disclosure or misuse of customer or user data we or our vendors store and manage. Relatedly, despite our efforts to continuously improve security controls, it is possible that we may fail to identify or mitigate insider threat activities that could lead to the misuse of our systems or customer and user data. In addition, third parties who have limited access to our customer or user data may use this data in unauthorized ways. Improper disclosure or mis…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 84067,
+        "end": 84667
+      }
+    },
+    {
+      "id": "MSFT-Arm-7",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 84678,
+      "excerpt": "…ontrols, it is possible that we may fail to identify or mitigate insider threat activities that could lead to the misuse of our systems or customer and user data. In addition, third parties who have limited access to our customer or user data may use this data in unauthorized ways. Improper disclosure or misuse could harm our reputation, lead to legal exposure to customers or users, or subject us to liability under laws that protect personal data, resulting in increased costs or loss of revenue. Our software products and services also enable our customers and users to store and process personal data on-premises or in a cloud-based e…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 84358,
+        "end": 84998
+      }
+    },
+    {
+      "id": "MSFT-kw-25",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 89565,
+      "excerpt": "…so collect large amounts of data in manners which may not satisfy customers or regulatory requirements. Our customers also operate complex systems with third-party hardware and software from multiple vendors whose products or personnel may take or fail to take actions which impact the reliability or security of our products and services. If our products and services do not work as intended, are utilized in methods not intended, violate the law, or harm individuals or businesses, we may be subject to legal claims or enforcement actions. These risks, if realized, may increase our costs, damage o…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 89365,
+        "end": 89965
+      }
+    },
+    {
+      "id": "MSFT-kw-26",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 93046,
+      "excerpt": "…amounts to build, purchase, or lease datacenters and equipment and to upgrade our technology and network infrastructure to handle more traffic on our websites and in our datacenters. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units and other components. The cost or availability of these dependencies could be adversely affected by a variety of factors, including the transition to a clean energy economy, local and regional environmental regulations, and geopolitical disruptions.…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 92848,
+        "end": 93446
+      }
+    },
+    {
+      "id": "MSFT-kw-27",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 94887,
+      "excerpt": "…ribers, and advertisers, each of which could adversely affect our business, operations, financial condition, and results of operations. We may experience supply or quality problems. There are limited suppliers for certain device and datacenter components. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Capacity available to us may be affected as competitors use some of the same suppliers and materials for hardware components.…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 94687,
+        "end": 95347
+      }
+    },
+    {
+      "id": "MSFT-kw-28",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 95239,
+      "excerpt": "…se our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Capacity available to us may be affected as competitors use some of the same suppliers and materials for hardware components. If components are delayed or become unavailable, whether because of supplier capacity constraint, industry shortages, legal or regulatory changes that restrict supply sources, or other reasons, we may not obtain timely replacement supplies, resulting in reduced sales or inadequate datacenter capacity to support the delivery and continued development…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 95039,
+        "end": 95699
+      }
+    },
+    {
+      "id": "MSFT-kw-29",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 95356,
+      "excerpt": "…ices. Capacity available to us may be affected as competitors use some of the same suppliers and materials for hardware components. If components are delayed or become unavailable, whether because of supplier capacity constraint, industry shortages, legal or regulatory changes that restrict supply sources, or other reasons, we may not obtain timely replacement supplies, resulting in reduced sales or inadequate datacenter capacity to support the delivery and continued development of our products and services. Component shortages, excess or obsolete inventory, or price reductions resulting in in…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 95156,
+        "end": 95756
+      }
+    },
+    {
+      "id": "MSFT-kw-30",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 101179,
+      "excerpt": "…d content provenance. • Anti-corruption: The Foreign Corrupt Practices Act (“FCPA”) and other anti-corruption laws and regulations (“Anti-Corruption Laws”) prohibit corrupt payments by our employees, vendors, or agents, and the accounting provisions of the FCPA require us to maintain accurate books and records and adequate internal controls. From time to time, we receive inquiries from authorities in the U.S. and elsewhere which may be based on reports from employees and others about our business activities and our compliance with Anti-Corruption Laws. Periodically, we receive such reports dir…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 100979,
+        "end": 101579
+      }
+    },
+    {
+      "id": "MSFT-KLA-0",
+      "ticker": "MSFT",
+      "vendor": "KLA",
+      "charOffset": 114677,
+      "excerpt": "…affect our ability to attract and retain consumer, business, and public-sector customers. There are numerous ways our reputation or brands could be damaged. These include product safety or quality issues, our environmental impact and sustainability, supply chain practices, or human rights record. We may experience backlash from customers, government entities, advocacy groups, employees, and other stakeholders that disagree with our product offering decisions, public policy positions, or corporate philanthropic initiatives. Damage to our reputation or our brands may occur from, among other things: • The introduction of new features,…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "range": {
+        "start": 114358,
+        "end": 115057
+      }
+    },
+    {
+      "id": "MSFT-kw-31",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 119955,
+      "excerpt": "…andemic, such as COVID-19, could adversely affect our business, operations, financial condition, and results of operations. The extent to which global pandemics impact our business going forward will depend on factors such as the duration and scope of the pandemic; governmental, business, and individuals' actions in response to the pandemic; and the impact on economic activity, including the possibility of recession or financial market instability. Measures to contain a global pandemic may intensify other risks described in these Risk Factors. The long-term effects of climate change on the glo…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 119755,
+        "end": 120355
+      }
+    },
+    {
+      "id": "MSFT-kw-32",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 143531,
+      "excerpt": "…e opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other manufacturers if a current vendor becomes unavailable or unable to meet ou…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 143331,
+        "end": 143931
+      }
+    },
+    {
+      "id": "MSFT-kw-33",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 143884,
+      "excerpt": "…PUs”) and other components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand. Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of un…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 143684,
+        "end": 144284
+      }
+    },
+    {
+      "id": "MSFT-kw-34",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 144043,
+      "excerpt": "…to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand. Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. We compete for talented individuals globally by offering an exceptional working environment, broad customer reach, scal…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 143844,
+        "end": 144443
+      }
+    },
+    {
+      "id": "MSFT-kw-35",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 144084,
+      "excerpt": "…vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand. Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. We compete for talented individuals globally by offering an exceptional working environment, broad customer reach, scale in resources, the ability to grow one’s…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 143885,
+        "end": 144485
+      }
+    },
+    {
+      "id": "MSFT-kw-36",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 167658,
+      "excerpt": "…le inputs. Assets and liabilities measured at fair value on a recurring basis using unobservable inputs are an immaterial portion of our portfolio. A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these vendors either provide a quoted market price in an active market or use observable inputs for their pricing without applying significant adjustments. Broker pricing is used mainly when a quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 167458,
+        "end": 168118
+      }
+    },
+    {
+      "id": "MSFT-kw-37",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 167724,
+      "excerpt": "…rring basis using unobservable inputs are an immaterial portion of our portfolio. A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these vendors either provide a quoted market price in an active market or use observable inputs for their pricing without applying significant adjustments. Broker pricing is used mainly when a quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the market in which the investment trades. Our broker-priced investme…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 167524,
+        "end": 168124
+      }
+    },
+    {
+      "id": "MSFT-kw-38",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 167986,
+      "excerpt": "…et or use observable inputs for their pricing without applying significant adjustments. Broker pricing is used mainly when a quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the market in which the investment trades. Our broker-priced investments are generally classified as Level 2 investments because the broker prices these investments based on similar assets without applying significant adjustments. In addition, all our broker-priced investments have a sufficient level of trading volume to demonstr…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 167786,
+        "end": 168386
+      }
+    },
+    {
+      "id": "MSFT-kw-39",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 168940,
+      "excerpt": "…Flows Cash from operations increased $17.6 billion to $136.2 billion for fiscal year 2025, primarily due to an increase in cash received from customers, offset in part by an increase in cash paid to suppliers and employees and cash used to pay income taxes. Cash used in financing increased $13.9 billion to $51.7 billion for fiscal year 2025, primarily due to a $9.5 billion increase in cash used for repayments of debt, net of proceeds. Cash used in investing decreased $24.4 billion to $72.6 billion for fiscal year 2025, primarily due to a $63.2 billion decrease in cash used for acquisitions of…",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "keyword",
+      "range": {
+        "start": 168741,
+        "end": 169400
+      }
+    },
+    {
+      "id": "da19e28842a14e98",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1 LinkedIn LinkedIn connects the world’s professionals to make them more productive and successful and transforms the way companies hire, market, sell, and learn. In addition to LinkedIn’s free services, LinkedIn offers monetized solutions designed to offer AI-enabled insights and productivity: Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions. Growth will depend on our ability to increase LinkedIn member engagement on the platform and our ability to continue",
+      "sectionId": "item_1_linkedin_linkedin_connects_the_wo",
+      "sectionHeader": "Item 1 LinkedIn LinkedIn connects the world’s professionals to make them more productive",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 17837,
+        "end": 18397
+      }
+    },
+    {
+      "id": "4052c7718f629bd0",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 692,
+      "excerpt": "o Talent Solutions, Sales Solutions, and Premium Subscriptions offerings, as well as member engagement and the quality of the sponsored content delivered to those members to drive Marketing Solutions. Dynamics Products and Cloud Services Dynamics provides cloud-based and on-premises business solutions for financial management, enterprise resource planning (“ERP”), customer relationship management (“CRM”), and supply chain management, as well as agentic AI and other low code application developme",
+      "sectionId": "item_1_linkedin_linkedin_connects_the_wo",
+      "sectionHeader": "Item 1 LinkedIn LinkedIn connects the world’s professionals to make them more productive",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 18529,
+        "end": 19029
+      }
+    },
+    {
+      "id": "9d4fc0c8762077f9",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 1611,
+      "excerpt": "Competition Competitors to Office include software and global application vendors, web-based and mobile application companies, AI-first application companies, as well as local application developers. We compete by providing secure, integrated industry-specific, and easy-to-use productivity and collaboration tools and services that create comprehensive solutions and work well with technologies our customers already have both on-premises or in the cloud. Windows faces competition from various soft",
+      "sectionId": "item_1_linkedin_linkedin_connects_the_wo",
+      "sectionHeader": "Item 1 LinkedIn LinkedIn connects the world’s professionals to make them more productive",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 19449,
+        "end": 19949
+      }
+    },
+    {
+      "id": "a7fba755826873cb",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2255,
+      "excerpt": "ur Enterprise Mobility + Security offerings compete with products from a range of competitors including identity vendors, security solution vendors, and numerous other security point solution vendors. LinkedIn faces competition from online professional networks; recruiting, talent management, and human resource services companies; job boards; companies that provide learning and development products and services; online and offline outlets that generate revenue from advertisers and marketers; and",
+      "sectionId": "item_1_linkedin_linkedin_connects_the_wo",
+      "sectionHeader": "Item 1 LinkedIn LinkedIn connects the world’s professionals to make them more productive",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 20092,
+        "end": 20652
+      }
+    },
+    {
+      "id": "d84f37d9a73959ba",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 911,
+      "excerpt": "s, complemented by our rapidly expanding portfolio of AI cloud services (including the latest models) and hardware, which includes custom-built silicon and strong partnerships with chip manufacturers. Azure AI Foundry is a unified platform for developers to design, customize, and manage AI applications and agents. Our server products are designed to make IT professionals, developers, and their systems more productive and efficient. Server software is integrated server infrastructure and middlewa",
+      "sectionId": "item_1_server_products_and_cloud_service",
+      "sectionHeader": "Item 1 Server Products and Cloud Services Azure is a comprehensive set of cloud services",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 22481,
+        "end": 22981
+      }
+    },
+    {
+      "id": "52ef878b1ac614c9",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 1774,
+      "excerpt": "e architects, developers, testers, and project managers. Server products revenue is mainly affected by purchases through volume licensing programs, licenses sold to OEMs, and retail packaged products. CALs provide access rights to certain server products, including SQL Server and Windows Server, and revenue is reported along with the associated server product. GitHub and Nuance Healthcare include both cloud and on-premises offerings. GitHub provides a collaboration platform for developers to man",
+      "sectionId": "item_1_server_products_and_cloud_service",
+      "sectionHeader": "Item 1 Server Products and Cloud Services Azure is a comprehensive set of cloud services",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 23344,
+        "end": 23844
+      }
+    },
+    {
+      "id": "9363c8a24fe955e4",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 3730,
+      "excerpt": "cale, coupled with our broad portfolio of identity and security solutions, allows us to effectively solve complex cybersecurity challenges for our customers and differentiates us from the competition. Our server products face competition from a wide variety of server operating systems and applications offered by companies with a range of market approaches. Vertically integrated computer manufacturers offer their own versions of the Unix operating system preinstalled on server hardware and nearly",
+      "sectionId": "item_1_server_products_and_cloud_service",
+      "sectionHeader": "Item 1 Server Products and Cloud Services Azure is a comprehensive set of cloud services",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 25300,
+        "end": 25860
+      }
+    },
+    {
+      "id": "9eda26d075cae93f",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1 We design our programs to attract, reward, and retain top talent while fostering continuous employee development and reinforcing our organizational culture and values. Our total compensation offering is both highly differentiated and competitive within the market, and we also monitor pay equity across multiple dimensions. We have invested significantly in employee wellbeing and offer a differentiated benefits package which includes many physical, emotional, and financial wellness programs",
+      "sectionId": "item_1_we_design_our_programs_to_attract",
+      "sectionHeader": "Item 1 We design our programs to attract, reward, and retain top talent while fostering",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 34164,
+        "end": 34664
+      }
+    },
+    {
+      "id": "a270d42b5406c02c",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 794,
+      "excerpt": "s employee needs globally with real-time insights. Additionally, our culture prioritizes the security of both our customers and Microsoft, embedding this responsibility across all teams and functions. OPERATIONS We have regional operations service centers in the Americas, Asia Pacific, Europe, and the Middle East that support our business operations, including customer contract and order processing, billing, credit and collections, customer lifecycle AI and cloud operations, and vendor managemen",
+      "sectionId": "item_1_we_design_our_programs_to_attract",
+      "sectionHeader": "Item 1 We design our programs to attract, reward, and retain top talent while fostering",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 34958,
+        "end": 35458
+      }
+    },
+    {
+      "id": "b87bdefa0c1f28f6",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 1775,
+      "excerpt": "We engage third-party manufacturers to produce our devices and have implemented measures to enhance supply chain efficiency and resilience, including the ability to relocate production geographically. There are few qualified suppliers for certain components of our servers and devices. Extended or unforeseen disruptions at these suppliers could impact our ability to operate our datacenters and manufacture devices on time to meet consumer demand. RESEARCH AND DEVELOPMENT Product and Service Develo",
+      "sectionId": "item_1_we_design_our_programs_to_attract",
+      "sectionHeader": "Item 1 We design our programs to attract, reward, and retain top talent while fostering",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 35939,
+        "end": 36439
+      }
+    },
+    {
+      "id": "7bc8170def2360b9",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2600,
+      "excerpt": "ment for new and existing products, services, and technologies, including tools and platforms spanning digital work and life experiences, cloud computing, AI, devices, security, and operating systems. We develop most of our products and services internally which allows us to maintain competitive advantages that come from product differentiation and closer technical control over our products and services. It also gives us the freedom to decide which modifications and enhancements are most importa",
+      "sectionId": "item_1_we_design_our_programs_to_attract",
+      "sectionHeader": "Item 1 We design our programs to attract, reward, and retain top talent while fostering",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 36764,
+        "end": 37264
+      }
+    },
+    {
+      "id": "aabab63dc63be245",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 1808,
+      "excerpt": "ctor institutions, service providers, application developers, and OEMs. We market and distribute our products and services through the following channels: direct, distributors and resellers, and OEMs. Our sales organization performs a variety of functions, including working directly with commercial enterprises and public-sector organizations worldwide to identify and meet their technology and digital transformation requirements; supporting system integrators, independent software vendors, and ot",
+      "sectionId": "item_1_intellectual_property_we_protect_",
+      "sectionHeader": "Item 1 Intellectual Property We protect our intellectual property investments in a varie",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 39900,
+        "end": 40400
+      }
+    },
+    {
+      "id": "a8b3aac33b302ba0",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 3738,
+      "excerpt": "ributors resell primarily to VARs, and VARs typically reach small and medium organizations. ESAs are also typically authorized as LSPs and operate as resellers for our other volume licensing programs. Microsoft Cloud Solution Provider is our main partner program for reselling cloud services. We distribute our retail packaged products primarily through independent non-exclusive distributors, authorized replicators, resellers, and retail outlets. Individual consumers obtain these products primaril",
+      "sectionId": "item_1_intellectual_property_we_protect_",
+      "sectionHeader": "Item 1 Intellectual Property We protect our intellectual property investments in a varie",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 41830,
+        "end": 42330
+      }
+    },
+    {
+      "id": "630900aef0371a36",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1 Open Value Open Value agreements are a simple, cost-effective way to acquire the latest Microsoft technology. These agreements are designed for small and medium organizations that want to license cloud services and on-premises software over a three-year period. Under Open Value agreements, organizations can elect to purchase perpetual licenses or subscribe to licenses and SA is included. Select Plus A Select Plus agreement is designed for government and academic organizations to acquire o",
+      "sectionId": "item_1_open_value_open_value_agreements_",
+      "sectionHeader": "Item 1 Open Value Open Value agreements are a simple, cost-effective way to acquire the",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 46301,
+        "end": 46801
+      }
+    },
+    {
+      "id": "6f4b17e5e4fdf229",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 884,
+      "excerpt": "naged services provider, or cloud reseller partner. Partners in this program can easily package their own products and services to directly provision, manage, and support their customer subscriptions. The Microsoft Services Provider License Agreement allows hosting service providers and independent software vendors who want to license eligible Microsoft software products to provide hosted applications and software services to their end customers. Partners license software over a three-year perio",
+      "sectionId": "item_1_open_value_open_value_agreements_",
+      "sectionHeader": "Item 1 Open Value Open Value agreements are a simple, cost-effective way to acquire the",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 47185,
+        "end": 47685
+      }
+    },
+    {
+      "id": "64a2251357b1a6fc",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2852,
+      "excerpt": "o held finance-related positions in the Server and Tools Business and the corporate finance organization. Mr. Numoto was appointed Executive Vice President and Chief Marketing Officer in October 2023. He served as Executive Vice President and Commercial Chief Marketing Officer from March 2020. Mr. Numoto served as a Corporate Vice President, Cloud Marketing from January 2012. Prior to that, Mr. Numoto served as a Corporate Vice President for Office 365 Marketing from 2004, where he led the trans",
+      "sectionId": "item_1_information_about_our_executiv_e_",
+      "sectionHeader": "Item 1 INFORMATION ABOUT OUR EXECUTIV E OFFICERS Our executive officers as of July 30, 2",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 52299,
+        "end": 52799
+      }
+    },
+    {
+      "id": "b817b87503350c9c",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 3212,
+      "excerpt": "sult in unauthorized access to our systems and data, including customer systems and data. For example, passwords may not be rotated and employee access may not be updated or removed on a timely basis. Employees or third parties may intentionally compromise our or our users’ security or systems or reveal confidential information, and laws in foreign jurisdictions may compel actions by such parties against our interests and could limit our recourse. Malicious actors may employ the supply chain to",
+      "sectionId": "item_1a_cybersecurity_data_privacy_and_p",
+      "sectionHeader": "Item 1A CYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS Cyberattacks and security v",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 73034,
+        "end": 73593
+      }
+    },
+    {
+      "id": "4145a889861b6e9f",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 951,
+      "excerpt": "d services to others. Threats to or attacks on our own infrastructure, such as the nation-state attack described in the prior risk factor, have also affected our customers and may do so in the future. The reliability of our cloud-based services and the protection of customer data depend on the security of our infrastructure, which includes hardware and other elements provided by third parties. Adversaries tend to focus their efforts on the most popular operating systems, programs, and services,",
+      "sectionId": "item_1a_our_internal_environment_continu",
+      "sectionHeader": "Item 1A Our internal environment continues to evolve. Often, we are early adopters of new",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 76572,
+        "end": 77131
+      }
+    },
+    {
+      "id": "54594c6ed0289400",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 1894,
+      "excerpt": "ore patching to install additional malware to further compromise customers’ systems. Adversaries will continue to attack customers using our cloud services as customers embrace digital transformation. Adversaries that acquire user account information can use that information to compromise our users’ accounts, including where accounts share the same attributes such as passwords. Inadequate account security practices may also result in unauthorized access, and user activity may result in ransomwar",
+      "sectionId": "item_1a_our_internal_environment_continu",
+      "sectionHeader": "Item 1A Our internal environment continues to evolve. Often, we are early adopters of new",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 77515,
+        "end": 78015
+      }
+    },
+    {
+      "id": "8a2e7472e8b5bd11",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2786,
+      "excerpt": "erative AI can be susceptible to security threats. Our customers operate complex systems with third-party hardware and software from multiple vendors that may include systems acquired over many years. They expect our products and services to support all these systems and products, including those that no longer incorporate the strongest current security advances or standards. As a result, we may not be able to discontinue support in our services for a product, service, standard, or feature solel",
+      "sectionId": "item_1a_our_internal_environment_continu",
+      "sectionHeader": "Item 1A Our internal environment continues to evolve. Often, we are early adopters of new",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 78407,
+        "end": 78907
+      }
+    },
+    {
+      "id": "a1584bafeace4515",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 2757,
+      "excerpt": "curity vulnerability in one of these components, and if there is a security exploit targeting it, we could experience adverse impacts to our results of operations, reputation, or competitive position. Disclosure and misuse of personal data could result in liability and harm our reputation. As we continue to grow the number, breadth, and scale of our cloud-based offerings, we store and process increasingly large amounts of personal data of our customers and users. The continued occurrence of high",
+      "sectionId": "item_1a_development_and_deployment_of_de",
+      "sectionHeader": "Item 1A Development and deployment of defensive measures To defend against security threa",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 83322,
+        "end": 83822
+      }
+    },
+    {
+      "id": "c72230be599902e7",
+      "ticker": "MSFT",
+      "vendor": "Arm",
+      "charOffset": 2678,
+      "excerpt": ", and may deploy them in high-risk scenarios or utilize them inappropriately. Our products may also collect large amounts of data in manners which may not satisfy customers or regulatory requirements. Our customers also operate complex systems with third-party hardware and software from multiple vendors whose products or personnel may take or fail to take actions which impact the reliability or security of our products and services. If our products and services do not work as intended, are utili",
+      "sectionId": "item_1a_abuse_of_our_platforms_may_harm_",
+      "sectionHeader": "Item 1A Abuse of our platforms may harm our reputation or user engagement. Advertising, p",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 89268,
+        "end": 89768
+      }
+    },
+    {
+      "id": "2df968b5a7489b79",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2588,
+      "excerpt": "ine services if we fail to maintain an adequate operations infrastructure. Our increasing user traffic, growth in services, and the complexity of our products and services demand more computing power. We spend substantial amounts to build, purchase, or lease datacenters and equipment and to upgrade our technology and network infrastructure to handle more traffic on our websites and in our datacenters. Our datacenters depend on the availability of permitted and buildable land, predictable energy,",
+      "sectionId": "item_1a_issues_in_the_development_deploy",
+      "sectionHeader": "Item 1A Issues in the development, deployment, and use of AI may result in reputational o",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 92625,
+        "end": 93185
+      }
+    },
+    {
+      "id": "d3f4f0e5141f1367",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 4564,
+      "excerpt": "tory actions, damage to our reputation, and loss of current and potential users, subscribers, and advertisers, each of which could adversely affect our business, operations, financial condition, and results of operations. We may experience supply or quality problems. There are limited suppliers for certain device and datacenter components. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our custo",
+      "sectionId": "item_1a_issues_in_the_development_deploy",
+      "sectionHeader": "Item 1A Issues in the development, deployment, and use of AI may result in reputational o",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 94601,
+        "end": 95101
+      }
+    },
+    {
+      "id": "13c183e68fe7e7cf",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 4410,
+      "excerpt": "t regulation schemes could be initiated, potentially using previous actions as precedent. • AI: Legislative and regulatory action is emerging in AI, which could increase costs or restrict opportunity. For example, the EU’s AI Act may increase costs or impact the provision or operation of our AI models and services in the European market. AI regulatory areas include model and system development and deployment, frontier model safety, transparency, and content provenance. • Anti-corruption: The For",
+      "sectionId": "item_1a_our_software_products_and_servic",
+      "sectionHeader": "Item 1A Our software products and services also have and may in the future experience qua",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 100527,
+        "end": 101027
+      }
+    },
+    {
+      "id": "77f14a466f9d96ce",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2266,
+      "excerpt": "ere in these risk factors. The occurrence of regional epidemics or a global pandemic, such as COVID-19, could adversely affect our business, operations, financial condition, and results of operations. The extent to which global pandemics impact our business going forward will depend on factors such as the duration and scope of the pandemic; governmental, business, and individuals' actions in response to the pandemic; and the impact on economic activity, including the possibility of recession or",
+      "sectionId": "item_1a_catastrophic_events_or_geopoliti",
+      "sectionHeader": "Item 1A Catastrophic events or geopolitical conditions could disrupt our business. A disr",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 119678,
+        "end": 120237
+      }
+    },
+    {
+      "id": "bd8eec8e611134a0",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 907,
+      "excerpt": "ntify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our",
+      "sectionId": "item_7_economic_conditions_challenges_an",
+      "sectionHeader": "Item 7 Economic Conditions, Challenges, and Risks The markets for software, devices, and",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 143314,
+        "end": 143873
+      }
+    },
+    {
+      "id": "c10359d7a07f4f8d",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 1986,
+      "excerpt": "lities are not available to determine fair value, then we use quoted prices for similar assets and liabilities or inputs other than the quoted prices that are observable either directly or indirectly. This pricing methodology applies to our Level 2 investments, such as commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Level 3 investments are valued using internal",
+      "sectionId": "item_7_liquidity_and_capital_resources_w",
+      "sectionHeader": "Item 7 LIQUIDITY AND CAPITAL RESOURCES We expect existing cash, cash equivalents, short-",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 166923,
+        "end": 167423
+      }
+    },
+    {
+      "id": "640af1cd07336691",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 2960,
+      "excerpt": "mainly when a quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the market in which the investment trades. Our broker-priced investments are generally classified as Level 2 investments because the broker prices these investments based on similar assets without applying significant adjustments. In addition, all our broker-priced investments have a sufficient level of trading volume to demonstrate that th",
+      "sectionId": "item_7_liquidity_and_capital_resources_w",
+      "sectionHeader": "Item 7 LIQUIDITY AND CAPITAL RESOURCES We expect existing cash, cash equivalents, short-",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 167897,
+        "end": 168397
+      }
+    },
+    {
+      "id": "15fea73a306985c6",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 3861,
+      "excerpt": "6.2 billion for fiscal year 2025, primarily due to an increase in cash received from customers, offset in part by an increase in cash paid to suppliers and employees and cash used to pay income taxes. Cash used in financing increased $13.9 billion to $51.7 billion for fiscal year 2025, primarily due to a $9.5 billion increase in cash used for repayments of debt, net of proceeds. Cash used in investing decreased $24.4 billion to $72.6 billion for fiscal year 2025, primarily due to a $63.2 billion",
+      "sectionId": "item_7_liquidity_and_capital_resources_w",
+      "sectionHeader": "Item 7 LIQUIDITY AND CAPITAL RESOURCES We expect existing cash, cash equivalents, short-",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 168798,
+        "end": 169358
+      }
+    },
+    {
+      "id": "5bf90e2b1531f378",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 3557,
+      "excerpt": "t is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time. Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation. Revenue from Office 365 is recognized ratably over the pe",
+      "sectionId": "item_7_income_taxes_as_a_result_of_the_t",
+      "sectionHeader": "Item 7 Income Taxes As a result of the TCJA, we are required to pay a one-time transitio",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 176047,
+        "end": 176547
+      }
+    },
+    {
+      "id": "b7b4fc54ef2a1db9",
+      "ticker": "MSFT",
+      "vendor": null,
+      "charOffset": 3628,
+      "excerpt": "vices to a customer. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time.",
+      "sectionId": "item_8_revenue_recognition_revenue_is_re",
+      "sectionHeader": "Item 8 Revenue Recognition Revenue is recognized upon transfer of control of promised pr",
+      "form": "10-K",
+      "filingDate": "2025-07-30",
+      "type": "chunk",
+      "range": {
+        "start": 175748,
+        "end": 176307
+      }
+    }
+  ]
+}

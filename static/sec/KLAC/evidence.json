@@ -1,0 +1,2317 @@
+{
+  "ticker": "KLAC",
+  "count": 155,
+  "generatedAt": "2026-05-29T05:38:06.523Z",
+  "entries": [
+    {
+      "id": "KLAC-KLA-0",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 382,
+      "excerpt": "….C. 20549 FORM 10-K (Mark One) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended June 30 , 2025 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to Commission file number 000-09992 KLA CORP ORATION (Exact name of registrant as specified in its charter) Delaware 04-2564110 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) One Technology Drive, Milpitas, California 95035 (Address of principal executive offices) (Zip Code) Registrant’s telephone numb…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 62,
+        "end": 702
+      }
+    },
+    {
+      "id": "KLAC-KLA-1",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 925,
+      "excerpt": "…California 95035 (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including area code: ( 408 ) 875-3000 Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.001 par value per share KLAC The Nasdaq Stock Market, LLC The NASDAQ Global Select Market Securities registered pursuant to Section 12(g) of the Act: None (Title of class) Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes x No o Indicate by check mark if the registrant…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 606,
+        "end": 1304
+      }
+    },
+    {
+      "id": "KLAC-KLA-2",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 15816,
+      "excerpt": "…le in the fiscal year ending June 30, 2026. You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof. iii Table of Contents PART I ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” or the “Company” and also referred to as “we,” “our,” “us” or similar references) are suppliers of industry-leading equipment and services that enables innovation throughout the electronics industry. We provide advanced process control and process-enabling solu…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 15496,
+        "end": 16136
+      }
+    },
+    {
+      "id": "KLAC-KLA-3",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 15870,
+      "excerpt": "…utioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof. iii Table of Contents PART I ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” or the “Company” and also referred to as “we,” “our,” “us” or similar references) are suppliers of industry-leading equipment and services that enables innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers, reticles/masks, chemic…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 15550,
+        "end": 16190
+      }
+    },
+    {
+      "id": "KLAC-kw-0",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 15961,
+      "excerpt": "…Table of Contents PART I ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” or the “Company” and also referred to as “we,” “our,” “us” or similar references) are suppliers of industry-leading equipment and services that enables innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers, reticles/masks, chemicals/materials, integrated circuits (“IC” or “chip”), packaged ICs and printed circuit boards (“PCB”), as well as comprehensive support and services across our installed ba…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 15762,
+        "end": 16361
+      }
+    },
+    {
+      "id": "KLAC-kw-1",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 16243,
+      "excerpt": "…ghout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers, reticles/masks, chemicals/materials, integrated circuits (“IC” or “chip”), packaged ICs and printed circuit boards (“PCB”), as well as comprehensive support and services across our installed base. Our suite of advanced products, coupled with our unique process control software and services, allow us to deliver the solutions our customers need to achieve their technology advancement and high-volume production goals by significantly improving yields, while simultaneously r…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 16043,
+        "end": 16643
+      }
+    },
+    {
+      "id": "KLAC-KLA-4",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 16938,
+      "excerpt": "…s, while simultaneously reducing waste, risks and costs. This improves our customers’ overall profitability and return on investment. Our services business, which accounted for approximately 22% of our revenue in fiscal 2025, increases the value of our contract offerings and promotes the extension of system lifetimes. KLA was formed as KLA-Tencor Corporation in April 1997 through the merger of KLA Instruments Corporation and Tencor Instruments, two long-time leaders in the semiconductor capital equipment industry that began operations in 1975 and 1976, respectively. We are organized into three reportable segments: Semiconductor Proc…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 16618,
+        "end": 17258
+      }
+    },
+    {
+      "id": "KLAC-KLA-5",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 16956,
+      "excerpt": "…ously reducing waste, risks and costs. This improves our customers’ overall profitability and return on investment. Our services business, which accounted for approximately 22% of our revenue in fiscal 2025, increases the value of our contract offerings and promotes the extension of system lifetimes. KLA was formed as KLA-Tencor Corporation in April 1997 through the merger of KLA Instruments Corporation and Tencor Instruments, two long-time leaders in the semiconductor capital equipment industry that began operations in 1975 and 1976, respectively. We are organized into three reportable segments: Semiconductor Process Control; Speci…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 16636,
+        "end": 17276
+      }
+    },
+    {
+      "id": "KLAC-KLA-6",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 17015,
+      "excerpt": "…stomers’ overall profitability and return on investment. Our services business, which accounted for approximately 22% of our revenue in fiscal 2025, increases the value of our contract offerings and promotes the extension of system lifetimes. KLA was formed as KLA-Tencor Corporation in April 1997 through the merger of KLA Instruments Corporation and Tencor Instruments, two long-time leaders in the semiconductor capital equipment industry that began operations in 1975 and 1976, respectively. We are organized into three reportable segments: Semiconductor Process Control; Specialty Semiconductor Process; and PCB and Component Inspectio…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 16696,
+        "end": 17336
+      }
+    },
+    {
+      "id": "KLAC-kw-2",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 18423,
+      "excerpt": "…iconductors for automotive and industrial applications. Within the PCB and Component Inspection segment, we enable electronic device manufacturers to inspect, test and measure PCBs, IC substrates and packaged ICs to verify their quality, pattern the desired electronic circuitry on the relevant substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces. Additional information about KLA is available at www.kla.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuan…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 18223,
+        "end": 18823
+      }
+    },
+    {
+      "id": "KLAC-KLA-7",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 18639,
+      "excerpt": "…segment, we enable electronic device manufacturers to inspect, test and measure PCBs, IC substrates and packaged ICs to verify their quality, pattern the desired electronic circuitry on the relevant substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces. Additional information about KLA is available at www.kla.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act are available free of charge on our website as soon as reasonably practicable…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 18319,
+        "end": 19019
+      }
+    },
+    {
+      "id": "KLAC-VAT Group-0",
+      "ticker": "KLAC",
+      "vendor": "VAT Group",
+      "charOffset": 20170,
+      "excerpt": "…ctor fabrication process begins with a bare silicon wafer - a round disk typically 200 millimeters or 300 millimeters in diameter, about as thick as a credit card and gray in color. The process of manufacturing wafers is highly sophisticated and involves the creation of large ingots of silicon by pulling them out of a vat of molten silicon. The ingots are then sliced into wafers. Prime silicon wafers are then polished to a mirror finish. Other, more specialized wafers, such as epitaxial silicon (“epi”), silicon on insulator (“SOI”), gallium nitride (“GaN”) and silicon carbide (“SiC”) are also used in the semiconductor industry. The…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 19851,
+        "end": 20490
+      }
+    },
+    {
+      "id": "KLAC-kw-3",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 21706,
+      "excerpt": "…ure. When the layers on the wafer have been fabricated, each chip on the wafer is tested for functionality. The wafer is then cut into individual chips, and the chips that pass functional testing are packaged. Final testing is performed on all packaged chips. Packaged chips are then mounted onto PCBs for connection to the rest of the electronic system. Our business depends upon the capital expenditures of semiconductor, semiconductor-related and electronic device manufacturers. This is driven by the current and anticipated market demand for ICs, products utilizing ICs and other electronic comp…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 21506,
+        "end": 22106
+      }
+    },
+    {
+      "id": "KLAC-kw-4",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 21750,
+      "excerpt": "…fabricated, each chip on the wafer is tested for functionality. The wafer is then cut into individual chips, and the chips that pass functional testing are packaged. Final testing is performed on all packaged chips. Packaged chips are then mounted onto PCBs for connection to the rest of the electronic system. Our business depends upon the capital expenditures of semiconductor, semiconductor-related and electronic device manufacturers. This is driven by the current and anticipated market demand for ICs, products utilizing ICs and other electronic components. We do not consider our business to b…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 21550,
+        "end": 22150
+      }
+    },
+    {
+      "id": "KLAC-kw-5",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 21766,
+      "excerpt": "…chip on the wafer is tested for functionality. The wafer is then cut into individual chips, and the chips that pass functional testing are packaged. Final testing is performed on all packaged chips. Packaged chips are then mounted onto PCBs for connection to the rest of the electronic system. Our business depends upon the capital expenditures of semiconductor, semiconductor-related and electronic device manufacturers. This is driven by the current and anticipated market demand for ICs, products utilizing ICs and other electronic components. We do not consider our business to be seasonal. Stil…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 21567,
+        "end": 22166
+      }
+    },
+    {
+      "id": "KLAC-kw-6",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 23512,
+      "excerpt": "…ogies, some requiring new substrate and film materials, new geometries, new transistor architectures, new power distribution schemes, advanced multi-patterning optical and extreme ultraviolet (“EUV”) lithography, and advanced packaging techniques. As design rules decrease, yields become more sensitive to the size and density of defects. Device performance characteristics (namely speed, capacity or power management) also become more sensitive to parameters such as linewidth and film thickness variation. New process materials require extensive characterization before they can be used in the manu…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 23313,
+        "end": 23913
+      }
+    },
+    {
+      "id": "KLAC-kw-7",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 23538,
+      "excerpt": "…substrate and film materials, new geometries, new transistor architectures, new power distribution schemes, advanced multi-patterning optical and extreme ultraviolet (“EUV”) lithography, and advanced packaging techniques. As design rules decrease, yields become more sensitive to the size and density of defects. Device performance characteristics (namely speed, capacity or power management) also become more sensitive to parameters such as linewidth and film thickness variation. New process materials require extensive characterization before they can be used in the manufacturing process. Moving…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 23338,
+        "end": 23997
+      }
+    },
+    {
+      "id": "KLAC-kw-8",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 24767,
+      "excerpt": "…extend the performance of their existing equipment. The semiconductor capital equipment industry has been experiencing multiple growth drivers bolstered by demand for semiconductors from leading-edge foundry and logic manufacturers to support computational power and connectivity and continued investment by our customers in legacy nodes. Adoption of EUV in high volume manufacturing (“HVM”) for Logic and DRAM memory is driving new process control requirements and growth in key markets for KLA. Demand for advanced semiconductor technologies, particularly evident in the 2-nanometer node, which is…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 24567,
+        "end": 25226
+      }
+    },
+    {
+      "id": "KLAC-kw-9",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 24978,
+      "excerpt": "…logic manufacturers to support computational power and connectivity and continued investment by our customers in legacy nodes. Adoption of EUV in high volume manufacturing (“HVM”) for Logic and DRAM memory is driving new process control requirements and growth in key markets for KLA. Demand for advanced semiconductor technologies, particularly evident in the 2-nanometer node, which is seeing higher levels of investment and process control intensity, continues to drive investments in AI. Increasing complexity and value of semiconductor packages, particularly for AI and High-performance computi…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 24779,
+        "end": 25378
+      }
+    },
+    {
+      "id": "KLAC-kw-10",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 25320,
+      "excerpt": "…arly evident in the 2-nanometer node, which is seeing higher levels of investment and process control intensity, continues to drive investments in AI. Increasing complexity and value of semiconductor packages, particularly for AI and High-performance computing (“HPC”) applications, is also driving significant growth in the advanced packaging business. The digitization of all industries, including 5G markets and advances in healthcare and industrial applications, together with the increasing adoption of electric vehicles and intelligence in automobiles, are powering leading-edge design node tec…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 25120,
+        "end": 25720
+      }
+    },
+    {
+      "id": "KLAC-kw-11",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 25454,
+      "excerpt": "…vestments in AI. Increasing complexity and value of semiconductor packages, particularly for AI and High-performance computing (“HPC”) applications, is also driving significant growth in the advanced packaging business. The digitization of all industries, including 5G markets and advances in healthcare and industrial applications, together with the increasing adoption of electric vehicles and intelligence in automobiles, are powering leading-edge design node technology investments and capacity expansions. Regionalization of semiconductors has become a trend as access to semiconductors is viewe…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 25254,
+        "end": 25854
+      }
+    },
+    {
+      "id": "KLAC-kw-12",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 25971,
+      "excerpt": "…alization of semiconductors has become a trend as access to semiconductors is viewed from the lens of national security. China remains as a major region for the manufacturing of legacy node logic and memory chips, adding to its role as the world’s largest consumer of ICs. The Chinese government initiatives around self-sustainability are propelling China to expand its domestic manufacturing capacity. Although China is currently seen as an important long-term growth region for the semiconductor capital equipment sector, Commerce has added certain China-based entities to the U.S. Entity List (a l…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 25771,
+        "end": 26371
+      }
+    },
+    {
+      "id": "KLAC-kw-13",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 27788,
+      "excerpt": "…to their needs. Our key R&D activities during the fiscal year ended June 30, 2025 involved the development of process control and process-enabling solutions for front end semiconductors and advanced packaging. Our primary R&D centers are located in the U.S., United Kingdom (“U.K.”), India, China, Singapore and Israel. For information regarding our R&D expenses during the last three fiscal years, see Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Annual Report on Form 10-K. The strength of our competitive positions in many of our existing…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 27590,
+        "end": 28189
+      }
+    },
+    {
+      "id": "KLAC-kw-14",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 28932,
+      "excerpt": "…n part, on our ability to continue to compete successfully in Asia, one of the largest markets for our equipment. Our business depends on capital expenditures from these manufacturers which, in turn, depend on many factors including general economic conditions, anticipated market demand, evolving government regulations and capacity constraints. Our ability to compete in this area depends upon the continuation of favorable trading relationships between countries in the region and the U.S., and our continuing ability to maintain satisfactory relationships with leading semiconductor companies in…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 28732,
+        "end": 29391
+      }
+    },
+    {
+      "id": "KLAC-TSMC-0",
+      "ticker": "KLAC",
+      "vendor": "TSMC",
+      "charOffset": 29575,
+      "excerpt": "…maintain satisfactory relationships with leading semiconductor companies in the region. For the fiscal years ended June 30, 2025, 2024 and 2023, the following customers each accounted for more than 10% of total revenues, primarily in the Semiconductor Process Control segment: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Sales, Service and Marketing Our sales, service and marketing efforts aim to build deep long-term relationships with our customers. We fo…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 29256,
+        "end": 29895
+      }
+    },
+    {
+      "id": "KLAC-TSMC-1",
+      "ticker": "KLAC",
+      "vendor": "TSMC",
+      "charOffset": 29626,
+      "excerpt": "…emiconductor companies in the region. For the fiscal years ended June 30, 2025, 2024 and 2023, the following customers each accounted for more than 10% of total revenues, primarily in the Semiconductor Process Control segment: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Sales, Service and Marketing Our sales, service and marketing efforts aim to build deep long-term relationships with our customers. We focus on providing comprehensive resources for the fu…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 29306,
+        "end": 29946
+      }
+    },
+    {
+      "id": "KLAC-TSMC-2",
+      "ticker": "KLAC",
+      "vendor": "TSMC",
+      "charOffset": 29677,
+      "excerpt": "…l years ended June 30, 2025, 2024 and 2023, the following customers each accounted for more than 10% of total revenues, primarily in the Semiconductor Process Control segment: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Sales, Service and Marketing Our sales, service and marketing efforts aim to build deep long-term relationships with our customers. We focus on providing comprehensive resources for the full breadth of process control, process-enabling and…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 29357,
+        "end": 30057
+      }
+    },
+    {
+      "id": "KLAC-Samsung-0",
+      "ticker": "KLAC",
+      "vendor": "Samsung",
+      "charOffset": 29728,
+      "excerpt": "…lowing customers each accounted for more than 10% of total revenues, primarily in the Semiconductor Process Control segment: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Sales, Service and Marketing Our sales, service and marketing efforts aim to build deep long-term relationships with our customers. We focus on providing comprehensive resources for the full breadth of process control, process-enabling and yield management solutions for manufacturing and t…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 29408,
+        "end": 30048
+      }
+    },
+    {
+      "id": "KLAC-kw-15",
+      "ticker": "KLAC",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 29728,
+      "excerpt": "…ent: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Sales, Service and Marketing Our sales, service and marketing efforts aim to build deep long-term relationships with our customers. We focus on providing comprehensive resources for the full breadth of process control, process-enabling and yield management solutions for manufacturing and testing wafers and reticles, a wide variety of ICs, PCBs, IC substrates and packa…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 29528,
+        "end": 30128
+      }
+    },
+    {
+      "id": "KLAC-kw-16",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 30123,
+      "excerpt": "…ve resources for the full breadth of process control, process-enabling and yield management solutions for manufacturing and testing wafers and reticles, a wide variety of ICs, PCBs, IC substrates and packaging as well as general materials research. Our revenues are derived primarily from product sales and related service contracts, mostly through our direct sales force. We believe that the size and location of our field sales, service engineering, applications engineering, and marketing organizations represent a competitive advantage in our served markets. We have direct sales forces in Asia,…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 29923,
+        "end": 30582
+      }
+    },
+    {
+      "id": "KLAC-kw-17",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 32862,
+      "excerpt": "…ces that enable innovation throughout the semiconductor and related electronics industries. We provide advanced process control and process-enabling solutions for manufacturing wafers, reticles, ICs, packaging, PCBs and IC substrates. In March 2024, we made the decision to exit our business of manufacturing flat and flexible panel displays (“Display”) by announcing the end of manufacturing of most Display products, but we will continue to provide services to the installed base of Display products for existing customers. The Semiconductor Process Control segment offers a comprehensive portfolio…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 32662,
+        "end": 33322
+      }
+    },
+    {
+      "id": "KLAC-kw-18",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 34091,
+      "excerpt": "…tical and EUV reticle types. We also make products that support chemical/materials quality control, and process tool development and qualification. Our products and services for chip, wafer, reticle, packaging, solar, hard disk drive, original equipment manufacturer and chemical/materials manufacturing are designed to provide comprehensive solutions that help our customers accelerate development and production ramp cycles, achieve higher and more stable product yields and improve their overall profitability. The Semiconductor Process Control segment offers a variety of solutions and products,…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 33891,
+        "end": 34550
+      }
+    },
+    {
+      "id": "KLAC-kw-19",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 37201,
+      "excerpt": "…lso support outgoing and incoming reticle quality control. Teron™ SL6xx Series, Teron™ 6xx Series, TeraScan™ 5xx Series, X5.x™ Series, FlashScan ® Series, LMS IPRO Series, SensArray ® product family. Packaging Manufacturing: Wafer Inspection and Metrology, Chemistry Process Control, In Situ Process Management Wafer inspection and metrology systems for advanced wafer-level packaging help packaging manufacturers detect, resolve and monitor excursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 37001,
+        "end": 37660
+      }
+    },
+    {
+      "id": "KLAC-kw-20",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 37376,
+      "excerpt": "…sArray ® product family. Packaging Manufacturing: Wafer Inspection and Metrology, Chemistry Process Control, In Situ Process Management Wafer inspection and metrology systems for advanced wafer-level packaging help packaging manufacturers detect, resolve and monitor excursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used in wafer-level packaging (WLP), panel-level packaging (PLP), and IC substrates. Kronos™ Series, Micro-SR™, CIRCL™-AP, irArcher ® Series, PWG5™ with XT Option, eDR7380™, QualiS…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 37176,
+        "end": 37776
+      }
+    },
+    {
+      "id": "KLAC-kw-21",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 37391,
+      "excerpt": "…t family. Packaging Manufacturing: Wafer Inspection and Metrology, Chemistry Process Control, In Situ Process Management Wafer inspection and metrology systems for advanced wafer-level packaging help packaging manufacturers detect, resolve and monitor excursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used in wafer-level packaging (WLP), panel-level packaging (PLP), and IC substrates. Kronos™ Series, Micro-SR™, CIRCL™-AP, irArcher ® Series, PWG5™ with XT Option, eDR7380™, QualiSurf ® Series, Q…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 37191,
+        "end": 37791
+      }
+    },
+    {
+      "id": "KLAC-kw-22",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 37616,
+      "excerpt": "…etect, resolve and monitor excursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used in wafer-level packaging (WLP), panel-level packaging (PLP), and IC substrates. Kronos™ Series, Micro-SR™, CIRCL™-AP, irArcher ® Series, PWG5™ with XT Option, eDR7380™, QualiSurf ® Series, Quali-Line ® Prima ® , Quali-Fill ® Libra ® Series, QualiLab Elite ® Series, SensArray ® product family. Semiconductor Software Solutions Software solutions centralize and analyze the data produced by inspection, metrology and…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 37416,
+        "end": 38076
+      }
+    },
+    {
+      "id": "KLAC-kw-23",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 37645,
+      "excerpt": "…cursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used in wafer-level packaging (WLP), panel-level packaging (PLP), and IC substrates. Kronos™ Series, Micro-SR™, CIRCL™-AP, irArcher ® Series, PWG5™ with XT Option, eDR7380™, QualiSurf ® Series, Quali-Line ® Prima ® , Quali-Fill ® Libra ® Series, QualiLab Elite ® Series, SensArray ® product family. Semiconductor Software Solutions Software solutions centralize and analyze the data produced by inspection, metrology and process systems for chip, wa…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 37446,
+        "end": 38046
+      }
+    },
+    {
+      "id": "KLAC-kw-24",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 38062,
+      "excerpt": "…ies, SensArray ® product family. Semiconductor Software Solutions Software solutions centralize and analyze the data produced by inspection, metrology and process systems for chip, wafer, reticle and packaging manufacturing. These solutions provide run-time process control, defect excursion identification, process corrections and defect classification to accelerate yield learning rates and reduce production risk. Patterning simulation software allows researchers to evaluate advanced patterning technologies, such as EUV lithography and multiple patterning techniques. Klarity ® product family, 5…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 37862,
+        "end": 38462
+      }
+    },
+    {
+      "id": "KLAC-kw-25",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 38387,
+      "excerpt": "…ns and defect classification to accelerate yield learning rates and reduce production risk. Patterning simulation software allows researchers to evaluate advanced patterning technologies, such as EUV lithography and multiple patterning techniques. Klarity ® product family, 5D Analyzer ® , OVALiS, aiSIGHT™, Anchor product family, RDC, FabVision ® Series, ProDATA™, PROLITH™, I-PAT ®, SPOT ® . KLA Pro Systems: Certified and Remanufactured Products Inspection and metrology systems support the manufacture of larger design node chips and ≤200mm wafer manufacturing. Surfscan ® Series, 2835, 2367 Pro,…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 38187,
+        "end": 38847
+      }
+    },
+    {
+      "id": "KLAC-kw-26",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 40159,
+      "excerpt": "…imaxx ® Series, Xactix ® Series, SPTS Mosaic™ Series, MVD Series. The PCB and Component Inspection segment enables electronic device manufacturers to inspect, test and measure PCBs, IC substrates and packaged ICs to verify their quality, pattern the desired electronic circuitry on the relevant substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces. The PCB and Component Inspection segment offers a variety of solutions and products, including: Segment Technologies Products PCB and Component Inspection PCB Direct imaging, inspection, optical shaping, inkjet an…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 39959,
+        "end": 40559
+      }
+    },
+    {
+      "id": "KLAC-kw-27",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 41213,
+      "excerpt": "…botech Sprint™ Series, Orbotech Magna™ Series, Frontline product family. Component Inspection and metrology systems for quality control and yield improvement in advanced and traditional semiconductor packaging markets. ICOS™ F26x, ICOS™ Tx Series, Zeta™-5xx/6xx. Services Our service programs enable our customers in all business sectors to maintain the high performance and productivity of our products through a flexible array of service options. Whether a manufacturing site is producing wafers, reticles, ICs or PCB products, our highly trained service teams collaborate with customers to determi…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 41013,
+        "end": 41613
+      }
+    },
+    {
+      "id": "KLAC-kw-28",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 41927,
+      "excerpt": "…sisting of sales orders where written customer requests have been received, decreased from $9.83 billion as of June 30, 2024, to $7.86 billion as of June 30, 2025, as many of our capacity constrained suppliers made new investments to meet our growing needs, enabling us to deliver products more quickly than in the pandemic and early post-pandemic periods. Lead-time expectations, particularly from our largest customers, reverted to historical levels from the elevated lead times driven by the post-pandemic induced supply chain disruptions, and demands from a large number of new fabs in Asia norma…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 41727,
+        "end": 42327
+      }
+    },
+    {
+      "id": "KLAC-kw-29",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 43388,
+      "excerpt": "…lations. Our backlog on any particular date does not provide meaningful information about the timing of future revenue recognition. Manufacturing, Raw Materials and Supplies We perform system design, assembly and testing in-house and utilize an outsourcing strategy to manufacture components and major subassemblies. Our in-house manufacturing activities consist primarily of assembling and testing components and subassemblies acquired from third-party vendors and integrating those subassemblies into our finished products. Our principal manufacturing activities occur in the U.S., Singapore, Israe…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 43188,
+        "end": 43788
+      }
+    },
+    {
+      "id": "KLAC-kw-30",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 43642,
+      "excerpt": "…ng strategy to manufacture components and major subassemblies. Our in-house manufacturing activities consist primarily of assembling and testing components and subassemblies acquired from third-party vendors and integrating those subassemblies into our finished products. Our principal manufacturing activities occur in the U.S., Singapore, Israel, Germany, U. K., Italy and China. Our supply chain strategy incorporates considerations for ethical labor practices, responsible minerals sourcing, and Responsible Business Alliance and SEMI guidelines, and there are increasing regulatory expectations…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 43443,
+        "end": 44042
+      }
+    },
+    {
+      "id": "KLAC-kw-31",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 44374,
+      "excerpt": "…ther such considerations to our supply chain strategy. 6 Table of Contents Some critical parts, components and subassemblies (collectively, “parts”) that we use are designed by us and manufactured by suppliers in accordance with our specifications, while other parts are standard commercial products. We use numerous vendors to supply parts and raw materials to manufacture and support our products. Although we make reasonable efforts to ensure that these parts and raw materials are available from multiple suppliers, this is not always possible. Certain parts and raw materials included in our sys…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44174,
+        "end": 44774
+      }
+    },
+    {
+      "id": "KLAC-kw-32",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 44491,
+      "excerpt": "…emblies (collectively, “parts”) that we use are designed by us and manufactured by suppliers in accordance with our specifications, while other parts are standard commercial products. We use numerous vendors to supply parts and raw materials to manufacture and support our products. Although we make reasonable efforts to ensure that these parts and raw materials are available from multiple suppliers, this is not always possible. Certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption p…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44292,
+        "end": 44892
+      }
+    },
+    {
+      "id": "KLAC-kw-33",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 44683,
+      "excerpt": "…umerous vendors to supply parts and raw materials to manufacture and support our products. Although we make reasonable efforts to ensure that these parts and raw materials are available from multiple suppliers, this is not always possible. Certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, providing financial…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44484,
+        "end": 45084
+      }
+    },
+    {
+      "id": "KLAC-kw-34",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 44814,
+      "excerpt": "…nsure that these parts and raw materials are available from multiple suppliers, this is not always possible. Certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, providing financial support and incentives to encourage vendors to increase capacity when required, identifying (but not necessarily qualifying) possi…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44614,
+        "end": 45214
+      }
+    },
+    {
+      "id": "KLAC-kw-35",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 44845,
+      "excerpt": "…materials are available from multiple suppliers, this is not always possible. Certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, providing financial support and incentives to encourage vendors to increase capacity when required, identifying (but not necessarily qualifying) possible alternative suppliers of su…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44645,
+        "end": 45245
+      }
+    },
+    {
+      "id": "KLAC-kw-36",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 45022,
+      "excerpt": "…or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, providing financial support and incentives to encourage vendors to increase capacity when required, identifying (but not necessarily qualifying) possible alternative suppliers of such parts and materials, and ensuring adequate inventories of key parts and raw materials are available to maintain manufacturing schedules. Although we seek to reduce our depend…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44823,
+        "end": 45422
+      }
+    },
+    {
+      "id": "KLAC-kw-37",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 45120,
+      "excerpt": "…ize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, providing financial support and incentives to encourage vendors to increase capacity when required, identifying (but not necessarily qualifying) possible alternative suppliers of such parts and materials, and ensuring adequate inventories of key parts and raw materials are available to maintain manufacturing schedules. Although we seek to reduce our dependence on sole and limited source suppliers, in some cases the partial or complete loss of certain o…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 44920,
+        "end": 45520
+      }
+    },
+    {
+      "id": "KLAC-kw-38",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 45230,
+      "excerpt": "…s of key parts and raw materials, providing financial support and incentives to encourage vendors to increase capacity when required, identifying (but not necessarily qualifying) possible alternative suppliers of such parts and materials, and ensuring adequate inventories of key parts and raw materials are available to maintain manufacturing schedules. Although we seek to reduce our dependence on sole and limited source suppliers, in some cases the partial or complete loss of certain of these sources, or disruptions within our suppliers’ often complex supply chains, could disrupt scheduled del…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 45030,
+        "end": 45630
+      }
+    },
+    {
+      "id": "KLAC-kw-39",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 45454,
+      "excerpt": "…and materials, and ensuring adequate inventories of key parts and raw materials are available to maintain manufacturing schedules. Although we seek to reduce our dependence on sole and limited source suppliers, in some cases the partial or complete loss of certain of these sources, or disruptions within our suppliers’ often complex supply chains, could disrupt scheduled deliveries to customers, damage customer relationships and have a material adverse effect on our results of operations. Competition The worldwide market for technologically advanced process control, process-enabling and yield m…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "keyword",
+      "range": {
+        "start": 45254,
+        "end": 45854
+      }
+    },
+    {
+      "id": "KLAC-Applied Materials-0",
+      "ticker": "KLAC",
+      "vendor": "Applied Materials",
+      "charOffset": 46702,
+      "excerpt": "…mprove yields and reduce waste. To remain competitive, we use significant financial resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest significantly in product R&D. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 46383,
+        "end": 47023
+      }
+    },
+    {
+      "id": "KLAC-ASML-0",
+      "ticker": "KLAC",
+      "vendor": "ASML",
+      "charOffset": 46727,
+      "excerpt": "…waste. To remain competitive, we use significant financial resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest significantly in product R&D. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their current products a…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 46408,
+        "end": 47048
+      }
+    },
+    {
+      "id": "KLAC-Hitachi High-Tech-0",
+      "ticker": "KLAC",
+      "vendor": "Hitachi High-Tech",
+      "charOffset": 46746,
+      "excerpt": "…mpetitive, we use significant financial resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest significantly in product R&D. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their current products and to introduce new…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 46426,
+        "end": 47126
+      }
+    },
+    {
+      "id": "KLAC-Onto Innovation-0",
+      "ticker": "KLAC",
+      "vendor": "Onto Innovation",
+      "charOffset": 46785,
+      "excerpt": "…resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest significantly in product R&D. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their current products and to introduce new products with improved pricing and per…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 46466,
+        "end": 47105
+      }
+    },
+    {
+      "id": "KLAC-Lasertec-0",
+      "ticker": "KLAC",
+      "vendor": "Lasertec",
+      "charOffset": 46811,
+      "excerpt": "…d range of products, to maintain customer service and support centers worldwide, and to invest significantly in product R&D. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their current products and to introduce new products with improved pricing and performance characteristics.…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 46491,
+        "end": 47190
+      }
+    },
+    {
+      "id": "KLAC-Arm-0",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 65434,
+      "excerpt": "…perating results is provided below. 10 Table of Contents Risk Factors Summary The following summarizes the most material risks that make an investment in our securities risky or speculative. If any of the following risks occur or persist, our business, financial condition and results of operations could be materially harmed and the price of our common stock could significantly decline. Commercial, Operational, Financial and Regulatory Risks • Our vulnerability to a weakening in the condition of the financial markets and the global economy; • Risks related to our international operations; • Laws, rules, regulations or other orders th…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 65114,
+        "end": 65754
+      }
+    },
+    {
+      "id": "KLAC-Arm-1",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 70783,
+      "excerpt": "…y, to finance their purchases of capital equipment, including the products we sell. Reduced demand, combined with delays in our customers’ ability to obtain financing (or the unavailability of such financing), has, at times in the past, adversely affected our product and service sales and revenues and, therefore, has harmed our business and operating results, and our operating results and financial condition may again be adversely impacted if economic conditions decline from their current levels. In addition, a decline in the condition of the global financial markets could adversely impact the market values or liquidity of our inves…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 70463,
+        "end": 71103
+      }
+    },
+    {
+      "id": "KLAC-Arm-2",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 75038,
+      "excerpt": "…e operate; • Our ability to receive prepayments for certain of our products and services sold in certain jurisdictions. These prepayments increase our cash flows for the quarter in which they are received. If our practice of requiring prepayments in those jurisdictions changes or deteriorates, our cash flows would be harmed; • Required refunds for customer prepayments resulting from our inability to ship to certain jurisdictions, especially for customers in China, as described in more detail below. If we are required to make such refunds, our cash flows could be negatively affected; • Longer payment cycles and difficulties in collec…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 74718,
+        "end": 75358
+      }
+    },
+    {
+      "id": "KLAC-Arm-3",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 76020,
+      "excerpt": "…impact on our business and results of operations. Over the past several years, there have been a variety of rules and regulations issued by Commerce that have had an impact on our ability to sell certain products and provide certain services to certain customers in China. These rules and regulations may significantly harm our business, results of operations, financial condition and cash flows in future periods, unless we are able to obtain required licenses. We maintain significant operations outside the United States, and existing and evolving trade restrictions imposed by the U.S. and other governments could significantly disrupt…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 75700,
+        "end": 76399
+      }
+    },
+    {
+      "id": "KLAC-Arm-4",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 79431,
+      "excerpt": "…to the U.S. Entity List and impose other end use or end user export restrictions, which could disrupt or prevent our product shipment, and further disrupt our revenue recognition, business operations and our ability to support our customers in China. 13 Table of Contents These rules and regulations may significantly harm our business unless we are able to obtain required licenses. We will continue to apply for export licenses, when required, in an effort to avoid disruption to our and our customers’ operations, but there can be no assurance that export licenses applied for by either us or our customers, now or in the future, will b…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 79112,
+        "end": 79751
+      }
+    },
+    {
+      "id": "KLAC-Arm-5",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 80537,
+      "excerpt": "…mplete product development in a timely manner, or our ability to support existing customers of covered products or supply customers of covered products outside the impacted regions, and requiring us to transition certain operations out of one or more of the identified countries. Failure to obtain export licenses have harmed and could continue to harm our backlog, requiring us to return substantial deposits received from customers in China for purchase orders, and/or further limiting our ability to meet our contractual obligations and sell our products or provide services to our customers in China. In addition, the U.S. export restri…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 80217,
+        "end": 80857
+      }
+    },
+    {
+      "id": "KLAC-Arm-6",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 80566,
+      "excerpt": "…a timely manner, or our ability to support existing customers of covered products or supply customers of covered products outside the impacted regions, and requiring us to transition certain operations out of one or more of the identified countries. Failure to obtain export licenses have harmed and could continue to harm our backlog, requiring us to return substantial deposits received from customers in China for purchase orders, and/or further limiting our ability to meet our contractual obligations and sell our products or provide services to our customers in China. In addition, the U.S. export restrictions on semiconductors and…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 80247,
+        "end": 80945
+      }
+    },
+    {
+      "id": "KLAC-Arm-7",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 82669,
+      "excerpt": "…from those of the Company, increase our risk of non-compliance. Any violations by us of applicable export laws and regulations could result in significant civil and criminal penalties, including fines and criminal proceedings against the Company or responsible employees, a denial of export privileges, suspension or debarment. Our employees, customers, suppliers or other third parties with whom we work may also engage in conduct for which the Company might be held responsible. We could face significant compliance, litigation or settlement costs and diversion of management’s attention from our business as a result. Further, the Compan…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 82349,
+        "end": 82989
+      }
+    },
+    {
+      "id": "KLAC-TSMC-3",
+      "ticker": "KLAC",
+      "vendor": "TSMC",
+      "charOffset": 228997,
+      "excerpt": "…% (47,878) (13) % Total $ 12,156,162 100 % $ 9,812,247 100 % $ 10,496,056 100 % $ 2,343,915 24 % $ (683,809) (7) % The following customers each accounted for more than 10% of our total revenues, primarily in our Semiconductor Process Control segment, for the indicated periods: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Revenues by region Revenues by region, based on ship-to location, for the periods indicated were as follows: Year Ended June 30, (Dollar…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 228677,
+        "end": 229376
+      }
+    },
+    {
+      "id": "KLAC-TSMC-4",
+      "ticker": "KLAC",
+      "vendor": "TSMC",
+      "charOffset": 229048,
+      "excerpt": "…247 100 % $ 10,496,056 100 % $ 2,343,915 24 % $ (683,809) (7) % The following customers each accounted for more than 10% of our total revenues, primarily in our Semiconductor Process Control segment, for the indicated periods: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Revenues by region Revenues by region, based on ship-to location, for the periods indicated were as follows: Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 China $ 4,042,…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 228728,
+        "end": 229368
+      }
+    },
+    {
+      "id": "KLAC-TSMC-5",
+      "ticker": "KLAC",
+      "vendor": "TSMC",
+      "charOffset": 229099,
+      "excerpt": "…3,809) (7) % The following customers each accounted for more than 10% of our total revenues, primarily in our Semiconductor Process Control segment, for the indicated periods: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Revenues by region Revenues by region, based on ship-to location, for the periods indicated were as follows: Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 China $ 4,042,567 33 % $ 4,196,727 43 % $ 2,867,443 27 % Taiwan 3…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 228779,
+        "end": 229419
+      }
+    },
+    {
+      "id": "KLAC-Samsung-1",
+      "ticker": "KLAC",
+      "vendor": "Samsung",
+      "charOffset": 229150,
+      "excerpt": "…for more than 10% of our total revenues, primarily in our Semiconductor Process Control segment, for the indicated periods: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Revenues by region Revenues by region, based on ship-to location, for the periods indicated were as follows: Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 China $ 4,042,567 33 % $ 4,196,727 43 % $ 2,867,443 27 % Taiwan 3,205,392 27 % 1,738,065 18 % 2,493,379 24 % Korea 1…",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "range": {
+        "start": 228831,
+        "end": 229470
+      }
+    },
+    {
+      "id": "95276bddda46a245",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 0,
+      "excerpt": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” or the “Company” and also referred to as “we,” “our,” “us” or similar references) are suppliers of industry-leading equipment and services that enables innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers, reticles/masks, chemicals/materials, integrated circuits (“IC” or “chip”), packaged ICs and printed circuit boards (“PC",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 15787,
+        "end": 16287
+      }
+    },
+    {
+      "id": "19cf834dfbf62b2f",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 1905,
+      "excerpt": "designed to provide comprehensive solutions to help customers accelerate development and production ramp cycles, achieve higher and more stable product yields and improve their overall profitability. Within the Specialty Semiconductor Process segment, we develop and sell advanced vacuum deposition and etching process tools, which are used by a broad range of specialty semiconductor customers, including manufacturers of microelectromechanical systems (“MEMS”), radio frequency (“RF”) communication",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 17693,
+        "end": 18253
+      }
+    },
+    {
+      "id": "755302ccc452e1ca",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 5523,
+      "excerpt": "ing of transistors or capacitors, which performs the “smart” functions; and the upper “interconnect” structure, typically consisting of circuitry, which connects the components in the lower structure. When the layers on the wafer have been fabricated, each chip on the wafer is tested for functionality. The wafer is then cut into individual chips, and the chips that pass functional testing are packaged. Final testing is performed on all packaged chips. Packaged chips are then mounted onto PCBs fo",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 21310,
+        "end": 21810
+      }
+    },
+    {
+      "id": "9a3b35ca93cf05d0",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 7211,
+      "excerpt": "f modern semiconductor and related electronics manufacturing. Ramping to high-volume production ahead of competitors can dramatically increase IC manufacturers’ revenue and profit for a given product. Leading semiconductor manufacturers invest in simultaneous production integration of multiple new process technologies, some requiring new substrate and film materials, new geometries, new transistor architectures, new power distribution schemes, advanced multi-patterning optical and extreme ultrav",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 22998,
+        "end": 23498
+      }
+    },
+    {
+      "id": "123c55f849acaae1",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 8058,
+      "excerpt": "uire extensive characterization before they can be used in the manufacturing process. Moving several of these advanced technologies into production at once only adds to the risks that chipmakers face. The continuing evolution of semiconductors to smaller geometries and more complex multi-level circuitry has significantly increased the performance and cost requirements of the capital equipment used to manufacture these devices. Construction of an advanced IC fabrication facility today can cost we",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 23845,
+        "end": 24345
+      }
+    },
+    {
+      "id": "d0924b811553c526",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 8918,
+      "excerpt": "vers bolstered by demand for semiconductors from leading-edge foundry and logic manufacturers to support computational power and connectivity and continued investment by our customers in legacy nodes. Adoption of EUV in high volume manufacturing (“HVM”) for Logic and DRAM memory is driving new process control requirements and growth in key markets for KLA. Demand for advanced semiconductor technologies, particularly evident in the 2-nanometer node, which is seeing higher levels of investment and",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 24705,
+        "end": 25265
+      }
+    },
+    {
+      "id": "48831c3db1539bf6",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 9904,
+      "excerpt": "leading-edge design node technology investments and capacity expansions. Regionalization of semiconductors has become a trend as access to semiconductors is viewed from the lens of national security. China remains as a major region for the manufacturing of legacy node logic and memory chips, adding to its role as the world’s largest consumer of ICs. The Chinese government initiatives around self-sustainability are propelling China to expand its domestic manufacturing capacity. Although China is",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 25692,
+        "end": 26251
+      }
+    },
+    {
+      "id": "b6900efd5ff7c03c",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 10878,
+      "excerpt": "ed customers that are military end users or engaged in military end uses. It also requires our customers to obtain an export license when they use certain semiconductor capital equipment based on U.S. technology to manufacture products connected to certain entities on the U.S. Entity List. 2 Table of Contents Research and Development The market for semiconductor and electronics industries is characterized by rapid technological development and product innovation. These technical innovations are",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 26665,
+        "end": 27224
+      }
+    },
+    {
+      "id": "a3afc664579f3735",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 11811,
+      "excerpt": "needs. Our key R&D activities during the fiscal year ended June 30, 2025 involved the development of process control and process-enabling solutions for front end semiconductors and advanced packaging. Our primary R&D centers are located in the U.S., United Kingdom (“U.K.”), India, China, Singapore and Israel. For information regarding our R&D expenses during the last three fiscal years, see Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Ann",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 27598,
+        "end": 28098
+      }
+    },
+    {
+      "id": "9fd242736c866943",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 12707,
+      "excerpt": "t to enhance our competitive position. Customers We count among our largest customers the leading semiconductor, semiconductor-related and electronic device manufacturers in Asia, the U.S. and Europe. Our future performance will depend, in part, on our ability to continue to compete successfully in Asia, one of the largest markets for our equipment. Our business depends on capital expenditures from these manufacturers which, in turn, depend on many factors including general economic conditions,",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 28494,
+        "end": 29053
+      }
+    },
+    {
+      "id": "fb344f2cd13e486f",
+      "ticker": "KLAC",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 13356,
+      "excerpt": "n of favorable trading relationships between countries in the region and the U.S., and our continuing ability to maintain satisfactory relationships with leading semiconductor companies in the region. For the fiscal years ended June 30, 2025, 2024 and 2023, the following customers each accounted for more than 10% of total revenues, primarily in the Semiconductor Process Control segment: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconduc",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 29143,
+        "end": 29643
+      }
+    },
+    {
+      "id": "99159c3bd462e9fa",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 14308,
+      "excerpt": "Cs, PCBs, IC substrates and packaging as well as general materials research. Our revenues are derived primarily from product sales and related service contracts, mostly through our direct sales force. We believe that the size and location of our field sales, service engineering, applications engineering, and marketing organizations represent a competitive advantage in our served markets. We have direct sales forces in Asia, the U.S. and Europe. We maintain an export compliance program designed t",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 30095,
+        "end": 30595
+      }
+    },
+    {
+      "id": "a8b96864249e1a1f",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 16217,
+      "excerpt": "our ability to compete on price with local providers or the value of revenues we generate from our international business. Although we attempt to manage some of the currency risk inherent in non-U.S. dollar product sales through hedging activities, there can be no assurance that such efforts will be adequate. These factors, as well as any of the other risk factors related to our international business and operations that are described in Item 1A “Risk Factors,” could have a material adverse effe",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 32005,
+        "end": 32505
+      }
+    },
+    {
+      "id": "0438f9dee8c850f1",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 18051,
+      "excerpt": "upport quality control during the manufacturing of optical and EUV reticle types. We also make products that support chemical/materials quality control, and process tool development and qualification. Our products and services for chip, wafer, reticle, packaging, solar, hard disk drive, original equipment manufacturer and chemical/materials manufacturing are designed to provide comprehensive solutions that help our customers accelerate development and production ramp cycles, achieve higher and m",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 17746,
+        "end": 17826
+      }
+    },
+    {
+      "id": "45c614d7f6bf55e5",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 20634,
+      "excerpt": "ce quality and assessing wafer geometry. Surfscan ® Series, eDR7380™ Series, eDRX™ Series, WaferSight™ Series, MicroSense ® wafer geometry product family, SensArray ® product family, Candela ® Series. Reticle Manufacturing: Defect Inspection, Metrology and In Situ Process Management Reticle inspection and metrology systems help reticle blank, patterned optical reticle, patterned EUV reticle, and chip manufacturers identify defects, pattern placement errors, and process issues during reticle manu",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 36421,
+        "end": 36921
+      }
+    },
+    {
+      "id": "6343ae74522f7910",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 21537,
+      "excerpt": "tion and metrology systems for advanced wafer-level packaging help packaging manufacturers detect, resolve and monitor excursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used in wafer-level packaging (WLP), panel-level packaging (PLP), and IC substrates. Kronos™ Series, Micro-SR™, CIRCL™-AP, irArcher ® Series, PWG5™ with XT Option, eDR7380™, QualiSurf ® Series, Quali-Line ® Prima ® , Quali-Fill",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 37324,
+        "end": 37883
+      }
+    },
+    {
+      "id": "1c1601e063052ab0",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 22447,
+      "excerpt": "d learning rates and reduce production risk. Patterning simulation software allows researchers to evaluate advanced patterning technologies, such as EUV lithography and multiple patterning techniques. Klarity ® product family, 5D Analyzer ® , OVALiS, aiSIGHT™, Anchor product family, RDC, FabVision ® Series, ProDATA™, PROLITH™, I-PAT ®, SPOT ® . KLA Pro Systems: Certified and Remanufactured Products Inspection and metrology systems support the manufacture of larger design node chips and ≤200mm wa",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 38234,
+        "end": 38734
+      }
+    },
+    {
+      "id": "0ec1cc195e5bdaaf",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 24037,
+      "excerpt": "the semiconductor and microelectronics industry. SPTS Omega ® Series, SPTS Sigma ® Series, SPTS Delta™ Series, SPTS Osprey ® Series, Primaxx ® Series, Xactix ® Series, SPTS Mosaic™ Series, MVD Series. The PCB and Component Inspection segment enables electronic device manufacturers to inspect, test and measure PCBs, IC substrates and packaged ICs to verify their quality, pattern the desired electronic circuitry on the relevant substrate and perform three-dimensional shaping of metalized circuits",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 39824,
+        "end": 40383
+      }
+    },
+    {
+      "id": "520456a6f476118b",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 24694,
+      "excerpt": "omponent Inspection PCB Direct imaging, inspection, optical shaping, inkjet and additive printing as well as computer-aided manufacturing and engineering solutions for the PCB and IC substrate market. Serena™, Orbotech Corus™ Series, Orbotech Infinitum™ Series, Orbotech Nuvogo™ Fine/ Nuvogo™ Series, Orbotech Diamond™ Series, Lumina™, Orbotech Ultra Dimension™ Series, Orbotech Ultra Fusion™/ Fusion™ Series, Orbotech Discovery™ II Series, Orbotech Precise™ Series, Orbotech Ultra PerFix™/ PerFix™ S",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 40481,
+        "end": 40981
+      }
+    },
+    {
+      "id": "403d610899cf1ba4",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 25474,
+      "excerpt": "Zeta™-5xx/6xx. Services Our service programs enable our customers in all business sectors to maintain the high performance and productivity of our products through a flexible array of service options. Whether a manufacturing site is producing wafers, reticles, ICs or PCB products, our highly trained service teams collaborate with customers to determine the best products and services to meet technology and business requirements. Backlog Our backlog, primarily consisting of sales orders where writ",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 41261,
+        "end": 41761
+      }
+    },
+    {
+      "id": "ae33ad38213ba58a",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 27332,
+      "excerpt": "s, there is increased risk of order modifications, pushouts or cancellations. Our backlog on any particular date does not provide meaningful information about the timing of future revenue recognition. Manufacturing, Raw Materials and Supplies We perform system design, assembly and testing in-house and utilize an outsourcing strategy to manufacture components and major subassemblies. Our in-house manufacturing activities consist primarily of assembling and testing components and subassemblies acq",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 43119,
+        "end": 43619
+      }
+    },
+    {
+      "id": "bc839e3712c1d06c",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 28241,
+      "excerpt": "expectations on the environmental, social and/or geographic provenance of materials or components that may at times require us to incorporate further such considerations to our supply chain strategy. 6 Table of Contents Some critical parts, components and subassemblies (collectively, “parts”) that we use are designed by us and manufactured by suppliers in accordance with our specifications, while other parts are standard commercial products. We use numerous vendors to supply parts and raw materi",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 44029,
+        "end": 44529
+      }
+    },
+    {
+      "id": "bbb0a52eaba33fae",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 28868,
+      "excerpt": "are available from multiple suppliers, this is not always possible. Certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, providing financial support and incentives to encourage vendors to increase capacity when r",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 44655,
+        "end": 45155
+      }
+    },
+    {
+      "id": "0752279e352a83c9",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 29759,
+      "excerpt": "tions within our suppliers’ often complex supply chains, could disrupt scheduled deliveries to customers, damage customer relationships and have a material adverse effect on our results of operations. Competition The worldwide market for technologically advanced process control, process-enabling and yield management solutions used by semiconductor and electronics manufacturers is highly competitive, with important competitive factors including system performance, ease of use, reliability, techni",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 45546,
+        "end": 46046
+      }
+    },
+    {
+      "id": "9282d083172109e4",
+      "ticker": "KLAC",
+      "vendor": "Hitachi High-Tech, Onto Innovation, Applied Materials, ASML, Lasertec",
+      "charOffset": 30628,
+      "excerpt": "o remain competitive, we use significant financial resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest significantly in product R&D. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marke",
+      "sectionId": "item_1_business_the_company_kla_corporat",
+      "sectionHeader": "ITEM 1. BUSINESS The Company KLA Corporation and its majority-owned subsidiaries (“KLA” o",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 46415,
+        "end": 46915
+      }
+    },
+    {
+      "id": "2c1439b0daefe338",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 756,
+      "excerpt": "er countries and had over 3,500 U.S. and foreign patent applications pending. Our patents have various terms expiring through 2044. In addition, from time to time, we acquire license rights under U.S. and foreign patents and other proprietary rights of third parties, and we attempt to protect our trade secrets and other proprietary information through confidentiality and other agreements with our customers, suppliers, employees and consultants, and through other security measures. Although we co",
+      "sectionId": "item_1_management_believes_that_we_are_w",
+      "sectionHeader": "Item 1. Management believes that we are well positioned in the market with our industry-l",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 48542,
+        "end": 49042
+      }
+    },
+    {
+      "id": "51c02504c2b69d55",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 3451,
+      "excerpt": "perations, although the impact was not material in fiscal year 2025. There is uncertainty around the ultimate duration, size and substance of the tariffs, including reciprocal actions against the U.S. by other countries. For information about risks related to government regulations, see Item 1A “Risk Factors” in this Annual Report on Form 10-K. Environmental, Social and Governance Initiatives KLA strives to proactively manage and address the ESG topics most important to our stakeholders. Guided",
+      "sectionId": "item_1_management_believes_that_we_are_w",
+      "sectionHeader": "Item 1. Management believes that we are well positioned in the market with our industry-l",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 51237,
+        "end": 51796
+      }
+    },
+    {
+      "id": "c3a193f50265132d",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 4345,
+      "excerpt": "s to deliver long-term value for our stockholders and draw on our core values. We work across our global footprint to shape a more sustainable future in collaboration with our customers and suppliers. As part of our drive to be better, we have science-based targets to reduce emissions which were validated in 2024 by the Science Based Target Initiative (“SBTi”). Our targets include using 100% renewable electricity across our global operations by 2030, reducing our Scope 1 and 2 emissions by 50% b",
+      "sectionId": "item_1_management_believes_that_we_are_w",
+      "sectionHeader": "Item 1. Management believes that we are well positioned in the market with our industry-l",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 52131,
+        "end": 52631
+      }
+    },
+    {
+      "id": "df2a8ea077ec465a",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 8652,
+      "excerpt": "hrough exceptional training programs and professional development while providing our employees with a safe, secure and healthy environment that enables them to thrive and feel included and empowered. Our Core Values At KLA, our core values – demonstrating perseverance; striving to be better; being honest, forthright, and consistent; building high-performing teams; and being indispensable to our customers – serve as a foundation for our relationships with employees, customers, suppliers, and oth",
+      "sectionId": "item_1_management_believes_that_we_are_w",
+      "sectionHeader": "Item 1. Management believes that we are well positioned in the market with our industry-l",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 56438,
+        "end": 56938
+      }
+    },
+    {
+      "id": "8f974dd60215215f",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 10535,
+      "excerpt": "on review to ensure our total compensation is competitive and fair relative to our peers and internal standards. We link a significant portion of compensation to Company and business unit performance. A broad base of our employees is eligible for our long-term benefit program, to share in our success, through restricted stock units (“RSU”) and an Employee Stock Purchase Plan (“ESPP”). We also provide incentive bonus or profit sharing to employees. In addition to providing our employees with comp",
+      "sectionId": "item_1_management_believes_that_we_are_w",
+      "sectionHeader": "Item 1. Management believes that we are well positioned in the market with our industry-l",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 58321,
+        "end": 58821
+      }
+    },
+    {
+      "id": "0239db1c792ce089",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 8697,
+      "excerpt": "riffs or other trade restrictions and barriers (including those applied to our products, spare parts and services, or to parts and supplies that we purchase); 12 Table of Contents • Political instability, geopolitical tensions, natural disasters, legal or regulatory changes, acts of war such as the wars between Russia and Ukraine and the military conflicts in the Middle East and further escalation thereof, or terrorism in regions where we, our customers or our suppliers have operations or where",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 73697,
+        "end": 74256
+      }
+    },
+    {
+      "id": "ae393509f5cd5574",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 16634,
+      "excerpt": "ons. Additionally, the Chinese government has adopted, and may further adopt, new regulations, in response to U.S. government actions, which could adversely affect our ability to do business in China. We have controls and procedures designed to maintain compliance with U.S. and other applicable export control laws and regulations; however, we cannot guarantee that such controls and procedures will be successful in preventing violations or allegations of violations, of increasingly complex and of",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 81634,
+        "end": 82134
+      }
+    },
+    {
+      "id": "34f8e74f168dcdad",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 17629,
+      "excerpt": "of export privileges, suspension or debarment. Our employees, customers, suppliers or other third parties with whom we work may also engage in conduct for which the Company might be held responsible. We could face significant compliance, litigation or settlement costs and diversion of management’s attention from our business as a result. Further, the Company may be subject to negative publicity or reputational harm, resulting in reduced demand for our products, employee attrition and other negat",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 82630,
+        "end": 83130
+      }
+    },
+    {
+      "id": "1d6f027b0d0808b7",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 20263,
+      "excerpt": "customers in those regions to push out or cancel previously placed purchase orders. In addition, we have had to return deposits given to us by our customers upon cancellation of their purchase orders. Moreover, tariffs can make it difficult for us and our customers and suppliers to 14 Table of Contents make and execute business and capital equipment investment plans or increase supply chain complexity, which may have an impact on our ability to source the materials necessary to manufacture our p",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 85263,
+        "end": 85763
+      }
+    },
+    {
+      "id": "2670cf7d94a7b21c",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 22067,
+      "excerpt": "appropriate. However, there can be no assurance that licenses will be granted or, if granted, will be on acceptable terms or that costly litigation or other administrative proceedings will not occur. The inability to obtain necessary licenses or other rights on reasonable terms could seriously harm our results of operations and financial condition. Furthermore, we may potentially be subject to claims by customers, suppliers or other business partners, or by governmental law enforcement agencies,",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 87068,
+        "end": 87628
+      }
+    },
+    {
+      "id": "e7e57a8ae52abc5f",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 33778,
+      "excerpt": "regulations regarding ESG matters, including, but not limited to, climate change-related matters. Such regulatory approaches are not uniform, which may increase the cost and complexity of compliance. Addressing stakeholder expectations, including regulations, entails costs and any failure to successfully navigate such expectations may result in reputational harm, loss of customers or contracts, potential regulatory or investor engagement, or other adverse impacts to our business. Such ESG matter",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 98779,
+        "end": 99279
+      }
+    },
+    {
+      "id": "81f209e0bb00ac50",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 37519,
+      "excerpt": "perational resilience or fail to protect our data from cyber-related security breaches, or if there are delays or difficulties in enhancing business processes, we may experience operational difficulties (such as limitations on our ability to ship products), increased costs, manufacturing or service interruptions or delays, loss of IP rights or other sensitive data, quality and compliance issues, and challenges in managing our product inventory or recording and reporting financial and management",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 102519,
+        "end": 103078
+      }
+    },
+    {
+      "id": "6c17d8abba19e941",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 43760,
+      "excerpt": "amages to, third parties; reputational damage; costs to comply with regulatory inquiries or actions; data privacy issues; costs to rebuild our IT Systems or restore our Confidential Information; and increased cybersecurity protection and remediation costs. Cybersecurity incidents affecting our customers could result in substantial delays in our ability to ship to those customers or install our products, which could result in delays in revenue recognition or the cancellation of orders, and cybers",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 108760,
+        "end": 109260
+      }
+    },
+    {
+      "id": "d4c248f718cdd924",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 44680,
+      "excerpt": "esulting in its shipment delays to us for components we ordered, which in turn caused delays in some of our outbound shipments during the quarter. Similar events could cause disruptions in the future. We carry insurance that provides limited protection against the potential losses arising from a cybersecurity incident, but it will not likely cover all such losses, and the losses it does not cover may be significant. We rely upon certain critical information systems for our daily business operati",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 109680,
+        "end": 110180
+      }
+    },
+    {
+      "id": "83d7068a54e86e56",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 45589,
+      "excerpt": "ulties with our customer and supplier relationship management systems, could disrupt our operations and our ability to timely and accurately process and report key components of our financial results. Our enterprise resource planning (“ERP”) system is integral to our ability to accurately and efficiently maintain our books and records, record transactions, provide critical information to our management, and prepare our financial statements. Any disruptions or 18 Table of Contents difficulties th",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 110589,
+        "end": 111089
+      }
+    },
+    {
+      "id": "3de42db736d9084d",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 48090,
+      "excerpt": "ssible that the businesses we have acquired, as well as businesses we may acquire in the future, may perform worse than expected or prove to be more difficult to integrate and manage than anticipated. In addition, we may face other risks associated with acquisition transactions that may lead to a material adverse effect on our business and financial results, including: • We may have to devote unanticipated financial and management resources to acquired businesses; • The combination of businesses",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 113090,
+        "end": 113650
+      }
+    },
+    {
+      "id": "491cb44ef7ff77a3",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 49090,
+      "excerpt": "ities; • The customers, distributors, suppliers, employees and others with whom the companies we acquire have business dealings may have a potentially adverse reaction to the acquisition; • We may have difficulty implementing a cohesive framework of controls, procedures and policies appropriate for a larger, U.S.-based public company at companies that, prior to acquisition, may not have as robust controls, procedures and policies, particularly with respect to the effectiveness of cyber and infor",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 114090,
+        "end": 114590
+      }
+    },
+    {
+      "id": "5803f0001262ee56",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 49955,
+      "excerpt": "eseen obligations or liabilities in connection with acquisitions including, but not limited to, cybersecurity risks associated with integrating our networks or systems with those of acquired entities. At times, we may also enter into strategic alliances or collaborative arrangements with customers, suppliers or other business partners with respect to development of technology and IP. These projects typically require significant investments of capital and exchange of proprietary, highly sensitive",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 114955,
+        "end": 115515
+      }
+    },
+    {
+      "id": "da3cef110b1821f6",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 50861,
+      "excerpt": "ngements are inherently subject to significant risks, and the inability to effectively manage these risks could materially and adversely affect our business, financial condition and operating results. Disruption of our manufacturing facilities or other operations or those of our suppliers, or in the operations of our customers, due to climate change, earthquake, flood, other natural catastrophic events, public health crises or terrorism could result in cancellation of orders, delays in deliverie",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 115861,
+        "end": 116361
+      }
+    },
+    {
+      "id": "84f23c97dadacc5a",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 51574,
+      "excerpt": "nd China. In addition, our business is international in nature, with our sales, service and administrative personnel and our customers and suppliers located in numerous countries throughout the world. Operations at our manufacturing facilities and our assembly subcontractors and those of our suppliers, as well as our other operations and those of our customers, are subject to disruption for a variety of reasons, including work stoppages, acts of war, terrorism, public health crises, fire, earthq",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 116574,
+        "end": 117074
+      }
+    },
+    {
+      "id": "5c27806bc275bb68",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 52553,
+      "excerpt": "ibute to chronic changes such as sea-level rise or changes to meteorological or hydrological patterns that may also disrupt our or our suppliers’ operations or otherwise adversely impact our business. Such disruption has caused (as with the COVID-19 pandemic, for example) and could in the future cause inefficiencies in our workforce and delays in, among other things, shipments of products to our customers, our ability to perform services requested by our customers, the ability of our suppliers t",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 117553,
+        "end": 118053
+      }
+    },
+    {
+      "id": "76942d7bb2963963",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 56263,
+      "excerpt": "ups, including Hezbollah in Lebanon and Hamas in the Gaza Strip, have involved missile strikes against civilian targets in various parts of Israel and attacks on marine vessels traversing the Red Sea. Disruptions in shipping routes in the Red Sea could result in delays in shipping our products to customers, which could delay the timing of revenue recognition. In addition, some of our employees in Israel are obligated to perform annual reserve duty in the Israel Defense Forces, and may be called",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 121263,
+        "end": 121822
+      }
+    },
+    {
+      "id": "1576863dd24f45fe",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 57232,
+      "excerpt": "insurance costs, and cause international currency markets to fluctuate. Instability in any region could also have the same effects on our suppliers and their ability to timely deliver their products. Our insurance does not cover losses we suffer attributable to war. If international political instability and geopolitical tensions continue or increase in any region in which we do business, our business and results of operations could be harmed. We self-insure certain risks including earthquake ri",
+      "sectionId": "item_1a_risk_factors_a_description_of_fa",
+      "sectionHeader": "ITEM 1A. RISK FACTORS A description of factors that could materially affect our business,",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 122233,
+        "end": 122733
+      }
+    },
+    {
+      "id": "2edceecf9fd8d928",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 8880,
+      "excerpt": "er of risks specific to ongoing changes in the semiconductor industry, as a significant majority of our sales are our process control and yield management products sold to semiconductor manufacturers. The trends our management monitors in operating our business include the following: • The potential for reversal of the long-term historical trend of declining cost per transistor with each new generation of technological advancement within the semiconductor industry, and the adverse impact that su",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 135957,
+        "end": 136457
+      }
+    },
+    {
+      "id": "5d4aecc4ebbf8933",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 12608,
+      "excerpt": "nd business closures. In this environment, orders from a relatively limited number of manufacturers have accounted for, and are expected to continue to account for, a substantial portion of our sales. This increasing concentration exposes our business, financial condition and operating results to a number of risks, including the following: • The mix and type of customers, and sales to any single customer, may vary significantly from quarter to quarter and from year to year, which expose our busi",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 139685,
+        "end": 140185
+      }
+    },
+    {
+      "id": "0a0b3fe432363d14",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 13484,
+      "excerpt": "and operating results; • In a highly concentrated business environment, if a particular customer does not place an order, or if they delay or cancel orders, we may not be able to replace the business. Furthermore, because our process control and yield management products are configured to each customer’s specifications, any changes, delays or cancellations of orders may result in significant, non-recoverable costs; • As a result of this consolidation, the customers that survive the consolidation",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 140561,
+        "end": 141121
+      }
+    },
+    {
+      "id": "a3d78cf67cd037fb",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 15247,
+      "excerpt": "lenging economic environment during fiscal year 2009, we were (and, in some cases, continue to be) exposed to additional risks related to the continued financial viability of certain of our customers. To the extent our customers experience liquidity issues in the future, we may be required to incur additional credit losses with respect to receivables owed to us by those customers. In addition, customers with liquidity issues may be forced to reduce purchases of our equipment, delay deliveries of",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 142324,
+        "end": 142884
+      }
+    },
+    {
+      "id": "63f278d18ab8e896",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 16181,
+      "excerpt": "articular supplier’s process control and yield management equipment, the manufacturer generally relies upon that equipment for that specific production line application for an extended period of time. Accordingly, we expect it to be more difficult to sell our products to a given customer for that specific production line application and other similar production line applications if that customer initially selects a competitor’s equipment; and • Prices differ among the products we offer for diffe",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 143258,
+        "end": 143758
+      }
+    },
+    {
+      "id": "9bb165665fa9e5e5",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 21820,
+      "excerpt": "ntries may adopt laws and regulations related to AI. Such laws and regulations could cause us to incur greater compliance costs and limit the use of AI in the development of our products and services. Any failure or perceived failure by us to comply with such regulatory requirements could subject us to legal liabilities, damage our reputation, or otherwise have a material and adverse impact on our business. Risks Related to Our Business Model and Capital Structure If we do not develop and introd",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 148897,
+        "end": 149397
+      }
+    },
+    {
+      "id": "d50c2fe75b50344a",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 22648,
+      "excerpt": "rapid innovation of new solutions. The primary driver of technology advancement in the semiconductor industry has been to shrink the lithography that prints the circuit design on semiconductor chips. To the extent that driver slows, semiconductor manufacturers may delay investments in equipment, investigate more complex device architectures, use new materials and develop innovative fabrication processes. These and other evolving customer plans and needs require us to respond with continued devel",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 149726,
+        "end": 150226
+      }
+    },
+    {
+      "id": "b46612bd09211fd2",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 27386,
+      "excerpt": "s, may develop technologies and obtain patents relating to our business that are similar or superior to our technology or may design around the patents we own, which may adversely affect our business. In addition, we at times engage in collaborative technology development efforts with our customers and suppliers, and these collaborations may constitute a key component of certain of our ongoing technology and product R&D projects. The termination of any such collaboration, or delays caused by dis",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 154463,
+        "end": 154963
+      }
+    },
+    {
+      "id": "fbe24c03396d8985",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 28190,
+      "excerpt": "protection for certain proprietary software and documentation. However, we can give no assurance that our trademarks and copyrights will be upheld or successfully deter infringement by third parties. While patent, copyright and trademark protection for our IP is important, we believe our future success in highly dynamic markets is most dependent upon the technical competence and creative skills of our personnel. We attempt to protect our trade secrets and other proprietary information through co",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 155268,
+        "end": 155768
+      }
+    },
+    {
+      "id": "32bb7576aa8e2d49",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 29107,
+      "excerpt": "ccess to and distribution of our technology and proprietary information. Despite our efforts, internal or external parties may attempt to copy, disclose, obtain or misappropriate our IP or technology. In addition, former employees may seek employment with our customers, suppliers or competitors and there can be no assurance that the confidential nature of our proprietary information will be maintained in the course of such future employment. In addition, the laws of certain territories in which",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 156184,
+        "end": 156743
+      }
+    },
+    {
+      "id": "5bc075c6d0f8135e",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 31777,
+      "excerpt": "tion. Our business would be harmed if we do not receive parts sufficient in number and performance to meet our production requirements and product specifications in a timely and cost-effective manner. We use a wide range of materials in the production of our products, including custom electronic and mechanical components, and we use numerous suppliers to supply these materials. Generally, we do not have guaranteed supply arrangements with our suppliers. Because of the variability and uniqueness",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 158854,
+        "end": 159413
+      }
+    },
+    {
+      "id": "b0f48a126e4d7443",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 32711,
+      "excerpt": "key parts. Although we make reasonable efforts to ensure that parts are available from multiple suppliers, certain key parts are available only from a single supplier or a limited group of suppliers. Also, key parts we obtain from some of our suppliers incorporate the suppliers’ proprietary IP; in those cases, we are increasingly reliant on third parties for high-performance, high-technology components, which reduces the amount of control we have over the availability and protection of the techn",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 159789,
+        "end": 160289
+      }
+    },
+    {
+      "id": "2dc25cabe3fac174",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 33327,
+      "excerpt": "and are forced to discontinue operations, which is a heightened risk, especially during economic downturns, it could affect their ability to deliver parts and could result in delays for our products. Similarly, especially with respect to suppliers of high-technology components, our suppliers themselves have increasingly complex supply chains, and delays or disruptions at any stage of their supply chains may prevent us from obtaining parts in a timely manner and result in delays for our products,",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 160405,
+        "end": 160965
+      }
+    },
+    {
+      "id": "d77f048972fa346e",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 34193,
+      "excerpt": "components necessary to make our products because of restrictions placed on their access to rare earth minerals, our business, financial condition and results of operations could be materially harmed. Our operating results and business may be adversely impacted if we are unable to obtain parts to meet our production requirements and product specifications, or if we are able to do so only on unfavorable terms. Furthermore, a supplier may discontinue production of a particular part for any number",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 161270,
+        "end": 161829
+      }
+    },
+    {
+      "id": "f71fcbceea920b78",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 36806,
+      "excerpt": "nts Because our expenses are in most cases relatively fixed in the short term, any revenue shortfall below expectations could have an immediate and significant adverse effect on our operating results. Similarly, if we fail to manage our expenses effectively or otherwise fail to maintain rigorous cost controls, we could experience greater than anticipated expenses during an operating period, which would also negatively affect our results of operations. If we fail to operate our business consisten",
+      "sectionId": "item_1a_volatility_in_the_market_price_o",
+      "sectionHeader": "Item 1A. Volatility in the market price of our common stock could cause an investor in our",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 163883,
+        "end": 164383
+      }
+    },
+    {
+      "id": "7c23aacdde3a8b61",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 3732,
+      "excerpt": "ses, general corporate or other purposes; • An impairment of our ability to obtain additional financing in the future; and • Obligations to comply with restrictive and financial covenants as noted in the above risk factor and Note 8 “Debt” to our Consolidated Financial Statements. Our ability to satisfy our future expenses as well as our debt obligations will depend on our future performance, which will be affected by financial, business, economic, regulatory and other factors. Furthermore, our",
+      "sectionId": "item_1a_there_can_be_no_assurance_that_w",
+      "sectionHeader": "Item 1A. There can be no assurance that we will be able to manage any of these risks succe",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 170932,
+        "end": 171491
+      }
+    },
+    {
+      "id": "0517096a4ac05630",
+      "ticker": "KLAC",
+      "vendor": "Arm",
+      "charOffset": 7224,
+      "excerpt": "onship with those parties, costly and time-consuming litigation, or additional concessions or obligations being offered by us to resolve such disputes, or could impact our revenue or cost recognition. Any of these outcomes could materially and adversely affect our business, financial condition and results of operations. In addition, in our commercial agreements, from time to time in the normal course of business, we indemnify third parties with whom we enter into contractual relationships, inclu",
+      "sectionId": "item_1a_there_can_be_no_assurance_that_w",
+      "sectionHeader": "Item 1A. There can be no assurance that we will be able to manage any of these risks succe",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 174424,
+        "end": 174924
+      }
+    },
+    {
+      "id": "dc0041b96fcd54d0",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 15479,
+      "excerpt": "t-reduction actions or discontinue certain business operations, we may take additional, potentially material, restructuring charges related to, among other things, employee terminations or exit costs. We may also be required to write off additional inventory if our product build plans or demand for service inventory decline. Also, in the event that our lead times from suppliers increase (possibly due to the increasing complexity of the parts and components they provide) and the lead times demand",
+      "sectionId": "item_1a_there_can_be_no_assurance_that_w",
+      "sectionHeader": "Item 1A. There can be no assurance that we will be able to manage any of these risks succe",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 182679,
+        "end": 183179
+      }
+    },
+    {
+      "id": "045ea8d13dee58bf",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 1534,
+      "excerpt": "bersecurity incident response plan and processes for responding to cybersecurity incidents; and • Risk management processes based on our assessment of the respective risk profile of key third parties. We face risks from cybersecurity threats that, if realized, are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. See Part I Item 1A “Risk Factors – We depend on information technology for our business and are expo",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY Cybersecurity Risk Managem",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 191379,
+        "end": 191879
+      }
+    },
+    {
+      "id": "df1bf0b319c94e2e",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The following discussion of our financial condition and results of operations should be read in conjunction with our Consolidated Financial Statements and the related notes included in Item 8 “Financial Statements and Supplementary Data” in this Annual Report on Form 10-K. This discussion contains forward-looking statements, which involve risks and uncertainties. Our actual results could differ material",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 199739,
+        "end": 200239
+      }
+    },
+    {
+      "id": "1d214ed6f3219694",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 985,
+      "excerpt": "with the SEC. 35 Table of Contents EXECUTIVE SUMMARY We are a leading supplier of process control and yield management solutions and services for the semiconductor and related electronics industries. Our broad portfolio of inspection and metrology products, and related service, software and other offerings, support R&D and manufacturing of ICs, wafers and reticles. Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical and nanometric level",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 200725,
+        "end": 201285
+      }
+    },
+    {
+      "id": "8d275fee232a4251",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 1967,
+      "excerpt": "business has grown consistently each quarter on a year-over-year basis and accounted for approximately 22% of our total revenues in fiscal 2025, due to increases in the installed base of KLA systems. Our services revenue, which is generated largely from recurring “subscription-like” contracts, increases the value of our contract offerings and extension of system lifetimes resulting from growth in legacy semiconductor markets. Our semiconductor customers generally operate in one or both of the ma",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 201707,
+        "end": 202207
+      }
+    },
+    {
+      "id": "d82e5aef19119ca9",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 2947,
+      "excerpt": "to drive investments in AI. Increasing complexity and value of semiconductor packages, particularly for AI and HPC applications, is also driving significant growth in our advanced packaging business. The digitization of all industries, including 5G markets, advances in healthcare and industrial applications, together with the increasing adoption of electric vehicles and intelligence in automobiles, are powering leading-edge design node technology investments and capacity expansions. While we con",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 202687,
+        "end": 203187
+      }
+    },
+    {
+      "id": "e389b83ac9d8c548",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 3615,
+      "excerpt": "tensity. Push out or cancellation of deliveries to our customers could still cause earnings volatility, due to the timing of revenue recognition as well as increased risk of inventory-related charges. We are organized into three reportable segments, as follows: • Semiconductor Process Control: a comprehensive portfolio of inspection, metrology and data analytics products as well as related service offerings that help IC manufacturers achieve target yields throughout the semiconductor fabrication",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 203354,
+        "end": 203914
+      }
+    },
+    {
+      "id": "304f0ed4283b792a",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 4488,
+      "excerpt": "and other electronic components. A majority of our revenues are derived from outside the U.S., and include geographic regions such as China, Taiwan, Korea, Japan, Europe and Israel, and Rest of Asia. China remains a major region for manufacturing of legacy node logic and memory chips, adding to its role as the world’s largest consumer of ICs. Additionally, a significant portion of global PCB manufacturing has migrated to China. Chinese government initiatives around self-sustainability are propel",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 204228,
+        "end": 204728
+      }
+    },
+    {
+      "id": "80b7a470afdc149c",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 25039,
+      "excerpt": "tion of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates. A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue. The increase in total revenues by 24% in the fiscal year ended June 30, 2025 compared to the pri",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 224778,
+        "end": 225278
+      }
+    },
+    {
+      "id": "ca9025108775608b",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 26684,
+      "excerpt": "cations and the effects of changes in foreign currency exchange rates. For additional details, refer to Note 18 “Segment Reporting and Geographic Information” to our Consolidated Financial Statements. 40 Table of Contents The primary factors impacting the performance of our segment revenues for fiscal year 2025 compared to fiscal year 2024 are summarized as follows: • Revenue from our Semiconductor Process Control segment increased in fiscal 2025 compared to fiscal 2024 primarily due to a resump",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 226423,
+        "end": 226923
+      }
+    },
+    {
+      "id": "937451b12e8a8a43",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 27482,
+      "excerpt": "position solutions for advanced packaging and specialty semiconductor markets, increased in fiscal 2025 compared to fiscal 2024 primarily due to increased revenue from our advanced packaging business. • Revenue from our PCB and Component Inspection segment increased in fiscal 2025 as compared to fiscal 2024 primarily due to increased revenue from packaging products related to AI and a settlement received in the second quarter of fiscal 2025 related to cancellation of a technology project by a ma",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 227221,
+        "end": 227721
+      }
+    },
+    {
+      "id": "29c9603e4b4395b7",
+      "ticker": "KLAC",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 29213,
+      "excerpt": "s: Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd. Revenues by region Revenues by region, based on ship-to location, for the periods indicated were as follows: Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 China $ 4,042,567 33 % $ 4,196,727 43 % $ 2,867,443 27 % Taiwan 3,205,392 27 % 1,738,065 18 % 2,49",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 228952,
+        "end": 229452
+      }
+    },
+    {
+      "id": "084c867695671847",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 40901,
+      "excerpt": "hanges on cash and cash equivalents 8,044 (6,309) (13,988) Net increase in cash and cash equivalents $ 101,779 $ 49,264 $ 342,957 Cash, Cash Equivalents and Marketable Securities: As of June 30, 2025, our cash, cash equivalents and marketable securities totaled $4.49 billion, compared to the $4.50 billion balance as of June 30, 2024. Refer to below discussions of sources and uses of cash during the fiscal year. As of June 30, 2025, $1.11 billion of our $4.49 billion cash, cash equivalents, and m",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 240640,
+        "end": 241140
+      }
+    },
+    {
+      "id": "187aa6ebb9ed06e8",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 41841,
+      "excerpt": "ly 1%-22% of the funds repatriated. The amount of taxes due will depend on the amount and manner of the 44 Table of Contents repatriation, as well as the location from which the funds are repatriated. We have accrued state and foreign tax on the remaining cash of $1.04 billion of the $1.11 billion held by our foreign subsidiaries and branch offices. As such, these funds can be returned to the U.S. without accruing any additional U.S. tax expense. Cash Flows Provided by Operating Activities: We t",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 241580,
+        "end": 242080
+      }
+    },
+    {
+      "id": "781ae13446f71d26",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 49106,
+      "excerpt": "aries worldwide. Material Cash Requirements As of June 30, 2025, our aggregate principal debt obligation was $5.95 billion, which represents Senior Notes due from fiscal year 2029 to fiscal year 2063. Our principal note of $750.0 million was repaid in November 2024. Interest payments of $5.48 billion associated with all of our debt obligations are based on the principal amount multiplied by the applicable interest rate for each series of Senior Notes. For additional details, refer to Note 8 “Deb",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERAT",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 248845,
+        "end": 249345
+      }
+    },
+    {
+      "id": "440c98a6fffae783",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 11410,
+      "excerpt": "ing activities $ 5,500 $ 5,500 $ 11,000 Accrued purchases of land, property and equipment - investing activities $ 25,740 $ 13,849 $ 18,445 See accompanying notes to Consolidated Financial Statements. 54 Table of Contents KLA CORPORATION Notes to Consolidated Financial Statements NOTE 1— DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Description of Business and Principles of Consolidation. KLA Corporation and its majority-owned subsidiaries (“KLA” or the “Company” and als",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Consolidated Balance Sheets as of Jun",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 267920,
+        "end": 268420
+      }
+    },
+    {
+      "id": "838c24451acb30bc",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 33533,
+      "excerpt": "and process-enabling solutions for the semiconductor and related electronics industries, maintenance and support of all these products, installation and training services and the sale of spare parts. Our portfolio includes yield enhancement and production solutions for manufacturing wafers and reticles, ICs, packaging and PCBs, as well as comprehensive support and services across our installed base. Our solutions are generally not sold with a right of return, nor have we experienced significant",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Consolidated Balance Sheets as of Jun",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 290044,
+        "end": 290603
+      }
+    },
+    {
+      "id": "30f113ec1874695c",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 121080,
+      "excerpt": "d to $ 43.2 million, $ 39.4 million, and $ 37.3 million in the fiscal years ended June 30, 2025, 2024 and 2023, respectively. Employee benefit plans In addition to the profit-sharing plan and the U.S. 401(k), several of our foreign subsidiaries have retirement plans for their full-time employees, many of which are defined benefit plans. The assumptions used in calculating the obligations for the foreign plans depend on the local economic environment. Discount rates for the plans are derived by r",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Consolidated Balance Sheets as of Jun",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 377590,
+        "end": 378090
+      }
+    },
+    {
+      "id": "84944a77da2e1327",
+      "ticker": "KLAC",
+      "vendor": "KLA",
+      "charOffset": 137003,
+      "excerpt": "TE 16 — COMMITMENTS AND CONTINGENCIES Factoring. We have factoring agreements with financial institutions to sell certain of our trade receivables and promissory notes from customers without recourse. We do not believe we are at risk for any material losses as a result of these agreements. In addition, we periodically sell certain LC, without recourse, received from customers in payment for goods and services. The following table shows total receivables sold under factoring agreements and procee",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Consolidated Balance Sheets as of Jun",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 393513,
+        "end": 394013
+      }
+    },
+    {
+      "id": "7f3fd388a001be1e",
+      "ticker": "KLAC",
+      "vendor": null,
+      "charOffset": 137910,
+      "excerpt": "g the receivables that are sold. Purchase Commitments. We maintain commitments to purchase inventory from our suppliers as well as goods, services, and other assets in the ordinary course of business. Our estimate of our significant purchase commitments primarily for material, services, supplies and asset purchases is $ 2.42 billion as of June 30, 2025, a majority of which are due within the next 12 months. Actual expenditures will vary based upon the volume of the transactions and length of con",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Consolidated Balance Sheets as of Jun",
+      "form": "10-K",
+      "filingDate": "2025-08-08",
+      "type": "chunk",
+      "range": {
+        "start": 394420,
+        "end": 394920
+      }
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "ticker": "META",
+  "count": 50,
+  "generatedAt": "2026-05-29T05:38:07.063Z",
+  "entries": [
+    {
+      "id": "META-Arm-0",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 33926,
+      "excerpt": "…s is adequate relative to the expected lives of our products. Government Regulation We are subject to a variety of laws and regulations in the United States and abroad that involve matters central to our business, many of which are still evolving and being tested in courts, and could be interpreted in ways that could harm our business. These laws and regulations involve matters including privacy, data use, data combination, data protection and personal information, the provision of our services to younger users, biometrics, encryption, rights of publicity, content, integrity, intellectual property, advertising, marketing, distributi…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 33606,
+        "end": 34246
+      }
+    },
+    {
+      "id": "META-kw-0",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 36773,
+      "excerpt": "…, reducing company perks, shrinking our real estate footprint, and employee layoffs and restructurings. We make it a priority to treat outgoing employees with respect and provide a generous severance package. For U.S. employees, that includes severance payments, payment for all remaining paid time off, and restricted stock unit vesting through their last day on payroll, as well as certain continuing coverage of the cost of healthcare for employees and their families, career services with an external vendor, and immigration support. We offer similar support for outgoing employees outside of the…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 36573,
+        "end": 37233
+      }
+    },
+    {
+      "id": "META-kw-1",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 37078,
+      "excerpt": "…nd restricted stock unit vesting through their last day on payroll, as well as certain continuing coverage of the cost of healthcare for employees and their families, career services with an external vendor, and immigration support. We offer similar support for outgoing employees outside of the United States while taking into account local employment laws. 9 Table of Contents Employee Learning and Development We value our investment in growing and keeping a highly skilled workforce. We aim to make AI utilization core to the way we operate by providing our personnel access to AI tools and train…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 36879,
+        "end": 37479
+      }
+    },
+    {
+      "id": "META-kw-2",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 38886,
+      "excerpt": "…ts, Health, and Well-being We offer competitive compensation to attract and retain the best people, and we help care for our people so they can focus on our mission. Our employees' total compensation package includes market-competitive salary, bonuses or sales incentives, and equity. We generally offer full-time employees equity at the time of hire and through annual equity grants because we want them to be owners of the company and committed to our long-term success. Through Life@ Meta, our holistic approach to benefits, we continue to provide our employees and their dependents with resources…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 38686,
+        "end": 39346
+      }
+    },
+    {
+      "id": "META-Arm-1",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 47277,
+      "excerpt": "…ur outstanding capital stock by our founder, Chairman, and Chief Executive Officer (CEO). Risks Related to Our Product Offerings If we fail to retain existing users or add new users, or if our users decrease their level of engagement with our products, our revenue, financial results, and business may be significantly harmed. The size of our active user base and our users' level of engagement across our products are critical to our success. Our financial performance has been and will continue to be significantly determined by our success in adding, retaining, and engaging active users of our products that deliver ad impressions, part…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 46957,
+        "end": 47597
+      }
+    },
+    {
+      "id": "META-Arm-2",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 56080,
+      "excerpt": "…more markets from time to time, we will become increasingly dependent on our ability to maintain or increase levels of user engagement and monetization in order to grow revenue. We generate substantially all of our revenue from advertising. The loss of marketers, or reduction in spending by marketers, could seriously harm our business. Substantially all of our revenue is currently generated from marketers advertising on Facebook and Instagram. As is common in the industry, our marketers do not have long-term advertising commitments with us. Many of our marketers spend only a relatively small portion of their overall advertising budg…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 55760,
+        "end": 56400
+      }
+    },
+    {
+      "id": "META-Arm-3",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 57224,
+      "excerpt": "…ectively target ads, which has to some extent adversely affected, and will continue to adversely affect, our advertising business. If we are unable to provide marketers with a suitable return on investment, the demand for our ads may not increase, or may decline, in which case our revenue and financial results may be harmed. Our advertising revenue can also be adversely affected by a number of other factors, including: • decreases in user engagement, including time spent on our products; • our inability to continue to increase user access to and engagement with our products; • product changes or inventory management decisions we may…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 56904,
+        "end": 57604
+      }
+    },
+    {
+      "id": "META-Arm-4",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 71861,
+      "excerpt": "…rks, or standards. In the event that it is more difficult for our users to access and use our products on their mobile devices, or if our users choose not to access or use our products on their mobile devices or use mobile products that do not offer access to our products, our user growth and user engagement could be harmed. From time to time, we may also take actions regarding the distribution of our products or the operation of our business based on what we believe to be in our long-term best interests. Such actions may adversely affect our users and our relationships with the operators of mobile operating systems, handset manufac…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 71541,
+        "end": 72181
+      }
+    },
+    {
+      "id": "META-Arm-5",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 72593,
+      "excerpt": "…ere is no assurance that these actions will result in the anticipated long-term benefits. In the event that our users are adversely affected by these actions or if our relationships with such third parties deteriorate, our user growth, engagement, and monetization could be adversely affected and our business could be harmed. We have experienced challenges in operating with mobile operating systems, networks, technologies, products, and standards that we do not control, and any such occurrences in the future may negatively impact our user growth, engagement, and monetization on mobile devices, which may in turn materially and adverse…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 72273,
+        "end": 72913
+      }
+    },
+    {
+      "id": "META-Arm-6",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 75988,
+      "excerpt": "…ducts, and develop new features for existing products, and expect to continue to increase these investments. In particular, we expect our AI initiatives will require increased investment in infrastructure and headcount. If our investments are not successful longer-term, our business and financial performance could be harmed. There are significant risks involved in developing and deploying AI and there can be no assurance that the usage of AI will enhance our products or services or be beneficial to our business, including our efficiency or profitability. For example, our AI-related efforts, particularly those related to generative A…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 75668,
+        "end": 76308
+      }
+    },
+    {
+      "id": "META-Arm-7",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 76365,
+      "excerpt": "…and deploying AI and there can be no assurance that the usage of AI will enhance our products or services or be beneficial to our business, including our efficiency or profitability. For example, our AI-related efforts, particularly those related to generative AI and superintelligence, subject us to risks related to harmful or illegal content, accuracy, misinformation and deepfakes (including related to elections), bias, discrimination, toxicity, consumer protection, products liability, intellectual property infringement or misappropriation, defamation, data privacy, cybersecurity, and sanctions and export controls, among others. I…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "range": {
+        "start": 76047,
+        "end": 76746
+      }
+    },
+    {
+      "id": "META-kw-3",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 79008,
+      "excerpt": "…may have (or in the future may obtain) patents or other proprietary rights that would prevent, limit, or interfere with our ability to make, use, or sell our own AI features. Our AI initiatives also depend on our access to data to effectively train our models, which is subject to risks related to the availability or costs of data, regulatory or other legal developments, or other factors, as well as our ability to attract and retain specialized personnel in a limited and competitive talent market. Further, our ability to continue to develop and effectively deploy AI technologies is dependent o…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 78809,
+        "end": 79408
+      }
+    },
+    {
+      "id": "META-kw-4",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 86286,
+      "excerpt": "…participants in the metaverse or develop products that operate effectively with metaverse technologies, products, systems, networks, or standards. For example, some of our consumer hardware products depend on the ability to operate with third-party mobile platforms and these platforms do not necessarily provide our products with the same levels of interoperability that they provide to their own competing products. In addition, our Reality Labs efforts may also divert resources and management attention from other areas of our business. We expect to continue to make significant investments in v…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 86088,
+        "end": 86687
+      }
+    },
+    {
+      "id": "META-kw-5",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 121269,
+      "excerpt": "…geopolitical events such as international conflicts, tariffs, sanctions, export or import controls, and other measures that restrict international trade, could reduce or eliminate the ability of our suppliers, manufacturers, or other third-party providers to continue their operations to manufacture, or limit or eliminate our ability to purchase, key components of our technical infrastructure. In addition, there may be issues related to this infrastructure that are not identified during the testing phases of design and implementation, which may only become evident after we have started to full…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 121071,
+        "end": 121730
+      }
+    },
+    {
+      "id": "META-kw-6",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 139982,
+      "excerpt": "…and in the future may have, quality issues resulting from the design or manufacture of the products, or from the software used in the products. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Our brand and financial results could be adversely affected by any such quality issues, other failures to meet our customers' expectations, or findings of our consumer hardware products to be defective. We rely on third parties to manufacture and manage the logistics of transporting and distributing our consumer hardware products, which subjects us t…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 139783,
+        "end": 140382
+      }
+    },
+    {
+      "id": "META-kw-7",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 140019,
+      "excerpt": "…issues resulting from the design or manufacture of the products, or from the software used in the products. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Our brand and financial results could be adversely affected by any such quality issues, other failures to meet our customers' expectations, or findings of our consumer hardware products to be defective. We rely on third parties to manufacture and manage the logistics of transporting and distributing our consumer hardware products, which subjects us to a number of risks. The manufacturin…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 139819,
+        "end": 140419
+      }
+    },
+    {
+      "id": "META-kw-8",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 141682,
+      "excerpt": "…, sanctions, export controls, and other measures that restrict international trade) that subject us to supply shortages, increased costs, or supply chain or logistics disruptions. We also require the suppliers and business partners of our consumer hardware products to comply with laws and certain company policies regarding sourcing practices and standards on labor, trade compliance, health and safety, the environment, and business ethics, but we do not control them or their practices and standards and have experienced violations of these requirements from time to time. If any supplier or busin…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 141482,
+        "end": 142082
+      }
+    },
+    {
+      "id": "META-kw-9",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 142065,
+      "excerpt": "…e, health and safety, the environment, and business ethics, but we do not control them or their practices and standards and have experienced violations of these requirements from time to time. If any supplier or business partner violates laws, fails to implement changes in accordance with newly enacted laws, or implements practices or standards regarded as unethical, corrupt, or non-compliant, we could experience supply chain disruptions, government action or fines, canceled orders, or damage to our reputation. We face inventory risk with respect to our consumer hardware products. We are expos…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 141866,
+        "end": 142466
+      }
+    },
+    {
+      "id": "META-kw-10",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 143397,
+      "excerpt": "…meeting the consumer demand for our products. In addition, when we begin selling or manufacturing a new consumer hardware product or enter new international regions, it may be difficult to establish vendor relationships, determine appropriate product or component selection, and accurately forecast demand. The acquisition of certain types of inventory or components may require significant lead-time and prepayment and they may not be returnable. 31 Table of Contents Any one of the foregoing factors may adversely affect our operating results. We are involved in numerous class action lawsuits and…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 143198,
+        "end": 143857
+      }
+    },
+    {
+      "id": "META-kw-11",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 160658,
+      "excerpt": "…ect our results of operations. The loss of one or more of our key personnel, or our failure to attract and retain other highly qualified personnel in the future, could harm our business. We currently depend on the continued services and performance of our key personnel, including Mark Zuckerberg. Mr. Zuckerberg and certain other members of management participate in various high-risk activities, such as combat sports, extreme sports, and recreational aviation, which carry the risk of serious injury and death. If Mr. Zuckerberg were to become unavailable for any reason, there could be a material…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 160458,
+        "end": 161118
+      }
+    },
+    {
+      "id": "META-kw-12",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 165261,
+      "excerpt": "…specific number of shares of our Class A common stock. The specific timing and amount of any share repurchases, and the specific timing and amount of any 35 Table of Contents dividend payments, will depend on prevailing share prices, general economic and market conditions, company performance, and other considerations. We cannot guarantee that the repurchase program will be fully consummated or that it will enhance long-term stockholder value. The repurchase program and dividend payments could affect the trading price of our stock and increase volatility, and any announcement of a termination…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 165062,
+        "end": 165721
+      }
+    },
+    {
+      "id": "META-kw-13",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 212555,
+      "excerpt": "…prevent or disable undesirable activities on our platform, may also be unsuccessful due to software bugs, misconfigurations, vulnerabilities, or other technical malfunctions; employee, contractor, or vendor error or malfeasance; social engineering or other cyber-attacks directed towards our personnel or their access; misuse of company data or systems by our personnel; defects or vulnerabilities in our vendors' information technology systems or offerings; government exploitation or surveillance; breaches of physical security of our facilities, technical infrastructure, or other equipment; or ot…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 212355,
+        "end": 212955
+      }
+    },
+    {
+      "id": "META-kw-14",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 212760,
+      "excerpt": "…r error or malfeasance; social engineering or other cyber-attacks directed towards our personnel or their access; misuse of company data or systems by our personnel; defects or vulnerabilities in our vendors' information technology systems or offerings; government exploitation or surveillance; breaches of physical security of our facilities, technical infrastructure, or other equipment; or other threats that evolve. In addition, other parties may attempt to fraudulently or maliciously induce employees, contractors, vendors, or users to disclose information in order to gain access to our data o…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 212601,
+        "end": 213121
+      }
+    },
+    {
+      "id": "META-kw-15",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 213081,
+      "excerpt": "…ity of our facilities, technical infrastructure, or other equipment; or other threats that evolve. In addition, other parties may attempt to fraudulently or maliciously induce employees, contractors, vendors, or users to disclose information in order to gain access to our data or our users' data. Our AI initiatives and other efforts to develop and launch new features, products, and services in a timely manner may introduce additional risks and vulnerabilities that are not fully mitigated. In particular, our efforts to develop and deploy AI models, internal and third-party AI tools, and other A…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 212881,
+        "end": 213481
+      }
+    },
+    {
+      "id": "META-kw-16",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 214505,
+      "excerpt": "…dents, or that our remediation 43 Table of Contents efforts will be successful. Our business and operations span numerous geographies around the world and involve thousands of employees, contractors, vendors, developers, partners, and other third parties, including AI and cloud services. At any given time, we face known and unknown cybersecurity risks and threats that are not fully mitigated, and we discover vulnerabilities in our security efforts. In addition, some of our developers or other partners, such as those that help us measure the effectiveness of ads, may receive or store informatio…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 214305,
+        "end": 214905
+      }
+    },
+    {
+      "id": "META-kw-17",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 220058,
+      "excerpt": "…tware, and the operating systems and browsers which users rely on to run our applications and access our systems), that is highly technical and complex. In addition, our products and internal systems depend on the ability of such software and hardware to store, retrieve, process, and manage immense amounts of data. The software and hardware on which we rely has contained, and will in the future contain, errors, bugs, or vulnerabilities, and our systems are subject to certain technical limitations that may compromise our ability to meet our objectives. Some errors, bugs, or vulnerabilities inhe…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 219858,
+        "end": 220458
+      }
+    },
+    {
+      "id": "META-kw-18",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 239534,
+      "excerpt": "…ion, storage, processing, and transmission of a large amount of data. In addition, our business and operations span numerous geographies around the world, involve thousands of employees, contractors, vendors, developers, 48 Table of Contents partners, and other third parties, and rely on software and hardware that is highly technical and complex. Our cybersecurity environment continues to evolve, including as we develop and deploy AI models, tools, and other applications and increase our use of public cloud and other third-party services. We maintain an information security program that is com…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 239334,
+        "end": 239934
+      }
+    },
+    {
+      "id": "META-kw-19",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 318492,
+      "excerpt": "…le price for differences such as, but not limited to, rights and obligations, control premium, liquidity, or principal or most advantageous markets. The identification of observable transactions will depend on the timely reporting of these transactions from our investee companies, which may occur in a period subsequent to when the transactions take place. Therefore, our fair value adjustment for these observable transactions may occur in a period subsequent to when the transaction actually occurred. For additional information, see Note 5 — Non-Marketable Equity Investments of the accompanying…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 318292,
+        "end": 318951
+      }
+    },
+    {
+      "id": "META-kw-20",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 346505,
+      "excerpt": "…te amount of $26.26 billion. As of December 31, 2025, $25.03 billion remained available and authorized for repurchases. The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price, general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended. Our share repurchase program may be suspended…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 346306,
+        "end": 346966
+      }
+    },
+    {
+      "id": "META-kw-21",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 476602,
+      "excerpt": "…on, including excise taxes. As of December 31, 2025, $ 25.03 billion remained available and authorized for repurchases. The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price, general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended. Our share repurchase program may be suspended…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 476402,
+        "end": 477002
+      }
+    },
+    {
+      "id": "2fb36d749a62c88b",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 17980,
+      "excerpt": "e of benefits, including many learning and development resources. From time to time, we implement organizational changes to pursue greater efficiency and realign our business and strategic priorities. For example, we have previously undertaken cost reduction efforts such as scaling back budgets, reducing company perks, shrinking our real estate footprint, and employee layoffs and restructurings. We make it a priority to treat outgoing employees with respect and provide a generous severance packa",
+      "sectionId": "item_1_business_overview_our_mission_is_",
+      "sectionHeader": "Item 1. Business Overview Our mission is to build the future of human connection and the",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 36278,
+        "end": 36778
+      }
+    },
+    {
+      "id": "cba2196e690fde9e",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 19828,
+      "excerpt": "ar to help us understand how employees feel about working at Meta and what we can do to improve their experience. Our surveys help us measure company, manager, team, and personal experience over time. Further, our more frequent surveys, such as those that have been administered daily to an ongoing random sample of employees, allow us to measure real-time sentiment around emerging events and company changes. These surveys are designed to invite feedback and actionable suggestions, inform decision",
+      "sectionId": "item_1_business_overview_our_mission_is_",
+      "sectionHeader": "Item 1. Business Overview Our mission is to build the future of human connection and the",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 38126,
+        "end": 38626
+      }
+    },
+    {
+      "id": "f894c7aaaddb6277",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 35307,
+      "excerpt": "volving. We may also have to expend resources to adapt to new legal frameworks, and adjust our offerings in certain jurisdictions if the legal frameworks on AI are not consistent across jurisdictions. Further, we face significant competition from other companies that are developing their own AI features and technologies, including competition from AI features and technologies that may be similar or superior to our technologies or more cost-effective to develop and deploy, or that otherwise achie",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 78191,
+        "end": 78691
+      }
+    },
+    {
+      "id": "9618b9e573311b05",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 42670,
+      "excerpt": "s uncertain. We regularly evaluate our product roadmaps and make significant changes as our understanding of the technological challenges and market landscape and our product ideas and designs evolve. In addition, we have relatively limited experience with consumer hardware products and virtual and augmented reality technology, which may enable other companies to compete more effectively than us. We may be unsuccessful in our research and product development efforts, including if we are unable t",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 85554,
+        "end": 86054
+      }
+    },
+    {
+      "id": "d0e3613b2e1a7376",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 77905,
+      "excerpt": "rtain third-party equipment and components for our technical infrastructure that are manufactured by a small number of third parties, often with significant operations in a single region such as Asia. Any of the foregoing delays or disruptions, including actions by governments or geopolitical events such as international conflicts, tariffs, sanctions, export or import controls, and other measures that restrict international trade, could reduce or eliminate the ability of our suppliers, manufactu",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 120789,
+        "end": 121289
+      }
+    },
+    {
+      "id": "b6d759abc0d096e6",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 96023,
+      "excerpt": ", and other laws, rules, and regulations. If we are unable to expand internationally and manage the complexity of our global operations successfully, our financial results could be adversely affected. We also may be required to or elect to cease or modify our operations or the offering of our products and services in certain regions, including as a result of the risks described above, which could adversely affect our business, user growth and engagement, and financial results. We face design, ma",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 138907,
+        "end": 139407
+      }
+    },
+    {
+      "id": "8e8bdc13fc174762",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 96945,
+      "excerpt": "ulting from the design or manufacture of the products, or from the software used in the products. Sometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. Our brand and financial results could be adversely affected by any such quality issues, other failures to meet our customers' expectations, or findings of our consumer hardware products to be defective. We rely on third parties to manufacture and manage the logistics of transporting and distributin",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 139829,
+        "end": 140329
+      }
+    },
+    {
+      "id": "97cedcd5ff93c38c",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 98577,
+      "excerpt": "al conflicts, tariffs, sanctions, export controls, and other measures that restrict international trade) that subject us to supply shortages, increased costs, or supply chain or logistics disruptions. We also require the suppliers and business partners of our consumer hardware products to comply with laws and certain company policies regarding sourcing practices and standards on labor, trade compliance, health and safety, the environment, and business ethics, but we do not control them or their",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 141461,
+        "end": 142020
+      }
+    },
+    {
+      "id": "3b63ba8a13c35669",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 100159,
+      "excerpt": "void overstocking or understocking consumer hardware products we may sell, from time to time we have experienced difficulties in accurately predicting and meeting the consumer demand for our products. In addition, when we begin selling or manufacturing a new consumer hardware product or enter new international regions, it may be difficult to establish vendor relationships, determine appropriate product or component selection, and accurately forecast demand. The acquisition of certain types of in",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 143043,
+        "end": 143543
+      }
+    },
+    {
+      "id": "6243d4a81e529dee",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 116984,
+      "excerpt": "umstances indicate the carrying value may not be recoverable, such as a decline in stock price and market capitalization. We test goodwill for impairment at the reporting unit level at least annually. If such goodwill or intangible assets are deemed to be impaired, an impairment loss equal to the amount by which the carrying amount exceeds the fair value of the assets would be recognized. We may be required to record a significant charge in our financial statements during the period in which any",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 159868,
+        "end": 160428
+      }
+    },
+    {
+      "id": "407b1ba8eaa816c7",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 121626,
+      "excerpt": "h may not always be in the interests of our stockholders generally. We cannot guarantee that our share repurchase program will be fully consummated or that it will enhance long-term stockholder value. Share repurchases and dividend payments could also increase the volatility of the trading price of our stock and will diminish our cash reserves. Although our board of directors has authorized a share repurchase program that does not have an expiration date, the program does not obligate us to repu",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 164510,
+        "end": 165010
+      }
+    },
+    {
+      "id": "922ee6e78636f3fc",
+      "ticker": "META",
+      "vendor": "Arm",
+      "charOffset": 169192,
+      "excerpt": "ience or otherwise adversely affect users, cause users or marketers to lose confidence and trust in our products, impair our internal systems or product development, or result in financial harm to us. Our efforts to protect our company data or the information we receive, and to prevent or disable undesirable activities on our platform, may also be unsuccessful due to software bugs, misconfigurations, vulnerabilities, or other technical malfunctions; employee, contractor, or vendor error or malfe",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 212076,
+        "end": 212576
+      }
+    },
+    {
+      "id": "71580f94adf213ac",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 170094,
+      "excerpt": ". In addition, other parties may attempt to fraudulently or maliciously induce employees, contractors, vendors, or users to disclose information in order to gain access to our data or our users' data. Our AI initiatives and other efforts to develop and launch new features, products, and services in a timely manner may introduce additional risks and vulnerabilities that are not fully mitigated. In particular, our efforts to develop and deploy AI models, internal and third-party AI tools, and othe",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 212978,
+        "end": 213478
+      }
+    },
+    {
+      "id": "8fddb1a9862bb8e6",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 170789,
+      "excerpt": "tual property including source code, model weights, and other assets. Cyber-attacks continue to evolve in sophistication and volume, and inherently may be difficult to detect for long periods of time. Although we have developed systems and processes that are designed to protect our data and user data, to reduce the risk of data loss or misuse, to disable undesirable accounts and activities on our platform, and to reduce the risk of or detect security breaches, such measures will not provide abso",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 213673,
+        "end": 214173
+      }
+    },
+    {
+      "id": "fc5b8831f604970a",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 176926,
+      "excerpt": "s, AI technologies and services, open source software, and the operating systems and browsers which users rely on to run our applications and access our systems), that is highly technical and complex. In addition, our products and internal systems depend on the ability of such software and hardware to store, retrieve, process, and manage immense amounts of data. The software and hardware on which we rely has contained, and will in the future contain, errors, bugs, or vulnerabilities, and our sys",
+      "sectionId": "item_1a_risk_factors_certain_factors_may",
+      "sectionHeader": "Item 1A. Risk Factors Certain factors may have a material adverse effect on our business,",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 219810,
+        "end": 220310
+      }
+    },
+    {
+      "id": "3503b98f77143b5d",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity At Meta, cybersecurity risk management is an important part of our overall risk management efforts. Our industry is prone to cybersecurity threats and attacks, and we regularly experience cybersecurity incidents of varying degrees. We believe we are a particularly attractive target as a result of our prominence and scale, the types and volume of personal data and content on our systems, and the evolving nature of our products and se",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity At Meta, cybersecurity ris",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 238753,
+        "end": 239253
+      }
+    },
+    {
+      "id": "09d23141859392d9",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 29043,
+      "excerpt": "ity investments using the market approach and/or the income approach and recognize impairment loss in our consolidated statements of income if the estimated fair value is less than the carrying value. For equity method investments, an impairment loss is recognized when the impairment is considered other-than-temporary. In addition, under the measurement alternative, determining whether another non-marketable equity investment of the same issuer is similar to the non-marketable equity investment",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 317552,
+        "end": 318111
+      }
+    },
+    {
+      "id": "2aa94479dede6f06",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 29940,
+      "excerpt": "tification of observable transactions will depend on the timely reporting of these transactions from our investee companies, which may occur in a period subsequent to when the transactions take place. Therefore, our fair value adjustment for these observable transactions may occur in a period subsequent to when the transaction actually occurred. For additional information, see Note 5 — Non-Marketable Equity Investments of the accompanying notes to the consolidated financial statements included i",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 318449,
+        "end": 318949
+      }
+    },
+    {
+      "id": "e1f0e04e78fbba6a",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 57624,
+      "excerpt": "ommenced in January 2017 and does not have an expiration date. In 2025, we repurchased and subsequently retired 40 million shares of our Class A common stock for an aggregate amount of $26.26 billion. As of December 31, 2025, $25.03 billion remained available and authorized for repurchases. The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price, general business and market conditions, and other investment opportunities. Sha",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 346133,
+        "end": 346633
+      }
+    },
+    {
+      "id": "82aabb208dd1aa76",
+      "ticker": "META",
+      "vendor": null,
+      "charOffset": 120958,
+      "excerpt": "ass A common stock, which commenced in January 2017 and does not have an expiration date. As of December 31, 2024, $ 51.28 billion remained available and authorized for repurchases under this program. In 2025, we repurchased and subsequently retired 40 million shares of our Class A common stock for an aggregate amount of $ 26.26 billion, including excise taxes. As of December 31, 2025, $ 25.03 billion remained available and authorized for repurchases. The timing and actual number of shares repur",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data META PLATFORMS, INC. INDEX TO CONSOLI",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 476066,
+        "end": 476566
+      }
+    }
+  ]
+}

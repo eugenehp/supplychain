@@ -1,0 +1,59 @@
+{
+  "processedAt": "2026-05-28T22:45:10.199Z",
+  "companies": [
+    {
+      "ticker": "NVDA",
+      "chunks": 392,
+      "vendors": 206,
+      "valid": true
+    },
+    {
+      "ticker": "TSM",
+      "chunks": 639,
+      "vendors": 168,
+      "valid": true
+    },
+    {
+      "ticker": "ASML",
+      "chunks": 1173,
+      "vendors": 1748,
+      "valid": true
+    },
+    {
+      "ticker": "AMAT",
+      "chunks": 148,
+      "vendors": 128,
+      "valid": true
+    },
+    {
+      "ticker": "LRCX",
+      "chunks": 380,
+      "vendors": 285,
+      "valid": true
+    },
+    {
+      "ticker": "KLAC",
+      "chunks": 520,
+      "vendors": 245,
+      "valid": true
+    },
+    {
+      "ticker": "SNPS",
+      "chunks": 478,
+      "vendors": 243,
+      "valid": true
+    },
+    {
+      "ticker": "CDNS",
+      "chunks": 514,
+      "vendors": 624,
+      "valid": true
+    },
+    {
+      "ticker": "MU",
+      "chunks": 418,
+      "vendors": 168,
+      "valid": true
+    }
+  ]
+}

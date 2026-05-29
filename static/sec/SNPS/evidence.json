@@ -1,0 +1,1731 @@
+{
+  "ticker": "SNPS",
+  "count": 118,
+  "generatedAt": "2026-05-29T05:38:08.795Z",
+  "entries": [
+    {
+      "id": "SNPS-Synopsys-0",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 383,
+      "excerpt": "…C. 20549 FORM 10-K (Mark One) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended October 31 , 2025 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to Commission File Number 0-19807 SYNOPSYS, INC. (Exact name of registrant as specified in its charter) Delaware 56-1546236 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 675 Almanor Avenue 94085 Sunnyvale , California (Address of principal executive offices) (Zip Code) ( 650 ) 584-5000 (Registrant’s…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 63,
+        "end": 763
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-1",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 5117,
+      "excerpt": "…s 2026 Annual Meeting of Stockholders, scheduled to be held on April 16, 2026, are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. Except as expressly incorporated by reference, the registrant’s Proxy Statement shall not be deemed to be part of this report. Table of Contents SYNOPSYS, INC. ANNUAL REPORT ON FORM 10-K Fiscal year ended October 31, 2025 TABLE OF CONTENTS Page No. PART I Item 1. Business 3 Item 1A. Risk Factors 15 Item 1B. Unresolved Staff Comments 29 Item 1C. Cybersecurity 29 Item 2. Properties 30 Item 3. Legal Proceedings 31 Item 4. Mine Safety Disclosures 31 PART II Item 5.…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 4797,
+        "end": 5497
+      }
+    },
+    {
+      "id": "SNPS-Ansys-0",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 7420,
+      "excerpt": "…te,” “expect,” “intend,” “believe,” “estimate,” “project,” “continue,” “forecast,” “likely,” “potential,” “seek,” or the negatives of such terms and similar expressions are intended to identify forward-looking statements. This Form 10-K includes, among others, forward-looking statements regarding: • our acquisition of ANSYS, Inc. (the Ansys Merger), and its expected impact; • business and market outlook, opportunities, strategies, technological trends, such as artificial intelligence, and initiatives and opportunities, including among other things, our reallocation of resources in our Design IP segment to higher growth opportunities…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 7100,
+        "end": 7740
+      }
+    },
+    {
+      "id": "SNPS-Ansys-1",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 7437,
+      "excerpt": "…ntend,” “believe,” “estimate,” “project,” “continue,” “forecast,” “likely,” “potential,” “seek,” or the negatives of such terms and similar expressions are intended to identify forward-looking statements. This Form 10-K includes, among others, forward-looking statements regarding: • our acquisition of ANSYS, Inc. (the Ansys Merger), and its expected impact; • business and market outlook, opportunities, strategies, technological trends, such as artificial intelligence, and initiatives and opportunities, including among other things, our reallocation of resources in our Design IP segment to higher growth opportunities; • the potential…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 7118,
+        "end": 7758
+      }
+    },
+    {
+      "id": "SNPS-kw-0",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 8612,
+      "excerpt": "…ability to successfully compete in the markets in which we serve; • our license mix, business model and variability in our revenue; • the continuation of current industry trends towards customer and vendor consolidation, and the impact of such consolidation; • the completion of development of our unfinished products, the further development or integration of our existing products or the creation of joint solutions, including as a result of the Ansys Merger; • the status or expected outcome of litigation and/or regulatory investigations; • our ability to protect our intellectual property; • ou…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 8413,
+        "end": 9012
+      }
+    },
+    {
+      "id": "SNPS-Ansys-2",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 8861,
+      "excerpt": "…ue; • the continuation of current industry trends towards customer and vendor consolidation, and the impact of such consolidation; • the completion of development of our unfinished products, the further development or integration of our existing products or the creation of joint solutions, including as a result of the Ansys Merger; • the status or expected outcome of litigation and/or regulatory investigations; • our ability to protect our intellectual property; • our ability to attract and retain senior management and key employees worldwide; • the impact of tax laws and changes in such laws on our business; and • our cash, cash eq…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 8541,
+        "end": 9181
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-2",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 10479,
+      "excerpt": "…no obligation to update publicly any forward-looking statements, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. All subsequent written or oral forward-looking statements attributable to Synopsys, Inc. or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. Readers are urged to carefully 1 Table of Contents review and consider the various disclosures made in this report and in other documents we file from time to time with the Securities and Exchange Co…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 10159,
+        "end": 10799
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-3",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 11747,
+      "excerpt": "…iscal year 2025, which began on November 3, 2024. Following this change, our fiscal quarters end on January 31, April 30, July 31 and October 31 of each year. For presentation purposes, this Annual Report refers to the closest calendar month end. 2 Table of Contents PART I Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is the leader in engineering solutions from silicon to systems, enabling customers to rapidly innovate AI-powered products. We deliver trusted and comprehensive solutions spanning silicon design, silicon intellectual property (IP), simulation and analysis (S&A) as well as design…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 11427,
+        "end": 12127
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-4",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 11763,
+      "excerpt": "…which began on November 3, 2024. Following this change, our fiscal quarters end on January 31, April 30, July 31 and October 31 of each year. For presentation purposes, this Annual Report refers to the closest calendar month end. 2 Table of Contents PART I Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is the leader in engineering solutions from silicon to systems, enabling customers to rapidly innovate AI-powered products. We deliver trusted and comprehensive solutions spanning silicon design, silicon intellectual property (IP), simulation and analysis (S&A) as well as design services. We pa…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 11444,
+        "end": 12083
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-5",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 13011,
+      "excerpt": "…ware used to validate the electronic systems that incorporate chips and the software that runs on them, including cloud-based digital and analog design flow to boost chip-design development productivity. We also provide technical services and support to help our customers develop advanced chips and electronic systems. Synopsys is also the global leader in engineering S&A software. Our Ansys ® solutions portfolio is widely used by engineers, designers, researchers and students across a broad spectrum of industries and academia, including high-tech, aerospace and defense, automotive, energy, industrial equipment, materials and chemica…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 12691,
+        "end": 13331
+      }
+    },
+    {
+      "id": "SNPS-Ansys-3",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 13079,
+      "excerpt": "…and the software that runs on them, including cloud-based digital and analog design flow to boost chip-design development productivity. We also provide technical services and support to help our customers develop advanced chips and electronic systems. Synopsys is also the global leader in engineering S&A software. Our Ansys ® solutions portfolio is widely used by engineers, designers, researchers and students across a broad spectrum of industries and academia, including high-tech, aerospace and defense, automotive, energy, industrial equipment, materials and chemicals, consumer products, healthcare and construction. These products e…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 12759,
+        "end": 13399
+      }
+    },
+    {
+      "id": "SNPS-kw-1",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 14033,
+      "excerpt": "…mponents of larger chip designs to reduce development risk and speed time to market. Our high quality, silicon-proven semiconductor IP includes logic libraries, embedded memories, wired interface IP, memory interface IP, security IP, and embedded processors. To accelerate IP integration and silicon bring-up, our IP Accelerated initiative provides architecture design expertise, customized IP subsystems, hardening, and signal and power integrity analysis. These products and services are part of our Design IP segment. Corporate Information Our headquarters are located at 675 Almanor Avenue, Sunny…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 13833,
+        "end": 14433
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-6",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 14542,
+      "excerpt": "…d IP subsystems, hardening, and signal and power integrity analysis. These products and services are part of our Design IP segment. Corporate Information Our headquarters are located at 675 Almanor Avenue, Sunnyvale, California 94085, and our headquarters’ telephone number is (650) 584-5000. Our website is https://www.synopsys.com/. We have 189 offices worldwide. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements, including those relating to our Annual Meeting of Stockholders, and any amendments to such reports or other information filed or furnished pursuant to Section 13(a…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 14222,
+        "end": 14862
+      }
+    },
+    {
+      "id": "SNPS-Synopsys-7",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 14977,
+      "excerpt": "…nt Reports on Form 8-K, Proxy Statements, including those relating to our Annual Meeting of Stockholders, and any amendments to such reports or other information filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available through the Investor Relations page of our website ( https://investor.synopsys.com/overview/default.aspx ) free of charge as soon as reasonably practicable after we file them with, or furnish them to, the SEC ( www.sec.gov ). We use our Investor Relations page as a routine channel for distribution of important information, including, among other things, news releases, investor presentati…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 14657,
+        "end": 15297
+      }
+    },
+    {
+      "id": "SNPS-kw-2",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 16140,
+      "excerpt": "…ip and system design companies around the world. These developments are accompanied by increasing complexity. It is now common for a single chip to combine many components (processor, communications, memory, custom logic, input/output) and embedded software into a single system-on-chip (SoC), requiring highly complex chip designs. The most complex chips today contain more 3 Table of Contents than a billion transistors. Transistors are the basic building blocks for ICs, each of which may have features that are less than 1/1,000th the diameter of a human hair. These devices are manufactured usin…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 15940,
+        "end": 16540
+      }
+    },
+    {
+      "id": "SNPS-kw-3",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 16901,
+      "excerpt": "…too big to create such dense features and requiring creative and complicated new approaches. Designers have turned to new manufacturing techniques to solve these problems, such as multiple-patterning lithography, FinFET 3D transistors and Gate-All-Around Field-Effect transistor structures, which in turn have introduced new challenges to design and production. The rise of silicon-powered intelligent devices and AI has increased demand for chips and systems with greater functionality and performance, reduced size and lower power consumption. Our customers, who design silicon and software-defined…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 16702,
+        "end": 17302
+      }
+    },
+    {
+      "id": "SNPS-Ansys-4",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 17903,
+      "excerpt": "…d systems is extremely complex and demands engineering solutions with a deeper integration of electronics and physics, enhanced by AI. Over the past several years, market verticals including AI, 5G, automotive and cloud computing infrastructure have contributed to the ongoing demand for our products and services. With ANSYS, Inc, (Ansys) now part of Synopsys, we can maximize the capabilities of product R&D teams broadly enabling them to rapidly innovate AI-powered products. Our Role—As the Silicon to Systems Engineering Solutions Partner Synopsys' silicon to systems engineering solutions are designed to help our customers — chip and…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 17583,
+        "end": 18283
+      }
+    },
+    {
+      "id": "SNPS-Ansys-5",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 17916,
+      "excerpt": "…extremely complex and demands engineering solutions with a deeper integration of electronics and physics, enhanced by AI. Over the past several years, market verticals including AI, 5G, automotive and cloud computing infrastructure have contributed to the ongoing demand for our products and services. With ANSYS, Inc, (Ansys) now part of Synopsys, we can maximize the capabilities of product R&D teams broadly enabling them to rapidly innovate AI-powered products. Our Role—As the Silicon to Systems Engineering Solutions Partner Synopsys' silicon to systems engineering solutions are designed to help our customers — chip and system engin…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 17596,
+        "end": 18236
+      }
+    },
+    {
+      "id": "SNPS-Ansys-6",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 19720,
+      "excerpt": "…n, saving customers time and enabling them to direct resources to features that differentiate their products. Our global service and support engineers provide expert technical support and design assistance to our customers. Products and Services Design Automation Segment Our Design Automation segment includes the EDA, Ansys and Other revenue groups. EDA Designing ICs involves many complex steps, including, among others architecture definition, register transfer level (RTL) design, functional/RTL verification, logic design or synthesis, gate-level verification, floorplanning, place and route, and physical verification. Designers use…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 19400,
+        "end": 20099
+      }
+    },
+    {
+      "id": "SNPS-kw-4",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 22992,
+      "excerpt": "…, PrimeLib library characterization, StarRC TM parasitic extraction, IC Validator TM physical verification and 3DIC Compiler, the industry’s only unified exploration-to-signoff platform for multi-die/package co-design and co-optimization, aimed at enabling customers to integrate multiple dies in a single package. Our Custom Design Family is a unified suite of design and verification tools that accelerates the transistor-level design of robust analog, mixed-signal, and custom-digital ICs. This product family features visually assisted layout automation, high-performance circuit simulation, reli…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 22833,
+        "end": 23353
+      }
+    },
+    {
+      "id": "SNPS-kw-5",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 23098,
+      "excerpt": "…and 3DIC Compiler, the industry’s only unified exploration-to-signoff platform for multi-die/package co-design and co-optimization, aimed at enabling customers to integrate multiple dies in a single package. Our Custom Design Family is a unified suite of design and verification tools that accelerates the transistor-level design of robust analog, mixed-signal, and custom-digital ICs. This product family features visually assisted layout automation, high-performance circuit simulation, reliability-aware verification, and natively integrated parasitic RC extraction and physical verification. It…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 22899,
+        "end": 23557
+      }
+    },
+    {
+      "id": "SNPS-kw-6",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 25200,
+      "excerpt": "…o an FPGA netlist, a process known as FPGA-logic synthesis, we offer Synplify ® FPGA synthesis tools that provide fast runtime, performance, area optimization for cost and power reduction, multi-FPGA vendor support, and incremental synthesis capabilities for faster FPGA design development. Verification Our Verification Family is built from our industry-leading verification technologies and provides virtual prototyping, static and formal verification, simulation, emulation, FPGA-based prototyping and debug in a unified environment with verification IP, planning, and coverage technology. By prov…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 25000,
+        "end": 25600
+      }
+    },
+    {
+      "id": "SNPS-Ansys-7",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 30300,
+      "excerpt": "…design and layout optimization and migration; • Design.da – Design data analytics for actionable insights to unlock untapped power, performance, and area; and • Silicon.da – Silicon data analytics for root-cause analysis and part-level traceability of failures to improve key production and silicon operational metrics. Ansys Synopsys’ comprehensive suite of Ansys S&A software is used by engineers–across industries–to predict and optimize how products will perform in real-world environments. The Ansys S&A portfolio spans the entire range of physics, providing access to virtually any field of engineering simulation that a design proces…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 29980,
+        "end": 30620
+      }
+    },
+    {
+      "id": "SNPS-kw-7",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 31903,
+      "excerpt": "…Ansys Icepak, and more. • Fluids – Our fluids product suite enables modeling of fluid flow and other related physical phenomena. The flagship Ansys Fluent computational fluid dynamics (CFD) software package is used for simulating and analyzing the behavior of fluids (liquids and gases) and their interactions with solid structures. It is commonly employed in various industries to perform simulations that help engineers and researchers gain insights into fluid flow, heat transfer and chemical reactions and related phenomena. • Optics, Virtual Reality (VR) and Photonics Modeling – Modeling light…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 31704,
+        "end": 32363
+      }
+    },
+    {
+      "id": "SNPS-kw-8",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 32235,
+      "excerpt": "…. It is commonly employed in various industries to perform simulations that help engineers and researchers gain insights into fluid flow, heat transfer and chemical reactions and related phenomena. • Optics, Virtual Reality (VR) and Photonics Modeling – Modeling light propagation and its impact is crucial for measuring product performance and human comfort, perception and safety. Ansys Optics™ software uniquely simulates a system's optical performance, evaluates the final illumination effect, and predicts and validates the impact of lighting and material variations on appearance and perceived…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 32035,
+        "end": 32694
+      }
+    },
+    {
+      "id": "SNPS-kw-9",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 32424,
+      "excerpt": "…enomena. • Optics, Virtual Reality (VR) and Photonics Modeling – Modeling light propagation and its impact is crucial for measuring product performance and human comfort, perception and safety. Ansys Optics™ software uniquely simulates a system's optical performance, evaluates the final illumination effect, and predicts and validates the impact of lighting and material variations on appearance and perceived quality, all in real conditions. Our photonic design and simulation tools enable customers to predict light's behavior within complex photonic structures and systems. The Ansys Lumerical™ p…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 32224,
+        "end": 32824
+      }
+    },
+    {
+      "id": "SNPS-kw-10",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 33542,
+      "excerpt": "…ysics sign-off solution for transistor-level and mixed-signal designs; • RedHawk-SC Electrothermal™ – a multiphysics simulation platform that delivers a complete solution for analyzing multi-die chip packages and interconnects for power integrity, layout parasitic extraction, thermal profiling, thermo-mechanical stress, and signal integrity; • PathFinder-SC™ – identifies and isolates the root causes of design issues that can cause chip failure from charged-device model (CDM), human body model (HBM), or other electrostatic discharge events; • Exalto ® – an extraction software solution that enab…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 33342,
+        "end": 33942
+      }
+    },
+    {
+      "id": "SNPS-kw-11",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 33841,
+      "excerpt": "…rmo-mechanical stress, and signal integrity; • PathFinder-SC™ – identifies and isolates the root causes of design issues that can cause chip failure from charged-device model (CDM), human body model (HBM), or other electrostatic discharge events; • Exalto ® – an extraction software solution that enables IC designers to accurately capture unknown crosstalk among different blocks in the design hierarchy by extracting lumped-element parasitics and generating an accurate model for electrical, magnetic and substrate coupling; and 7 Table of Contents • VeloceRF™ – an inductive device synthesis and m…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 33641,
+        "end": 34241
+      }
+    },
+    {
+      "id": "SNPS-kw-12",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 35373,
+      "excerpt": "…h-quality, silicon-proven IP solutions for SoCs. Our broad Synopsys IP portfolio includes: • Pre-verified and silicon-proven IP solutions for widely used and emerging interfaces such as UCIe, UALink, HBM, CXL, USB, PCI Express, DDR/LPDDR, Ethernet, Ultra Ethernet, MIPI and HDMI; • Logic libraries and embedded memories, including memory compilers, non-volatile memory, and standard cells with integrated test and repair; • Processor solutions, including configurable ARC ® processors, Neural Network processors, Digital Signal Processor cores, and software and application-specific instruction-set p…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 35174,
+        "end": 35774
+      }
+    },
+    {
+      "id": "SNPS-kw-13",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 35504,
+      "excerpt": "…utions for widely used and emerging interfaces such as UCIe, UALink, HBM, CXL, USB, PCI Express, DDR/LPDDR, Ethernet, Ultra Ethernet, MIPI and HDMI; • Logic libraries and embedded memories, including memory compilers, non-volatile memory, and standard cells with integrated test and repair; • Processor solutions, including configurable ARC ® processors, Neural Network processors, Digital Signal Processor cores, and software and application-specific instruction-set processor tools for embedded applications; • Security IP solutions, including cryptographic cores and software, security subsystems,…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 35304,
+        "end": 35964
+      }
+    },
+    {
+      "id": "SNPS-kw-14",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 35535,
+      "excerpt": "…ging interfaces such as UCIe, UALink, HBM, CXL, USB, PCI Express, DDR/LPDDR, Ethernet, Ultra Ethernet, MIPI and HDMI; • Logic libraries and embedded memories, including memory compilers, non-volatile memory, and standard cells with integrated test and repair; • Processor solutions, including configurable ARC ® processors, Neural Network processors, Digital Signal Processor cores, and software and application-specific instruction-set processor tools for embedded applications; • Security IP solutions, including cryptographic cores and software, security subsystems, platform security and secured…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 35335,
+        "end": 35994
+      }
+    },
+    {
+      "id": "SNPS-Arm-0",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 36226,
+      "excerpt": "…latform security and secured interface IP; • Industry-leading IP offerings for the automotive market, optimized for strict functional safety, reliability and cybersecurity standards such as ISO 26262 and ISO 21434; and • SoC infrastructure IP, datapath and building block IP, mathematical and floating-point components, Arm ® AMBA ® interconnect fabric and peripherals, and verification IP. Our IP Accelerated initiative augments our established, broad portfolio of silicon-proven Synopsys IP with SoC architecture design support, customized IP subsystems, signal/power integrity analysis and IP hardening to accelerate our customer’s produ…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 35906,
+        "end": 36546
+      }
+    },
+    {
+      "id": "SNPS-kw-15",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 38820,
+      "excerpt": "…y Standards We actively create and support standards that help our EDA, S&A and IP customers increase productivity, facilitate efficient design flows, improve interoperability of tools from different vendors and ensure connectivity, functionality and interoperability of IP building blocks. Standards in the electronic design and simulation industry can be established by formal accredited organizations, industry consortia, intercompany licensing, de facto usage, or through open-source licensing. Our products support multiple Application Programming Interfaces (APIs) including numerous commonly u…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 38620,
+        "end": 39220
+      }
+    },
+    {
+      "id": "SNPS-kw-16",
+      "ticker": "SNPS",
+      "vendor": "Synopsys, Ansys",
+      "charOffset": 39593,
+      "excerpt": "…nguages: SystemVerilog, Verilog, VHDL and SystemC. Our products utilize numerous industry-standard data formats, APIs and databases for the seamless exchange of design data among our tools, other EDA vendors’ products and applications that customers develop internally across design flows. For our Ansys products, we support a wide range of industry standards within our S&A portfolio to ensure usability and interconnectivity between Synopsys and third-party tools or systems. In addition to industry standards, Synopsys develops PyAnsys™, a collection of Python-based, open-source projects tailored…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 39393,
+        "end": 40053
+      }
+    },
+    {
+      "id": "SNPS-kw-17",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 43315,
+      "excerpt": "…ys semiconductor products are network licenses that allow a number of individual users to access the software on a defined network, including, in some cases, regional or global networks. License fees depend on the type of license, product mix, and number of copies of each product licensed. Our hardware products, which principally consist of our emulation and prototyping systems, are either sold or leased to our customers. Our S&A software solutions are offered as subscription solutions and also as perpetual licenses. Software subscription arrangements include bundles of time-based software lic…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 43115,
+        "end": 43715
+      }
+    },
+    {
+      "id": "SNPS-kw-18",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 44955,
+      "excerpt": "…II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations of this Annual Report. Competition Within our Design Automation segment, we compete against other EDA vendors and against our customers’ own design tools and internal design capabilities. The EDA industry is highly competitive. In general, we compete principally on technology leadership, product quality and features (including ease-of-use), license terms, price and payment terms, post-contract customer support, flexibility of tool use, and interoperability with our own and other vendors’ products.…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 44755,
+        "end": 45415
+      }
+    },
+    {
+      "id": "SNPS-kw-19",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 45337,
+      "excerpt": "…hip, product quality and features (including ease-of-use), license terms, price and payment terms, post-contract customer support, flexibility of tool use, and interoperability with our own and other vendors’ products. We also deliver a significant amount of engineering and design consulting for our products. No single factor drives an EDA customer’s buying decision, and we compete on all fronts to capture a higher portion of our customers’ budgets. We compete with a variety of different EDA vendors, including publicly traded companies offering varying ranges of products and services as well a…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 45138,
+        "end": 45798
+      }
+    },
+    {
+      "id": "SNPS-kw-20",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 45634,
+      "excerpt": "…our products. No single factor drives an EDA customer’s buying decision, and we compete on all fronts to capture a higher portion of our customers’ budgets. We compete with a variety of different EDA vendors, including publicly traded companies offering varying ranges of products and services as well as other EDA vendors that offer products focused on one or more discrete phases of the IC design process. Additionally, some of our customers internally develop design tools and capabilities that compete with our products. For our Ansys S&A software solutions, our competitors include publicly trad…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 45434,
+        "end": 46034
+      }
+    },
+    {
+      "id": "SNPS-kw-21",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 45749,
+      "excerpt": "…higher portion of our customers’ budgets. We compete with a variety of different EDA vendors, including publicly traded companies offering varying ranges of products and services as well as other EDA vendors that offer products focused on one or more discrete phases of the IC design process. Additionally, some of our customers internally develop design tools and capabilities that compete with our products. For our Ansys S&A software solutions, our competitors include publicly traded companies, small, geographically-focused firms, startups, and solutions produced in-house by the end users. With…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 45549,
+        "end": 46149
+      }
+    },
+    {
+      "id": "SNPS-Applied Materials-0",
+      "ticker": "SNPS",
+      "vendor": "Applied Materials",
+      "charOffset": 59087,
+      "excerpt": "…2022, and Chief Executive Officer from April 2022 until January 2024. Since the inception of Synopsys in December 1986, Dr. de Geus has held a variety of positions, including President, Senior Vice President of Engineering and Senior Vice President of Marketing. Dr. de Geus has also served on the board of directors of Applied Materials, Inc. since July 2007. Dr. de Geus holds an M.S.E.E. from the Swiss Federal Institute of Technology in Lausanne, Switzerland and a Ph.D. in Electrical Engineering from Southern Methodist University. Shelagh Glaser has served as our Chief Financial Officer since December 2022. Prior to joining Synopsys…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 58767,
+        "end": 59407
+      }
+    },
+    {
+      "id": "SNPS-Siemens EDA-0",
+      "ticker": "SNPS",
+      "vendor": "Siemens EDA",
+      "charOffset": 60320,
+      "excerpt": "…dit Committee at PubMatic, Inc. since June 2022. Ms. Glaser holds a B.A. in Economics from the University of Michigan and an M.B.A. in Finance from Carnegie Mellon University. Mike Ellow has served as our Chief Revenue Officer since November 2025. Prior to joining Synopsys, Mr. Ellow was the Chief Executive Officer of Siemens EDA, a business unit of Siemens Digital Industries, from June 2024 to November 2025. Prior to becoming the Chief Executive Officer of Siemens EDA, he was the Executive Vice President, EDA Global Sales, Services and Customer Support from January 2021 to June 2024. He has also held various leadership roles in sal…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 60000,
+        "end": 60640
+      }
+    },
+    {
+      "id": "SNPS-Siemens EDA-1",
+      "ticker": "SNPS",
+      "vendor": "Siemens EDA",
+      "charOffset": 60462,
+      "excerpt": "…from Carnegie Mellon University. Mike Ellow has served as our Chief Revenue Officer since November 2025. Prior to joining Synopsys, Mr. Ellow was the Chief Executive Officer of Siemens EDA, a business unit of Siemens Digital Industries, from June 2024 to November 2025. Prior to becoming the Chief Executive Officer of Siemens EDA, he was the Executive Vice President, EDA Global Sales, Services and Customer Support from January 2021 to June 2024. He has also held various leadership roles in sales and customer support, starting at Berkeley Design Automation in 2011 and through Mentor Graphics' acquisition by Siemens Digital Industries…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 60143,
+        "end": 60842
+      }
+    },
+    {
+      "id": "SNPS-Cadence-0",
+      "ticker": "SNPS",
+      "vendor": "Cadence",
+      "charOffset": 60827,
+      "excerpt": "…ent, EDA Global Sales, Services and Customer Support from January 2021 to June 2024. He has also held various leadership roles in sales and customer support, starting at Berkeley Design Automation in 2011 and through Mentor Graphics' acquisition by Siemens Digital Industries Software. He started his career in sales at Cadence Design Systems in 1997, where he held various leadership roles until 2010. Mr. Ellow holds a B.S.E.E. from Lehigh University, an M.S.E.E. from the University of Southern California, and an M.B.A. from California State University, Fullerton. Janet Lee has served as our General Counsel and Corporate Secretary sin…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 60507,
+        "end": 61147
+      }
+    },
+    {
+      "id": "SNPS-kw-22",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 67745,
+      "excerpt": "…ed ecosystems. Many of our customers outsource the manufacturing of their semiconductor designs to foundries. Our customers also frequently incorporate third-party IP, whether provided by us or other vendors, into their designs to improve the efficiency of their design process. We work closely with major foundries to ensure that our EDA, IP and manufacturing solutions are compatible with their manufacturing processes. Similarly, we work closely with other major providers of semiconductor IP, particularly microprocessor IP, to optimize our EDA tools for use with their IP designs and to ensure t…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 67546,
+        "end": 68146
+      }
+    },
+    {
+      "id": "SNPS-kw-23",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 68448,
+      "excerpt": "…f separate components on the same chip. If we fail to optimize our EDA and IP solutions for use with major foundries’ manufacturing processes or major IP providers’ products, or if our access to such foundry processes or third-party IP products is hampered, then our solutions may become less desirable to our customers, resulting in an adverse effect on our business and financial condition. We operate in highly competitive industries, and if we do not continue to meet our customers’ demand for innovative technology at lower costs, our products may not be competitive or may become obsolete. In o…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 68289,
+        "end": 68808
+      }
+    },
+    {
+      "id": "SNPS-kw-24",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 68924,
+      "excerpt": "…customers’ demand for innovative technology at lower costs, our products may not be competitive or may become obsolete. In our Design Automation segment, we compete against a variety of different EDA vendors, including publicly traded companies that offer a variety of products and services as well as other EDA vendors, including new entrants to the market, that offer products focused on one or more discrete phases of the IC design process. Moreover, some of our customers internally develop design tools and capabilities that compete with our products. For our Ansys S&A software solutions, our c…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 68724,
+        "end": 69324
+      }
+    },
+    {
+      "id": "SNPS-kw-25",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 69036,
+      "excerpt": "…solete. In our Design Automation segment, we compete against a variety of different EDA vendors, including publicly traded companies that offer a variety of products and services as well as other EDA vendors, including new entrants to the market, that offer products focused on one or more discrete phases of the IC design process. Moreover, some of our customers internally develop design tools and capabilities that compete with our products. For our Ansys S&A software solutions, our competitors include publicly traded companies, small, geographically-focused firms, startups, and solutions produ…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 68836,
+        "end": 69436
+      }
+    },
+    {
+      "id": "SNPS-kw-26",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 71304,
+      "excerpt": "…chip design and manufacturing. At the same time, our customers and potential customers continue to demand a lower total cost of design, which can lead to the consolidation of their purchases from one vendor or displacement of their purchases by internal development. In order to succeed in this environment, we must successfully meet our customers’ technology requirements and increase the value of our products, while also striving to reduce their overall costs and our own operating costs. We compete principally on the basis of technology, product quality and features, license or usage terms, pos…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 71104,
+        "end": 71704
+      }
+    },
+    {
+      "id": "SNPS-kw-27",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 76503,
+      "excerpt": "…uture. Consolidation among our customers could lead to fewer customers or the loss of customers, increased customer bargaining power or reduced customer spending on products and services. Further, we depend on a relatively small number of large customers for a large portion of our revenues. For example, challenges with a major foundry customer negatively impacted our financial results for fiscal year 2025. Consolidation among our customers, particularly our large customers, could also reduce demand for our products and services if customers streamline research and development or operations, or…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 76303,
+        "end": 76963
+      }
+    },
+    {
+      "id": "SNPS-kw-28",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 76632,
+      "excerpt": "…wer or reduced customer spending on products and services. Further, we depend on a relatively small number of large customers for a large portion of our revenues. For example, challenges with a major foundry customer negatively impacted our financial results for fiscal year 2025. Consolidation among our customers, particularly our large customers, could also reduce demand for our products and services if customers streamline research and development or operations, or reduce or delay purchasing decisions. Our customers operate in highly competitive industries due to, among other factors, contin…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 76432,
+        "end": 77032
+      }
+    },
+    {
+      "id": "SNPS-kw-29",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 78329,
+      "excerpt": "…ur operations exposes us to increased risks and compliance obligations. We derive roughly half of our revenue from sales outside the United States, and we expect our orders and revenue to continue to depend on sales to customers outside the U.S. We have also continually expanded our non-U.S. operations. This strategy requires us to recruit and retain qualified technical and managerial employees, manage multiple remote locations performing complex software development projects, and ensure intellectual property protection outside of the U.S. Our international operations and sales subject us to a…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 78129,
+        "end": 78789
+      }
+    },
+    {
+      "id": "SNPS-Arm-1",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 79757,
+      "excerpt": "…d • Financial risks such as longer payment cycles, changes in currency exchange rates and difficulty in collecting accounts receivable. Furthermore, if any of the foreign economies in which we do business deteriorate or if we fail to effectively manage our global operations, our business and operating results will be harmed. There is inherent risk, based on the complex relationships between certain Asian countries such as China and the United States, that political, diplomatic or military events could result in trade disruptions, including tariffs, trade embargoes, export restrictions and other trade barriers. A significant trade di…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 79437,
+        "end": 80077
+      }
+    },
+    {
+      "id": "SNPS-kw-30",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 80613,
+      "excerpt": "…, have a negative impact on customer confidence and spending, make our products less competitive, or otherwise have an adverse impact on our backlog, future revenue and profits and our customers’ and suppliers’ business, operating results and financial condition. For example and as described above, the ongoing geopolitical and economic uncertainty between the U.S. and China, the unknown impact of current and future U.S. and Chinese trade regulations, including tariffs, and other geopolitical risks with respect to China and Taiwan may cause disruptions in the markets and industries we serve and…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 80413,
+        "end": 81073
+      }
+    },
+    {
+      "id": "SNPS-Arm-2",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 81168,
+      "excerpt": "…trade regulations, including tariffs, and other geopolitical risks with respect to China and Taiwan may cause disruptions in the markets and industries we serve and our supply chain, decreased demand from customers for products using our solutions or other disruptions, which could, directly or indirectly, materially harm our business, operating results and financial condition. In response to the U.S. imposing tariffs and trade barriers or taking other actions, other countries, such as China, have in the past and may in the future impose tariffs and trade barriers that could limit our ability to offer our products and services in su…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 80849,
+        "end": 81488
+      }
+    },
+    {
+      "id": "SNPS-Arm-3",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 89507,
+      "excerpt": "…argets, or we may not be able to consummate desired acquisitions or investments due to, among other things, financial constraints, unfavorable credit markets, commercially unacceptable terms, failure to obtain regulatory approvals, competitive bid dynamics, outbound investment restrictions or other risks, which could harm our operating results. Any acquisitions and strategic investments we may undertake, including the Ansys Merger, are difficult, time-consuming, and pose a number of risks, including, but not limited to: • Potential negative impact on our net income resulting from acquisition or investment-related costs or on our ear…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 89187,
+        "end": 89827
+      }
+    },
+    {
+      "id": "SNPS-Arm-4",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 94422,
+      "excerpt": "…If we do not manage the foregoing risks, the transactions that we complete or are unable to complete may have an adverse effect on our business, operating results and financial condition. Cybersecurity threats or other security breaches could compromise sensitive information belonging to us or our customers and could harm our business and our reputation. We store sensitive data, including intellectual property, our proprietary business information and that of our customers, and personal information, in our data centers, on our networks or on the cloud. In addition, our operations depend upon our information technology (IT) systems.…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 94102,
+        "end": 94801
+      }
+    },
+    {
+      "id": "SNPS-kw-31",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 96230,
+      "excerpt": "…r of third-party software solutions, including cloud-based solutions, which increase potential threat vectors, such as by exploitation of misconfigurations or vulnerabilities. We also use third-party vendors that provide software or hardware, have access to our network, and/or store sensitive data, and these third parties are subject to their own cybersecurity threats. Our standard vendor terms and conditions include provisions requiring the use of appropriate security measures to prevent unauthorized use or disclosure of our data, as well as other safeguards. Despite these measures, there is…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 96030,
+        "end": 96689
+      }
+    },
+    {
+      "id": "SNPS-kw-32",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 96415,
+      "excerpt": "…se third-party vendors that provide software or hardware, have access to our network, and/or store sensitive data, and these third parties are subject to their own cybersecurity threats. Our standard vendor terms and conditions include provisions requiring the use of appropriate security measures to prevent unauthorized use or disclosure of our data, as well as other safeguards. Despite these measures, there is no guarantee that a compromise of our third-party 21 Table of Contents vendors will not occur and in turn result in a compromise of our own IT systems or data. In addition, if we select…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 96215,
+        "end": 96875
+      }
+    },
+    {
+      "id": "SNPS-kw-33",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 96701,
+      "excerpt": "…ty measures to prevent unauthorized use or disclosure of our data, as well as other safeguards. Despite these measures, there is no guarantee that a compromise of our third-party 21 Table of Contents vendors will not occur and in turn result in a compromise of our own IT systems or data. In addition, if we select a vendor that uses cloud storage as part of their service or product offerings, or if we are selected as a vendor for our cloud-based solutions, our proprietary information could be misappropriated by third parties despite our attempts to validate the security of such services. Many e…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 96501,
+        "end": 97101
+      }
+    },
+    {
+      "id": "SNPS-kw-34",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 96818,
+      "excerpt": "…s, there is no guarantee that a compromise of our third-party 21 Table of Contents vendors will not occur and in turn result in a compromise of our own IT systems or data. In addition, if we select a vendor that uses cloud storage as part of their service or product offerings, or if we are selected as a vendor for our cloud-based solutions, our proprietary information could be misappropriated by third parties despite our attempts to validate the security of such services. Many employees continue to work remotely based on a hybrid work model, which magnifies the importance of maintaining the in…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 96618,
+        "end": 97218
+      }
+    },
+    {
+      "id": "SNPS-kw-35",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 96923,
+      "excerpt": "…and in turn result in a compromise of our own IT systems or data. In addition, if we select a vendor that uses cloud storage as part of their service or product offerings, or if we are selected as a vendor for our cloud-based solutions, our proprietary information could be misappropriated by third parties despite our attempts to validate the security of such services. Many employees continue to work remotely based on a hybrid work model, which magnifies the importance of maintaining the integrity of our remote access security measures. We also periodically acquire new businesses with less mat…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 96725,
+        "end": 97324
+      }
+    },
+    {
+      "id": "SNPS-kw-36",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 98548,
+      "excerpt": "…uthorized third-party access to our products and product license files hosted on our SolvNet Plus customer license and product delivery system in 2015. Any security breach of our own or a third-party vendor’s systems could cause us to be non-compliant with applicable laws or regulations, subject us to legal claims or proceedings, disrupt our operations, damage our reputation, and cause a loss of confidence in our products and services, any of which could adversely affect our business and our ability to sell our products and services. Our software products and hosted solutions are also targeted…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 98348,
+        "end": 99008
+      }
+    },
+    {
+      "id": "SNPS-Arm-5",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 100023,
+      "excerpt": "…ks on our products could potentially disrupt the proper functioning of our software, cause errors in the output of our customers’ work, allow unauthorized access to our or our customers’ proprietary information or cause other destructive outcomes. If we fail to protect our proprietary technology, our business will be harmed. Our success depends in part upon protecting our proprietary technology. Our efforts to protect our technology may be costly and unsuccessful. We rely on agreements with customers, employees and other third parties as well as intellectual property laws worldwide to protect our proprietary technology. These agreem…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 99704,
+        "end": 100344
+      }
+    },
+    {
+      "id": "SNPS-Arm-6",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 101597,
+      "excerpt": "…to such litigation will increase our operating expenses and may reduce our net income. If we do not obtain or maintain appropriate patent, copyright or trade secret protection for any reason, or cannot fully defend our intellectual property rights in certain jurisdictions, our business and operating results would be harmed. We may not be successful in our AI initiatives, which could adversely affect our business, operating results or financial condition. We have incorporated, and are continuing to develop and deploy, AI into our products and the operations of our business. While these AI initiatives can present significant benefits…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 101278,
+        "end": 101917
+      }
+    },
+    {
+      "id": "SNPS-Arm-7",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 102342,
+      "excerpt": "…o develop and timely offer products with AI features, if such products fail to meet our customers’ demands, if these products fail to operate as expected, or if our competitors incorporate AI into their products more quickly or more successfully than we do, we may experience brand or 22 Table of Contents reputational harm and lose our competitive position, our products may become obsolete, and our business, operating results or financial condition could be adversely affected. While AI technology may drive future growth in the semiconductor and electronics industries as well as our business, worldwide markets for AI-enabled products…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "range": {
+        "start": 102022,
+        "end": 102721
+      }
+    },
+    {
+      "id": "SNPS-kw-37",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 106697,
+      "excerpt": "…y component of our overall compensation. We face pressure to limit the use of such equity-based compensation due to dilutive effects on stockholders. If we are unable to offer attractive compensation packages in the future, it could limit our ability to attract and retain senior management and key employees. We may pursue new product and technology initiatives or expand into adjacent markets, and if we fail to successfully carry out these initiatives, we could be adversely impacted. As part of the evolution of our business, we have made substantial investments to develop new products and enhan…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 106497,
+        "end": 107097
+      }
+    },
+    {
+      "id": "SNPS-kw-38",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 110625,
+      "excerpt": "…cts, especially when first introduced, when new versions are released, or when integrated with technologies developed by acquired companies. Product errors, including those resulting from third-party suppliers, could affect the performance or interoperability of our products, could delay the development or release of new products or new versions of products and could adversely affect market acceptance or perception of our products. In addition, any allegations of manufacturability issues resulting from use of our IP products could, even if untrue, adversely affect our reputation and our custom…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 110426,
+        "end": 111026
+      }
+    },
+    {
+      "id": "SNPS-kw-39",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 111865,
+      "excerpt": "…• Delays in production and delivery of our hardware products, including due to, among other things, difficulty scaling production capacity and yield to meet customer demand, or a dependence on a sole supplier for certain hardware products, which may reduce our control over product availability, quality and pricing; • Increasingly variable revenue and less predictable revenue forecasts, due to fluctuations in hardware revenue, which is recognized upfront upon shipment, as opposed to most sales of software products for which revenue is recognized over time; 24 Table of Contents • Potential reduc…",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "keyword",
+      "range": {
+        "start": 111665,
+        "end": 112265
+      }
+    },
+    {
+      "id": "c32bce221c47cfcf",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 1822,
+      "excerpt": "ition of our contracted but unsatisfied or partially unsatisfied performance obligations (backlog); • demand and market expansion for our products and our customers’ products; • our ability to successfully compete in the markets in which we serve; • our license mix, business model and variability in our revenue; • the continuation of current industry trends towards customer and vendor consolidation, and the impact of such consolidation; • the completion of development of our unfinished products,",
+      "sectionId": "item_15_exhibits_and_financial_statement",
+      "sectionHeader": "Item 15. Exhibits and Financial Statement Schedules 114 Item 16. Form 10-K Summary 118 SIG",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 8231,
+        "end": 8791
+      }
+    },
+    {
+      "id": "cf2e11afb54ac6fd",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 1794,
+      "excerpt": "for fast, efficient and cost-conscious product development, from design concept to final-stage testing, validation and deployment. S&A products and services are part of our Design Automation segment. We also offer a broad and comprehensive portfolio of semiconductor IP solutions, which are pre-designed circuits that engineers use as components of larger chip designs to reduce development risk and speed time to market. Our high quality, silicon-proven semiconductor IP includes logic libraries, em",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 13496,
+        "end": 13996
+      }
+    },
+    {
+      "id": "428045ae8f034a3a",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 3625,
+      "excerpt": "and to comply with our disclosure obligations under Regulation Fair Disclosure. The contents of our website are not part of this Annual Report and shall not be deemed to be incorporated by reference. Background In today’s era of pervasive intelligence, we have seen an acceleration in innovation cycles and a growing opportunity for Synopsys. The proliferation of silicon to power our digital world, where technology is omnipresent and interconnected, means computing is being reinvented with the ris",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 15327,
+        "end": 15827
+      }
+    },
+    {
+      "id": "8aea25ce9fa952b0",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 4603,
+      "excerpt": "ntain more 3 Table of Contents than a billion transistors. Transistors are the basic building blocks for ICs, each of which may have features that are less than 1/1,000th the diameter of a human hair. These devices are manufactured using masks to direct beams of light onto a wafer of silicon. At such small dimensions, the wavelength of light itself can become an obstacle to production, proving too big to create such dense features and requiring creative and complicated new approaches. Designers",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 16304,
+        "end": 16863
+      }
+    },
+    {
+      "id": "6a20ffdd92c49750",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 10251,
+      "excerpt": "ore integrated flow than ever before, with better quality and time to results. The platform gives designers the flexibility to integrate internally developed tools as well as those from third parties. With innovative technologies, a common foundation, and flexibility, our Digital Design Family helps reduce design times, decrease uncertainties in design steps, and minimize the risks inherent in advanced, complex IC design. The platform supports advanced nodes with collaborations on next-generatio",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 21952,
+        "end": 22452
+      }
+    },
+    {
+      "id": "63014395316e0fdb",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 11205,
+      "excerpt": "C Compiler, the industry’s only unified exploration-to-signoff platform for multi-die/package co-design and co-optimization, aimed at enabling customers to integrate multiple dies in a single package. Our Custom Design Family is a unified suite of design and verification tools that accelerates the transistor-level design of robust analog, mixed-signal, and custom-digital ICs. This product family features visually assisted layout automation, high-performance circuit simulation, reliability-aware",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 22906,
+        "end": 23465
+      }
+    },
+    {
+      "id": "102a0bcf5461781b",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 13015,
+      "excerpt": "to the SLM database and PVT IP for in-chip monitoring and sensing. FPGA Design FPGAs are complex chips that can be customized or programmed to perform a specific function after they are manufactured. For the process of converting a high-level hardware description language design into an FPGA netlist, a process known as FPGA-logic synthesis, we offer Synplify ® FPGA synthesis tools that provide fast runtime, performance, area optimization for cost and power reduction, multi-FPGA vendor support, a",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 24717,
+        "end": 25217
+      }
+    },
+    {
+      "id": "3ca3e6874a602b48",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 19549,
+      "excerpt": ". The software streamlines the design process and predicts performance of mobile communication and internet-access devices, broadband networking components and systems, ICs and printed circuit boards. It is also used in low-frequency applications such as electromechanical systems, automotive components, industrial electric motors and power electronics equipment. These solutions include Ansys High Frequency Structure Simulator (HFSS™), Ansys Maxwell, Ansys Icepak, and more. • Fluids – Our fluids",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 31250,
+        "end": 31809
+      }
+    },
+    {
+      "id": "ffee02977245ee3f",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 20516,
+      "excerpt": "ated phenomena. • Optics, Virtual Reality (VR) and Photonics Modeling – Modeling light propagation and its impact is crucial for measuring product performance and human comfort, perception and safety. Ansys Optics™ software uniquely simulates a system's optical performance, evaluates the final illumination effect, and predicts and validates the impact of lighting and material variations on appearance and perceived quality, all in real conditions. Our photonic design and simulation tools enable c",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 32217,
+        "end": 32717
+      }
+    },
+    {
+      "id": "482b39d42ff9504d",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 21053,
+      "excerpt": "within complex photonic structures and systems. The Ansys Lumerical™ product is a complete photonics simulation software solution that enables the design of photonics components, circuits and systems. Ansys also provides semiconductor products including multiphysics analysis solutions that help customers create reliable and efficient designs with production-proven features including: • RedHawk-SC™ – power noise and reliability signoff for digital IP and SoCs down to 3nm and built on cloud-native",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 32754,
+        "end": 33314
+      }
+    },
+    {
+      "id": "3f18f631f035d063",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 22053,
+      "excerpt": "issues that can cause chip failure from charged-device model (CDM), human body model (HBM), or other electrostatic discharge events; • Exalto ® – an extraction software solution that enables IC designers to accurately capture unknown crosstalk among different blocks in the design hierarchy by extracting lumped-element parasitics and generating an accurate model for electrical, magnetic and substrate coupling; and 7 Table of Contents • VeloceRF™ – an inductive device synthesis and modeling tool t",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 33755,
+        "end": 34255
+      }
+    },
+    {
+      "id": "eb8d09d61246289f",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 23016,
+      "excerpt": "eysight Technologies, Inc. in October 2025. Design IP Segment Our Design IP segment includes our Design IP solutions, which service companies primarily in the semiconductor and electronics industries. Design IP Solutions As functionality expands within a single chip or across a multi-die design, the number of third-party IP design blocks incorporated into these designs are rapidly increasing. We provide the broadest, most comprehensive portfolio of high-quality, silicon-proven IP solutions for S",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 34717,
+        "end": 35217
+      }
+    },
+    {
+      "id": "a4f46bf7e27985af",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 26699,
+      "excerpt": "ion with respect to claims that their use of our software products infringes on patents, copyrights, trademarks or trade secrets. We have not experienced material warranty or indemnity claims to date. Support for Industry Standards We actively create and support standards that help our EDA, S&A and IP customers increase productivity, facilitate efficient design flows, improve interoperability of tools from different vendors and ensure connectivity, functionality and interoperability of IP buildi",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 38400,
+        "end": 38900
+      }
+    },
+    {
+      "id": "9d45ff8fee62fde1",
+      "ticker": "SNPS",
+      "vendor": "Synopsys, Ansys",
+      "charOffset": 27542,
+      "excerpt": "and file formats. In our Design Automation segment, our EDA products support many standards, including the many commonly used hardware description languages: SystemVerilog, Verilog, VHDL and SystemC. Our products utilize numerous industry-standard data formats, APIs and databases for the seamless exchange of design data among our tools, other EDA vendors’ products and applications that customers develop internally across design flows. For our Ansys products, we support a wide range of industry s",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 39244,
+        "end": 39744
+      }
+    },
+    {
+      "id": "befaa62f97681977",
+      "ticker": "SNPS",
+      "vendor": "Synopsys, Ansys",
+      "charOffset": 30776,
+      "excerpt": "omains, such as structural analysis, thermal analysis, and CFD; and • Other, which includes university programs, mechatronic simulation and the impact of gains and losses from foreign currency hedges. Our Other product group also includes revenue from Synopsys’ Optical Solutions Group through October 17, 2025, the date it was divested to Keysight Technologies, Inc. Product Sales and Licensing Agreements We typically license our software to customers under non-exclusive license agreements that re",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 42477,
+        "end": 42977
+      }
+    },
+    {
+      "id": "6da7614812a4bc55",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 32612,
+      "excerpt": "s plus, in some cases, royalties. See Note 2. Significant Accounting Policies and Bases of Presentation of the Notes to Consolidated Financial Statements in this Annual Report for further information. Our professional services team typically provides design consulting services to our customers under consulting agreements with statements of work specific to each project. For a full discussion of our product and service offerings, see Part II, Item 7, Management’s Discussion and Analysis of Financ",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 44313,
+        "end": 44813
+      }
+    },
+    {
+      "id": "b9306415f4449572",
+      "ticker": "SNPS",
+      "vendor": "Synopsys, Ansys",
+      "charOffset": 33546,
+      "excerpt": "ct customer support, flexibility of tool use, and interoperability with our own and other vendors’ products. We also deliver a significant amount of engineering and design consulting for our products. No single factor drives an EDA customer’s buying decision, and we compete on all fronts to capture a higher portion of our customers’ budgets. We compete with a variety of different EDA vendors, including publicly traded companies offering varying ranges of products and services as well as other ED",
+      "sectionId": "item_1_business_company_and_segment_over",
+      "sectionHeader": "Item 1. Business Company and Segment Overview Synopsys, Inc. (Synopsys, we, our or us) is",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 45247,
+        "end": 45747
+      }
+    },
+    {
+      "id": "a875f154816af667",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 5578,
+      "excerpt": "semiconductor and electronics industries have become increasingly complex and interconnected ecosystems. Many of our customers outsource the manufacturing of their semiconductor designs to foundries. Our customers also frequently incorporate third-party IP, whether provided by us or other vendors, into their designs to improve the efficiency of their design process. We work closely with major foundries to ensure that our EDA, IP and manufacturing solutions are compatible with their manufacturing",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 67455,
+        "end": 68015
+      }
+    },
+    {
+      "id": "3eef386bfc23ddef",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 6564,
+      "excerpt": "to such foundry processes or third-party IP products is hampered, then our solutions may become less desirable to our customers, resulting in an adverse effect on our business and financial condition. We operate in highly competitive industries, and if we do not continue to meet our customers’ demand for innovative technology at lower costs, our products may not be competitive or may become obsolete. In our Design Automation segment, we compete against a variety of different EDA vendors, includi",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 68440,
+        "end": 68940
+      }
+    },
+    {
+      "id": "fb33ef9bd2b0a329",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 8449,
+      "excerpt": "standards and customer requirements. The adoption of AI technologies have brought new demands and also challenges in terms of disruption to both our business models and existing technology offerings. For example, in response to recent market trends and underperformance of our Design IP segment, we are in the process of reallocating resources in our IP business to certain higher growth opportunities. Our efforts in reallocating these resources and developing such new technology solutions may not",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 70326,
+        "end": 70885
+      }
+    },
+    {
+      "id": "452d2c42e10de8a2",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 9294,
+      "excerpt": "potential customers continue to demand a lower total cost of design, which can lead to the consolidation of their purchases from one vendor or displacement of their purchases by internal development. In order to succeed in this environment, we must successfully meet our customers’ technology requirements and increase the value of our products, while also striving to reduce their overall costs and our own operating costs. We compete principally on the basis of technology, product quality and feat",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 71171,
+        "end": 71671
+      }
+    },
+    {
+      "id": "a5db3ec918ef7c60",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 14011,
+      "excerpt": "Consolidation among our customers and within the industries in which we operate, as well as our dependence on a relatively small number of large customers, may negatively impact our operating results. A number of business combinations and strategic partnerships among our customers in the semiconductor, electronics and S&A-targeted industries have occurred over the last several years, and more could occur in the future. Consolidation among our customers could lead to fewer customers or the loss o",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 75887,
+        "end": 76387
+      }
+    },
+    {
+      "id": "220baecdb3c1f35e",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 15572,
+      "excerpt": "y affect our business, operating results and financial condition. In addition, we and our competitors may acquire businesses and technologies to complement and expand our respective product offerings. Consolidated competitors could have considerable financial resources and channel influence as well as broad geographic reach, which may enable them to be more competitive in, among other 17 Table of Contents things, product differentiation, breadth of technology portfolio, pricing, marketing, servi",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 77448,
+        "end": 77948
+      }
+    },
+    {
+      "id": "4dedc83811d1bdd6",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 16357,
+      "excerpt": "venue from sales outside the United States, and we expect our orders and revenue to continue to depend on sales to customers outside the U.S. We have also continually expanded our non-U.S. operations. This strategy requires us to recruit and retain qualified technical and managerial employees, manage multiple remote locations performing complex software development projects, and ensure intellectual property protection outside of the U.S. Our international operations and sales subject us to a num",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 78233,
+        "end": 78733
+      }
+    },
+    {
+      "id": "7de3e5c126d7188e",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 17978,
+      "excerpt": "such as China and the United States, that political, diplomatic or military events could result in trade disruptions, including tariffs, trade embargoes, export restrictions and other trade barriers. A significant trade disruption, export restriction, or the establishment or increase of any trade barrier in any area where we do business could reduce customer demand and cause customers to search for substitute products and services, make our products and services more expensive or unavailable for",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 79855,
+        "end": 80415
+      }
+    },
+    {
+      "id": "a0a9c3002703926a",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 33452,
+      "excerpt": "ve and could result in unauthorized disclosure or loss of sensitive information. To date, we have not identified material cyber security incidents or incurred any material expenses with any incidents. However, any breach or compromise could adversely impact our business and operations, expose us or our customers to litigation, investigations, loss of data, increase costs, or result in loss of customer confidence and damage to our reputation, any of which could adversely affect our business and o",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 95328,
+        "end": 95828
+      }
+    },
+    {
+      "id": "5775195f1c780679",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 34325,
+      "excerpt": "ies. We also use third-party vendors that provide software or hardware, have access to our network, and/or store sensitive data, and these third parties are subject to their own cybersecurity threats. Our standard vendor terms and conditions include provisions requiring the use of appropriate security measures to prevent unauthorized use or disclosure of our data, as well as other safeguards. Despite these measures, there is no guarantee that a compromise of our third-party 21 Table of Contents",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 96201,
+        "end": 96760
+      }
+    },
+    {
+      "id": "57f46c31bf125d04",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 36074,
+      "excerpt": "ventative measures, or we may not have sufficient logging available to fully investigate the incident. Our security measures vary in maturity across the business and may be and have been circumvented. For example, we have identified instances where employees have used non-approved applications for business purposes, some of which do not meet our security standards. In addition, we discovered unauthorized third-party access to our products and product license files hosted on our SolvNet Plus cust",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 97950,
+        "end": 98450
+      }
+    },
+    {
+      "id": "2a3c01d033ae2412",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 44239,
+      "excerpt": "ggressively by our competitors and our customers worldwide. Any failure to recruit and/or retain senior management and key employees could harm our business, operating results and financial condition. Additionally, efforts to recruit and/or retain such employees could be costly and negatively impact our operating expenses. We issue equity awards from employee equity plans as a key component of our overall compensation. We face pressure to limit the use of such equity-based compensation due to di",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 106115,
+        "end": 106615
+      }
+    },
+    {
+      "id": "9d1f09810d1d6f44",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 48489,
+      "excerpt": "t share. Software products frequently contain errors or defects, especially when first introduced, when new versions are released, or when integrated with technologies developed by acquired companies. Product errors, including those resulting from third-party suppliers, could affect the performance or interoperability of our products, could delay the development or release of new products or new versions of products and could adversely affect market acceptance or perception of our products. In a",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 110365,
+        "end": 110865
+      }
+    },
+    {
+      "id": "13e52a69c65108b9",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 49490,
+      "excerpt": "erially and adversely affect our business, operating results and financial condition. Our hardware products, which primarily consist of prototyping and emulation systems, subject us to distinct risks. The growth in sales of our hardware products subjects us to risks, including, but not limited to: • Delays in production and delivery of our hardware products, including due to, among other things, difficulty scaling production capacity and yield to meet customer demand, or a dependence on a sole s",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 111366,
+        "end": 111866
+      }
+    },
+    {
+      "id": "be4744af88b2b34b",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 55554,
+      "excerpt": "program or pay dividends to our stockholders; and • limiting our ability to borrow additional funds in the future to fund growth, acquisitions, working capital, capital expenditures or other purposes. Our ability to make scheduled payments of the principal of, to pay interest on, or to refinance our indebtedness will depend on, among other factors, our financial position and performance as well as prevailing market conditions and other factors beyond our control. We may not continue to generate",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 117430,
+        "end": 117989
+      }
+    },
+    {
+      "id": "9c6530f154f8d9e6",
+      "ticker": "SNPS",
+      "vendor": "Arm",
+      "charOffset": 63893,
+      "excerpt": "performance and growth could be adversely affected. We or our directors or officers are subject to litigation proceedings, which are expensive, could divert management attention and harm our business. We are subject to legal claims or regulatory matters involving stockholder, consumer, employment, customer, supplier, competition and other issues on a global basis. Litigation is subject to inherent uncertainties, and unfavorable rulings could occur. An unfavorable ruling could include monetary da",
+      "sectionId": "item_1a_risk_factors_factors_that_may_af",
+      "sectionHeader": "Item 1A. Risk Factors Factors that May Affect Future Results Descriptions of risks associa",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 125769,
+        "end": 126269
+      }
+    },
+    {
+      "id": "c4e1e19eb312b739",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 872,
+      "excerpt": "We have implemented cybersecurity processes, technologies, and controls to aid in our efforts to identify, assess, and manage material risks, as well as to test and improve our incident response plan. Our approach includes, among other things: • Security and privacy reviews designed to identify risks from new features, software, suppliers, and vendors; • A vulnerability management program designed to identify software vulnerabilities; • A variety of tools designed to monitor our networks, system",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Cybersecurity Risk Managem",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 131204,
+        "end": 131704
+      }
+    },
+    {
+      "id": "2b83cca4c78f19bf",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 1872,
+      "excerpt": "employees, additional training for all Information Technology and Information Security personnel, and regular controlled penetration testing and cyber incident exercises to test the robustness of our data security protections and incident response readiness; • For suppliers and service providers, pre-engagement risk-based diligence, contractual security and notification provisions, and ongoing monitoring as appropriate; and • Maintaining cyber liability insurance that covers certain liabilities",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Cybersecurity Risk Managem",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 132204,
+        "end": 132763
+      }
+    },
+    {
+      "id": "86798a38a8d1bfbe",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 3632,
+      "excerpt": "part of the above approach and processes, we regularly engage with assessors, consultants, auditors, and other third-parties to help identify areas for continued focus, improvement and/or compliance. Since 2015, Synopsys is not aware of any material information security breaches and has not made any associated penalties/settlements, and the expenses we have incurred from cybersecurity incidents were immaterial. This 29 Table of Contents includes penalties and settlements, of which there were non",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Cybersecurity Risk Managem",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 133965,
+        "end": 134465
+      }
+    },
+    {
+      "id": "0f5544e6647fd888",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 727,
+      "excerpt": "ations of the Notes to Consolidated Financial Statements in this Annual Report for additional information about the sale of our former Software Integrity business (the Software Integrity Divestiture). Fiscal 2025 Financial Performance Summary For fiscal 2025, our results reflect continued, strong execution and the resiliency of our business, including 15% revenue growth compared to fiscal 2024, primarily due to revenue growth across a majority of product groups and geographies and the closing of",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 145824,
+        "end": 146384
+      }
+    },
+    {
+      "id": "47fa502be2bead3b",
+      "ticker": "SNPS",
+      "vendor": "Synopsys",
+      "charOffset": 1695,
+      "excerpt": "elow), which disrupted customer design starts in China, weaker than expected demand from a major foundry customer, and certain roadmap and resource decisions that did not yield their intended results. We have begun taking actions to sharpen our execution and reallocate resources to the highest growth opportunities in our Design IP segment, but expect to see muted growth in fiscal 2026. The following table sets forth some of our key consolidated financial information for each of our last three fi",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 146792,
+        "end": 147292
+      }
+    },
+    {
+      "id": "76382dfd3180a6f5",
+      "ticker": "SNPS",
+      "vendor": "Synopsys, Ansys",
+      "charOffset": 2695,
+      "excerpt": "Synopsys: Continuing operations $ 8.07 $ 9.25 $ 7.91 Discontinued operations $ (0.03) $ 5.26 $ 0.01 Fiscal 2025 compared to fiscal 2024 financial performance summary • Revenues were $7.1 billion, an increase of $926.8 million or 15%, which includes revenues from Ansys of $756.6 million. The remaining growth came organically across a majority of products and geographies and was partially offset by the impact of the extra week in the first quarter of fiscal 2024 of approximately $63.2 million, and",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 147793,
+        "end": 148353
+      }
+    },
+    {
+      "id": "86b26cfe2ca4e6dd",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 3390,
+      "excerpt": "rol restrictions, such as the Q3 2025 BIS Restrictions, weaker than expected demand from a major foundry customer, and certain roadmap and resource decisions that did not yield their intended results. • Total cost of revenue and operating expenses was $6.1 billion, an increase of $1.4 billion or 29%, primarily due to an increase of $664.5 million in employee-related costs from headcount increases as a result of the Ansys Merger of $432.1 million and the balance from organic growth, as well as $4",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 148487,
+        "end": 148987
+      }
+    },
+    {
+      "id": "73f4aa74285e34c7",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 11558,
+      "excerpt": "ating results or financial condition to date. The Bureau of Industry and Security of the U.S. Department of Commerce (BIS) has continued to publish changes to U.S. export control regulations (the U.S. Export Regulations), including, among other things, the inclusion of certain Chinese technology companies on the Entity List, restrictions on the export of electronic computer-aided design (ECAD) software specially designed for the development of certain ICs, as well as controls on ECAD software fo",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 156655,
+        "end": 157155
+      }
+    },
+    {
+      "id": "e4308f8fae5e34ae",
+      "ticker": "SNPS",
+      "vendor": "Ansys",
+      "charOffset": 36562,
+      "excerpt": "24 was primarily due to the closing of the Ansys Merger, which contributed $756.6 million in revenue in fiscal 2025, revenue growth of our business across a majority of product groups and geographies. This was offset by weakness in our Design IP segment due to several headwinds, including China export control restrictions, such as the Q3 2025 BIS Restrictions, weaker than expected demand from a major foundry customer, and certain roadmap and resource decisions that did not yield their intended r",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 181659,
+        "end": 182159
+      }
+    },
+    {
+      "id": "b43c91cee19590eb",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 41310,
+      "excerpt": "0 % 19 % Our cost of revenue comprises of three categories: cost of products revenue, cost of maintenance and service revenue, and amortization of acquired intangible assets. Cost of products revenue. Cost of products revenue includes costs related to products sold and software licensed, hardware-related costs including inventory provisions, allocated operating costs related to product support and distribution, royalties paid to third-party vendors, and the amortization of capitalized software d",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 186407,
+        "end": 186907
+      }
+    },
+    {
+      "id": "9e742cdbd9a44553",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 54703,
+      "excerpt": "n increase in revenue from arrangements booked in prior periods. 47 Table of Contents Design IP Segment Year Ended October 31, $ Change % Change $ Change % Change 2025 2024 2023 2025 vs. 2024 2024 vs. 2023 (dollars in millions) Adjusted operating income $ 419.3 $ 730.2 $ 514.1 $ (310.9) (43) % $ 216.1 42 % Adjusted operating margin 24 % 38 % 33 % (14) % (37) % 5 % 15 % The decrease in adjusted operating income for fiscal 2025 compared to fiscal 2024 was primarily due to lower revenue from the im",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 199800,
+        "end": 200300
+      }
+    },
+    {
+      "id": "a9944e3a7b7cdf54",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 58314,
+      "excerpt": "payment agreement related to the 2025 Rate Lock agreements. See Note 8. Financial Assets and Liabilities of the Notes to Consolidated Financial Statements in this Annual Report for further discussion. Based on past performance and current expectations, we believe that our existing cash, cash equivalents and short-term investments and sources of liquidity, as well as the debt financing, will be sufficient to satisfy our cash requirements, including repayment of outstanding debt, over the next twe",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 203411,
+        "end": 203911
+      }
+    },
+    {
+      "id": "8a17ec1af4ce4aa0",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 60187,
+      "excerpt": "perating activities to fluctuate as a result of a number of factors, including the timing of billings and collections, operating results, and the timing and amount of tax and other liability payments. Cash provided by operations is dependent primarily upon the payment terms of our license agreements. We generally receive cash from upfront arrangements much sooner than from time-based products revenue, in which the license fee is typically paid either quarterly or annually over the term of the li",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 205284,
+        "end": 205784
+      }
+    },
+    {
+      "id": "e1c22b3ada210512",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 27433,
+      "excerpt": "and comprehensive portfolio of semiconductor IP solutions, which are pre-designed circuits that engineers use as components of larger chip designs to reduce development risk and speed time to market. Our high quality, silicon-proven semiconductor IP includes logic libraries, embedded memories, wired interface IP, memory interface IP, security IP, and embedded processors. To accelerate IP integration and silicon bring-up, our IP Accelerated initiative provides architecture design expertise, custo",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 13718,
+        "end": 14218
+      }
+    },
+    {
+      "id": "533674727b73c298",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 53306,
+      "excerpt": "ation and testing requirement changes, and changes in customer delivery priorities. Payments for services are generally due upon milestones in the contract or upon consumption of the hourly resources. Flexible Spending Accounts Our customers frequently enter into non-cancelable Flexible Spending Account arrangements (FSA) whereby the customer commits to a fixed dollar amount over a specified period of time that can be used to purchase from a list of our products or services. These arrangements d",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 277741,
+        "end": 278241
+      }
+    },
+    {
+      "id": "576d60367d9015a2",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 104103,
+      "excerpt": "e duration of these forward contracts is usually less than one year . The overall goal of our hedging program is to minimize the impact of currency fluctuations on the net income over the fiscal year. The effects of the non-designated foreign currency derivative instruments in the consolidated statements of income are summarized as follows: Year Ended October 31, 2025 2024 2023 (in thousands) Gains (losses) recorded in other income (expense), net $ ( 5,492 ) $ ( 307 ) $ ( 5,899 ) The notional am",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 328538,
+        "end": 329038
+      }
+    },
+    {
+      "id": "9bbc0e2ecf1e0b59",
+      "ticker": "SNPS",
+      "vendor": null,
+      "charOffset": 104996,
+      "excerpt": "ed upon settlement of these financial instruments, together with the gains and losses on the underlying exposures, will depend on actual market conditions during the remaining life of the instruments. The following table represents the consolidated balance sheets location and amount of foreign currency derivative instrument fair values segregated between designated and non-designated hedge instruments: Fair values of derivative instruments designated as hedging instruments Fair values of derivat",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2025-12-22",
+      "type": "chunk",
+      "range": {
+        "start": 329431,
+        "end": 329931
+      }
+    }
+  ]
+}

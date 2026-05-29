@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Supply Chain Research">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="pcb" x1="2" y1="3" x2="30" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#101010"/>
+    </linearGradient>
+    <linearGradient id="die-iris" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="22%" stop-color="#818cf8"/>
+      <stop offset="45%" stop-color="#c084fc"/>
+      <stop offset="68%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+    <radialGradient id="die-shine" cx="0.35" cy="0.3" r="0.75">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#d1d5db"/>
+      <stop offset="1" stop-color="#6b7280"/>
+    </linearGradient>
+    <linearGradient id="hbm" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2a2a2a"/>
+      <stop offset="1" stop-color="#141414"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fcd34d"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="32" height="32" rx="8" fill="url(#bg)"/>
+
+  <!-- PCB -->
+  <rect x="2.2" y="3.2" width="27.6" height="25.6" rx="1.2" fill="url(#pcb)" stroke="#2e2e2e" stroke-width="0.35"/>
+
+  <!-- Edge connector (top) -->
+  <g fill="#ca8a04" fill-opacity="0.75">
+    <rect x="10" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="11.2" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="12.4" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="13.6" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="14.8" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="16" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="17.2" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="18.4" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="19.6" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+    <rect x="20.8" y="3.35" width="0.55" height="1.1" rx="0.1"/>
+  </g>
+
+  <!-- Mounting holes -->
+  <g>
+    <circle cx="4.3" cy="5.4" r="1.15" fill="none" stroke="url(#gold)" stroke-width="0.55"/>
+    <circle cx="4.3" cy="5.4" r="0.45" fill="#1a1206"/>
+    <circle cx="27.7" cy="5.4" r="1.15" fill="none" stroke="url(#gold)" stroke-width="0.55"/>
+    <circle cx="27.7" cy="5.4" r="0.45" fill="#1a1206"/>
+    <circle cx="4.3" cy="26.6" r="1.15" fill="none" stroke="url(#gold)" stroke-width="0.55"/>
+    <circle cx="4.3" cy="26.6" r="0.45" fill="#1a1206"/>
+    <circle cx="27.7" cy="26.6" r="1.15" fill="none" stroke="url(#gold)" stroke-width="0.55"/>
+    <circle cx="27.7" cy="26.6" r="0.45" fill="#1a1206"/>
+  </g>
+
+  <!-- Passive components (decoupling caps) -->
+  <g fill="#242424" stroke="#333" stroke-width="0.12">
+    <rect x="5.2" y="8.2" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="6.4" y="8.2" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="7.6" y="8.2" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="23.5" y="8.2" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="24.7" y="8.2" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="25.9" y="8.2" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="5.2" y="23.3" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="6.4" y="23.3" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="25.9" y="23.3" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="15.2" y="24.8" width="0.9" height="0.45" rx="0.08"/>
+    <rect x="16.4" y="24.8" width="0.9" height="0.45" rx="0.08"/>
+  </g>
+
+  <!-- HBM3e stacks (top-down black blocks around dies) -->
+  <g fill="url(#hbm)" stroke="#3f3f3f" stroke-width="0.15">
+    <rect x="3.4" y="10.8" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="3.4" y="12.35" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="3.4" y="13.9" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="3.4" y="15.45" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="3.4" y="17" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="3.4" y="18.55" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="3.4" y="20.1" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="5.9" y="9.4" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="7.5" y="9.4" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="5.9" y="20.3" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="7.5" y="20.3" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="26.3" y="10.8" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="26.3" y="12.35" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="26.3" y="13.9" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="26.3" y="15.45" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="26.3" y="17" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="26.3" y="18.55" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="26.3" y="20.1" width="2.3" height="1.25" rx="0.12"/>
+    <rect x="23.2" y="9.4" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="24.8" y="9.4" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="23.2" y="20.3" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="24.8" y="20.3" width="1.25" height="2.3" rx="0.12"/>
+    <rect x="14.6" y="9.8" width="2.8" height="1" rx="0.1"/>
+    <rect x="14.6" y="21.2" width="2.8" height="1" rx="0.1"/>
+    <rect x="15.1" y="11.2" width="1.8" height="9.6" rx="0.1"/>
+  </g>
+
+  <!-- Left GPU package (H200 die 1) -->
+  <g>
+    <rect x="6.4" y="11.2" width="7.8" height="9" rx="0.35" fill="url(#frame)" stroke="#9ca3af" stroke-width="0.25"/>
+    <rect x="7.2" y="12" width="6.2" height="7.4" rx="0.2" fill="#0a0a0a" stroke="#262626" stroke-width="0.2"/>
+    <rect x="8.6" y="13.4" width="3.4" height="3.8" rx="0.15" fill="url(#die-iris)"/>
+    <rect x="8.6" y="13.4" width="3.4" height="3.8" rx="0.15" fill="url(#die-shine)"/>
+    <g stroke="#94a3b8" stroke-opacity="0.25" stroke-width="0.15">
+      <path d="M8.9 13.7h2.8"/><path d="M8.9 14.5h2.8"/><path d="M8.9 15.3h2.8"/><path d="M8.9 16.1h2.8"/>
+      <path d="M9.2 13.7v3"/><path d="M10.2 13.7v3"/><path d="M11.2 13.7v3"/>
+    </g>
+  </g>
+
+  <!-- Right GPU package (H200 die 2) -->
+  <g>
+    <rect x="17.8" y="11.2" width="7.8" height="9" rx="0.35" fill="url(#frame)" stroke="#9ca3af" stroke-width="0.25"/>
+    <rect x="18.6" y="12" width="6.2" height="7.4" rx="0.2" fill="#0a0a0a" stroke="#262626" stroke-width="0.2"/>
+    <rect x="20" y="13.4" width="3.4" height="3.8" rx="0.15" fill="url(#die-iris)"/>
+    <rect x="20" y="13.4" width="3.4" height="3.8" rx="0.15" fill="url(#die-shine)"/>
+    <g stroke="#94a3b8" stroke-opacity="0.25" stroke-width="0.15">
+      <path d="M20.3 13.7h2.8"/><path d="M20.3 14.5h2.8"/><path d="M20.3 15.3h2.8"/><path d="M20.3 16.1h2.8"/>
+      <path d="M20.6 13.7v3"/><path d="M21.6 13.7v3"/><path d="M22.6 13.7v3"/>
+    </g>
+  </g>
+
+  <!-- Power delivery / VRM blocks -->
+  <g fill="#1f1f1f" stroke="#383838" stroke-width="0.12">
+    <rect x="10.5" y="7.2" width="2.8" height="1.5" rx="0.12"/>
+    <rect x="18.7" y="7.2" width="2.8" height="1.5" rx="0.12"/>
+    <rect x="10.5" y="23.3" width="2.8" height="1.5" rx="0.12"/>
+    <rect x="18.7" y="23.3" width="2.8" height="1.5" rx="0.12"/>
+  </g>
+
+  <!-- Solder mask traces -->
+  <g stroke="#3f3f46" stroke-width="0.18" stroke-opacity="0.45" fill="none">
+    <path d="M5 10.5h3.2"/><path d="M24 10.5h3.2"/>
+    <path d="M5 21.5h3.2"/><path d="M24 21.5h3.2"/>
+    <path d="M16 8.5v2"/><path d="M16 21.5v2"/>
+  </g>
+</svg>

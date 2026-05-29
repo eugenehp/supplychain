@@ -1,0 +1,3761 @@
+{
+  "topicId": "intel-gaudi-3",
+  "topicLabel": "Intel Gaudi 3",
+  "generatedAt": "2026-05-29T05:38:16.909Z",
+  "disclosureLevel": "full",
+  "disclosureNote": null,
+  "methodology": {
+    "approach": "reverse-tracing from SEC 10-K / 20-F filings",
+    "product": "Intel Gaudi 3",
+    "linkMetric": "USD spend per chip",
+    "normalization": "Intermediate node inflows scaled to equal outflows; internal margin not shown",
+    "tiers": "Product → Tier 1 (direct) → Tier 2 (fab inputs) → Tier 3 (equipment sub-components) → Tier 4 (raw materials) → Tier 5 (bulk / extractive inputs)",
+    "edaRouting": "Synopsys, Cadence, Siemens EDA, Ansys, Arm flow directly to product (design-time)",
+    "assemblyRouting": "Intel 10-K discloses foundry and ATMP partners; Gaudi tiles fabbed at TSMC with HBM stack assembly",
+    "sources": [
+      {
+        "id": "sec_edgar",
+        "label": "SEC EDGAR — search U.S. company filings",
+        "url": "https://www.sec.gov/search-filings",
+        "kind": "registry"
+      },
+      {
+        "id": "sec_evidence",
+        "label": "SEC-grounded excerpts (bundled in this report)",
+        "url": "#sec-evidence",
+        "kind": "report"
+      },
+      {
+        "id": "trendforce_hbm",
+        "label": "TrendForce — HBM market share projections (2025)",
+        "url": "https://www.trendforce.com/news/2025/08/18/news-nvidia-reportedly-drives-27-of-sk-hynix-revenue-in-1h25-cementing-ai-chip-partnership/",
+        "kind": "industry"
+      },
+      {
+        "id": "semianalysis_h200_benchmark",
+        "label": "SemiAnalysis — H200 public benchmark & architecture notes",
+        "url": "https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training",
+        "kind": "industry"
+      },
+      {
+        "id": "yole_advanced_packaging",
+        "label": "Yole Group — advanced packaging & CoWoS substrate demand",
+        "url": "https://www.yolegroup.com/pressrelease/advanced-packaging-market-expected-to-reach-us-89-4-billion-by-2030-yole-group-says/",
+        "kind": "industry"
+      },
+      {
+        "id": "sec_filing_AMAT",
+        "label": "AMAT — APPLIED MATERIALS INC /DE 10-K (2025-12-12)",
+        "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm",
+        "kind": "sec_filing",
+        "ticker": "AMAT"
+      },
+      {
+        "id": "sec_filing_AMKR",
+        "label": "AMKR — AMKOR TECHNOLOGY, INC. 10-K (2026-02-20)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1047127/000104712726000014/amkr-20251231.htm",
+        "kind": "sec_filing",
+        "ticker": "AMKR"
+      },
+      {
+        "id": "sec_filing_ASML",
+        "label": "ASML — ASML HOLDING NV 20-F (2026-02-25)",
+        "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+        "kind": "sec_filing",
+        "ticker": "ASML"
+      },
+      {
+        "id": "sec_filing_CDNS",
+        "label": "CDNS — CADENCE DESIGN SYSTEMS INC 10-K (2026-02-19)",
+        "url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000016/cdns-20251231.htm",
+        "kind": "sec_filing",
+        "ticker": "CDNS"
+      },
+      {
+        "id": "sec_filing_INTC",
+        "label": "INTC — INTEL CORP 10-K (2026-01-23)",
+        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+        "kind": "sec_filing",
+        "ticker": "INTC"
+      },
+      {
+        "id": "sec_filing_KLAC",
+        "label": "KLAC — KLA CORP 10-K (2025-08-08)",
+        "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+        "kind": "sec_filing",
+        "ticker": "KLAC"
+      },
+      {
+        "id": "sec_filing_LRCX",
+        "label": "LRCX — LAM RESEARCH CORP 10-K (2025-08-11)",
+        "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm",
+        "kind": "sec_filing",
+        "ticker": "LRCX"
+      },
+      {
+        "id": "sec_filing_MU",
+        "label": "MU — MICRON TECHNOLOGY INC 10-K (2025-10-03)",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm",
+        "kind": "sec_filing",
+        "ticker": "MU"
+      },
+      {
+        "id": "sec_filing_SNPS",
+        "label": "SNPS — SYNOPSYS INC 10-K (2025-12-22)",
+        "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/snps-20251031.htm",
+        "kind": "sec_filing",
+        "ticker": "SNPS"
+      },
+      {
+        "id": "sec_filing_TSM",
+        "label": "TSM — TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD 20-F (2026-04-16)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+        "kind": "sec_filing",
+        "ticker": "TSM"
+      }
+    ]
+  },
+  "summary": {
+    "totalBomPerChip": 537,
+    "tsmcShare": 35.8,
+    "skHynixShare": 46.2,
+    "hbmTotalPerChip": 290,
+    "annualVolumeEstimate": 350000,
+    "tsmcVsHynixRatio": 0.77,
+    "graphNodes": 47,
+    "graphLinks": 70,
+    "secGroundedVendors": 27
+  },
+  "nodes": [
+    {
+      "id": "TSMC",
+      "name": "TSMC",
+      "tier": 1,
+      "group": "foundry",
+      "description": "INTC 10-K / industry: primary foundry for Gaudi 3 compute tiles",
+      "country": null,
+      "mentionScore": 66
+    },
+    {
+      "id": "Intel Gaudi 3",
+      "name": "Intel Gaudi 3",
+      "tier": 0,
+      "group": "product",
+      "description": "Habana Gaudi 3 — training accelerator, TSMC 5nm compute + HBM2e",
+      "country": "US",
+      "mentionScore": 0
+    },
+    {
+      "id": "SK Hynix",
+      "name": "SK Hynix",
+      "tier": 1,
+      "group": "memory",
+      "description": "INTC 10-K: HBM memory supplier",
+      "country": null,
+      "mentionScore": 27
+    },
+    {
+      "id": "Samsung",
+      "name": "Samsung",
+      "tier": 1,
+      "group": "memory",
+      "description": "INTC 10-K: HBM and alternate foundry capacity",
+      "country": null,
+      "mentionScore": 5
+    },
+    {
+      "id": "Micron",
+      "name": "Micron",
+      "tier": 1,
+      "group": "memory",
+      "description": "INTC 10-K: HBM memory supplier",
+      "country": null,
+      "mentionScore": 270
+    },
+    {
+      "id": "Amkor",
+      "name": "Amkor",
+      "tier": 1,
+      "group": "osat",
+      "description": "INTC 10-K: assembly & test subcontractor",
+      "country": null,
+      "mentionScore": 82
+    },
+    {
+      "id": "Intel",
+      "name": "Intel",
+      "tier": 1,
+      "group": "foundry",
+      "description": "INTC 10-K: internal Intel Foundry for select tiles & packaging",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "ASE Technology",
+      "name": "ASE Technology",
+      "tier": 1,
+      "group": "osat",
+      "description": "OSAT — cited across INTC, TSM filings",
+      "country": null,
+      "mentionScore": 1
+    },
+    {
+      "id": "Synopsys",
+      "name": "Synopsys",
+      "tier": 1,
+      "group": "eda",
+      "description": "EDA tools & IP — SNPS 10-K",
+      "country": null,
+      "mentionScore": 402
+    },
+    {
+      "id": "Cadence",
+      "name": "Cadence",
+      "tier": 1,
+      "group": "eda",
+      "description": "Verification & emulation — CDNS 10-K",
+      "country": null,
+      "mentionScore": 698
+    },
+    {
+      "id": "Siemens EDA",
+      "name": "Siemens EDA",
+      "tier": 1,
+      "group": "eda",
+      "description": "SNPS/CDNS 10-K: EDA ecosystem competitor",
+      "country": null,
+      "mentionScore": 3
+    },
+    {
+      "id": "Ansys",
+      "name": "Ansys",
+      "tier": 1,
+      "group": "eda",
+      "description": "SNPS 10-K: simulation (acquired by Synopsys)",
+      "country": null,
+      "mentionScore": 184
+    },
+    {
+      "id": "Arm",
+      "name": "Arm",
+      "tier": 1,
+      "group": "eda",
+      "description": "Interconnect & CPU IP licenses",
+      "country": null,
+      "mentionScore": 232
+    },
+    {
+      "id": "ASML",
+      "name": "ASML",
+      "tier": 2,
+      "group": "equipment",
+      "description": "EUV & DUV lithography — ASML 20-F",
+      "country": null,
+      "mentionScore": 1748
+    },
+    {
+      "id": "Applied Materials",
+      "name": "Applied Materials",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Deposition, CMP, implant — AMAT 10-K",
+      "country": null,
+      "mentionScore": 471
+    },
+    {
+      "id": "Lam Research",
+      "name": "Lam Research",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Etch & deposition — LRCX 10-K",
+      "country": null,
+      "mentionScore": 137
+    },
+    {
+      "id": "KLA",
+      "name": "KLA",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Process control & metrology — KLAC 10-K",
+      "country": null,
+      "mentionScore": 89
+    },
+    {
+      "id": "Tokyo Electron",
+      "name": "Tokyo Electron",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: coater/developer, furnaces",
+      "country": null,
+      "mentionScore": 2
+    },
+    {
+      "id": "Hitachi High-Tech",
+      "name": "Hitachi High-Tech",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX/KLA 10-K: etch & metrology",
+      "country": null,
+      "mentionScore": 2
+    },
+    {
+      "id": "Onto Innovation",
+      "name": "Onto Innovation",
+      "tier": 2,
+      "group": "equipment",
+      "description": "KLAC 10-K: optical metrology",
+      "country": null,
+      "mentionScore": 1
+    },
+    {
+      "id": "ASM International",
+      "name": "ASM International",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: ALD & PECVD",
+      "country": null,
+      "mentionScore": 1
+    },
+    {
+      "id": "Wonik IPS",
+      "name": "Wonik IPS",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: etch & deposition (Korea)",
+      "country": null,
+      "mentionScore": 1
+    },
+    {
+      "id": "Lasertec",
+      "name": "Lasertec",
+      "tier": 2,
+      "group": "equipment",
+      "description": "KLAC 10-K: e-beam metrology",
+      "country": null,
+      "mentionScore": 1
+    },
+    {
+      "id": "Nikon",
+      "name": "Nikon",
+      "tier": 2,
+      "group": "equipment",
+      "description": "ASML 20-F: DUV lithography competitor",
+      "country": null,
+      "mentionScore": 3
+    },
+    {
+      "id": "Zeiss",
+      "name": "Zeiss",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "ASML 20-F: sole supplier of EUV optics (Carl Zeiss SMT)",
+      "country": null,
+      "mentionScore": 64
+    },
+    {
+      "id": "Cymer",
+      "name": "Cymer",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "ASML 20-F: EUV light source (ASML subsidiary)",
+      "country": null,
+      "mentionScore": 14
+    },
+    {
+      "id": "Trumpf",
+      "name": "Trumpf",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Laser systems for lithography & metrology",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "VAT Group",
+      "name": "VAT Group",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Vacuum valves — ASML/KLA filings",
+      "country": null,
+      "mentionScore": 5
+    },
+    {
+      "id": "TOTO",
+      "name": "TOTO",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Electrostatic chucks for wafer handling",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "JSR",
+      "name": "JSR",
+      "tier": 2,
+      "group": "materials",
+      "description": "EUV & DUV photoresist",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Shin-Etsu (PR)",
+      "name": "Shin-Etsu (PR)",
+      "tier": 2,
+      "group": "materials",
+      "description": "Photoresist",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Shin-Etsu (Wafers)",
+      "name": "Shin-Etsu (Wafers)",
+      "tier": 2,
+      "group": "materials",
+      "description": "300mm silicon wafers",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Linde",
+      "name": "Linde",
+      "tier": 2,
+      "group": "materials",
+      "description": "Ultra-high purity process gases",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Ibiden",
+      "name": "Ibiden",
+      "tier": 2,
+      "group": "materials",
+      "description": "ABF substrates for advanced packaging interposer",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Schott",
+      "name": "Schott",
+      "tier": 4,
+      "group": "raw",
+      "description": "Specialty glass & mirror substrates for EUV optics (Zeiss supply chain)",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Hoya",
+      "name": "Hoya",
+      "tier": 4,
+      "group": "raw",
+      "description": "Optical glass blanks & filter materials for precision optics",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Corning",
+      "name": "Corning",
+      "tier": 4,
+      "group": "raw",
+      "description": "Fused silica & advanced glass for lithography optics",
+      "country": null,
+      "mentionScore": 1
+    },
+    {
+      "id": "Pfeiffer Vacuum",
+      "name": "Pfeiffer Vacuum",
+      "tier": 4,
+      "group": "raw",
+      "description": "Vacuum pumps & gauging for semiconductor vacuum systems",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Ferrotec",
+      "name": "Ferrotec",
+      "tier": 4,
+      "group": "raw",
+      "description": "Ceramic & silicon components for electrostatic chucks",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "IPG Photonics",
+      "name": "IPG Photonics",
+      "tier": 4,
+      "group": "raw",
+      "description": "High-power fiber laser diodes for Trumpf laser systems",
+      "country": "US",
+      "mentionScore": 0
+    },
+    {
+      "id": "SGL Carbon",
+      "name": "SGL Carbon",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Graphite & carbon materials for high-power laser diodes (IPG supply chain)",
+      "country": "DE",
+      "mentionScore": 0
+    },
+    {
+      "id": "Morgan Advanced Materials",
+      "name": "Morgan Advanced Materials",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Advanced ceramics & thermal materials for electrostatic chucks",
+      "country": "GB",
+      "mentionScore": 0
+    },
+    {
+      "id": "Materion",
+      "name": "Materion",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Beryllium & specialty metals for precision optical glass",
+      "country": "US",
+      "mentionScore": 0
+    },
+    {
+      "id": "Sibelco",
+      "name": "Sibelco",
+      "tier": 5,
+      "group": "commodity",
+      "description": "High-purity quartz sand for fused silica glass",
+      "country": "BE",
+      "mentionScore": 0
+    },
+    {
+      "id": "Sumitomo Metal Mining",
+      "name": "Sumitomo Metal Mining",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Rare metals & optical-grade raw materials for lens blanks",
+      "country": "JP",
+      "mentionScore": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "TSMC",
+      "target": "Intel Gaudi 3",
+      "value": 192
+    },
+    {
+      "source": "SK Hynix",
+      "target": "Intel Gaudi 3",
+      "value": 248
+    },
+    {
+      "source": "Samsung",
+      "target": "Intel Gaudi 3",
+      "value": 20
+    },
+    {
+      "source": "Micron",
+      "target": "Intel Gaudi 3",
+      "value": 22
+    },
+    {
+      "source": "Amkor",
+      "target": "Intel Gaudi 3",
+      "value": 14
+    },
+    {
+      "source": "Intel",
+      "target": "Intel Gaudi 3",
+      "value": 18
+    },
+    {
+      "source": "ASE Technology",
+      "target": "TSMC",
+      "value": 6
+    },
+    {
+      "source": "ASE Technology",
+      "target": "Amkor",
+      "value": 6
+    },
+    {
+      "source": "Synopsys",
+      "target": "Intel Gaudi 3",
+      "value": 9
+    },
+    {
+      "source": "Cadence",
+      "target": "Intel Gaudi 3",
+      "value": 5
+    },
+    {
+      "source": "Siemens EDA",
+      "target": "Intel Gaudi 3",
+      "value": 3
+    },
+    {
+      "source": "Ansys",
+      "target": "Intel Gaudi 3",
+      "value": 2
+    },
+    {
+      "source": "Arm",
+      "target": "Intel Gaudi 3",
+      "value": 4
+    },
+    {
+      "source": "ASML",
+      "target": "TSMC",
+      "value": 35.5
+    },
+    {
+      "source": "ASML",
+      "target": "SK Hynix",
+      "value": 22.09
+    },
+    {
+      "source": "ASML",
+      "target": "Samsung",
+      "value": 11.83
+    },
+    {
+      "source": "ASML",
+      "target": "Micron",
+      "value": 9.47
+    },
+    {
+      "source": "ASML",
+      "target": "Intel",
+      "value": 15.78
+    },
+    {
+      "source": "Applied Materials",
+      "target": "TSMC",
+      "value": 15.88
+    },
+    {
+      "source": "Applied Materials",
+      "target": "SK Hynix",
+      "value": 9.88
+    },
+    {
+      "source": "Applied Materials",
+      "target": "Samsung",
+      "value": 5.29
+    },
+    {
+      "source": "Applied Materials",
+      "target": "Micron",
+      "value": 4.23
+    },
+    {
+      "source": "Applied Materials",
+      "target": "Intel",
+      "value": 7.06
+    },
+    {
+      "source": "Lam Research",
+      "target": "TSMC",
+      "value": 3.52
+    },
+    {
+      "source": "Lam Research",
+      "target": "SK Hynix",
+      "value": 2.19
+    },
+    {
+      "source": "Lam Research",
+      "target": "Samsung",
+      "value": 1.17
+    },
+    {
+      "source": "Lam Research",
+      "target": "Micron",
+      "value": 0.94
+    },
+    {
+      "source": "Lam Research",
+      "target": "Intel",
+      "value": 1.56
+    },
+    {
+      "source": "KLA",
+      "target": "TSMC",
+      "value": 8.1
+    },
+    {
+      "source": "KLA",
+      "target": "SK Hynix",
+      "value": 5.04
+    },
+    {
+      "source": "KLA",
+      "target": "Samsung",
+      "value": 2.7
+    },
+    {
+      "source": "KLA",
+      "target": "Micron",
+      "value": 2.16
+    },
+    {
+      "source": "KLA",
+      "target": "Intel",
+      "value": 3.6
+    },
+    {
+      "source": "Tokyo Electron",
+      "target": "TSMC",
+      "value": 9.9
+    },
+    {
+      "source": "Tokyo Electron",
+      "target": "SK Hynix",
+      "value": 6.16
+    },
+    {
+      "source": "Hitachi High-Tech",
+      "target": "TSMC",
+      "value": 8
+    },
+    {
+      "source": "Hitachi High-Tech",
+      "target": "SK Hynix",
+      "value": 8
+    },
+    {
+      "source": "Onto Innovation",
+      "target": "TSMC",
+      "value": 6
+    },
+    {
+      "source": "ASM International",
+      "target": "TSMC",
+      "value": 7
+    },
+    {
+      "source": "Wonik IPS",
+      "target": "SK Hynix",
+      "value": 5
+    },
+    {
+      "source": "Lasertec",
+      "target": "TSMC",
+      "value": 5
+    },
+    {
+      "source": "Nikon",
+      "target": "TSMC",
+      "value": 4
+    },
+    {
+      "source": "Zeiss",
+      "target": "ASML",
+      "value": 28.6
+    },
+    {
+      "source": "Cymer",
+      "target": "ASML",
+      "value": 13
+    },
+    {
+      "source": "Trumpf",
+      "target": "ASML",
+      "value": 15.6
+    },
+    {
+      "source": "VAT Group",
+      "target": "ASML",
+      "value": 5.2
+    },
+    {
+      "source": "VAT Group",
+      "target": "Applied Materials",
+      "value": 18.24
+    },
+    {
+      "source": "VAT Group",
+      "target": "Lam Research",
+      "value": 15.36
+    },
+    {
+      "source": "VAT Group",
+      "target": "KLA",
+      "value": 21.6
+    },
+    {
+      "source": "TOTO",
+      "target": "Applied Materials",
+      "value": 27.36
+    },
+    {
+      "source": "TOTO",
+      "target": "Lam Research",
+      "value": 23.04
+    },
+    {
+      "source": "JSR",
+      "target": "TSMC",
+      "value": 4.4
+    },
+    {
+      "source": "JSR",
+      "target": "SK Hynix",
+      "value": 2.8
+    },
+    {
+      "source": "Shin-Etsu (PR)",
+      "target": "TSMC",
+      "value": 3.3
+    },
+    {
+      "source": "Shin-Etsu (Wafers)",
+      "target": "TSMC",
+      "value": 6.6
+    },
+    {
+      "source": "Shin-Etsu (Wafers)",
+      "target": "SK Hynix",
+      "value": 4.2
+    },
+    {
+      "source": "Linde",
+      "target": "TSMC",
+      "value": 4.95
+    },
+    {
+      "source": "Linde",
+      "target": "SK Hynix",
+      "value": 3.15
+    },
+    {
+      "source": "Ibiden",
+      "target": "TSMC",
+      "value": 8.25
+    },
+    {
+      "source": "Schott",
+      "target": "Zeiss",
+      "value": 9.26
+    },
+    {
+      "source": "Hoya",
+      "target": "Zeiss",
+      "value": 6.95
+    },
+    {
+      "source": "Corning",
+      "target": "Zeiss",
+      "value": 5.79
+    },
+    {
+      "source": "Pfeiffer Vacuum",
+      "target": "VAT Group",
+      "value": 16
+    },
+    {
+      "source": "Ferrotec",
+      "target": "TOTO",
+      "value": 12
+    },
+    {
+      "source": "IPG Photonics",
+      "target": "Trumpf",
+      "value": 12
+    },
+    {
+      "source": "SGL Carbon",
+      "target": "IPG Photonics",
+      "value": 5
+    },
+    {
+      "source": "Morgan Advanced Materials",
+      "target": "Ferrotec",
+      "value": 3
+    },
+    {
+      "source": "Materion",
+      "target": "Schott",
+      "value": 8
+    },
+    {
+      "source": "Sibelco",
+      "target": "Corning",
+      "value": 5
+    },
+    {
+      "source": "Sumitomo Metal Mining",
+      "target": "Hoya",
+      "value": 6
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "Intel Gaudi 3",
+        "name": "Intel Gaudi 3",
+        "tier": 0,
+        "group": "product",
+        "description": "Habana Gaudi 3 — training accelerator, TSMC 5nm compute + HBM2e",
+        "country": "US",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "TSMC",
+        "name": "TSMC",
+        "tier": 1,
+        "group": "foundry",
+        "description": "INTC 10-K / industry: primary foundry for Gaudi 3 compute tiles",
+        "country": null,
+        "mentionScore": 66,
+        "sources": [
+          "TSM",
+          "ASML",
+          "LRCX",
+          "KLAC",
+          "rag",
+          "NVDA",
+          "TSM"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "SK Hynix",
+        "name": "SK Hynix",
+        "tier": 1,
+        "group": "memory",
+        "description": "INTC 10-K: HBM memory supplier",
+        "country": null,
+        "mentionScore": 27,
+        "sources": [
+          "INTC",
+          "MU",
+          "rag",
+          "INTC",
+          "MU",
+          "NVDA"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Samsung",
+        "name": "Samsung",
+        "tier": 1,
+        "group": "memory",
+        "description": "INTC 10-K: HBM and alternate foundry capacity",
+        "country": null,
+        "mentionScore": 5,
+        "sources": [
+          "LRCX",
+          "KLAC",
+          "MU"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Micron",
+        "name": "Micron",
+        "tier": 1,
+        "group": "memory",
+        "description": "INTC 10-K: HBM memory supplier",
+        "country": null,
+        "mentionScore": 270,
+        "sources": [
+          "INTC",
+          "TSM",
+          "ASML",
+          "MU",
+          "rag",
+          "ASML",
+          "INTC",
+          "MU",
+          "NVDA",
+          "TSM"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Amkor",
+        "name": "Amkor",
+        "tier": 1,
+        "group": "osat",
+        "description": "INTC 10-K: assembly & test subcontractor",
+        "country": null,
+        "mentionScore": 82,
+        "sources": [
+          "AMKR"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Intel",
+        "name": "Intel",
+        "tier": 1,
+        "group": "foundry",
+        "description": "INTC 10-K: internal Intel Foundry for select tiles & packaging",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "ASE Technology",
+        "name": "ASE Technology",
+        "tier": 1,
+        "group": "osat",
+        "description": "OSAT — cited across INTC, TSM filings",
+        "country": null,
+        "mentionScore": 1,
+        "sources": [
+          "AMKR"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Synopsys",
+        "name": "Synopsys",
+        "tier": 1,
+        "group": "eda",
+        "description": "EDA tools & IP — SNPS 10-K",
+        "country": null,
+        "mentionScore": 402,
+        "sources": [
+          "TSM",
+          "SNPS",
+          "CDNS",
+          "rag",
+          "CDNS",
+          "GFS",
+          "SNPS"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Cadence",
+        "name": "Cadence",
+        "tier": 1,
+        "group": "eda",
+        "description": "Verification & emulation — CDNS 10-K",
+        "country": null,
+        "mentionScore": 698,
+        "sources": [
+          "INTC",
+          "TSM",
+          "AMAT",
+          "LRCX",
+          "SNPS",
+          "CDNS",
+          "MU",
+          "rag",
+          "CDNS",
+          "INTC",
+          "NVDA",
+          "TSM"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Siemens EDA",
+        "name": "Siemens EDA",
+        "tier": 1,
+        "group": "eda",
+        "description": "SNPS/CDNS 10-K: EDA ecosystem competitor",
+        "country": null,
+        "mentionScore": 3,
+        "sources": [
+          "SNPS",
+          "CDNS"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Ansys",
+        "name": "Ansys",
+        "tier": 1,
+        "group": "eda",
+        "description": "SNPS 10-K: simulation (acquired by Synopsys)",
+        "country": null,
+        "mentionScore": 184,
+        "sources": [
+          "SNPS",
+          "CDNS"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Arm",
+        "name": "Arm",
+        "tier": 1,
+        "group": "eda",
+        "description": "Interconnect & CPU IP licenses",
+        "country": null,
+        "mentionScore": 232,
+        "sources": [
+          "INTC",
+          "TSM",
+          "ASML",
+          "AMAT",
+          "LRCX",
+          "KLAC",
+          "SNPS",
+          "CDNS",
+          "MU",
+          "AMKR"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "ASML",
+        "name": "ASML",
+        "tier": 2,
+        "group": "equipment",
+        "description": "EUV & DUV lithography — ASML 20-F",
+        "country": null,
+        "mentionScore": 1748,
+        "sources": [
+          "INTC",
+          "ASML",
+          "KLAC",
+          "rag",
+          "ASML"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Applied Materials",
+        "name": "Applied Materials",
+        "tier": 2,
+        "group": "equipment",
+        "description": "Deposition, CMP, implant — AMAT 10-K",
+        "country": null,
+        "mentionScore": 471,
+        "sources": [
+          "TSM",
+          "ASML",
+          "AMAT",
+          "LRCX",
+          "KLAC",
+          "SNPS",
+          "rag",
+          "AMAT",
+          "ASML",
+          "KLAC",
+          "LRCX",
+          "SNPS",
+          "TSM"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Lam Research",
+        "name": "Lam Research",
+        "tier": 2,
+        "group": "equipment",
+        "description": "Etch & deposition — LRCX 10-K",
+        "country": null,
+        "mentionScore": 137,
+        "sources": [
+          "ASML",
+          "LRCX",
+          "CDNS",
+          "rag",
+          "CDNS",
+          "LRCX"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "KLA",
+        "name": "KLA",
+        "tier": 2,
+        "group": "equipment",
+        "description": "Process control & metrology — KLAC 10-K",
+        "country": null,
+        "mentionScore": 89,
+        "sources": [
+          "INTC",
+          "ASML",
+          "AMAT",
+          "LRCX",
+          "KLAC"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Tokyo Electron",
+        "name": "Tokyo Electron",
+        "tier": 2,
+        "group": "equipment",
+        "description": "LRCX 10-K: coater/developer, furnaces",
+        "country": null,
+        "mentionScore": 2,
+        "sources": [
+          "LRCX"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Hitachi High-Tech",
+        "name": "Hitachi High-Tech",
+        "tier": 2,
+        "group": "equipment",
+        "description": "LRCX/KLA 10-K: etch & metrology",
+        "country": null,
+        "mentionScore": 2,
+        "sources": [
+          "LRCX",
+          "KLAC"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Onto Innovation",
+        "name": "Onto Innovation",
+        "tier": 2,
+        "group": "equipment",
+        "description": "KLAC 10-K: optical metrology",
+        "country": null,
+        "mentionScore": 1,
+        "sources": [
+          "KLAC"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "ASM International",
+        "name": "ASM International",
+        "tier": 2,
+        "group": "equipment",
+        "description": "LRCX 10-K: ALD & PECVD",
+        "country": null,
+        "mentionScore": 1,
+        "sources": [
+          "LRCX"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Wonik IPS",
+        "name": "Wonik IPS",
+        "tier": 2,
+        "group": "equipment",
+        "description": "LRCX 10-K: etch & deposition (Korea)",
+        "country": null,
+        "mentionScore": 1,
+        "sources": [
+          "LRCX"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Lasertec",
+        "name": "Lasertec",
+        "tier": 2,
+        "group": "equipment",
+        "description": "KLAC 10-K: e-beam metrology",
+        "country": null,
+        "mentionScore": 1,
+        "sources": [
+          "KLAC"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Nikon",
+        "name": "Nikon",
+        "tier": 2,
+        "group": "equipment",
+        "description": "ASML 20-F: DUV lithography competitor",
+        "country": null,
+        "mentionScore": 3,
+        "sources": [
+          "ASML"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Zeiss",
+        "name": "Zeiss",
+        "tier": 3,
+        "group": "subcomponent",
+        "description": "ASML 20-F: sole supplier of EUV optics (Carl Zeiss SMT)",
+        "country": null,
+        "mentionScore": 64,
+        "sources": [
+          "ASML",
+          "ASML"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Cymer",
+        "name": "Cymer",
+        "tier": 3,
+        "group": "subcomponent",
+        "description": "ASML 20-F: EUV light source (ASML subsidiary)",
+        "country": null,
+        "mentionScore": 14,
+        "sources": [
+          "ASML"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Trumpf",
+        "name": "Trumpf",
+        "tier": 3,
+        "group": "subcomponent",
+        "description": "Laser systems for lithography & metrology",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "VAT Group",
+        "name": "VAT Group",
+        "tier": 3,
+        "group": "subcomponent",
+        "description": "Vacuum valves — ASML/KLA filings",
+        "country": null,
+        "mentionScore": 5,
+        "sources": [
+          "ASML",
+          "KLAC"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "TOTO",
+        "name": "TOTO",
+        "tier": 3,
+        "group": "subcomponent",
+        "description": "Electrostatic chucks for wafer handling",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "JSR",
+        "name": "JSR",
+        "tier": 2,
+        "group": "materials",
+        "description": "EUV & DUV photoresist",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Shin-Etsu (PR)",
+        "name": "Shin-Etsu (PR)",
+        "tier": 2,
+        "group": "materials",
+        "description": "Photoresist",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Shin-Etsu (Wafers)",
+        "name": "Shin-Etsu (Wafers)",
+        "tier": 2,
+        "group": "materials",
+        "description": "300mm silicon wafers",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Linde",
+        "name": "Linde",
+        "tier": 2,
+        "group": "materials",
+        "description": "Ultra-high purity process gases",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Ibiden",
+        "name": "Ibiden",
+        "tier": 2,
+        "group": "materials",
+        "description": "ABF substrates for advanced packaging interposer",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Schott",
+        "name": "Schott",
+        "tier": 4,
+        "group": "raw",
+        "description": "Specialty glass & mirror substrates for EUV optics (Zeiss supply chain)",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Hoya",
+        "name": "Hoya",
+        "tier": 4,
+        "group": "raw",
+        "description": "Optical glass blanks & filter materials for precision optics",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Corning",
+        "name": "Corning",
+        "tier": 4,
+        "group": "raw",
+        "description": "Fused silica & advanced glass for lithography optics",
+        "country": null,
+        "mentionScore": 1,
+        "sources": [
+          "LRCX"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Pfeiffer Vacuum",
+        "name": "Pfeiffer Vacuum",
+        "tier": 4,
+        "group": "raw",
+        "description": "Vacuum pumps & gauging for semiconductor vacuum systems",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Ferrotec",
+        "name": "Ferrotec",
+        "tier": 4,
+        "group": "raw",
+        "description": "Ceramic & silicon components for electrostatic chucks",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "IPG Photonics",
+        "name": "IPG Photonics",
+        "tier": 4,
+        "group": "raw",
+        "description": "High-power fiber laser diodes for Trumpf laser systems",
+        "country": "US",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "SGL Carbon",
+        "name": "SGL Carbon",
+        "tier": 5,
+        "group": "commodity",
+        "description": "Graphite & carbon materials for high-power laser diodes (IPG supply chain)",
+        "country": "DE",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Morgan Advanced Materials",
+        "name": "Morgan Advanced Materials",
+        "tier": 5,
+        "group": "commodity",
+        "description": "Advanced ceramics & thermal materials for electrostatic chucks",
+        "country": "GB",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Materion",
+        "name": "Materion",
+        "tier": 5,
+        "group": "commodity",
+        "description": "Beryllium & specialty metals for precision optical glass",
+        "country": "US",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Sibelco",
+        "name": "Sibelco",
+        "tier": 5,
+        "group": "commodity",
+        "description": "High-purity quartz sand for fused silica glass",
+        "country": "BE",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "Sumitomo Metal Mining",
+        "name": "Sumitomo Metal Mining",
+        "tier": 5,
+        "group": "commodity",
+        "description": "Rare metals & optical-grade raw materials for lens blanks",
+        "country": "JP",
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      },
+      {
+        "id": "GlobalFoundries",
+        "name": "GlobalFoundries",
+        "tier": 1,
+        "group": "foundry",
+        "description": "",
+        "country": null,
+        "mentionScore": 3,
+        "sources": [
+          "INTC"
+        ],
+        "inSankey": true
+      },
+      {
+        "id": "Canon",
+        "name": "Canon",
+        "tier": 2,
+        "group": "equipment",
+        "description": "ASML 20-F: lithography competitor",
+        "country": null,
+        "mentionScore": 0,
+        "sources": [],
+        "inSankey": true
+      }
+    ],
+    "links": [
+      {
+        "source": "TSMC",
+        "target": "Intel Gaudi 3",
+        "value": 192,
+        "tier": 1,
+        "origin": "sec_grounded",
+        "note": "Primary external foundry for Gaudi 3"
+      },
+      {
+        "source": "SK Hynix",
+        "target": "Intel Gaudi 3",
+        "value": 248,
+        "tier": 1,
+        "origin": "sec_grounded",
+        "note": "128GB HBM2e stack"
+      },
+      {
+        "source": "Samsung",
+        "target": "Intel Gaudi 3",
+        "value": 20,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Micron",
+        "target": "Intel Gaudi 3",
+        "value": 22,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Amkor",
+        "target": "Intel Gaudi 3",
+        "value": 14,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Intel",
+        "target": "Intel Gaudi 3",
+        "value": 18,
+        "tier": 1,
+        "origin": "sec_grounded",
+        "note": "Internal packaging / legacy-node content"
+      },
+      {
+        "source": "ASE Technology",
+        "target": "TSMC",
+        "value": 6,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASE Technology",
+        "target": "Amkor",
+        "value": 6,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Synopsys",
+        "target": "Intel Gaudi 3",
+        "value": 9,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Cadence",
+        "target": "Intel Gaudi 3",
+        "value": 5,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Siemens EDA",
+        "target": "Intel Gaudi 3",
+        "value": 3,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Ansys",
+        "target": "Intel Gaudi 3",
+        "value": 2,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Arm",
+        "target": "Intel Gaudi 3",
+        "value": 4,
+        "tier": 1,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASML",
+        "target": "TSMC",
+        "value": 23.4,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASML",
+        "target": "SK Hynix",
+        "value": 14.56,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASML",
+        "target": "Samsung",
+        "value": 7.8,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASML",
+        "target": "Micron",
+        "value": 6.24,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASML",
+        "target": "Intel",
+        "value": 10.4,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Applied Materials",
+        "target": "TSMC",
+        "value": 17.1,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Applied Materials",
+        "target": "SK Hynix",
+        "value": 10.64,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Applied Materials",
+        "target": "Samsung",
+        "value": 5.7,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Applied Materials",
+        "target": "Micron",
+        "value": 4.56,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Applied Materials",
+        "target": "Intel",
+        "value": 7.6,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Lam Research",
+        "target": "TSMC",
+        "value": 14.4,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Lam Research",
+        "target": "SK Hynix",
+        "value": 8.96,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Lam Research",
+        "target": "Samsung",
+        "value": 4.8,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Lam Research",
+        "target": "Micron",
+        "value": 3.84,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Lam Research",
+        "target": "Intel",
+        "value": 6.4,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "KLA",
+        "target": "TSMC",
+        "value": 8.1,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "KLA",
+        "target": "SK Hynix",
+        "value": 5.04,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "KLA",
+        "target": "Samsung",
+        "value": 2.7,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "KLA",
+        "target": "Micron",
+        "value": 2.16,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "KLA",
+        "target": "Intel",
+        "value": 3.6,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Tokyo Electron",
+        "target": "TSMC",
+        "value": 9.9,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Tokyo Electron",
+        "target": "SK Hynix",
+        "value": 6.16,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Hitachi High-Tech",
+        "target": "TSMC",
+        "value": 8,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Hitachi High-Tech",
+        "target": "SK Hynix",
+        "value": 8,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Onto Innovation",
+        "target": "TSMC",
+        "value": 6,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "ASM International",
+        "target": "TSMC",
+        "value": 7,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Wonik IPS",
+        "target": "SK Hynix",
+        "value": 5,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Lasertec",
+        "target": "TSMC",
+        "value": 5,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Nikon",
+        "target": "TSMC",
+        "value": 4,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Zeiss",
+        "target": "ASML",
+        "value": 22,
+        "tier": 3,
+        "origin": "sec_grounded",
+        "note": "ASML 20-F: sole supplier of EUV optics"
+      },
+      {
+        "source": "Cymer",
+        "target": "ASML",
+        "value": 10,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Trumpf",
+        "target": "ASML",
+        "value": 12,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "VAT Group",
+        "target": "ASML",
+        "value": 4,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "VAT Group",
+        "target": "Applied Materials",
+        "value": 4,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "VAT Group",
+        "target": "Lam Research",
+        "value": 4,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "VAT Group",
+        "target": "KLA",
+        "value": 4,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "TOTO",
+        "target": "Applied Materials",
+        "value": 6,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "TOTO",
+        "target": "Lam Research",
+        "value": 6,
+        "tier": 3,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "JSR",
+        "target": "TSMC",
+        "value": 4.4,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "JSR",
+        "target": "SK Hynix",
+        "value": 2.8,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Shin-Etsu (PR)",
+        "target": "TSMC",
+        "value": 3.3,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Shin-Etsu (Wafers)",
+        "target": "TSMC",
+        "value": 6.6,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Shin-Etsu (Wafers)",
+        "target": "SK Hynix",
+        "value": 4.2,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Linde",
+        "target": "TSMC",
+        "value": 4.95,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Linde",
+        "target": "SK Hynix",
+        "value": 3.15,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Ibiden",
+        "target": "TSMC",
+        "value": 8.25,
+        "tier": 2,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Schott",
+        "target": "Zeiss",
+        "value": 8,
+        "tier": 4,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Hoya",
+        "target": "Zeiss",
+        "value": 6,
+        "tier": 4,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Corning",
+        "target": "Zeiss",
+        "value": 5,
+        "tier": 4,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Pfeiffer Vacuum",
+        "target": "VAT Group",
+        "value": 4,
+        "tier": 4,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Ferrotec",
+        "target": "TOTO",
+        "value": 3,
+        "tier": 4,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "IPG Photonics",
+        "target": "Trumpf",
+        "value": 5,
+        "tier": 4,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "SGL Carbon",
+        "target": "IPG Photonics",
+        "value": 3,
+        "tier": 5,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Morgan Advanced Materials",
+        "target": "Ferrotec",
+        "value": 2,
+        "tier": 5,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Materion",
+        "target": "Schott",
+        "value": 2,
+        "tier": 5,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Sibelco",
+        "target": "Corning",
+        "value": 2,
+        "tier": 5,
+        "origin": "sec_grounded"
+      },
+      {
+        "source": "Sumitomo Metal Mining",
+        "target": "Hoya",
+        "value": 2,
+        "tier": 5,
+        "origin": "sec_grounded"
+      }
+    ],
+    "evidence": [
+      {
+        "vendor": "ASML",
+        "ticker": "INTC",
+        "snippet": "eliant upon sole-source providers, such as with the EUV lithography tools manufactured by ASML that are required for leading-edge process technologies, or providers that are substantially concentrated in a single country, such as with certain rare earth minerals critical to the functioning of a range of techn",
+        "count": 1216
+      },
+      {
+        "vendor": "Cadence",
+        "ticker": "INTC",
+        "snippet": "as by developing successive generations of inference-optimized GPUs on a targeted annual cadence that feature enhanced memory and bandwidth to meet enterprise needs. Finally, our strategy includes combining our IP and SoC development capabilities with our leading-edge manufacturing know-how to provide differ",
+        "count": 516
+      },
+      {
+        "vendor": "Arm",
+        "ticker": "INTC",
+        "snippet": ". We also face significant competition from companies that design processors based on the ARM architecture, such as Apple with its M series products, Qualcomm with its Snapdragon products and MediaTek with its Kompanio products. We operate in a highly competitive market and expect this environment to further",
+        "count": 232
+      },
+      {
+        "vendor": "Ansys",
+        "ticker": "SNPS",
+        "snippet": "m 10-K includes, among others, forward-looking statements regarding: • our acquisition of ANSYS, Inc. (the Ansys Merger), and its expected impact; • business and market outlook, opportunities, strategies, technological trends, such as artificial intelligence, and initiatives and opportunities, including among",
+        "count": 184
+      },
+      {
+        "vendor": "Synopsys",
+        "ticker": "TSM",
+        "snippet": "January 2022 to February 2026. Prior to joining us in 2011, he was Group R&D Director in Synopsys Inc. He holds a Ph.D. in electrical and computer engineering from the University of Illinois Urbana-Champaign, Champaign. There is no family relationship between any of the persons named above. Other than that o",
+        "count": 160
+      },
+      {
+        "vendor": "Lam Research",
+        "ticker": "ASML",
+        "snippet": "Technologies NXP Semiconductors Semiconductor equipment Applied Materials KLA Corporation Lam Research The 2025 remuneration for all Board of Management members, positions below the median level of the reference group. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 120",
+        "count": 117
+      },
+      {
+        "vendor": "Applied Materials",
+        "ticker": "TSM",
+        "snippet": "is an independent director. Mr. Michael R. Splinter served as Chief Executive Officer of Applied Materials from 2003 to 2012 and as Chairman of the Board of Directors since 2009 and retired in June 2015. Prior to that, he served at Intel Corp. as Executive Vice President of Sales and Marketing from 2001 to 2",
+        "count": 95
+      },
+      {
+        "vendor": "KLA",
+        "ticker": "INTC",
+        "snippet": "ity of Madras; a Master of Science Degree and a Doctorate in Mechanical Engineering from Oklahoma State University; a Master’s of Information and Data Science from the University of California, Berkeley; and dual executive Master of Business Administration degrees from the University of California, Los Angele",
+        "count": 89
+      },
+      {
+        "vendor": "Amkor",
+        "ticker": "AMKR",
+        "snippet": "ACT OF 1934 For the Fiscal Year Ended December 31 , 2025 Commission File Number 000-29472 Amkor Technology, Inc. (Exact name of registrant as specified in its charter) Delaware 23-1722724 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) 2045 East Innovatio",
+        "count": 82
+      },
+      {
+        "vendor": "Zeiss",
+        "ticker": "ASML",
+        "snippet": "features improved projection optics, developed in cooperation with our strategic partner Carl Zeiss SMT, that maximize imaging and overlay (layer-to-layer alignment) performance. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 19 At a glance Q&A with the CEO Our busine",
+        "count": 57
+      },
+      {
+        "vendor": "Micron",
+        "ticker": "INTC",
+        "snippet": "e President of Foundry Manufacturing & Supply Chain. Prior to joining Intel, he worked at Micron Technology, Inc., a semiconductor manufacturing company, for 23 years, from October 2008 to August 2024, where he held several senior leadership positions, most recently as the Senior Vice President of Technology",
+        "count": 52
+      },
+      {
+        "vendor": "TSMC",
+        "ticker": "TSM",
+        "snippet": "造股份有限公司 (Exact Name of Registrant as Specified in Its Charter) __________________________ Taiwan Semiconductor Manufacturing Company Limited Republic of China (Translation of Registrant’s Name Into English) (Jurisdiction of Incorporation or Organization) __________________________ No. 8, Li-Hsin Road 6 Hsinch",
+        "count": 41
+      },
+      {
+        "vendor": "Cymer",
+        "ticker": "ASML",
+        "snippet": ", where he was General Manager from 2008 until 2015. He subsequently served as the CEO of Cymer and then led the Applications business for five years. Before he joined ASML, Jim was Vice President of Marketing and Operations at MEMX, Director of Manufacturing Engineering at Onetta and Director of Operations a",
+        "count": 14
+      },
+      {
+        "vendor": "SK Hynix",
+        "ticker": "INTC",
+        "snippet": "25. NAND Memory Business We sold our NAND memory technology and manufacturing business to SK hynix, which we deconsolidated upon closing the first phase of the transaction on December 29, 2021. On March 27, 2025, we closed the second phase of the transaction. In connection with the second closing, we collecte",
+        "count": 7
+      },
+      {
+        "vendor": "VAT Group",
+        "ticker": "ASML",
+        "snippet": "H 1 815.8 323.5 Prepaid expenses 555.5 538.0 Derivative financial instruments 2 96.5 33.6 VAT receivable 279.1 187.2 Other assets 193.4 350.5 Other current assets 1,940.3 1,432.8 Advance payments to Carl Zeiss SMT GmbH 1 599.9 868.4 Prepaid expenses 49.5 46.1 Compensation plan assets 113.1 129.9 Other assets",
+        "count": 5
+      },
+      {
+        "vendor": "Samsung",
+        "ticker": "LRCX",
+        "snippet": "s during the fiscal years ending June 29, 2025, June 30, 2024, and June 25, 2023 included Samsung Electronics Company, Ltd. and Taiwan Semiconductor Manufacturing Company. A material reduction in orders from our customers could adversely affect our results of operations and projected financial condition. Our",
+        "count": 5
+      },
+      {
+        "vendor": "GlobalFoundries",
+        "ticker": "INTC",
+        "snippet": "lso compete directly with Samsung in this market. Other Intel Foundry competitors include GlobalFoundries, UMC and SMIC, which primarily focus on mature process technologies. Our Business 7 Table of Contents All Other Our \"all other\" category includes the results of operations from non-reportable segments, st",
+        "count": 3
+      },
+      {
+        "vendor": "Nikon",
+        "ticker": "ASML",
+        "snippet": "Definitions Definitions (continued) Name Description NIIT Net investment income tax Nikon Nikon Corporation NL The Netherlands nm Nanometer (one billionth of a meter) Node A stepping stone in the chipmaking industry’s roadmap for smaller features and more advanced microchips, describes and differentiates gene",
+        "count": 3
+      },
+      {
+        "vendor": "Siemens EDA",
+        "ticker": "SNPS",
+        "snippet": "ce November 2025. Prior to joining Synopsys, Mr. Ellow was the Chief Executive Officer of Siemens EDA, a business unit of Siemens Digital Industries, from June 2024 to November 2025. Prior to becoming the Chief Executive Officer of Siemens EDA, he was the Executive Vice President, EDA Global Sales, Services a",
+        "count": 3
+      },
+      {
+        "vendor": "Tokyo Electron",
+        "ticker": "LRCX",
+        "snippet": "the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. We face competition from a number of established and emerging equipment co",
+        "count": 2
+      },
+      {
+        "vendor": "Hitachi High-Tech",
+        "ticker": "LRCX",
+        "snippet": "l and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. We face competition from a number of established and em",
+        "count": 2
+      },
+      {
+        "vendor": "ASM International",
+        "ticker": "LRCX",
+        "snippet": "s deposition market is Applied Materials, Inc. For ALD and PECVD, we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co",
+        "count": 1
+      },
+      {
+        "vendor": "Wonik IPS",
+        "ticker": "LRCX",
+        "snippet": "Applied Materials, Inc. For ALD and PECVD, we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Lt",
+        "count": 1
+      },
+      {
+        "vendor": "Corning",
+        "ticker": "LRCX",
+        "snippet": "rch 2024, and as senior vice president, general counsel, and corporate secretary at Owens Corning, a building and construction materials company, from May 2015 to November 2020. Prior to that, she held legal roles at General Electric and The Dow Chemical Company. She also worked at the law firms of Jones Day",
+        "count": 1
+      },
+      {
+        "vendor": "Onto Innovation",
+        "ticker": "KLAC",
+        "snippet": "uch as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design a",
+        "count": 1
+      },
+      {
+        "vendor": "Lasertec",
+        "ticker": "KLAC",
+        "snippet": "Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their cu",
+        "count": 1
+      },
+      {
+        "vendor": "ASE Technology",
+        "ticker": "AMKR",
+        "snippet": "rom established packaging and test service providers primarily located in Asia, including ASE Technology, JCET Group and Powertech Technology. Additionally, we compete with contract foundries and electronic manufacturing service providers or contract electronics manufacturers, which offer certain types of adv",
+        "count": 1
+      }
+    ]
+  },
+  "secEvidence": [
+    {
+      "ticker": "AMAT",
+      "name": "APPLIED MATERIALS INC /DE",
+      "cik": "0000006951",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-12-12",
+        "accessionNumber": "0001628280-25-056742",
+        "primaryDocument": "amat-20251026.htm",
+        "reportDate": "2025-10-26"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm",
+      "facts": {
+        "Revenues": {
+          "value": 14608000000,
+          "end": "2019-10-27",
+          "filed": "2019-12-13",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 28368000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3570000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 13808000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 36299000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 14537000000,
+          "end": "2017-10-29",
+          "filed": "2017-12-15",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 68,
+      "logoUrl": "/logos/AMAT.svg",
+      "logoPrimaryUrl": "/logos/AMAT.svg",
+      "logoFallbackUrl": "/logos/AMAT.png",
+      "localTextUrl": "/sec/AMAT/filing.txt",
+      "metadataUrl": "/sec/AMAT/metadata.json",
+      "sectionsUrl": "/sec/AMAT/sections.json",
+      "evidenceUrl": "/sec/AMAT/evidence.json"
+    },
+    {
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "cik": "0000002488",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-04",
+        "accessionNumber": "0000002488-26-000018",
+        "primaryDocument": "amd-20251227.htm",
+        "reportDate": "2025-12-27"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 34639000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 8091000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 17152000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 76926000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 5329000000,
+          "end": "2017-12-30",
+          "filed": "2018-02-27",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 133,
+      "logoUrl": "/logos/AMD.svg",
+      "logoPrimaryUrl": "/logos/AMD.svg",
+      "logoFallbackUrl": "/logos/AMD.png",
+      "localTextUrl": "/sec/AMD/filing.txt",
+      "metadataUrl": "/sec/AMD/metadata.json",
+      "sectionsUrl": "/sec/AMD/sections.json",
+      "evidenceUrl": "/sec/AMD/evidence.json"
+    },
+    {
+      "ticker": "AMKR",
+      "name": "AMKOR TECHNOLOGY, INC.",
+      "cik": "0001047127",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-20",
+        "accessionNumber": "0001047127-26-000014",
+        "primaryDocument": "amkr-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1047127/000104712726000014/amkr-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 4052650000,
+          "end": "2019-12-31",
+          "filed": "2020-02-19",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 6707981000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 166743000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 938599000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 8136309000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 4186497000,
+          "end": "2017-12-31",
+          "filed": "2018-02-23",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 186,
+      "logoUrl": "/logos/AMKR.svg",
+      "logoPrimaryUrl": "/logos/AMKR.svg",
+      "logoFallbackUrl": "/logos/AMKR.png",
+      "localTextUrl": "/sec/AMKR/filing.txt",
+      "metadataUrl": "/sec/AMKR/metadata.json",
+      "sectionsUrl": "/sec/AMKR/sections.json",
+      "evidenceUrl": "/sec/AMKR/evidence.json"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMAZON COM INC",
+      "cik": "0001018724",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-06",
+        "accessionNumber": "0001018724-26-000004",
+        "primaryDocument": "amzn-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 716924000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 5531000000,
+          "end": "2009-12-31",
+          "filed": "2010-01-29",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 818042000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 177866000000,
+          "end": "2017-12-31",
+          "filed": "2018-02-02",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 92,
+      "logoUrl": "/logos/AMZN.svg",
+      "logoPrimaryUrl": "/logos/AMZN.svg",
+      "logoFallbackUrl": "/logos/AMZN.png",
+      "localTextUrl": "/sec/AMZN/filing.txt",
+      "metadataUrl": "/sec/AMZN/metadata.json",
+      "sectionsUrl": "/sec/AMZN/sections.json",
+      "evidenceUrl": "/sec/AMZN/evidence.json"
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML HOLDING NV",
+      "cik": "0000937966",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-02-25",
+        "accessionNumber": "0001628280-26-011378",
+        "primaryDocument": "asml-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 32667300000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 4698800000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 17258000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 50566600000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "SalesRevenueNet": {
+          "value": 9052800000,
+          "end": "2017-12-31",
+          "filed": "2018-02-07",
+          "form": "20-F"
+        }
+      },
+      "evidenceCount": 808,
+      "logoUrl": "/logos/ASML.svg",
+      "logoPrimaryUrl": "/logos/ASML.svg",
+      "logoFallbackUrl": "/logos/ASML.png",
+      "localTextUrl": "/sec/ASML/filing.txt",
+      "metadataUrl": "/sec/ASML/metadata.json",
+      "sectionsUrl": "/sec/ASML/sections.json",
+      "evidenceUrl": "/sec/ASML/evidence.json"
+    },
+    {
+      "ticker": "BIDU",
+      "name": "Baidu, Inc.",
+      "cik": "0001329099",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-03-17",
+        "accessionNumber": "0001193125-26-109289",
+        "primaryDocument": "d38065d20f.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526109289/d38065d20f.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 18458000000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "20-F"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2922000000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "20-F"
+        },
+        "CostOfRevenue": {
+          "value": 1035063000,
+          "end": "2012-12-31",
+          "filed": "2013-03-27",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 64229000000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "20-F"
+        },
+        "SalesRevenueNet": {
+          "value": 13034000000,
+          "end": "2017-12-31",
+          "filed": "2018-03-15",
+          "form": "20-F"
+        }
+      },
+      "evidenceCount": 82,
+      "logoUrl": "/logos/BIDU.png",
+      "logoPrimaryUrl": "/logos/BIDU.png",
+      "logoFallbackUrl": "/logos/BIDU.svg",
+      "localTextUrl": "/sec/BIDU/filing.txt",
+      "metadataUrl": "/sec/BIDU/metadata.json",
+      "sectionsUrl": "/sec/BIDU/sections.json",
+      "evidenceUrl": "/sec/BIDU/evidence.json"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "CADENCE DESIGN SYSTEMS INC",
+      "cik": "0000813672",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-19",
+        "accessionNumber": "0000813672-26-000016",
+        "primaryDocument": "cdns-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000016/cdns-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 5296759000,
+          "end": "2025-12-31",
+          "filed": "2026-02-19",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 10153148000,
+          "end": "2025-12-31",
+          "filed": "2026-02-19",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 1943032000,
+          "end": "2017-12-30",
+          "filed": "2018-02-20",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 118,
+      "logoUrl": "/logos/CDNS.svg",
+      "logoPrimaryUrl": "/logos/CDNS.svg",
+      "logoFallbackUrl": "/logos/CDNS.png",
+      "localTextUrl": "/sec/CDNS/filing.txt",
+      "metadataUrl": "/sec/CDNS/metadata.json",
+      "sectionsUrl": "/sec/CDNS/sections.json",
+      "evidenceUrl": "/sec/CDNS/evidence.json"
+    },
+    {
+      "ticker": "GFS",
+      "name": "GLOBALFOUNDRIES Inc.",
+      "cik": "0001709048",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-02-27",
+        "accessionNumber": "0001709048-26-000022",
+        "primaryDocument": "gfs-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1709048/000170904826000022/gfs-20251231.htm",
+      "facts": {
+        "ResearchAndDevelopmentExpense": {
+          "value": 518000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 1690000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 17141000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "Revenue": {
+          "value": 6791000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "RevenueFromContractsWithCustomers": {
+          "value": 6791000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        }
+      },
+      "evidenceCount": 179,
+      "logoUrl": "/logos/GFS.png",
+      "logoPrimaryUrl": "/logos/GFS.png",
+      "logoFallbackUrl": "/logos/GFS.svg",
+      "localTextUrl": "/sec/GFS/filing.txt",
+      "metadataUrl": "/sec/GFS/metadata.json",
+      "sectionsUrl": "/sec/GFS/sections.json",
+      "evidenceUrl": "/sec/GFS/evidence.json"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "cik": "0001652044",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-05",
+        "accessionNumber": "0001652044-26-000018",
+        "primaryDocument": "goog-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 402836000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 350018000000,
+          "end": "2024-12-31",
+          "filed": "2025-02-05",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 61087000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 162535000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 595281000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 60,
+      "logoUrl": "/logos/GOOGL.svg",
+      "logoPrimaryUrl": "/logos/GOOGL.svg",
+      "logoFallbackUrl": "/logos/GOOGL.png",
+      "localTextUrl": "/sec/GOOGL/filing.txt",
+      "metadataUrl": "/sec/GOOGL/metadata.json",
+      "sectionsUrl": "/sec/GOOGL/sections.json",
+      "evidenceUrl": "/sec/GOOGL/evidence.json"
+    },
+    {
+      "ticker": "INTC",
+      "name": "INTEL CORP",
+      "cik": "0000050863",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-23",
+        "accessionNumber": "0000050863-26-000011",
+        "primaryDocument": "intc-20251227.htm",
+        "reportDate": "2025-12-27"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 52853000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 13774000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 18375000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 211429000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 62761000000,
+          "end": "2017-12-30",
+          "filed": "2018-02-16",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 70,
+      "logoUrl": "/logos/INTC.svg",
+      "logoPrimaryUrl": "/logos/INTC.svg",
+      "logoFallbackUrl": "/logos/INTC.png",
+      "localTextUrl": "/sec/INTC/filing.txt",
+      "metadataUrl": "/sec/INTC/metadata.json",
+      "sectionsUrl": "/sec/INTC/sections.json",
+      "evidenceUrl": "/sec/INTC/evidence.json"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA CORP",
+      "cik": "0000319201",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-08-08",
+        "accessionNumber": "0000319201-25-000024",
+        "primaryDocument": "klac-20250630.htm",
+        "reportDate": "2025-06-30"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 12156162000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 1360334000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 4751867000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 1153230000,
+          "end": "2021-06-30",
+          "filed": "2021-08-06",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 16067926000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 4036701000,
+          "end": "2018-06-30",
+          "filed": "2018-08-06",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 155,
+      "logoUrl": "/logos/KLAC.svg",
+      "logoPrimaryUrl": "/logos/KLAC.svg",
+      "logoFallbackUrl": "/logos/KLAC.png",
+      "localTextUrl": "/sec/KLAC/filing.txt",
+      "metadataUrl": "/sec/KLAC/metadata.json",
+      "sectionsUrl": "/sec/KLAC/sections.json",
+      "evidenceUrl": "/sec/KLAC/evidence.json"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "LAM RESEARCH CORP",
+      "cik": "0000707549",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-08-11",
+        "accessionNumber": "0000707549-25-000075",
+        "primaryDocument": "lrcx-20250629.htm",
+        "reportDate": "2025-06-29"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm",
+      "facts": {
+        "Revenues": {
+          "value": 3237693000,
+          "end": "2011-06-26",
+          "filed": "2011-08-19",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 18435591000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2096387000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1581123000,
+          "end": "2012-06-24",
+          "filed": "2012-08-22",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 8979059000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 21345260000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 11076998000,
+          "end": "2018-06-24",
+          "filed": "2018-08-14",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 137,
+      "logoUrl": "/logos/LRCX.svg",
+      "logoPrimaryUrl": "/logos/LRCX.svg",
+      "logoFallbackUrl": "/logos/LRCX.png",
+      "localTextUrl": "/sec/LRCX/filing.txt",
+      "metadataUrl": "/sec/LRCX/metadata.json",
+      "sectionsUrl": "/sec/LRCX/sections.json",
+      "evidenceUrl": "/sec/LRCX/evidence.json"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "cik": "0001326801",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-29",
+        "accessionNumber": "0001628280-26-003942",
+        "primaryDocument": "meta-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 40653000000,
+          "end": "2017-12-31",
+          "filed": "2018-02-01",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 200966000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 57372000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 36175000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 366021000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 50,
+      "logoUrl": "/logos/META.svg",
+      "logoPrimaryUrl": "/logos/META.svg",
+      "logoFallbackUrl": "/logos/META.png",
+      "localTextUrl": "/sec/META/filing.txt",
+      "metadataUrl": "/sec/META/metadata.json",
+      "sectionsUrl": "/sec/META/sections.json",
+      "evidenceUrl": "/sec/META/evidence.json"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MICROSOFT CORP",
+      "cik": "0000789019",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-07-30",
+        "accessionNumber": "0000950170-25-100235",
+        "primaryDocument": "msft-20250630.htm",
+        "reportDate": "2025-06-30"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+      "facts": {
+        "Revenues": {
+          "value": 62484000000,
+          "end": "2010-06-30",
+          "filed": "2010-07-30",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 281724000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 32488000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 34261000000,
+          "end": "2017-06-30",
+          "filed": "2017-08-02",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 193893000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 619003000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 89950000000,
+          "end": "2017-06-30",
+          "filed": "2017-08-02",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 81,
+      "logoUrl": "/logos/MSFT.png",
+      "logoPrimaryUrl": "/logos/MSFT.png",
+      "logoFallbackUrl": "/logos/MSFT.svg",
+      "localTextUrl": "/sec/MSFT/filing.txt",
+      "metadataUrl": "/sec/MSFT/metadata.json",
+      "sectionsUrl": "/sec/MSFT/sections.json",
+      "evidenceUrl": "/sec/MSFT/evidence.json"
+    },
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "cik": "0000723125",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-10-03",
+        "accessionNumber": "0000723125-25-000028",
+        "primaryDocument": "mu-20250828.htm",
+        "reportDate": "2025-08-28"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm",
+      "facts": {
+        "Revenues": {
+          "value": 30391000000,
+          "end": "2018-08-30",
+          "filed": "2018-10-15",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 37378000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3798000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 14873000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 82798000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 20322000000,
+          "end": "2017-08-31",
+          "filed": "2017-10-26",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 233,
+      "logoUrl": "/logos/MU.svg",
+      "logoPrimaryUrl": "/logos/MU.svg",
+      "logoFallbackUrl": "/logos/MU.png",
+      "localTextUrl": "/sec/MU/filing.txt",
+      "metadataUrl": "/sec/MU/metadata.json",
+      "sectionsUrl": "/sec/MU/sections.json",
+      "evidenceUrl": "/sec/MU/evidence.json"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "cik": "0001045810",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-25",
+        "accessionNumber": "0001045810-26-000021",
+        "primaryDocument": "nvda-20260125.htm",
+        "reportDate": "2026-01-25"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "facts": {
+        "Revenues": {
+          "value": 215938000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 26914000000,
+          "end": "2022-01-30",
+          "filed": "2022-03-18",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 18497000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 62475000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 153463000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 206803000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 130,
+      "logoUrl": "/logos/NVDA.svg",
+      "logoPrimaryUrl": "/logos/NVDA.svg",
+      "logoFallbackUrl": "/logos/NVDA.png",
+      "localTextUrl": "/sec/NVDA/filing.txt",
+      "metadataUrl": "/sec/NVDA/metadata.json",
+      "sectionsUrl": "/sec/NVDA/sections.json",
+      "evidenceUrl": "/sec/NVDA/evidence.json"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
+      "cik": "0000883241",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-12-22",
+        "accessionNumber": "0000883241-25-000028",
+        "primaryDocument": "snps-20251031.htm",
+        "reportDate": "2025-10-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/snps-20251031.htm",
+      "facts": {
+        "Revenues": {
+          "value": 5081542000,
+          "end": "2022-10-31",
+          "filed": "2022-12-12",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 7054178000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2479338000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1623549000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 5430629000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 48224461000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 118,
+      "logoUrl": "/logos/SNPS.svg",
+      "logoPrimaryUrl": "/logos/SNPS.svg",
+      "logoFallbackUrl": "/logos/SNPS.png",
+      "localTextUrl": "/sec/SNPS/filing.txt",
+      "metadataUrl": "/sec/SNPS/metadata.json",
+      "sectionsUrl": "/sec/SNPS/sections.json",
+      "evidenceUrl": "/sec/SNPS/evidence.json"
+    },
+    {
+      "ticker": "TSM",
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "cik": "0001046179",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-04-16",
+        "accessionNumber": "0001628280-26-025362",
+        "primaryDocument": "tsm-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "facts": {
+        "ResearchAndDevelopmentExpense": {
+          "value": 6227000000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 49538100000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 204079400000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "Revenue": {
+          "value": 88268000000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "RevenueFromContractsWithCustomers": {
+          "value": 2894307700000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        }
+      },
+      "evidenceCount": 242,
+      "logoUrl": "/logos/TSM.svg",
+      "logoPrimaryUrl": "/logos/TSM.svg",
+      "logoFallbackUrl": "/logos/TSM.png",
+      "localTextUrl": "/sec/TSM/filing.txt",
+      "metadataUrl": "/sec/TSM/metadata.json",
+      "sectionsUrl": "/sec/TSM/sections.json",
+      "evidenceUrl": "/sec/TSM/evidence.json"
+    }
+  ],
+  "secFilings": [
+    {
+      "ticker": "AMAT",
+      "name": "APPLIED MATERIALS INC /DE",
+      "cik": "0000006951",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-12-12",
+        "accessionNumber": "0001628280-25-056742",
+        "primaryDocument": "amat-20251026.htm",
+        "reportDate": "2025-10-26"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm",
+      "facts": {
+        "Revenues": {
+          "value": 14608000000,
+          "end": "2019-10-27",
+          "filed": "2019-12-13",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 28368000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3570000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 13808000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 36299000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 14537000000,
+          "end": "2017-10-29",
+          "filed": "2017-12-15",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 68,
+      "logoUrl": "/logos/AMAT.svg",
+      "logoPrimaryUrl": "/logos/AMAT.svg",
+      "logoFallbackUrl": "/logos/AMAT.png",
+      "localTextUrl": "/sec/AMAT/filing.txt",
+      "metadataUrl": "/sec/AMAT/metadata.json",
+      "sectionsUrl": "/sec/AMAT/sections.json",
+      "evidenceUrl": "/sec/AMAT/evidence.json"
+    },
+    {
+      "ticker": "AMKR",
+      "name": "AMKOR TECHNOLOGY, INC.",
+      "cik": "0001047127",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-20",
+        "accessionNumber": "0001047127-26-000014",
+        "primaryDocument": "amkr-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1047127/000104712726000014/amkr-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 4052650000,
+          "end": "2019-12-31",
+          "filed": "2020-02-19",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 6707981000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 166743000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 938599000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 8136309000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 4186497000,
+          "end": "2017-12-31",
+          "filed": "2018-02-23",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 186,
+      "logoUrl": "/logos/AMKR.svg",
+      "logoPrimaryUrl": "/logos/AMKR.svg",
+      "logoFallbackUrl": "/logos/AMKR.png",
+      "localTextUrl": "/sec/AMKR/filing.txt",
+      "metadataUrl": "/sec/AMKR/metadata.json",
+      "sectionsUrl": "/sec/AMKR/sections.json",
+      "evidenceUrl": "/sec/AMKR/evidence.json"
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML HOLDING NV",
+      "cik": "0000937966",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-02-25",
+        "accessionNumber": "0001628280-26-011378",
+        "primaryDocument": "asml-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 32667300000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 4698800000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 17258000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 50566600000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "SalesRevenueNet": {
+          "value": 9052800000,
+          "end": "2017-12-31",
+          "filed": "2018-02-07",
+          "form": "20-F"
+        }
+      },
+      "evidenceCount": 808,
+      "logoUrl": "/logos/ASML.svg",
+      "logoPrimaryUrl": "/logos/ASML.svg",
+      "logoFallbackUrl": "/logos/ASML.png",
+      "localTextUrl": "/sec/ASML/filing.txt",
+      "metadataUrl": "/sec/ASML/metadata.json",
+      "sectionsUrl": "/sec/ASML/sections.json",
+      "evidenceUrl": "/sec/ASML/evidence.json"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "CADENCE DESIGN SYSTEMS INC",
+      "cik": "0000813672",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-19",
+        "accessionNumber": "0000813672-26-000016",
+        "primaryDocument": "cdns-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000016/cdns-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 5296759000,
+          "end": "2025-12-31",
+          "filed": "2026-02-19",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 10153148000,
+          "end": "2025-12-31",
+          "filed": "2026-02-19",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 1943032000,
+          "end": "2017-12-30",
+          "filed": "2018-02-20",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 118,
+      "logoUrl": "/logos/CDNS.svg",
+      "logoPrimaryUrl": "/logos/CDNS.svg",
+      "logoFallbackUrl": "/logos/CDNS.png",
+      "localTextUrl": "/sec/CDNS/filing.txt",
+      "metadataUrl": "/sec/CDNS/metadata.json",
+      "sectionsUrl": "/sec/CDNS/sections.json",
+      "evidenceUrl": "/sec/CDNS/evidence.json"
+    },
+    {
+      "ticker": "INTC",
+      "name": "INTEL CORP",
+      "cik": "0000050863",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-23",
+        "accessionNumber": "0000050863-26-000011",
+        "primaryDocument": "intc-20251227.htm",
+        "reportDate": "2025-12-27"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 52853000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 13774000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 18375000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 211429000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 62761000000,
+          "end": "2017-12-30",
+          "filed": "2018-02-16",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 70,
+      "logoUrl": "/logos/INTC.svg",
+      "logoPrimaryUrl": "/logos/INTC.svg",
+      "logoFallbackUrl": "/logos/INTC.png",
+      "localTextUrl": "/sec/INTC/filing.txt",
+      "metadataUrl": "/sec/INTC/metadata.json",
+      "sectionsUrl": "/sec/INTC/sections.json",
+      "evidenceUrl": "/sec/INTC/evidence.json"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA CORP",
+      "cik": "0000319201",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-08-08",
+        "accessionNumber": "0000319201-25-000024",
+        "primaryDocument": "klac-20250630.htm",
+        "reportDate": "2025-06-30"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 12156162000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 1360334000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 4751867000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 1153230000,
+          "end": "2021-06-30",
+          "filed": "2021-08-06",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 16067926000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 4036701000,
+          "end": "2018-06-30",
+          "filed": "2018-08-06",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 155,
+      "logoUrl": "/logos/KLAC.svg",
+      "logoPrimaryUrl": "/logos/KLAC.svg",
+      "logoFallbackUrl": "/logos/KLAC.png",
+      "localTextUrl": "/sec/KLAC/filing.txt",
+      "metadataUrl": "/sec/KLAC/metadata.json",
+      "sectionsUrl": "/sec/KLAC/sections.json",
+      "evidenceUrl": "/sec/KLAC/evidence.json"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "LAM RESEARCH CORP",
+      "cik": "0000707549",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-08-11",
+        "accessionNumber": "0000707549-25-000075",
+        "primaryDocument": "lrcx-20250629.htm",
+        "reportDate": "2025-06-29"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm",
+      "facts": {
+        "Revenues": {
+          "value": 3237693000,
+          "end": "2011-06-26",
+          "filed": "2011-08-19",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 18435591000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2096387000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1581123000,
+          "end": "2012-06-24",
+          "filed": "2012-08-22",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 8979059000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 21345260000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 11076998000,
+          "end": "2018-06-24",
+          "filed": "2018-08-14",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 137,
+      "logoUrl": "/logos/LRCX.svg",
+      "logoPrimaryUrl": "/logos/LRCX.svg",
+      "logoFallbackUrl": "/logos/LRCX.png",
+      "localTextUrl": "/sec/LRCX/filing.txt",
+      "metadataUrl": "/sec/LRCX/metadata.json",
+      "sectionsUrl": "/sec/LRCX/sections.json",
+      "evidenceUrl": "/sec/LRCX/evidence.json"
+    },
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "cik": "0000723125",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-10-03",
+        "accessionNumber": "0000723125-25-000028",
+        "primaryDocument": "mu-20250828.htm",
+        "reportDate": "2025-08-28"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm",
+      "facts": {
+        "Revenues": {
+          "value": 30391000000,
+          "end": "2018-08-30",
+          "filed": "2018-10-15",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 37378000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3798000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 14873000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 82798000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 20322000000,
+          "end": "2017-08-31",
+          "filed": "2017-10-26",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 233,
+      "logoUrl": "/logos/MU.svg",
+      "logoPrimaryUrl": "/logos/MU.svg",
+      "logoFallbackUrl": "/logos/MU.png",
+      "localTextUrl": "/sec/MU/filing.txt",
+      "metadataUrl": "/sec/MU/metadata.json",
+      "sectionsUrl": "/sec/MU/sections.json",
+      "evidenceUrl": "/sec/MU/evidence.json"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
+      "cik": "0000883241",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-12-22",
+        "accessionNumber": "0000883241-25-000028",
+        "primaryDocument": "snps-20251031.htm",
+        "reportDate": "2025-10-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/snps-20251031.htm",
+      "facts": {
+        "Revenues": {
+          "value": 5081542000,
+          "end": "2022-10-31",
+          "filed": "2022-12-12",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 7054178000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2479338000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1623549000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 5430629000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 48224461000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 118,
+      "logoUrl": "/logos/SNPS.svg",
+      "logoPrimaryUrl": "/logos/SNPS.svg",
+      "logoFallbackUrl": "/logos/SNPS.png",
+      "localTextUrl": "/sec/SNPS/filing.txt",
+      "metadataUrl": "/sec/SNPS/metadata.json",
+      "sectionsUrl": "/sec/SNPS/sections.json",
+      "evidenceUrl": "/sec/SNPS/evidence.json"
+    },
+    {
+      "ticker": "TSM",
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "cik": "0001046179",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-04-16",
+        "accessionNumber": "0001628280-26-025362",
+        "primaryDocument": "tsm-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "facts": {
+        "ResearchAndDevelopmentExpense": {
+          "value": 6227000000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 49538100000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 204079400000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "Revenue": {
+          "value": 88268000000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "RevenueFromContractsWithCustomers": {
+          "value": 2894307700000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        }
+      },
+      "evidenceCount": 242,
+      "logoUrl": "/logos/TSM.svg",
+      "logoPrimaryUrl": "/logos/TSM.svg",
+      "logoFallbackUrl": "/logos/TSM.png",
+      "localTextUrl": "/sec/TSM/filing.txt",
+      "metadataUrl": "/sec/TSM/metadata.json",
+      "sectionsUrl": "/sec/TSM/sections.json",
+      "evidenceUrl": "/sec/TSM/evidence.json"
+    }
+  ]
+}

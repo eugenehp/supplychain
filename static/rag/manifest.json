@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-05-29T05:38:10.767Z",
+  "chunkCount": 9392,
+  "vendorCount": 5544,
+  "tickers": [
+    "AMAT",
+    "AMD",
+    "AMKR",
+    "AMZN",
+    "ASML",
+    "BIDU",
+    "CDNS",
+    "GFS",
+    "GOOGL",
+    "INTC",
+    "KLAC",
+    "LRCX",
+    "META",
+    "MSFT",
+    "MU",
+    "NVDA",
+    "SNPS",
+    "TSM"
+  ],
+  "embeddingModel": null,
+  "embeddingsReady": false,
+  "chunksUrl": "/rag/chunks.json",
+  "vendorsUrl": "/rag/vendors.json",
+  "glossaryUrl": "/rag/glossary.json"
+}

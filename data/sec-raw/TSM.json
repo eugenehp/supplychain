@@ -1,0 +1,37 @@
+{
+  "ticker": "TSM",
+  "cik": "0001046179",
+  "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+  "filing": {
+    "form": "20-F",
+    "filingDate": "2026-04-16",
+    "accessionNumber": "0001628280-26-025362",
+    "primaryDocument": "tsm-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "facts": {},
+  "signals": {
+    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+    "supplierMentions": [
+      "others. To the extent that we rely on licenses from others, there can be no assurance that we will be able to obtain any",
+      "time to time purchase shares of Taiwan companies to support these markets. In addition, other funds associated with the ",
+      "operations, cash and cash equivalents, current marketable se",
+      "VIS, represe",
+      "SSMC, represe",
+      "the sale of the underlying shares withdrawn from the depositary receipt facility may be use",
+      "transfers of ADSs by holders are not currently subject to R.O.C. income tax. Subscription Rights. Distributions of statu",
+      "serving as an independent director on a total of more than four Taiwan public companies. NYSE Se",
+      "the commencement dates to the end of the useful lives of the underlying assets. Lease liabilities are measured at the pr",
+      "these hedging relationships during the hedging period. Amount of hedge ineffectiveness recognized in profit or loss is c",
+      "these"
+    ],
+    "customerConcentration": [],
+    "supplierConcentration": [],
+    "capexMentions": [
+      52000000000,
+      52000000000
+    ],
+    "segmentRevenue": []
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm"
+}

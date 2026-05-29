@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function () {
+        var key = 'supply-chain-theme';
+        var mode = 'system';
+        try {
+          var saved = localStorage.getItem(key);
+          if (saved === 'light' || saved === 'dark' || saved === 'system') mode = saved;
+        } catch (e) {}
+        var resolved =
+          mode === 'system'
+            ? window.matchMedia('(prefers-color-scheme: dark)').matches
+              ? 'dark'
+              : 'light'
+            : mode;
+        var root = document.documentElement;
+        root.dataset.theme = mode;
+        root.dataset.resolved = resolved;
+        root.style.colorScheme = resolved;
+        root.classList.toggle('dark', resolved === 'dark');
+
+        var topicBrands = {
+          'nvidia-h200': '#76B900',
+          'nvidia-b200': '#76B900',
+          'amd-mi325x': '#ED1C24',
+          'amd-mi350x': '#ED1C24',
+          'intel-gaudi-3': '#0071C5',
+          'intel-falcon-shores': '#0071C5',
+          'aws-trainium-2': '#FF9900',
+          'aws-trainium-3': '#FF9900',
+          'aws-inferentia-2': '#FF9900',
+          'microsoft-maia-100': '#0078D4',
+          'microsoft-maia-200': '#0078D4',
+          'google-tpu-v5p': '#4285F4',
+          'google-tpu-v6': '#4285F4',
+          'huawei-ascend-910c': '#CF0A2C',
+          'meta-mtia-v2': '#0081FB',
+          'baidu-kunlun-2': '#2932E1',
+          'sambanova-sn40': '#6B2D5B',
+          'tenstorrent-blackhole': '#1E3A5F',
+          'groq-lpu': '#F55036',
+          'cerebras-wse-3': '#FF6B00',
+        };
+        var topicId = null;
+        var hash = (location.hash || '').replace(/^#/, '').split('/')[0];
+        if (hash && topicBrands[hash]) topicId = hash;
+        if (!topicId) {
+          try {
+            var savedTopic = localStorage.getItem('supply-chain-topic');
+            if (savedTopic && topicBrands[savedTopic]) topicId = savedTopic;
+          } catch (e) {}
+        }
+        if (topicId) root.style.setProperty('--brand-color', topicBrands[topicId]);
+      })();
+    </script>
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="mask-icon" href="/favicon.svg" color="#000000" />
+    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#1c1c1c" media="(prefers-color-scheme: light)" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Reverse-traced semiconductor supply chain research from SEC 10-K and 20-F filings." />
+    <title>Supply Chain Research</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

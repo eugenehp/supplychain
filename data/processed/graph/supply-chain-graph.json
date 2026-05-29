@@ -1,0 +1,1044 @@
+{
+  "nodes": [
+    {
+      "id": "Nvidia H200",
+      "name": "Nvidia H200",
+      "tier": 0,
+      "group": "product",
+      "description": "Blackwell B200/H200 SXM — 141GB HBM3e",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "TSMC",
+      "name": "TSMC",
+      "tier": 1,
+      "group": "foundry",
+      "description": "NVDA 10-K: primary foundry; CoWoS-S packaging",
+      "mentionScore": 67,
+      "sources": [
+        "NVDA",
+        "TSM",
+        "ASML",
+        "LRCX",
+        "KLAC",
+        "rag",
+        "NVDA",
+        "TSM"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Samsung",
+      "name": "Samsung",
+      "tier": 1,
+      "group": "memory",
+      "description": "NVDA 10-K: foundry + HBM3e memory supplier",
+      "mentionScore": 6,
+      "sources": [
+        "NVDA",
+        "LRCX",
+        "KLAC",
+        "MU"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "SK Hynix",
+      "name": "SK Hynix",
+      "tier": 1,
+      "group": "memory",
+      "description": "NVDA 10-K: primary HBM3e supplier",
+      "mentionScore": 19,
+      "sources": [
+        "NVDA",
+        "MU",
+        "rag",
+        "NVDA",
+        "MU"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Micron",
+      "name": "Micron",
+      "tier": 1,
+      "group": "memory",
+      "description": "NVDA 10-K: HBM3e memory supplier",
+      "mentionScore": 265,
+      "sources": [
+        "NVDA",
+        "TSM",
+        "ASML",
+        "MU",
+        "rag",
+        "NVDA",
+        "TSM",
+        "ASML",
+        "MU"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Hon Hai (Foxconn)",
+      "name": "Hon Hai (Foxconn)",
+      "tier": 1,
+      "group": "osat",
+      "description": "NVDA 10-K: assembly, test & packaging subcontractor",
+      "mentionScore": 1,
+      "sources": [
+        "NVDA"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Wistron",
+      "name": "Wistron",
+      "tier": 1,
+      "group": "osat",
+      "description": "NVDA 10-K: assembly, test & packaging subcontractor",
+      "mentionScore": 1,
+      "sources": [
+        "NVDA"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Fabrinet",
+      "name": "Fabrinet",
+      "tier": 1,
+      "group": "osat",
+      "description": "NVDA 10-K: assembly, test & packaging subcontractor",
+      "mentionScore": 1,
+      "sources": [
+        "NVDA"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Synopsys",
+      "name": "Synopsys",
+      "tier": 1,
+      "group": "eda",
+      "description": "EDA tools & IP — SNPS 10-K",
+      "mentionScore": 392,
+      "sources": [
+        "TSM",
+        "SNPS",
+        "CDNS",
+        "rag",
+        "SNPS",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Cadence",
+      "name": "Cadence",
+      "tier": 1,
+      "group": "eda",
+      "description": "Verification & emulation — CDNS 10-K",
+      "mentionScore": 692,
+      "sources": [
+        "NVDA",
+        "TSM",
+        "AMAT",
+        "LRCX",
+        "SNPS",
+        "CDNS",
+        "MU",
+        "rag",
+        "NVDA",
+        "TSM",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Siemens EDA",
+      "name": "Siemens EDA",
+      "tier": 1,
+      "group": "eda",
+      "description": "SNPS/CDNS 10-K: EDA ecosystem competitor",
+      "mentionScore": 3,
+      "sources": [
+        "SNPS",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Ansys",
+      "name": "Ansys",
+      "tier": 1,
+      "group": "eda",
+      "description": "SNPS 10-K: simulation (acquired by Synopsys)",
+      "mentionScore": 206,
+      "sources": [
+        "SNPS",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Arm",
+      "name": "Arm",
+      "tier": 1,
+      "group": "eda",
+      "description": "Interconnect & CPU IP licenses",
+      "mentionScore": 246,
+      "sources": [
+        "NVDA",
+        "TSM",
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC",
+        "SNPS",
+        "CDNS",
+        "MU"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "ASML",
+      "name": "ASML",
+      "tier": 2,
+      "group": "equipment",
+      "description": "EUV & DUV lithography — ASML 20-F",
+      "mentionScore": 2099,
+      "sources": [
+        "ASML",
+        "KLAC",
+        "rag",
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Applied Materials",
+      "name": "Applied Materials",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Deposition, CMP, implant — AMAT 10-K",
+      "mentionScore": 472,
+      "sources": [
+        "TSM",
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC",
+        "SNPS",
+        "rag",
+        "TSM",
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC",
+        "SNPS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Lam Research",
+      "name": "Lam Research",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Etch & deposition — LRCX 10-K",
+      "mentionScore": 137,
+      "sources": [
+        "ASML",
+        "LRCX",
+        "CDNS",
+        "rag",
+        "LRCX",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "KLA",
+      "name": "KLA",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Process control & metrology — KLAC 10-K",
+      "mentionScore": 290,
+      "sources": [
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Tokyo Electron",
+      "name": "Tokyo Electron",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: coater/developer, furnaces",
+      "mentionScore": 2,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Hitachi High-Tech",
+      "name": "Hitachi High-Tech",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX/KLA 10-K: etch & metrology",
+      "mentionScore": 2,
+      "sources": [
+        "LRCX",
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Onto Innovation",
+      "name": "Onto Innovation",
+      "tier": 2,
+      "group": "equipment",
+      "description": "KLAC 10-K: optical metrology",
+      "mentionScore": 1,
+      "sources": [
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "ASM International",
+      "name": "ASM International",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: ALD & PECVD",
+      "mentionScore": 1,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Wonik IPS",
+      "name": "Wonik IPS",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: etch & deposition (Korea)",
+      "mentionScore": 1,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Lasertec",
+      "name": "Lasertec",
+      "tier": 2,
+      "group": "equipment",
+      "description": "KLAC 10-K: e-beam metrology",
+      "mentionScore": 1,
+      "sources": [
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Nikon",
+      "name": "Nikon",
+      "tier": 2,
+      "group": "equipment",
+      "description": "ASML 20-F: DUV lithography competitor",
+      "mentionScore": 3,
+      "sources": [
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Zeiss",
+      "name": "Zeiss",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "ASML 20-F: sole supplier of EUV optics (Carl Zeiss SMT)",
+      "mentionScore": 73,
+      "sources": [
+        "ASML",
+        "rag",
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Cymer",
+      "name": "Cymer",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "ASML 20-F: EUV light source (ASML subsidiary)",
+      "mentionScore": 14,
+      "sources": [
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Trumpf",
+      "name": "Trumpf",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Laser systems for lithography & metrology",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "VAT Group",
+      "name": "VAT Group",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Vacuum valves — ASML/KLA filings",
+      "mentionScore": 5,
+      "sources": [
+        "ASML",
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "TOTO",
+      "name": "TOTO",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Electrostatic chucks for wafer handling",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "JSR",
+      "name": "JSR",
+      "tier": 2,
+      "group": "materials",
+      "description": "EUV & DUV photoresist",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Shin-Etsu (PR)",
+      "name": "Shin-Etsu (PR)",
+      "tier": 2,
+      "group": "materials",
+      "description": "Photoresist",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Shin-Etsu (Wafers)",
+      "name": "Shin-Etsu (Wafers)",
+      "tier": 2,
+      "group": "materials",
+      "description": "300mm silicon wafers",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Linde",
+      "name": "Linde",
+      "tier": 2,
+      "group": "materials",
+      "description": "Ultra-high purity process gases",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Ibiden",
+      "name": "Ibiden",
+      "tier": 2,
+      "group": "materials",
+      "description": "ABF substrates for CoWoS interposer",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "ASE Technology",
+      "name": "ASE Technology",
+      "tier": 1,
+      "group": "osat",
+      "description": "OSAT — cited across TSM, SNPS, CDNS, MU filings",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Canon",
+      "name": "Canon",
+      "tier": 2,
+      "group": "equipment",
+      "description": "ASML 20-F: lithography competitor",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    }
+  ],
+  "links": [
+    {
+      "source": "TSMC",
+      "target": "Nvidia H200",
+      "value": 228,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "NVDA 10-K: primary foundry + CoWoS packaging"
+    },
+    {
+      "source": "Samsung",
+      "target": "Nvidia H200",
+      "value": 28,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "NVDA 10-K: alternate foundry + HBM supplier"
+    },
+    {
+      "source": "SK Hynix",
+      "target": "Nvidia H200",
+      "value": 232,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Micron",
+      "target": "Nvidia H200",
+      "value": 18,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Hon Hai (Foxconn)",
+      "target": "Nvidia H200",
+      "value": 12,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "NVDA 10-K: assembly, testing, packaging subcontractor"
+    },
+    {
+      "source": "Wistron",
+      "target": "Nvidia H200",
+      "value": 10,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "NVDA 10-K: assembly, testing, packaging subcontractor"
+    },
+    {
+      "source": "Fabrinet",
+      "target": "Nvidia H200",
+      "value": 8,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "NVDA 10-K: assembly, testing, packaging subcontractor"
+    },
+    {
+      "source": "Synopsys",
+      "target": "Nvidia H200",
+      "value": 9,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Cadence",
+      "target": "Nvidia H200",
+      "value": 5,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Siemens EDA",
+      "target": "Nvidia H200",
+      "value": 3,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "SNPS/CDNS 10-K: EDA competitor ecosystem"
+    },
+    {
+      "source": "Ansys",
+      "target": "Nvidia H200",
+      "value": 2,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "SNPS 10-K: acquired by Synopsys; design simulation"
+    },
+    {
+      "source": "Arm",
+      "target": "Nvidia H200",
+      "value": 4,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASML",
+      "target": "TSMC",
+      "value": 23.4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASML",
+      "target": "SK Hynix",
+      "value": 14.56,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASML",
+      "target": "Samsung",
+      "value": 7.8,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASML",
+      "target": "Micron",
+      "value": 6.24,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Applied Materials",
+      "target": "TSMC",
+      "value": 17.1,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Applied Materials",
+      "target": "SK Hynix",
+      "value": 10.64,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Applied Materials",
+      "target": "Samsung",
+      "value": 5.7,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Applied Materials",
+      "target": "Micron",
+      "value": 4.56,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Lam Research",
+      "target": "TSMC",
+      "value": 14.4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Lam Research",
+      "target": "SK Hynix",
+      "value": 8.96,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Lam Research",
+      "target": "Samsung",
+      "value": 4.8,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Lam Research",
+      "target": "Micron",
+      "value": 3.84,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "KLA",
+      "target": "TSMC",
+      "value": 8.1,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "KLA",
+      "target": "SK Hynix",
+      "value": 5.04,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "KLA",
+      "target": "Samsung",
+      "value": 2.7,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "KLA",
+      "target": "Micron",
+      "value": 2.16,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Tokyo Electron",
+      "target": "TSMC",
+      "value": 9.9,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Tokyo Electron",
+      "target": "SK Hynix",
+      "value": 6.16,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Hitachi High-Tech",
+      "target": "TSMC",
+      "value": 8,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "LRCX/KLA 10-K: etch/metrology competitor"
+    },
+    {
+      "source": "Hitachi High-Tech",
+      "target": "SK Hynix",
+      "value": 8,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "LRCX/KLA 10-K: etch/metrology competitor"
+    },
+    {
+      "source": "Onto Innovation",
+      "target": "TSMC",
+      "value": 6,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "KLAC 10-K: metrology competitor"
+    },
+    {
+      "source": "ASM International",
+      "target": "TSMC",
+      "value": 7,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "LRCX 10-K: ALD/PECVD competitor"
+    },
+    {
+      "source": "Wonik IPS",
+      "target": "SK Hynix",
+      "value": 5,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "LRCX 10-K: etch/deposition competitor"
+    },
+    {
+      "source": "Lasertec",
+      "target": "TSMC",
+      "value": 5,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "KLAC 10-K: e-beam metrology competitor"
+    },
+    {
+      "source": "Nikon",
+      "target": "TSMC",
+      "value": 4,
+      "tier": 2,
+      "origin": "sec_grounded",
+      "note": "ASML 20-F: DUV lithography competitor"
+    },
+    {
+      "source": "Zeiss",
+      "target": "ASML",
+      "value": 22,
+      "tier": 3,
+      "origin": "sec_grounded",
+      "note": "ASML 20-F: sole supplier of EUV optics"
+    },
+    {
+      "source": "Cymer",
+      "target": "ASML",
+      "value": 10,
+      "tier": 3,
+      "origin": "sec_grounded",
+      "note": "ASML 20-F: EUV light source (ASML subsidiary)"
+    },
+    {
+      "source": "Trumpf",
+      "target": "ASML",
+      "value": 12,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "ASML",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "Applied Materials",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "Lam Research",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "KLA",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "TOTO",
+      "target": "Applied Materials",
+      "value": 6,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "TOTO",
+      "target": "Lam Research",
+      "value": 6,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "JSR",
+      "target": "TSMC",
+      "value": 4.4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "JSR",
+      "target": "SK Hynix",
+      "value": 2.8,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Shin-Etsu (PR)",
+      "target": "TSMC",
+      "value": 3.3,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Shin-Etsu (Wafers)",
+      "target": "TSMC",
+      "value": 6.6,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Shin-Etsu (Wafers)",
+      "target": "SK Hynix",
+      "value": 4.2,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Linde",
+      "target": "TSMC",
+      "value": 4.95,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Linde",
+      "target": "SK Hynix",
+      "value": 3.15,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Ibiden",
+      "target": "TSMC",
+      "value": 8.25,
+      "tier": 2,
+      "origin": "sec_grounded"
+    }
+  ],
+  "evidence": [
+    {
+      "vendor": "ASML",
+      "ticker": "ASML",
+      "snippet": "asml-20251231 0000937966 2025 FY FALSE TRUE FALSE FALSE FALSE http://fasb.org/us-gaap/2025#OtherLiabilitiesCurrent http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent http://fasb.org/us-gaap/2025#OtherLiabilitiesCurr",
+      "count": 1567
+    },
+    {
+      "vendor": "Cadence",
+      "ticker": "NVDA",
+      "snippet": "eration. More recently, in support of market development, we have accelerated the release cadence of our open AI model platforms including NVIDIA Nemotron for agentic AI and Cosmos for physical AI. With a strong engineering culture, we drive fast, yet harmonized, product and technology innovations in all dime",
+      "count": 512
+    },
+    {
+      "vendor": "KLA",
+      "ticker": "ASML",
+      "snippet": "that support or enhance complex patterning solutions, such as Applied Materials Inc. and KLA-Tencor Corporation. These applications compete with our offerings, which is a significant part of our business. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 67 At a glance Q",
+      "count": 290
+    },
+    {
+      "vendor": "Arm",
+      "ticker": "NVDA",
+      "snippet": "tic AI and Cosmos for physical AI. With a strong engineering culture, we drive fast, yet harmonized, product and technology innovations in all dimensions of computing including silicon, systems, networking, software and algorithms. More than half of our engineers work on software. All major cloud service prov",
+      "count": 246
+    },
+    {
+      "vendor": "Ansys",
+      "ticker": "SNPS",
+      "snippet": "24-10-31 0000883241 snps:OtherDebtInstrumentsMember 2022-11-01 2023-10-31 0000883241 snps:AnsysIncMember 2025-07-17 0000883241 snps:AnsysIncMember 2025-07-17 2025-07-17 0000883241 srt:MinimumMember us-gaap:MachineryAndEquipmentMember 2025-10-31 0000883241 srt:MaximumMember us-gaap:MachineryAndEquipmentMember",
+      "count": 206
+    },
+    {
+      "vendor": "Synopsys",
+      "ticker": "TSM",
+      "snippet": "January 2022 to February 2026. Prior to joining us in 2011, he was Group R&D Director in Synopsys Inc. He holds a Ph.D. in electrical and computer engineering from the University of Illinois Urbana-Champaign, Champaign. There is no family relationship between any of the persons named above. Other than that o",
+      "count": 160
+    },
+    {
+      "vendor": "Lam Research",
+      "ticker": "ASML",
+      "snippet": "Technologies NXP Semiconductors Semiconductor equipment Applied Materials KLA Corporation Lam Research The 2025 remuneration for all Board of Management members, positions below the median level of the reference group. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 120",
+      "count": 117
+    },
+    {
+      "vendor": "Applied Materials",
+      "ticker": "TSM",
+      "snippet": "is an independent director. Mr. Michael R. Splinter served as Chief Executive Officer of Applied Materials from 2003 to 2012 and as Chairman of the Board of Directors since 2009 and retired in June 2015. Prior to that, he served at Intel Corp. as Executive Vice President of Sales and Marketing from 2001 to 2",
+      "count": 96
+    },
+    {
+      "vendor": "Zeiss",
+      "ticker": "ASML",
+      "snippet": "features improved projection optics, developed in cooperation with our strategic partner Carl Zeiss SMT, that maximize imaging and overlay (layer-to-layer alignment) performance. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 19 At a glance Q&A with the CEO Our busine",
+      "count": 57
+    },
+    {
+      "vendor": "Micron",
+      "ticker": "NVDA",
+      "snippet": ", or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Co",
+      "count": 51
+    },
+    {
+      "vendor": "TSMC",
+      "ticker": "NVDA",
+      "snippet": "in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung",
+      "count": 42
+    },
+    {
+      "vendor": "Cymer",
+      "ticker": "ASML",
+      "snippet": ", where he was General Manager from 2008 until 2015. He subsequently served as the CEO of Cymer and then led the Applications business for five years. Before he joined ASML, Jim was Vice President of Marketing and Operations at MEMX, Director of Manufacturing Engineering at Onetta and Director of Operations a",
+      "count": 14
+    },
+    {
+      "vendor": "Samsung",
+      "ticker": "NVDA",
+      "snippet": "ilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We eng",
+      "count": 6
+    },
+    {
+      "vendor": "VAT Group",
+      "ticker": "ASML",
+      "snippet": "H 1 815.8 323.5 Prepaid expenses 555.5 538.0 Derivative financial instruments 2 96.5 33.6 VAT receivable 279.1 187.2 Other assets 193.4 350.5 Other current assets 1,940.3 1,432.8 Advance payments to Carl Zeiss SMT GmbH 1 599.9 868.4 Prepaid expenses 49.5 46.1 Compensation plan assets 113.1 129.9 Other assets",
+      "count": 5
+    },
+    {
+      "vendor": "SK Hynix",
+      "ticker": "NVDA",
+      "snippet": "onics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., L",
+      "count": 3
+    },
+    {
+      "vendor": "Nikon",
+      "ticker": "ASML",
+      "snippet": "Definitions Definitions (continued) Name Description NIIT Net investment income tax Nikon Nikon Corporation NL The Netherlands nm Nanometer (one billionth of a meter) Node A stepping stone in the chipmaking industry’s roadmap for smaller features and more advanced microchips, describes and differentiates gene",
+      "count": 3
+    },
+    {
+      "vendor": "Siemens EDA",
+      "ticker": "SNPS",
+      "snippet": "ce November 2025. Prior to joining Synopsys, Mr. Ellow was the Chief Executive Officer of Siemens EDA, a business unit of Siemens Digital Industries, from June 2024 to November 2025. Prior to becoming the Chief Executive Officer of Siemens EDA, he was the Executive Vice President, EDA Global Sales, Services a",
+      "count": 3
+    },
+    {
+      "vendor": "Tokyo Electron",
+      "ticker": "LRCX",
+      "snippet": "the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. We face competition from a number of established and emerging equipment co",
+      "count": 2
+    },
+    {
+      "vendor": "Hitachi High-Tech",
+      "ticker": "LRCX",
+      "snippet": "l and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. We face competition from a number of established and em",
+      "count": 2
+    },
+    {
+      "vendor": "Hon Hai (Foxconn)",
+      "ticker": "NVDA",
+      "snippet": "r packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characteri",
+      "count": 1
+    },
+    {
+      "vendor": "Wistron",
+      "ticker": "NVDA",
+      "snippet": "t subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and",
+      "count": 1
+    },
+    {
+      "vendor": "Fabrinet",
+      "ticker": "NVDA",
+      "snippet": "ract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standar",
+      "count": 1
+    },
+    {
+      "vendor": "ASM International",
+      "ticker": "LRCX",
+      "snippet": "s deposition market is Applied Materials, Inc. For ALD and PECVD, we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co",
+      "count": 1
+    },
+    {
+      "vendor": "Wonik IPS",
+      "ticker": "LRCX",
+      "snippet": "Applied Materials, Inc. For ALD and PECVD, we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Lt",
+      "count": 1
+    },
+    {
+      "vendor": "Onto Innovation",
+      "ticker": "KLAC",
+      "snippet": "uch as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design a",
+      "count": 1
+    },
+    {
+      "vendor": "Lasertec",
+      "ticker": "KLAC",
+      "snippet": "Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their cu",
+      "count": 1
+    }
+  ]
+}

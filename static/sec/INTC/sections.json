@@ -1,0 +1,22 @@
+[
+  {
+    "id": "item_7",
+    "item": "7",
+    "title": "Management's Discussion and Analysis",
+    "header": "Item 7. Management's Discussion and Analysis",
+    "charStart": 513807,
+    "charEnd": 514038,
+    "length": 231,
+    "type": "item"
+  },
+  {
+    "id": "item_16",
+    "item": "16",
+    "title": "Form 10-K Summary",
+    "header": "Item 16. Form 10-K Summary",
+    "charStart": 514971,
+    "charEnd": 516811,
+    "length": 1840,
+    "type": "item"
+  }
+]

@@ -1,0 +1,1807 @@
+{
+  "generatedAt": "2026-05-29T05:38:21.581Z",
+  "valid": true,
+  "stages": [
+    {
+      "stage": "raw",
+      "valid": true,
+      "details": [
+        {
+          "ticker": "AMAT",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "AMAT"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000006951"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-12-12"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2221981 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$14.6B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "AMD",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "AMD"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000002488"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-04"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2174592 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$34.6B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "AMKR",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "AMKR"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001047127"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-20"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2701262 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$4.1B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "AMZN",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "AMZN"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001018724"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-06"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "1968342 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$716.9B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "ASML",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "ASML"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000937966"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "20-F 2026-02-25"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "24864615 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$32.7B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "BIDU",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "BIDU"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001329099"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "20-F 2026-03-17"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "6674808 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$18.5B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "CDNS",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "CDNS"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000813672"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-19"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2689168 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$5.3B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "GFS",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "GFS"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001709048"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "20-F 2026-02-27"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "3366613 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$6.8B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "GOOGL",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "GOOGL"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001652044"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-05"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2616499 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$402.8B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "INTC",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "INTC"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000050863"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-01-23"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "3320720 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$52.9B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "KLAC",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "KLAC"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000319201"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-08-08"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2891232 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$12.2B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "LRCX",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "LRCX"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000707549"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-08-11"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "1876876 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$3.2B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "META",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "META"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001326801"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-01-29"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2371750 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$40.7B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "MSFT",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "MSFT"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000789019"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-07-30"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "8158067 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$62.5B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "MU",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "MU"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000723125"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-10-03"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "2439110 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$30.4B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "NVDA",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "NVDA"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001045810"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-25"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "1967816 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$215.9B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "SNPS",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "SNPS"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0000883241"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-12-22"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "3031429 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$5.1B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "TSM",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "TSM"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001046179"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "20-F 2026-04-16"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "10355816 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$88.3B"
+            }
+          ],
+          "errors": []
+        }
+      ]
+    },
+    {
+      "stage": "rag",
+      "valid": true,
+      "details": {
+        "documents": 9258,
+        "evidence": 2937,
+        "evidenceEmbeddings": 0,
+        "documentEmbeddings": 0,
+        "vendors": 5544,
+        "tickers": [
+          "AMAT",
+          "AMD",
+          "AMKR",
+          "AMZN",
+          "ASML",
+          "BIDU",
+          "CDNS",
+          "GFS",
+          "GOOGL",
+          "INTC",
+          "KLAC",
+          "LRCX",
+          "META",
+          "MSFT",
+          "MU",
+          "NVDA",
+          "SNPS",
+          "TSM"
+        ],
+        "queries": 12763
+      }
+    },
+    {
+      "stage": "topics",
+      "valid": true,
+      "details": [
+        {
+          "topic": "nvidia-h200",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "47 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Nvidia H200 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$559/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "nvidia-b200",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "48 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Nvidia B200 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$631/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "amd-mi325x",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "46 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "70 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "AMD MI325X present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "70 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$583/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "amd-mi350x",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "46 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "66 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "AMD MI350X present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "66 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$628/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "intel-gaudi-3",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "47 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "70 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Intel Gaudi 3 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "70 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$537/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "intel-falcon-shores",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "47 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "70 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Intel Falcon Shores present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "70 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$513/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "aws-trainium-2",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "AWS Trainium 2 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$516/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "aws-trainium-3",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "AWS Trainium 3 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$577/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "aws-inferentia-2",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "AWS Inferentia 2 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$284/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "microsoft-maia-100",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Microsoft Maia 100 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$456/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "google-tpu-v5p",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Google TPU v5p present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$430/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "google-tpu-v6",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Google TPU v6 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$476/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "huawei-ascend-910c",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Huawei Ascend 910C present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$501/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "meta-mtia-v2",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Meta MTIA v2 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$404/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "microsoft-maia-200",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Microsoft Maia 200 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$487/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "baidu-kunlun-2",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Baidu Kunlun 2 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$480/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "sambanova-sn40",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "SambaNova SN40 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$425/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "tenstorrent-blackhole",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Tenstorrent Blackhole present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$361/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "groq-lpu",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "51 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Groq LPU present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "51 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$263/chip"
+              }
+            ],
+            "errors": []
+          }
+        },
+        {
+          "topic": "cerebras-wse-3",
+          "graph": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "45 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "orphans",
+                "ok": true,
+                "detail": "none"
+              },
+              {
+                "id": "product",
+                "ok": true,
+                "detail": "Cerebras WSE-3 present"
+              }
+            ],
+            "errors": []
+          },
+          "sankey": {
+            "valid": true,
+            "checks": [
+              {
+                "id": "nodes",
+                "ok": true,
+                "detail": "44 nodes"
+              },
+              {
+                "id": "links",
+                "ok": true,
+                "detail": "65 links"
+              },
+              {
+                "id": "bom",
+                "ok": true,
+                "detail": "$465/chip"
+              }
+            ],
+            "errors": []
+          }
+        }
+      ]
+    }
+  ],
+  "summary": "All pipeline stages passed validation"
+}

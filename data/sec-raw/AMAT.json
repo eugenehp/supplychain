@@ -1,0 +1,57 @@
+{
+  "ticker": "AMAT",
+  "cik": "0000006951",
+  "name": "APPLIED MATERIALS INC /DE",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2025-12-12",
+    "accessionNumber": "0001628280-25-056742",
+    "primaryDocument": "amat-20251026.htm",
+    "reportDate": "2025-10-26"
+  },
+  "facts": {
+    "Revenues": {
+      "value": 14608000000,
+      "end": "2019-10-27",
+      "filed": "2019-12-13"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 28368000000,
+      "end": "2025-10-26",
+      "filed": "2025-12-12"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 3570000000,
+      "end": "2025-10-26",
+      "filed": "2025-12-12"
+    }
+  },
+  "signals": {
+    "company": "APPLIED MATERIALS INC /DE",
+    "supplierMentions": [
+      "only a qualified single supplier or a limited group of qualified suppliers. We seek to reduce costs and to lower the ris",
+      "a direct sales force. We have operations in many countries, with some of our business activities concentrated in certain",
+      "suppliers outside of the United States. There is inherent risk, based on the complex relationships among the United Stat",
+      "suppliers and contract manufacturers. Volatility in demand for our products and worldwide demand for se",
+      "us, and challenges in providing parts for reuse",
+      "acquisitions. Our ability to successfully expand our business into new and related markets and industries may be adverse",
+      "expanding global national security regimes that impose prohibitions on foreign investments in or acquisitions of local b",
+      "time to time, and we cannot provide assurance that we will continue to declare dividends or repurchase shares in any par",
+      "governmental, public or private sources, including external consultants engaged by us, periodic assessments against the ",
+      "brokers. In addition, to validate pricing information obtained from pricing services, we periodically perform supplement",
+      "established and generally accepted valuation techniques. We allocate the fair value of the purchase consideration of our"
+    ],
+    "customerConcentration": [
+      {
+        "pct": 89,
+        "entity": "customers in regions outside the United States"
+      }
+    ],
+    "supplierConcentration": [],
+    "capexMentions": [
+      2300000000
+    ],
+    "segmentRevenue": []
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm"
+}

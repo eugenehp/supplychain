@@ -1,0 +1,1143 @@
+{
+  "nodes": [
+    {
+      "id": "Groq LPU",
+      "name": "Groq LPU",
+      "tier": 0,
+      "group": "product",
+      "description": "Groq LPU — inference accelerator, on-chip SRAM (not HBM-centric)",
+      "country": "US",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "TSMC",
+      "name": "TSMC",
+      "tier": 1,
+      "group": "foundry",
+      "description": "Industry: Groq LPU silicon fabbed at advanced external foundry",
+      "country": null,
+      "mentionScore": 66,
+      "sources": [
+        "TSM",
+        "ASML",
+        "LRCX",
+        "KLAC",
+        "rag",
+        "NVDA",
+        "TSM"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "SK Hynix",
+      "name": "SK Hynix",
+      "tier": 1,
+      "group": "memory",
+      "description": "Industry: minimal off-chip DRAM — small BOM share",
+      "country": null,
+      "mentionScore": 22,
+      "sources": [
+        "MU",
+        "rag",
+        "INTC",
+        "MU",
+        "NVDA"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Samsung",
+      "name": "Samsung",
+      "tier": 1,
+      "group": "memory",
+      "description": "Industry: supplemental memory",
+      "country": null,
+      "mentionScore": 5,
+      "sources": [
+        "LRCX",
+        "KLAC",
+        "MU"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Micron",
+      "name": "Micron",
+      "tier": 1,
+      "group": "memory",
+      "description": "Industry: supplemental memory",
+      "country": null,
+      "mentionScore": 268,
+      "sources": [
+        "TSM",
+        "ASML",
+        "MU",
+        "rag",
+        "ASML",
+        "INTC",
+        "MU",
+        "NVDA",
+        "TSM"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Amkor",
+      "name": "Amkor",
+      "tier": 1,
+      "group": "osat",
+      "description": "Industry: OSAT for accelerator packages",
+      "country": null,
+      "mentionScore": 82,
+      "sources": [
+        "AMKR"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "ASE Technology",
+      "name": "ASE Technology",
+      "tier": 1,
+      "group": "osat",
+      "description": "OSAT — cited in global supply-chain filings",
+      "country": null,
+      "mentionScore": 1,
+      "sources": [
+        "AMKR"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Synopsys",
+      "name": "Synopsys",
+      "tier": 1,
+      "group": "eda",
+      "description": "EDA tools & IP — SNPS 10-K",
+      "country": null,
+      "mentionScore": 402,
+      "sources": [
+        "TSM",
+        "SNPS",
+        "CDNS",
+        "rag",
+        "CDNS",
+        "GFS",
+        "SNPS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Cadence",
+      "name": "Cadence",
+      "tier": 1,
+      "group": "eda",
+      "description": "Verification & emulation — CDNS 10-K",
+      "country": null,
+      "mentionScore": 690,
+      "sources": [
+        "TSM",
+        "AMAT",
+        "LRCX",
+        "SNPS",
+        "CDNS",
+        "MU",
+        "rag",
+        "CDNS",
+        "INTC",
+        "NVDA",
+        "TSM"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Siemens EDA",
+      "name": "Siemens EDA",
+      "tier": 1,
+      "group": "eda",
+      "description": "SNPS/CDNS 10-K: EDA ecosystem competitor",
+      "country": null,
+      "mentionScore": 3,
+      "sources": [
+        "SNPS",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Ansys",
+      "name": "Ansys",
+      "tier": 1,
+      "group": "eda",
+      "description": "SNPS 10-K: simulation (acquired by Synopsys)",
+      "country": null,
+      "mentionScore": 184,
+      "sources": [
+        "SNPS",
+        "CDNS"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Arm",
+      "name": "Arm",
+      "tier": 1,
+      "group": "eda",
+      "description": "Interconnect & CPU IP licenses",
+      "country": null,
+      "mentionScore": 191,
+      "sources": [
+        "TSM",
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC",
+        "SNPS",
+        "CDNS",
+        "MU",
+        "AMKR"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "ASML",
+      "name": "ASML",
+      "tier": 2,
+      "group": "equipment",
+      "description": "EUV & DUV lithography — ASML 20-F",
+      "country": null,
+      "mentionScore": 1745,
+      "sources": [
+        "ASML",
+        "KLAC",
+        "rag",
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Applied Materials",
+      "name": "Applied Materials",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Deposition, CMP, implant — AMAT 10-K",
+      "country": null,
+      "mentionScore": 471,
+      "sources": [
+        "TSM",
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC",
+        "SNPS",
+        "rag",
+        "AMAT",
+        "ASML",
+        "KLAC",
+        "LRCX",
+        "SNPS",
+        "TSM"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Lam Research",
+      "name": "Lam Research",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Etch & deposition — LRCX 10-K",
+      "country": null,
+      "mentionScore": 137,
+      "sources": [
+        "ASML",
+        "LRCX",
+        "CDNS",
+        "rag",
+        "CDNS",
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "KLA",
+      "name": "KLA",
+      "tier": 2,
+      "group": "equipment",
+      "description": "Process control & metrology — KLAC 10-K",
+      "country": null,
+      "mentionScore": 88,
+      "sources": [
+        "ASML",
+        "AMAT",
+        "LRCX",
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Tokyo Electron",
+      "name": "Tokyo Electron",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: coater/developer, furnaces",
+      "country": null,
+      "mentionScore": 2,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Hitachi High-Tech",
+      "name": "Hitachi High-Tech",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX/KLA 10-K: etch & metrology",
+      "country": null,
+      "mentionScore": 2,
+      "sources": [
+        "LRCX",
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Onto Innovation",
+      "name": "Onto Innovation",
+      "tier": 2,
+      "group": "equipment",
+      "description": "KLAC 10-K: optical metrology",
+      "country": null,
+      "mentionScore": 1,
+      "sources": [
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "ASM International",
+      "name": "ASM International",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: ALD & PECVD",
+      "country": null,
+      "mentionScore": 1,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Wonik IPS",
+      "name": "Wonik IPS",
+      "tier": 2,
+      "group": "equipment",
+      "description": "LRCX 10-K: etch & deposition (Korea)",
+      "country": null,
+      "mentionScore": 1,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Lasertec",
+      "name": "Lasertec",
+      "tier": 2,
+      "group": "equipment",
+      "description": "KLAC 10-K: e-beam metrology",
+      "country": null,
+      "mentionScore": 1,
+      "sources": [
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Nikon",
+      "name": "Nikon",
+      "tier": 2,
+      "group": "equipment",
+      "description": "ASML 20-F: DUV lithography competitor",
+      "country": null,
+      "mentionScore": 3,
+      "sources": [
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Zeiss",
+      "name": "Zeiss",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "ASML 20-F: sole supplier of EUV optics (Carl Zeiss SMT)",
+      "country": null,
+      "mentionScore": 64,
+      "sources": [
+        "ASML",
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Cymer",
+      "name": "Cymer",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "ASML 20-F: EUV light source (ASML subsidiary)",
+      "country": null,
+      "mentionScore": 14,
+      "sources": [
+        "ASML"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Trumpf",
+      "name": "Trumpf",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Laser systems for lithography & metrology",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "VAT Group",
+      "name": "VAT Group",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Vacuum valves — ASML/KLA filings",
+      "country": null,
+      "mentionScore": 5,
+      "sources": [
+        "ASML",
+        "KLAC"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "TOTO",
+      "name": "TOTO",
+      "tier": 3,
+      "group": "subcomponent",
+      "description": "Electrostatic chucks for wafer handling",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "JSR",
+      "name": "JSR",
+      "tier": 2,
+      "group": "materials",
+      "description": "EUV & DUV photoresist",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Shin-Etsu (PR)",
+      "name": "Shin-Etsu (PR)",
+      "tier": 2,
+      "group": "materials",
+      "description": "Photoresist",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Shin-Etsu (Wafers)",
+      "name": "Shin-Etsu (Wafers)",
+      "tier": 2,
+      "group": "materials",
+      "description": "300mm silicon wafers",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Linde",
+      "name": "Linde",
+      "tier": 2,
+      "group": "materials",
+      "description": "Ultra-high purity process gases",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Ibiden",
+      "name": "Ibiden",
+      "tier": 2,
+      "group": "materials",
+      "description": "ABF substrates for advanced packaging interposer",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Schott",
+      "name": "Schott",
+      "tier": 4,
+      "group": "raw",
+      "description": "Specialty glass & mirror substrates for EUV optics (Zeiss supply chain)",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Hoya",
+      "name": "Hoya",
+      "tier": 4,
+      "group": "raw",
+      "description": "Optical glass blanks & filter materials for precision optics",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Corning",
+      "name": "Corning",
+      "tier": 4,
+      "group": "raw",
+      "description": "Fused silica & advanced glass for lithography optics",
+      "country": null,
+      "mentionScore": 1,
+      "sources": [
+        "LRCX"
+      ],
+      "inSankey": true
+    },
+    {
+      "id": "Pfeiffer Vacuum",
+      "name": "Pfeiffer Vacuum",
+      "tier": 4,
+      "group": "raw",
+      "description": "Vacuum pumps & gauging for semiconductor vacuum systems",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Ferrotec",
+      "name": "Ferrotec",
+      "tier": 4,
+      "group": "raw",
+      "description": "Ceramic & silicon components for electrostatic chucks",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "IPG Photonics",
+      "name": "IPG Photonics",
+      "tier": 4,
+      "group": "raw",
+      "description": "High-power fiber laser diodes for Trumpf laser systems",
+      "country": "US",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "SGL Carbon",
+      "name": "SGL Carbon",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Graphite & carbon materials for high-power laser diodes (IPG supply chain)",
+      "country": "DE",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Morgan Advanced Materials",
+      "name": "Morgan Advanced Materials",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Advanced ceramics & thermal materials for electrostatic chucks",
+      "country": "GB",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Materion",
+      "name": "Materion",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Beryllium & specialty metals for precision optical glass",
+      "country": "US",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Sibelco",
+      "name": "Sibelco",
+      "tier": 5,
+      "group": "commodity",
+      "description": "High-purity quartz sand for fused silica glass",
+      "country": "BE",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Sumitomo Metal Mining",
+      "name": "Sumitomo Metal Mining",
+      "tier": 5,
+      "group": "commodity",
+      "description": "Rare metals & optical-grade raw materials for lens blanks",
+      "country": "JP",
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    },
+    {
+      "id": "Canon",
+      "name": "Canon",
+      "tier": 2,
+      "group": "equipment",
+      "description": "ASML 20-F: lithography competitor",
+      "country": null,
+      "mentionScore": 0,
+      "sources": [],
+      "inSankey": true
+    }
+  ],
+  "links": [
+    {
+      "source": "TSMC",
+      "target": "Groq LPU",
+      "value": 198,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "LPU compute die dominates BOM (SRAM on-die)"
+    },
+    {
+      "source": "SK Hynix",
+      "target": "Groq LPU",
+      "value": 12,
+      "tier": 1,
+      "origin": "sec_grounded",
+      "note": "Minimal off-chip memory vs HBM peers"
+    },
+    {
+      "source": "Samsung",
+      "target": "Groq LPU",
+      "value": 8,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Micron",
+      "target": "Groq LPU",
+      "value": 8,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Amkor",
+      "target": "Groq LPU",
+      "value": 14,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASE Technology",
+      "target": "TSMC",
+      "value": 6,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASE Technology",
+      "target": "Amkor",
+      "value": 6,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Synopsys",
+      "target": "Groq LPU",
+      "value": 9,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Cadence",
+      "target": "Groq LPU",
+      "value": 5,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Siemens EDA",
+      "target": "Groq LPU",
+      "value": 3,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Ansys",
+      "target": "Groq LPU",
+      "value": 2,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Arm",
+      "target": "Groq LPU",
+      "value": 4,
+      "tier": 1,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASML",
+      "target": "TSMC",
+      "value": 23.4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Applied Materials",
+      "target": "TSMC",
+      "value": 17.1,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Lam Research",
+      "target": "TSMC",
+      "value": 14.4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "KLA",
+      "target": "TSMC",
+      "value": 8.1,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Tokyo Electron",
+      "target": "TSMC",
+      "value": 9.9,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Hitachi High-Tech",
+      "target": "TSMC",
+      "value": 8,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Onto Innovation",
+      "target": "TSMC",
+      "value": 6,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "ASM International",
+      "target": "TSMC",
+      "value": 7,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Wonik IPS",
+      "target": "SK Hynix",
+      "value": 5,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Lasertec",
+      "target": "TSMC",
+      "value": 5,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Nikon",
+      "target": "TSMC",
+      "value": 4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Zeiss",
+      "target": "ASML",
+      "value": 22,
+      "tier": 3,
+      "origin": "sec_grounded",
+      "note": "ASML 20-F: sole supplier of EUV optics"
+    },
+    {
+      "source": "Cymer",
+      "target": "ASML",
+      "value": 10,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Trumpf",
+      "target": "ASML",
+      "value": 12,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "ASML",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "Applied Materials",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "Lam Research",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "VAT Group",
+      "target": "KLA",
+      "value": 4,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "TOTO",
+      "target": "Applied Materials",
+      "value": 6,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "TOTO",
+      "target": "Lam Research",
+      "value": 6,
+      "tier": 3,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "JSR",
+      "target": "TSMC",
+      "value": 4.4,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "JSR",
+      "target": "SK Hynix",
+      "value": 2.8,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Shin-Etsu (PR)",
+      "target": "TSMC",
+      "value": 3.3,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Shin-Etsu (Wafers)",
+      "target": "TSMC",
+      "value": 6.6,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Shin-Etsu (Wafers)",
+      "target": "SK Hynix",
+      "value": 4.2,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Linde",
+      "target": "TSMC",
+      "value": 4.95,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Linde",
+      "target": "SK Hynix",
+      "value": 3.15,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Ibiden",
+      "target": "TSMC",
+      "value": 8.25,
+      "tier": 2,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Schott",
+      "target": "Zeiss",
+      "value": 8,
+      "tier": 4,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Hoya",
+      "target": "Zeiss",
+      "value": 6,
+      "tier": 4,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Corning",
+      "target": "Zeiss",
+      "value": 5,
+      "tier": 4,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Pfeiffer Vacuum",
+      "target": "VAT Group",
+      "value": 4,
+      "tier": 4,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Ferrotec",
+      "target": "TOTO",
+      "value": 3,
+      "tier": 4,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "IPG Photonics",
+      "target": "Trumpf",
+      "value": 5,
+      "tier": 4,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "SGL Carbon",
+      "target": "IPG Photonics",
+      "value": 3,
+      "tier": 5,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Morgan Advanced Materials",
+      "target": "Ferrotec",
+      "value": 2,
+      "tier": 5,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Materion",
+      "target": "Schott",
+      "value": 2,
+      "tier": 5,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Sibelco",
+      "target": "Corning",
+      "value": 2,
+      "tier": 5,
+      "origin": "sec_grounded"
+    },
+    {
+      "source": "Sumitomo Metal Mining",
+      "target": "Hoya",
+      "value": 2,
+      "tier": 5,
+      "origin": "sec_grounded"
+    }
+  ],
+  "evidence": [
+    {
+      "vendor": "ASML",
+      "ticker": "ASML",
+      "snippet": "ACT OF 1934 for the fiscal year ended December 31 , 2025 Commission file number 001-33463 ASML HOLDING NV (Exact Name of Registrant as Specified in Its Charter) The Netherlands (Jurisdiction of incorporation or organization) De Run 6501 , 5504 DR Veldhoven , The Netherlands (Address of principal executive off",
+      "count": 1213
+    },
+    {
+      "vendor": "Cadence",
+      "ticker": "TSM",
+      "snippet": "us to effectively compete in this space. In addition, our customers have accelerated the cadence of introducing new products and services to the market. If we are unable to meet these shorter product time-to-market, we risk losing these customers. These factors have also been intensified by the shift of the",
+      "count": 508
+    },
+    {
+      "vendor": "Arm",
+      "ticker": "TSM",
+      "snippet": "2025-01-01 2025-12-31 0001046179 ifrs-full:LiquidityRiskMember ifrs-full:NotLaterThanOneYearMember 2024-12-31 0001046179 ifrs-full:LiquidityRiskMember ifrs-full:LaterThanOneYearAndNotLaterThanThreeYearsMember 2024-12-31 0001046179 ifrs-full:LiquidityRiskMember ifrs-full:LaterThanThreeYearsAndNotLaterThanFiveY",
+      "count": 191
+    },
+    {
+      "vendor": "Ansys",
+      "ticker": "SNPS",
+      "snippet": "m 10-K includes, among others, forward-looking statements regarding: • our acquisition of ANSYS, Inc. (the Ansys Merger), and its expected impact; • business and market outlook, opportunities, strategies, technological trends, such as artificial intelligence, and initiatives and opportunities, including among",
+      "count": 184
+    },
+    {
+      "vendor": "Synopsys",
+      "ticker": "TSM",
+      "snippet": "January 2022 to February 2026. Prior to joining us in 2011, he was Group R&D Director in Synopsys Inc. He holds a Ph.D. in electrical and computer engineering from the University of Illinois Urbana-Champaign, Champaign. There is no family relationship between any of the persons named above. Other than that o",
+      "count": 160
+    },
+    {
+      "vendor": "Lam Research",
+      "ticker": "ASML",
+      "snippet": "Technologies NXP Semiconductors Semiconductor equipment Applied Materials KLA Corporation Lam Research The 2025 remuneration for all Board of Management members, positions below the median level of the reference group. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 120",
+      "count": 117
+    },
+    {
+      "vendor": "Applied Materials",
+      "ticker": "TSM",
+      "snippet": "is an independent director. Mr. Michael R. Splinter served as Chief Executive Officer of Applied Materials from 2003 to 2012 and as Chairman of the Board of Directors since 2009 and retired in June 2015. Prior to that, he served at Intel Corp. as Executive Vice President of Sales and Marketing from 2001 to 2",
+      "count": 95
+    },
+    {
+      "vendor": "KLA",
+      "ticker": "ASML",
+      "snippet": "that support or enhance complex patterning solutions, such as Applied Materials Inc. and KLA-Tencor Corporation. These applications compete with our offerings, which is a significant part of our business. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 67 At a glance Q",
+      "count": 88
+    },
+    {
+      "vendor": "Amkor",
+      "ticker": "AMKR",
+      "snippet": "ACT OF 1934 For the Fiscal Year Ended December 31 , 2025 Commission File Number 000-29472 Amkor Technology, Inc. (Exact name of registrant as specified in its charter) Delaware 23-1722724 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) 2045 East Innovatio",
+      "count": 82
+    },
+    {
+      "vendor": "Zeiss",
+      "ticker": "ASML",
+      "snippet": "features improved projection optics, developed in cooperation with our strategic partner Carl Zeiss SMT, that maximize imaging and overlay (layer-to-layer alignment) performance. STRATEGIC REPORT CORPORATE GOVERNANCE SUSTAINABILITY FINANCIALS ASML Annual Report 2025 19 At a glance Q&A with the CEO Our busine",
+      "count": 57
+    },
+    {
+      "vendor": "Micron",
+      "ticker": "TSM",
+      "snippet": "sident in November 2021. Prior to joining us in November 2021, he was Chairman, Taiwan in Micron Technology, Inc. He holds an M.S. degree in Management of Technology from National Chiao Tung University. Ray Chuang is our Vice President of Operations/ Fab Operations I and CEO of TSMC Arizona. He was CEO of ESM",
+      "count": 50
+    },
+    {
+      "vendor": "TSMC",
+      "ticker": "TSM",
+      "snippet": "造股份有限公司 (Exact Name of Registrant as Specified in Its Charter) __________________________ Taiwan Semiconductor Manufacturing Company Limited Republic of China (Translation of Registrant’s Name Into English) (Jurisdiction of Incorporation or Organization) __________________________ No. 8, Li-Hsin Road 6 Hsinch",
+      "count": 41
+    },
+    {
+      "vendor": "Cymer",
+      "ticker": "ASML",
+      "snippet": ", where he was General Manager from 2008 until 2015. He subsequently served as the CEO of Cymer and then led the Applications business for five years. Before he joined ASML, Jim was Vice President of Marketing and Operations at MEMX, Director of Manufacturing Engineering at Onetta and Director of Operations a",
+      "count": 14
+    },
+    {
+      "vendor": "VAT Group",
+      "ticker": "ASML",
+      "snippet": "H 1 815.8 323.5 Prepaid expenses 555.5 538.0 Derivative financial instruments 2 96.5 33.6 VAT receivable 279.1 187.2 Other assets 193.4 350.5 Other current assets 1,940.3 1,432.8 Advance payments to Carl Zeiss SMT GmbH 1 599.9 868.4 Prepaid expenses 49.5 46.1 Compensation plan assets 113.1 129.9 Other assets",
+      "count": 5
+    },
+    {
+      "vendor": "Samsung",
+      "ticker": "LRCX",
+      "snippet": "s during the fiscal years ending June 29, 2025, June 30, 2024, and June 25, 2023 included Samsung Electronics Company, Ltd. and Taiwan Semiconductor Manufacturing Company. A material reduction in orders from our customers could adversely affect our results of operations and projected financial condition. Our",
+      "count": 5
+    },
+    {
+      "vendor": "Nikon",
+      "ticker": "ASML",
+      "snippet": "Definitions Definitions (continued) Name Description NIIT Net investment income tax Nikon Nikon Corporation NL The Netherlands nm Nanometer (one billionth of a meter) Node A stepping stone in the chipmaking industry’s roadmap for smaller features and more advanced microchips, describes and differentiates gene",
+      "count": 3
+    },
+    {
+      "vendor": "Siemens EDA",
+      "ticker": "SNPS",
+      "snippet": "ce November 2025. Prior to joining Synopsys, Mr. Ellow was the Chief Executive Officer of Siemens EDA, a business unit of Siemens Digital Industries, from June 2024 to November 2025. Prior to becoming the Chief Executive Officer of Siemens EDA, he was the Executive Vice President, EDA Global Sales, Services a",
+      "count": 3
+    },
+    {
+      "vendor": "Tokyo Electron",
+      "ticker": "LRCX",
+      "snippet": "the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. We face competition from a number of established and emerging equipment co",
+      "count": 2
+    },
+    {
+      "vendor": "Hitachi High-Tech",
+      "ticker": "LRCX",
+      "snippet": "l and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Ltd.; and Tokyo Electron, Ltd. We face competition from a number of established and em",
+      "count": 2
+    },
+    {
+      "vendor": "SK Hynix",
+      "ticker": "MU",
+      "snippet": "and storage markets from a number of companies, including Samsung Electronics Co., Ltd.; SK hynix Inc.; Kioxia Holdings Corporation; Sandisk Corporation; ChangXin Memory Technologies, Inc. (“CXMT”); and Yangtze Memory Technologies Co., Ltd. (“YMTC”). Our competitors may use aggressive pricing to obtain marke",
+      "count": 2
+    },
+    {
+      "vendor": "ASM International",
+      "ticker": "LRCX",
+      "snippet": "s deposition market is Applied Materials, Inc. For ALD and PECVD, we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co",
+      "count": 1
+    },
+    {
+      "vendor": "Wonik IPS",
+      "ticker": "LRCX",
+      "snippet": "Applied Materials, Inc. For ALD and PECVD, we also compete against ASM International and Wonik IPS. In the etch market, our primary competitors are Applied Materials, Inc.; Hitachi, Ltd.; and Tokyo Electron, Ltd., and our primary competitors in the wet clean market are Screen Holding Co., Ltd.; Semes Co., Lt",
+      "count": 1
+    },
+    {
+      "vendor": "Corning",
+      "ticker": "LRCX",
+      "snippet": "rch 2024, and as senior vice president, general counsel, and corporate secretary at Owens Corning, a building and construction materials company, from May 2015 to November 2020. Prior to that, she held legal roles at General Electric and The Dow Chemical Company. She also worked at the law firms of Jones Day",
+      "count": 1
+    },
+    {
+      "vendor": "Onto Innovation",
+      "ticker": "KLAC",
+      "snippet": "uch as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design a",
+      "count": 1
+    },
+    {
+      "vendor": "Lasertec",
+      "ticker": "KLAC",
+      "snippet": "Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We expect our competitors to continue to improve the design and performance of their cu",
+      "count": 1
+    },
+    {
+      "vendor": "ASE Technology",
+      "ticker": "AMKR",
+      "snippet": "rom established packaging and test service providers primarily located in Asia, including ASE Technology, JCET Group and Powertech Technology. Additionally, we compete with contract foundries and electronic manufacturing service providers or contract electronics manufacturers, which offer certain types of adv",
+      "count": 1
+    }
+  ]
+}

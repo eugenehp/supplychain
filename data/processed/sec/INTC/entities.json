@@ -1,0 +1,992 @@
+{
+  "vendors": [
+    {
+      "name": "RepurchaseAg",
+      "count": 4,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "StockPurchase",
+      "count": 3,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of Equity Securities Pag",
+      "count": 2,
+      "snippets": [
+        "nt's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities Pages 53 Item 6. [Reserved]"
+      ],
+      "sources": [
+        "25334c40d9c37da2"
+      ]
+    },
+    {
+      "name": "s Pages 29 - 32 Results of operations Pages 18 - 29 Critical accounting estimate",
+      "count": 2,
+      "snippets": [
+        "ondition and Results of Operations: Liquidity and capital resources Pages 29 - 32 Results of operations Pages 18 - 29 Critical accounting estimates Pages 34 - 36 , 65 - 72"
+      ],
+      "sources": [
+        "8983d8755c1f4c64"
+      ]
+    },
+    {
+      "name": "up to 241 million shares of our co",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "million of non-cash impairments of operating leased assets and related leasehold",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "million, subject to customary adjustments and closing co",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "various legal and regulatory proceedings, asserted and potential claims, liabili",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "our principal executive officer and princ",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "SK Hynix",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Micron",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cadence between node transitions",
+      "count": 2,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "within MD&A for a description of this measure, including why management uses it",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, and sources of funding, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, as well as management's own good faith estimates and analyses. We believe the",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "allocation and support long-term value creation for customers, partners and stoc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "access to manufacturing capacity on leading-edge nodes and advanced packaging. T",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s. Our Intel Foundry operating segment also offers semiconductor design and manu",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s. Market Trends The PC market in 2025 was driven by a hardware refresh cycle, i",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, systems integrators, communications service providers and government entities",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "of co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s for various key tiles in a number of current and future products. Our Business",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s worldwide. We source various critical semiconductor development and manufactur",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Intel processors and other products from our distributors. Certain of our microp",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "or licensing of technology. Intellectual Property We own and develop significant",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s to develop the talent needed to remain at the forefront of innovation and make",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, supporting our global manufacturing operations. We collaborate with industry",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "use, reduce costs and mitigate operational risks associated with water scarcity.",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "r, and an offset for other direct and incremental costs incurred in connection w",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s toward our core client and server businesses by reducing investment in lower-p",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s to reduce existing inventories. Segment Operating Income Summary 2025 vs. 2024",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "products. Segments Operating Inco",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "supplemented by undrawn committed credit facilities and other borrowing capacity",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Payments on finance lease",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of liquidity, we co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of liquidity, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s to accelerate or delay certain cash receipts or payments to manage liquidity,",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of Liquidity As described in the introduction of this MD&A section, in the sec",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "obligations and commitments in 2026 under our binding commitments for purchases",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s on a purchase",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "proceeds from capital-related government inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of short-term investments, net of sales and maturities, lower sales of equity",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s are incurred in other currencies, primarily the Israeli shekel, the Malaysian",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "concentration for our key commodities. Critical Accounting Estimates Our Consoli",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, which are similar to those used in our business planning and forecasting proc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s than us. If we are not able to compete effectively, or if our external foundry",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of competition as a result of changes in industry participants through, for ex",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of labor, materials and equipment. Increasing demand for such sources, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s. To the extent there is any interruption in the supply of tiles manufactured b",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "access to leading-edge semiconductor manufacturing process technologies, or node",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "commitments in those",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s and strategic partners, potential credit rating risk, and diminished investor",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "in which case we may be required to make additional payments to our partners. Fo",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ing tools, components and other supplies as a result of COVID-19-related port sh",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "failures of counterparties, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s with us. Sustained geopolitical tensions could lead to long-term changes in gl",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "suppliers in Taiwan for critical components, including various compute die, that",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "export licenses, which co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s than us, are making substantially greater investments in AI than we are, inclu",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s to provide certain components for our products and to manufacture and assemble",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s extending lead times, experiencing capacity constraints, limiting or canceling",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cyberse",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "increased legislation, regulation or stakeholder expectations regarding sourcing",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s may fail to deliver committed volumes on time or at all, or their financial co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "of EUV lithography tools that we are deploying in our Intel 4, Intel 3, Intel 18",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, make prioritization decisions about which product issues to address, which ca",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "or license from third parties for use in our products, as well as industry-stand",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, as well as our customers and end use",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "steal proprietary, personal or co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "legal proceedings or actions ag",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "protection for our IP or enforce or protect our IP rights. When we seek to enfor",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "an injunction and recall order against us and our customers in the Dusseldorf Re",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "in conducting our business. Any such incidents and claims could severely disrupt",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ed or are available on commercially reasonable terms or at all. Failure to obtai",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "licensing terms. We are subject to risks associated with litigation and regulato",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s are limited and our decision to pursue a transaction has opportunity co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s in a manner that could help us achieve our financial or strategic objectives.",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "many distributors to help us create end-customer demand, provide technical suppo",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "among other factors, our financial position and performance, as well as prevaili",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s or agents will not violate such laws or our policies. Violations of these",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "public health issues and global pandemics such as CO",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s. Our headquarters and many of our operations and facilities are in locations t",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "of materials and chemicals that are subject to a broad array of environmental, h",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s to co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "carbon offse",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s. New or more stringent climate change regulations could increase our manufactu",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of Equity Securities We have an ongoing authorization, originally approved by",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s because they reduce the number of shares that would have been issued upon vest",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "or sale of our shares that are intended to satisfy the affirmative defense co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, our customers and the users of our products and services can be unaware of a",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "allocations and oversight structures. The Board of Directors is assisted by the",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "reasonable assurance about whether the financial statements are free of material",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s of contrary information, including historical forecast accuracy or history of",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "reasonable assurance about whether effective internal control over financial rep",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "volumes. Sales rebates earned by customers are offset against their receivable b",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s spending. The after-tax gains or losses from the effective portion of a cash f",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, forward points are excluded from the hedge effectiveness assessment, and are",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "are classified within cash and cash equivalents . Unhedged debt investments with",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "agreements and trade and other receivables. We generally place investments with",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "and secure collateral from counterparties against obligations, including securit",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ing a parent guarantee, standby letter of credit or credit insurance. Financial",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "price paid for assets acquired and liabilities assumed in connection with our ac",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ed from our management and the management of the acquired companies. These assum",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "eligible employees may purchase co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "capacity, we account for the lease and non-lease components as a single lease co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s. These financial measures are utilized during our budgeting and forecasting pr",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "minimum quantities of the related factory output from Ireland SCIP, or we will b",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "of the wafer output. During the year ended December 27, 2025, Arizona SCIP place",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "was eliminated in our Consolidated Financial Statements. In the third quarter of",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "plan. The dilutive impact from the assumed issuance of common stock associated w",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "plan, and the assumed issuance of common stock associated with equity issuance a",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "up to 241 million shares of our common stock, subject to anti-dilution adjustmen",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "million shares and the issuance of 159 million Escrowed Shares. We concluded tha",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s, which are reported as financing activities in the Consolidated Statements of",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "s toward our core client and server businesses by reducing lower-priority progra",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "required regulatory approvals needed to acquire Tower in accordance with the con",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "consideration have yet to result in cash inflows and outflows and therefore refl",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "agreements are fully offset by cash collateral pledged. Derivatives in Cash Flow",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "eligible coverag",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Plan The 2006 ESPP allows eligible employees to purchase shares of our co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "d 34 million shares of co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "capacity. This lease will commence upon start of supplier production and has a t",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "obligations and co",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "obligations and commitments include payments due under supply agreements and var",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "obligations reflect the non-cancelable portion or the minimum cancellation fee u",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "or omissions in connection with Spectre, Meltdown, and other variants of this cl",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "d or otherwise acquired our common stock or purchased call options or sold put o",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ed a license to the asse",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Plan 2006 Plan 2006 Equity Incentive Plan 2024 Restructuring Plan Cost and capit",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "constraints, and the benefits of controls must be considered relative to their c",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "and Contribution Agreement, dated as of August 22, 2022, by and among Intel Corp",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "and Sale Agreement, dated as of June 4, 2024, by and among Intel Ireland Limited",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "advanced microarchitectures, power optimizations and security features, help mai",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "both Intel Core and Intel Core Ultra processors, to customers for various edge c",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "our princ",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "a review of our customer base, the stage of the product life cycle, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "GPUs, inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "TSMC, to benefit from advancements in manufacturing processes introduced ahead o",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "more favorable inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "competitors, delaying or canceling deliveries or inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "reimbursement for certain costs they inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "the increase in AI workloads and shift of data center workloads to the public cl",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cybersecurity inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "any local country withholding taxes inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cash grants and refundable tax credits, are recognized when there is reasonable",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "stock options, RSUs, warrants and Escrowed Shares, when the effect of inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "discounted cash flows, are observable or can be derived princ",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "related collateral amounts, are presented at fair value on a gross basis in our",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "those recognized under the CHIPS Act, benefited operating inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "direct marketing, are expensed as inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "integrated circuits and associated firmware incorporated into products sold by D",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "SK hynix primarily related to certain",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "SK hynix SK hynix Inc",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ASML that are required for leading",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ASML Holding N",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "ASML) is currently the sole suppli",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cadence that feature enhanced memory",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cadence featuring enhanced bandwidth",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cadence of R&D-driven performance and",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "cadence of our investments based on t",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Cadence",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    },
+    {
+      "name": "Cadence from December 2021 to May 202",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    }
+  ],
+  "relations": [],
+  "concentrations": []
+}

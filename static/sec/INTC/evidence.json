@@ -1,0 +1,957 @@
+{
+  "ticker": "INTC",
+  "count": 70,
+  "generatedAt": "2026-05-29T05:38:05.947Z",
+  "entries": [
+    {
+      "id": "INTC-kw-0",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 7755,
+      "excerpt": "…and technologies, and the expected goals, timeline, ramps, progress, availability, production, regulation and benefits of such products, services and technologies, including future process nodes and packaging technology, product roadmaps, schedules, future product architectures, expectations regarding process performance, per-watt parity and metrics, and expectations regarding product and process competitiveness; ▪ internal and external manufacturing plans, including future internal manufacturing volumes, manufacturing expansion plans and the financing therefor, and external foundry usage; ▪…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 7556,
+        "end": 8214
+      }
+    },
+    {
+      "id": "INTC-kw-1",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 8138,
+      "excerpt": "…oduct and process competitiveness; ▪ internal and external manufacturing plans, including future internal manufacturing volumes, manufacturing expansion plans and the financing therefor, and external foundry usage; ▪ future production capacity and product supply; ▪ supply expectations, including regarding constraints, limitations, pricing, and industry shortages; ▪ plans and goals related to Intel's foundry business, including with respect to anticipated customers, future manufacturing capacity and service, technology and IP offerings; ▪ expected timing and impact of acquisitions, divestitures…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 7938,
+        "end": 8598
+      }
+    },
+    {
+      "id": "INTC-kw-2",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 8341,
+      "excerpt": "…ndry usage; ▪ future production capacity and product supply; ▪ supply expectations, including regarding constraints, limitations, pricing, and industry shortages; ▪ plans and goals related to Intel's foundry business, including with respect to anticipated customers, future manufacturing capacity and service, technology and IP offerings; ▪ expected timing and impact of acquisitions, divestitures and other significant transactions; ▪ expected completion and impacts of restructuring activities and cost-saving or efficiency initiatives; ▪ social and environmental performance goals, measures, strat…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 8141,
+        "end": 8741
+      }
+    },
+    {
+      "id": "INTC-kw-3",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 9015,
+      "excerpt": "…demand and trends in our businesses and operations; ▪ projected growth and trends in markets relevant to our businesses; ▪ anticipated trends and impacts related to industry component, substrate and foundry capacity utilization, shortages and constraints; ▪ expectations regarding government funding, incentives, policies and priorities; ▪ technology trends and developments, including with respect to AI; ▪ macro environmental and economic conditions; ▪ geopolitical tensions and conflicts, including with respect to international trade policies in areas such as tariffs and export controls, and th…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 8816,
+        "end": 9415
+      }
+    },
+    {
+      "id": "INTC-kw-4",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 16678,
+      "excerpt": "…ntegrated design manufacturer, or IDM, in addition to designing CPUs and other semiconductor products, we develop leading-edge semiconductor manufacturing process technologies, or nodes, and advanced packaging technologies and predominantly manufacture our semiconductor products at our manufacturing and assembly and test facilities, many of which are in the U.S. We are the only company undertaking research, design and development of leading-edge and next generation semiconductor manufacturing technologies and high-volume manufacturing of logic semiconductors utilizing leading-edge nodes in the…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 16478,
+        "end": 17138
+      }
+    },
+    {
+      "id": "INTC-kw-5",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 16783,
+      "excerpt": "…develop leading-edge semiconductor manufacturing process technologies, or nodes, and advanced packaging technologies and predominantly manufacture our semiconductor products at our manufacturing and assembly and test facilities, many of which are in the U.S. We are the only company undertaking research, design and development of leading-edge and next generation semiconductor manufacturing technologies and high-volume manufacturing of logic semiconductors utilizing leading-edge nodes in the U.S., making us a strategically important company from both a national economic and national security pe…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 16584,
+        "end": 17183
+      }
+    },
+    {
+      "id": "INTC-kw-6",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 17262,
+      "excerpt": "…dge nodes in the U.S., making us a strategically important company from both a national economic and national security perspective. In addition to manufacturing our own products, we offer third-party foundry services to external customers and aim to establish this business as a leading external foundry. Our Strategy For more than 50 years, we have contributed to the advancement of computing technology that powers the digital world. Building on our legacy of innovation, we are focused on transforming our business to meet the demands of a rapidly evolving technology landscape. The pace of techno…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 17062,
+        "end": 17662
+      }
+    },
+    {
+      "id": "INTC-kw-7",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 17358,
+      "excerpt": "…and national security perspective. In addition to manufacturing our own products, we offer third-party foundry services to external customers and aim to establish this business as a leading external foundry. Our Strategy For more than 50 years, we have contributed to the advancement of computing technology that powers the digital world. Building on our legacy of innovation, we are focused on transforming our business to meet the demands of a rapidly evolving technology landscape. The pace of technological change, dynamic customer needs and intensifying competition continue to shape the semico…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 17159,
+        "end": 17758
+      }
+    },
+    {
+      "id": "INTC-kw-8",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 19565,
+      "excerpt": "…pute silicon, including GPUs, ASICs, CPUs and xPUs. Our multi-year strategy is designed to enable us to participate in the expanding market and increase in compute demand through our products and our foundry capabilities, including wafer manufacturing and advanced packaging. Our strategy is centered on four core priorities: ▪ Transforming our culture t o become an engineering-focused, customer-centric organization that prioritizes decisive actions, disciplined execution and strong financial management; ▪ Revitalizing the x86 ecosystem that for decades has been our foundation of leadership, ada…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 19365,
+        "end": 19965
+      }
+    },
+    {
+      "id": "INTC-kw-9",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 19630,
+      "excerpt": "…r strategy is designed to enable us to participate in the expanding market and increase in compute demand through our products and our foundry capabilities, including wafer manufacturing and advanced packaging. Our strategy is centered on four core priorities: ▪ Transforming our culture t o become an engineering-focused, customer-centric organization that prioritizes decisive actions, disciplined execution and strong financial management; ▪ Revitalizing the x86 ecosystem that for decades has been our foundation of leadership, adapting and advancing our x86 product offerings to support current…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 19430,
+        "end": 20089
+      }
+    },
+    {
+      "id": "INTC-kw-10",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 20173,
+      "excerpt": "…d advancing our x86 product offerings to support current and next-generation AI workloads, supported by our U.S.-based leading-edge semiconductor process technology R&D and manufacturing and advanced packaging capabilities; ▪ Growing our external foundry business where we aim to leverage our U.S.-based capabilities in leading-edge semiconductor process technology R&D and manufacturing and advanced packaging to become a trusted foundry partner to third-party semiconductor customers and to financially support our continued investment in capital-intensive, U.S.-based, leading-edge R&D and manufac…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 19973,
+        "end": 20573
+      }
+    },
+    {
+      "id": "INTC-kw-11",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 20220,
+      "excerpt": "…t current and next-generation AI workloads, supported by our U.S.-based leading-edge semiconductor process technology R&D and manufacturing and advanced packaging capabilities; ▪ Growing our external foundry business where we aim to leverage our U.S.-based capabilities in leading-edge semiconductor process technology R&D and manufacturing and advanced packaging to become a trusted foundry partner to third-party semiconductor customers and to financially support our continued investment in capital-intensive, U.S.-based, leading-edge R&D and manufacturing; and ▪ Expanding our market opportunitie…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 20020,
+        "end": 20620
+      }
+    },
+    {
+      "id": "INTC-kw-12",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 20374,
+      "excerpt": "…ackaging capabilities; ▪ Growing our external foundry business where we aim to leverage our U.S.-based capabilities in leading-edge semiconductor process technology R&D and manufacturing and advanced packaging to become a trusted foundry partner to third-party semiconductor customers and to financially support our continued investment in capital-intensive, U.S.-based, leading-edge R&D and manufacturing; and ▪ Expanding our market opportunities by leveraging our engineering and design expertise to develop purpose-built ASICs and GPUs for customers to address the increasing diversity of AI-drive…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 20174,
+        "end": 20774
+      }
+    },
+    {
+      "id": "INTC-kw-13",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 20404,
+      "excerpt": "…ng our external foundry business where we aim to leverage our U.S.-based capabilities in leading-edge semiconductor process technology R&D and manufacturing and advanced packaging to become a trusted foundry partner to third-party semiconductor customers and to financially support our continued investment in capital-intensive, U.S.-based, leading-edge R&D and manufacturing; and ▪ Expanding our market opportunities by leveraging our engineering and design expertise to develop purpose-built ASICs and GPUs for customers to address the increasing diversity of AI-driven compute workloads. Overview…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 20204,
+        "end": 20863
+      }
+    },
+    {
+      "id": "INTC-kw-14",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 24041,
+      "excerpt": "…ness, our full-stack AI strategy integrates x86 CPUs with accelerators and custom silicon to support scalable, reliable and cost-efficient infrastructure. The competitiveness of our product offerings depend on access to manufacturing capacity on leading-edge nodes and advanced packaging. Throughout the history of the company, we have invested significant capital resources to continually develop new generations of leading-edge nodes and build manufacturing capacity to produce semiconductor logic chips utilizing such nodes. Our relentless pursuit to improve the performance, power efficiency and…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 23841,
+        "end": 24500
+      }
+    },
+    {
+      "id": "INTC-kw-15",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 24119,
+      "excerpt": "…tom silicon to support scalable, reliable and cost-efficient infrastructure. The competitiveness of our product offerings depend on access to manufacturing capacity on leading-edge nodes and advanced packaging. Throughout the history of the company, we have invested significant capital resources to continually develop new generations of leading-edge nodes and build manufacturing capacity to produce semiconductor logic chips utilizing such nodes. Our relentless pursuit to improve the performance, power efficiency and cost-effectiveness of the semiconductor manufacturing process has enabled us t…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 23919,
+        "end": 24519
+      }
+    },
+    {
+      "id": "INTC-kw-16",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 26500,
+      "excerpt": "…ime-to-market and scale efficiently to meet customer demand. It also provides strategic control over manufacturing operations, supports differentiation in process technology capabilities and advanced packaging, provides increased supply resilience and reinforces our role as a U.S.-based provider of leading-edge semiconductor manufacturing. However, the development and manufacturing of modern leading-edge process technologies, particularly those utilizing EUV lithography such as Intel 4, Intel 3, Intel 18A, Intel 14A and future nodes, require substantial capital investment. These leading-edge p…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 26300,
+        "end": 26900
+      }
+    },
+    {
+      "id": "INTC-kw-17",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 26763,
+      "excerpt": "…our role as a U.S.-based provider of leading-edge semiconductor manufacturing. However, the development and manufacturing of modern leading-edge process technologies, particularly those utilizing EUV lithography such as Intel 4, Intel 3, Intel 18A, Intel 14A and future nodes, require substantial capital investment. These leading-edge process technologies are essential to deliver competitive products, but their cost structure requires manufacturing volumes beyond what we expect from our own products to achieve economic efficiency. In light of these considerations, in 2025, we streamlined our fo…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 26564,
+        "end": 27164
+      }
+    },
+    {
+      "id": "INTC-kw-18",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 27306,
+      "excerpt": "…t of these considerations, in 2025, we streamlined our footprint to improve operational efficiency and better align capacity with anticipated demand. We initiated the consolidation of our Costa Rican assembly and test operations into our other facilities, which we expect to be completed by the end of 2026, slowed the pace of construction for our new Ohio wafer fabrication facility, or fab, and discontinued planned expansions in Germany (fab) and Poland (assembly and test facility). Further, we announced that if we are unable to secure a significant external foundry customer for Intel 14A, we m…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 27106,
+        "end": 27706
+      }
+    },
+    {
+      "id": "INTC-kw-19",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 27564,
+      "excerpt": "…ich we expect to be completed by the end of 2026, slowed the pace of construction for our new Ohio wafer fabrication facility, or fab, and discontinued planned expansions in Germany (fab) and Poland (assembly and test facility). Further, we announced that if we are unable to secure a significant external foundry customer for Intel 14A, we may pause or discontinue our pursuit of Intel 14A and successor leading-edge process technologies. In such event, we would expect, over time, to shift manufacturing to third-party foundries, particularly TSMC, as we develop products for nodes beyond Intel 18A…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 27364,
+        "end": 28024
+      }
+    },
+    {
+      "id": "INTC-kw-20",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 27670,
+      "excerpt": "…abrication facility, or fab, and discontinued planned expansions in Germany (fab) and Poland (assembly and test facility). Further, we announced that if we are unable to secure a significant external foundry customer for Intel 14A, we may pause or discontinue our pursuit of Intel 14A and successor leading-edge process technologies. In such event, we would expect, over time, to shift manufacturing to third-party foundries, particularly TSMC, as we develop products for nodes beyond Intel 18A and its derivative node, Intel 18A-P. Our Strategy 4 Growing Our External Foundry Business In recent year…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 27470,
+        "end": 28070
+      }
+    },
+    {
+      "id": "INTC-kw-21",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 27909,
+      "excerpt": "…pause or discontinue our pursuit of Intel 14A and successor leading-edge process technologies. In such event, we would expect, over time, to shift manufacturing to third-party foundries, particularly TSMC, as we develop products for nodes beyond Intel 18A and its derivative node, Intel 18A-P. Our Strategy 4 Growing Our External Foundry Business In recent years, the cost of developing leading-edge semiconductor process technologies and of the manufacturing facilities utilizing such process technologies has increased significantly and outpaced the growth in our products business. As a result, to…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 27709,
+        "end": 28369
+      }
+    },
+    {
+      "id": "INTC-kw-22",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 28039,
+      "excerpt": "…r time, to shift manufacturing to third-party foundries, particularly TSMC, as we develop products for nodes beyond Intel 18A and its derivative node, Intel 18A-P. Our Strategy 4 Growing Our External Foundry Business In recent years, the cost of developing leading-edge semiconductor process technologies and of the manufacturing facilities utilizing such process technologies has increased significantly and outpaced the growth in our products business. As a result, to improve the financial viability of our continued development of leading-edge semiconductor process technologies and the utilizati…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 27880,
+        "end": 28460
+      }
+    },
+    {
+      "id": "INTC-kw-23",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 28659,
+      "excerpt": "…ing assets, a few years ago we started transitioning our semiconductor manufacturing business from one that has historically been designed to serve our internal product groups into a customer-centric foundry business designed to also serve third-party external semiconductor customers. Our foundry strategy was also designed to enable us to participate in the increasing demand for U.S.-based foundry capacity and a more secure, resilient and balanced semiconductor supply chain. Since that decision, demand for leading-edge foundry capacity has increased significantly to support the demand for comp…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 28459,
+        "end": 29059
+      }
+    },
+    {
+      "id": "INTC-kw-24",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 28749,
+      "excerpt": "…ess from one that has historically been designed to serve our internal product groups into a customer-centric foundry business designed to also serve third-party external semiconductor customers. Our foundry strategy was also designed to enable us to participate in the increasing demand for U.S.-based foundry capacity and a more secure, resilient and balanced semiconductor supply chain. Since that decision, demand for leading-edge foundry capacity has increased significantly to support the demand for compute, particularly from AI workloads, and we expect continued increases in such demand in f…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 28549,
+        "end": 29149
+      }
+    },
+    {
+      "id": "INTC-kw-25",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 28852,
+      "excerpt": "…entric foundry business designed to also serve third-party external semiconductor customers. Our foundry strategy was also designed to enable us to participate in the increasing demand for U.S.-based foundry capacity and a more secure, resilient and balanced semiconductor supply chain. Since that decision, demand for leading-edge foundry capacity has increased significantly to support the demand for compute, particularly from AI workloads, and we expect continued increases in such demand in future years. While we have few external customers to date, developing an external foundry business is a…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 28652,
+        "end": 29312
+      }
+    },
+    {
+      "id": "INTC-kw-26",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 28984,
+      "excerpt": "…to enable us to participate in the increasing demand for U.S.-based foundry capacity and a more secure, resilient and balanced semiconductor supply chain. Since that decision, demand for leading-edge foundry capacity has increased significantly to support the demand for compute, particularly from AI workloads, and we expect continued increases in such demand in future years. While we have few external customers to date, developing an external foundry business is a key long-term strategy for our business and one that we aim to have more success with as we move to more advanced nodes. An externa…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 28784,
+        "end": 29384
+      }
+    },
+    {
+      "id": "INTC-kw-27",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 29231,
+      "excerpt": "…support the demand for compute, particularly from AI workloads, and we expect continued increases in such demand in future years. While we have few external customers to date, developing an external foundry business is a key long-term strategy for our business and one that we aim to have more success with as we move to more advanced nodes. An external foundry business is built on the principle of trust. We recognize that delivering high-quality, reliable and high-yield manufacturing services is essential to earning and retaining external foundry customers. Our foundry offerings include four c…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29032,
+        "end": 29631
+      }
+    },
+    {
+      "id": "INTC-kw-28",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 29386,
+      "excerpt": "…al customers to date, developing an external foundry business is a key long-term strategy for our business and one that we aim to have more success with as we move to more advanced nodes. An external foundry business is built on the principle of trust. We recognize that delivering high-quality, reliable and high-yield manufacturing services is essential to earning and retaining external foundry customers. Our foundry offerings include four components: wafer fabrication, advanced packaging, chiplet integration and design enablement services. In 2025, we ramped Intel 18A into high-volume product…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29186,
+        "end": 29786
+      }
+    },
+    {
+      "id": "INTC-kw-29",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 29576,
+      "excerpt": "…external foundry business is built on the principle of trust. We recognize that delivering high-quality, reliable and high-yield manufacturing services is essential to earning and retaining external foundry customers. Our foundry offerings include four components: wafer fabrication, advanced packaging, chiplet integration and design enablement services. In 2025, we ramped Intel 18A into high-volume production and are seeking to establish it as our first significant node for government and enterprise foundry customers. We enhanced operational processes and quality systems to meet the rigorous…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29377,
+        "end": 30035
+      }
+    },
+    {
+      "id": "INTC-kw-30",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 29599,
+      "excerpt": "…ess is built on the principle of trust. We recognize that delivering high-quality, reliable and high-yield manufacturing services is essential to earning and retaining external foundry customers. Our foundry offerings include four components: wafer fabrication, advanced packaging, chiplet integration and design enablement services. In 2025, we ramped Intel 18A into high-volume production and are seeking to establish it as our first significant node for government and enterprise foundry customers. We enhanced operational processes and quality systems to meet the rigorous standards expected in t…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29399,
+        "end": 29999
+      }
+    },
+    {
+      "id": "INTC-kw-31",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 29670,
+      "excerpt": "…gh-quality, reliable and high-yield manufacturing services is essential to earning and retaining external foundry customers. Our foundry offerings include four components: wafer fabrication, advanced packaging, chiplet integration and design enablement services. In 2025, we ramped Intel 18A into high-volume production and are seeking to establish it as our first significant node for government and enterprise foundry customers. We enhanced operational processes and quality systems to meet the rigorous standards expected in the foundry industry, and continued investing in ecosystem enablement to…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29471,
+        "end": 30071
+      }
+    },
+    {
+      "id": "INTC-kw-32",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 29882,
+      "excerpt": "…hiplet integration and design enablement services. In 2025, we ramped Intel 18A into high-volume production and are seeking to establish it as our first significant node for government and enterprise foundry customers. We enhanced operational processes and quality systems to meet the rigorous standards expected in the foundry industry, and continued investing in ecosystem enablement to make our manufacturing network accessible to third-party external customers, including support for industry-standard EDA tools, process design kits and a broad portfolio of foundation IP that customers can utili…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29682,
+        "end": 30282
+      }
+    },
+    {
+      "id": "INTC-kw-33",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 30002,
+      "excerpt": "…ing to establish it as our first significant node for government and enterprise foundry customers. We enhanced operational processes and quality systems to meet the rigorous standards expected in the foundry industry, and continued investing in ecosystem enablement to make our manufacturing network accessible to third-party external customers, including support for industry-standard EDA tools, process design kits and a broad portfolio of foundation IP that customers can utilize as a part of their designs. We are actively seeking customers for our future Intel 14A node, which is our first node…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 29802,
+        "end": 30461
+      }
+    },
+    {
+      "id": "INTC-Cadence-0",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 32064,
+      "excerpt": "…e emerging areas and position our x86 platform to be their platform of choice. We also aim to participate in these emerging areas through our continued development of our Xeon, AI PCs, Arc GPUs and our open software stack, as well as by developing successive generations of inference-optimized GPUs on a targeted annual cadence that feature enhanced memory and bandwidth to meet enterprise needs. Finally, our strategy includes combining our IP and SoC development capabilities with our leading-edge manufacturing know-how to provide differentiated and full-service semiconductor solutions. Our Strategy 5 Our Business We are a global leade…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 31744,
+        "end": 32384
+      }
+    },
+    {
+      "id": "INTC-kw-34",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 32094,
+      "excerpt": "…d development of our Xeon, AI PCs, Arc GPUs and our open software stack, as well as by developing successive generations of inference-optimized GPUs on a targeted annual cadence that feature enhanced memory and bandwidth to meet enterprise needs. Finally, our strategy includes combining our IP and SoC development capabilities with our leading-edge manufacturing know-how to provide differentiated and full-service semiconductor solutions. Our Strategy 5 Our Business We are a global leader in the design and manufacturing of CPUs and other semiconductor products. Our products are designed and mark…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 31894,
+        "end": 32494
+      }
+    },
+    {
+      "id": "INTC-kw-35",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 32617,
+      "excerpt": "…of CPUs and other semiconductor products. Our products are designed and marketed by our Intel Products business, which includes our CCG and DCAI operating segments, and are manufactured by our Intel Foundry operating segment and third-party suppliers. Our Intel Foundry operating segment also offers semiconductor design and manufacturing services to external customers. We leverage our talent, IP, manufacturing assets and other resources to run our business and execute our strategic priorities. We report our business results in three reportable segments: CCG, DCAI and Intel Foundry. In addition…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 32419,
+        "end": 33018
+      }
+    },
+    {
+      "id": "INTC-kw-36",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 32659,
+      "excerpt": "…Our products are designed and marketed by our Intel Products business, which includes our CCG and DCAI operating segments, and are manufactured by our Intel Foundry operating segment and third-party suppliers. Our Intel Foundry operating segment also offers semiconductor design and manufacturing services to external customers. We leverage our talent, IP, manufacturing assets and other resources to run our business and execute our strategic priorities. We report our business results in three reportable segments: CCG, DCAI and Intel Foundry. In addition to these reportable segments, we present…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 32460,
+        "end": 33118
+      }
+    },
+    {
+      "id": "INTC-kw-37",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 32680,
+      "excerpt": "…igned and marketed by our Intel Products business, which includes our CCG and DCAI operating segments, and are manufactured by our Intel Foundry operating segment and third-party suppliers. Our Intel Foundry operating segment also offers semiconductor design and manufacturing services to external customers. We leverage our talent, IP, manufacturing assets and other resources to run our business and execute our strategic priorities. We report our business results in three reportable segments: CCG, DCAI and Intel Foundry. In addition to these reportable segments, we present an \"all other\" catego…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 32480,
+        "end": 33080
+      }
+    },
+    {
+      "id": "INTC-kw-38",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 32997,
+      "excerpt": "…age our talent, IP, manufacturing assets and other resources to run our business and execute our strategic priorities. We report our business results in three reportable segments: CCG, DCAI and Intel Foundry. In addition to these reportable segments, we present an \"all other\" category, which is not a reportable segment. On September 12, 2025, we completed the divestiture of 51% of Altera. As of that date, Altera's results of operations were no longer included in our consolidated or segment results. Altera's financial results were reported within our \"all other\" category for all periods present…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 32797,
+        "end": 33397
+      }
+    },
+    {
+      "id": "INTC-kw-39",
+      "ticker": "INTC",
+      "vendor": null,
+      "charOffset": 34552,
+      "excerpt": "…inance and government. We address demand for desktops, notebooks and emerging AI PCs, while expanding into edge computing markets through partnerships with solution providers and independent software vendors. Market Trends The PC market in 2025 was driven by a hardware refresh cycle, increased demand for and adoption of AI PCs and expanding PC adoption outside the U.S. End-of-support for Windows 10 and aging devices from the COVID era drove PC refresh activity, while the introduction of AI PC capabilities also contributed to higher demand. Individual users sought powerful, energy-efficient sys…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "type": "keyword",
+      "range": {
+        "start": 34353,
+        "end": 34953
+      }
+    },
+    {
+      "id": "INTC-Arm-0",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 35829,
+      "excerpt": "…x86 architecture. Client CPUs utilizing the x86 architecture remain the foundational computing platform for the majority of PCs, enabling a heterogeneous environment from which a deep and extensive software ecosystem has developed. We also face significant competition from companies that design processors based on the ARM architecture, such as Apple with its M series products, Qualcomm with its Snapdragon products and MediaTek with its Kompanio products. We operate in a highly competitive market and expect this environment to further intensify in 2026. DCAI Overview DCAI delivers workload-optimized solutions based upon our x86 archi…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 35510,
+        "end": 36150
+      }
+    },
+    {
+      "id": "INTC-Arm-1",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 38414,
+      "excerpt": "…s such as NVIDIA, whose GPU systems have experienced the highest demand in the market as AI workloads have become the dominant source of compute demand; companies developing their own custom silicon, including many hyperscalers such as Amazon, Google, Meta and Microsoft; and both new entrants and incumbents developing ARM- and RISC-V-based products tailored to specific data center and AI workloads. We also compete with Broadcom in the custom ASICs development market. We expect this competitive landscape to continue to evolve and to become increasingly intense. Intel Foundry Overview Intel Foundry, comprised of technology development…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 38094,
+        "end": 38734
+      }
+    },
+    {
+      "id": "INTC-GlobalFoundries-0",
+      "ticker": "INTC",
+      "vendor": "GlobalFoundries",
+      "charOffset": 42062,
+      "excerpt": "…ologies from fabrication plants located primarily in Asia. Our primary competitor in leading-edge semiconductor process technology is TSMC, which holds a leading position in manufacturing at scale for the most advanced nodes. We also compete directly with Samsung in this market. Other Intel Foundry competitors include GlobalFoundries, UMC and SMIC, which primarily focus on mature process technologies. Our Business 7 Table of Contents All Other Our \"all other\" category includes the results of operations from non-reportable segments, start-up businesses that support our initiatives, and historical results of operations from divested b…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 41742,
+        "end": 42382
+      }
+    },
+    {
+      "id": "INTC-Cadence-1",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 55148,
+      "excerpt": "…ple series (6300, 6500, 6700, 6900) supporting a range of workloads designed to enable data center architects to optimize infrastructure for private, public and hybrid clouds. ▪ Discrete GPUs: In 2025, as part of our revised AI strategy to develop successive generations of inference-optimized GPUs on a targeted annual cadence featuring enhanced bandwidth and memory to meet enterprise needs, we announced our development of Crescent Island, our first GPU to be built on the advanced Xe3P architecture. Crescent Island is being engineered specifically for data center environments, with a strong emphasis on low power consumption, high thr…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 54828,
+        "end": 55468
+      }
+    },
+    {
+      "id": "INTC-Cadence-2",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 72284,
+      "excerpt": "…et base. Recently, in addition to our Oregon location performing R&D on our latest and next generation process nodes, we are utilizing our Oregon fab assets to perform high volume manufacturing. Relatedly, fab locations that historically performed high-volume manufacturing exclusively are now also focused on an annual cadence of R&D-driven performance and cost improvements as we strive to meaningfully increase the useful life of existing nodes in production. In 2025, our key production fabs were in Oregon (ramping Intel 18A), Arizona (Intel 7 and ramping Intel 18A), Ireland (Intel 4 and Intel 3) and Israel (Intel 7). Finished wafers…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 71964,
+        "end": 72664
+      }
+    },
+    {
+      "id": "INTC-ASML-0",
+      "ticker": "INTC",
+      "vendor": "ASML",
+      "charOffset": 74918,
+      "excerpt": "…ands of suppliers worldwide. We source various critical semiconductor development and manufacturing tools and materials, including rare earth elements, minerals and metals, from multiple suppliers. In some cases, however, we are reliant upon sole-source providers, such as with the EUV lithography tools manufactured by ASML that are required for leading-edge process technologies, or providers that are substantially concentrated in a single country, such as with certain rare earth minerals critical to the functioning of a range of technology products and processes where China is the primary source of global supply. We seek to maintain…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 74598,
+        "end": 75298
+      }
+    },
+    {
+      "id": "INTC-Arm-2",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 84458,
+      "excerpt": "…s. We also protect details about our processes, products and strategies as trade secrets, keeping confidential the information that we believe provides us with a competitive advantage. Efforts to protect our IP can be difficult, particularly in countries that provide less protection to IP rights and in the absence of harmonized international IP standards. Competitors and others may already have IP rights covering similar products. There is no assurance that we will be able to obtain IP rights covering our own products or that we will be able to obtain IP licenses from other companies on favorable terms or at all. For a discussion of…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 84138,
+        "end": 84838
+      }
+    },
+    {
+      "id": "INTC-Cadence-3",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 148594,
+      "excerpt": "…incrementally contemplate investments in significant manufacturing expansion plans and investments to accelerate our process technology. These plans include expanding existing operations in Arizona, New Mexico and Oregon and investing in a new leading-edge manufacturing facility in Ohio in the long term. We adjust the cadence of our investments based on the execution of our roadmap and changing business conditions. As of December 27, 2025, we had commitments for capital expenditures of $9.1 billion for 2026 and had $3.7 billion in capital expenditures committed in the long term. As of December 27, 2025, other purchase obligations an…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 148274,
+        "end": 148914
+      }
+    },
+    {
+      "id": "INTC-Cadence-4",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 164642,
+      "excerpt": "…rtain, and our gross profit would be adversely affected if future demand is less favorable than forecasted. Property, Plant and Equipment At least annually, we evaluate the period over which we expect to recover the economic value of our property, plant and equipment, considering factors such as the process technology cadence between node transitions, changes in machinery and equipment technology, and re-use of machinery and tools across each generation of process technology. As we make manufacturing process conversions and other factory planning decisions, we use assumptions involving the use of management judgments regarding the r…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 164322,
+        "end": 164962
+      }
+    },
+    {
+      "id": "INTC-Arm-3",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 180685,
+      "excerpt": "…IDIA and AMD; other accelerator products such as ASICs, application-specific standard products and FPGAs; memory and storage products; connectivity and networking products; and other semiconductor products. Some of these competitors have developed or utilize competing computing architectures and platforms, such as the ARM architecture, and these architectures and platforms can produce beneficial network effects for competitors when an ecosystem of customers and application developers for such architectures and platforms grows at scale. ARM-based products and the ARM ecosystem have seen increased development and adoption in recent ye…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 180365,
+        "end": 181005
+      }
+    },
+    {
+      "id": "INTC-Arm-4",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 180907,
+      "excerpt": "…ompetitors have developed or utilize competing computing architectures and platforms, such as the ARM architecture, and these architectures and platforms can produce beneficial network effects for competitors when an ecosystem of customers and application developers for such architectures and platforms grows at scale. ARM-based products and the ARM ecosystem have seen increased development and adoption in recent years. We also compete with internally developed semiconductors from OEMs, cloud service providers, and others, some of whom are customers. Some of these customers vertically integrate their own semiconductor designs with th…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 180587,
+        "end": 181227
+      }
+    },
+    {
+      "id": "INTC-Arm-5",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 180934,
+      "excerpt": "…r utilize competing computing architectures and platforms, such as the ARM architecture, and these architectures and platforms can produce beneficial network effects for competitors when an ecosystem of customers and application developers for such architectures and platforms grows at scale. ARM-based products and the ARM ecosystem have seen increased development and adoption in recent years. We also compete with internally developed semiconductors from OEMs, cloud service providers, and others, some of whom are customers. Some of these customers vertically integrate their own semiconductor designs with their software assets and/or…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 180655,
+        "end": 181214
+      }
+    },
+    {
+      "id": "INTC-Arm-6",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 181402,
+      "excerpt": "…d service providers, and others, some of whom are customers. Some of these customers vertically integrate their own semiconductor designs with their software assets and/or customize their designs for specific computing workloads. For example, in 2020, Apple introduced PC products utilizing its own internally developed ARM-based semiconductor designs in place of our client CPUs, and we face increasing competition from Apple's products and ecosystem. More recently, a number of hyperscaler customers have increasingly developed their in-house semiconductor design capabilities and moved to using custom or semi-custom products. Most of ou…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 181082,
+        "end": 181722
+      }
+    },
+    {
+      "id": "INTC-Arm-7",
+      "ticker": "INTC",
+      "vendor": "Arm",
+      "charOffset": 183810,
+      "excerpt": "…brand recognition, customer support and customization and availability. The importance of these factors varies by product and market segment. To the extent our products do not meet our customers' requirements across these factors in an increasingly competitive landscape, our business and results of operations can be harmed. For example, we have lost market share in recent years, including in both client and data center markets, in the market for x86-based semiconductor products, and more generally in the markets for semiconductor compute products, as competitors have introduced highly competitive data center and client platform pro…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 183491,
+        "end": 184130
+      }
+    },
+    {
+      "id": "INTC-ASML-1",
+      "ticker": "INTC",
+      "vendor": "ASML",
+      "charOffset": 232924,
+      "excerpt": "…are manufactured by third parties. For certain products, components, services, materials and equipment, we rely on a single or a limited number of suppliers, or upon suppliers in a single location, which can impact the nature, quality, availability and pricing of the products and services available to us. For example, ASML Holding N.V. (ASML) is currently the sole supplier of EUV lithography tools that we are deploying in our Intel 4, Intel 3, Intel 18A and planned future leading-edge manufacturing process nodes. These tools are highly complex to develop and produce, and increasingly costly, and from time to time there are increases…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 232605,
+        "end": 233245
+      }
+    },
+    {
+      "id": "INTC-ASML-2",
+      "ticker": "INTC",
+      "vendor": "ASML",
+      "charOffset": 232943,
+      "excerpt": "…third parties. For certain products, components, services, materials and equipment, we rely on a single or a limited number of suppliers, or upon suppliers in a single location, which can impact the nature, quality, availability and pricing of the products and services available to us. For example, ASML Holding N.V. (ASML) is currently the sole supplier of EUV lithography tools that we are deploying in our Intel 4, Intel 3, Intel 18A and planned future leading-edge manufacturing process nodes. These tools are highly complex to develop and produce, and increasingly costly, and from time to time there are increases in lead times or d…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 232624,
+        "end": 233263
+      }
+    },
+    {
+      "id": "INTC-Cadence-5",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 274228,
+      "excerpt": "…bly and test processes. Risk Factors 51 Other Key Information Information About Our Executive Officers Name Current Title Age Experience Lip-Bu Tan 66 Lip-Bu Tan has been our Chief Executive Officer since March 2025 and serves on the company’s Board of Directors. Mr. Tan previously served as Chief Executive Officer of Cadence Design Systems, a computational software company, from 2009 to December 2021, and as Executive Board Chair at Cadence from December 2021 to May 2023. Mr. Tan was previously a director of Intel from September 2022 until August 2024. Mr. Tan is the chairman of Walden International, an international venture capita…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 273908,
+        "end": 274548
+      }
+    },
+    {
+      "id": "INTC-Cadence-6",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 274346,
+      "excerpt": "…tle Age Experience Lip-Bu Tan 66 Lip-Bu Tan has been our Chief Executive Officer since March 2025 and serves on the company’s Board of Directors. Mr. Tan previously served as Chief Executive Officer of Cadence Design Systems, a computational software company, from 2009 to December 2021, and as Executive Board Chair at Cadence from December 2021 to May 2023. Mr. Tan was previously a director of Intel from September 2022 until August 2024. Mr. Tan is the chairman of Walden International, an international venture capital firm he founded in 1987, and the founding managing partner of two other funds, Celesta Capital and Walden Catalyst V…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 274026,
+        "end": 274666
+      }
+    },
+    {
+      "id": "INTC-Micron-0",
+      "ticker": "INTC",
+      "vendor": "Micron",
+      "charOffset": 275732,
+      "excerpt": "…est technologies. Before that he served as our Chief Technology and Operations Officer and Executive Vice President of Intel’s Foundry Technology and Manufacturing after originally joining Intel in August 2024 as the Executive Vice President of Foundry Manufacturing & Supply Chain. Prior to joining Intel, he worked at Micron Technology, Inc., a semiconductor manufacturing company, for 23 years, from October 2008 to August 2024, where he held several senior leadership positions, most recently as the Senior Vice President of Technology Development. He earned a Bachelor’s Engineering Degree in Mechanical Engineering from the University…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 275412,
+        "end": 276112
+      }
+    },
+    {
+      "id": "INTC-KLA-0",
+      "ticker": "INTC",
+      "vendor": "KLA",
+      "charOffset": 276139,
+      "excerpt": "…ber 2008 to August 2024, where he held several senior leadership positions, most recently as the Senior Vice President of Technology Development. He earned a Bachelor’s Engineering Degree in Mechanical Engineering from the University of Madras; a Master of Science Degree and a Doctorate in Mechanical Engineering from Oklahoma State University; a Master’s of Information and Data Science from the University of California, Berkeley; and dual executive Master of Business Administration degrees from the University of California, Los Angeles, and the National University of Singapore. Mr. Chandrasekaran is a member of the Board of Director…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 275819,
+        "end": 276459
+      }
+    },
+    {
+      "id": "INTC-Micron-1",
+      "ticker": "INTC",
+      "vendor": "Micron",
+      "charOffset": 278325,
+      "excerpt": "…y, Mr. Zinsner leads Intel’s global finance organization, overseeing finance, accounting and reporting, tax, treasury, internal audit, and investor relations. His responsibilities also encompass Real Estate and Workplace Services and Corporate Development. Mr. Zinsner was previously executive vice president and CFO at Micron Technology, Inc., where he served on the executive leadership team and directed the global finance organization from 2018 to 2022. With three decades of financial and operational experience in semiconductors, manufacturing, and the technology industry, Mr. Zinsner has held several senior leadership roles. His pr…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 278005,
+        "end": 278645
+      }
+    },
+    {
+      "id": "INTC-Cadence-7",
+      "ticker": "INTC",
+      "vendor": "Cadence",
+      "charOffset": 315603,
+      "excerpt": "…gible capital expenditures. Capitalized interest is added to the cost of qualified assets and depreciated over the estimated useful life. At least annually, we evaluate the period over which we expect to recover the economic value of our property, plant and equipment, considering factors such as the process technology cadence between node transitions, changes in machinery and equipment technology and re-use of machinery and tools across each generation of process technology. As we make manufacturing process conversions and other factory planning decisions, we use assumptions involving the use of management judgments regarding the re…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 315283,
+        "end": 315923
+      }
+    },
+    {
+      "id": "INTC-SK Hynix-0",
+      "ticker": "INTC",
+      "vendor": "SK Hynix",
+      "charOffset": 419736,
+      "excerpt": "….2 billion, net of the cash sold and the costs incurred to sell the business, are presented in net cash provided by (used for) investing activities , in th e Consolidated Statements of Cash Flows for the year ended December 27, 2025. NAND Memory Business We sold our NAND memory technology and manufacturing business to SK hynix, which we deconsolidated upon closing the first phase of the transaction on December 29, 2021. On March 27, 2025, we closed the second phase of the transaction. In connection with the second closing, we collected the outstanding receivable and entered into a final release and settlement agreement with SK hynix…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 419416,
+        "end": 420116
+      }
+    },
+    {
+      "id": "INTC-SK Hynix-1",
+      "ticker": "INTC",
+      "vendor": "SK Hynix",
+      "charOffset": 420048,
+      "excerpt": "…ness to SK hynix, which we deconsolidated upon closing the first phase of the transaction on December 29, 2021. On March 27, 2025, we closed the second phase of the transaction. In connection with the second closing, we collected the outstanding receivable and entered into a final release and settlement agreement with SK hynix primarily related to certain penalties and contingencies associated with the manufacturing and sale agreement between us and SK hynix. For the year ended December 27, 2025 we recognized net charges of $ 229 million within interest and other, net for the amounts incurred pursuant to this agreement. During the y…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 419728,
+        "end": 420368
+      }
+    },
+    {
+      "id": "INTC-SK Hynix-2",
+      "ticker": "INTC",
+      "vendor": "SK Hynix",
+      "charOffset": 420182,
+      "excerpt": "…closed the second phase of the transaction. In connection with the second closing, we collected the outstanding receivable and entered into a final release and settlement agreement with SK hynix primarily related to certain penalties and contingencies associated with the manufacturing and sale agreement between us and SK hynix. For the year ended December 27, 2025 we recognized net charges of $ 229 million within interest and other, net for the amounts incurred pursuant to this agreement. During the year ended December 27, 2025, we recorded net proceeds of $ 1.8 billion within cash and cash equivalents. Mobileye's Pending Acquisitio…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 419862,
+        "end": 420502
+      }
+    },
+    {
+      "id": "INTC-GlobalFoundries-1",
+      "ticker": "INTC",
+      "vendor": "GlobalFoundries",
+      "charOffset": 491021,
+      "excerpt": "…and governance EU European Union EUV Extreme ultraviolet lithography Exchange Act Securities Exchange Act of 1934 Fab Semiconductor manufacturing / wafer fabrication facilities 2024 Form 10-K Annual Report on Form 10-K for the year ended December 28, 2024 FPGA Field-programmable gate array GPU Graphics processing unit GlobalFoundries GlobalFoundries Inc. GRI Global Reporting Initiative High-NA EUV High Numerical Aperture Extreme Ultraviolet HPC High-performance computing IDM Integrated device manufacturer, a semiconductor company that both designs and builds chips Intel Intel Corporation IMS IMS Nanofabrication GmbH, a business with…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 490701,
+        "end": 491341
+      }
+    },
+    {
+      "id": "INTC-GlobalFoundries-2",
+      "ticker": "INTC",
+      "vendor": "GlobalFoundries",
+      "charOffset": 491037,
+      "excerpt": "…U European Union EUV Extreme ultraviolet lithography Exchange Act Securities Exchange Act of 1934 Fab Semiconductor manufacturing / wafer fabrication facilities 2024 Form 10-K Annual Report on Form 10-K for the year ended December 28, 2024 FPGA Field-programmable gate array GPU Graphics processing unit GlobalFoundries GlobalFoundries Inc. GRI Global Reporting Initiative High-NA EUV High Numerical Aperture Extreme Ultraviolet HPC High-performance computing IDM Integrated device manufacturer, a semiconductor company that both designs and builds chips Intel Intel Corporation IMS IMS Nanofabrication GmbH, a business within Intel Foundry…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 490717,
+        "end": 491417
+      }
+    },
+    {
+      "id": "INTC-SK Hynix-3",
+      "ticker": "INTC",
+      "vendor": "SK Hynix",
+      "charOffset": 493333,
+      "excerpt": "…nit SASB Sustainability Accounting Standards Board SCIP Semiconductor Co-Investment Program SEC U.S. Securities and Exchange Commission Secure Enclave Secure Enclave program under the CHIPS Act Semiconductor Logic Chip The \"brain\" of electronic devices, processing information to complete tasks Supplemental Details 107 SK hynix SK hynix Inc. SLP Silver Lake Partners SMIC Semiconductor Manufacturing International Corporation Semiconductor Process Technology Processes and technologies applied in the production of semiconductor logic chips SoC System on a chip, which integrates most of the components of a computer or other electronic sy…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 493014,
+        "end": 493654
+      }
+    },
+    {
+      "id": "INTC-SK Hynix-4",
+      "ticker": "INTC",
+      "vendor": "SK Hynix",
+      "charOffset": 493342,
+      "excerpt": "…Sustainability Accounting Standards Board SCIP Semiconductor Co-Investment Program SEC U.S. Securities and Exchange Commission Secure Enclave Secure Enclave program under the CHIPS Act Semiconductor Logic Chip The \"brain\" of electronic devices, processing information to complete tasks Supplemental Details 107 SK hynix SK hynix Inc. SLP Silver Lake Partners SMIC Semiconductor Manufacturing International Corporation Semiconductor Process Technology Processes and technologies applied in the production of semiconductor logic chips SoC System on a chip, which integrates most of the components of a computer or other electronic system into…",
+      "form": "10-K",
+      "filingDate": "2026-01-23",
+      "range": {
+        "start": 493022,
+        "end": 493722
+      }
+    }
+  ]
+}

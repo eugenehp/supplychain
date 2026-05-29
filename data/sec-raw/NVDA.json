@@ -1,0 +1,95 @@
+{
+  "ticker": "NVDA",
+  "cik": "0001045810",
+  "name": "NVIDIA CORP",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-25",
+    "accessionNumber": "0001045810-26-000021",
+    "primaryDocument": "nvda-20260125.htm",
+    "reportDate": "2026-01-25"
+  },
+  "facts": {
+    "Revenues": {
+      "value": 215938000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 26914000000,
+      "end": "2022-01-30",
+      "filed": "2022-03-18"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 18497000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25"
+    },
+    "CapitalExpendituresIncurredButNotYetPaid": {
+      "value": 820000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25"
+    }
+  },
+  "signals": {
+    "company": "NVIDIA CORP",
+    "supplierMentions": [
+      "SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage ",
+      "companies that provide or intend to provide GPUs, CPUs, DPUs, embedded SoCs, and other accelerated, AI computing process",
+      "competitors, if customers develop their own internal solution, if we are unable to provide contractual warranty or other",
+      "us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these",
+      "obtaining future design wins in subsequent generations. We cannot ensure that our products and technologies will provide",
+      "third parties and new training methods, and the resulting products may contain unknown or undetected defects and errors,",
+      "multiple OEMs, ODMs, system integrators, distributors, and other channel partners. We generate a significant amount of o",
+      "our competitors rather than NVIDIA or other U.S. firms, harming our business, market position, and financial results. As",
+      "our overseas partners, especially in Taiwan and South Korea. Any new restrictions that negatively impact our ability to ",
+      "CSPs. Many of these",
+      "a year ago, driven by higher compensation and benefits expense",
+      "NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certa",
+      "system integrators and distributors. We generate a significant amount of our revenue from a limited number of indirect c",
+      "various direct and indirect customers. We estimate that one AI research and deployment company contributed to a meaningf"
+    ],
+    "customerConcentration": [
+      {
+        "pct": 31,
+        "entity": "sales outside the United States"
+      },
+      {
+        "pct": 22,
+        "entity": "another direct customer represented 14% of total revenue, all of which were prim"
+      },
+      {
+        "pct": 22,
+        "entity": "another direct customer represented 14% of total revenue, all of which were prim"
+      },
+      {
+        "pct": 12,
+        "entity": "two direct customers each represented 11% of total revenue, all of which were pr"
+      },
+      {
+        "pct": 13,
+        "entity": "the Compute & Networking segment"
+      },
+      {
+        "pct": 42,
+        "entity": "contracts greater than one year in length will be recognized over the next twelv"
+      },
+      {
+        "pct": 22,
+        "entity": "another direct customer represented 14 % of total revenue, all of which were pri"
+      },
+      {
+        "pct": 12,
+        "entity": "two direct customers each represented 11 % of total revenue, all of which were p"
+      },
+      {
+        "pct": 13,
+        "entity": "the Compute & Networking segment"
+      }
+    ],
+    "supplierConcentration": [],
+    "capexMentions": [],
+    "segmentRevenue": []
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+}

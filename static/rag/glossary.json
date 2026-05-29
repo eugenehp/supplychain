@@ -1,0 +1,3023 @@
+{
+  "generatedAt": "2026-05-29T05:38:15.304Z",
+  "corpusDocumentCount": 17896,
+  "acronymInstances": 110804,
+  "uniqueAcronymsInCorpus": 2401,
+  "termCount": 421,
+  "curatedCount": 134,
+  "filingExtractedCount": 287,
+  "groups": [
+    {
+      "title": "Memory & storage",
+      "items": [
+        {
+          "abbr": "DRAM",
+          "name": "Dynamic Random Access Memory",
+          "definition": "Standard volatile system memory. HBM is a specialized stacked form used on accelerators.",
+          "count": 752,
+          "source": "curated"
+        },
+        {
+          "abbr": "NAND",
+          "name": "NAND flash",
+          "definition": "Non-volatile storage memory used in SSDs and phones — separate from DRAM/HBM on GPUs.",
+          "count": 590,
+          "source": "curated"
+        },
+        {
+          "abbr": "HBM",
+          "name": "High Bandwidth Memory",
+          "definition": "Stacked DRAM placed next to the compute die for very high data bandwidth — a major cost on AI GPUs.",
+          "count": 288,
+          "source": "curated"
+        },
+        {
+          "abbr": "SSD",
+          "name": "Solid State Drive",
+          "definition": "Storage device built from NAND flash chips.",
+          "count": 64,
+          "source": "curated"
+        },
+        {
+          "abbr": "DDR",
+          "name": "Double Data Rate memory",
+          "definition": "Standard off-chip memory interface used in PCs and servers (e.g. DDR5).",
+          "count": 46,
+          "source": "curated"
+        },
+        {
+          "abbr": "HBM3E",
+          "name": "High Bandwidth Memory 3 extended",
+          "definition": "Latest HBM generation on NVIDIA H200 — faster and higher capacity than HBM3.",
+          "count": 7,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Advanced packaging",
+      "items": [
+        {
+          "abbr": "SMT",
+          "name": "Surface Mount Technology",
+          "definition": "Method of mounting components directly on PCB surfaces — used in module assembly.",
+          "count": 426,
+          "source": "curated"
+        },
+        {
+          "abbr": "PCB",
+          "name": "Printed Circuit Board",
+          "definition": "Board that connects and supports electronic components in a module or system.",
+          "count": 388,
+          "source": "curated"
+        },
+        {
+          "abbr": "TSV",
+          "name": "Through-Silicon Via",
+          "definition": "Vertical electrical connection through a silicon die — key to 3D stacking and HBM.",
+          "count": 76,
+          "source": "curated"
+        },
+        {
+          "abbr": "OSAT",
+          "name": "Outsourced Assembly, Test & Packaging",
+          "definition": "Contractors that assemble, test, and pack finished chips (Foxconn, Amkor, etc.).",
+          "count": 70,
+          "source": "curated"
+        },
+        {
+          "abbr": "WLP",
+          "name": "Wafer-Level Packaging",
+          "definition": "Packaging chips while still on the wafer, before singulation into individual dies.",
+          "count": 66,
+          "source": "curated"
+        },
+        {
+          "abbr": "CoWoS",
+          "name": "Chip on Wafer on Substrate",
+          "definition": "TSMC advanced packaging: GPU die + HBM on a silicon interposer, mounted on a package substrate.",
+          "count": 54,
+          "source": "curated"
+        },
+        {
+          "abbr": "SIP",
+          "name": "System in Package",
+          "definition": "Multiple dies or components integrated into one package (often with HBM + logic).",
+          "count": 46,
+          "source": "curated"
+        },
+        {
+          "abbr": "PLP",
+          "name": "Panel-Level Packaging",
+          "definition": "Packaging many chips at panel scale rather than one die at a time — improves throughput.",
+          "count": 28,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Lithography & patterning",
+      "items": [
+        {
+          "abbr": "EUV",
+          "name": "Extreme Ultraviolet lithography",
+          "definition": "13.5 nm light for printing the finest chip features. ASML is the sole commercial supplier.",
+          "count": 726,
+          "source": "curated"
+        },
+        {
+          "abbr": "DUV",
+          "name": "Deep Ultraviolet lithography",
+          "definition": "Older-generation lithography (193 nm) still used for many chip layers.",
+          "count": 250,
+          "source": "curated"
+        },
+        {
+          "abbr": "NXE",
+          "name": "NXE (EUV platform)",
+          "definition": "ASML EUV scanner product line (e.g. NXE:3600) used at leading-edge fabs.",
+          "count": 220,
+          "source": "curated"
+        },
+        {
+          "abbr": "TWINSCAN",
+          "name": "TWINSCAN",
+          "definition": "ASML’s family of lithography scanner products (DUV and EUV systems).",
+          "count": 170,
+          "source": "curated"
+        },
+        {
+          "abbr": "NXT",
+          "name": "NXT (DUV platform)",
+          "definition": "ASML immersion DUV scanner product line for advanced nodes.",
+          "count": 166,
+          "source": "curated"
+        },
+        {
+          "abbr": "OPC",
+          "name": "Optical Proximity Correction",
+          "definition": "Software that pre-distorts mask patterns so printed shapes match design intent.",
+          "count": 32,
+          "source": "curated"
+        },
+        {
+          "abbr": "ArF",
+          "name": "Argon Fluoride laser",
+          "definition": "193 nm DUV light source used in immersion lithography scanners.",
+          "count": 24,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Manufacturing & fabs",
+      "items": [
+        {
+          "abbr": "TSMC",
+          "name": "Taiwan Semiconductor Manufacturing Company",
+          "definition": "World’s largest contract foundry; fabricates NVIDIA GPU dies and CoWoS packaging.",
+          "count": 2208,
+          "source": "curated"
+        },
+        {
+          "abbr": "SSMC",
+          "name": "Systems on Silicon Manufacturing Company",
+          "definition": "TSMC-affiliated wafer fab in Singapore.",
+          "count": 166,
+          "source": "curated"
+        },
+        {
+          "abbr": "JASM",
+          "name": "Japan Advanced Semiconductor Manufacturing",
+          "definition": "TSMC joint-venture fab in Kumamoto, Japan (with Sony and Denso).",
+          "count": 100,
+          "source": "curated"
+        },
+        {
+          "abbr": "ALD",
+          "name": "Atomic Layer Deposition",
+          "definition": "Ultra-thin, highly uniform film deposition — critical at advanced nodes.",
+          "count": 70,
+          "source": "curated"
+        },
+        {
+          "abbr": "CVD",
+          "name": "Chemical Vapor Deposition",
+          "definition": "Deposits thin films on wafers from gas-phase reactions.",
+          "count": 52,
+          "source": "curated"
+        },
+        {
+          "abbr": "FAB",
+          "name": "Fabrication plant",
+          "definition": "Clean-room factory where wafers are processed into chips.",
+          "count": 20,
+          "source": "curated"
+        },
+        {
+          "abbr": "CMP",
+          "name": "Chemical Mechanical Polishing",
+          "definition": "Process that planarizes wafer surfaces between fabrication steps.",
+          "count": 18,
+          "source": "curated"
+        },
+        {
+          "abbr": "Foundry",
+          "name": "Contract chip manufacturer",
+          "definition": "Makes chips designed by others (fabless companies). TSMC is the dominant foundry here.",
+          "count": 2,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Materials & wafer types",
+      "items": [
+        {
+          "abbr": "RF",
+          "name": "Radio Frequency",
+          "definition": "Chip domains handling wireless and high-frequency analog signals.",
+          "count": 212,
+          "source": "curated"
+        },
+        {
+          "abbr": "SOI",
+          "name": "Silicon on Insulator",
+          "definition": "Wafer with thin silicon on an insulating layer — used in RF and low-power chips.",
+          "count": 154,
+          "source": "curated"
+        },
+        {
+          "abbr": "MEMS",
+          "name": "Micro-Electro-Mechanical Systems",
+          "definition": "Microscopic mechanical structures on silicon (sensors, actuators).",
+          "count": 120,
+          "source": "curated"
+        },
+        {
+          "abbr": "GaN",
+          "name": "Gallium Nitride",
+          "definition": "Wide-bandgap semiconductor for power electronics and some specialty wafers.",
+          "count": 48,
+          "source": "curated"
+        },
+        {
+          "abbr": "SIC",
+          "name": "Silicon Carbide",
+          "definition": "Wide-bandgap material for high-power and high-temperature devices.",
+          "count": 22,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Design, EDA & IP",
+      "items": [
+        {
+          "abbr": "IP",
+          "name": "Semiconductor intellectual property",
+          "definition": "Licensed design blocks (CPU cores, interfaces) integrated into a chip.",
+          "count": 2856,
+          "source": "curated"
+        },
+        {
+          "abbr": "EDA",
+          "name": "Electronic Design Automation",
+          "definition": "Software to design, simulate, and verify chips before manufacturing (Synopsys, Cadence).",
+          "count": 558,
+          "source": "curated"
+        },
+        {
+          "abbr": "FPGA",
+          "name": "Field Programmable Gate Array",
+          "definition": "Reconfigurable chip that can be reprogrammed after manufacturing.",
+          "count": 208,
+          "source": "curated"
+        },
+        {
+          "abbr": "SOC",
+          "name": "System on Chip",
+          "definition": "Single chip integrating CPU, GPU, memory controllers, and other blocks.",
+          "count": 195,
+          "source": "curated"
+        },
+        {
+          "abbr": "CFD",
+          "name": "Computational Fluid Dynamics",
+          "definition": "Simulation of fluid/thermal behavior — used in chip and system cooling analysis.",
+          "count": 88,
+          "source": "curated"
+        },
+        {
+          "abbr": "RTL",
+          "name": "Register Transfer Level",
+          "definition": "Digital chip description level used before gate-level synthesis.",
+          "count": 38,
+          "source": "curated"
+        },
+        {
+          "abbr": "DRC",
+          "name": "Design Rule Check",
+          "definition": "Automated verification that layout meets fab manufacturing rules.",
+          "count": 32,
+          "source": "curated"
+        },
+        {
+          "abbr": "ASIC",
+          "name": "Application-Specific Integrated Circuit",
+          "definition": "Custom chip designed for one application (vs. general-purpose CPU/GPU).",
+          "count": 16,
+          "source": "curated"
+        },
+        {
+          "abbr": "LVS",
+          "name": "Layout vs. Schematic",
+          "definition": "Verification that physical layout matches the intended circuit design.",
+          "count": 16,
+          "source": "curated"
+        },
+        {
+          "abbr": "EM",
+          "name": "Electromigration",
+          "definition": "Metal wire degradation under current — a reliability concern in advanced chips.",
+          "count": 2,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Products & compute",
+      "items": [
+        {
+          "abbr": "AI",
+          "name": "Artificial Intelligence",
+          "definition": "Machine learning workloads driving demand for GPUs, HBM, and advanced packaging.",
+          "count": 8154,
+          "source": "curated"
+        },
+        {
+          "abbr": "IC",
+          "name": "Integrated Circuit",
+          "definition": "Complete electronic circuit on a single chip.",
+          "count": 624,
+          "source": "curated"
+        },
+        {
+          "abbr": "GPU",
+          "name": "Graphics Processing Unit",
+          "definition": "Parallel processor for AI and graphics. H200 is NVIDIA’s data-center GPU in this report.",
+          "count": 366,
+          "source": "curated"
+        },
+        {
+          "abbr": "GPUs",
+          "name": "Graphics Processing Units",
+          "definition": "Plural of GPU — parallel accelerators used for AI training and inference.",
+          "count": 340,
+          "source": "curated"
+        },
+        {
+          "abbr": "ICs",
+          "name": "Integrated Circuits",
+          "definition": "Plural of IC — chips fabricated on silicon wafers.",
+          "count": 286,
+          "source": "curated"
+        },
+        {
+          "abbr": "HPC",
+          "name": "High Performance Computing",
+          "definition": "Large-scale scientific and AI supercomputing — major GPU market segment.",
+          "count": 228,
+          "source": "curated"
+        },
+        {
+          "abbr": "ML",
+          "name": "Machine Learning",
+          "definition": "Algorithms that learn from data — primary workload on NVIDIA data-center GPUs.",
+          "count": 214,
+          "source": "curated"
+        },
+        {
+          "abbr": "CPU",
+          "name": "Central Processing Unit",
+          "definition": "General-purpose processor core — often combined with accelerators in a system.",
+          "count": 130,
+          "source": "curated"
+        },
+        {
+          "abbr": "BoM",
+          "name": "Bill of Materials",
+          "definition": "Estimated dollar cost of components per finished product.",
+          "count": 96,
+          "source": "curated"
+        },
+        {
+          "abbr": "VR",
+          "name": "Virtual Reality",
+          "definition": "Immersive display/compute market segment referenced in some filings.",
+          "count": 62,
+          "source": "curated"
+        },
+        {
+          "abbr": "AR",
+          "name": "Augmented Reality",
+          "definition": "Overlay digital content on the real world — adjacent compute market.",
+          "count": 24,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Semiconductor equipment",
+      "items": [
+        {
+          "abbr": "ASML",
+          "name": "ASML Holding",
+          "definition": "Dutch company — monopoly supplier of EUV lithography systems.",
+          "count": 11138,
+          "source": "curated"
+        },
+        {
+          "abbr": "KLA",
+          "name": "KLA (inspection & metrology)",
+          "definition": "Shorthand for KLA Corporation — wafer defect inspection and measurement tools.",
+          "count": 772,
+          "source": "curated"
+        },
+        {
+          "abbr": "SEMI",
+          "name": "Semiconductor Equipment and Materials International",
+          "definition": "Industry association for chip supply chain; also used for equipment/materials sector.",
+          "count": 110,
+          "source": "curated"
+        },
+        {
+          "abbr": "KLAC",
+          "name": "KLA Corporation",
+          "definition": "Leading process control and inspection equipment supplier (formerly KLA-Tencor).",
+          "count": 8,
+          "source": "curated"
+        },
+        {
+          "abbr": "LRCX",
+          "name": "Lam Research",
+          "definition": "Major supplier of etch and deposition equipment for fabs.",
+          "count": 8,
+          "source": "curated"
+        },
+        {
+          "abbr": "AMAT",
+          "name": "Applied Materials",
+          "definition": "Largest semiconductor equipment maker (deposition, etch, inspection).",
+          "count": 4,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Companies & sites",
+      "items": [
+        {
+          "abbr": "MCBU",
+          "name": "Metrology and Inspection Business Unit",
+          "definition": "KLA segment for process control and inspection products.",
+          "count": 186,
+          "source": "curated"
+        },
+        {
+          "abbr": "CMBU",
+          "name": "Component Inspection Business Unit",
+          "definition": "KLA segment focused on component and reticle inspection.",
+          "count": 168,
+          "source": "curated"
+        },
+        {
+          "abbr": "SK",
+          "name": "SK Group / SK Hynix",
+          "definition": "Korean conglomerate; SK Hynix is a primary HBM supplier in this chain.",
+          "count": 162,
+          "source": "curated"
+        },
+        {
+          "abbr": "AEBU",
+          "name": "Advanced Edge Business Unit",
+          "definition": "Internal business segment referenced in equipment company filings.",
+          "count": 124,
+          "source": "curated"
+        },
+        {
+          "abbr": "CDBU",
+          "name": "Chip Data Business Unit",
+          "definition": "Business unit referenced in semiconductor equipment filings.",
+          "count": 118,
+          "source": "curated"
+        },
+        {
+          "abbr": "YMTC",
+          "name": "Yangtze Memory Technologies Corp",
+          "definition": "Chinese NAND flash manufacturer — cited in trade and supply-chain risk disclosures.",
+          "count": 108,
+          "source": "curated"
+        },
+        {
+          "abbr": "TSM",
+          "name": "TSMC (ticker)",
+          "definition": "NYSE ticker for Taiwan Semiconductor Manufacturing Company.",
+          "count": 14,
+          "source": "curated"
+        },
+        {
+          "abbr": "CDNS",
+          "name": "Cadence Design Systems",
+          "definition": "Major EDA and verification software vendor.",
+          "count": 10,
+          "source": "curated"
+        },
+        {
+          "abbr": "MU",
+          "name": "Micron Technology",
+          "definition": "Memory manufacturer (DRAM and NAND).",
+          "count": 8,
+          "source": "curated"
+        },
+        {
+          "abbr": "NVDA",
+          "name": "NVIDIA (ticker)",
+          "definition": "NASDAQ ticker symbol for NVIDIA Corporation.",
+          "count": 8,
+          "source": "curated"
+        },
+        {
+          "abbr": "SNPS",
+          "name": "Synopsys",
+          "definition": "Major EDA and semiconductor IP vendor.",
+          "count": 8,
+          "source": "curated"
+        },
+        {
+          "abbr": "NVIDIA",
+          "name": "NVIDIA Corporation",
+          "definition": "Designer of GPUs and AI accelerators (NVDA) — anchor company of this supply chain map.",
+          "count": 6,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Sustainability & ESG",
+      "items": [
+        {
+          "abbr": "ESG",
+          "name": "Environmental, Social, and Governance",
+          "definition": "Non-financial reporting on climate, workforce, and corporate governance.",
+          "count": 2138,
+          "source": "curated"
+        },
+        {
+          "abbr": "GHG",
+          "name": "Greenhouse Gas",
+          "definition": "Emissions (CO₂ equivalent) tracked for climate reporting (Scope 1/2/3).",
+          "count": 1154,
+          "source": "curated"
+        },
+        {
+          "abbr": "ESRS",
+          "name": "European Sustainability Reporting Standards",
+          "definition": "EU mandatory sustainability disclosure framework.",
+          "count": 418,
+          "source": "curated"
+        },
+        {
+          "abbr": "RBA",
+          "name": "Responsible Business Alliance",
+          "definition": "Industry coalition setting labor and ethics standards for electronics supply chains.",
+          "count": 322,
+          "source": "curated"
+        },
+        {
+          "abbr": "OECD",
+          "name": "Organisation for Economic Co-operation and Development",
+          "definition": "Intergovernmental forum — OECD guidelines cited in responsible sourcing policies.",
+          "count": 300,
+          "source": "curated"
+        },
+        {
+          "abbr": "EHS",
+          "name": "Environment, Health & Safety",
+          "definition": "Workplace and environmental safety programs in fabs and factories.",
+          "count": 218,
+          "source": "curated"
+        },
+        {
+          "abbr": "CCM",
+          "name": "Climate Change Mitigation",
+          "definition": "EU taxonomy category for activities that reduce greenhouse gas emissions.",
+          "count": 150,
+          "source": "curated"
+        },
+        {
+          "abbr": "SBTi",
+          "name": "Science Based Targets initiative",
+          "definition": "Framework for corporate emissions reduction targets aligned with climate science.",
+          "count": 148,
+          "source": "curated"
+        },
+        {
+          "abbr": "SCC",
+          "name": "Semiconductor Climate Consortium",
+          "definition": "Industry group working on semiconductor supply-chain emissions reduction.",
+          "count": 122,
+          "source": "curated"
+        },
+        {
+          "abbr": "CCA",
+          "name": "Climate Change Adaptation",
+          "definition": "EU taxonomy category for adapting to climate impacts.",
+          "count": 118,
+          "source": "curated"
+        },
+        {
+          "abbr": "ILO",
+          "name": "International Labour Organization",
+          "definition": "UN agency whose labor standards are referenced in supplier codes of conduct.",
+          "count": 56,
+          "source": "curated"
+        },
+        {
+          "abbr": "UNGC",
+          "name": "UN Global Compact",
+          "definition": "UN corporate sustainability initiative referenced in ESG disclosures.",
+          "count": 20,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Trade & regulation",
+      "items": [
+        {
+          "abbr": "SEC",
+          "name": "U.S. Securities and Exchange Commission",
+          "definition": "Regulator publishing public company filings used as evidence in this report.",
+          "count": 1518,
+          "source": "curated"
+        },
+        {
+          "abbr": "EU",
+          "name": "European Union",
+          "definition": "Regional bloc whose regulations (CSRD, taxonomy) appear in sustainability filings.",
+          "count": 1104,
+          "source": "curated"
+        },
+        {
+          "abbr": "BIS",
+          "name": "Bureau of Industry and Security",
+          "definition": "U.S. agency administering export controls on advanced semiconductors and tools.",
+          "count": 474,
+          "source": "curated"
+        },
+        {
+          "abbr": "CHIPS",
+          "name": "CHIPS Act",
+          "definition": "U.S. law providing incentives for domestic semiconductor manufacturing.",
+          "count": 420,
+          "source": "curated"
+        },
+        {
+          "abbr": "PFIC",
+          "name": "Passive Foreign Investment Company",
+          "definition": "U.S. tax classification affecting foreign company shareholders.",
+          "count": 410,
+          "source": "curated"
+        },
+        {
+          "abbr": "EEA",
+          "name": "European Economic Area",
+          "definition": "EU plus Iceland, Liechtenstein, Norway — referenced in geographic disclosures.",
+          "count": 120,
+          "source": "curated"
+        },
+        {
+          "abbr": "EAR",
+          "name": "Export Administration Regulations",
+          "definition": "U.S. Commerce Department rules governing dual-use technology exports.",
+          "count": 60,
+          "source": "curated"
+        },
+        {
+          "abbr": "ITAR",
+          "name": "International Traffic in Arms Regulations",
+          "definition": "U.S. rules controlling export of defense-related technology.",
+          "count": 26,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "Accounting & filings",
+      "items": [
+        {
+          "abbr": "ADSs",
+          "name": "American Depositary Shares",
+          "definition": "Plural of ADS — how foreign stocks often trade on U.S. exchanges.",
+          "count": 1060,
+          "source": "curated"
+        },
+        {
+          "abbr": "ASU",
+          "name": "Accounting Standards Update",
+          "definition": "FASB document proposing or amending GAAP rules.",
+          "count": 782,
+          "source": "curated"
+        },
+        {
+          "abbr": "ESPP",
+          "name": "Employee Stock Purchase Plan",
+          "definition": "Program letting employees buy company stock at a discount.",
+          "count": 782,
+          "source": "curated"
+        },
+        {
+          "abbr": "PCAOB",
+          "name": "Public Company Accounting Oversight Board",
+          "definition": "U.S. body overseeing audits of public companies.",
+          "count": 750,
+          "source": "curated"
+        },
+        {
+          "abbr": "LTI",
+          "name": "Long-Term Incentive",
+          "definition": "Multi-year executive compensation tied to performance or stock.",
+          "count": 682,
+          "source": "curated"
+        },
+        {
+          "abbr": "GAAP",
+          "name": "Generally Accepted Accounting Principles",
+          "definition": "U.S. accounting standards used in 10-K financial statements.",
+          "count": 680,
+          "source": "curated"
+        },
+        {
+          "abbr": "ADS",
+          "name": "American Depositary Share",
+          "definition": "U.S.-traded receipt representing shares of a foreign company.",
+          "count": 542,
+          "source": "curated"
+        },
+        {
+          "abbr": "XBRL",
+          "name": "eXtensible Business Reporting Language",
+          "definition": "Machine-readable format for SEC financial filings.",
+          "count": 534,
+          "source": "curated"
+        },
+        {
+          "abbr": "RSUs",
+          "name": "Restricted Stock Units",
+          "definition": "Plural of RSU — stock-based compensation awards.",
+          "count": 502,
+          "source": "curated"
+        },
+        {
+          "abbr": "CODM",
+          "name": "Chief Operating Decision Maker",
+          "definition": "Executive who allocates resources — defines reportable business segments.",
+          "count": 424,
+          "source": "curated"
+        },
+        {
+          "abbr": "OBBBA",
+          "name": "One Big Beautiful Bill Act",
+          "definition": "U.S. legislation referenced in recent tax and incentive disclosures.",
+          "count": 398,
+          "source": "curated"
+        },
+        {
+          "abbr": "AGM",
+          "name": "Annual General Meeting",
+          "definition": "Yearly shareholder meeting.",
+          "count": 382,
+          "source": "curated"
+        },
+        {
+          "abbr": "IRS",
+          "name": "Internal Revenue Service",
+          "definition": "U.S. tax authority referenced in tax footnotes.",
+          "count": 346,
+          "source": "curated"
+        },
+        {
+          "abbr": "IFRS",
+          "name": "International Financial Reporting Standards",
+          "definition": "Global accounting standards used by many non-U.S. filers (e.g. ASML, TSMC).",
+          "count": 336,
+          "source": "curated"
+        },
+        {
+          "abbr": "FASB",
+          "name": "Financial Accounting Standards Board",
+          "definition": "U.S. body that sets GAAP accounting rules.",
+          "count": 320,
+          "source": "curated"
+        },
+        {
+          "abbr": "NYSE",
+          "name": "New York Stock Exchange",
+          "definition": "U.S. stock exchange where some issuers in this dataset are listed.",
+          "count": 312,
+          "source": "curated"
+        },
+        {
+          "abbr": "EPS",
+          "name": "Earnings Per Share",
+          "definition": "Net income divided by shares outstanding — key profitability metric.",
+          "count": 292,
+          "source": "curated"
+        },
+        {
+          "abbr": "AOCI",
+          "name": "Accumulated Other Comprehensive Income",
+          "definition": "Balance-sheet account for unrealized gains/losses outside net income.",
+          "count": 278,
+          "source": "curated"
+        },
+        {
+          "abbr": "SSP",
+          "name": "Standalone Selling Price",
+          "definition": "Revenue-recognition input for bundled hardware/software contracts.",
+          "count": 278,
+          "source": "curated"
+        },
+        {
+          "abbr": "COSO",
+          "name": "Committee of Sponsoring Organizations",
+          "definition": "Framework for internal control over financial reporting (COSO framework).",
+          "count": 266,
+          "source": "curated"
+        },
+        {
+          "abbr": "FVTOCI",
+          "name": "Fair Value Through Other Comprehensive Income",
+          "definition": "IFRS accounting category for certain financial assets.",
+          "count": 254,
+          "source": "curated"
+        },
+        {
+          "abbr": "STI",
+          "name": "Short-Term Incentive",
+          "definition": "Annual bonus or performance pay for executives and employees.",
+          "count": 248,
+          "source": "curated"
+        },
+        {
+          "abbr": "DMA",
+          "name": "Double Materiality Assessment",
+          "definition": "ESG process assessing impact on business and on society/environment.",
+          "count": 240,
+          "source": "curated"
+        },
+        {
+          "abbr": "SOFR",
+          "name": "Secured Overnight Financing Rate",
+          "definition": "U.S. benchmark interest rate used in loan agreements.",
+          "count": 240,
+          "source": "curated"
+        },
+        {
+          "abbr": "ISO",
+          "name": "International Organization for Standardization",
+          "definition": "Body issuing standards (e.g. ISO 14001 environmental management).",
+          "count": 218,
+          "source": "curated"
+        },
+        {
+          "abbr": "ERM",
+          "name": "Enterprise Risk Management",
+          "definition": "Process for identifying and managing company-wide risks.",
+          "count": 214,
+          "source": "curated"
+        },
+        {
+          "abbr": "ERP",
+          "name": "Enterprise Resource Planning",
+          "definition": "Integrated software for finance, supply chain, and operations.",
+          "count": 186,
+          "source": "curated"
+        },
+        {
+          "abbr": "TSR",
+          "name": "Total Shareholder Return",
+          "definition": "Stock price change plus dividends — common executive comp metric.",
+          "count": 184,
+          "source": "curated"
+        },
+        {
+          "abbr": "SAQ",
+          "name": "Self-Assessment Questionnaire",
+          "definition": "Supplier audit questionnaire (often RBA-based) for supply-chain compliance.",
+          "count": 170,
+          "source": "curated"
+        },
+        {
+          "abbr": "FTEs",
+          "name": "Full-Time Equivalents",
+          "definition": "Plural of FTE — workforce size metric in filings.",
+          "count": 155,
+          "source": "curated"
+        },
+        {
+          "abbr": "FTE",
+          "name": "Full-Time Equivalent",
+          "definition": "Standardized headcount measure (one full-time employee = one FTE).",
+          "count": 138,
+          "source": "curated"
+        },
+        {
+          "abbr": "RSAs",
+          "name": "Restricted Stock Awards",
+          "definition": "Plural of RSA.",
+          "count": 130,
+          "source": "curated"
+        },
+        {
+          "abbr": "KPMG",
+          "name": "KPMG",
+          "definition": "Global audit and advisory firm — external auditor named in filings.",
+          "count": 120,
+          "source": "curated"
+        },
+        {
+          "abbr": "RSU",
+          "name": "Restricted Stock Unit",
+          "definition": "Employee equity grant that vests over time — common in tech company comp.",
+          "count": 110,
+          "source": "curated"
+        },
+        {
+          "abbr": "KPI",
+          "name": "Key Performance Indicator",
+          "definition": "Metric used to track business or sustainability goals.",
+          "count": 98,
+          "source": "curated"
+        },
+        {
+          "abbr": "KPIs",
+          "name": "Key Performance Indicators",
+          "definition": "Plural of KPI.",
+          "count": 84,
+          "source": "curated"
+        },
+        {
+          "abbr": "SOX",
+          "name": "Sarbanes-Oxley Act",
+          "definition": "U.S. law requiring internal controls over financial reporting (Section 404).",
+          "count": 70,
+          "source": "curated"
+        }
+      ]
+    },
+    {
+      "title": "General",
+      "items": [
+        {
+          "abbr": "CEO",
+          "name": "Chief Executive Officer",
+          "definition": "Top executive leading company strategy and operations.",
+          "count": 1044,
+          "source": "curated"
+        },
+        {
+          "abbr": "IT",
+          "name": "heavily on the accuracy, availability, and security of our information technology",
+          "definition": "Defined in SEC filings as “heavily on the accuracy, availability, and security of our information technology”.",
+          "count": 652,
+          "source": "filing"
+        },
+        {
+          "abbr": "VIEs",
+          "name": "onsolidated VIEs We hold various forms of interests in Variable Interest Entities",
+          "definition": "Defined in SEC filings as “onsolidated VIEs We hold various forms of interests in Variable Interest Entities”.",
+          "count": 586,
+          "source": "filing"
+        },
+        {
+          "abbr": "FTC",
+          "name": "ivacy requirements, including our consent order with the Federal Trade Commission",
+          "definition": "Defined in SEC filings as “ivacy requirements, including our consent order with the Federal Trade Commission”.",
+          "count": 384,
+          "source": "filing"
+        },
+        {
+          "abbr": "CFO",
+          "name": "Chief Financial Officer",
+          "definition": "Executive responsible for finance, accounting, and investor relations.",
+          "count": 310,
+          "source": "curated"
+        },
+        {
+          "abbr": "AWS",
+          "name": "Intel is indemnifying Acer, Amazon Web Services",
+          "definition": "Defined in SEC filings as “Intel is indemnifying Acer, Amazon Web Services”.",
+          "count": 300,
+          "source": "filing"
+        },
+        {
+          "abbr": "GDPR",
+          "name": "nes under existing regulatory regimes like the General Data Protection Regulation",
+          "definition": "Defined in SEC filings as “nes under existing regulatory regimes like the General Data Protection Regulation”.",
+          "count": 294,
+          "source": "filing"
+        },
+        {
+          "abbr": "OEM",
+          "name": "act price for rights of return and rebates to our original equipment manufacturer",
+          "definition": "Defined in SEC filings as “act price for rights of return and rebates to our original equipment manufacturer”.",
+          "count": 256,
+          "source": "filing"
+        },
+        {
+          "abbr": "VIE",
+          "name": "primary beneficiary of, and thus should consolidate, any variable interest entity",
+          "definition": "Defined in SEC filings as “primary beneficiary of, and thus should consolidate, any variable interest entity”.",
+          "count": 240,
+          "source": "filing"
+        },
+        {
+          "abbr": "PSUs",
+          "name": "itionally, SBC includes other stock-based awards, such as performance stock units",
+          "definition": "Defined in SEC filings as “itionally, SBC includes other stock-based awards, such as performance stock units”.",
+          "count": 238,
+          "source": "filing"
+        },
+        {
+          "abbr": "CISO",
+          "name": "resentations on cybersecurity matters from our Chief Information Security Officer",
+          "definition": "Defined in SEC filings as “resentations on cybersecurity matters from our Chief Information Security Officer”.",
+          "count": 230,
+          "source": "filing"
+        },
+        {
+          "abbr": "CPUs",
+          "name": "Logic chips are processors, such as central processing units",
+          "definition": "Defined in SEC filings as “Logic chips are processors, such as central processing units”.",
+          "count": 203,
+          "source": "filing"
+        },
+        {
+          "abbr": "RL",
+          "name": "Reality Labs",
+          "definition": "Defined in SEC filings as “Reality Labs”.",
+          "count": 196,
+          "source": "filing"
+        },
+        {
+          "abbr": "OEMs",
+          "name": "rs consist primarily of hyperscale data centers, original equipment manufacturers",
+          "definition": "Defined in SEC filings as “rs consist primarily of hyperscale data centers, original equipment manufacturers”.",
+          "count": 187,
+          "source": "filing"
+        },
+        {
+          "abbr": "IoT",
+          "name": "mmittee of Sponsoring Organizations of the Treadway Commission Internet of Things",
+          "definition": "Defined in SEC filings as “mmittee of Sponsoring Organizations of the Treadway Commission Internet of Things”.",
+          "count": 168,
+          "source": "filing"
+        },
+        {
+          "abbr": "CAMT",
+          "name": "llowance against deferred tax assets related to corporate alternative minimum tax",
+          "definition": "Defined in SEC filings as “llowance against deferred tax assets related to corporate alternative minimum tax”.",
+          "count": 154,
+          "source": "filing"
+        },
+        {
+          "abbr": "SAT",
+          "name": "s performance is re-tested through a site acceptance test",
+          "definition": "Defined in SEC filings as “s performance is re-tested through a site acceptance test”.",
+          "count": 144,
+          "source": "filing"
+        },
+        {
+          "abbr": "NASDAQ",
+          "name": "F EQUITY SECURITIES Our common stock is listed on The NASDAQ Global Select Market",
+          "definition": "Defined in SEC filings as “F EQUITY SECURITIES Our common stock is listed on The NASDAQ Global Select Market”.",
+          "count": 142,
+          "source": "filing"
+        },
+        {
+          "abbr": "IDMs",
+          "name": "integrated device manufacturers",
+          "definition": "Defined in SEC filings as “integrated device manufacturers”.",
+          "count": 134,
+          "source": "filing"
+        },
+        {
+          "abbr": "CSP",
+          "name": "m third parties, and future payments related to multi-year cloud service provider",
+          "definition": "Defined in SEC filings as “m third parties, and future payments related to multi-year cloud service provider”.",
+          "count": 126,
+          "source": "filing"
+        },
+        {
+          "abbr": "IDPC",
+          "name": "ited States following a challenge brought by the Irish Data Protection Commission",
+          "definition": "Defined in SEC filings as “ited States following a challenge brought by the Irish Data Protection Commission”.",
+          "count": 126,
+          "source": "filing"
+        },
+        {
+          "abbr": "DAP",
+          "name": "Family daily active people",
+          "definition": "Defined in SEC filings as “Family daily active people”.",
+          "count": 124,
+          "source": "filing"
+        },
+        {
+          "abbr": "DCAI",
+          "name": "Data Center and AI",
+          "definition": "Defined in SEC filings as “Data Center and AI”.",
+          "count": 122,
+          "source": "filing"
+        },
+        {
+          "abbr": "UMC",
+          "name": "Samsung Electronics Co utilize TSMC, United Microelectronics Corporation",
+          "definition": "Defined in SEC filings as “Samsung Electronics Co utilize TSMC, United Microelectronics Corporation”.",
+          "count": 120,
+          "source": "filing"
+        },
+        {
+          "abbr": "EMEA",
+          "name": "Regions represent Europe, the Middle East, and Africa",
+          "definition": "Defined in SEC filings as “Regions represent Europe, the Middle East, and Africa”.",
+          "count": 114,
+          "source": "filing"
+        },
+        {
+          "abbr": "IPR",
+          "name": "instituted Inter Partes Reviews",
+          "definition": "Defined in SEC filings as “instituted Inter Partes Reviews”.",
+          "count": 114,
+          "source": "filing"
+        },
+        {
+          "abbr": "AIB",
+          "name": "Add-in-Board",
+          "definition": "Defined in SEC filings as “Add-in-Board”.",
+          "count": 112,
+          "source": "filing"
+        },
+        {
+          "abbr": "CCG",
+          "name": "Client Computing Group",
+          "definition": "Defined in SEC filings as “Client Computing Group”.",
+          "count": 108,
+          "source": "filing"
+        },
+        {
+          "abbr": "SoCs",
+          "name": "portfolios provide differentiated solutions, including semi-custom System-on-Chip",
+          "definition": "Defined in SEC filings as “portfolios provide differentiated solutions, including semi-custom System-on-Chip”.",
+          "count": 108,
+          "source": "filing"
+        },
+        {
+          "abbr": "MTIC",
+          "name": "including through its subsidiaries",
+          "definition": "Defined in SEC filings as “including through its subsidiaries”.",
+          "count": 106,
+          "source": "filing"
+        },
+        {
+          "abbr": "SCIP",
+          "name": "Substances of Concern in articles as such or in complex objects (Products",
+          "definition": "Defined in SEC filings as “Substances of Concern in articles as such or in complex objects (Products”.",
+          "count": 104,
+          "source": "filing"
+        },
+        {
+          "abbr": "FPGAs",
+          "name": "Field Programmable Gate Arrays",
+          "definition": "Defined in SEC filings as “Field Programmable Gate Arrays”.",
+          "count": 100,
+          "source": "filing"
+        },
+        {
+          "abbr": "PFAS",
+          "name": "rements continue to evolve, namely related to per- and polyfluoroalkyl substances",
+          "definition": "Defined in SEC filings as “rements continue to evolve, namely related to per- and polyfluoroalkyl substances”.",
+          "count": 100,
+          "source": "filing"
+        },
+        {
+          "abbr": "CIP",
+          "name": "Land and assets held within construction in progress",
+          "definition": "Defined in SEC filings as “Land and assets held within construction in progress”.",
+          "count": 94,
+          "source": "filing"
+        },
+        {
+          "abbr": "OpenAI",
+          "name": "gawatts of AMD GPUs, with the a product purchase agreement with OpenAI OpCo, LLC,",
+          "definition": "Defined in SEC filings as “gawatts of AMD GPUs, with the a product purchase agreement with OpenAI OpCo, LLC,”.",
+          "count": 94,
+          "source": "filing"
+        },
+        {
+          "abbr": "SBC",
+          "name": "debt securities, and certain other instruments including stock-based compensation",
+          "definition": "Defined in SEC filings as “debt securities, and certain other instruments including stock-based compensation”.",
+          "count": 92,
+          "source": "filing"
+        },
+        {
+          "abbr": "SLG",
+          "name": "Smart Living Group",
+          "definition": "Defined in SEC filings as “Smart Living Group”.",
+          "count": 88,
+          "source": "filing"
+        },
+        {
+          "abbr": "Concluded",
+          "name": "January 1, 2027",
+          "definition": "Defined in SEC filings as “January 1, 2027”.",
+          "count": 86,
+          "source": "filing"
+        },
+        {
+          "abbr": "GUC",
+          "name": "d categories Related Party Name Related Party Categories GUC and its subsidiaries",
+          "definition": "Defined in SEC filings as “d categories Related Party Name Related Party Categories GUC and its subsidiaries”.",
+          "count": 86,
+          "source": "filing"
+        },
+        {
+          "abbr": "FoA",
+          "name": "Family of Apps",
+          "definition": "Defined in SEC filings as “Family of Apps”.",
+          "count": 84,
+          "source": "filing"
+        },
+        {
+          "abbr": "ITC",
+          "name": "g claims in US and international courts and the US International Trade Commission",
+          "definition": "Defined in SEC filings as “g claims in US and international courts and the US International Trade Commission”.",
+          "count": 84,
+          "source": "filing"
+        },
+        {
+          "abbr": "DOC",
+          "name": "Department of Commerce",
+          "definition": "Defined in SEC filings as “Department of Commerce”.",
+          "count": 82,
+          "source": "filing"
+        },
+        {
+          "abbr": "ESMC",
+          "name": "European Semiconductor Manufacturing Company",
+          "definition": "Defined in SEC filings as “European Semiconductor Manufacturing Company”.",
+          "count": 80,
+          "source": "filing"
+        },
+        {
+          "abbr": "MW",
+          "name": "kWh 0 2 4 6 8 10 2024 2025 consumption",
+          "definition": "Defined in SEC filings as “kWh 0 2 4 6 8 10 2024 2025 consumption”.",
+          "count": 80,
+          "source": "filing"
+        },
+        {
+          "abbr": "CTO",
+          "name": "Chief Technology Officer",
+          "definition": "Executive leading technology strategy and R&D direction.",
+          "count": 78,
+          "source": "curated"
+        },
+        {
+          "abbr": "DSA",
+          "name": "th certain requirements under Articles 28, 34, and 35 of the Digital Services Act",
+          "definition": "Defined in SEC filings as “th certain requirements under Articles 28, 34, and 35 of the Digital Services Act”.",
+          "count": 76,
+          "source": "filing"
+        },
+        {
+          "abbr": "PCBs",
+          "name": "omponents such as memory, printed circuit boards",
+          "definition": "Defined in SEC filings as “omponents such as memory, printed circuit boards”.",
+          "count": 76,
+          "source": "filing"
+        },
+        {
+          "abbr": "FCF",
+          "name": "GAAP, we monitor free cash flow",
+          "definition": "Defined in SEC filings as “GAAP, we monitor free cash flow”.",
+          "count": 74,
+          "source": "filing"
+        },
+        {
+          "abbr": "IASB",
+          "name": "RS Accounting Standards as issued by the International Accounting Standards Board",
+          "definition": "Defined in SEC filings as “RS Accounting Standards as issued by the International Accounting Standards Board”.",
+          "count": 74,
+          "source": "filing"
+        },
+        {
+          "abbr": "HMI",
+          "name": "Within our e-beam metrology and inspection",
+          "definition": "Defined in SEC filings as “Within our e-beam metrology and inspection”.",
+          "count": 72,
+          "source": "filing"
+        },
+        {
+          "abbr": "IEA",
+          "name": "C scenario For this scenario we use the International Energy Agency",
+          "definition": "Defined in SEC filings as “C scenario For this scenario we use the International Energy Agency”.",
+          "count": 72,
+          "source": "filing"
+        },
+        {
+          "abbr": "NPR",
+          "name": "Non-product- related",
+          "definition": "Defined in SEC filings as “Non-product- related”.",
+          "count": 72,
+          "source": "filing"
+        },
+        {
+          "abbr": "FDII",
+          "name": "Foreign-Derived Intangible Income",
+          "definition": "Defined in SEC filings as “Foreign-Derived Intangible Income”.",
+          "count": 68,
+          "source": "filing"
+        },
+        {
+          "abbr": "FSA",
+          "name": "omers frequently enter into non-cancelable Flexible Spending Account arrangements",
+          "definition": "Defined in SEC filings as “omers frequently enter into non-cancelable Flexible Spending Account arrangements”.",
+          "count": 66,
+          "source": "filing"
+        },
+        {
+          "abbr": "META",
+          "name": "ommon stock is trading on the Nasdaq Global Select Market under the ticker symbol",
+          "definition": "Defined in SEC filings as “ommon stock is trading on the Nasdaq Global Select Market under the ticker symbol”.",
+          "count": 64,
+          "source": "filing"
+        },
+        {
+          "abbr": "APUs",
+          "name": "adaptive SoCs and accelerated processing units",
+          "definition": "Defined in SEC filings as “adaptive SoCs and accelerated processing units”.",
+          "count": 62,
+          "source": "filing"
+        },
+        {
+          "abbr": "PR",
+          "name": "Product-related",
+          "definition": "Defined in SEC filings as “Product-related”.",
+          "count": 62,
+          "source": "filing"
+        },
+        {
+          "abbr": "ARPP",
+          "name": "cs The numbers for our key Family metrics, our DAP and average revenue per person",
+          "definition": "Defined in SEC filings as “cs The numbers for our key Family metrics, our DAP and average revenue per person”.",
+          "count": 60,
+          "source": "filing"
+        },
+        {
+          "abbr": "TSL",
+          "name": "nd Ansys semiconductor products primarily through Technology Subscription License",
+          "definition": "Defined in SEC filings as “nd Ansys semiconductor products primarily through Technology Subscription License”.",
+          "count": 60,
+          "source": "filing"
+        },
+        {
+          "abbr": "ODMs",
+          "name": "original design manufacturers",
+          "definition": "Defined in SEC filings as “original design manufacturers”.",
+          "count": 58,
+          "source": "filing"
+        },
+        {
+          "abbr": "PSU",
+          "name": "F o rm of Performance-Based Restricted Stock Unit",
+          "definition": "Defined in SEC filings as “F o rm of Performance-Based Restricted Stock Unit”.",
+          "count": 58,
+          "source": "filing"
+        },
+        {
+          "abbr": "COO",
+          "name": "Chief Operating Officer",
+          "definition": "Executive overseeing day-to-day operations.",
+          "count": 56,
+          "source": "curated"
+        },
+        {
+          "abbr": "DOCUMENT",
+          "name": "EMBEDDED WITHIN THE INLINE XBRL DOCUMENT",
+          "definition": "Defined in SEC filings as “EMBEDDED WITHIN THE INLINE XBRL DOCUMENT”.",
+          "count": 56,
+          "source": "filing"
+        },
+        {
+          "abbr": "FIFO",
+          "name": "r net realizable value, with approximate cost determined on a first-in, first-out",
+          "definition": "Defined in SEC filings as “r net realizable value, with approximate cost determined on a first-in, first-out”.",
+          "count": 56,
+          "source": "filing"
+        },
+        {
+          "abbr": "LPA",
+          "name": "services free-of-charge, supported by ads, an option to see less personalized ads",
+          "definition": "Defined in SEC filings as “services free-of-charge, supported by ads, an option to see less personalized ads”.",
+          "count": 56,
+          "source": "filing"
+        },
+        {
+          "abbr": "AGS",
+          "name": "Semiconductor Systems and Applied Global Services",
+          "definition": "Defined in SEC filings as “Semiconductor Systems and Applied Global Services”.",
+          "count": 54,
+          "source": "filing"
+        },
+        {
+          "abbr": "FAT",
+          "name": "Prior to shipment, the majority of our systems undergo a factory acceptance test",
+          "definition": "Defined in SEC filings as “Prior to shipment, the majority of our systems undergo a factory acceptance test”.",
+          "count": 54,
+          "source": "filing"
+        },
+        {
+          "abbr": "ILP",
+          "name": "Inclusive Leadership Program The Inclusive Leadership Program",
+          "definition": "Defined in SEC filings as “Inclusive Leadership Program The Inclusive Leadership Program”.",
+          "count": 52,
+          "source": "filing"
+        },
+        {
+          "abbr": "NIST",
+          "name": "ssments based on the National Institute of Standards and Technology Cybersecurity",
+          "definition": "Defined in SEC filings as “ssments based on the National Institute of Standards and Technology Cybersecurity”.",
+          "count": 52,
+          "source": "filing"
+        },
+        {
+          "abbr": "PPA",
+          "name": "lectricity for the first time in South Kor our long-term power purchase agreement",
+          "definition": "Defined in SEC filings as “lectricity for the first time in South Kor our long-term power purchase agreement”.",
+          "count": 52,
+          "source": "filing"
+        },
+        {
+          "abbr": "IPCC",
+          "name": "ost-to-society benchmark studies in the Intergovernmental Panel on Climate Change",
+          "definition": "Defined in SEC filings as “ost-to-society benchmark studies in the Intergovernmental Panel on Climate Change”.",
+          "count": 50,
+          "source": "filing"
+        },
+        {
+          "abbr": "ECP",
+          "name": "term borrowings comprise commercial paper issued under the Euro Commercial Paper",
+          "definition": "Defined in SEC filings as “term borrowings comprise commercial paper issued under the Euro Commercial Paper”.",
+          "count": 48,
+          "source": "filing"
+        },
+        {
+          "abbr": "IAS",
+          "name": "INTERNATIONAL ACCOUNTING STANDARDS",
+          "definition": "Defined in SEC filings as “INTERNATIONAL ACCOUNTING STANDARDS”.",
+          "count": 48,
+          "source": "filing"
+        },
+        {
+          "abbr": "SHEETS",
+          "name": "Amounts in millions of Renminbi (“RMB”",
+          "definition": "Defined in SEC filings as “Amounts in millions of Renminbi (“RMB””.",
+          "count": 48,
+          "source": "filing"
+        },
+        {
+          "abbr": "IROs",
+          "name": "T he process to iden tify, assess, and manage impacts, risks and opportunities",
+          "definition": "Defined in SEC filings as “T he process to iden tify, assess, and manage impacts, risks and opportunities”.",
+          "count": 46,
+          "source": "filing"
+        },
+        {
+          "abbr": "Jim",
+          "name": "Nasdaq stock excha es",
+          "definition": "Defined in SEC filings as “Nasdaq stock excha es”.",
+          "count": 46,
+          "source": "filing"
+        },
+        {
+          "abbr": "MNP",
+          "name": "partners of the Make Next Platform",
+          "definition": "Defined in SEC filings as “partners of the Make Next Platform”.",
+          "count": 46,
+          "source": "filing"
+        },
+        {
+          "abbr": "TCFD",
+          "name": "arate report aligned with the Task Force on Climate-related Financial Disclosures",
+          "definition": "Defined in SEC filings as “arate report aligned with the Task Force on Climate-related Financial Disclosures”.",
+          "count": 46,
+          "source": "filing"
+        },
+        {
+          "abbr": "CESR",
+          "name": "ep track of any changes, with the Compliance, Ethics, Security and Risk Committee",
+          "definition": "Defined in SEC filings as “ep track of any changes, with the Compliance, Ethics, Security and Risk Committee”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "COPPA",
+          "name": "s Online Privacy Protection Act",
+          "definition": "Defined in SEC filings as “s Online Privacy Protection Act”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "CPC",
+          "name": "online marketing services based on performance criteria other than cost per click",
+          "definition": "Defined in SEC filings as “online marketing services based on performance criteria other than cost per click”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "CRM",
+          "name": "client relationship management",
+          "definition": "Defined in SEC filings as “client relationship management”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "CSDDD",
+          "name": "ation of legislation like the EU Corporate Sustainability Due Diligence Directive",
+          "definition": "Defined in SEC filings as “ation of legislation like the EU Corporate Sustainability Due Diligence Directive”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "DPUs",
+          "name": "microprocessor and SoC development services and technology, data processing units",
+          "definition": "Defined in SEC filings as “microprocessor and SoC development services and technology, data processing units”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "MIT",
+          "name": "serves as a Trustee of Ford Foundation, of Massachusetts Institute of Technology",
+          "definition": "Defined in SEC filings as “serves as a Trustee of Ford Foundation, of Massachusetts Institute of Technology”.",
+          "count": 42,
+          "source": "filing"
+        },
+        {
+          "abbr": "IRO",
+          "name": "ed materiality score of low, medium or high for each impact, risk and opportunity",
+          "definition": "Defined in SEC filings as “ed materiality score of low, medium or high for each impact, risk and opportunity”.",
+          "count": 40,
+          "source": "filing"
+        },
+        {
+          "abbr": "MS",
+          "name": "Minimum safeguards Article 18 of EU Taxonomy o utlines the minimum safeguards",
+          "definition": "Defined in SEC filings as “Minimum safeguards Article 18 of EU Taxonomy o utlines the minimum safeguards”.",
+          "count": 38,
+          "source": "filing"
+        },
+        {
+          "abbr": "NL",
+          "name": "One such activity is ASML School Football Tournament",
+          "definition": "Defined in SEC filings as “One such activity is ASML School Football Tournament”.",
+          "count": 38,
+          "source": "filing"
+        },
+        {
+          "abbr": "QDMTT",
+          "name": "ing safe harbor and reinforce the role of Qualified Domestic Minimum Top-up Taxes",
+          "definition": "Defined in SEC filings as “ing safe harbor and reinforce the role of Qualified Domestic Minimum Top-up Taxes”.",
+          "count": 38,
+          "source": "filing"
+        },
+        {
+          "abbr": "TPRM",
+          "name": "customers and other partners to identify and mitigate any risks associated wi t",
+          "definition": "Defined in SEC filings as “customers and other partners to identify and mitigate any risks associated wi t”.",
+          "count": 38,
+          "source": "filing"
+        },
+        {
+          "abbr": "EVs",
+          "name": "ars for specific destinations such as Berlin , and switching to electric vehicles",
+          "definition": "Defined in SEC filings as “ars for specific destinations such as Berlin , and switching to electric vehicles”.",
+          "count": 37,
+          "source": "filing"
+        },
+        {
+          "abbr": "APAC",
+          "name": "Asia-Pacific",
+          "definition": "Defined in SEC filings as “Asia-Pacific”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
+          "abbr": "NPU",
+          "name": "AMD was the first company to integrate a dedicated neural processing unit",
+          "definition": "Defined in SEC filings as “AMD was the first company to integrate a dedicated neural processing unit”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
+          "abbr": "TSSCI",
+          "name": "Journal of Social Sciences and Philosophy",
+          "definition": "Defined in SEC filings as “Journal of Social Sciences and Philosophy”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
+          "abbr": "TWSE",
+          "name": "s shares were listed on the Taiwan Stock Exchange",
+          "definition": "Defined in SEC filings as “s shares were listed on the Taiwan Stock Exchange”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
+          "abbr": "AYMA",
+          "name": "ASML Young Makers Award The ASML Young Makers Award",
+          "definition": "Defined in SEC filings as “ASML Young Makers Award The ASML Young Makers Award”.",
+          "count": 34,
+          "source": "filing"
+        },
+        {
+          "abbr": "LEED",
+          "name": "Leadership in Energy and Environmental Design",
+          "definition": "Defined in SEC filings as “Leadership in Energy and Environmental Design”.",
+          "count": 34,
+          "source": "filing"
+        },
+        {
+          "abbr": "SOMs",
+          "name": "Embedded segment primarily includes embedded CPUs, APUs, FPGAs, System on Modules",
+          "definition": "Defined in SEC filings as “Embedded segment primarily includes embedded CPUs, APUs, FPGAs, System on Modules”.",
+          "count": 33,
+          "source": "filing"
+        },
+        {
+          "abbr": "Baidu",
+          "name": "If we fail to maintain and further promote the",
+          "definition": "Defined in SEC filings as “If we fail to maintain and further promote the”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "Beijing",
+          "name": "sum of non-VIE subsidiaries, which mainly include Baidu Online Network Technology",
+          "definition": "Defined in SEC filings as “sum of non-VIE subsidiaries, which mainly include Baidu Online Network Technology”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "Cayman",
+          "name": "senior notes, pursuant to the definitive agreements entered into with PAGAC IV-1",
+          "definition": "Defined in SEC filings as “senior notes, pursuant to the definitive agreements entered into with PAGAC IV-1”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "CSF",
+          "name": "National Institute of Standard and Technologies – CyberSecurity Framework",
+          "definition": "Defined in SEC filings as “National Institute of Standard and Technologies – CyberSecurity Framework”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "DSP",
+          "name": "processing system, programmable logic, AI Engines, and digital signal processing",
+          "definition": "Defined in SEC filings as “processing system, programmable logic, AI Engines, and digital signal processing”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "IDC",
+          "name": "According to the International Data Corporation",
+          "definition": "Defined in SEC filings as “According to the International Data Corporation”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "PME",
+          "name": "Stichting Pensioenfonds van de Metalektro",
+          "definition": "Defined in SEC filings as “Stichting Pensioenfonds van de Metalektro”.",
+          "count": 32,
+          "source": "filing"
+        },
+        {
+          "abbr": "Shanghai",
+          "name": "Limited China X X X GLOBALFOUNDRIES China",
+          "definition": "Defined in SEC filings as “Limited China X X X GLOBALFOUNDRIES China”.",
+          "count": 30,
+          "source": "filing"
+        },
+        {
+          "abbr": "AIBs",
+          "name": "PC OEMs and independent distributors as well as add-in-board manufacturers",
+          "definition": "Defined in SEC filings as “PC OEMs and independent distributors as well as add-in-board manufacturers”.",
+          "count": 29,
+          "source": "filing"
+        },
+        {
+          "abbr": "CXL",
+          "name": "Compute Express Link",
+          "definition": "Defined in SEC filings as “Compute Express Link”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "Debt",
+          "name": "ntenance of certain financial ratios, the details of which can be found in Note 8",
+          "definition": "Defined in SEC filings as “ntenance of certain financial ratios, the details of which can be found in Note 8”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "Foxconn",
+          "name": "r products is intensely competitive and is characterize SK Hynix, Micron, Hon Hai",
+          "definition": "Defined in SEC filings as “r products is intensely competitive and is characterize SK Hynix, Micron, Hon Hai”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "HFC",
+          "name": "bility statements, where we report on all buildings and include Hydrofluorocarbon",
+          "definition": "Defined in SEC filings as “bility statements, where we report on all buildings and include Hydrofluorocarbon”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "NOLs",
+          "name": "federal and state net operating losses",
+          "definition": "Defined in SEC filings as “federal and state net operating losses”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "OSA",
+          "name": "UK Online Safety Act",
+          "definition": "Defined in SEC filings as “UK Online Safety Act”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "TR",
+          "name": "ctor Total Return Index, the Nasdaq Composite Total Return Index, and the S&P 500",
+          "definition": "Defined in SEC filings as “ctor Total Return Index, the Nasdaq Composite Total Return Index, and the S&P 500”.",
+          "count": 28,
+          "source": "filing"
+        },
+        {
+          "abbr": "ATP",
+          "name": "acceptance test protocol",
+          "definition": "Defined in SEC filings as “acceptance test protocol”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "China",
+          "name": "Chinese Mainland Wholly owned subsidiary Baidu",
+          "definition": "Defined in SEC filings as “Chinese Mainland Wholly owned subsidiary Baidu”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "IoV",
+          "name": "ued a draft of the Safety Requirements for Data Collected by Internet of Vehicles",
+          "definition": "Defined in SEC filings as “ued a draft of the Safety Requirements for Data Collected by Internet of Vehicles”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "LCA",
+          "name": "ate the carbon footprint of purchased goods and services is life cycle assessment",
+          "definition": "Defined in SEC filings as “ate the carbon footprint of purchased goods and services is life cycle assessment”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "AMI",
+          "name": "Asociacion de Medios de Informacion",
+          "definition": "Defined in SEC filings as “Asociacion de Medios de Informacion”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "CAGR",
+          "name": "s historical market compound annual growth rate",
+          "definition": "Defined in SEC filings as “s historical market compound annual growth rate”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "CAT",
+          "name": "putative class action was filed against us in the UK Competition Appeals Tribunal",
+          "definition": "Defined in SEC filings as “putative class action was filed against us in the UK Competition Appeals Tribunal”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "CDM",
+          "name": "oot causes of design issues that can cause chip failure from charged-device model",
+          "definition": "Defined in SEC filings as “oot causes of design issues that can cause chip failure from charged-device model”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "RECs",
+          "name": "Renewable energy certificates",
+          "definition": "Defined in SEC filings as “Renewable energy certificates”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "Sanmina",
+          "name": "ompany completed the sale of the ZT Manufacturing Business to Sanmina Corporation",
+          "definition": "Defined in SEC filings as “ompany completed the sale of the ZT Manufacturing Business to Sanmina Corporation”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "Stable",
+          "name": "s is A1",
+          "definition": "Defined in SEC filings as “s is A1”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "TCAD",
+          "name": "ing Our manufacturing solutions include Synopsys technology computer-aided design",
+          "definition": "Defined in SEC filings as “ing Our manufacturing solutions include Synopsys technology computer-aided design”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "NPNS",
+          "name": "If possible, we may elect the normal purchases and normal sales",
+          "definition": "Defined in SEC filings as “If possible, we may elect the normal purchases and normal sales”.",
+          "count": 22,
+          "source": "filing"
+        },
+        {
+          "abbr": "STR",
+          "name": "Thales and Vanderlande, together with the non-profit Stichting Technology Rating",
+          "definition": "Defined in SEC filings as “Thales and Vanderlande, together with the non-profit Stichting Technology Rating”.",
+          "count": 22,
+          "source": "filing"
+        },
+        {
+          "abbr": "BREEAM",
+          "name": "Building Research Establishment Environmental Assessment Method",
+          "definition": "Defined in SEC filings as “Building Research Establishment Environmental Assessment Method”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "ESIP",
+          "name": "ion We have a stockholder-approved equity plan, the Employee Stock Incentive Plan",
+          "definition": "Defined in SEC filings as “ion We have a stockholder-approved equity plan, the Employee Stock Incentive Plan”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "FSB",
+          "name": "idiary of Alphabet, filed notifications with the Russian Federal Security Service",
+          "definition": "Defined in SEC filings as “idiary of Alphabet, filed notifications with the Russian Federal Security Service”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "Gain",
+          "name": "ensation 893,294 692,316 563,292 Allowance for credit losses 50,891 19,724 19,932",
+          "definition": "Defined in SEC filings as “ensation 893,294 692,316 563,292 Allowance for credit losses 50,891 19,724 19,932”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "NV",
+          "name": "Exact Name of Registrant as Specified in Its Charter",
+          "definition": "Defined in SEC filings as “Exact Name of Registrant as Specified in Its Charter”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "Registrant",
+          "name": "LAM RESEARCH CORPORATION",
+          "definition": "Defined in SEC filings as “LAM RESEARCH CORPORATION”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "SARFT",
+          "name": "currently known as NRTA",
+          "definition": "Defined in SEC filings as “currently known as NRTA”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "Triton",
+          "name": "ated January 17 , 202 5 , by and between Micron Idaho Semiconductor Manufacturing",
+          "definition": "Defined in SEC filings as “ated January 17 , 202 5 , by and between Micron Idaho Semiconductor Manufacturing”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "TWD",
+          "name": "Taiwanese dollar",
+          "definition": "Defined in SEC filings as “Taiwanese dollar”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "YieldStar",
+          "name": "Optical metrology",
+          "definition": "Defined in SEC filings as “Optical metrology”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "ECAD",
+          "name": "n the Entity List, restrictions on the export of electronic computer-aided design",
+          "definition": "Defined in SEC filings as “n the Entity List, restrictions on the export of electronic computer-aided design”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "ECCNs",
+          "name": "DA software and technology classified under Export Control Classification Numbers",
+          "definition": "Defined in SEC filings as “DA software and technology classified under Export Control Classification Numbers”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "EPE",
+          "name": "What is edge placement error",
+          "definition": "Defined in SEC filings as “What is edge placement error”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "GOOG",
+          "name": "Class A stock has been listed on the Nasdaq Global Select Market under the symbol",
+          "definition": "Defined in SEC filings as “Class A stock has been listed on the Nasdaq Global Select Market under the symbol”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "HTPCW",
+          "name": "strong involvement in driving adoption of high-temperature process cooling water",
+          "definition": "Defined in SEC filings as “strong involvement in driving adoption of high-temperature process cooling water”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "ITM",
+          "name": "employee development Following a successful pilot of integrated talent management",
+          "definition": "Defined in SEC filings as “employee development Following a successful pilot of integrated talent management”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "TDC",
+          "name": "Retirement and other benefits Total remuneration Total direct compensation",
+          "definition": "Defined in SEC filings as “Retirement and other benefits Total remuneration Total direct compensation”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "Years",
+          "name": "hted-Average Exercise Price per Share Weighted-Average Remaining Contractual Term",
+          "definition": "Defined in SEC filings as “hted-Average Exercise Price per Share Weighted-Average Remaining Contractual Term”.",
+          "count": 18,
+          "source": "filing"
+        },
+        {
+          "abbr": "BJH",
+          "name": "third-party content and services by leveraging our network partners of Baijiahao",
+          "definition": "Defined in SEC filings as “third-party content and services by leveraging our network partners of Baijiahao”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "CPRA",
+          "name": "d by the California Privacy Rights Act",
+          "definition": "Defined in SEC filings as “d by the California Privacy Rights Act”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "EMIB",
+          "name": "rporate a multi-die design connected using Embedded Multi-die Interconnect Bridge",
+          "definition": "Defined in SEC filings as “rporate a multi-die design connected using Embedded Multi-die Interconnect Bridge”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "EWC",
+          "name": "ASML has no existing agreements with a European works council",
+          "definition": "Defined in SEC filings as “ASML has no existing agreements with a European works council”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "Inflows",
+          "name": "Outflows Cash Flows from Operating Activities",
+          "definition": "Defined in SEC filings as “Outflows Cash Flows from Operating Activities”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "KrF",
+          "name": "lasers for 193 nm wavelength, krypton fluoride",
+          "definition": "Defined in SEC filings as “lasers for 193 nm wavelength, krypton fluoride”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "OSHA",
+          "name": "U.S. Occupational Safety and Health Administration",
+          "definition": "Defined in SEC filings as “U.S. Occupational Safety and Health Administration”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "PII",
+          "name": "l property, sensitive business information or personally identifiable information",
+          "definition": "Defined in SEC filings as “l property, sensitive business information or personally identifiable information”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "UTECA",
+          "name": "Union de Televisiones Comerciales Asociadas",
+          "definition": "Defined in SEC filings as “Union de Televisiones Comerciales Asociadas”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "Family",
+          "name": "collectively, our",
+          "definition": "Defined in SEC filings as “collectively, our”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "FILE",
+          "name": "EMBEDDED WITHIN THE INLINE XBRL DOCUMENT",
+          "definition": "Defined in SEC filings as “EMBEDDED WITHIN THE INLINE XBRL DOCUMENT”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "NIIT",
+          "name": "d US residents, estates and trusts will be subject to a Net Investment Income Tax",
+          "definition": "Defined in SEC filings as “d US residents, estates and trusts will be subject to a Net Investment Income Tax”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "RDC",
+          "name": "reset domain crossing",
+          "definition": "Defined in SEC filings as “reset domain crossing”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "Revised",
+          "name": "riteria based on the combined guidance from various external sources, such as the",
+          "definition": "Defined in SEC filings as “riteria based on the combined guidance from various external sources, such as the”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "Xiaodu",
+          "name": "row or grow in unpredictable ways, or we fail to maintain and further promote the",
+          "definition": "Defined in SEC filings as “row or grow in unpredictable ways, or we fail to maintain and further promote the”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "SCCs",
+          "name": "idity of Standard Contractual Clauses",
+          "definition": "Defined in SEC filings as “idity of Standard Contractual Clauses”.",
+          "count": 13,
+          "source": "filing"
+        },
+        {
+          "abbr": "SIs",
+          "name": "rn build and sell board-level products using our technology to system integrators",
+          "definition": "Defined in SEC filings as “rn build and sell board-level products using our technology to system integrators”.",
+          "count": 13,
+          "source": "filing"
+        },
+        {
+          "abbr": "BIO",
+          "name": "Protection and restoration of biodiversity and ecosystems",
+          "definition": "Defined in SEC filings as “Protection and restoration of biodiversity and ecosystems”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "BOARD",
+          "name": "IASB",
+          "definition": "Defined in SEC filings as “IASB”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "CBA",
+          "name": "e Code Code of Conduct Code of ethics and conduct Collective Bargaining Agreement",
+          "definition": "Defined in SEC filings as “e Code Code of Conduct Code of ethics and conduct Collective Bargaining Agreement”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "CCNL",
+          "name": "Italy, our employees are covered by the national collective bargaining agreement",
+          "definition": "Defined in SEC filings as “Italy, our employees are covered by the national collective bargaining agreement”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "CNY",
+          "name": "Chinese yuan",
+          "definition": "Defined in SEC filings as “Chinese yuan”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "Decrease",
+          "name": "Transaction Date Increase",
+          "definition": "Defined in SEC filings as “Transaction Date Increase”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "DJINET",
+          "name": "total return for our Class A common stock, the Dow Jones Internet Composite Index",
+          "definition": "Defined in SEC filings as “total return for our Class A common stock, the Dow Jones Internet Composite Index”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "EPA",
+          "name": "report and in US Environmental Protection Agency",
+          "definition": "Defined in SEC filings as “report and in US Environmental Protection Agency”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "IFRIC",
+          "name": "IFRIC INTERPRETATIONS",
+          "definition": "Defined in SEC filings as “IFRIC INTERPRETATIONS”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "Indenture",
+          "name": "collectively, the",
+          "definition": "Defined in SEC filings as “collectively, the”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "Intel",
+          "name": "egment In the Data Center segment, we compete primarily against Intel Corporation",
+          "definition": "Defined in SEC filings as “egment In the Data Center segment, we compete primarily against Intel Corporation”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "KRW",
+          "name": "South Korean won",
+          "definition": "Defined in SEC filings as “South Korean won”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "MFA",
+          "name": "ls can be compromised by phishing, vishing, smishing, multi-factor authentication",
+          "definition": "Defined in SEC filings as “ls can be compromised by phishing, vishing, smishing, multi-factor authentication”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "NAC",
+          "name": "When we file license applications or Notification Advanced Computing",
+          "definition": "Defined in SEC filings as “When we file license applications or Notification Advanced Computing”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "NCI",
+          "name": "Total noncontrolling interests",
+          "definition": "Defined in SEC filings as “Total noncontrolling interests”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "QLTCS",
+          "name": "Sustainability",
+          "definition": "Defined in SEC filings as “Sustainability”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "RMI",
+          "name": "g practices and leveraging tools developed by the Responsible Minerals Initiative",
+          "definition": "Defined in SEC filings as “g practices and leveraging tools developed by the Responsible Minerals Initiative”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "SDGs",
+          "name": "s 17 Sustainable Development Goals",
+          "definition": "Defined in SEC filings as “s 17 Sustainable Development Goals”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "TPA",
+          "name": "es governing our third-party security risks, including our third-party assessment",
+          "definition": "Defined in SEC filings as “es governing our third-party security risks, including our third-party assessment”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "UNGPs",
+          "name": "Article 31 of the United Nations Guiding Principles on Business and Human Rights",
+          "definition": "Defined in SEC filings as “Article 31 of the United Nations Guiding Principles on Business and Human Rights”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "WTR",
+          "name": "Sustainable use and protection of water and marine resources",
+          "definition": "Defined in SEC filings as “Sustainable use and protection of water and marine resources”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "NIS2",
+          "name": "ing the GDPR and EU member state laws implementing the EU Cybersecurity Directive",
+          "definition": "Defined in SEC filings as “ing the GDPR and EU member state laws implementing the EU Cybersecurity Directive”.",
+          "count": 11,
+          "source": "filing"
+        },
+        {
+          "abbr": "BAR",
+          "name": "Baselining, Ambition-Setting and Roadmapping",
+          "definition": "Defined in SEC filings as “Baselining, Ambition-Setting and Roadmapping”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Berlin",
+          "name": "Germany",
+          "definition": "Defined in SEC filings as “Germany”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "CRA",
+          "name": "confronted w it h EU laws such as the NIS2 Directive and the Cyber Resilience Act",
+          "definition": "Defined in SEC filings as “confronted w it h EU laws such as the NIS2 Directive and the Cyber Resilience Act”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Fulfillment",
+          "name": "ion costs, including those associated with seller transactions, are classified in",
+          "definition": "Defined in SEC filings as “ion costs, including those associated with seller transactions, are classified in”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Gains",
+          "name": "related intangibles 2,254 2,393 2,811 Stock-based compensation 1,638 1,407 1,384",
+          "definition": "Defined in SEC filings as “related intangibles 2,254 2,393 2,811 Stock-based compensation 1,638 1,407 1,384”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Marlin",
+          "name": "collectively,",
+          "definition": "Defined in SEC filings as “collectively,”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "MCP",
+          "name": "Philips then sold the asserted patents to Media Content Protection",
+          "definition": "Defined in SEC filings as “Philips then sold the asserted patents to Media Content Protection”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Pollara",
+          "name": "r AMD Pensando",
+          "definition": "Defined in SEC filings as “r AMD Pensando”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "PPC",
+          "name": "Pollution prevention and control",
+          "definition": "Defined in SEC filings as “Pollution prevention and control”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "REACH",
+          "name": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+          "definition": "Defined in SEC filings as “Registration, Evaluation, Authorisation and Restriction of Chemicals”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "VNO-NCW",
+          "name": "try organizations such as the Confederation of Netherlands Industry and Employers",
+          "definition": "Defined in SEC filings as “try organizations such as the Confederation of Netherlands Industry and Employers”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Vulcano",
+          "name": "AI NICs and",
+          "definition": "Defined in SEC filings as “AI NICs and”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "GOs",
+          "name": "Guarantees of Origin",
+          "definition": "Defined in SEC filings as “Guarantees of Origin”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "MPSoC",
+          "name": "Multi-Processing System-on-a-Chip",
+          "definition": "Defined in SEC filings as “Multi-Processing System-on-a-Chip”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "NEVs",
+          "name": "ow-carbon routes, offering users with Navigation Services for New Energy Vehicles",
+          "definition": "Defined in SEC filings as “ow-carbon routes, offering users with Navigation Services for New Energy Vehicles”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "STCs",
+          "name": "ng for complex technical skills delivered within our skill-based training centers",
+          "definition": "Defined in SEC filings as “ng for complex technical skills delivered within our skill-based training centers”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "XS1527556192",
+          "name": "Fixed Rate Senior Notes due 2027",
+          "definition": "Defined in SEC filings as “Fixed Rate Senior Notes due 2027”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "XS2010032378",
+          "name": "Fixed Rate Senior Notes due 2030",
+          "definition": "Defined in SEC filings as “Fixed Rate Senior Notes due 2030”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "XS2166219720",
+          "name": "Fixed Rate Senior Notes due 2029",
+          "definition": "Defined in SEC filings as “Fixed Rate Senior Notes due 2029”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "ACSCC",
+          "name": "xport Council, the Vice Chair of Advisory Council on Supply Chain Competitiveness",
+          "definition": "Defined in SEC filings as “xport Council, the Vice Chair of Advisory Council on Supply Chain Competitiveness”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "BCIA",
+          "name": "own operations, we use the outcomes of our B usiness Continuity Impact Assessment",
+          "definition": "Defined in SEC filings as “own operations, we use the outcomes of our B usiness Continuity Impact Assessment”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "BE",
+          "name": "und in software development and technologies, and holds a Bachelor of Engineering",
+          "definition": "Defined in SEC filings as “und in software development and technologies, and holds a Bachelor of Engineering”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "CAD",
+          "name": "se cases such as 3D rendering, design and manufacturing for Computer-Aided Design",
+          "definition": "Defined in SEC filings as “se cases such as 3D rendering, design and manufacturing for Computer-Aided Design”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "CCO",
+          "name": "Samuel Vicari is the Chief Customer Officer",
+          "definition": "Defined in SEC filings as “Samuel Vicari is the Chief Customer Officer”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Chengdu",
+          "name": "United Kingdom X X X GA",
+          "definition": "Defined in SEC filings as “United Kingdom X X X GA”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Credited",
+          "name": "VALUATION AND QUALIFYING ACCOUNTS Balance at Beginning of Period Additions",
+          "definition": "Defined in SEC filings as “VALUATION AND QUALIFYING ACCOUNTS Balance at Beginning of Period Additions”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "DTOR",
+          "name": "ring system ownership and other challenges in securing development-tool-of-record",
+          "definition": "Defined in SEC filings as “ring system ownership and other challenges in securing development-tool-of-record”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "DTU",
+          "name": "Science degree in Electrical Engineering from the Technical University of Denmark",
+          "definition": "Defined in SEC filings as “Science degree in Electrical Engineering from the Technical University of Denmark”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "EACs",
+          "name": "cope 2 emissions, we include the share and types of energy attribute certificates",
+          "definition": "Defined in SEC filings as “cope 2 emissions, we include the share and types of energy attribute certificates”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "EAP",
+          "name": "Employee Assistance Program",
+          "definition": "Defined in SEC filings as “Employee Assistance Program”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "EECS",
+          "name": "ng Provost, Head of the Department of Electrical Engineering and Computer Science",
+          "definition": "Defined in SEC filings as “ng Provost, Head of the Department of Electrical Engineering and Computer Science”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "ETS",
+          "name": "dered reference points such as carbon credits based on EU European Trading System",
+          "definition": "Defined in SEC filings as “dered reference points such as carbon credits based on EU European Trading System”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "EU-IFRS",
+          "name": "ed in accordance with IFRS Accounting Standards as endorsed by the European Union",
+          "definition": "Defined in SEC filings as “ed in accordance with IFRS Accounting Standards as endorsed by the European Union”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Google",
+          "name": "Some courts have ruled that",
+          "definition": "Defined in SEC filings as “Some courts have ruled that”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "ICANN",
+          "name": "Internet Corporation for Assigned Names and Numbers",
+          "definition": "Defined in SEC filings as “Internet Corporation for Assigned Names and Numbers”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Investors",
+          "name": "collectively, the",
+          "definition": "Defined in SEC filings as “collectively, the”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "IPUs",
+          "name": "Additionally, our infrastructure processing units",
+          "definition": "Defined in SEC filings as “Additionally, our infrastructure processing units”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "ISAE",
+          "name": "tch Standard that is based on the International Standard on Assurance Engagements",
+          "definition": "Defined in SEC filings as “tch Standard that is based on the International Standard on Assurance Engagements”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "KLA-Tencor",
+          "name": "Dickerson served 18 years with KLA-Tencor Corporation",
+          "definition": "Defined in SEC filings as “Dickerson served 18 years with KLA-Tencor Corporation”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Mt",
+          "name": "kt Net scope 3 CO 2 e emissions",
+          "definition": "Defined in SEC filings as “kt Net scope 3 CO 2 e emissions”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "OFAC",
+          "name": "s Office of Foreign Assets Control",
+          "definition": "Defined in SEC filings as “s Office of Foreign Assets Control”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "PEP-E",
+          "name": "Extended",
+          "definition": "Defined in SEC filings as “Extended”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "PSIG",
+          "name": "e these efforts, Baidu established the Personal Super Intelligence Business Group",
+          "definition": "Defined in SEC filings as “e these efforts, Baidu established the Personal Super Intelligence Business Group”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Re",
+          "name": "logy High-tech manufacturing/ integrated supply chain management Business in Asia",
+          "definition": "Defined in SEC filings as “logy High-tech manufacturing/ integrated supply chain management Business in Asia”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "SCE",
+          "name": "works council or a Societas Cooperativa Europaea",
+          "definition": "Defined in SEC filings as “works council or a Societas Cooperativa Europaea”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "SMB",
+          "name": "el, which resells OEM systems to the mid-market and the small and medium business",
+          "definition": "Defined in SEC filings as “el, which resells OEM systems to the mid-market and the small and medium business”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "SSCI",
+          "name": "He is currently an Associate Editor of Economic Modelling",
+          "definition": "Defined in SEC filings as “He is currently an Associate Editor of Economic Modelling”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Well-being",
+          "name": "kelihood of accidents, and associated risk of failure to engage and retain talent",
+          "definition": "Defined in SEC filings as “kelihood of accidents, and associated risk of failure to engage and retain talent”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "WRI",
+          "name": "ree, based on the Aqueduct Water Risk Atlas tool of the World Resources Institute",
+          "definition": "Defined in SEC filings as “ree, based on the Aqueduct Water Risk Atlas tool of the World Resources Institute”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Asia",
+          "name": "group and the mergers and acquisitions group sequentially at Goldman Sachs",
+          "definition": "Defined in SEC filings as “group and the mergers and acquisitions group sequentially at Goldman Sachs”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "BBU",
+          "name": "Battery Back-up Unit",
+          "definition": "Defined in SEC filings as “Battery Back-up Unit”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "CMi",
+          "name": "Citigroup in the United States, a board mentor of Chairman Mentors International",
+          "definition": "Defined in SEC filings as “Citigroup in the United States, a board mentor of Chairman Mentors International”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "CSPO",
+          "name": "Chief Strategic Sourcing & Procurement Officer",
+          "definition": "Defined in SEC filings as “Chief Strategic Sourcing & Procurement Officer”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Decline",
+          "name": "Year-over-year Percentage Growth",
+          "definition": "Defined in SEC filings as “Year-over-year Percentage Growth”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Eurozone",
+          "name": "Risk free interest rate",
+          "definition": "Defined in SEC filings as “Risk free interest rate”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "IaaS",
+          "name": "ture services from the host CPU and are used by large Infrastructure as a Service",
+          "definition": "Defined in SEC filings as “ture services from the host CPU and are used by large Infrastructure as a Service”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Ireland",
+          "name": "Applied Materials Inc Sharing Scheme",
+          "definition": "Defined in SEC filings as “Applied Materials Inc Sharing Scheme”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Linkou",
+          "name": "Taiwan",
+          "definition": "Defined in SEC filings as “Taiwan”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Liquidity",
+          "name": "Refer to the",
+          "definition": "Defined in SEC filings as “Refer to the”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "MRDIMM",
+          "name": "hroughput with the fastest DDR5 memory available, including Multiplexed Rank DIMM",
+          "definition": "Defined in SEC filings as “hroughput with the fastest DDR5 memory available, including Multiplexed Rank DIMM”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Netherlands",
+          "name": "Malaysia X X X GLOBALFOUNDRIES",
+          "definition": "Defined in SEC filings as “Malaysia X X X GLOBALFOUNDRIES”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "ORATION",
+          "name": "Exact name of registrant as specified in its charter",
+          "definition": "Defined in SEC filings as “Exact name of registrant as specified in its charter”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Private",
+          "name": "Philippines X N/A N/A Wave Computing",
+          "definition": "Defined in SEC filings as “Philippines X N/A N/A Wave Computing”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "RibbonFET",
+          "name": "gate-all-around transistors",
+          "definition": "Defined in SEC filings as “gate-all-around transistors”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "TMT",
+          "name": "telecommunications, media and technology",
+          "definition": "Defined in SEC filings as “telecommunications, media and technology”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "XS1405780963",
+          "name": "Fixed Rate Senior Notes due 2026",
+          "definition": "Defined in SEC filings as “Fixed Rate Senior Notes due 2026”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "XS2473687106",
+          "name": "Fixed Rate Senior Notes due 2032",
+          "definition": "Defined in SEC filings as “Fixed Rate Senior Notes due 2032”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "AA-",
+          "name": "folio of available-for-sale securities must maintain an average minimum rating of",
+          "definition": "Defined in SEC filings as “folio of available-for-sale securities must maintain an average minimum rating of”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "ALE",
+          "name": "adaptive learning engine",
+          "definition": "Defined in SEC filings as “adaptive learning engine”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "CDC",
+          "name": "clock domain crossing",
+          "definition": "Defined in SEC filings as “clock domain crossing”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Clawback",
+          "name": "Compensation Recoupment",
+          "definition": "Defined in SEC filings as “Compensation Recoupment”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "GA",
+          "name": "Chengdu",
+          "definition": "Defined in SEC filings as “Chengdu”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Geely",
+          "name": "idu Auto is a joint venture that we established with Zhejiang Geely Holding Group",
+          "definition": "Defined in SEC filings as “idu Auto is a joint venture that we established with Zhejiang Geely Holding Group”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Hainan",
+          "name": "Ltd Chinese Mainland Wholly owned subsidiary Dulian Network Technology",
+          "definition": "Defined in SEC filings as “Ltd Chinese Mainland Wholly owned subsidiary Dulian Network Technology”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "I-RECs",
+          "name": "International renewable energy certificates",
+          "definition": "Defined in SEC filings as “International renewable energy certificates”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Industry",
+          "name": "celerate adoption and production of new technologies, as discussed further in the",
+          "definition": "Defined in SEC filings as “celerate adoption and production of new technologies, as discussed further in the”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Inventories",
+          "name": "Included in",
+          "definition": "Defined in SEC filings as “Included in”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "K-RECs",
+          "name": "Korea renewable energy certificates",
+          "definition": "Defined in SEC filings as “Korea renewable energy certificates”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Leases",
+          "name": "information regarding these leases is incorporated herein by reference to Note 9",
+          "definition": "Defined in SEC filings as “information regarding these leases is incorporated herein by reference to Note 9”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Liabilities",
+          "name": "s in Which the Hedged Item Is Included Carrying Amount of the Hedged Item Assets/",
+          "definition": "Defined in SEC filings as “s in Which the Hedged Item Is Included Carrying Amount of the Hedged Item Assets/”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "March",
+          "name": "Measurement is taken at the end of the annual Develop & Perform program",
+          "definition": "Defined in SEC filings as “Measurement is taken at the end of the annual Develop & Perform program”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "OCU",
+          "name": "Overhead Cooling Unit",
+          "definition": "Defined in SEC filings as “Overhead Cooling Unit”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "POI",
+          "name": "point of interest",
+          "definition": "Defined in SEC filings as “point of interest”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Products",
+          "name": "Substances of Concern in articles as such or in complex objects",
+          "definition": "Defined in SEC filings as “Substances of Concern in articles as such or in complex objects”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Reversal",
+          "name": "Provision",
+          "definition": "Defined in SEC filings as “Provision”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Sesha",
+          "name": "Senior Vice President, Chief Technology and Sustainability Officer Seshasayee",
+          "definition": "Defined in SEC filings as “Senior Vice President, Chief Technology and Sustainability Officer Seshasayee”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "SGX",
+          "name": "Software Guard Extensions",
+          "definition": "Defined in SEC filings as “Software Guard Extensions”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Spectre",
+          "name": "tegory known as side-channel vulnerabilities, such as the variants referred to as",
+          "definition": "Defined in SEC filings as “tegory known as side-channel vulnerabilities, such as the variants referred to as”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "STEAM",
+          "name": "science, technology, engineering, art, and mathematics",
+          "definition": "Defined in SEC filings as “science, technology, engineering, art, and mathematics”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "T-RECs",
+          "name": "Taiwan renewable energy certificates",
+          "definition": "Defined in SEC filings as “Taiwan renewable energy certificates”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Texas",
+          "name": "He is also a member of the Board of Trustees for Rice University",
+          "definition": "Defined in SEC filings as “He is also a member of the Board of Trustees for Rice University”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Unaudited",
+          "name": "Supplemental Pro Forma Information",
+          "definition": "Defined in SEC filings as “Supplemental Pro Forma Information”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Used",
+          "name": "Cash Provided by",
+          "definition": "Defined in SEC filings as “Cash Provided by”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "VBDO",
+          "name": "orum, Eumedion and the Dutch Association of Investors for Sustainable Development",
+          "definition": "Defined in SEC filings as “orum, Eumedion and the Dutch Association of Investors for Sustainable Development”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "VEUO",
+          "name": "dition, he is the Chair of the Board of the Dutch Association of Listed Companies",
+          "definition": "Defined in SEC filings as “dition, he is the Chair of the Board of the Dutch Association of Listed Companies”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "AO",
+          "name": "Positive Technologies",
+          "definition": "Defined in SEC filings as “Positive Technologies”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "Deductions",
+          "name": "Additions charged to expenses/other accounts 2,428 10,927 461",
+          "definition": "Defined in SEC filings as “Additions charged to expenses/other accounts 2,428 10,927 461”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "DIMM",
+          "name": "MRDIMM",
+          "definition": "Defined in SEC filings as “MRDIMM”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "E-cores",
+          "name": "Efficient-cores",
+          "definition": "Defined in SEC filings as “Efficient-cores”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "Idaho",
+          "name": "s Health System",
+          "definition": "Defined in SEC filings as “s Health System”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "Karien",
+          "name": "Catharina",
+          "definition": "Defined in SEC filings as “Catharina”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "Logic",
+          "name": "chips",
+          "definition": "Defined in SEC filings as “chips”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "MEA",
+          "name": "excluding The Netherlands",
+          "definition": "Defined in SEC filings as “excluding The Netherlands”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "P-cores",
+          "name": "Performance-cores",
+          "definition": "Defined in SEC filings as “Performance-cores”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "Senior",
+          "name": "e worked at PricewaterhouseCoopers, where he held various management positions as",
+          "definition": "Defined in SEC filings as “e worked at PricewaterhouseCoopers, where he held various management positions as”.",
+          "count": 2,
+          "source": "filing"
+        },
+        {
+          "abbr": "Warrants",
+          "name": "per share",
+          "definition": "Defined in SEC filings as “per share”.",
+          "count": 2,
+          "source": "filing"
+        }
+      ]
+    }
+  ]
+}

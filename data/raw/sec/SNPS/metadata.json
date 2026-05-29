@@ -1,0 +1,57 @@
+{
+  "ticker": "SNPS",
+  "cik": "0000883241",
+  "name": "SYNOPSYS INC",
+  "scrapedAt": "2026-05-29T04:56:05.826Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 5081542000,
+      "end": "2022-10-31",
+      "filed": "2022-12-12",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 7054178000,
+      "end": "2025-10-31",
+      "filed": "2025-12-22",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 2479338000,
+      "end": "2025-10-31",
+      "filed": "2025-12-22",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 1623549000,
+      "end": "2025-10-31",
+      "filed": "2025-12-22",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 5430629000,
+      "end": "2025-10-31",
+      "filed": "2025-12-22",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 48224461000,
+      "end": "2025-10-31",
+      "filed": "2025-12-22",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 5081542000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2025-12-22",
+    "accessionNumber": "0000883241-25-000028",
+    "primaryDocument": "snps-20251031.htm",
+    "reportDate": "2025-10-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/snps-20251031.htm",
+  "htmlLength": 3031429
+}

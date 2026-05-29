@@ -1,0 +1,2549 @@
+{
+  "vendors": [
+    {
+      "name": "s of Equity Se",
+      "count": 4,
+      "snippets": [
+        "ant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 33 Item 6. [Reserved] 35",
+        "retrospectively adjusted to reflect the Stock Split. Issuer Purchases of Equity Securities On August 26, 2025, our Board of Directors approved"
+      ],
+      "sources": [
+        "b9e629257823da36",
+        "7d873b80416285cf"
+      ]
+    },
+    {
+      "name": "obligations, as the demand for H20 products diminished. In August 2025, the USG",
+      "count": 4,
+      "snippets": [
+        "scal year 2026 associated with H20 for excess inventory and purchase obligations, as the demand for H20 products diminished. In August 2025, the USG granted licenses that would allow us to ship certain H20 products to certain China-based customers. We generated approximately $60 million in H20 r"
+      ],
+      "sources": [
+        "58bc351adf484b99",
+        "343163320a9c0bfd"
+      ]
+    },
+    {
+      "name": "product from competitors, if customers develop their own internal solution, if w",
+      "count": 4,
+      "snippets": [
+        "ded in geographic, customer, or product scope, if customers purchase product from competitors, if customers develop their own internal solution, if we are unable to provide contractual warranty or other extended service obligations, if the USG does not grant licenses in a timely manner or denies licenses to significant customers or if we incur significant transition costs. 10 Table of Contents The licensing process may not be resolved before sign",
+        "ded in geographic, customer, or product scope, if customers purchase product from competitors, if customers develop their own internal solution, if we are unable to provide contractual warranty or other extended service obligations, if the USG does not grant licenses in a timely manner or denies licenses to significant customers or if we incur significant transition costs. The licensing process may not be resolved before significant business opportunities evaporate. Even if the USG grants any requested licenses, the licenses have already and may in the future be temporary, impose burdensome conditions regarding the installation, maintenance, and use of such products, or include financial or economic requirements that we or our customers or end users cannot or choose not to fulfill."
+      ],
+      "sources": [
+        "83e6f30ecf2dd685",
+        "507c62eda0f9bfb4"
+      ]
+    },
+    {
+      "name": "s and their technology to manufacture, assemble, test, or package our products r",
+      "count": 4,
+      "snippets": [
+        "nd demand. 12 Table of Contents • Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. • Defects in our products have caused",
+        "create volatility in our revenue. Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. We depend on foundries to manufacture our semiconductor wafers using their fabrication equipment and techniques. We do not assemble, test, or package our products, but instead contract with independent subcontractors. These subcontractors assist with procuring components used in our systems, boards, and products."
+      ],
+      "sources": [
+        "23a5f20c457e3661",
+        "7294b349a04b2782"
+      ]
+    },
+    {
+      "name": "s could impact our future revenue and financial performance. Expanding energy ca",
+      "count": 4,
+      "snippets": [
+        "is crucial, and any shortage of these and other necessary resources could impact our future revenue and financial performance. Expanding energy capacity to meet demand is a complex, multi-year process involving significant regulatory, technical, and construction challenges. In addition, access to capital can be particularly constrained for less-capitalized companies, which may face difficulties securing financing for large-scale infrastructure projects. These limitations could delay customer and partner deployments or reduce the scale of accelerated computing and AI adoption. Challenges in estimating demand could become more pronounced or volatile in the future on both a global and regional basis. Extended lead times may occur if we experience other supply constraints caused by natural disasters, pandemics or other events. Geopolitical tensions in regions where we rely on suppliers, contract manufacturers, and assembly partners that are critical to our supply continuity, could have a material adverse impact on us.",
+        "is crucial, and any shortage of these or other necessary resources could impact our future revenue and financial performance. Expanding energy capacity to meet demand is a complex, multi-year process that involves significant regulatory, technical, and construction challenges."
+      ],
+      "sources": [
+        "eca9a6e697239946",
+        "c898eb798688c3e6"
+      ]
+    },
+    {
+      "name": "authorization, without expiration. In fiscal year 2026, we repurchased 282 milli",
+      "count": 4,
+      "snippets": [
+        "f Directors approved an additional $60.0 billion in share repurchase authorization, without expiration. In fiscal year 2026, we repurchased 282 million shares of our common stock for $40.4 billion. As of January 25, 2026, we wer"
+      ],
+      "sources": [
+        "7d873b80416285cf",
+        "0e1e5cbebe1f0dbd"
+      ]
+    },
+    {
+      "name": "products directly from NVIDIA as direct customers, such as AIBs, distributors, O",
+      "count": 4,
+      "snippets": [
+        "Note 9 - Balance Sheet Components We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certain direct customers may use either internal resources or third-party system integrators to complete their build. Three direct customers accounted for 25 %, 18 %, and 13 % of our accounts receivable ba",
+        "pute & Networking segment demand. We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certain direct customers may use either internal resources or third-party system integrators to complete their build. We refer to indirect customers as those who purchase products through our direct customers; indirect customers i"
+      ],
+      "sources": [
+        "fa35e64b3f49b253",
+        "831dae08e0e0a8f2"
+      ]
+    },
+    {
+      "name": "SK Hynix",
+      "count": 3,
+      "snippets": [
+        "o produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS te"
+      ],
+      "sources": [
+        "933ba6ff7640a903",
+        "264aa153f4674a23"
+      ]
+    },
+    {
+      "name": "Micron",
+      "count": 3,
+      "snippets": [
+        "emiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semicon"
+      ],
+      "sources": [
+        "933ba6ff7640a903",
+        "264aa153f4674a23"
+      ]
+    },
+    {
+      "name": "from our competitors, we may not be able to utilize on-hand inventory or reduce",
+      "count": 3,
+      "snippets": [
+        "demand, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to utilize on-hand inventory or reduce purchase commitments accordingly.",
+        "demand, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to utilize on-hand inventory or reduce purchase commitments accordingly. We have had to reduce average selling prices, including due to our channel pricing programs, increase prices for certain of our products as a result of our suppl"
+      ],
+      "sources": [
+        "5b25386271bb58bf",
+        "7de539ddd3dcef77"
+      ]
+    },
+    {
+      "name": "sales to our partner network, as well as the ability of these partners to sell p",
+      "count": 3,
+      "snippets": [
+        "our portfolio through their channels. Our operating results depend on sales to our partner network, as well as the ability of these partners to sell products that incorporate our technologies.",
+        "our portfolio through their channels. Our operating results depend on sales to our partner network, as well as the ability of these partners to sell products that incorporate our technologies. We have a small number of partners that are involved in system integration with our key customers. As our system design becomes increasingly complex, system integrators may be unable to meet specifications of our key customers. Changes in our partners' or customers' business models or their ownership can reduce the number of partners available to us and harm our ability to sell our advanced data center systems to customers. In the future, these partners may decide to purchase fewer products, not to incorporate our products into their ecosystem, or to alter their purchasing patterns in some other way. Because most of our sales are made on a purchase order basis, our customers can generally cancel, change, or delay product purchase commitments with little notice to us and without penalty."
+      ],
+      "sources": [
+        "83022d2d5d5dea17",
+        "55fead60a58c49c9"
+      ]
+    },
+    {
+      "name": "tariffs, import or export regulations, inc",
+      "count": 3,
+      "snippets": [
+        "ic security policies of U.S. and foreign government bodies, such as tariffs, import or export regulations, including deemed export restrictions and restrictions on the ac"
+      ],
+      "sources": [
+        "ba627754bd7c8fad",
+        "0a0362ee27e446f7"
+      ]
+    },
+    {
+      "name": "FactSe",
+      "count": 3,
+      "snippets": [
+        "stock and in indices, including reinvestment of dividends. Source: FactSet financial data and analytics.",
+        "stock and in indices, including reinvestment of dividends. Source: FactSet financial data and analytics. 1/31/2021 1/30/2022 1/29/202"
+      ],
+      "sources": [
+        "270749453d2a7be4",
+        "86d1671d1547f212"
+      ]
+    },
+    {
+      "name": "commitments. Most of our inventory provisions relate to excess quantities of pro",
+      "count": 3,
+      "snippets": [
+        "or for obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to excess quantities of products or components, based on our inventory levels and future product purchase commitments compared to assumptions about future demand and market conditions, which requires management judgment. Situations that may result in excess or obsolete inventory or excess product purchase commitments include changes in business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our products, including potential cancellation or deferral of customer purchase orders, inventory obsolescence because of changing technology and customer requirements, new product introductions resulting in less demand for existing products or inconsistent spikes in demand, failure to estimate customer demand properly, ordering in advance of historical lead-times, government regulations and the impact of changes in future demand, or increase in demand for competitive products, including competitive actio",
+        "or for obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to excess quantities of products, based on our inventory levels and future product purchase commitments compared to assumptions about future demand including the impact of regulatory export restrictions on our products. Once inventory has been written-off or written-down, it creates a new cost basis for the inventory that is not subsequently written-up. We record a liability for noncancelable purchase commitments with suppliers for quantities in excess of our future demand forecasts consistent with our valuation of obsolete or excess inventory. Property and Equipment Property and equipment are stated at cost less accumulated depreciation. Depreciation of property and equipment is computed using the straight-line method based on the estimated useful lives of the assets of two to seven years ."
+      ],
+      "sources": [
+        "e83cbf3de4d811b3",
+        "0632bb86f770e1be"
+      ]
+    },
+    {
+      "name": "order information, product specifications, internal sales data, and other source",
+      "count": 3,
+      "snippets": [
+        "n estimation based upon multiple factors including customer purchase order information, product specifications, internal sales data, and other sources. Indirect customers primarily purchase our products through system integrators and distributors.",
+        "ing customer purchase order information, product specifications, internal sales data, and other sources. Indirect customers primarily purchase our products through system integrators and distributors. We generate a significant amount of our revenue from a limited number of indirect customers, some individually representing 10% or more of our revenue. Certain companies purchase"
+      ],
+      "sources": [
+        "a21cac02fd6c36f4",
+        "5133fabf6ce8c7de"
+      ]
+    },
+    {
+      "name": "s of equity investment securities and the execution of a non-exclusive license a",
+      "count": 3,
+      "snippets": [
+        "26 compared to fiscal year 2025, primarily driven by higher purchases of equity investment securities and the execution of a non-exclusive license agreement with Groq.",
+        "26 compared to fiscal year 2025, primarily driven by higher purchases of equity investment securities and the execution of a non-exclusive license agreement with Groq. Cash used in financing activities increased in fiscal year 2026 compared to fiscal year 2025, mainly due to higher share repurchases. Liquidity Our primary sources of liquidity include cash, cash equivalents, marketable securities, and cash generated by our operations. As of Januar"
+      ],
+      "sources": [
+        "60e2d4ea2b3add6b",
+        "b4360a5750162450"
+      ]
+    },
+    {
+      "name": "commitments compared to assumptions about future demand including the impact of",
+      "count": 3,
+      "snippets": [
+        "based on the Company’s inventory levels and future product purchase commitments compared to assumptions about future demand including the impact of market conditions such as regulatory export restrictions on their pro",
+        "inventory levels and future product purchase commitments compared to assumptions about future demand including the impact of market conditions such as regulatory export restrictions on their products. As of January 25, 2026, the Company’s consolidated inventories balance was $21.4 billion a"
+      ],
+      "sources": [
+        "f06fbbe6cc6bb048",
+        "25935e23f886b3ab"
+      ]
+    },
+    {
+      "name": "price of an acquisition, whichever comes first, any subsequent adjustments are r",
+      "count": 3,
+      "snippets": [
+        "conclusion or final determination of the fair value of the purchase price of an acquisition, whichever comes first, any subsequent adjustments are recorded to our Consolidated Statements of Income.",
+        "conclusion or final determination of the fair value of the purchase price of an acquisition, whichever comes first, any subsequent adjustments are recorded to our Consolidated Statements of Income. Acquisition-related expenses are recognized separately from the business combination and expensed as incurred. Non-Marketable Equity Securities Non-marketable equity securities consist of investments in privately-held companies that do not have a readily determinable fair value. These investments are measured at cost minus impairment, if any, and are adjusted for changes resulting from observable price changes in orderly transactions for an identical or similar investment in the same issuer, or the measurement alternative. Fair value is based upon observable inputs in an inactive market and the valuation requires our judgment due to the absence of market prices and inherent lack of liquidity. All gains and losses on these investments, realized and unrealized, are recognized in Other income, net on our Consolidated Statements of Income."
+      ],
+      "sources": [
+        "96e0081d9a8eb2de",
+        "5313139d58055d1b"
+      ]
+    },
+    {
+      "name": "shares of common stock. The Board may decrease this percentage at its discretion",
+      "count": 3,
+      "snippets": [
+        "012 Plan, may have up to 25 % of their earnings withheld to purchase shares of common stock. The Board may decrease this percentage at its discretion. Each offering period is about 24 months, divided into four purchase periods of six months .",
+        "nings withheld to purchase shares of common stock. The Board may decrease this percentage at its discretion. Each offering period is about 24 months, divided into four purchase periods of six months . The price of common stock purchased under our 2012 Plan will be equal to 85 % of the lower of"
+      ],
+      "sources": [
+        "e13d9ef246f19c24",
+        "251fae745efc816c"
+      ]
+    },
+    {
+      "name": "cadence of our open AI model platform",
+      "count": 2,
+      "snippets": [
+        "port of market development, we have accelerated the release cadence of our open AI model platforms including NVIDIA Nemotron for agentic AI and Cosmos for ph"
+      ],
+      "sources": [
+        "5f09deebf29dd103"
+      ]
+    },
+    {
+      "name": "new high production value games, the continued rise of eSports, social connectiv",
+      "count": 2,
+      "snippets": [
+        "s the predominant platform. Many factors propel its growth, including new high production value games, the continued rise of eSports, social connectivity and the increasing popularity of game streamers, modders, or gamers who"
+      ],
+      "sources": [
+        "f55755bbf06219c0"
+      ]
+    },
+    {
+      "name": "s, or ISVs, to optimize their offerings for NVIDIA GPUs. Our GPU computing platf",
+      "count": 2,
+      "snippets": [
+        "ization market by working closely with independent software vendors, or ISVs, to optimize their offerings for NVIDIA GPUs. Our GPU computing platform enhances productivity and introduces new capabilities for critical workflows in many fields, such as design, engineering, and digital content creation across a wide range of industry verticals."
+      ],
+      "sources": [
+        "713419ec02c2830b"
+      ]
+    },
+    {
+      "name": "s to enhance the user experience for consumer entertainment and professional vis",
+      "count": 2,
+      "snippets": [
+        "ution of computing. We apply our research and development resources to enhance the user experience for consumer entertainment and professional visualization applications and create new virtual world and simulation capabilities. Our technologies are instrumental in driving the gaming, design, and creative industries forward, as developers leverage our libraries and algorithms to deliver an optimized experience on our GeForce and NVIDIA RTX platforms. Our computer graphics platforms leverage AI end-to-end, from the developer tools and cloud services to the Tensor Cores included in all RTX-class GPUs. Blackwell GPUs’ advanced AI and"
+      ],
+      "sources": [
+        "355a3c76ad741d6d"
+      ]
+    },
+    {
+      "name": "s, and start-ups. Our AV solution also includes the GPU-based hardware required",
+      "count": 2,
+      "snippets": [
+        "omotive OEMs, mobility service providers, robotaxis, tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural networks before their in-vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software updates. We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving. 7 Table of Contents Leveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers and partners through license and development agreements when they desire to build such capabilities directly into their own products or have us do so through a custom development. Such license and development arrangements can further enhance the reach of our technology. Sales and Marketing Our worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient computing platforms and software."
+      ],
+      "sources": [
+        "00a28fa803698bfc"
+      ]
+    },
+    {
+      "name": "s for all phases of the manufacturing process, including wafer fabrication, asse",
+      "count": 2,
+      "snippets": [
+        "ufacturing strategy, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as memory, substrates, and a variety of components, our suppliers are responsible for procurement of most raw materials used in the production of our products. As a result, we can foc"
+      ],
+      "sources": [
+        "0115000200fe3afd"
+      ]
+    },
+    {
+      "name": "TSMC",
+      "count": 2,
+      "snippets": [
+        "o the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to"
+      ],
+      "sources": [
+        "933ba6ff7640a903"
+      ]
+    },
+    {
+      "name": "Samsung Electronics Co",
+      "count": 2,
+      "snippets": [
+        "n Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We"
+      ],
+      "sources": [
+        "933ba6ff7640a903"
+      ]
+    },
+    {
+      "name": "s and licensors of hardware and software for discrete and integrated GPUs, custo",
+      "count": 2,
+      "snippets": [
+        "vironment in the future. Our current competitors include: • suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, and Intel Corporation, or Intel; • large cloud services companies with int"
+      ],
+      "sources": [
+        "6fed14e028daa9bd"
+      ]
+    },
+    {
+      "name": "s of Arm-based CPUs and companies that incorp",
+      "count": 2,
+      "snippets": [
+        "u, Inc., Huawei, and Microsoft Corporation, or Microsoft; • suppliers of Arm-based CPUs and companies that incorporate hardware and software for CPUs as part of their intern"
+      ],
+      "sources": [
+        "6fed14e028daa9bd"
+      ]
+    },
+    {
+      "name": "solutions offered for AI, such as Advanced Micro Devices, Inc.",
+      "count": 2,
+      "snippets": [
+        "Us, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, and Intel"
+      ],
+      "sources": [
+        "6fed14e028daa9bd"
+      ]
+    },
+    {
+      "name": "Alibaba Group, Alphabet Inc.",
+      "count": 2,
+      "snippets": [
+        "tionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsof"
+      ],
+      "sources": [
+        "6fed14e028daa9bd"
+      ]
+    },
+    {
+      "name": "s of hardware and software for SoC products that are used in servers or embedded",
+      "count": 2,
+      "snippets": [
+        "Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung, or companies with internal teams designing SoC products for their own products and services, such as Tesla, Inc.; and • networking products consisting of switches, network"
+      ],
+      "sources": [
+        "416f9dd9bee49bda"
+      ]
+    },
+    {
+      "name": "s and large cloud services companies. Patents and Proprietary Rights We rely pri",
+      "count": 2,
+      "snippets": [
+        "arvell Technology, Inc, as well as internal teams of system vendors and large cloud services companies. Patents and Proprietary Rights We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, and licensing arrangements to protect our IP in th"
+      ],
+      "sources": [
+        "416f9dd9bee49bda"
+      ]
+    },
+    {
+      "name": "Ambarella, Inc.",
+      "count": 2,
+      "snippets": [
+        "into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Elect"
+      ],
+      "sources": [
+        "416f9dd9bee49bda"
+      ]
+    },
+    {
+      "name": "Tesla, Inc.",
+      "count": 2,
+      "snippets": [
+        "designing SoC products for their own products and services, such as Tesla, Inc.; and • networking products consisting of switches, network"
+      ],
+      "sources": [
+        "416f9dd9bee49bda"
+      ]
+    },
+    {
+      "name": "AMD, Arista Networks, Broadcom, Cisco Systems, Inc.",
+      "count": 2,
+      "snippets": [
+        "s), and cable solutions (including optical modules) include such as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel, Lumentu"
+      ],
+      "sources": [
+        "416f9dd9bee49bda"
+      ]
+    },
+    {
+      "name": "directly or indirectly from us, and our revenue could be adversely affected if w",
+      "count": 2,
+      "snippets": [
+        "utors and we have a concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these customers. • Commercial arrangements expose us to counterpa"
+      ],
+      "sources": [
+        "88aac68f123e06e0"
+      ]
+    },
+    {
+      "name": "timely identify industry changes, adapt our strategies, and develop new or enhan",
+      "count": 2,
+      "snippets": [
+        ", competitive products, and industry standards. Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance and maintain existing products and technologies that meet the evolving needs of our markets, including addressing unexpected shifts in industry standards or disruptive technological innovations that could render our products incompatible with those developed by other companies; • develop or secure access to new products and tech"
+      ],
+      "sources": [
+        "c36cf345f1c1fa43"
+      ]
+    },
+    {
+      "name": "addressing unexpected shifts in industry standards or disruptive technological i",
+      "count": 2,
+      "snippets": [
+        "d technologies that meet the evolving needs of our markets, including addressing unexpected shifts in industry standards or disruptive technological innovations that could render our products incompatible with those developed by other companies; • develop"
+      ],
+      "sources": [
+        "c36cf345f1c1fa43"
+      ]
+    },
+    {
+      "name": "ing design wins may involve a lengthy process and depends on our ability to anti",
+      "count": 2,
+      "snippets": [
+        "adopted, our financial results could be adversely affected. Obtaining design wins may involve a lengthy process and depends on our ability to anticipate and provide features and functionality that customers will demand. They also do not guarantee revenue. Failure to obtain a design win may prevent us from obtaining future design wins in subsequent generations. We cannot ensure that our products and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may be harmed. We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption."
+      ],
+      "sources": [
+        "19fc2968d7571f1c"
+      ]
+    },
+    {
+      "name": "s than we do. These co",
+      "count": 2,
+      "snippets": [
+        "and greater financial, sales, marketing and distribution resources than we do. These competitors may be able to acquire market share and/or prevent"
+      ],
+      "sources": [
+        "76f3e48eb620515e"
+      ]
+    },
+    {
+      "name": "increase in prices, write down our inventory, incur cancellation penalties, and",
+      "count": 2,
+      "snippets": [
+        "rease prices for certain of our products as a result of our suppliers’ increase in prices, write down our inventory, incur cancellation penalties, and record impairments, and may have to do so in the future. The impact of these risks would be amplified by our non-cancellable and non-returnable purchase orders placed in advance of our historical lead times and could be exacerbated if we need to make changes to the design of future products. These risks have increased and may continue to increase as our purchase obligations and prepaids have grown and are expected to continue to grow and become a greater portion of our total supply. All of these factors may negatively impact our gross margins and financi"
+      ],
+      "sources": [
+        "7de539ddd3dcef77"
+      ]
+    },
+    {
+      "name": "due to our channel pricing programs, inc",
+      "count": 2,
+      "snippets": [
+        "accordingly. We have had to reduce average selling prices, including due to our channel pricing programs, increase prices for certain of our products as a result of our"
+      ],
+      "sources": [
+        "7de539ddd3dcef77"
+      ]
+    },
+    {
+      "name": "export controls, inc",
+      "count": 2,
+      "snippets": [
+        "; • government actions or changes in governmental policies, such as export controls, increased restrictions on gaming usage, or tariffs; • our custo"
+      ],
+      "sources": [
+        "3a01ecedfe408295"
+      ]
+    },
+    {
+      "name": "cadence of accelerated computing plat",
+      "count": 2,
+      "snippets": [
+        "puting industry is experiencing a broader and faster launch cadence of accelerated computing platforms to meet a growing and diverse set of AI opportunities."
+      ],
+      "sources": [
+        "cf4ec5f07d664a8b"
+      ]
+    },
+    {
+      "name": "cadence of our Data Center solutions",
+      "count": 2,
+      "snippets": [
+        "tunities. We have introduced a new product and architecture cadence of our Data Center solutions where we seek to complete new computing solutions each year"
+      ],
+      "sources": [
+        "cf4ec5f07d664a8b"
+      ]
+    },
+    {
+      "name": "by leading to inc",
+      "count": 2,
+      "snippets": [
+        "cted and can impact in the future, demand for our products, including by leading to inconsistent spikes and drops in demand. For example, several y"
+      ],
+      "sources": [
+        "b00711a2aa7c6fc3"
+      ]
+    },
+    {
+      "name": "potential higher wafer and component prices resulting from inco",
+      "count": 2,
+      "snippets": [
+        "ed supply of components and capacity; • decommitment by our suppliers; • potential higher wafer and component prices resulting from incorrectly estimating demand and failing to place orders with o"
+      ],
+      "sources": [
+        "f7cd1c7cf7c04108"
+      ]
+    },
+    {
+      "name": "failure by our foundries or co",
+      "count": 2,
+      "snippets": [
+        "ctly estimating demand and failing to place orders with our suppliers with sufficient quantities or timely; • failure by our foundries or contract manufacturers to procure raw materials or provide ade"
+      ],
+      "sources": [
+        "f7cd1c7cf7c04108"
+      ]
+    },
+    {
+      "name": "or successfully implement high quality process technologies, inc",
+      "count": 2,
+      "snippets": [
+        "ty for our products; • failure by our foundries to develop, obtain, or successfully implement high quality process technologies, including transitions to smaller geometry process technologies"
+      ],
+      "sources": [
+        "f7cd1c7cf7c04108"
+      ]
+    },
+    {
+      "name": "s to co",
+      "count": 2,
+      "snippets": [
+        "esigns needed to manufacture our products; • failure by our suppliers to comply with our policies and expectations and emerging regulat"
+      ],
+      "sources": [
+        "f1f2a98909b8a2b0"
+      ]
+    },
+    {
+      "name": "s, foundries, contract manufacturers, asse",
+      "count": 2,
+      "snippets": [
+        "ts; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers and memory manufacturers; • loss of"
+      ],
+      "sources": [
+        "f1f2a98909b8a2b0"
+      ]
+    },
+    {
+      "name": "and additional expense",
+      "count": 2,
+      "snippets": [
+        "ly and test providers and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new fo"
+      ],
+      "sources": [
+        "f1f2a98909b8a2b0"
+      ]
+    },
+    {
+      "name": "lack of direct co",
+      "count": 2,
+      "snippets": [
+        "or testing in the event of a loss, addition or change of a supplier; • lack of direct control over product quantity, quality, and delivery schedules"
+      ],
+      "sources": [
+        "f1f2a98909b8a2b0"
+      ]
+    },
+    {
+      "name": "s and contract manufacturers creating more complexity in manag",
+      "count": 2,
+      "snippets": [
+        "tity, quality, and delivery schedules; • integration of new suppliers and contract manufacturers creating more complexity in managing multiple suppliers with variations in production plannin"
+      ],
+      "sources": [
+        "f1f2a98909b8a2b0"
+      ]
+    },
+    {
+      "name": "Table of Co",
+      "count": 2,
+      "snippets": [
+        "on planning, execution, and logistics; • suppliers or their suppliers failing to provide high quality products and/or making changes to their products without our qualification; 17 Table of Contents • delays in product shipments, shortages, a decrease"
+      ],
+      "sources": [
+        "f1f2a98909b8a2b0"
+      ]
+    },
+    {
+      "name": "or increasing costs during shortag",
+      "count": 2,
+      "snippets": [
+        "uct design or a foundry’s proprietary process technology; • suppliers extending lead times and/or increasing costs during shortages; and • disruptions in manufacturing, assembly and other p"
+      ],
+      "sources": [
+        "b974cd85051d9e32"
+      ]
+    },
+    {
+      "name": "s, and to the user of such end product. Such defects have in the past had an adv",
+      "count": 2,
+      "snippets": [
+        "ufacturers, automotive manufacturers, and tier 1 automotive suppliers, and to the user of such end product. Such defects have in the past had an adverse effect on our cost and supply of components and finished goods and may in the future cause us to incur significant warranty, support, and repair or replacement costs as part of a product recall or otherwise, write-off the value of related inventory, and divert the attention of our engineering and management personnel from our product development efforts to find and correct the issue. Our efforts to remedy these issues may not be timely or satisfactory to our customers. An error or defect in new products, releases or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance, loss of design wins, temporary or permanent withdrawal from a product or market and harm to our relationships with existing and prospective customers and partners and consumers’ perceptions of our brand, which would in turn negat"
+      ],
+      "sources": [
+        "0618dee153b16843"
+      ]
+    },
+    {
+      "name": "recession or slowing growth, inflation, changes or uncertainty in fiscal, moneta",
+      "count": 2,
+      "snippets": [
+        "our business. Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, global supply chain constraints, and global economic and geopolitical developments, including the implementation of tariffs by the USG or other gov"
+      ],
+      "sources": [
+        "b57599c5e8f6792f"
+      ]
+    },
+    {
+      "name": "s to deliver on their supply co",
+      "count": 2,
+      "snippets": [
+        "ur customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inabili"
+      ],
+      "sources": [
+        "df8984089e15172e"
+      ]
+    },
+    {
+      "name": "reduced profitability of customers, which may cause them to scale back operation",
+      "count": 2,
+      "snippets": [
+        "esults and make business decisions; • the insolvency of key suppliers, distributors, customers, CSPs, data center providers, licensing parties or other third parties we rely on; • reduced profitability of customers, which may cause them to scale back operations, exit businesses, file for bankruptcy protection and potentially cease operations, or lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; • increased credit and collectability ris"
+      ],
+      "sources": [
+        "df8984089e15172e"
+      ]
+    },
+    {
+      "name": "failures of counterparties, including financial institutions and insurers, asset",
+      "count": 2,
+      "snippets": [
+        "ts, reduced liquidity, adverse impacts on our customers and suppliers; and • failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments. Adverse developments affecting financial institutions, such as bank failures or instability, or concerns or speculation about similar events or risks, could lead to market-wide liquidity problems and other disruptions, which could impact our customers’ ability to fulfill their payment o"
+      ],
+      "sources": [
+        "0be4aff36c8e78b9"
+      ]
+    },
+    {
+      "name": "ability to fulfill their contractual obligations to us, or our ability to fulfil",
+      "count": 2,
+      "snippets": [
+        "rs’ ability to fulfill their payment obligations to us, our vendors’ ability to fulfill their contractual obligations to us, or our ability to fulfill our own obligations. Additionally, we maintain a portfolio of liquid investments for cash management purposes, including various holdings, types, and maturities."
+      ],
+      "sources": [
+        "0be4aff36c8e78b9"
+      ]
+    },
+    {
+      "name": "s and manufacturers do business, government lockdowns to control case spread of",
+      "count": 2,
+      "snippets": [
+        "c and political conditions in countries in which we and our suppliers and manufacturers do business, government lockdowns to control case spread of global or local health issues, differing legal standards with respect to protection of IP and employment practices, different domestic and international business and cultural practices, disruptions to capital markets, counter-inflation policies, currency fluctuations, natural disasters, acts of war or other military actions, terrorism, public health issues, restrictions on international trade, such as tariffs, sanctions, and other controls on imports or exports, and catastrophic events. Product, system security, and data protection incidents or breaches, as well as cyber-attacks, could disrupt our operations, reduce our expected revenue, increase our expenses, and significantly harm our business and reputation."
+      ],
+      "sources": [
+        "571d32f52ff082b4"
+      ]
+    },
+    {
+      "name": "s to operate certain critical business systems, including without limitation, cl",
+      "count": 2,
+      "snippets": [
+        "e, we rely on products and services provided by third-party suppliers to operate certain critical business systems, including without limitation, cloud-based infrastructure, encryption and authentication technology, employee email and other functions, which exposes us to supply-chain attacks or other business disruptions."
+      ],
+      "sources": [
+        "a7dd354a04eb885f"
+      ]
+    },
+    {
+      "name": "datasets to train our models and may continue to do so. These datasets may be fl",
+      "count": 2,
+      "snippets": [
+        "d third-party data into some of our AI models and used open-source datasets to train our models and may continue to do so. These datasets may be flawed, insufficient, or contain certain biased information, and may otherwise decrease resilience to security incidents that may compromise the integrity of our AI outputs, leading to potential reputational damage, regulatory scrutiny, or adverse impacts on the performance and reliability of our products, which could, in turn, affect our partners' operations, customer trus"
+      ],
+      "sources": [
+        "a7b7a942d57ee7da"
+      ]
+    },
+    {
+      "name": "s suffers a security inc",
+      "count": 2,
+      "snippets": [
+        "y measures in place. In addition, if one of our third-party suppliers suffers a security incident (which has happened in the past and may happen in the"
+      ],
+      "sources": [
+        "2a72d46c46f5ca1b"
+      ]
+    },
+    {
+      "name": "s have appropriate security measures in place, and continue to meet the evolving",
+      "count": 2,
+      "snippets": [
+        "and security awareness initiatives, designed to ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers, applicable industry standards, and government regulations. While we invest in training programs and security awareness initiatives and take steps to detect and remediate certain vulnerabilities that we have identified, we may not always be able to prevent threats or detect and mitigate all vulnerabilities in our security controls, systems or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred."
+      ],
+      "sources": [
+        "cd02f38a9a78a9de"
+      ]
+    },
+    {
+      "name": "s, data brokers or other means that reveals competitively sensitive details abou",
+      "count": 2,
+      "snippets": [
+        "collect or infer sensitive information about us from public sources, data brokers or other means that reveals competitively sensitive details about our organization and could be used to harm our business. Business disruptions could harm our operations, lead to a decline in revenue and increase our costs."
+      ],
+      "sources": [
+        "3bfb504e2f7b6e4a"
+      ]
+    },
+    {
+      "name": "affected individuals, customers, regulators and investors, of security incidents",
+      "count": 2,
+      "snippets": [
+        "y and security obligations to notify relevant stakeholders, including affected individuals, customers, regulators and investors, of security incidents, and mandatory disclosure of such incidents could lead to negative publicity. In addition to expe"
+      ],
+      "sources": [
+        "3bfb504e2f7b6e4a"
+      ]
+    },
+    {
+      "name": "or civil unrest, acts of war or other military 20 Table of Contents actions, epi",
+      "count": 2,
+      "snippets": [
+        "tical infrastructure failures, telecommunications failures, supplier disruptions, terrorist attacks, acts of violence, political and/or civil unrest, acts of war or other military 20 Table of Contents actions, epidemics or pandemics, abrupt regulatory changes, and other natural or man-made disasters and catastrophic events. Our corporate headquarters, a large portion of our current data center capacity, and a portion of our research and development activities are located in California, and other critical business operations, finished goods inventory and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires or other business disruptions occurring in these geographical areas."
+      ],
+      "sources": [
+        "3e6698ab08da647d"
+      ]
+    },
+    {
+      "name": "access to clean water and predictable energy. Power or water shortages, land or",
+      "count": 2,
+      "snippets": [
+        "performance and quality problems may increase. Data centers depend on access to clean water and predictable energy. Power or water shortages, land or permitting constraints, or regulations that limit energy, water, or land availability, could impair the ability of our customers to expand their data center capacity and consume our products and services, which may in turn negatively impact our business. Climate change may have a long-term impact on our business. Climate change may have an increasingly adverse impact on our business and on our customers, partners and vendors. Water and energy availability and reliability in the regions where we conduct business is critical, and certain of our facilities may be vulnerable to the impacts of extreme weather events. Extreme heat and wind coupled with dry conditions in Northern California may lead to power safety shut offs due to wildfire risk, which can have adverse implications for our Santa Clara, California headquarter offices and data centers, including impairing the ability of our employees to work effect"
+      ],
+      "sources": [
+        "2c7cdae7db38485e"
+      ]
+    },
+    {
+      "name": "s incurring additional compliance costs that are passed on to us. These costs an",
+      "count": 2,
+      "snippets": [
+        "greater indirect costs resulting from our customers and/or suppliers incurring additional compliance costs that are passed on to us. These costs and restrictions could harm our business and results of operations by increasing our expenses or requiring us to alter our operations and product design activities. 21 Table of Contents Stakeholder groups may find us insufficiently responsive to the implications"
+      ],
+      "sources": [
+        "98a8e05ff9e4af8b"
+      ]
+    },
+    {
+      "name": "costs associated with changes to manufacturing processes or the procurement of r",
+      "count": 2,
+      "snippets": [
+        "pply chain governance could result in greater direct costs, including costs associated with changes to manufacturing processes or the procurement of raw materials used in manufacturing processes, increased capital expenditures to improve facilities and equipm"
+      ],
+      "sources": [
+        "98a8e05ff9e4af8b"
+      ]
+    },
+    {
+      "name": "s, including manag",
+      "count": 2,
+      "snippets": [
+        "investments, including the diversion of capital and other resources, including management’s attention; difficulty in realizing a satisfactory re"
+      ],
+      "sources": [
+        "c912865ce9801524"
+      ]
+    },
+    {
+      "name": "ing governmental, regulatory approval or restrictions or other conse",
+      "count": 2,
+      "snippets": [
+        "strategic investment, if at all; difficulty or inability in obtaining governmental, regulatory approval or restrictions or other consents and approvals or financing; legal proceedings initiated"
+      ],
+      "sources": [
+        "c912865ce9801524"
+      ]
+    },
+    {
+      "name": "the diversion of capital and other resources, inc",
+      "count": 2,
+      "snippets": [
+        "al risks related to acquisitions and strategic investments, including the diversion of capital and other resources, including management’s attention; difficulty in realizing a sat"
+      ],
+      "sources": [
+        "c912865ce9801524"
+      ]
+    },
+    {
+      "name": "regulatory approval for an acquisition or are otherwise unable to close",
+      "count": 2,
+      "snippets": [
+        "impact, fines, fees or reputation harm if we are unable to obtain regulatory approval for an acquisition or are otherwise unable to close an acquisition; • potential issuances of debt to finance ou"
+      ],
+      "sources": [
+        "60c1dbc31585c89b"
+      ]
+    },
+    {
+      "name": "s and customers. For example, when integrating acquisition target systems into o",
+      "count": 2,
+      "snippets": [
+        "lationships with, or loss of our or our target’s employees, vendors and customers. For example, when integrating acquisition target systems into our own, we have experienced and may continue to experience challenges including lengthy and costly systems integration, delays in purchasing and shipping products, difficulties with system integration via electronic data interchange and other processes with our key suppliers and customers, and training and change management needs of integration personnel. These challenges have impacted our results of operations and may continue to do so in the future."
+      ],
+      "sources": [
+        "353dd8c8bbf971b1"
+      ]
+    },
+    {
+      "name": "products from our co",
+      "count": 2,
+      "snippets": [
+        "ustomers may develop their own solutions; our customers may purchase products from our competitors; and our partners may discontinue sales or lose ma"
+      ],
+      "sources": [
+        "00d1a7df75e06659"
+      ]
+    },
+    {
+      "name": "purchasing patterns. Many of our indirect customers often do not purchase direct",
+      "count": 2,
+      "snippets": [
+        "ue sales or lose market share in the markets for which they purchase our products, all of which may alter partners’ or customers’ purchasing patterns. Many of our indirect customers often do not purchase directly from us but through multiple OEMs, ODMs, system integrators, distributors, and other channel partners. We generate a significant amount of our revenue from a limited number of indirect customers, and we estimate some individually representing 10% or more of our revenue. If end demand increases or"
+      ],
+      "sources": [
+        "00d1a7df75e06659"
+      ]
+    },
+    {
+      "name": "s by them, our inability to sell to a customer due to U.S. or other co",
+      "count": 2,
+      "snippets": [
+        "s of any of our large customers, a significant reduction in purchases by them, our inability to sell to a customer due to U.S. or other countries’ trade restrictions, or any difficulties in collecti"
+      ],
+      "sources": [
+        "be93053a61dc3c71"
+      ]
+    },
+    {
+      "name": "planning, or ERP, system. Any ERP system implementation may introduce problems,",
+      "count": 2,
+      "snippets": [
+        "ated accounting functionality related to a new enterprise resource planning, or ERP, system. Any ERP system implementation may introduce problems, such as quality issues or programming errors, that could have an impact on our continued ability to successfully operate our business or to t"
+      ],
+      "sources": [
+        "60296f2e04b109a3"
+      ]
+    },
+    {
+      "name": "unanticipated co",
+      "count": 2,
+      "snippets": [
+        "nded payment terms, and customer bad debt write-offs; • our vendors' payment requirements; • unanticipated costs associated with environmental liabilities; and • changes"
+      ],
+      "sources": [
+        "3762e5e3ed96422c"
+      ]
+    },
+    {
+      "name": "s have requested and may continue to ask for shorter payment terms, which may im",
+      "count": 2,
+      "snippets": [
+        "rns, which could impact our ability to collect payment. Our vendors have requested and may continue to ask for shorter payment terms, which may impact our cash flow generation. These arrangements reduce the cash we have available for general business operations. In addition, the pace of growth in our operating expenses and investments may lag our revenue growth, creating volatility or periods where pr"
+      ],
+      "sources": [
+        "3762e5e3ed96422c"
+      ]
+    },
+    {
+      "name": "s, customers or agents will not violate applicable laws or the policies, control",
+      "count": 2,
+      "snippets": [
+        "There can be no assurance that our employees, contractors, suppliers, customers or agents will not violate applicable laws or the policies, controls, and procedures that we have designed to help ensure compliance with such laws, and violations could result in fines, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of our business, and damage to our reputation. Changes to the laws, rules and regulations to which we are subject, or changes to their interpretation and enforcement, could lead to materially greater compliance and other costs, and/or further restrictions on our ability to manufactu"
+      ],
+      "sources": [
+        "836ae32b9b26de29"
+      ]
+    },
+    {
+      "name": "s, and partners. We expect to receive additional requests for information in the",
+      "count": 2,
+      "snippets": [
+        "e, and system solutions, and our agreements with customers, suppliers, and partners. We expect to receive additional requests for information in the future. Such requests have been and are likely to be expensive and burdensome and could negatively impact our business and our relationships wit"
+      ],
+      "sources": [
+        "5d5d8d30df1f9ea1"
+      ]
+    },
+    {
+      "name": "GPUs and related products, are inc",
+      "count": 2,
+      "snippets": [
+        "tensions have increased, semiconductors associated with AI, including GPUs and related products, are increasingly the focus of export control restrictions proposed"
+      ],
+      "sources": [
+        "f37b8e2609e317ab"
+      ]
+    },
+    {
+      "name": "imposing license conditions on the use of products to be exported to certain cou",
+      "count": 2,
+      "snippets": [
+        "to create and offer as a service large-scale GPU clusters, such as imposing license conditions on the use of products to be exported to certain countries, and may impose additional conditions such as requiring chip tracking and throttling mechanisms that could disable or impair GPUs if certain events, including unauthorized system configuration, use, or location,"
+      ],
+      "sources": [
+        "73cd2683de3ad229"
+      ]
+    },
+    {
+      "name": "foundation models are rapidly growing in popularity with developers worldwide. A",
+      "count": 2,
+      "snippets": [
+        "nd will respond to any follow-up questions we receive. Open-source foundation models are rapidly growing in popularity with developers worldwide. Any regulatory control or other restriction that limits our ability to provide products and services that support third-party applications and models, including applications built on foundation models originating in China such as DeepSeek, Qwen, or KIMMI, could have a material impact on our business, operating results, and financial condition."
+      ],
+      "sources": [
+        "bfde77c7fae755cc"
+      ]
+    },
+    {
+      "name": "H20, do not inc",
+      "count": 2,
+      "snippets": [
+        "ts. We provided a public response explaining that our GPUs, including H20, do not include such built-in vulnerabilities, and will respond to any"
+      ],
+      "sources": [
+        "bfde77c7fae755cc"
+      ]
+    },
+    {
+      "name": "from our competitors rather than NVIDIA or other U.S. firms, harming our busines",
+      "count": 2,
+      "snippets": [
+        "ncourage overseas governments to request that our customers purchase from our competitors rather than NVIDIA or other U.S. firms, harming our business, market position, and financial results. As a result, export controls have in the past and may in the future negatively impact demand for our products and services not only in China, but also in other markets, such as Europe, Latin America, and Southeast Asia. Export controls increase the risk of investing in U.S. advanced semiconductor products, because by the time a new product is ready for market, it may be subject to new unilateral export controls restricting its sale, resulting in excess inventory and purchase obligations as we recently experienced with the H20. At the same time, such controls may increase investment in foreign competitors, which would be less likely to be restricted by U.S. controls. The increasingly complex export controls impose complex and burdensome compliance obligations on our partners, suppliers, and custome"
+      ],
+      "sources": [
+        "71d93dd61d4945c0"
+      ]
+    },
+    {
+      "name": "foundation models originating in China. Such restrictions, if implemented, would",
+      "count": 2,
+      "snippets": [
+        "o support third-party applications and models built on open-source foundation models originating in China. Such restrictions, if implemented, would favor our foreign competitors and negatively impact our business. Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and even if we are able to participate in the China data center compute market, increased oversight of digital platform companies may adversely affect our Data Center revenue."
+      ],
+      "sources": [
+        "59df614e01015d40"
+      ]
+    },
+    {
+      "name": "s to monitor, report, and comply with various corporate sustainability practices",
+      "count": 2,
+      "snippets": [
+        "could also incur additional costs and require additional resources to monitor, report, and comply with various corporate sustainability practices and legal requirements, choose not to conduct business with potential customers and suppliers, or discontinue or not expand business with existing customers and suppliers due to our policies. These factors and increased disclosure may negatively harm our brand, reputation and business activities or expose us to liability. Issues relating to the responsible use of our technologies, including AI in our offerings, may result in reputational or fi"
+      ],
+      "sources": [
+        "24a12bd76d50306e"
+      ]
+    },
+    {
+      "name": "AI, in our products and services may result in reputational or financial harm an",
+      "count": 2,
+      "snippets": [
+        "ng to the responsible use of new and evolving technologies, such as AI, in our products and services may result in reputational or financial harm and liability and may cause us to incur costs to resolve such issues. We are increasingly buildin"
+      ],
+      "sources": [
+        "d53793883ab217b7"
+      ]
+    },
+    {
+      "name": "in jurisdictions such as the European Union, may further inc",
+      "count": 2,
+      "snippets": [
+        "nce with existing and proposed government regulation of AI, including in jurisdictions such as the European Union, may further increase the cost of related research and development, and crea"
+      ],
+      "sources": [
+        "2933572e73c37c4d"
+      ]
+    },
+    {
+      "name": "such a license on acceptable terms or at all, we could be subject to substantial",
+      "count": 2,
+      "snippets": [
+        "y’s IP rights. If we or one of our indemnitees is unable to obtain such a license on acceptable terms or at all, we could be subject to substantial liabilities or have to suspend or discontinue the manufacture and sale of one or more of our products. We may also have to make royalty or other payments or cross license our technology. If these arrangements are not concluded on commercially reasonable terms, our business could be negatively impacted. Furthermore, the indemnification of a customer or other indemnitee may increase our operating expenses and negatively impact our operating results. We rely on patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, licensing arrangements and the laws of the countries in which we operate to protect our IP. Foreign laws"
+      ],
+      "sources": [
+        "c0a41e29d02f829a"
+      ]
+    },
+    {
+      "name": "CAC assessments and any deemed failures of such assessments, could cause us to i",
+      "count": 2,
+      "snippets": [
+        "ation of China, or CAC. Compliance with these requirements, including CAC assessments and any deemed failures of such assessments, could cause us to incur liability, prevent us from using data collected in China"
+      ],
+      "sources": [
+        "411b62d2325ba27f"
+      ]
+    },
+    {
+      "name": "changes in our business or statutory rates, the mix of earnings in countries wit",
+      "count": 2,
+      "snippets": [
+        "tive tax rate may also be affected by a variety of factors, including changes in our business or statutory rates, the mix of earnings in countries with differing statutory tax rates, available tax incentives, credits and deductions, the expiration of statutes of limitations, changes in accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, the esti"
+      ],
+      "sources": [
+        "3959a5daa6b3d727"
+      ]
+    },
+    {
+      "name": "of our outstanding common stock, Microsoft may have first and last rights of ref",
+      "count": 2,
+      "snippets": [
+        "t with Microsoft for the Xbox, if someone makes an offer to purchase at least 30% of our outstanding common stock, Microsoft may have first and last rights of refusal to purchase the stock. These provisions could delay or prevent a change in control of NVIDIA, discourage proxy contests, and make it more difficult for shareholders to elect directors of their choosing and to cause us to take other corporate actions they desire."
+      ],
+      "sources": [
+        "7db1c060bb46cc89"
+      ]
+    },
+    {
+      "name": "a cybersecurity inc",
+      "count": 2,
+      "snippets": [
+        "nd reactively address circumstances that arise when, events such as a cybersecurity incident occur. These include processes for assessing, identify"
+      ],
+      "sources": [
+        "af3c361c546b38b4"
+      ]
+    },
+    {
+      "name": "risk assessment process consisting of, depending on the nature and sensitivity o",
+      "count": 2,
+      "snippets": [
+        "ified and significant cybersecurity threats. We also have a vendor risk assessment process consisting of, depending on the nature and sensitivity of the supplier and data they process on our behalf, the distribution and review of supplier questionnaires designed to help us evaluate cybersecurity risks that we may encounter when working with third parties that have access to confidential and other sensitive company information."
+      ],
+      "sources": [
+        "c0efaa0a3899e923"
+      ]
+    },
+    {
+      "name": "s of Equity Securities Our common stock is traded on the Nasdaq Global Select Ma",
+      "count": 2,
+      "snippets": [
+        "ant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Our common stock is traded on the Nasdaq Global Select Market under the symbol NVDA. Public trading of our common stock began on January 22, 1999. Prior to that, there was no public market for our common stock. As of February 20, 2026, we had approximately 1,226 registered shareholders, not including those shares held in street or nominee name. In May 2024, we announced a ten-for-one stock split, or the Stock Split, of our issued common stock, which was effected through the filing of an amendment to the Company's Restated Certificate of Incorporation, or the Amendment, with the Secretary of the State of Delaware. In June 2024, the Company filed the Amendment to effect the Stock Split and proportionately increased the number of shares of the Company’s authorized common stock from 8.0 billion to 80.0 bil"
+      ],
+      "sources": [
+        "534292cf16332104"
+      ]
+    },
+    {
+      "name": "s can be made in the open market, in privately negotiated transactions, pursuant",
+      "count": 2,
+      "snippets": [
+        "o repurchase up to $58.5 billion of our common stock. The repurchases can be made in the open market, in privately negotiated transactions, pursuant to a Rule 10b5-1 trading plan or in structured share repurchase agreements in compliance with Rule 10b-18 of the Exchange Act, subject to market conditions, applicable legal requirements, and other factors. Our share repurchase program may be suspended at any time at our discretion. In"
+      ],
+      "sources": [
+        "7d873b80416285cf"
+      ]
+    },
+    {
+      "name": "Period Total Number of Shares Purchase",
+      "count": 2,
+      "snippets": [
+        "ontents The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2026: Period Total Number of Shares Purchased (In millions) Average Price Paid per Share (1) Total Numbe"
+      ],
+      "sources": [
+        "d06a174ec19dfb13"
+      ]
+    },
+    {
+      "name": "Approximate Dollar Value of Shares that May Yet Be Purchase",
+      "count": 2,
+      "snippets": [
+        "ns) Average Price Paid per Share (1) Total Number of Shares Purchased as Part of Publicly Announced Program (In millions) Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (In billions) October 27, 2025 - Novembe"
+      ],
+      "sources": [
+        "d06a174ec19dfb13"
+      ]
+    },
+    {
+      "name": "s required by the Inflation Reduction Act of 2022. From January 26, 2026 through",
+      "count": 2,
+      "snippets": [
+        "ty under the 1% excise tax on the net amount of our share repurchases required by the Inflation Reduction Act of 2022. From January 26, 2026 through February 20, 2026, we repurchased 8 million shares for $1.5 billion pursuant to a pre-establ"
+      ],
+      "sources": [
+        "30614e9047ebe55b"
+      ]
+    },
+    {
+      "name": "hold, or sell shares of our common stock. Overview Our Company and Our Businesse",
+      "count": 2,
+      "snippets": [
+        "here in this Annual Report on Form 10-K, before deciding to purchase, hold, or sell shares of our common stock. Overview Our Company and Our Businesses NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, autonomous vehicles, robotics, and digital twin applications. NVIDIA is now a data center scale AI infrastructure company reshaping all industries. Our two operating segments are \"Compute & Networking\" and \"Graphics.\" Refer to N"
+      ],
+      "sources": [
+        "41c91376404357cd"
+      ]
+    },
+    {
+      "name": "Cadence",
+      "count": 2,
+      "snippets": [
+        ", bringing new advanced architectures on a one-year product cadence, including our Rubin platform. We began shipping production"
+      ],
+      "sources": [
+        "1abea87026c67f28"
+      ]
+    },
+    {
+      "name": "obligations, as the demand for H20 diminished. In August 2025, the USG granted l",
+      "count": 2,
+      "snippets": [
+        "scal year 2026 associated with H20 for excess inventory and purchase obligations, as the demand for H20 diminished. In August 2025, the USG granted licenses that would allow us to ship certain H20 products to certain China-based customers. We generated approximately $60 million in H20 r"
+      ],
+      "sources": [
+        "848aa82a75fe49d5"
+      ]
+    },
+    {
+      "name": "foundation models is making advanced AI capabilities broadly accessible. Open-so",
+      "count": 2,
+      "snippets": [
+        "nto the United States. The recent rise in high-quality open-source foundation models is making advanced AI capabilities broadly accessible. Open-source AI is dependent on developer adoption and if deployed on our competitors’ platforms, it could reduce demand for our product"
+      ],
+      "sources": [
+        "9fa65d53a465d9b5"
+      ]
+    },
+    {
+      "name": "the local region's manufacturing ecosystem's capacity to ramp production supply",
+      "count": 2,
+      "snippets": [
+        "re. Our ability to increase manufacturing capabilities will depend on the local region's manufacturing ecosystem's capacity to ramp production supply to the required volume and on a timely basis. 36 Table of Contents We have made, and expect to continue making, investments that support our technology roadmap and the broader AI ecosystem. In fiscal year 2026, we made the following investmen"
+      ],
+      "sources": [
+        "80cb34d6f12c547d"
+      ]
+    },
+    {
+      "name": "our products directly or through CSPs. Many of these",
+      "count": 2,
+      "snippets": [
+        "ge startups. These investments include AI model makers that purchase our products directly or through CSPs. Many of these investments are illiquid and non‑marketable. The related ea"
+      ],
+      "sources": [
+        "80cb34d6f12c547d"
+      ]
+    },
+    {
+      "name": "obligations. Operating expense",
+      "count": 2,
+      "snippets": [
+        "4.5 billion charge associated with H20 excess inventory and purchase obligations. Operating expenses for fiscal year 2026 were up 41% from a year ago, driven b"
+      ],
+      "sources": [
+        "c81141053cffe65e"
+      ]
+    },
+    {
+      "name": "potential cancellation or deferral of customer purchase orders, inventory obsole",
+      "count": 2,
+      "snippets": [
+        "udden and significant decreases in demand for our products, including potential cancellation or deferral of customer purchase orders, inventory obsolescence because of changing technology and customer requirements, new product introductions resulting in less demand for existing products or inconsistent spikes in demand, failure to estimate customer dem"
+      ],
+      "sources": [
+        "e83cbf3de4d811b3"
+      ]
+    },
+    {
+      "name": "commitments are based on forecasts of future customer demand and consider our th",
+      "count": 2,
+      "snippets": [
+        "26 and 2.3% in fiscal year 2025. Our inventory and capacity purchase commitments are based on forecasts of future customer demand and consider our third-party manufacturers' lead times and constraints. Our manufacturing lead times can be and have been long, and in some cases, extended beyond twelve months for some products. We may place non-cancellable inventory orders for certain product components in advance of our historical lead times, pay premiums and provide deposits to secure future supply and capacity. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products."
+      ],
+      "sources": [
+        "7284da9fa3feb1ec"
+      ]
+    },
+    {
+      "name": "obligations in the first quarter of fiscal year 2026. The year over year increas",
+      "count": 2,
+      "snippets": [
+        "4.5 billion charge associated with H20 excess inventory and purchase obligations in the first quarter of fiscal year 2026. The year over year increase in Graphics segment operating income was driven by the growth in revenue. 40 Table of Contents Concentration of Revenue We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certain direct customers may use either internal resources or third-party system integrators to complete their build. We refer to indirect customers as those who purchase products through our direct customers; indirect customers i"
+      ],
+      "sources": [
+        "2058ea89197edfc8"
+      ]
+    },
+    {
+      "name": "cloud and related services through various direct and indirect customers. We est",
+      "count": 2,
+      "snippets": [
+        "representing 10% or more of our revenue. Certain companies purchase cloud and related services through various direct and indirect customers. We estimate that one AI research and deployment company contributed to a meaningful amount of our revenue purchasing cloud services from our customers in fiscal year 2026. Revenue by geographic region is designated based on the location of the headquarters of direct customers. The end customer and shipping location may be different from our customers' headquarters location. Revenue from sales to customers headquartered outside of the United States accounted for 31% and 41% of total revenue for fiscal years 2026"
+      ],
+      "sources": [
+        "5133fabf6ce8c7de"
+      ]
+    },
+    {
+      "name": "s, final test yield fallout, inventory and warranty provisions, memory and compo",
+      "count": 2,
+      "snippets": [
+        "rt costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory and component costs, tariffs, and shipping costs. Cost of revenue also includes acquisition-related intangible amortization expense, costs for license and development and service arrangements, IP-related costs, and stock-based compensation related to personnel associated with manufacturing operations. Gross margins decreased to 71.1% in fiscal year 2026 from 75.0% in fiscal year 202"
+      ],
+      "sources": [
+        "814d6b46677593fc"
+      ]
+    },
+    {
+      "name": "wafer fabrication, assembly, testing and packaging, board and device costs, manu",
+      "count": 2,
+      "snippets": [
+        "ue. Cost of revenue consists of the cost of semiconductors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, fi"
+      ],
+      "sources": [
+        "814d6b46677593fc"
+      ]
+    },
+    {
+      "name": "obligations in the first quarter of fiscal year 2026. Provisions for inventory a",
+      "count": 2,
+      "snippets": [
+        "4.5 billion charge associated with H20 excess inventory and purchase obligations in the first quarter of fiscal year 2026. Provisions for inventory and excess inventory purchase obligations totaled $7.2 billion and $3.7 billion for fisca"
+      ],
+      "sources": [
+        "a3520623ad0c89e8"
+      ]
+    },
+    {
+      "name": "obligations for the first quarter of fiscal year 2026. Sales of previously reser",
+      "count": 2,
+      "snippets": [
+        "uding $4.5 billion associated with H20 excess inventory and purchase obligations for the first quarter of fiscal year 2026. Sales of previously reserved inventory and settlements of excess inventory purchase obligations resulted in a provision release of $1.5 billion and $689 million for fiscal years 2026 and"
+      ],
+      "sources": [
+        "a3520623ad0c89e8"
+      ]
+    },
+    {
+      "name": "Marketable securities 51,951 34,621 Cash, cash equivalents, and marketable se",
+      "count": 2,
+      "snippets": [
+        "rm 10-K for additional information. Liquidity and Capital Resources Jan 25, 2026 Jan 26, 2025 (In millions) Cash and cash equivalents $ 10,605 $ 8,589 Marketable securities 51,951 34,621 Cash, cash equivalents, and marketable securities $ 62,556 $ 43,210 42 Table of Contents Year Ended J"
+      ],
+      "sources": [
+        "60e2d4ea2b3add6b"
+      ]
+    },
+    {
+      "name": "s, including our access to external capital, to ensure we can finance future cap",
+      "count": 2,
+      "snippets": [
+        "tions. We continuously evaluate our liquidity and capital resources, including our access to external capital, to ensure we can finance future capital requirements. Our marketable securities consist of publicly-held equity securities, debt securities issued by the U.S."
+      ],
+      "sources": [
+        "b4360a5750162450"
+      ]
+    },
+    {
+      "name": "s from time to time, subject to market conditions, operating requirements, and o",
+      "count": 2,
+      "snippets": [
+        "ursuant to a pre-established trading plan. We may execute repurchases from time to time, subject to market conditions, operating requirements, and other investment opportunities, in the open market, in privately negotiated transactions, pursuant to a Rule 10b5-1 trading plan or in structured share repurchase agreements in compliance with Rule 10b-18 of the Exchange Act. Our share repurchase program may be suspended at any time at our discretion. In"
+      ],
+      "sources": [
+        "6b105e4f34082110"
+      ]
+    },
+    {
+      "name": "s in excess of shares issued for employee compensation made after December 31, 2",
+      "count": 2,
+      "snippets": [
+        "ion Act of 2022 requires a 1% excise tax on certain share repurchases in excess of shares issued for employee compensation made after December 31, 2022. The excise tax is included in our share repurchase cost and was not material for fiscal years 2026 and 2025."
+      ],
+      "sources": [
+        "6b105e4f34082110"
+      ]
+    },
+    {
+      "name": "commitments, and operating lease obligations, refer to Note 10, Note 11, Note 12",
+      "count": 2,
+      "snippets": [
+        "criptions of our facility lease guarantees, long-term debt, purchase commitments, and operating lease obligations, refer to Note 10, Note 11, Note 12, and Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K, respectively. We expect to continue investing in our ecosystem. We are finalizing an investment and partnership agreement with OpenAI. There is no assurance that we will enter into an investment and partnership agreement with OpenAI or that a transaction will be completed. Refer to"
+      ],
+      "sources": [
+        "32beb6db7bcb728a"
+      ]
+    },
+    {
+      "name": "s raising their manufacturing co",
+      "count": 2,
+      "snippets": [
+        "es’ dollar relative to other currencies could result in our suppliers raising their manufacturing costs. If the U.S. dollar strengthened by 10% as of January 25"
+      ],
+      "sources": [
+        "5d4858a50ce45c77"
+      ]
+    },
+    {
+      "name": "planning, or ERP, system to update our existing core financial systems. The ERP",
+      "count": 2,
+      "snippets": [
+        "ing. We are continuing a phased upgrade of our enterprise resource planning, or ERP, system to update our existing core financial systems. The ERP system is designed to accurately maintain our financial records used to report operating results. We will continue to evaluate each quarter whether there are changes that materially affect our internal control over financial reporting. Inherent Limitations on Effectiveness of Controls Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls, will prevent all error and all fraud."
+      ],
+      "sources": [
+        "566c074819e6c544"
+      ]
+    },
+    {
+      "name": "reasonable assurance about whether the consolidated financial statements are fre",
+      "count": 2,
+      "snippets": [
+        "se standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects. Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks."
+      ],
+      "sources": [
+        "f5c06a076b5a147f"
+      ]
+    },
+    {
+      "name": "Commitments As described in Notes 1, 9, and 12 to the consolidated financial sta",
+      "count": 2,
+      "snippets": [
+        "sions for Excess or Obsolete Inventories and Excess Product Purchase Commitments As described in Notes 1, 9, and 12 to the consolidated financial statements, the Company charges cost of sales for inventory provisions to write-down inventory for excess or obsolete inventory and for excess product purchase commitments. Most of the Company’s inventory provisions relate to excess quantities of"
+      ],
+      "sources": [
+        "f06fbbe6cc6bb048"
+      ]
+    },
+    {
+      "name": "obligations. The principal considerations for our determination that performing",
+      "count": 2,
+      "snippets": [
+        "illion, of which a significant portion relates to inventory purchase obligations. The principal considerations for our determination that performing procedures relating to the valuation of inventories, specifically the provisions for excess or obsolete inventories and excess product purchase commitments, is a critical audit matter are the significant judgment by management when developing provisions for excess or obsolete inventories and excess product purchase commitments, including developing assumptions related to future demand and market conditions. This in turn led to significant auditor judgment, subjectivity, and effort in performing procedures and evaluating management’s assumptions related to future demand and market cond"
+      ],
+      "sources": [
+        "25935e23f886b3ab"
+      ]
+    },
+    {
+      "name": "commitments, including controls over manag",
+      "count": 2,
+      "snippets": [
+        "sions for excess or obsolete inventories and excess product purchase commitments, including controls over management’s assumptions related to future demand and market cond"
+      ],
+      "sources": [
+        "b9d33574a625c4b8"
+      ]
+    },
+    {
+      "name": "evaluating the appropriateness of manag",
+      "count": 2,
+      "snippets": [
+        "sions for excess or obsolete inventories and excess product purchase commitments; evaluating the appropriateness of management’s approach; testing the completeness and accuracy of u"
+      ],
+      "sources": [
+        "b9d33574a625c4b8"
+      ]
+    },
+    {
+      "name": "s of marketable se",
+      "count": 2,
+      "snippets": [
+        "eds from sales of non-marketable equity securities 84 171 1 Purchases of marketable securities ( 40,616 ) ( 26,575 ) ( 18,211 ) Purchases of non-m"
+      ],
+      "sources": [
+        "5632db7441563646"
+      ]
+    },
+    {
+      "name": "s of non-marketable equity se",
+      "count": 2,
+      "snippets": [
+        "s of marketable securities ( 40,616 ) ( 26,575 ) ( 18,211 ) Purchases of non-marketable equity securities ( 17,502 ) ( 1,486 ) ( 862 ) Groq, Inc. ( 13,000 )"
+      ],
+      "sources": [
+        "5632db7441563646"
+      ]
+    },
+    {
+      "name": "s related to property and equipment and intangible asse",
+      "count": 2,
+      "snippets": [
+        "ties ( 17,502 ) ( 1,486 ) ( 862 ) Groq, Inc. ( 13,000 ) — — Purchases related to property and equipment and intangible assets ( 6,042 ) ( 3,236 ) ( 1,069 ) Acquisitions, net of cash a"
+      ],
+      "sources": [
+        "5632db7441563646"
+      ]
+    },
+    {
+      "name": "s of co",
+      "count": 2,
+      "snippets": [
+        "d to employee stock plans 644 490 403 Payments related to repurchases of common stock ( 40,086 ) ( 33,706 ) ( 9,533 ) Payments related"
+      ],
+      "sources": [
+        "5632db7441563646"
+      ]
+    },
+    {
+      "name": "commitments, investigation and settlement costs, litigation, non-marketable equi",
+      "count": 2,
+      "snippets": [
+        "securities, goodwill, income taxes, inventories and product purchase commitments, investigation and settlement costs, litigation, non-marketable equity securities, other contingencies, property, plant, and equipment, revenue recognition, and stock-based compensation. These estimates are based on historical facts and various other assumptions that we believe are reasonable. Revenue Recognition We derive our revenue primarily from product sales including hardware and systems."
+      ],
+      "sources": [
+        "93fb985acb20022c"
+      ]
+    },
+    {
+      "name": "those related to accounts receivable, cash equivalents and marketable securities",
+      "count": 2,
+      "snippets": [
+        "estimates. On an on-going basis, we evaluate our estimates, including those related to accounts receivable, cash equivalents and marketable securities, goodwill, income taxes, inventories and product purchase commitments, inv"
+      ],
+      "sources": [
+        "93fb985acb20022c"
+      ]
+    },
+    {
+      "name": "plan, or ESPP, using the Black-Scholes model at the commencement of an offering",
+      "count": 2,
+      "snippets": [
+        "fair value of shares to be issued under our employee stock purchase plan, or ESPP, using the Black-Scholes model at the commencement of an offering period in March and September of each year. Stock-based compensation for our ESPP is expensed using an accelerated amortization model. Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical forfeitures. Litigation, Investigation and Settlement Costs We currently are, and will likely continue to be subject to claims, litigation, and other actions, including potential regulatory proceedings, involving patent and other intellectual property matters, taxes, labor and employment, competition and antitrust, commercial disputes, goods and services offered by us and by third parties, and other matters"
+      ],
+      "sources": [
+        "38dd07b360059384"
+      ]
+    },
+    {
+      "name": "to be cash equivalents. Marketable securities consist of highly liquid debt inve",
+      "count": 2,
+      "snippets": [
+        "an original maturity of three months or less at the time of purchase to be cash equivalents. Marketable securities consist of highly liquid debt investments with maturities of greater than three months when purchased and publicly-held equity securities. We classify these investments as current or long term based on the nature of the investments and their availability for use in current operations. We record our debt investments as cash equivalents and marketable debt securities and classify them at the date of acquisition as available-for-sale. These available-for-sale debt securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income or loss, a component of shareholders’ equity, net of tax. The fair value"
+      ],
+      "sources": [
+        "e73feececc6734fd"
+      ]
+    },
+    {
+      "name": "the intended use of the derivative and the resulting designation. For derivative",
+      "count": 2,
+      "snippets": [
+        "he accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. For derivative instruments designated as accounting hedges, the effective portion of the gains or losses on the derivatives is initially reported as a component of other comprehensive income or loss and is subsequently recognized in earnings when the hedged exposure is recognized in earnings. For derivative instruments not designated as accounting hedges, changes in fair value are recognized in earnings. Financial instruments measured and disclosed at fair value are classified and disclosed based on the observability of inputs used in the determination of fair value as follows: • Level 1:"
+      ],
+      "sources": [
+        "999d935dce1f082d"
+      ]
+    },
+    {
+      "name": "of highly-rated fixed income securities, the diversification of investment type",
+      "count": 2,
+      "snippets": [
+        "and accounts receivable. Our investment policy requires the purchase of highly-rated fixed income securities, the diversification of investment type and credit exposures, and includes certain limits on our portfolio maturities. We perform"
+      ],
+      "sources": [
+        "c56dde957ac54ff3"
+      ]
+    },
+    {
+      "name": "s, final test yield fallout, and shipping costs, as well as the cost of purchase",
+      "count": 2,
+      "snippets": [
+        "rt costs, including labor and overhead associated with such purchases, final test yield fallout, and shipping costs, as well as the cost of purchased memory products and other component parts. We charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for obsolete or excess inventory, and for excess product purchase commitments."
+      ],
+      "sources": [
+        "58813792f1c3ff8d"
+      ]
+    },
+    {
+      "name": "wafer fabrication, assembly, testing and packaging, manufacturing support costs,",
+      "count": 2,
+      "snippets": [
+        "sis. Inventory costs consist of the cost of semiconductors, including wafer fabrication, assembly, testing and packaging, manufacturing support costs, including labor and overhead associated with such purchases, fi"
+      ],
+      "sources": [
+        "58813792f1c3ff8d"
+      ]
+    },
+    {
+      "name": "price of an acquisition to the tangible assets acquired, liabilities assumed, an",
+      "count": 2,
+      "snippets": [
+        "or business combination. We allocate the fair value of the purchase price of an acquisition to the tangible assets acquired, liabilities assumed, and intangible assets acquired, based on their estimated fair values. The excess of the fair value of the purchase price over the fair values of these net tangible and intangible assets acquired is recorded as goodwill."
+      ],
+      "sources": [
+        "78b0802fdf269015"
+      ]
+    },
+    {
+      "name": "d. We reco",
+      "count": 2,
+      "snippets": [
+        "omer contracts, existing products, or equity interests were purchased. We recorded $ 14.4 billion of goodwill and a $ 2.5 billion develope"
+      ],
+      "sources": [
+        "42d9a1c128ba66c3"
+      ]
+    },
+    {
+      "name": "plan, or ESPP. Consolidated Statements of Income include stock-based compensatio",
+      "count": 2,
+      "snippets": [
+        "d market-based PSUs, and issuances under our employee stock purchase plan, or ESPP. Consolidated Statements of Income include stock-based compensation expense as follows: Year Ended Jan 25, 2026 Jan 26, 2025 Jan 28, 20"
+      ],
+      "sources": [
+        "a25a5a8cebc3cc9d"
+      ]
+    },
+    {
+      "name": "d 13 30 30 Weighted averag",
+      "count": 2,
+      "snippets": [
+        "e fair value per share $ 133.97 $ 87.99 $ 37.41 ESPP Shares purchased 13 30 30 Weighted average price per share $ 49.13 $ 17.74 $ 15.81 Weighted average g"
+      ],
+      "sources": [
+        "2b345cf7106a1bf5"
+      ]
+    },
+    {
+      "name": "date. The risk-free interest rate assumption used to value ESPP shares is based",
+      "count": 2,
+      "snippets": [
+        "erage term from the first day of the offering period to the purchase date. The risk-free interest rate assumption used to value ESPP shares is based upon observed interest rates on Treasury bills appropriate for the expected term. Our expected stock price volatility assumption for ESPP is estimated using historical volatility. For awards granted, we use the dividend yield at grant date. Our RSUs, PSUs, and market-based PSUs are not eligible for cash dividends prior to vesting;"
+      ],
+      "sources": [
+        "1540dab86334adb4"
+      ]
+    },
+    {
+      "name": "rights under the following equity incentive plans. In addition, in connection wi",
+      "count": 2,
+      "snippets": [
+        "e Program We grant RSUs, PSUs, market-based PSUs, and stock purchase rights under the following equity incentive plans. In addition, in connection with our acquisitions of various companies, we have assumed certain stock-based awards granted under their stock incentive plans and converted them into our RSUs. Amended and Restated 2007 Equity Incentive Plan The NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan, or the 2007 Plan, authorizes the issuance of incentive stock options, non-statutory stock options, restricted stock, RSUs, stock appreciation rights, performance stock awards, performance cash awards, and other stock-based awards to employees, directors and consultants. Only our employees may receive incentive stock options. We grant RSUs, PSUs and market-based PSUs under the 2007 Plan. As of January 25, 2026, up to 192 million shares of our common stock could be issued pursuant to stock awards granted under the 2007 Plan, and 1.3 billion shares were available for future grants. Subject to certain exceptions, RSUs vest generally over four years subject to continued service."
+      ],
+      "sources": [
+        "63f19d8f7c05b248"
+      ]
+    },
+    {
+      "name": "date within the offering. As of January 25, 2026, we had 2.2 billion shares rese",
+      "count": 2,
+      "snippets": [
+        "period or the fair market value of the common stock on each purchase date within the offering. As of January 25, 2026, we had 2.2 billion shares reserved for future issuance under the 2012 Plan. 62 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements (Continued) Equity Award Act"
+      ],
+      "sources": [
+        "251fae745efc816c"
+      ]
+    },
+    {
+      "name": "date, if later. 65 Table of Contents NVIDIA Corporation and Subsidiaries Notes t",
+      "count": 2,
+      "snippets": [
+        "the equity securities at the beginning of the period or the purchase date, if later. 65 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements (Continued) Jan 26, 2025 Pri"
+      ],
+      "sources": [
+        "070d38c23584eb2b"
+      ]
+    },
+    {
+      "name": "volatility, expected 66 Table of Contents NVIDIA Corp",
+      "count": 2,
+      "snippets": [
+        "ilar investments of the same issuer and unobservable inputs such as volatility, expected 66 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial"
+      ],
+      "sources": [
+        "c976fdb76e671f12"
+      ]
+    },
+    {
+      "name": "consideration 3,921 9 Product warranty 2,807 1,290 Excess inventory purchase",
+      "count": 2,
+      "snippets": [
+        "millions) Customer program accruals $ 5,318 $ 4,880 Accrued purchase consideration 3,921 9 Product warranty 2,807 1,290 Excess inventory purchase obligations (1) 2,739 2,095 Taxes payable 2,669 881 Deferre"
+      ],
+      "sources": [
+        "1fbc31309643c3ae"
+      ]
+    },
+    {
+      "name": "s that allow them to procure inventory based upon our defined criteria, and in c",
+      "count": 2,
+      "snippets": [
+        "uct architectures. We enter into agreements with our supply vendors that allow them to procure inventory based upon our defined criteria, and in certain instances, these agreements are cancellable, able to be rescheduled, or adjustable for our business needs prior to placing firm orders. Changes to these agreements may result in additional costs. As of January 25, 2026, these commitments were $ 95.2 billion, of which substantially all wi"
+      ],
+      "sources": [
+        "c4c2d72b1940f6f4"
+      ]
+    },
+    {
+      "name": "disgorgement of profits from the sale of NVIDIA stock and unspecified corp",
+      "count": 2,
+      "snippets": [
+        ". The plaintiffs seek unspecified damages and other relief, including disgorgement of profits from the sale of NVIDIA stock and unspecified corporate governance measures. Another putative derivative actio"
+      ],
+      "sources": [
+        "f850824427a0f926"
+      ]
+    },
+    {
+      "name": "disgorgement of profits from the sale of NVIDIA stock and reform of unspecified",
+      "count": 2,
+      "snippets": [
+        ". The plaintiffs seek unspecified damages and other relief, including disgorgement of profits from the sale of NVIDIA stock and reform of unspecified corporate governance measures. On August 11, 2025, the court gra"
+      ],
+      "sources": [
+        "de312a4a316ab49b"
+      ]
+    },
+    {
+      "name": "disaggregation of information in the rate reconciliation and inc",
+      "count": 2,
+      "snippets": [
+        "dard which includes new and updated income tax disclosures, including disaggregation of information in the rate reconciliation and income taxes paid, which we adopted on a prospective basis for"
+      ],
+      "sources": [
+        "78257580ce2492e7"
+      ]
+    },
+    {
+      "name": "authorization, without expiration. In fiscal years 2026 and 2025, we repurchased",
+      "count": 2,
+      "snippets": [
+        "Directors approved an additional $ 60.0 billion in share repurchase authorization, without expiration. In fiscal years 2026 and 2025, we repurchased 282 million and 310 million shares of our common stock for $ 40.4 billion and $ 34.0 billion, respective"
+      ],
+      "sources": [
+        "977b8ed50487af0d"
+      ]
+    },
+    {
+      "name": "ed in exchange for lease",
+      "count": 2,
+      "snippets": [
+        "r operating leases $ 428 $ 313 $ 286 Operating lease assets obtained in exchange for lease obligations $ 1,439 $ 877 $ 531 As of January 25, 2026, our"
+      ],
+      "sources": [
+        "00190693f5d98dc3"
+      ]
+    },
+    {
+      "name": "s, and other ecosystem participants. Members of our sales team have technical ex",
+      "count": 1,
+      "snippets": [
+        "istributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. Members of our sales team have technical expertise and product and industry knowledge. We also employ a team of application engineers and solution architects to provide pre-sales assistance to our partner network in designing, testing, and qualifying system designs that incorporate our platforms. For example, our solution architects work with CSPs to provide pre-sales assistance to enable our customers to optimize their hardware and software infrastructure for generative and agentic AI and LLM training and deployment."
+      ],
+      "sources": [
+        "0d8d700c3a281c7c"
+      ]
+    },
+    {
+      "name": "s on product design, quality assurance, marketing, and customer support. In peri",
+      "count": 1,
+      "snippets": [
+        "production of our products. As a result, we can focus our resources on product design, quality assurance, marketing, and customer support. In periods of growth, we may place non-cancellable inventory orders for certain product components in advance of our historical lead times, pay premiums, or provide deposits to secure future supply and capacity and may need to continue to do so. We have expanded our supplier relationships to build redundancy and resilience in our operations to provide long-term manufacturing capacity aligned with growing customer demand. While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging."
+      ],
+      "sources": [
+        "933ba6ff7640a903"
+      ]
+    },
+    {
+      "name": "memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWo",
+      "count": 1,
+      "snippets": [
+        ", Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, conformity to industry standard APIs, manufacturing capabilities, processor pricing, and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers and partners will 8 Table of Contents demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices."
+      ],
+      "sources": [
+        "264aa153f4674a23"
+      ]
+    },
+    {
+      "name": "of competition comes from companies that provide or intend to provide GPUs, CPUs",
+      "count": 1,
+      "snippets": [
+        "emerge and acquire significant market share. A significant source of competition comes from companies that provide or intend to provide GPUs, CPUs, DPUs, embedded SoCs, and other accelerated, AI computing processor products, and providers of semiconductor-based high-performance interconnect products based on InfiniBand, Ethernet, Fibre Channel, and proprietary technologies. Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customers or technological changes. We expect an increasingly competitive environment in the future."
+      ],
+      "sources": [
+        "88809ffd8fa0af53"
+      ]
+    },
+    {
+      "name": "s than we do and may be more able to adapt to customers or technological changes",
+      "count": 1,
+      "snippets": [
+        "ng, financial, distribution and manufacturing resources than we do and may be more able to adapt to customers or technological changes. We expect an increasingly competitive environment in the future. Our current competitors include: • suppliers and licensors of hardware and software for"
+      ],
+      "sources": [
+        "6fed14e028daa9bd"
+      ]
+    },
+    {
+      "name": "s of hardware and software for SoC products that are used in se",
+      "count": 1,
+      "snippets": [
+        "ions or platforms, such as Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and"
+      ],
+      "sources": [
+        "6fed14e028daa9bd"
+      ]
+    },
+    {
+      "name": "s base",
+      "count": 1,
+      "snippets": [
+        "ursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel."
+      ],
+      "sources": [
+        "b114cc4f3d4c0316"
+      ]
+    },
+    {
+      "name": "s based in China, Europe, and Israel. Additionally, restrictions imposed by the",
+      "count": 1,
+      "snippets": [
+        "ursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel. Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and even if we are able to participate in the China data center compute market, increased oversight of digital platform companies may adversely affect our Data Center revenue. The Chinese government has encouraged customers to purchase from our China-based competitors and discouraged customers from purchasing, importing, or using our data center products, including any China-specific product designed to comply with U.S. export controls. While we work to enhance the resiliency and redundancy of our supply chain, which is currently concentrated in Asia, new and existing export controls or changes to existing export controls could limit alternative manufacturing locations and negatively"
+      ],
+      "sources": [
+        "7e2ed90fb0ef0710"
+      ]
+    },
+    {
+      "name": "our ability to translate the licensed technology into commercially viable produc",
+      "count": 1,
+      "snippets": [
+        "osystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted. We entered into multi-year cloud service agreements to support our research and development activities. The timing and availability of these cloud services have changed and may continue to shift, impacting our revenue, expenses, and development timelines, and these arrangements may not deliver anticipated benefits. We also offer or plan to offer standalone software solutions, including NVIDIA AI Enterprise, NVIDIA Omniverse, NVIDIA DRIVE, and other software products."
+      ],
+      "sources": [
+        "5e7fd16523d669a8"
+      ]
+    },
+    {
+      "name": "s co",
+      "count": 1,
+      "snippets": [
+        "is crucial, and any shortage of these and other necessary resources could impact our future revenue and financial performance."
+      ],
+      "sources": [
+        "3a01ecedfe408295"
+      ]
+    },
+    {
+      "name": "s, contract manufacturers, and assembly partners that are critical to our supply",
+      "count": 1,
+      "snippets": [
+        "ents. Geopolitical tensions in regions where we rely on suppliers, contract manufacturers, and assembly partners that are critical to our supply continuity, could have a material adverse impact on us. Publicly announced intentions by governments or other companies to purchase our products can further complicate our demand estimates, as such announcements are often non-binding and may not result in committed volumes. We continue to increase our supply and capacity purchases with existing and new suppliers to support our demand projections and increasing complexity of our data center products. We expect supply constraints to be a headwind to Gaming in the first quarter of fiscal year 2027 and beyond. We have also entered and may continue to enter into prepaid manufacturing and capacity agreements to supply both current and future products. The increased purchase volumes and integration of new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations in production plannin"
+      ],
+      "sources": [
+        "e383f5bb771f78fa"
+      ]
+    },
+    {
+      "name": "s and contract manufacturers into our supply chain creates more complexity in ma",
+      "count": 1,
+      "snippets": [
+        "nd integration of new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations in production planning, execution and logistics. Our expanding product portfolio and varying component compatibility and quality may lead to increased inventory levels. We have incurred and may in the future incur inventory provisions or impairments if our inventory or supply or capacity commitments exceed demand for our products or demand declines. We are increasing our U.S.-based manufacturing and investing in specialized equipment and processes to support domestic production. We may experience delays or difficulties in scaling production as planned. Our ability to increase manufacturing capabilities will depend on the domestic manufacturing ecosystem's capacity to ramp production supply to the required volume timely. Delays or shortfalls could impact our ability to meet demand. Product transitions are complex and we often ship both new and prior architecture prod"
+      ],
+      "sources": [
+        "f27c1d1b453208d1"
+      ]
+    },
+    {
+      "name": "s for new products, and changes to our product roadmap may impact our ability to",
+      "count": 1,
+      "snippets": [
+        "ll material. We incur significant engineering development resources for new products, and changes to our product roadmap may impact our ability to develop other products or adequately manage our supply chain cost. Customers may delay purchasing existing products as we increase the frequency of new products or may not be able to adopt our new 16 Table of Contents products as fast as forecasted, both impacting the timing of our revenue and supply chain cost. While we have managed prior product transitions and have sold multiple product architectures at the same time, these transitions are difficult, may impair our ability to predict demand and impact our supply mix, and may cause us to incur additional costs. Demand estimates for our products, applications, and services can be incorrect, which may create volatility in our revenue or supply"
+      ],
+      "sources": [
+        "119f3a909ffdba84"
+      ]
+    },
+    {
+      "name": "s, and to the use",
+      "count": 1,
+      "snippets": [
+        "ufacturers, automotive manufacturers, and tier 1 automotive suppliers, and to the user of such end product."
+      ],
+      "sources": [
+        "8023230e1cecd16b"
+      ]
+    },
+    {
+      "name": "s, including for our AI algorithms. Our ability to monitor these",
+      "count": 1,
+      "snippets": [
+        "into the data privacy or security practices of third-party suppliers, including for our AI algorithms. Our ability to monitor these third parties’ information security practices is limited, a"
+      ],
+      "sources": [
+        "2a72d46c46f5ca1b"
+      ]
+    },
+    {
+      "name": "code from third-party partners in our GFN se",
+      "count": 1,
+      "snippets": [
+        "ial, to our business. For example, we hold proprietary game source code from third-party partners in our GFN service."
+      ],
+      "sources": [
+        "1405ba4a2d27f365"
+      ]
+    },
+    {
+      "name": "code from third-party partners in our GFN service. Breaches of our GFN security",
+      "count": 1,
+      "snippets": [
+        "ial, to our business. For example, we hold proprietary game source code from third-party partners in our GFN service. Breaches of our GFN security measures, which have happened in the past, could expose our partners to the risk of loss or misuse of this source code, damage both us and our partners, and expose NVIDIA to potential litigation and liability. If we or a third party we rely on experience a security incident, which has occurred in the past, or are perceived to have experienced a security incident, we may experience adverse consequences, including government enforcement actions, additional reporting"
+      ],
+      "sources": [
+        "1e7763f0544c8dc6"
+      ]
+    },
+    {
+      "name": "s are located in Asia, making our operations vulnerable to natural disasters suc",
+      "count": 1,
+      "snippets": [
+        "and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires or other business disruptions occurring in these geographical areas. Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel. Geopolitical and domestic political developments and other events beyond our control can increase economic volatility globally. Political instability, changes in government or adverse political developments in or around any of the major countries in which we do business may harm our business, financial condition, and results of operations. Worldwide geopolitical tensions and conflicts, including but not limited to China, Hong Kong, Israel, Korea and Taiwan where the manufacture of our product components and final assembly of our products are concentrated may result in changing regulatory requirements, and other disruptions that could impact our operations and operating strategies, product"
+      ],
+      "sources": [
+        "f3527c794450ab94"
+      ]
+    },
+    {
+      "name": "s of being located and co",
+      "count": 1,
+      "snippets": [
+        "ultimate impact on us, our third-party foundries and other suppliers of being located and consolidated in certain geographical areas is unknown."
+      ],
+      "sources": [
+        "a9ac38c1fcf7ed47"
+      ]
+    },
+    {
+      "name": "s of being located and consolidated in certain geographical areas is unknown. In",
+      "count": 1,
+      "snippets": [
+        "ultimate impact on us, our third-party foundries and other suppliers of being located and consolidated in certain geographical areas is unknown. In the event a disaster, war, or catastrophic event affects us, the third-party systems on which we rely, or our customers, our business could be harmed as a result of declines in revenue, increases in expenses, and substantial expenditures and time spent to fully resume operations. Our business continuity and disaster recovery planning may not be sufficient for all eventualities. All of these risks and conditions could materially adversely affect our future sales and operating results. We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 6,000 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products. We have experienced periods where some of our employees in the region have been on active military duty for an extended period, which caused limited disruption to our product development or operations."
+      ],
+      "sources": [
+        "5427f6b01789ba20"
+      ]
+    },
+    {
+      "name": "s do business, may disrupt our business and cause us to experience higher attrit",
+      "count": 1,
+      "snippets": [
+        "bility in regions where we, our customers, partners and our vendors do business, may disrupt our business and cause us to experience higher attrition, losses and costs to maintain or resume operations. Although we maintain insurance coverage for a variety of property, casualty, and other risks, the types and amounts of insurance we obtain vary depending on availability and cost. Some of our policies have large deductibles and broad exclusions, and our insurance providers may be unable or unwilling to pay a claim. Losses not covered by insurance may be large, which could harm our results of operations and financial condition. Our business and those of our suppliers and customers is subject to sustainability"
+      ],
+      "sources": [
+        "8cdbcaa9b06f60f1"
+      ]
+    },
+    {
+      "name": "s and customers is subject to sustainability-related laws, regulations and lawsu",
+      "count": 1,
+      "snippets": [
+        "ions and financial condition. Our business and those of our suppliers and customers is subject to sustainability-related laws, regulations and lawsuits. New or proposed regulations relating to carbon taxes, fuel or energy taxes, pollution limits, sustainability-related disclosure and governance and supply chain governance could result in greater direct costs, including costs associated with changes to manufacturing processes or the procurement of raw materials used in manufacturing processes, increased capital expenditures to improve facilities and equipment, higher compliance and energy costs to reduce emissions, other compliance costs, and greater indirect costs resulting from our customers and/or suppliers incurring"
+      ],
+      "sources": [
+        "98a8e05ff9e4af8b"
+      ]
+    },
+    {
+      "name": "ing regulatory approvals, we may be unable to pursue other transactions, we may",
+      "count": 1,
+      "snippets": [
+        "ete acquisitions, including due to delays and challenges in obtaining regulatory approvals, we may be unable to pursue other transactions, we may not be able to retain critical talent from the target company, technology may evolve and make the acquisition less attractive, and other changes can take place, which could reduce the anticipated benefits of the transaction and n"
+      ],
+      "sources": [
+        "0fd35646afb4e23d"
+      ]
+    },
+    {
+      "name": "ing regulatory approvals. Our investments in private companies include early-sta",
+      "count": 1,
+      "snippets": [
+        "iatives, which could be subject to delays and challenges in obtaining regulatory approvals. Our investments in private companies include early-stage companies still defining their strategic direction. Many of the securities in which we invest are non-marketable and illiquid at the time of our initial investment. To the extent any of the companies in which we invest are not successful, we could recognize an impairment and/or lose all or part of our investmen"
+      ],
+      "sources": [
+        "88e90ed9841238b8"
+      ]
+    },
+    {
+      "name": "s and customers, and training and change management needs of integration personn",
+      "count": 1,
+      "snippets": [
+        "th our key suppliers and customers, and training and change management needs of integration personnel. These challenges have impacted our results of operations and may continue to do so in the future. We receive a significant amount of our revenue from a limited number of partners and distributors and we have a concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these customers. We have experienced periods where we receive a significant amount of our revenue from a limited number of customers, and this trend may continue. For fiscal year 2026, sales to one direct customer represented 22% of total revenue and sales to another direct custom"
+      ],
+      "sources": [
+        "83022d2d5d5dea17"
+      ]
+    },
+    {
+      "name": "order basis, our customers can generally cancel, change, or delay product purcha",
+      "count": 1,
+      "snippets": [
+        "other way. Because most of our sales are made on a purchase order basis, our customers can generally cancel, change, or delay product purchase commitments with little notice to us and without penalty. Our"
+      ],
+      "sources": [
+        "00d1a7df75e06659"
+      ]
+    },
+    {
+      "name": "s, and partners. Governments and regulators are also considering, and in certain",
+      "count": 1,
+      "snippets": [
+        "y impact our business and our relationships with customers, suppliers, and partners. Governments and regulators are also considering, and in certain cases, have imposed restrictions on the hardware, software, and systems used to develop frontier foundation models and generative AI. For example, the EU AI Act became effective on August 1, 2024 and will be fully applicable after a two-year transitional period. The EU AI Act may impact our ability to train, deploy, or release AI models in the EU. Several states are considering enacting or have already enacted regulations concerning AI technologies, with new state laws that took effect on January 1, 2026, which may impact our ability to train, deploy, or release AI models, and increase our compliance costs. Restrictions under these and any other regulations, if implemented, could increase the costs and burdens to us and our customers, delay or halt deplo"
+      ],
+      "sources": [
+        "1617ea67bcb8da07"
+      ]
+    },
+    {
+      "name": "s based in China, Europe, and Israel. Given the increasing strategic importance",
+      "count": 1,
+      "snippets": [
+        "ursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel. Given the increasing strategic importance of AI and rising geopolitical tensions, the USG has changed and may again change the export control rules at any time and further subject a wider range of our products to export restrictions and licensing requirements, negatively impacting our business and financial results. In the event of such change, we may be unable to sell our inventory of such products and may be unable to devel"
+      ],
+      "sources": [
+        "08e2b0efbb8abce7"
+      ]
+    },
+    {
+      "name": "from our co",
+      "count": 1,
+      "snippets": [
+        "ncourage overseas governments to request that our customers purchase from our competitors rather than NVIDIA or other U.S. firms, harming ou"
+      ],
+      "sources": [
+        "af660b90a70db864"
+      ]
+    },
+    {
+      "name": "s, and customers. While we seek to strictly comply with all applicable export co",
+      "count": 1,
+      "snippets": [
+        "plex and burdensome compliance obligations on our partners, suppliers, and customers. While we seek to strictly comply with all applicable export control regulators, reports of diversion of controlled products, even when unsubstantiated and untrue, may negatively impact our business, relationships with partners and customers, and our reputation. Incorrect allegations that our compliance efforts satisfy the letter but not the “spirit” of"
+      ],
+      "sources": [
+        "d4a53eaf0a824921"
+      ]
+    },
+    {
+      "name": "from our China-based competitors and discouraged customers from purchasing, impo",
+      "count": 1,
+      "snippets": [
+        "revenue. The Chinese government has encouraged customers to purchase from our China-based competitors and discouraged customers from purchasing, importing, or using our data center products, including any China-specific product designed to comply with U.S. export controls. As another example, an agency of the Chinese government announced an Action Plan that endorses new standards regarding the compute performance per watt and per memory bandwidth of accelerators used in new and renovated data centers in China. Although we are already effectively foreclosed from the China market by U.S."
+      ],
+      "sources": [
+        "32f31c19cd79ba90"
+      ]
+    },
+    {
+      "name": "s could negatively impact our business and financial results. Finally, our busin",
+      "count": 1,
+      "snippets": [
+        "Further restrictions on our products or the products of our suppliers could negatively impact our business and financial results. Finally, our business depends on our ability to receive consistent and reliable supply from our overseas partners, especially in Taiwan and South Korea. Any new restrictions that negatively impact our ability to receive supply of components, parts, or services from Taiwan and South Korea, would negatively impact"
+      ],
+      "sources": [
+        "6e2516edb52a414f"
+      ]
+    },
+    {
+      "name": "s to do business with us. Certain shareholder advocacy groups, investment funds,",
+      "count": 1,
+      "snippets": [
+        "sely impact our reputation and willingness of customers and suppliers to do business with us. Certain shareholder advocacy groups, investment funds, shareholders and other market participants, customers and government regulators have focused on corporate sustainability practices and disclosures, including those associated with climate change and human rights. Stakeholders may not be satisfied with our corporate sustainability practices and goals or the speed of their adoption. Further, there are state-level initiatives in the U.S. that may differ from other 28 Table of Contents regulatory requirements or our various stakeholders’"
+      ],
+      "sources": [
+        "41d8a76935ce70b0"
+      ]
+    },
+    {
+      "name": "questionnaires designed to help us evaluate cybersecurity risks that we may enco",
+      "count": 1,
+      "snippets": [
+        "supplier questionnaires designed to help us evaluate cybersecurity risks that we may encounter when working with third parties that have access to confidential and other sensitive company information. We take steps to review that such vendors have implemented data privacy and security controls that help mitigate the cybersecurity risks associated with these vendors, depending on the nature and sensitivity of the supplier and data they process on our behalf. We routinely assess our high-risk suppliers’ conformance to industry standard"
+      ],
+      "sources": [
+        "97c00a081c75133a"
+      ]
+    },
+    {
+      "name": "the local region's manufacturing eco",
+      "count": 1,
+      "snippets": [
+        "re. Our ability to increase manufacturing capabilities will depend on the local region's manufacturing ecosystem's capacity to ramp production supply to the required"
+      ],
+      "sources": [
+        "9fa65d53a465d9b5"
+      ]
+    },
+    {
+      "name": "cost and was not material for fiscal years 2026 and 2025. 43 Table of Contents O",
+      "count": 1,
+      "snippets": [
+        "ecember 31, 2022. The excise tax is included in our share repurchase cost and was not material for fiscal years 2026 and 2025. 43 Table of Contents Outstanding Indebtedness and Commercial Paper Program Our aggregate debt maturities as of January 25, 2026, by year paya"
+      ],
+      "sources": [
+        "be4d3bc1ccdd1643"
+      ]
+    },
+    {
+      "name": "constraints, and the benefits of controls must be considered relative to their c",
+      "count": 1,
+      "snippets": [
+        "of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within NVIDIA h"
+      ],
+      "sources": [
+        "b3141eeed93c080b"
+      ]
+    },
+    {
+      "name": "ing an understanding of internal control over financial reporting, assessing the",
+      "count": 1,
+      "snippets": [
+        "audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our"
+      ],
+      "sources": [
+        "a03ffc6853ea654b"
+      ]
+    },
+    {
+      "name": "price over the fair values of these net tangible and intangible assets acquired",
+      "count": 1,
+      "snippets": [
+        "estimated fair values. The excess of the fair value of the purchase price over the fair values of these net tangible and intangible assets acquired is recorded as goodwill. Management’s estimates of fair value are based upon assumptions b"
+      ],
+      "sources": [
+        "96e0081d9a8eb2de"
+      ]
+    },
+    {
+      "name": "s of inventory, employee compensation, depreciation and intangible asset amortiz",
+      "count": 1,
+      "snippets": [
+        "interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable. We will adopt this standard in the fiscal year 2028 annual report. We do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional disclo"
+      ],
+      "sources": [
+        "57540f3a1e07571d"
+      ]
+    },
+    {
+      "name": "rights under the following equity inc",
+      "count": 1,
+      "snippets": [
+        "e Program We grant RSUs, PSUs, market-based PSUs, and stock purchase rights under the following equity incentive plans."
+      ],
+      "sources": [
+        "1540dab86334adb4"
+      ]
+    },
+    {
+      "name": "Plan Employees who participate in the NVIDIA Corporation Amended and Restated 20",
+      "count": 1,
+      "snippets": [
+        "termined criteria. Amended and Restated 2012 Employee Stock Purchase Plan Employees who participate in the NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan, or as most recently amended and restated, the 2012 Pl"
+      ],
+      "sources": [
+        "e13d9ef246f19c24"
+      ]
+    },
+    {
+      "name": "indirect customers include CSPs, Neocloud builders, AI model makers, enterprises",
+      "count": 1,
+      "snippets": [
+        "e refer to indirect customers as those who purchase products through our direct customers; indirect customers include CSPs, Neocloud builders, AI model makers, enterprises, and public sector entities. Our revenue is concentrated among a limited number of direct and indirect customers and this trend may continue. Direct Customers – For fiscal year 2026, sales to on"
+      ],
+      "sources": [
+        "f6393b028df2fdd0"
+      ]
+    },
+    {
+      "name": "InventoryPurchase",
+      "count": 1,
+      "snippets": [],
+      "sources": []
+    }
+  ],
+  "relations": [
+    {
+      "type": "supplies_to",
+      "from": "our Deep Learning Institute",
+      "to": "design",
+      "snippet": "our Deep Learning Institute provides instruction on the latest techniques on how to design",
+      "chunkId": "5b3bf3f9f9340f5a",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "supplies_to",
+      "from": "our Deep Learning Institute",
+      "to": "design",
+      "snippet": "our Deep Learning Institute provides instruction on the latest techniques on how to design",
+      "chunkId": "355a3c76ad741d6d",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "supplies_to",
+      "from": "Our Deep Learning Institute",
+      "to": "developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our platforms",
+      "snippet": "Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our ",
+      "chunkId": "f737af07c876024a",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "SK Hynix",
+      "to": null,
+      "snippet": "purchase memory from SK Hynix Inc",
+      "chunkId": "933ba6ff7640a903",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "SK Hynix",
+      "to": null,
+      "snippet": "purchase memory from SK Hynix Inc",
+      "chunkId": "264aa153f4674a23",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "how well we are able to anticipate the features and functions that customers and partners will 8 Table of Contents demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices",
+      "to": null,
+      "snippet": "depend on how well we are able to anticipate the features and functions that customers and partners will 8 Table of Contents demand and whether we are able to deliver consistent volumes of our product",
+      "chunkId": "264aa153f4674a23",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "companies that provide or intend to provide GPUs",
+      "to": null,
+      "snippet": "source of competition comes from companies that provide or intend to provide GPUs",
+      "chunkId": "88809ffd8fa0af53",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "competitors",
+      "to": null,
+      "snippet": "purchase product from competitors",
+      "chunkId": "83e6f30ecf2dd685",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our China",
+      "to": null,
+      "snippet": "purchase from our China",
+      "chunkId": "7e2ed90fb0ef0710",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "third",
+      "to": null,
+      "snippet": "Dependency on third",
+      "chunkId": "23a5f20c457e3661",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "our ability to",
+      "to": null,
+      "snippet": "depends on our ability to",
+      "chunkId": "c36cf345f1c1fa43",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "obtaining future design wins in subsequent generations",
+      "to": null,
+      "snippet": "obtain a design win may prevent us from obtaining future design wins in subsequent generations",
+      "chunkId": "19fc2968d7571f1c",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "our ability to anticipate and provide features and functionality that customers will demand",
+      "to": null,
+      "snippet": "depends on our ability to anticipate and provide features and functionality that customers will demand",
+      "chunkId": "19fc2968d7571f1c",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "our ability to translate the licensed technology into commercially viable products and services over time",
+      "to": null,
+      "snippet": "depend on our ability to translate the licensed technology into commercially viable products and services over time",
+      "chunkId": "5e7fd16523d669a8",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our competitors",
+      "to": null,
+      "snippet": "purchase from our competitors",
+      "chunkId": "5b25386271bb58bf",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our competitors",
+      "to": null,
+      "snippet": "purchase from our competitors",
+      "chunkId": "7de539ddd3dcef77",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the domestic manufacturing ecosystem",
+      "to": null,
+      "snippet": "depend on the domestic manufacturing ecosystem",
+      "chunkId": "f27c1d1b453208d1",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "third",
+      "to": null,
+      "snippet": "Dependency on third",
+      "chunkId": "7294b349a04b2782",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "foundries to manufacture our semiconductor wafers using their fabrication equipment and techniques",
+      "to": null,
+      "snippet": "depend on foundries to manufacture our semiconductor wafers using their fabrication equipment and techniques",
+      "chunkId": "7294b349a04b2782",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "our employees",
+      "to": null,
+      "snippet": "dependent upon our employees",
+      "chunkId": "40b8296dc7c42e36",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "our employees",
+      "to": null,
+      "snippet": "dependent upon our employees",
+      "chunkId": "a7dd354a04eb885f",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "third",
+      "to": null,
+      "snippet": "source code from third",
+      "chunkId": "1405ba4a2d27f365",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "third",
+      "to": null,
+      "snippet": "source code from third",
+      "chunkId": "1e7763f0544c8dc6",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "access to clean water and predictable energy",
+      "to": null,
+      "snippet": "depend on access to clean water and predictable energy",
+      "chunkId": "cbb41745cd9820e1",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "access to clean water and predictable energy",
+      "to": null,
+      "snippet": "depend on access to clean water and predictable energy",
+      "chunkId": "2c7cdae7db38485e",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "availability and cost",
+      "to": null,
+      "snippet": "depending on availability and cost",
+      "chunkId": "8cdbcaa9b06f60f1",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "sales to our partner network",
+      "to": null,
+      "snippet": "depend on sales to our partner network",
+      "chunkId": "83022d2d5d5dea17",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "sales to our partner network",
+      "to": null,
+      "snippet": "depend on sales to our partner network",
+      "chunkId": "55fead60a58c49c9",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our competitors",
+      "to": null,
+      "snippet": "purchase products from our competitors",
+      "chunkId": "00d1a7df75e06659",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "us but through multiple OEMs",
+      "to": null,
+      "snippet": "purchase directly from us but through multiple OEMs",
+      "chunkId": "00d1a7df75e06659",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the services of our longstanding executive team",
+      "to": null,
+      "snippet": "dependent on the services of our longstanding executive team",
+      "chunkId": "756812346f7e459a",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the proper functioning of our business processes and information systems and modification or interruption of such systems may disrupt our business and internal controls",
+      "to": null,
+      "snippet": "dependent upon the proper functioning of our business processes and information systems and modification or interruption of such systems may disrupt our business and internal controls",
+      "chunkId": "60296f2e04b109a3",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "competitors",
+      "to": null,
+      "snippet": "purchase product from competitors",
+      "chunkId": "507c62eda0f9bfb4",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our competitors rather than NVIDIA or other U",
+      "to": null,
+      "snippet": "purchase from our competitors rather than NVIDIA or other U",
+      "chunkId": "af660b90a70db864",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our competitors rather than NVIDIA or other U",
+      "to": null,
+      "snippet": "purchase from our competitors rather than NVIDIA or other U",
+      "chunkId": "71d93dd61d4945c0",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "our China",
+      "to": null,
+      "snippet": "purchase from our China",
+      "chunkId": "32f31c19cd79ba90",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "our ability to receive consistent and reliable supply from our overseas partners",
+      "to": null,
+      "snippet": "depends on our ability to receive consistent and reliable supply from our overseas partners",
+      "chunkId": "6e2516edb52a414f",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "supplies_to",
+      "from": "The CCPA",
+      "to": "intentional violation and the law created a private right of action for certain data breaches",
+      "snippet": "The CCPA provides for substantial fines for intentional violation and the law created a private right of action for certain data breaches",
+      "chunkId": "2680696150821a7a",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the nature and sensitivity of the supplier and data they process on our behalf",
+      "to": null,
+      "snippet": "depending on the nature and sensitivity of the supplier and data they process on our behalf",
+      "chunkId": "c0efaa0a3899e923",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the nature and sensitivity of the supplier and data they process on our behalf",
+      "to": null,
+      "snippet": "depending on the nature and sensitivity of the supplier and data they process on our behalf",
+      "chunkId": "97c00a081c75133a",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "and if deployed on our competitors",
+      "to": null,
+      "snippet": "dependent on developer adoption and if deployed on our competitors",
+      "chunkId": "9fa65d53a465d9b5",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the local region",
+      "to": null,
+      "snippet": "depend on the local region",
+      "chunkId": "9fa65d53a465d9b5",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the local region",
+      "to": null,
+      "snippet": "depend on the local region",
+      "chunkId": "80cb34d6f12c547d",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "NVIDIA as direct customers",
+      "to": null,
+      "snippet": "purchase products directly from NVIDIA as direct customers",
+      "chunkId": "2058ea89197edfc8",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "time to time",
+      "to": null,
+      "snippet": "purchases from time to time",
+      "chunkId": "6b105e4f34082110",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "regarding related transactions and director independence required by this item will be contained in our 2026 Proxy Statement under the captions",
+      "to": null,
+      "snippet": "dependence Information regarding related transactions and director independence required by this item will be contained in our 2026 Proxy Statement under the captions ",
+      "chunkId": "250cbba8de5037c6",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "depends_on",
+      "from": "the intended use of the derivative and the resulting designation",
+      "to": null,
+      "snippet": "depends on the intended use of the derivative and the resulting designation",
+      "chunkId": "999d935dce1f082d",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "NVIDIA as direct customers",
+      "to": null,
+      "snippet": "purchase products directly from NVIDIA as direct customers",
+      "chunkId": "fa35e64b3f49b253",
+      "ticker": "NVDA"
+    },
+    {
+      "type": "sources_from",
+      "from": "NVIDIA as direct customers",
+      "to": null,
+      "snippet": "purchase products directly from NVIDIA as direct customers",
+      "chunkId": "831dae08e0e0a8f2",
+      "ticker": "NVDA"
+    }
+  ],
+  "concentrations": [
+    {
+      "pct": 31,
+      "entity": "sales outside the United States",
+      "snippet": "31% of our revenue in fiscal year 2026 from sales outside the United States"
+    },
+    {
+      "pct": 22,
+      "entity": "another direct customer represented 14% of total revenue, all of which were prim",
+      "snippet": "22% of total revenue and sales to another direct customer represented 14% of total revenue, all of which were prim"
+    },
+    {
+      "pct": 22,
+      "entity": "another direct customer represented 14% of total revenue, all of which were prim",
+      "snippet": "22% of total revenue and sales to another direct customer represented 14% of total revenue, all of which were prim"
+    },
+    {
+      "pct": 12,
+      "entity": "two direct customers each represented 11% of total revenue, all of which were pr",
+      "snippet": "12% of total revenue and sales to two direct customers each represented 11% of total revenue, all of which were pr"
+    },
+    {
+      "pct": 13,
+      "entity": "the Compute & Networking segment",
+      "snippet": "13% of total revenue, and were primarily attributable to the Compute & Networking segment"
+    },
+    {
+      "pct": 25,
+      "entity": "purchase shares of common stock",
+      "snippet": "25 % of their earnings withheld to purchase shares of common stock"
+    },
+    {
+      "pct": 42,
+      "entity": "contracts greater than one year in length will be recognized over the next twelv",
+      "snippet": "42 % of revenue from contracts greater than one year in length will be recognized over the next twelv"
+    },
+    {
+      "pct": 76,
+      "entity": "end customers based in the United States and Europe",
+      "snippet": "76 % of Data Center revenue from Taiwan-headquartered customers was attributed to end customers based in the United States and Europe"
+    },
+    {
+      "pct": 22,
+      "entity": "another direct customer represented 14 % of total revenue, all of which were pri",
+      "snippet": "22 % of total revenue and sales to another direct customer represented 14 % of total revenue, all of which were pri"
+    },
+    {
+      "pct": 12,
+      "entity": "two direct customers each represented 11 % of total revenue, all of which were p",
+      "snippet": "12 % of total revenue and sales to two direct customers each represented 11 % of total revenue, all of which were p"
+    },
+    {
+      "pct": 13,
+      "entity": "the Compute & Networking segment",
+      "snippet": "13 % of total revenue, and were primarily attributable to the Compute & Networking segment"
+    },
+    {
+      "pct": 13,
+      "entity": "the Compute & Networking segment",
+      "snippet": "13 % of total revenue, and were primarily attributable to the Compute & Networking segment"
+    }
+  ]
+}

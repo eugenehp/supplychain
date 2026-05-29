@@ -1,0 +1,1749 @@
+{
+  "ticker": "CDNS",
+  "count": 118,
+  "generatedAt": "2026-05-29T05:38:04.769Z",
+  "entries": [
+    {
+      "id": "CDNS-Cadence-0",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 520,
+      "excerpt": "…TION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31 , 2025 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from _________ to_________. Commission file number 000-15867 _____________________________________ CADENCE DESIGN SYSTEMS, INC. (Exact name of registrant as specified in its charter) ____________________________________ Delaware 00-0000000 (State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) 2655 Seely Avenue, Building 5, San Jose, California 95134 (Address of Principal…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 200,
+        "end": 900
+      }
+    },
+    {
+      "id": "CDNS-Cadence-1",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 4373,
+      "excerpt": "…gistrant’s most recently completed second fiscal quarter ended June 30, 2025 was approximately $ 83,968,000,000 . On January 31, 2026, approximately 272,651,000 shares of the registrant’s common stock, $0.01 par value, were outstanding. DOCUMENTS INCORPORATED BY REFERENCE Portions of the definitive proxy statement for Cadence Design Systems, Inc.’s 2025 Annual Meeting of Stockholders are incorporated by reference into Parts II and III hereof. Such definitive proxy statement will be filed with the Securities and Exchange Commission within 120 days of the registrant's fiscal year ended December 31, 2025. Table of Contents CADENCE DESI…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 4054,
+        "end": 4694
+      }
+    },
+    {
+      "id": "CDNS-Cadence-2",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 4681,
+      "excerpt": "…atement for Cadence Design Systems, Inc.’s 2025 Annual Meeting of Stockholders are incorporated by reference into Parts II and III hereof. Such definitive proxy statement will be filed with the Securities and Exchange Commission within 120 days of the registrant's fiscal year ended December 31, 2025. Table of Contents CADENCE DESIGN SYSTEMS, INC. ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED DECEMBER 31, 2025 Table of Contents Page PART I. Item 1. Business 1 Item 1A. Risk Factors 12 Item 1B. Unresolved Staff Comments 33 Item 1C. Cybersecurity 33 Item 2. Properties 34 Item 3. Legal Proceedings 34 Item 4. Mine Safety Disclosure…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 4361,
+        "end": 5001
+      }
+    },
+    {
+      "id": "CDNS-Cadence-3",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 8820,
+      "excerpt": "…or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. The forward-looking statements included in this Annual Report are made only as of the date of this Annual Report. We do not intend, and undertake no obligation, to update these forward-looking statements. Overview Cadence® is a global technology leader that develops computational, AI-driven software, accelerated hardware, and silicon intellectual property (“IP”) products and solutions. Our customers include semiconductor companies that design and manufacture integrated circuits (“ICs”), as well as systems companies that design a…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 8500,
+        "end": 9140
+      }
+    },
+    {
+      "id": "CDNS-kw-0",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 11326,
+      "excerpt": "…llence foundation, this pillar applies our AI-driven computational expertise to multiphysics-based analysis of systems containing electronic devices, such as printed circuit boards (\"PCBs\"), advanced packaging technologies, and 3D-ICs. This enables customers to verify that their products will function as intended under various physical conditions. Pervasive Intelligence: This pillar integrates AI training, inference, and reasoning algorithms into our products and solutions, enabling customers to optimize performance, productivity, and design quality. With the exponential growth of data generat…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 11126,
+        "end": 11726
+      }
+    },
+    {
+      "id": "CDNS-Cadence-4",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 12221,
+      "excerpt": "…ation processes and to enable more accurate, efficient, and optimal design solutions that meet the demands of increasingly complex systems. 1 Table of Contents Our software and hardware solutions also support cloud access to address our customers' growing computational needs. Customers can access our solutions via our Cadence OnCloud Platform. Business Drivers Our business growth and customer success are fueled by the transformative impact of AI and the increasing complexity of semiconductors and electronic system design that underpins modern society. Anchored in our ISD strategy, we view AI as a pivotal force driving new opportunit…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 11901,
+        "end": 12541
+      }
+    },
+    {
+      "id": "CDNS-kw-1",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 14566,
+      "excerpt": "…s, we have expanded into new verticals such as life sciences, leveraging our expertise in simulation and algorithmic design to unlock transformative growth opportunities. Product Categories Engineers depend on our solutions to navigate every stage of the electronic product design process, from initial concept to implementation and verification. Advanced AI technologies are integrated into our design platforms to empower users to create highly accurate digital twins—virtual models that replicate functionality, manufacturability, and compliance with industry standards. By leveraging sophisticate…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 14366,
+        "end": 14966
+      }
+    },
+    {
+      "id": "CDNS-kw-2",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 16149,
+      "excerpt": "…ems, from PCBs to complex system assemblies. Core EDA Our Core EDA products and solutions are essential in the design and verification of semiconductor chips, including analog, digital, mixed-signal, memory, radio-frequency (“RF”), and silicon photonics, and are widely used across multiple industries including automotive, aerospace and defense, consumer electronics, data centers, industrial, medical, and mobile. We work closely with leading semiconductor ecosystem partners to develop foundry process design kits (“PDKs”) to ensure our core EDA products and solutions meet manufacturing sign-off…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 15949,
+        "end": 16608
+      }
+    },
+    {
+      "id": "CDNS-kw-3",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 16438,
+      "excerpt": "…e industries including automotive, aerospace and defense, consumer electronics, data centers, industrial, medical, and mobile. We work closely with leading semiconductor ecosystem partners to develop foundry process design kits (“PDKs”) to ensure our core EDA products and solutions meet manufacturing sign-off requirements. To address increasing design and manufacturing complexity, we integrate machine learning, generative AI and native cloud scalability in our solutions, enhancing design quality and engineering productivity. Custom IC Design and Simulation Virtuoso is our flagship platform use…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 16238,
+        "end": 16838
+      }
+    },
+    {
+      "id": "CDNS-kw-4",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 16911,
+      "excerpt": "…s, enhancing design quality and engineering productivity. Custom IC Design and Simulation Virtuoso is our flagship platform used by engineers to design and verify analog, custom, RF, mixed-signal IC, memory, and photonics devices. It is considered the industry standard for custom and analog IC design, enabling high-performance, low-power, and differentiated silicon development. Its integrated simulation and analysis capabilities ensure circuit functionality, performance, and reliability under varying conditions, while comprehensive physical verification and signoff flows, including design rule…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 16712,
+        "end": 17312
+      }
+    },
+    {
+      "id": "CDNS-kw-5",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 20543,
+      "excerpt": "…nts and integrated platforms. These solutions, along with the rest of VLAB Works’ portfolio, address embedded software development challenges across several markets, including automotive OEMs, Tier 1 suppliers, and semiconductor companies, supporting trends like software-defined vehicles (“SDVs”) and software-defined systems (“SDx”). 3 Table of Contents Semiconductor IP Our Semiconductor IP portfolio features strategic, mission-critical design architectures that customers integrate into their differentiated design blocks, system-on-chip (“SoC”) subsystems, and chiplets. These IP solutions are…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 20343,
+        "end": 21002
+      }
+    },
+    {
+      "id": "CDNS-kw-6",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 21326,
+      "excerpt": "…ngs include controllers and physical interfaces widely used in computing, networking, and embedded systems. The portfolio spans PCI Express, Universal Accelerator Link, Compute Express Link, multiple memory interfaces such as High Bandwidth Memory and Graphics Double Data Rate, and other industry standards. Additionally, our Tensilica® configurable digital signal processors (“DSPs”) provide vertically targeted subsystems for AI, audio/voice, baseband, and vision/imaging applications. Our design IP portfolio also includes high-speed serializer/deserializer (“SerDes”), peripheral component inter…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 21126,
+        "end": 21726
+      }
+    },
+    {
+      "id": "CDNS-kw-7",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 21367,
+      "excerpt": "…rfaces widely used in computing, networking, and embedded systems. The portfolio spans PCI Express, Universal Accelerator Link, Compute Express Link, multiple memory interfaces such as High Bandwidth Memory and Graphics Double Data Rate, and other industry standards. Additionally, our Tensilica® configurable digital signal processors (“DSPs”) provide vertically targeted subsystems for AI, audio/voice, baseband, and vision/imaging applications. Our design IP portfolio also includes high-speed serializer/deserializer (“SerDes”), peripheral component interconnect (“PCI”), USB, and other standard…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 21167,
+        "end": 21826
+      }
+    },
+    {
+      "id": "CDNS-Arm-0",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 22060,
+      "excerpt": "…), USB, and other standard protocols. Complementing these offerings, our Verification IP (“VIP”) portfolio enables system-level validation and integrates seamlessly with our Xcelium™ simulator and Palladium® Enterprise Emulation solutions. In fiscal 2025, we expanded our design IP portfolio with the acquisition of the Arm Artisan foundation IP business, adding standard cell libraries, memory compilers, and general-purpose I/Os (“GPIOs”) optimized for advanced process nodes at leading foundries. This acquisition complements our existing protocol and interface IP, memory interface IP, and SerDes IP at advanced nodes, enhancing our abi…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 21740,
+        "end": 22380
+      }
+    },
+    {
+      "id": "CDNS-kw-8",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 22128,
+      "excerpt": "…ator and Palladium® Enterprise Emulation solutions. In fiscal 2025, we expanded our design IP portfolio with the acquisition of the Arm Artisan foundation IP business, adding standard cell libraries, memory compilers, and general-purpose I/Os (“GPIOs”) optimized for advanced process nodes at leading foundries. This acquisition complements our existing protocol and interface IP, memory interface IP, and SerDes IP at advanced nodes, enhancing our ability to address SoC design challenges across markets such as automotive, data center, mobile, internet of things (“IoT”), and consumer electronics.…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 21929,
+        "end": 22528
+      }
+    },
+    {
+      "id": "CDNS-kw-9",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 22309,
+      "excerpt": "…rd cell libraries, memory compilers, and general-purpose I/Os (“GPIOs”) optimized for advanced process nodes at leading foundries. This acquisition complements our existing protocol and interface IP, memory interface IP, and SerDes IP at advanced nodes, enhancing our ability to address SoC design challenges across markets such as automotive, data center, mobile, internet of things (“IoT”), and consumer electronics. These solutions reinforce our commitment to improving customers’ time to market while optimizing cost, power, and performance. Also in fiscal 2025, we strengthened our embedded secu…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 22109,
+        "end": 22709
+      }
+    },
+    {
+      "id": "CDNS-Cadence-5",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 22886,
+      "excerpt": "…nt to improving customers’ time to market while optimizing cost, power, and performance. Also in fiscal 2025, we strengthened our embedded security capabilities with the acquisition of Secure-IC, a leader in embedded security IP, solutions, and evaluation tools. By combining Secure-IC’s expertise in cybersecurity with Cadence’s decades of experience in IP and subsystem design, we are able to deliver comprehensive system solutions that accelerate customers’ time to market and are designed to meet stringent security and regulatory requirements. These solutions address critical challenges in key markets, including automotive, data cent…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 22566,
+        "end": 23206
+      }
+    },
+    {
+      "id": "CDNS-kw-10",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 23429,
+      "excerpt": "…se, mobile, IoT, and consumer electronics. System Design and Analysis Our SD&A platform is a comprehensive solution that enables critical end-to-end system-level design and verification across chips, packages, PCBs, and complete electronic systems. The SD&A platform integrates advanced multiphysics simulation—including thermal, electromagnetic, and signal/power integrity—along with computational fluid dynamics to address growing complexity in heterogeneous integration and 3D-IC designs. The core SD&A products include the Allegro X and OrCAD X platforms for PCB and advanced packaging, Sigrity X…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 23229,
+        "end": 23889
+      }
+    },
+    {
+      "id": "CDNS-kw-11",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 23809,
+      "excerpt": "…with computational fluid dynamics to address growing complexity in heterogeneous integration and 3D-IC designs. The core SD&A products include the Allegro X and OrCAD X platforms for PCB and advanced packaging, Sigrity X for signal and power integrity, AWR for RF design, Fidelity™ for computational fluid dynamics (“CFD”) and Celsius for thermal and airflow analysis, Clarity™ 3D Solver for electromagnetic and power electronics analysis and simulation, and Integrity™ 3D-IC solution for advanced 3D-IC and multi-chiplet designs. The Optimality™ Intelligent System Explorer, Reality™ Digital Twin, a…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 23609,
+        "end": 24209
+      }
+    },
+    {
+      "id": "CDNS-kw-12",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 24865,
+      "excerpt": "…ion and cloud-native scalability to accelerate design and analysis and improve designer productivity. The capabilities in the Allegro® System Design Platform include PCB design and implementation, IC package and system-in-package design, signal and power integrity analysis, and PCB library design management and collaboration. The need for compact, high-performance mobile, consumer, and automotive design with advanced serial interconnect is driving the technological evolution of our PCB offerings. For mainstream PCB customers, where individual or small team productivity is a focus, we provide t…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 24665,
+        "end": 25265
+      }
+    },
+    {
+      "id": "CDNS-kw-13",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 24887,
+      "excerpt": "…calability to accelerate design and analysis and improve designer productivity. The capabilities in the Allegro® System Design Platform include PCB design and implementation, IC package and system-in-package design, signal and power integrity analysis, and PCB library design management and collaboration. The need for compact, high-performance mobile, consumer, and automotive design with advanced serial interconnect is driving the technological evolution of our PCB offerings. For mainstream PCB customers, where individual or small team productivity is a focus, we provide the OrCAD ® family of o…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 24687,
+        "end": 25287
+      }
+    },
+    {
+      "id": "CDNS-kw-14",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 25576,
+      "excerpt": "…X AI™ is our generative AI solution designed to provide significant cycle-time compression for PCB design, enhancing an engineer’s productivity. The speed and proximity of signals on silicon, through packages to boards, and through connectors and cables, exposes these communications to various kinds of interference, generates heat, and emits electromagnetic radiation. Careful analysis is required for these systems to work as designed under a wide range of operating conditions, standards, and regulations. The complexity of these devices and signal transmissions requires analysis and simulation…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 25376,
+        "end": 26035
+      }
+    },
+    {
+      "id": "CDNS-Cadence-6",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 27161,
+      "excerpt": "…combustion. Optimality™ Intelligent System Explorer is the industry’s first generative AI-driven multiphysics optimization solution. It delivers additional productivity, automation, and improved system-level power, performance and area and quality of results throughout the entire analysis flow. 4 Table of Contents Our Cadence Reality Digital Twin platform brings physics-based design and analysis to the data center sector for performance-aware design and operational planning. Data center professionals can future-proof designs and assess operational decisions with this digital twin and empower designers, owners, and operators to addre…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 26841,
+        "end": 27481
+      }
+    },
+    {
+      "id": "CDNS-Cadence-7",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 28192,
+      "excerpt": "…rdware. In May 2025, we announced the M2000 supercomputer. The M2000 is a specialized, AI-accelerated platform co-developed with NVIDIA to dramatically speed up complex simulations in fields like semiconductor design, aerospace and defense, and drug discovery. For 3D-IC and multi-chiplet designs, our customers use the Cadence ® Integrity™ 3D-IC Platform. Built on the Innovus solution, Integrity allows system-level designers to plan, implement, and analyze stacked die systems for a variety of packaging styles (2.5D or 3D). Integrity 3D-IC is the industry’s first integrated system and SoC-level solution that enables system analysis, i…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 27872,
+        "end": 28512
+      }
+    },
+    {
+      "id": "CDNS-kw-15",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 28369,
+      "excerpt": "…our customers use the Cadence ® Integrity™ 3D-IC Platform. Built on the Innovus solution, Integrity allows system-level designers to plan, implement, and analyze stacked die systems for a variety of packaging styles (2.5D or 3D). Integrity 3D-IC is the industry’s first integrated system and SoC-level solution that enables system analysis, including co-design, with Virtuoso and Allegro implementation environments. In fiscal 2025, we announced our intent to acquire the Design & Engineering (“D&E”) business of Hexagon Smart Solutions AB (“Hexagon”), including its MSC Software division, which is…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 28170,
+        "end": 28828
+      }
+    },
+    {
+      "id": "CDNS-kw-16",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 29214,
+      "excerpt": "…defense, automotive, robotics, and emerging fields like physical AI. With this addition, we will serve a broader customer base, including leading aerospace and defense and automotive OEMs and Tier 1 suppliers, while addressing critical design challenges in electric vehicles, autonomous systems, and advanced materials. Once complete, our acquisition of these solutions is expected to complement our 2024 acquisition of BETA CAE Systems, further strengthening our presence in the multi-billion-dollar structural analysis market. We also offer molecular modeling and simulation solutions and services…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 29015,
+        "end": 29614
+      }
+    },
+    {
+      "id": "CDNS-Arm-1",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 29696,
+      "excerpt": "…olutions is expected to complement our 2024 acquisition of BETA CAE Systems, further strengthening our presence in the multi-billion-dollar structural analysis market. We also offer molecular modeling and simulation solutions and services. These solutions and services are used by a wide range of organizations in the pharmaceutical and biotechnology sectors to accelerate the drug discovery process and make more informed decisions in developing new therapeutics. Product Arrangements We primarily license our software using time-based licenses. Our time-based license arrangements offer customers the right to access and use all of the pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 29376,
+        "end": 30016
+      }
+    },
+    {
+      "id": "CDNS-kw-17",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 31199,
+      "excerpt": "…vide usage rights for specific designs. Some customers enter into non-cancelable commitments, whereby the customer commits to a fixed dollar amount over a specified period of time that can be used to purchase from a list of products or services. In addition, for certain IP license agreements, we collect royalties as our customers ship their product that includes our IP to their customers. For a further description of our license agreements, our hardware sale or lease agreements, revenue recognition policies and results of operations, please refer to the discussion under “Critical Accounting Es…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 30999,
+        "end": 31599
+      }
+    },
+    {
+      "id": "CDNS-kw-18",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 33251,
+      "excerpt": "…ure design requirements. We offer engineering services to collaborate with our customers in the design of complex ICs and the implementation of key design capabilities, including low power design, IC packaging and board design, functional verification, digital implementation, analog/mixed-signal design and system-level design. The customers for these services primarily consist of semiconductor and systems companies developing products for the consumer, hyperscale computing, 5G communications, mobile, automotive, aerospace and defense, industrial and life science vertical sectors. These ICs ran…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 33051,
+        "end": 33651
+      }
+    },
+    {
+      "id": "CDNS-kw-19",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 34741,
+      "excerpt": "…tive offerings. Third-Party Programs and Initiatives In addition to our products, many customers use design tools that are provided by other companies, as well as design IP available from alternative suppliers. We support the use of third-party design products and design IP through our Cadence Connections ® program and through our participation in industry groups such as the Silicon Integration Initiative and Accellera System Initiative. We actively contribute to the development and deployment of industry standards. Product and Maintenance and Services Revenue Revenue, and revenue as a percent…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 34541,
+        "end": 35141
+      }
+    },
+    {
+      "id": "CDNS-kw-20",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 39757,
+      "excerpt": "…tments in R&D. Hardware Manufacturing and Software Distribution Our hardware, including all individual PCBs, custom ICs and FPGA-based prototyping components, is manufactured, assembled and tested by subcontractors before delivery to our customers. Software and documentation are primarily distributed to customers by secure electronic delivery. Proprietary Technology Our success depends, in part, upon our proprietary technology. We generally rely on patents, copyrights, trademarks and trade secret laws, licenses and restrictive agreements to establish and protect our proprietary rights in techn…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 39557,
+        "end": 40157
+      }
+    },
+    {
+      "id": "CDNS-Synopsys-0",
+      "ticker": "CDNS",
+      "vendor": "Synopsys",
+      "charOffset": 48994,
+      "excerpt": "…es on providing comprehensive, integrated solutions that address the growing complexity of semiconductor and systems design. Our competitors range from large, established providers to smaller, specialized firms, emerging companies, and internal design teams within major technology corporations. Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA, and a variety of other tool providers, electronics device manufacturers with in-house EDA capabilities, technical and computational software companies, electronics design and consulting firms, and IP companies. U.S.-based competitors include Keysight Tech…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 48674,
+        "end": 49314
+      }
+    },
+    {
+      "id": "CDNS-Ansys-0",
+      "ticker": "CDNS",
+      "vendor": "Ansys",
+      "charOffset": 49010,
+      "excerpt": "…comprehensive, integrated solutions that address the growing complexity of semiconductor and systems design. Our competitors range from large, established providers to smaller, specialized firms, emerging companies, and internal design teams within major technology corporations. Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA, and a variety of other tool providers, electronics device manufacturers with in-house EDA capabilities, technical and computational software companies, electronics design and consulting firms, and IP companies. U.S.-based competitors include Keysight Technologies, Inc.,…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 48690,
+        "end": 49389
+      }
+    },
+    {
+      "id": "CDNS-Synopsys-1",
+      "ticker": "CDNS",
+      "vendor": "Synopsys",
+      "charOffset": 49035,
+      "excerpt": "…solutions that address the growing complexity of semiconductor and systems design. Our competitors range from large, established providers to smaller, specialized firms, emerging companies, and internal design teams within major technology corporations. Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA, and a variety of other tool providers, electronics device manufacturers with in-house EDA capabilities, technical and computational software companies, electronics design and consulting firms, and IP companies. U.S.-based competitors include Keysight Technologies, Inc., Schrödinger, Inc., and CE…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 48716,
+        "end": 49355
+      }
+    },
+    {
+      "id": "CDNS-Siemens EDA-0",
+      "ticker": "CDNS",
+      "vendor": "Siemens EDA",
+      "charOffset": 49046,
+      "excerpt": "…that address the growing complexity of semiconductor and systems design. Our competitors range from large, established providers to smaller, specialized firms, emerging companies, and internal design teams within major technology corporations. Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA, and a variety of other tool providers, electronics device manufacturers with in-house EDA capabilities, technical and computational software companies, electronics design and consulting firms, and IP companies. U.S.-based competitors include Keysight Technologies, Inc., Schrödinger, Inc., and CEVA, Inc., w…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 48727,
+        "end": 49367
+      }
+    },
+    {
+      "id": "CDNS-Lam Research-0",
+      "ticker": "CDNS",
+      "vendor": "Lam Research",
+      "charOffset": 56252,
+      "excerpt": "…ice President, Research and Development from November 2013 to March 2017. Prior to joining Cadence, from May 2005 to March 2012, Dr. Devgan served as Corporate Vice President and General Manager of the Custom Design Business Unit at Magma Design Automation, Inc., an EDA company. Dr. Devgan also serves as a director of Lam Research Corporation. Dr. Devgan has a B.Tech. in electrical engineering from the Indian Institute of Technology, Delhi, and an M.S. and Ph.D. in electrical and computer engineering from Carnegie Mellon University. JOHN M. WALL has served as Senior Vice President and Chief Financial Officer of Cadence since October…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 55932,
+        "end": 56632
+      }
+    },
+    {
+      "id": "CDNS-Synopsys-2",
+      "ticker": "CDNS",
+      "vendor": "Synopsys",
+      "charOffset": 58150,
+      "excerpt": "…since May 2024. From 2005 to April 2024, Mr. Scannell held several positions at Cadence, including most recently as Corporate Vice President, Sales from June 2017 to April 2024. Prior to joining Cadence in 2005 through Cadence's acquisition of Verisity Ltd., Mr. Scannell served in key positions at Axis Systems, Inc., Synopsys, Inc. and Viewlogic Systems, Inc. Mr. Scannell has a B.S. in electrical engineering from Stevens Institute of Technology, an M.S. in electrical engineering from University of Southern California and an M.B.A. from Pepperdine University. 10 Table of Contents MARC TAXAY has served as Senior Vice President, Gener…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 57831,
+        "end": 58470
+      }
+    },
+    {
+      "id": "CDNS-Arm-2",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 61700,
+      "excerpt": "…d invest in companies or technologies, we may not realize the expected business or financial benefits and these acquisitions could prove difficult to integrate, disrupt our business, dilute stockholder value and adversely affect our operating results and the market value of our common stock. • We could suffer serious harm to our business because of the infringement or misappropriation of our IP rights by third parties. • Our success is highly dependent upon the legal protection of our proprietary technology, as well as software and other IP rights licensed to us by third parties, and we cannot assure that the precautions taken to pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 61380,
+        "end": 62020
+      }
+    },
+    {
+      "id": "CDNS-Arm-3",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 62239,
+      "excerpt": "…ther IP rights licensed to us by third parties, and we cannot assure that the precautions taken to protect our rights will be adequate or that we will continue to be able to adequately secure such IP rights from third parties. • We may not realize opportunities presented by AI and may incur reputational and financial harm and liability as a result of issues relating to the management and governance of our use of AI. • Cyberattacks that compromise the confidentiality, integrity or availability of our or our third-party providers’ information technology systems or confidential information could materially harm our reputation, business…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 61919,
+        "end": 62559
+      }
+    },
+    {
+      "id": "CDNS-Arm-4",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 62531,
+      "excerpt": "…reputational and financial harm and liability as a result of issues relating to the management and governance of our use of AI. • Cyberattacks that compromise the confidentiality, integrity or availability of our or our third-party providers’ information technology systems or confidential information could materially harm our reputation, business, financial condition and results of operations. • Any actual or perceived failure to comply with new or existing laws, regulations and other requirements relating to the privacy, security, processing and cross-border transfer of Personal Information (as defined below) could adversely affect…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 62211,
+        "end": 62911
+      }
+    },
+    {
+      "id": "CDNS-Arm-5",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 63743,
+      "excerpt": "…r financial condition. • The effect of foreign exchange rate fluctuations may adversely impact our revenue, expenses, cash flows and financial condition. • We depend upon our management team and qualified employees, and our failure to attract, train, motivate and retain them may make us less competitive and therefore harm our results of operations. • A significant portion of our cash is held and generated outside of the United States, and if our cash available in the United States is insufficient to meet our requirements in the United States, we may be required to raise cash in ways that could negatively affect our financial conditi…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 63423,
+        "end": 64063
+      }
+    },
+    {
+      "id": "CDNS-kw-21",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 64750,
+      "excerpt": "…fect on our future operating results. • Our business is subject to the risk of natural disasters, global climate change and other catastrophic events. 12 Table of Contents Risks Related to Customers, Suppliers and Industry Competition • Customer consolidation could affect our operating results. • Our failure to respond quickly to technological developments or customers’ increasing technological requirements and to continue to develop or acquire technological capabilities could make our products uncompetitive and obsolete and impede our ability to address the requirements in technology segments…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 64550,
+        "end": 65210
+      }
+    },
+    {
+      "id": "CDNS-kw-22",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 65837,
+      "excerpt": "…nd we may not be able to continue to compete successfully. • Our future revenue is dependent in part upon our installed customer base continuing to license or buy products and purchase services. • We depend on a single supplier or a limited number of suppliers for certain hardware components and contract manufacturers for production of our hardware products, making us vulnerable to supply disruption and price fluctuation. Tax, Regulatory and Litigation Risks • Our results could be adversely affected by an increase in our effective tax rate as a result of U.S. and foreign tax law changes, outco…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 65637,
+        "end": 66237
+      }
+    },
+    {
+      "id": "CDNS-kw-23",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 65856,
+      "excerpt": "…le to continue to compete successfully. • Our future revenue is dependent in part upon our installed customer base continuing to license or buy products and purchase services. • We depend on a single supplier or a limited number of suppliers for certain hardware components and contract manufacturers for production of our hardware products, making us vulnerable to supply disruption and price fluctuation. Tax, Regulatory and Litigation Risks • Our results could be adversely affected by an increase in our effective tax rate as a result of U.S. and foreign tax law changes, outcomes of current or f…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 65656,
+        "end": 66256
+      }
+    },
+    {
+      "id": "CDNS-kw-24",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 65888,
+      "excerpt": "…sfully. • Our future revenue is dependent in part upon our installed customer base continuing to license or buy products and purchase services. • We depend on a single supplier or a limited number of suppliers for certain hardware components and contract manufacturers for production of our hardware products, making us vulnerable to supply disruption and price fluctuation. Tax, Regulatory and Litigation Risks • Our results could be adversely affected by an increase in our effective tax rate as a result of U.S. and foreign tax law changes, outcomes of current or future tax examinations, or by ma…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 65688,
+        "end": 66288
+      }
+    },
+    {
+      "id": "CDNS-Arm-6",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 66590,
+      "excerpt": "…inations, or by material differences between our forecasted and actual effective tax rates. • Litigation, government investigations or regulatory proceedings could adversely affect our financial condition and operations. • Errors, defects or other issues with our products and services could expose us to liability and harm our business. • Our reported financial results may be adversely affected by changes in United States generally accepted accounting principles, and we may incur significant costs to adjust our accounting systems and processes to comply with significant changes. • If we become subject to unfair hiring claims, we coul…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 66271,
+        "end": 66971
+      }
+    },
+    {
+      "id": "CDNS-kw-25",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 71102,
+      "excerpt": "…ervices bookings, for which revenue is generally recognized over time. Revenue related to our hardware and IP products is inherently difficult to predict because sales of our hardware and IP products depend on the commencement of new projects for the design and development of complex ICs and systems by our customers, our customers’ willingness to expend capital to deploy our new and existing hardware or IP products in those projects and the availability of our new and existing hardware or IP products for delivery. Therefore, our hardware or IP sales may be delayed or may decrease if our custom…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 70902,
+        "end": 71502
+      }
+    },
+    {
+      "id": "CDNS-kw-26",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 71693,
+      "excerpt": "…ur customers delay or cancel projects because their spending is constrained or if there are problems or delays with the supply, delivery or installation of our hardware or IP products or our hardware suppliers. Moreover, the market environment for hardware and IP is highly competitive, and our customers may choose to purchase a competitor’s hardware or IP product based on cost, performance or other factors. These factors may result in lower revenue, which would have an adverse effect on our business, results of operations and cash flows. As we continue to expand our IP offerings, a portion of…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 71494,
+        "end": 72093
+      }
+    },
+    {
+      "id": "CDNS-kw-27",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 75263,
+      "excerpt": "…ss, financial condition and results of operations could be adversely affected. Additionally, as the EDA industry has matured, stronger competition has emerged from companies better able to compete as sole source vendors. This increased competition could cause our revenue growth rate to decline and exert downward pressure on our operating margins, which would have an adverse effect on our business, financial condition and results of operations. 14 Table of Contents Furthermore, the semiconductor and electronics systems industries have become increasingly complex and interconnected ecosystems. M…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 75063,
+        "end": 75663
+      }
+    },
+    {
+      "id": "CDNS-kw-28",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 75275,
+      "excerpt": "…l condition and results of operations could be adversely affected. Additionally, as the EDA industry has matured, stronger competition has emerged from companies better able to compete as sole source vendors. This increased competition could cause our revenue growth rate to decline and exert downward pressure on our operating margins, which would have an adverse effect on our business, financial condition and results of operations. 14 Table of Contents Furthermore, the semiconductor and electronics systems industries have become increasingly complex and interconnected ecosystems. Many of our c…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 75116,
+        "end": 75635
+      }
+    },
+    {
+      "id": "CDNS-kw-29",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 75847,
+      "excerpt": "…ed ecosystems. Many of our customers outsource the manufacturing of their semiconductor designs to foundries. Our customers also frequently incorporate third-party IP, whether provided by us or other vendors, into their designs to improve the efficiency of their design process. We work closely with major foundries to help ensure that our products are compatible with their manufacturing processes. Similarly, we work closely with other major providers of semiconductor IP, particularly microprocessor IP, to optimize our EDA products for use with their IP designs and to help ensure that their IP a…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 75647,
+        "end": 76247
+      }
+    },
+    {
+      "id": "CDNS-kw-30",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 76524,
+      "excerpt": "…the design of separate components on the same chip. If we fail to optimize our products for use with major foundries’ manufacturing processes or major IP providers’ products, or if our access to such foundry processes or third-party IP products is hampered, then our products and services may become less desirable to our customers, resulting in an adverse effect on our business, financial condition and results of operations. Uncertainty in the global economy and instability within international relations, including changes in governmental policies relating to technology, may negatively affect o…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 76324,
+        "end": 76924
+      }
+    },
+    {
+      "id": "CDNS-kw-31",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 78644,
+      "excerpt": "…antial volatility and disruption in global markets. Decreased bookings for our products and services, customer bankruptcies, consolidation among our customers, or problems or delays with our hardware suppliers or with the supply or delivery of our hardware products could also adversely affect our ability to grow our business or adversely affect our future revenue and financial results. There is inherent risk, based on the complex relationships between certain countries and within regions, that political, diplomatic or military events could result in trade disruptions and other disruptions in t…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 78444,
+        "end": 79044
+      }
+    },
+    {
+      "id": "CDNS-kw-32",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 79522,
+      "excerpt": "…ucts and services, have a negative impact on customer spending, make our products less competitive, or otherwise have a materially adverse impact on our future revenue and profits, our customers’ and suppliers’ businesses, and our results of operations. In addition, there is currently significant uncertainty in the global economy and the future relationship among the United States and various other countries, caused by increased geopolitical instabilities and changes in global trade policies. For example, the ongoing geopolitical and economic uncertainty between the United States and China, wh…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 79322,
+        "end": 79922
+      }
+    },
+    {
+      "id": "CDNS-Arm-7",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 80291,
+      "excerpt": "…ntial percentage of our revenue, the unknown impact of current and future U.S. and Chinese trade regulations, including tariffs and other trade restrictions, and geopolitical risks with respect to Taiwan, which serves as a central hub for the technology industry supply chain, could, directly or indirectly, materially harm our business, financial condition and results of operations. Similarly, many of our suppliers, vendors and other entities with whom we do business have strong ties to doing business in China and other countries impacted by recent tariffs and other trade restrictions. Their ability to supply materials to us, buy pro…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "range": {
+        "start": 79971,
+        "end": 80611
+      }
+    },
+    {
+      "id": "CDNS-kw-33",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 80379,
+      "excerpt": "…ch serves as a central hub for the technology industry supply chain, could, directly or indirectly, materially harm our business, financial condition and results of operations. Similarly, many of our suppliers, vendors and other entities with whom we do business have strong ties to doing business in China and other countries impacted by recent tariffs and other trade restrictions. Their ability to supply materials to us, buy products or services from us, or otherwise work with us is affected by their ability to do business in impacted countries. Moreover, these tariffs and any other trade rest…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 80179,
+        "end": 80779
+      }
+    },
+    {
+      "id": "CDNS-kw-34",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 80390,
+      "excerpt": "…s a central hub for the technology industry supply chain, could, directly or indirectly, materially harm our business, financial condition and results of operations. Similarly, many of our suppliers, vendors and other entities with whom we do business have strong ties to doing business in China and other countries impacted by recent tariffs and other trade restrictions. Their ability to supply materials to us, buy products or services from us, or otherwise work with us is affected by their ability to do business in impacted countries. Moreover, these tariffs and any other trade restrictions im…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 80190,
+        "end": 80790
+      }
+    },
+    {
+      "id": "CDNS-kw-35",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 80803,
+      "excerpt": "…buy products or services from us, or otherwise work with us is affected by their ability to do business in impacted countries. Moreover, these tariffs and any other trade restrictions imposed on our suppliers could adversely affect our business, financial condition and results of operations through reduced demand for our products and services, cancelled orders, supply chain disruptions, increased transaction costs and increased expenses. Our future business and financial results, including demand for our products and services, are subject to considerable uncertainties that could impact our st…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 80604,
+        "end": 81203
+      }
+    },
+    {
+      "id": "CDNS-kw-36",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 98408,
+      "excerpt": "…ures, internal control over financial reporting, cybersecurity, taxes and other compliance programs; • contingent payments in connection with acquisitions in the future; • unwillingness of customers, suppliers or other business partners of an acquired business to continue licensing or do business with us, or delays in such activities; • difficulties managing any strategic investment or collaboration that we do not control or for which we do not have sole decision-making authority; • impairment charges or other adverse accounting outcomes related to acquisitions or strategic investments; • the…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 98208,
+        "end": 98867
+      }
+    },
+    {
+      "id": "CDNS-kw-37",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 119491,
+      "excerpt": "…access or disclosure to our Confidential Information poses significant risk to our business as it could result in reputational and financial harm and further subject us to liability to our customers, suppliers, business partners and others. While to date no incidents have had a material impact to our operations or financial results, we cannot guarantee that material incidents will not occur in the future. Cyberattacks are expected to accelerate on a global basis in frequency and magnitude as threat actors are becoming increasingly sophisticated in using techniques and tools – including AI – th…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 119291,
+        "end": 119891
+      }
+    },
+    {
+      "id": "CDNS-kw-38",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 121468,
+      "excerpt": "…isuse of Confidential Information, loss of financial assets, business interruption, regulatory investigations, litigation and other liabilities and costs. Because we make extensive use of third-party suppliers and service providers, such as cloud services that support our internal and customer-facing operations, successful cyberattacks that disrupt or result in unauthorized access to third party providers’ IT Systems, including those that store our Confidential Information, can materially impact our operations and financial results. Moreover, hardware, software or applications we develop or pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 121268,
+        "end": 121868
+      }
+    },
+    {
+      "id": "CDNS-kw-39",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 122635,
+      "excerpt": "…and controls will be fully implemented, complied with or effective in protecting any systems or information. An actual or perceived breach of IT Systems or Confidential Information managed by us or a vendor could significantly impact our business through diminished market perception of the effectiveness of our security measures, legal or regulatory actions, substantial fines, penalties and required changes to our business practices, damage to our reputation or our business, loss of existing customers and our ability to obtain new customers (including government customers), significant restorat…",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "keyword",
+      "range": {
+        "start": 122435,
+        "end": 123035
+      }
+    },
+    {
+      "id": "dab86165222aa353",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 4766,
+      "excerpt": "d computing to deliver industry-leading electronic design, analysis, and verification products and solutions for semiconductors, which are embedded in many products and services that we use every day. System Innovation: Building on our Design Excellence foundation, this pillar applies our AI-driven computational expertise to multiphysics-based analysis of systems containing electronic devices, such as printed circuit boards (\"PCBs\"), advanced packaging technologies, and 3D-ICs. This enables cust",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 10879,
+        "end": 11379
+      }
+    },
+    {
+      "id": "30529e8d2eff859d",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 7587,
+      "excerpt": "ignificant investments in Research and Development (“R&D”). Our business is also propelled by the differentiation and measurable value our products and solutions deliver to our customers and partners. As innovation accelerates, our products and solutions address critical challenges in electronic design, including power efficiency, performance, chip area, and cost. Our customers rely on our solutions to provide superior quality of results, enhanced engineering productivity, and unmatched reliabil",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 13700,
+        "end": 14200
+      }
+    },
+    {
+      "id": "0fae52edb63c82f1",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 8399,
+      "excerpt": "ve growth opportunities. Product Categories Engineers depend on our solutions to navigate every stage of the electronic product design process, from initial concept to implementation and verification. Advanced AI technologies are integrated into our design platforms to empower users to create highly accurate digital twins—virtual models that replicate functionality, manufacturability, and compliance with industry standards. By leveraging sophisticated simulations, engineers can predict real-worl",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 14512,
+        "end": 15012
+      }
+    },
+    {
+      "id": "233940a11e04cd42",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 9377,
+      "excerpt": "e EDA, Semiconductor IP, and System Design and Analysis (“SD&A”). Core EDA encompasses the software, hardware, and services essential for the design and verification of a wide range of semiconductors. Our Semiconductor IP portfolio includes silicon subsystems, software, and related services that accelerate the semiconductor design process. The SD&A category provides solutions and services that enable the design and verification of complete electronic systems, from PCBs to complex system assembli",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 15490,
+        "end": 15990
+      }
+    },
+    {
+      "id": "3523ea0359c77c13",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 10249,
+      "excerpt": "e. We work closely with leading semiconductor ecosystem partners to develop foundry process design kits (“PDKs”) to ensure our core EDA products and solutions meet manufacturing sign-off requirements. To address increasing design and manufacturing complexity, we integrate machine learning, generative AI and native cloud scalability in our solutions, enhancing design quality and engineering productivity. Custom IC Design and Simulation Virtuoso is our flagship platform used by engineers to design",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 16362,
+        "end": 16922
+      }
+    },
+    {
+      "id": "be5d1c88fa14553b",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 13874,
+      "excerpt": "roductivity. With our acquisition of VLAB Works in fiscal 2025, we expanded our automotive electronic software and hardware development capabilities to include advanced virtual prototyping technology. VLAB Works’ industry-leading solutions include a high-performance virtual development environment (“VDE”) and an extensive catalog of virtual model components and integrated platforms. These solutions, along with the rest of VLAB Works’ portfolio, address embedded software development challenges ac",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 19987,
+        "end": 20487
+      }
+    },
+    {
+      "id": "045d66b0a71184b0",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 14802,
+      "excerpt": "ets. These IP solutions are embedded in silicon chips deployed across high-volume markets, including automotive, hyperscale, mobile computing, and consumer products such as mobile phones and AI chips. Our offerings include controllers and physical interfaces widely used in computing, networking, and embedded systems. The portfolio spans PCI Express, Universal Accelerator Link, Compute Express Link, multiple memory interfaces such as High Bandwidth Memory and Graphics Double Data Rate, and other",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 20915,
+        "end": 21474
+      }
+    },
+    {
+      "id": "e1310bca736d0c72",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 15666,
+      "excerpt": "omplementing these offerings, our Verification IP (“VIP”) portfolio enables system-level validation and integrates seamlessly with our Xcelium™ simulator and Palladium® Enterprise Emulation solutions. In fiscal 2025, we expanded our design IP portfolio with the acquisition of the Arm Artisan foundation IP business, adding standard cell libraries, memory compilers, and general-purpose I/Os (“GPIOs”) optimized for advanced process nodes at leading foundries. This acquisition complements our existi",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 21779,
+        "end": 22279
+      }
+    },
+    {
+      "id": "8b863e98ec87090b",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 16515,
+      "excerpt": "t, power, and performance. Also in fiscal 2025, we strengthened our embedded security capabilities with the acquisition of Secure-IC, a leader in embedded security IP, solutions, and evaluation tools. By combining Secure-IC’s expertise in cybersecurity with Cadence’s decades of experience in IP and subsystem design, we are able to deliver comprehensive system solutions that accelerate customers’ time to market and are designed to meet stringent security and regulatory requirements. These solutio",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 22628,
+        "end": 23128
+      }
+    },
+    {
+      "id": "85d9465a536ff360",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 17407,
+      "excerpt": "iphysics simulation—including thermal, electromagnetic, and signal/power integrity—along with computational fluid dynamics to address growing complexity in heterogeneous integration and 3D-IC designs. The core SD&A products include the Allegro X and OrCAD X platforms for PCB and advanced packaging, Sigrity X for signal and power integrity, AWR for RF design, Fidelity™ for computational fluid dynamics (“CFD”) and Celsius for thermal and airflow analysis, Clarity™ 3D Solver for electromagnetic and",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 23520,
+        "end": 24080
+      }
+    },
+    {
+      "id": "918c2f4d5237fae8",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 18294,
+      "excerpt": "ng analysis earlier and at multiple stages during the design process, our SD&A solution helps customers reduce risk, ensure performance and reliability, and bring innovative products to market faster. These solutions also leverage agentic AI-driven optimization and cloud-native scalability to accelerate design and analysis and improve designer productivity. The capabilities in the Allegro® System Design Platform include PCB design and implementation, IC package and system-in-package design, sign",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 24407,
+        "end": 24907
+      }
+    },
+    {
+      "id": "d78b2e47d70287e0",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 19207,
+      "excerpt": "keted worldwide through a network of resellers. Allegro X AI™ is our generative AI solution designed to provide significant cycle-time compression for PCB design, enhancing an engineer’s productivity. The speed and proximity of signals on silicon, through packages to boards, and through connectors and cables, exposes these communications to various kinds of interference, generates heat, and emits electromagnetic radiation. Careful analysis is required for these systems to work as designed under",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 25320,
+        "end": 25879
+      }
+    },
+    {
+      "id": "d0f7c020f91626cc",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 21915,
+      "excerpt": "d up complex simulations in fields like semiconductor design, aerospace and defense, and drug discovery. For 3D-IC and multi-chiplet designs, our customers use the Cadence ® Integrity™ 3D-IC Platform. Built on the Innovus solution, Integrity allows system-level designers to plan, implement, and analyze stacked die systems for a variety of packaging styles (2.5D or 3D). Integrity 3D-IC is the industry’s first integrated system and SoC-level solution that enables system analysis, including co-desi",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 28028,
+        "end": 28528
+      }
+    },
+    {
+      "id": "e8807a9f0e0e9cc5",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 22770,
+      "excerpt": "s, including MSC Nastran for structural analysis and Adams for multibody dynamics simulation, that are widely used in aerospace and defense, automotive, robotics, and emerging fields like physical AI. With this addition, we will serve a broader customer base, including leading aerospace and defense and automotive OEMs and Tier 1 suppliers, while addressing critical design challenges in electric vehicles, autonomous systems, and advanced materials. Once complete, our acquisition of these solution",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 28883,
+        "end": 29383
+      }
+    },
+    {
+      "id": "20eb56c5e30ae46c",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 24604,
+      "excerpt": "tual licenses generally are net 30 days. Our hardware products are either sold or leased to our customers. Our emulation hardware can also be accessed remotely via a Cadence-managed cloud arrangement. We generally license our design IP under nonexclusive license agreements that provide usage rights for specific designs. Some customers enter into non-cancelable commitments, whereby the customer commits to a fixed dollar amount over a specified period of time that can be used to purchase from a li",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 30717,
+        "end": 31217
+      }
+    },
+    {
+      "id": "33a9911b34921084",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 26471,
+      "excerpt": "formed in conjunction with the license, sale or lease of our products. As necessary, specialized design services engineers are assigned to internal R&D projects associated with our design IP business. 5 Table of Contents As part of our services offerings, we design advanced ICs, develop custom IP and help customers address design challenges. This enables us to target and accelerate the development of new software technology and products to satisfy current and future design requirements. We offer",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 32584,
+        "end": 33144
+      }
+    },
+    {
+      "id": "1d82344bc944909a",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 28243,
+      "excerpt": "to enable improved productivity of our customers’ engineering teams. Depending on the customers’ projects and needs, we work with customers using outsourced, consultative and collaborative offerings. Third-Party Programs and Initiatives In addition to our products, many customers use design tools that are provided by other companies, as well as design IP available from alternative suppliers. We support the use of third-party design products and design IP through our Cadence Connections ® program",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 34357,
+        "end": 34917
+      }
+    },
+    {
+      "id": "633375fb8dc1b8b3",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 32750,
+      "excerpt": "pends on our ability to innovate, commercialize newly developed solutions and enhance and maintain our current products. The primary areas of our R&D align with our product categories discussed above. We must continuously adapt our products to solve new or increased physics challenges that arise with each successive process node and address the increase in complexity that is introduced by the resulting much larger designs. We must also keep pace with our customers’ technical developments, satisf",
+      "sectionId": "item_1_business_this_annual_report_and_t",
+      "sectionHeader": "Item 1. Business This Annual Report and the documents incorporated by reference in this A",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 38863,
+        "end": 39363
+      }
+    },
+    {
+      "id": "cf3dcc70e992754a",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 4536,
+      "excerpt": "efits we anticipate, possibly having a negative effect on our future operating results. • Our business is subject to the risk of natural disasters, global climate change and other catastrophic events. 12 Table of Contents Risks Related to Customers, Suppliers and Industry Competition • Customer consolidation could affect our operating results. • Our failure to respond quickly to technological developments or customers’ increasing technological requirements and to continue to develop or acquire t",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 64500,
+        "end": 65000
+      }
+    },
+    {
+      "id": "33ae40089e85986d",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 5531,
+      "excerpt": "t delays, customer bankruptcies and defaults, modifications or non-renewals of licenses. • The competition in our industries is substantial, and we may not be able to continue to compete successfully. • Our future revenue is dependent in part upon our installed customer base continuing to license or buy products and purchase services. • We depend on a single supplier or a limited number of suppliers for certain hardware components and contract manufacturers for production of our hardware product",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 65495,
+        "end": 65995
+      }
+    },
+    {
+      "id": "f9fa6a55bbf53d86",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 10256,
+      "excerpt": "which may make it difficult for us to rapidly increase our revenue in future fiscal periods and means that a decrease in orders in a given period would negatively affect our revenue in future periods. A substantial portion of the product revenue related to our hardware and IP, and to a lesser extent certain software, is recognized upon delivery, and our forecasted revenue results are based, in part, on our expectations of these products to be delivered in a particular quarter. Therefore, changes",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 70220,
+        "end": 70780
+      }
+    },
+    {
+      "id": "b97c803a4c1a300c",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 11257,
+      "excerpt": "our customers’ willingness to expend capital to deploy our new and existing hardware or IP products in those projects and the availability of our new and existing hardware or IP products for delivery. Therefore, our hardware or IP sales may be delayed or may decrease if our customers delay or cancel projects because their spending is constrained or if there are problems or delays with the supply, delivery or installation of our hardware or IP products or our hardware suppliers. Moreover, the mar",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 71221,
+        "end": 71721
+      }
+    },
+    {
+      "id": "0bfc0ec0521177d9",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 14744,
+      "excerpt": ", some customers have chosen to focus on one discrete phase of the design process or opt for less advanced, but less risky, manufacturing processes that may not require the most advanced EDA products. If growth in the semiconductor and electronics systems industries slows or stalls, then demand for our products and services could decrease and our business, financial condition and results of operations could be adversely affected. Additionally, as the EDA industry has matured, stronger competitio",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 74708,
+        "end": 75208
+      }
+    },
+    {
+      "id": "3f9dd34990b787d1",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 15592,
+      "excerpt": "ductor and electronics systems industries have become increasingly complex and interconnected ecosystems. Many of our customers outsource the manufacturing of their semiconductor designs to foundries. Our customers also frequently incorporate third-party IP, whether provided by us or other vendors, into their designs to improve the efficiency of their design process. We work closely with major foundries to help ensure that our products are compatible with their manufacturing processes. Similarly",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 75556,
+        "end": 76056
+      }
+    },
+    {
+      "id": "6a2cc451fa125248",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 18331,
+      "excerpt": "nary measures by governments and businesses have also had, and could in the future have, the effect of curtailing economic activity and causing substantial volatility and disruption in global markets. Decreased bookings for our products and services, customer bankruptcies, consolidation among our customers, or problems or delays with our hardware suppliers or with the supply or delivery of our hardware products could also adversely affect our ability to grow our business or adversely affect our",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 78295,
+        "end": 78854
+      }
+    },
+    {
+      "id": "6282568d79e88766",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 18936,
+      "excerpt": "certain countries and within regions, that political, diplomatic or military events could result in trade disruptions and other disruptions in the markets and industries we serve and our supply chain. A significant disruption in any area where we or our customers operate or do business could reduce customer demand, make our products and services more expensive or unavailable for customers, increase the cost of our products and services, have a negative impact on customer spending, make our produ",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 78900,
+        "end": 79400
+      }
+    },
+    {
+      "id": "6d4d6ffe21aae5f8",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 19885,
+      "excerpt": "olitical and economic uncertainty between the United States and China, where we conduct business and have derived a substantial percentage of our revenue, the unknown impact of current and future U.S. and Chinese trade regulations, including tariffs and other trade restrictions, and geopolitical risks with respect to Taiwan, which serves as a central hub for the technology industry supply chain, could, directly or indirectly, materially harm our business, financial condition and results of opera",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 79849,
+        "end": 80349
+      }
+    },
+    {
+      "id": "f76921f84e6c1dc2",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 38036,
+      "excerpt": "cal rates; • unanticipated costs, assumed liabilities or challenges in enforcing consistent controls over the acquired business, including those related to an acquired company's disclosure controls and procedures, internal control over financial reporting, cybersecurity, taxes and other compliance programs; • contingent payments in connection with acquisitions in the future; • unwillingness of customers, suppliers or other business partners of an acquired business to continue licensing or do bus",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 98000,
+        "end": 98500
+      }
+    },
+    {
+      "id": "4a54a1d0d90e2ea1",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 58628,
+      "excerpt": "s to generative AI, and new discoveries in the field of cryptography increase the risk of significant compromises or breaches of our IT Systems or security measures implemented to protect our systems. We and certain of our third-party service providers have experienced cyberattacks and other security incidents in the past and will continue to experience varying degrees of attacks and incidents in the future. Any such incidents could compromise our or our providers' IT Systems, which could cause",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 118592,
+        "end": 119151
+      }
+    },
+    {
+      "id": "84a601b9c6b8edbb",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 61258,
+      "excerpt": "lt, we could be exposed to a risk of loss or misuse of Confidential Information, loss of financial assets, business interruption, regulatory investigations, litigation and other liabilities and costs. Because we make extensive use of third-party suppliers and service providers, such as cloud services that support our internal and customer-facing operations, successful cyberattacks that disrupt or result in unauthorized access to third party providers’ IT Systems, including those that store our C",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 121222,
+        "end": 121722
+      }
+    },
+    {
+      "id": "df27d15b3a879a24",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 62166,
+      "excerpt": "asures, and it takes time to align their security practices to meet our information security policies, procedures and controls, which exposes us to increased cybersecurity and other integration risks. There can be no assurance that our cybersecurity risk management strategy, program, policies, processes and controls will be fully implemented, complied with or effective in protecting any systems or information. An actual or perceived breach of IT Systems or Confidential Information managed by us",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 122130,
+        "end": 122689
+      }
+    },
+    {
+      "id": "ac752393d0559d9d",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 66860,
+      "excerpt": "ny disruption in the operations of these third-party providers, limitations on capacity or interference with our use could adversely affect our business, financial condition and results of operations. We outsource substantially all of the infrastructure relating to our cloud solutions to third-party hosting services. Customers of our cloud-based products need to be able to access our platform at any time, without interruption or degradation of performance, and we provide them with service-level",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 126824,
+        "end": 127383
+      }
+    },
+    {
+      "id": "7c9e0b2d5e084a8c",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 72015,
+      "excerpt": "ingly doing business in heavily-regulated industries, such as automotive, consumer, mobile, aerospace and defense, data centers, hyperscale computing, industrial automation, life sciences and biotech. Current and prospective customers in those industries may be required to comply with more stringent regulations to use our products and services. In addition, regulatory agencies may impose requirements that we may not meet. Customers in these heavily-regulated industries often have a right to cond",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 131979,
+        "end": 132479
+      }
+    },
+    {
+      "id": "2d1d9fd60b32b564",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 73835,
+      "excerpt": "r difficulty in collecting accounts receivable; • difficulties in managing foreign operations; • political and economic conditions, such as economic downturns in the regions in which we do business, as well as macroeconomic policy and operational impacts of political instability and armed conflicts, including military service by our international employees; • changes in legal and regulatory requirements; • differing employment practices and labor issues or inability to continue to offer competit",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 133799,
+        "end": 134299
+      }
+    },
+    {
+      "id": "8dcd09113bb21f5f",
+      "ticker": "CDNS",
+      "vendor": "Arm",
+      "charOffset": 80037,
+      "excerpt": "o changing conditions and to establish new relationships with the relevant representatives. Additionally, hiring and training of new employees may be adversely impacted by global economic uncertainty. From time to time, there may be changes in our management team resulting from the hiring and departure of executive officers, and as a result, we may experience disruption to our business that may harm our operating results and our relationships with our employees, customers and suppliers may be ad",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 140001,
+        "end": 140501
+      }
+    },
+    {
+      "id": "ba0ea4353ae76395",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 86294,
+      "excerpt": "alifornia, a region known to experience seismic activity and wildfires. Our offices around the world may also be adversely impacted by natural disasters, including those intensified by climate change. Our offices, and those of our customers and suppliers, can be disrupted by droughts, extreme temperatures, fires, flooding and other climate change-related risks, as well as earthquakes, actions by utility providers, cybersecurity attacks, terrorist attacks, telecommunication failures and other cat",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 146258,
+        "end": 146758
+      }
+    },
+    {
+      "id": "742470bd5c7d49c0",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 87202,
+      "excerpt": "als take certain actions (e.g., shut off power to our facilities or impose travel restrictions), our operations may be interrupted, which could adversely impact our business and results of operations. These risks may be further increased if the disaster recovery plans for us and our suppliers prove to be inadequate. If a catastrophic event impacts a significant number of customers, resulting in decreased demand for their and our products, or our ability to provide services and maintenance, our b",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 147166,
+        "end": 147666
+      }
+    },
+    {
+      "id": "b2b236ab0b6f8c5d",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 90657,
+      "excerpt": "nanometer ranges; • with the availability of seemingly endless gate capacity, there is an increase in design reuse, or the combining of off-the-shelf design IP with custom logic to create ICs or SoCs. The unavailability of a broad range of high-quality design IP (including our own) that can be reliably incorporated into a customer’s design with our software products and services could lead to reduced demand for our products and services; • adoption of cloud computing technologies with accompanyi",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 150621,
+        "end": 151121
+      }
+    },
+    {
+      "id": "583998258ae6539f",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 97106,
+      "excerpt": "other companies (including through strategic alliances) to deliver more comprehensive or different offerings than they could individually; • our entry into new product categories or technology vertical sectors, including those in which success depends on absolute or relative scale; • decisions by customers to perform engineering services or IP development internally, rather than purchase these services from outside vendors due to budget constraints or excess engineering capacity; • actions by re",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 157070,
+        "end": 157570
+      }
+    },
+    {
+      "id": "3f62be769354b6a0",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 98008,
+      "excerpt": "installed customer base continuing to license or buy products and purchase services. Our installed customer base has traditionally generated additional new license, services and maintenance revenues. In future periods, customers may not necessarily license or buy additional products or contract for additional services or maintenance. Our customers, many of which are large semiconductor and systems companies, often have significant bargaining power in negotiations with us. We depend on a single s",
+      "sectionId": "item_1a_risk_factors_our_operations_and_",
+      "sectionHeader": "Item 1A. Risk Factors Our operations and financial results are subject to various risks an",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 157973,
+        "end": 158473
+      }
+    },
+    {
+      "id": "0b5d9d327aef3641",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Cybersecurity Risk Management and Strategy We have developed and implemented a cybersecurity risk management program intended to protect the confidentiality, integrity and availability of our critical systems and information, including our customers’, vendors’, partners’ and employees’ data, including personal information. Our cybersecurity risk management program is guided by frameworks and standards promulgated by the EU, National",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Cybersecurity Risk Managem",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 192751,
+        "end": 193311
+      }
+    },
+    {
+      "id": "3c2c2aad6429ac51",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 2507,
+      "excerpt": "• implementation of new hire and annual data privacy and cybersecurity training of employees, including senior management, and cybersecurity governance training for our Board of Directors; • a cybersecurity insurance policy to cover certain types of costs and losses from cybersecurity incidents; and • a third-party risk management process, including risk assessment and risk rating (using common vulnerability scoring system or similar methodologies based on industry practices), for certain servic",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Cybersecurity Risk Managem",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 195259,
+        "end": 195759
+      }
+    },
+    {
+      "id": "ca1d35738204ae2c",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 4. Mine Safety Disclosures Not applicable. 34 Table of Contents PART II. Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Our common stock is traded on the Nasdaq Global Select Market under the symbol CDNS. As of January 31, 2026, we had 294 registered stockholders. Because many shares of our common stock are held by brokers and other institutions on behalf of stockholders, we are unable to estimate the total number of stoc",
+      "sectionId": "item_4_mine_safety_disclosures_not_appli",
+      "sectionHeader": "Item 4. Mine Safety Disclosures Not applicable. 34 Table of Contents PART II. Item 5. Mar",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 201159,
+        "end": 201659
+      }
+    },
+    {
+      "id": "b9136e338ce8086a",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 10760,
+      "excerpt": "IP, selling or leasing our hardware products, providing maintenance for our software, hardware and IP, providing engineering and cloud services and earning royalties generated from the use of our IP. The timing of our revenue is significantly affected by the mix of software, hardware and IP products generating revenue in any given period and whether the revenue is recognized over time or at a point in time, upon completion of delivery. Recurring revenue includes revenue recognized over time from",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 216928,
+        "end": 217488
+      }
+    },
+    {
+      "id": "1d63c1aff845bf79",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 11624,
+      "excerpt": "term of other arrangements with non-cancelable commitments, whereby the customer commits to a fixed dollar amount over a specified period of time that can be used to purchase from a list of products. Arrangements that require future decisions on the performance obligations to be delivered do not meet the definition of a revenue contract until the customer executes a separate selection form to identify the products and services that they are purchasing. Each separate selection form under the arra",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 217792,
+        "end": 218292
+      }
+    },
+    {
+      "id": "218dfe3e0979215e",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 17080,
+      "excerpt": "d maintenance includes costs associated with the sale and lease of our hardware products and licensing of our software and IP products, certain employee salary and benefits and other employee-related costs, cost of our customer support services, amortization of technology-related acquired intangibles, costs of technical documentation and royalties payable to third-party vendors. Cost of product and maintenance depends primarily on our hardware product sales in any given period, but is also affec",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 223247,
+        "end": 223747
+      }
+    },
+    {
+      "id": "1d43d0bba4e92cd2",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 17774,
+      "excerpt": "P, and sell our products that include such acquired or licensed assets, technology or IP. A summary of cost of product and maintenance for fiscal 2025 and 2024 is as follows: Change 2025 2024 2025 vs. 2024 (In millions, except percentages) Product and maintenance-related costs $ 453.3 $ 376.5 $ 76.8 20 % Amortization of acquired intangibles 65.4 60.1 5.3 9 % Total cost of product and maintenance $ 518.7 $ 436.6 $ 82.1 19 % Product and maintenance-related costs increased during fiscal 2025, when",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 223941,
+        "end": 224500
+      }
+    },
+    {
+      "id": "adda50eab04eb7b2",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 18560,
+      "excerpt": "s include components, assembly, testing, applicable reserves and overhead. These costs make our cost of hardware products higher, as a percentage of revenue, than our cost of software and IP products. Hardware product costs increased during fiscal 2025, as compared to fiscal 2024, primarily due to increased installations of hardware, partially offset by a decrease in charges for excess and obsolete inventory related to previous generations of our hardware products. Amortization of acquired intan",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 224727,
+        "end": 225227
+      }
+    },
+    {
+      "id": "59494a6ee39735dc",
+      "ticker": "CDNS",
+      "vendor": null,
+      "charOffset": 2683,
+      "excerpt": "exchange contracts based on estimated future asset and liability exposures, and the effectiveness of our hedging program depends on our ability to estimate these future asset and liability exposures. Recognized gains and losses with respect to our current hedging activities will ultimately depend on how accurately we are able to match the amount of foreign currency forward exchange contracts with actual underlying asset and liability exposures. The following table provides information about our",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk Foreign Currency Risk",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 265763,
+        "end": 266322
+      }
+    },
+    {
+      "id": "7f77d701ab1a811e",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 42784,
+      "excerpt": "e obligations. For contracts with multiple performance obligations, Cadence allocates the transaction price of the contract to each performance obligation, generally on a relative basis using its SSP. Cadence generates revenue from contracts with customers and applies judgment in identifying and evaluating any terms and conditions in contracts which may impact revenue recognition. Revenue is recognized net of any taxes collected from customers that are subsequently remitted to governmental autho",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 326708,
+        "end": 327208
+      }
+    },
+    {
+      "id": "777501c9f99d5a4a",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 56346,
+      "excerpt": "revenue includes revenue recognized over time from certain of Cadence’s software licensing arrangements, services, royalties, maintenance on IP licenses and hardware, and operating leases of hardware. Other recurring revenue includes revenue recognized at a point in time for certain short-term software arrangements that are typically renewed at least annually and revenue recognized at varying points in time over the term of other arrangements with non-cancelable commitments, whereby the customer",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 340270,
+        "end": 340830
+      }
+    },
+    {
+      "id": "f19c6bcfbe5c44c8",
+      "ticker": "CDNS",
+      "vendor": "Cadence, Arm",
+      "charOffset": 80246,
+      "excerpt": "up to one year from the acquisition date). The allocation of purchase consideration may change materially as additional information about conditions existing at the acquisition date becomes available. Acquisition of Arm Artisan Foundation IP On August 26, 2025, Cadence acquired the Artisan foundation IP business from Arm Limited. Cadence paid aggregate purchase consideration of $ 128.5 million. The acquisition of Artisan foundation IP is intended to accelerate Cadence’s Intelligent System Design",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 364170,
+        "end": 364670
+      }
+    },
+    {
+      "id": "0251736b41f445f8",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 88410,
+      "excerpt": "of design engineering, embedded software and system-level solutions. The aggregate cash consideration for Cadence’s acquisition of Invecas, net of cash acquired of $ 23.8 million, was $ 71.2 million. The acquisition adds a skilled system design engineering team to Cadence, with expertise in providing customers with custom solutions across chip design, product engineering, advanced packaging and embedded software. In connection with the acquisition of Invecas, Cadence paid an additional amount to",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 372335,
+        "end": 372895
+      }
+    },
+    {
+      "id": "400c50d2036c84ce",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 90032,
+      "excerpt": "with Cadence’s acquisition of Invecas include agreements and relationships of $ 15.0 million and tradenames of $ 0.5 million. These assets will be amortized over a weighted average life of 6.8 years. Other 2024 Acquisitions During fiscal 2024, Cadence completed two other business combinations for aggregate cash consideration of $ 28.3 million, net of cash acquired. The total purchase consideration was allocated to assets acquired and liabilities assumed based on their respective estimated fair v",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 373957,
+        "end": 374457
+      }
+    },
+    {
+      "id": "5b90ac2fc0c4ba2f",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 90991,
+      "excerpt": ", Cadence acquired the serializer/deserializer (“SerDes”) and memory interface physical layer (“Memory”) IP business from Rambus Inc. (“Rambus”) for an aggregate cash consideration of $ 108.6 million. Memory and SerDes IP design and integration continues to be integral to the design of artificial intelligence, data center and hyperscale applications, CPU architectures and networking devices. The addition of the Rambus IP and seasoned team accelerates Cadence’s ISD strategy and strengthens Cadenc",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 374915,
+        "end": 375415
+      }
+    },
+    {
+      "id": "a8c8768b924a091b",
+      "ticker": "CDNS",
+      "vendor": "Cadence",
+      "charOffset": 91971,
+      "excerpt": "on $ 108,584 The recorded goodwill is attributed to intangible assets that do not qualify for separate recognition, including the acquired assembled workforce, and will be deductible for tax purposes. Definite-lived intangible assets acquired with Cadence’s acquisition of the SerDes and Memory business from Rambus were as follows: Fair Value Weighted Average Amortization Period (In thousands) (in years) Existing technology $ 16,700 5.0 years Agreements and relationships 9,300 7.0 years Total acq",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-19",
+      "type": "chunk",
+      "range": {
+        "start": 375895,
+        "end": 376395
+      }
+    }
+  ]
+}

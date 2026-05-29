@@ -1,0 +1,57 @@
+{
+  "ticker": "AMD",
+  "name": "ADVANCED MICRO DEVICES INC",
+  "cik": "0000002488",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-04",
+    "accessionNumber": "0000002488-26-000018",
+    "primaryDocument": "amd-20251227.htm",
+    "reportDate": "2025-12-27"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 34639000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 8091000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 17152000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 76926000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 5329000000,
+      "end": "2017-12-30",
+      "filed": "2018-02-27",
+      "form": "10-K"
+    }
+  },
+  "textLength": 392109,
+  "exportedAt": "2026-05-29T05:37:46.485Z",
+  "logoUrl": "/logos/AMD.svg",
+  "logoPrimaryUrl": "/logos/AMD.svg",
+  "logoFallbackUrl": "/logos/AMD.png",
+  "localUrls": {
+    "text": "/sec/AMD/filing.txt",
+    "metadata": "/sec/AMD/metadata.json",
+    "sections": "/sec/AMD/sections.json",
+    "evidence": "/sec/AMD/evidence.json",
+    "display": "/sec/AMD/display.json"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ticker": "GFS",
+  "cik": "0001709048",
+  "name": "GLOBALFOUNDRIES Inc.",
+  "scrapedAt": "2026-05-29T04:56:01.836Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "ResearchAndDevelopmentExpense": {
+      "value": 518000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "20-F"
+    },
+    "GrossProfit": {
+      "value": 1690000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "20-F"
+    },
+    "Assets": {
+      "value": 17141000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "20-F"
+    },
+    "Revenue": {
+      "value": 6791000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "20-F"
+    },
+    "RevenueFromContractsWithCustomers": {
+      "value": 6791000000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "20-F"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 6791000000,
+  "filing": {
+    "form": "20-F",
+    "filingDate": "2026-02-27",
+    "accessionNumber": "0001709048-26-000022",
+    "primaryDocument": "gfs-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1709048/000170904826000022/gfs-20251231.htm",
+  "htmlLength": 3366613
+}

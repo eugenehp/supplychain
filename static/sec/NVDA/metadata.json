@@ -1,0 +1,63 @@
+{
+  "ticker": "NVDA",
+  "name": "NVIDIA CORP",
+  "cik": "0001045810",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-25",
+    "accessionNumber": "0001045810-26-000021",
+    "primaryDocument": "nvda-20260125.htm",
+    "reportDate": "2026-01-25"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+  "facts": {
+    "Revenues": {
+      "value": 215938000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 26914000000,
+      "end": "2022-01-30",
+      "filed": "2022-03-18",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 18497000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 62475000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 153463000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 206803000000,
+      "end": "2026-01-25",
+      "filed": "2026-02-25",
+      "form": "10-K"
+    }
+  },
+  "textLength": 340242,
+  "exportedAt": "2026-05-29T05:38:08.137Z",
+  "logoUrl": "/logos/NVDA.svg",
+  "logoPrimaryUrl": "/logos/NVDA.svg",
+  "logoFallbackUrl": "/logos/NVDA.png",
+  "localUrls": {
+    "text": "/sec/NVDA/filing.txt",
+    "metadata": "/sec/NVDA/metadata.json",
+    "sections": "/sec/NVDA/sections.json",
+    "evidence": "/sec/NVDA/evidence.json",
+    "display": "/sec/NVDA/display.json"
+  }
+}

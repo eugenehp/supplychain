@@ -1,0 +1,172 @@
+[
+  {
+    "id": "item_3",
+    "item": "3",
+    "title": "Key Information",
+    "header": "Item 3. Key Information",
+    "charStart": 15706,
+    "charEnd": 17359,
+    "length": 1653,
+    "type": "item"
+  },
+  {
+    "id": "item_7",
+    "item": "7",
+    "title": "Major Shareholders and Related Party Transactions",
+    "header": "Item 7. Major Shareholders and Related Party Transactions",
+    "charStart": 240204,
+    "charEnd": 241362,
+    "length": 1158,
+    "type": "item"
+  },
+  {
+    "id": "item_5",
+    "item": "5",
+    "title": "Operating and Financial Review and Prospects",
+    "header": "Item 5. Operating and Financial Review and Prospects",
+    "charStart": 249446,
+    "charEnd": 286588,
+    "length": 37142,
+    "type": "item"
+  },
+  {
+    "id": "item_1a",
+    "item": "1A",
+    "title": "Risk Factors",
+    "header": "Item 1A. Risk Factors",
+    "charStart": 423847,
+    "charEnd": 479325,
+    "length": 55478,
+    "type": "item"
+  },
+  {
+    "id": "item_16k",
+    "item": "16K",
+    "title": "Cybersecurity",
+    "header": "Item 16K. Cybersecurity",
+    "charStart": 630431,
+    "charEnd": 695189,
+    "length": 64758,
+    "type": "item"
+  },
+  {
+    "id": "item_6",
+    "item": "6",
+    "title": "Directors, Senior Management and Employees",
+    "header": "Item 6. Directors, Senior Management and Employees",
+    "charStart": 837411,
+    "charEnd": 873563,
+    "length": 36152,
+    "type": "item"
+  },
+  {
+    "id": "part_ii",
+    "item": "II",
+    "title": "Part II",
+    "header": "Part II",
+    "charStart": 873609,
+    "charEnd": 874702,
+    "length": 1093,
+    "type": "part"
+  },
+  {
+    "id": "item_9",
+    "item": "9",
+    "title": "The Offer and Listing",
+    "header": "Item 9. The Offer and Listing",
+    "charStart": 899663,
+    "charEnd": 901400,
+    "length": 1737,
+    "type": "item"
+  },
+  {
+    "id": "item_4",
+    "item": "4",
+    "title": "Information on the Company",
+    "header": "Item 4. Information on the Company",
+    "charStart": 933337,
+    "charEnd": 958523,
+    "length": 25186,
+    "type": "item"
+  },
+  {
+    "id": "item_11",
+    "item": "11",
+    "title": "Quantitative and Qualitative Disclosures About Market Risk",
+    "header": "Item 11. Quantitative and Qualitative Disclosures About Market Risk",
+    "charStart": 958523,
+    "charEnd": 960759,
+    "length": 2236,
+    "type": "item"
+  },
+  {
+    "id": "item_12",
+    "item": "12",
+    "title": "Description of Securities Other than Equity Securities",
+    "header": "Item 12. Description of Securities Other than Equity Securities",
+    "charStart": 964782,
+    "charEnd": 979227,
+    "length": 14445,
+    "type": "item"
+  },
+  {
+    "id": "item_15",
+    "item": "15",
+    "title": "Controls and Procedures",
+    "header": "Item 15. Controls and Procedures",
+    "charStart": 979948,
+    "charEnd": 982614,
+    "length": 2666,
+    "type": "item"
+  },
+  {
+    "id": "item_16e",
+    "item": "16E",
+    "title": "Item 16E",
+    "header": "Item 16E. Item 16E",
+    "charStart": 985460,
+    "charEnd": 987111,
+    "length": 1651,
+    "type": "item"
+  },
+  {
+    "id": "item_16g",
+    "item": "16G",
+    "title": "Item 16G",
+    "header": "Item 16G. Item 16G",
+    "charStart": 987182,
+    "charEnd": 988486,
+    "length": 1304,
+    "type": "item"
+  },
+  {
+    "id": "item_16j",
+    "item": "16J",
+    "title": "Item 16J",
+    "header": "Item 16J. Item 16J",
+    "charStart": 988651,
+    "charEnd": 989294,
+    "length": 643,
+    "type": "item"
+  },
+  {
+    "id": "item_19",
+    "item": "19",
+    "title": "Exhibits",
+    "header": "Item 19. Exhibits",
+    "charStart": 993395,
+    "charEnd": 1160483,
+    "length": 167088,
+    "type": "item"
+  },
+  {
+    "id": "item_8",
+    "item": "8",
+    "title": "Financial Information",
+    "header": "Item 8. Financial Information",
+    "charStart": 1176785,
+    "charEnd": 1284459,
+    "length": 107674,
+    "type": "item"
+  }
+]

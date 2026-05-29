@@ -1,0 +1,69 @@
+{
+  "ticker": "MSFT",
+  "name": "MICROSOFT CORP",
+  "cik": "0000789019",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2025-07-30",
+    "accessionNumber": "0000950170-25-100235",
+    "primaryDocument": "msft-20250630.htm",
+    "reportDate": "2025-06-30"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+  "facts": {
+    "Revenues": {
+      "value": 62484000000,
+      "end": "2010-06-30",
+      "filed": "2010-07-30",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 281724000000,
+      "end": "2025-06-30",
+      "filed": "2025-07-30",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 32488000000,
+      "end": "2025-06-30",
+      "filed": "2025-07-30",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 34261000000,
+      "end": "2017-06-30",
+      "filed": "2017-08-02",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 193893000000,
+      "end": "2025-06-30",
+      "filed": "2025-07-30",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 619003000000,
+      "end": "2025-06-30",
+      "filed": "2025-07-30",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 89950000000,
+      "end": "2017-06-30",
+      "filed": "2017-08-02",
+      "form": "10-K"
+    }
+  },
+  "textLength": 313393,
+  "exportedAt": "2026-05-29T05:38:07.077Z",
+  "logoUrl": "/logos/MSFT.png",
+  "logoPrimaryUrl": "/logos/MSFT.png",
+  "logoFallbackUrl": "/logos/MSFT.svg",
+  "localUrls": {
+    "text": "/sec/MSFT/filing.txt",
+    "metadata": "/sec/MSFT/metadata.json",
+    "sections": "/sec/MSFT/sections.json",
+    "evidence": "/sec/MSFT/evidence.json",
+    "display": "/sec/MSFT/display.json"
+  }
+}

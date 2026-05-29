@@ -1,0 +1,1950 @@
+{
+  "ticker": "NVDA",
+  "count": 130,
+  "generatedAt": "2026-05-29T05:38:08.484Z",
+  "entries": [
+    {
+      "id": "NVDA-Cadence-0",
+      "ticker": "NVDA",
+      "vendor": "Cadence",
+      "charOffset": 15594,
+      "excerpt": "…and physical AI. Building on the architectural breakthroughs of Blackwell and leveraging Dynamo inference software, it delivers a significant increase in token throughput and reduction in cost per token compared to the Hopper generation. More recently, in support of market development, we have accelerated the release cadence of our open AI model platforms including NVIDIA Nemotron for agentic AI and Cosmos for physical AI. With a strong engineering culture, we drive fast, yet harmonized, product and technology innovations in all dimensions of computing including silicon, systems, networking, software and algorithms. More than half…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 15276,
+        "end": 15914
+      }
+    },
+    {
+      "id": "NVDA-Arm-0",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 15757,
+      "excerpt": "…roughput and reduction in cost per token compared to the Hopper generation. More recently, in support of market development, we have accelerated the release cadence of our open AI model platforms including NVIDIA Nemotron for agentic AI and Cosmos for physical AI. With a strong engineering culture, we drive fast, yet harmonized, product and technology innovations in all dimensions of computing including silicon, systems, networking, software and algorithms. More than half of our engineers work on software. All major cloud service providers, or CSPs, AI model makers, and enterprises use our data center-scale infrastructure and comput…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 15437,
+        "end": 16077
+      }
+    },
+    {
+      "id": "NVDA-kw-0",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 25415,
+      "excerpt": "…2026, we launched and scaled Blackwell architecture for gaming and GeForce NOW. Professional Visualization We serve the Professional Visualization market by working closely with independent software vendors, or ISVs, to optimize their offerings for NVIDIA GPUs. Our GPU computing platform enhances productivity and introduces new capabilities for critical workflows in many fields, such as design, engineering, and digital content creation across a wide range of industry verticals. Additionally, the increasing number of generative and agentic AI applications is giving rise to the need for the enh…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 25216,
+        "end": 25815
+      }
+    },
+    {
+      "id": "NVDA-kw-1",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 32404,
+      "excerpt": "…market under the DRIVE brand, which we are bringing to market through our partnerships across the transportation industry including with automotive OEMs, mobility service providers, robotaxis, tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural networks before their in-vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software updates. We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 32205,
+        "end": 32804
+      }
+    },
+    {
+      "id": "NVDA-kw-2",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 33801,
+      "excerpt": "…work incorporates global, regional and specialized CSPs, OEMs, ODMs, ISVs, global system integrators, add-in board manufacturers, or AIBs, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. Members of our sales team have technical expertise and product and industry knowledge. We also employ a team of application engineers and solution architects to provide pre-sales assistance to our partner network in designing, testing, and qualifying system designs that incorporate our platforms. For example, our solution architects work with CSPs to pr…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 33601,
+        "end": 34201
+      }
+    },
+    {
+      "id": "NVDA-kw-3",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36144,
+      "excerpt": "…in the second half of our fiscal year. Historical seasonality trends may not repeat. Manufacturing We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 35945,
+        "end": 36603
+      }
+    },
+    {
+      "id": "NVDA-kw-4",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36228,
+      "excerpt": "…. Manufacturing We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may di…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 36070,
+        "end": 36589
+      }
+    },
+    {
+      "id": "NVDA-kw-5",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36251,
+      "excerpt": "…ize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 36052,
+        "end": 36651
+      }
+    },
+    {
+      "id": "NVDA-kw-6",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36303,
+      "excerpt": "…, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 36103,
+        "end": 36703
+      }
+    },
+    {
+      "id": "NVDA-kw-7",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36416,
+      "excerpt": "…abrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as memory, substrates, and a variety of components, our suppliers are responsible for procurement of most…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 36216,
+        "end": 36875
+      }
+    },
+    {
+      "id": "NVDA-kw-8",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36713,
+      "excerpt": "…y of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as memory, substrates, and a variety of components, our suppliers are responsible for procurement of most raw materials used in the production of our products. As a result, we can focus our resources on product design, quality assurance, marketing, and customer support. In periods of growth, we may place non-cancellable inventory orders for certain product components in advance of our historical lead…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 36513,
+        "end": 37173
+      }
+    },
+    {
+      "id": "NVDA-kw-9",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36766,
+      "excerpt": "…owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as memory, substrates, and a variety of components, our suppliers are responsible for procurement of most raw materials used in the production of our products. As a result, we can focus our resources on product design, quality assurance, marketing, and customer support. In periods of growth, we may place non-cancellable inventory orders for certain product components in advance of our historical lead times, pay premiums, or provide deposits to secure f…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 36566,
+        "end": 37166
+      }
+    },
+    {
+      "id": "NVDA-kw-10",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung",
+      "charOffset": 37248,
+      "excerpt": "…for certain product components in advance of our historical lead times, pay premiums, or provide deposits to secure future supply and capacity and may need to continue to do so. We have expanded our supplier relationships to build redundancy and resilience in our operations to provide long-term manufacturing capacity aligned with growing customer demand. While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., o…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37049,
+        "end": 37648
+      }
+    },
+    {
+      "id": "NVDA-TSMC-0",
+      "ticker": "NVDA",
+      "vendor": "TSMC",
+      "charOffset": 37551,
+      "excerpt": "…ave expanded our supplier relationships to build redundancy and resilience in our operations to provide long-term manufacturing capacity aligned with growing customer demand. While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37231,
+        "end": 37931
+      }
+    },
+    {
+      "id": "NVDA-kw-11",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37606,
+      "excerpt": "…While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testin…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37406,
+        "end": 38006
+      }
+    },
+    {
+      "id": "NVDA-Samsung-0",
+      "ticker": "NVDA",
+      "vendor": "Samsung",
+      "charOffset": 37616,
+      "excerpt": "…esilience in our operations to provide long-term manufacturing capacity aligned with growing customer demand. While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37296,
+        "end": 37936
+      }
+    },
+    {
+      "id": "NVDA-kw-12",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37616,
+      "excerpt": "…ently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and pack…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37416,
+        "end": 38016
+      }
+    },
+    {
+      "id": "NVDA-kw-13",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37650,
+      "excerpt": "…oncentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Compe…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37450,
+        "end": 38050
+      }
+    },
+    {
+      "id": "NVDA-kw-14",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37708,
+      "excerpt": "…tin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitiv…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37508,
+        "end": 38108
+      }
+    },
+    {
+      "id": "NVDA-SK Hynix-0",
+      "ticker": "NVDA",
+      "vendor": "SK Hynix",
+      "charOffset": 37720,
+      "excerpt": "…mand. While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final produ…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37400,
+        "end": 38040
+      }
+    },
+    {
+      "id": "NVDA-kw-15",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37723,
+      "excerpt": "…utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is charac…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37524,
+        "end": 38123
+      }
+    },
+    {
+      "id": "NVDA-Micron-0",
+      "ticker": "NVDA",
+      "vendor": "Micron",
+      "charOffset": 37735,
+      "excerpt": "…rently our supply chain is mainly concentrated in Asia, we are expanding into the U.S. and Latin America. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competitio…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37415,
+        "end": 38055
+      }
+    },
+    {
+      "id": "NVDA-kw-16",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37735,
+      "excerpt": "…ndries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by r…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37535,
+        "end": 38135
+      }
+    },
+    {
+      "id": "NVDA-kw-17",
+      "ticker": "NVDA",
+      "vendor": "Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37764,
+      "excerpt": "…nductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37564,
+        "end": 38224
+      }
+    },
+    {
+      "id": "NVDA-kw-18",
+      "ticker": "NVDA",
+      "vendor": "Samsung, SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37784,
+      "excerpt": "…g Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry s…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37584,
+        "end": 38184
+      }
+    },
+    {
+      "id": "NVDA-kw-19",
+      "ticker": "NVDA",
+      "vendor": "SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37819,
+      "excerpt": "…sung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the princ…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37619,
+        "end": 38219
+      }
+    },
+    {
+      "id": "NVDA-kw-20",
+      "ticker": "NVDA",
+      "vendor": "SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37857,
+      "excerpt": "…, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this marke…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37657,
+        "end": 38257
+      }
+    },
+    {
+      "id": "NVDA-Hon Hai (Foxconn)-0",
+      "ticker": "NVDA",
+      "vendor": "Hon Hai (Foxconn)",
+      "charOffset": 37907,
+      "excerpt": "…ompany Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal com…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37587,
+        "end": 38227
+      }
+    },
+    {
+      "id": "NVDA-Wistron-0",
+      "ticker": "NVDA",
+      "vendor": "Wistron",
+      "charOffset": 37945,
+      "excerpt": "…lectronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are pe…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37625,
+        "end": 38265
+      }
+    },
+    {
+      "id": "NVDA-Fabrinet-0",
+      "ticker": "NVDA",
+      "vendor": "Fabrinet",
+      "charOffset": 37970,
+      "excerpt": "…Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are performance, breadth of pro…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 37650,
+        "end": 38290
+      }
+    },
+    {
+      "id": "NVDA-kw-21",
+      "ticker": "NVDA",
+      "vendor": "Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 37990,
+      "excerpt": "…technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, confor…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37790,
+        "end": 38390
+      }
+    },
+    {
+      "id": "NVDA-kw-22",
+      "ticker": "NVDA",
+      "vendor": "Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 38012,
+      "excerpt": "…ductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, conformity to industry stand…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 37812,
+        "end": 38412
+      }
+    },
+    {
+      "id": "NVDA-kw-23",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 38548,
+      "excerpt": "…ibution channels, software support, conformity to industry standard APIs, manufacturing capabilities, processor pricing, and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers and partners will 8 Table of Contents demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be lower priced than ours o…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 38348,
+        "end": 38948
+      }
+    },
+    {
+      "id": "NVDA-kw-24",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 39781,
+      "excerpt": "…facturing resources than we do and may be more able to adapt to customers or technological changes. We expect an increasingly competitive environment in the future. Our current competitors include: • suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, and Intel Corporation, or Intel; • large cloud services companies with internal teams designing hardware and software that incorporate acc…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 39582,
+        "end": 40182
+      }
+    },
+    {
+      "id": "NVDA-kw-25",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 40397,
+      "excerpt": "…omputing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsoft Corporation, or Microsoft; • suppliers of Arm-based CPUs and companies that incorporate hardware and software for CPUs as part of their internal solutions or platforms, such as Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, R…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 40197,
+        "end": 40797
+      }
+    },
+    {
+      "id": "NVDA-Arm-1",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 40410,
+      "excerpt": "…services companies with internal teams designing hardware and software that incorporate accelerated or AI computing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsoft Corporation, or Microsoft; • suppliers of Arm-based CPUs and companies that incorporate hardware and software for CPUs as part of their internal solutions or platforms, such as Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 40090,
+        "end": 40790
+      }
+    },
+    {
+      "id": "NVDA-kw-26",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 40578,
+      "excerpt": "…n, or Microsoft; • suppliers of Arm-based CPUs and companies that incorporate hardware and software for CPUs as part of their internal solutions or platforms, such as Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung, or companies with internal teams designing SoC products for their own products and services, such as Tesla, Inc.; and • networking produ…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 40378,
+        "end": 40978
+      }
+    },
+    {
+      "id": "NVDA-kw-27",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 40833,
+      "excerpt": "…t are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung, or companies with internal teams designing SoC products for their own products and services, such as Tesla, Inc.; and • networking products consisting of switches, network adapters (including DPUs), and cable solutions (including optical modules) include such as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel, Lumentum Holdings Inc.,…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 40633,
+        "end": 41292
+      }
+    },
+    {
+      "id": "NVDA-kw-28",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 41298,
+      "excerpt": "…uch as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel, Lumentum Holdings Inc., and Marvell Technology, Inc, as well as internal teams of system vendors and large cloud services companies. Patents and Proprietary Rights We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, and licensing arrangements to protect our IP in the United States and internationally. Our currently issued patents have expiration dates from March 2026 to June 2045. We have numerous patents issued,…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 41099,
+        "end": 41699
+      }
+    },
+    {
+      "id": "NVDA-kw-29",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 44906,
+      "excerpt": "…to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an ultimate parent therein, of our H20 integrated circuits and any other circuits achieving the H20’s memory bandwidth, interconnect bandwidth, or combination thereof. As a result of these requirements, we incurred a $4.5 billion charge in the first quarter of fiscal year 2026 associated with H20 for excess inventory and purchase obligations, as the demand for H20 products diminished. In August 2025, the USG granted licenses that would allow us to ship certain H20 products to certain China-based c…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 44706,
+        "end": 45306
+      }
+    },
+    {
+      "id": "NVDA-Arm-2",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 46360,
+      "excerpt": "…d under the new licensing program will be subject to a 25% tariff upon importation into the United States. In the event that we are able to sell licensed products into the China market, we may not be able to pass along all or any of the tariff to our customers, and may be subject to litigation, increased costs, and a harmed competitive position. The export controls applicable to China are complex and address a variety of parameters, including the total processing performance of a chip, the “performance density” of a chip, the interconnect bandwidth of a chip, and the memory bandwidth of a chip. Under the current rules and geopolitic…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 46040,
+        "end": 46680
+      }
+    },
+    {
+      "id": "NVDA-kw-30",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 46614,
+      "excerpt": "…able to China are complex and address a variety of parameters, including the total processing performance of a chip, the “performance density” of a chip, the interconnect bandwidth of a chip, and the memory bandwidth of a chip. Under the current rules and geopolitical landscape, we are unable to create and deliver a competitive product for China’s data center market that receives approval from both the USG and the Chinese government. As of the end of fiscal year 2026, we were effectively foreclosed from competing in China's data center computing/compute market, and our effective foreclosure fr…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 46414,
+        "end": 47014
+      }
+    },
+    {
+      "id": "NVDA-Arm-3",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 48755,
+      "excerpt": "…N AI Act” in the NDAA. The GAIN AI Act would restrict the Trump Administration’s ability to adapt the Biden Administration’s export control rules, and could also allow private U.S. persons to review and overturn licensing and foreign policy decisions made by the Trump Administration. Our competitive position has been harmed by export controls, and our competitive position and future results will be further harmed, over the long term, if the restrictions remain in place or are expanded in geographic, customer, or product scope, if customers purchase product from competitors, if customers develop their own internal solution, if we are…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 48435,
+        "end": 49135
+      }
+    },
+    {
+      "id": "NVDA-Arm-4",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 48846,
+      "excerpt": "…adapt the Biden Administration’s export control rules, and could also allow private U.S. persons to review and overturn licensing and foreign policy decisions made by the Trump Administration. Our competitive position has been harmed by export controls, and our competitive position and future results will be further harmed, over the long term, if the restrictions remain in place or are expanded in geographic, customer, or product scope, if customers purchase product from competitors, if customers develop their own internal solution, if we are unable to provide contractual warranty or other extended service obligations, if the USG d…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 48527,
+        "end": 49166
+      }
+    },
+    {
+      "id": "NVDA-kw-31",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 50087,
+      "excerpt": "…st-sale technical support efforts more cumbersome and less certain and encourage customers in China, the Middle East, and other regions to pursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel. Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and even if we are able to participate in the China data center compute market, increased oversight of digital platform companies may adversely affect our Data Center revenue. The Chinese governm…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 49887,
+        "end": 50487
+      }
+    },
+    {
+      "id": "NVDA-kw-32",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 50519,
+      "excerpt": "…participate in the China data center compute market, increased oversight of digital platform companies may adversely affect our Data Center revenue. The Chinese government has encouraged customers to purchase from our China-based competitors and discouraged customers from purchasing, importing, or using our data center products, including any China-specific product designed to comply with U.S. export controls. While we work to enhance the resiliency and redundancy of our supply chain, which is currently concentrated in Asia, new and existing export controls or changes to existing export contro…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 50319,
+        "end": 50919
+      }
+    },
+    {
+      "id": "NVDA-kw-33",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 56760,
+      "excerpt": "…der of communications test and measurement solutions and optical products for the telecommunications industry. She served from 2002 to 2004 as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Previously, she worked at Quantum Corp., a data protection company, as President of the Personal Computer Hard Disk Drive Division, and at Hewlett-Packard. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University. Ti…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 56560,
+        "end": 57160
+      }
+    },
+    {
+      "id": "NVDA-Arm-5",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 58726,
+      "excerpt": "…s that file electronically with the SEC. Our web site and the information on it or connected to it are not a part of this Annual Report on Form 10-K. Item 1A. Risk Factors The following risk factors should be considered in addition to the other information in this Annual Report on Form 10-K. The following risks could harm our business, financial condition, results of operations or reputation, which could cause our stock price to decline. Additional risks, trends and uncertainties not presently known to us or that we currently believe are immaterial may also harm our business, financial condition, results of operations or reputation.…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 58406,
+        "end": 59106
+      }
+    },
+    {
+      "id": "NVDA-Arm-6",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 58971,
+      "excerpt": "…information in this Annual Report on Form 10-K. The following risks could harm our business, financial condition, results of operations or reputation, which could cause our stock price to decline. Additional risks, trends and uncertainties not presently known to us or that we currently believe are immaterial may also harm our business, financial condition, results of operations or reputation. Risk Factors Summary Risks Related to Our Industry and Markets • Failure to meet the evolving needs of our industry and markets may adversely impact our financial results. • Competition could adversely impact our market share and financial resu…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 58651,
+        "end": 59291
+      }
+    },
+    {
+      "id": "NVDA-kw-34",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 59603,
+      "excerpt": "…capacity availability, combined with a failure to estimate customer demand accurately has led and could lead to mismatches between supply and demand. 12 Table of Contents • Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. • Defects in our products have caused and could cause us to incur significant expenses to remediate and could damage our business. Risks Related to Our Global Operating Busines…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 59404,
+        "end": 60003
+      }
+    },
+    {
+      "id": "NVDA-kw-35",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 59669,
+      "excerpt": "…er demand accurately has led and could lead to mismatches between supply and demand. 12 Table of Contents • Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. • Defects in our products have caused and could cause us to incur significant expenses to remediate and could damage our business. Risks Related to Our Global Operating Business • Adverse economic conditions may harm our business. • Internati…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 59469,
+        "end": 60069
+      }
+    },
+    {
+      "id": "NVDA-Arm-7",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 59809,
+      "excerpt": "…has led and could lead to mismatches between supply and demand. 12 Table of Contents • Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. • Defects in our products have caused and could cause us to incur significant expenses to remediate and could damage our business. Risks Related to Our Global Operating Business • Adverse economic conditions may harm our business. • International sales and operations are a significant part of our busi…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 59490,
+        "end": 60129
+      }
+    },
+    {
+      "id": "NVDA-kw-36",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 65931,
+      "excerpt": "…not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted. We entered into multi-y…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 65731,
+        "end": 66331
+      }
+    },
+    {
+      "id": "NVDA-kw-37",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 68170,
+      "excerpt": "…ffectively identify and capitalize upon opportunities in new markets and end-user trends, more quickly transition their products, and impinge on our ability to procure sufficient 14 Table of Contents foundry capacity and scarce input materials during a supply-constrained environment, which could harm our business. Some of our customers have in-house expertise and internal development capabilities similar to some of ours and can use or develop their own solutions to replace those we are providing. For example, others may offer cloud-based services that compete with our AI cloud service offering…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 67970,
+        "end": 68570
+      }
+    },
+    {
+      "id": "NVDA-kw-38",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 70273,
+      "excerpt": "…and have varied across our market platforms, resulted in both product shortages and excess inventory, significantly harmed our financial results and could reoccur. If we underestimate demand, and our foundry partners and contract manufacturers are unable to increase production or provide sufficient supply, we may not be able to meet increased customer demand in a timely manner, or at all. Our reputation and customer relationships could be damaged and we could lose revenue and market share. Additionally, since some of our products are part of a complex data center buildout, supply constraints o…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 70073,
+        "end": 70673
+      }
+    },
+    {
+      "id": "NVDA-kw-39",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 71024,
+      "excerpt": "…ts has been and could be impeded if components necessary for the finished products are not available from third parties. If we overestimate demand, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to utilize on-hand inventory or reduce purchase commitments accordingly. We have had to reduce average selling prices, including due to our channel pricing programs, increase prices for certain of our products as a result of our suppliers’ increase in prices, write down our inventory, incur cancellation penalties, and record impairments, and may ha…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "keyword",
+      "range": {
+        "start": 70824,
+        "end": 71424
+      }
+    },
+    {
+      "id": "NVDA-Cadence-1",
+      "ticker": "NVDA",
+      "vendor": "Cadence",
+      "charOffset": 76795,
+      "excerpt": "…rchitecture products simultaneously as our channel partners prepare to ship and support new products. We are generally in various stages of transitioning the architectures of our Data Center, Gaming, Professional Visualization, and Automotive products. The computing industry is experiencing a broader and faster launch cadence of accelerated computing platforms to meet a growing and diverse set of AI opportunities. We have introduced a new product and architecture cadence of our Data Center solutions where we seek to complete new computing solutions each year and provide a greater variety of Data Center offerings. The increased frequ…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 76475,
+        "end": 77115
+      }
+    },
+    {
+      "id": "NVDA-Cadence-2",
+      "ticker": "NVDA",
+      "vendor": "Cadence",
+      "charOffset": 76943,
+      "excerpt": "…oning the architectures of our Data Center, Gaming, Professional Visualization, and Automotive products. The computing industry is experiencing a broader and faster launch cadence of accelerated computing platforms to meet a growing and diverse set of AI opportunities. We have introduced a new product and architecture cadence of our Data Center solutions where we seek to complete new computing solutions each year and provide a greater variety of Data Center offerings. The increased frequency of these transitions and the larger number of products and product configurations may magnify the challenges associated with managing our suppl…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 76623,
+        "end": 77263
+      }
+    },
+    {
+      "id": "NVDA-Cadence-3",
+      "ticker": "NVDA",
+      "vendor": "Cadence",
+      "charOffset": 186533,
+      "excerpt": "…fficulties securing financing for large-scale infrastructure projects. These limitations could delay customer and partner deployments or reduce the scale of accelerated computing and AI adoption. We continue to execute Data Center compute product introductions, bringing new advanced architectures on a one-year product cadence, including our Rubin platform. We began shipping production units of our new Blackwell Ultra platforms including GB300 in the second quarter of fiscal year 2026. The complexity of our product transitions and sophisticated system configurations has and may in the future cause delays in production and create chal…",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "range": {
+        "start": 186213,
+        "end": 186853
+      }
+    },
+    {
+      "id": "713419ec02c2830b",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 14304,
+      "excerpt": "sts frame rates while generating high-quality images for games. RTX GPUs also feature NVIDIA tensor core technology making them well suited to accelerate a new generation of on-device AI applications. In fiscal year 2025, we announced the NVIDIA Blackwell GeForce RTX 50 Series family of desktop and laptop GPUs. The Blackwell architecture introduced neural graphics which combines AI models with traditional rendering to boost game performance, image quality, and interactivity, as well as the next",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 24618,
+        "end": 25177
+      }
+    },
+    {
+      "id": "68dc88113e79b059",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 20945,
+      "excerpt": "in all RTX-class GPUs. Blackwell GPUs’ advanced AI and neural rendering capabilities combined with NVIDIA’s world-class AI software stacks significantly accelerate AI workloads running locally on PCs. Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading design applications. Advancing the leading autonomous vehicle platform. We believe the advent of autonomous vehicles, or AV, and",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 31259,
+        "end": 31818
+      }
+    },
+    {
+      "id": "00a28fa803698bfc",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 21915,
+      "excerpt": "and, which we are bringing to market through our partnerships across the transportation industry including with automotive OEMs, mobility service providers, robotaxis, tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural networks before their in-vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software updates. We believe our comprehensive, top-to-bottom and end-to-end approach will enable the tr",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 32229,
+        "end": 32729
+      }
+    },
+    {
+      "id": "0d8d700c3a281c7c",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 22916,
+      "excerpt": "hnology. Sales and Marketing Our worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient computing platforms and software. Our sales and marketing teams, located across our global markets, work closely with customers and various industry ecosystems through our partner network. Our partner network incorporates global, regional and specialized CSPs, OEMs, ODMs, ISVs, global system integrators, add-in board manufacturers,",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 33230,
+        "end": 33790
+      }
+    },
+    {
+      "id": "0115000200fe3afd",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 25515,
+      "excerpt": "ers, gaming, professional visualization, and automotive. Our desktop gaming products typically see stronger revenue in the second half of our fiscal year. Historical seasonality trends may not repeat. Manufacturing We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers that are certifi",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 35829,
+        "end": 36329
+      }
+    },
+    {
+      "id": "933ba6ff7640a903",
+      "ticker": "NVDA",
+      "vendor": "TSMC, Samsung, SK Hynix, Micron",
+      "charOffset": 26466,
+      "excerpt": "responsible for procurement of most raw materials used in the production of our products. As a result, we can focus our resources on product design, quality assurance, marketing, and customer support. In periods of growth, we may place non-cancellable inventory orders for certain product components in advance of our historical lead times, pay premiums, or provide deposits to secure future supply and capacity and may need to continue to do so. We have expanded our supplier relationships to build",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 36780,
+        "end": 37339
+      }
+    },
+    {
+      "id": "264aa153f4674a23",
+      "ticker": "NVDA",
+      "vendor": "SK Hynix, Micron, Hon Hai (Foxconn), Wistron, Fabrinet",
+      "charOffset": 27315,
+      "excerpt": "ronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung. We utilize CoWoS technology for semiconductor packaging. We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products. Competition The market for our products is intensely competitive and is characterize",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 37629,
+        "end": 38129
+      }
+    },
+    {
+      "id": "6fed14e028daa9bd",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 29231,
+      "excerpt": "ng, financial, distribution and manufacturing resources than we do and may be more able to adapt to customers or technological changes. We expect an increasingly competitive environment in the future. Our current competitors include: • suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, an",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 39545,
+        "end": 40045
+      }
+    },
+    {
+      "id": "416f9dd9bee49bda",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 30231,
+      "excerpt": "Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung, or companies with internal teams designing SoC products for their own products and services, such as Tesla, Inc.; and • networking products consisting of switches, network adapters (including DPUs), and",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 40545,
+        "end": 41104
+      }
+    },
+    {
+      "id": "cd970119d67edbc9",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 33503,
+      "excerpt": "23, the USG also informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions, including some countries in the Middle East. In October 2023, the USG announced new and updated licensing requirements for exports to China and Country Groups D:1, D:4, and D:5 (including but not limited to Saudi Arabia, the United Arab Emirates, and Vietnam, but excluding Israel) of our products exceeding certain performance thresholds, incl",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 43817,
+        "end": 44317
+      }
+    },
+    {
+      "id": "58bc351adf484b99",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 34457,
+      "excerpt": "companies headquartered or with an ultimate parent therein, of our H20 integrated circuits and any other circuits achieving the H20’s memory bandwidth, interconnect bandwidth, or combination thereof. As a result of these requirements, we incurred a $4.5 billion charge in the first quarter of fiscal year 2026 associated with H20 for excess inventory and purchase obligations, as the demand for H20 products diminished. In August 2025, the USG granted licenses that would allow us to ship certain H20",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 44772,
+        "end": 45332
+      }
+    },
+    {
+      "id": "f178b5d468e86b53",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 35368,
+      "excerpt": "nts of H200 products to specific China-based customers. To date, we have not generated any revenue under the H200 licensing program, and do not yet know whether any imports will be allowed into China. The license requires that the H200s go through an inspection process in the United States prior to any shipment to the customer. As a result, any H200 shipped under the new licensing program will be subject to a 25% tariff upon importation into the United States. In the event that we are able to se",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 45682,
+        "end": 46182
+      }
+    },
+    {
+      "id": "b114cc4f3d4c0316",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 38898,
+      "excerpt": "enies licenses to significant customers or if we incur significant transition costs. 10 Table of Contents The licensing process may not be resolved before significant business opportunities evaporate. Even if the USG grants any requested licenses, the licenses have already and may in the future be temporary, impose burdensome conditions regarding the installation, maintenance, and use of such products, or include financial or economic requirements that we or our customers or end users cannot or",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 49212,
+        "end": 49771
+      }
+    },
+    {
+      "id": "7e2ed90fb0ef0710",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 39618,
+      "excerpt": "some and less certain and encourage customers in China, the Middle East, and other regions to pursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel. Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and even if we are able to participate in the China data center compute market, increased oversight of digital platform companies may advers",
+      "sectionId": "item_1_business_our_company_nvidia_pione",
+      "sectionHeader": "Item 1. Business Our Company NVIDIA pioneered accelerated computing to help solve the mos",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 49932,
+        "end": 50432
+      }
+    },
+    {
+      "id": "ab0948f796d22052",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 3498,
+      "excerpt": "nt, Worldwide Field Operations in 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over a 22-year career at Sun Microsystems, Inc., a computing systems company. Mr. Puri previously held marketing, management consulting, and product development positions at Hewlett-Packard, an information technology company, Booz Allen Hamilton Inc., a management and technology consulting company, and Texas Instruments Incorporated. Mr. Puri holds a B.S.E.E. degree from the Uni",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A. Risk Factors” for a discussion of these potential impacts. Human Capital Manageme",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 55661,
+        "end": 56161
+      }
+    },
+    {
+      "id": "abd56206f3ea1497",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 4492,
+      "excerpt": "tions industry. She served from 2002 to 2004 as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Previously, she worked at Quantum Corp., a data protection company, as President of the Personal Computer Hard Disk Drive Division, and at Hewlett-Packard. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara Universit",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A. Risk Factors” for a discussion of these potential impacts. Human Capital Manageme",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 56655,
+        "end": 57155
+      }
+    },
+    {
+      "id": "23a5f20c457e3661",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 797,
+      "excerpt": "manufacturing lead times and uncertain supply and capacity availability, combined with a failure to estimate customer demand accurately has led and could lead to mismatches between supply and demand. 12 Table of Contents • Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. • Defects in our products h",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 59354,
+        "end": 59854
+      }
+    },
+    {
+      "id": "5e7fd16523d669a8",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 7132,
+      "excerpt": "res significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technol",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 65688,
+        "end": 66188
+      }
+    },
+    {
+      "id": "76f3e48eb620515e",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 8840,
+      "excerpt": "rt on Form 10-K, may be cheaper or provide better functionality or features than ours, which has resulted and may in the future result in lower-than-expected selling prices or demand for our products. Some of our competitors operate their own fabrication facilities, and have longer operating histories, larger customer bases, more comprehensive IP portfolios and patent protections, more design wins, and greater financial, sales, marketing and distribution resources than we do. These competitors m",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 67396,
+        "end": 67896
+      }
+    },
+    {
+      "id": "5b25386271bb58bf",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 11480,
+      "excerpt": "ant mismatches between supply and demand have varied across our market platforms, resulted in both product shortages and excess inventory, significantly harmed our financial results and could reoccur. If we underestimate demand, and our foundry partners and contract manufacturers are unable to increase production or provide sufficient supply, we may not be able to meet increased customer demand in a timely manner, or at all. Our reputation and customer relationships could be damaged and we could",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 70036,
+        "end": 70596
+      }
+    },
+    {
+      "id": "7de539ddd3dcef77",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 12390,
+      "excerpt": "f we overestimate demand, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to utilize on-hand inventory or reduce purchase commitments accordingly. We have had to reduce average selling prices, including due to our channel pricing programs, increase prices for certain of our products as a result of our suppliers’ increase in prices, write down our inventory, incur cancellation penalties, and record impairments, and may have to do so in the fut",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 70946,
+        "end": 71446
+      }
+    },
+    {
+      "id": "eca9a6e697239946",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 15120,
+      "excerpt": "rt the buildout of NVIDIA AI infrastructure by our customers and partners is crucial, and any shortage of these and other necessary resources could impact our future revenue and financial performance. Expanding energy capacity to meet demand is a complex, multi-year process involving significant regulatory, technical, and construction challenges. In addition, access to capital can be particularly constrained for less-capitalized companies, which may face difficulties securing financing for large",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 73676,
+        "end": 74176
+      }
+    },
+    {
+      "id": "e383f5bb771f78fa",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 16023,
+      "excerpt": "ents. Geopolitical tensions in regions where we rely on suppliers, contract manufacturers, and assembly partners that are critical to our supply continuity, could have a material adverse impact on us. Publicly announced intentions by governments or other companies to purchase our products can further complicate our demand estimates, as such announcements are often non-binding and may not result in committed volumes. We continue to increase our supply and capacity purchases with existing and new",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 74579,
+        "end": 75138
+      }
+    },
+    {
+      "id": "f27c1d1b453208d1",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 16905,
+      "excerpt": "nd integration of new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations in production planning, execution and logistics. Our expanding product portfolio and varying component compatibility and quality may lead to increased inventory levels. We have incurred and may in the future incur inventory provisions or impairments if our inventory or supply or capacity commitments exceed demand for our products or demand declin",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 75461,
+        "end": 75961
+      }
+    },
+    {
+      "id": "7294b349a04b2782",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 22409,
+      "excerpt": "s and reduce demand for our new GPUs. In general, our new products or previously sold products may be resold online or on the unauthorized “gray market,” which also makes demand forecasting difficult. Gray market products and reseller marketplaces compete with our new products and distribution channels. Our inability to accurately predict our demand that arises from new use cases may create volatility in our revenue. Dependency on third-party suppliers and their technology to manufacture, assemb",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 80965,
+        "end": 81465
+      }
+    },
+    {
+      "id": "f7cd1c7cf7c04108",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 23194,
+      "excerpt": "e do not assemble, test, or package our products, but instead contract with independent subcontractors. These subcontractors assist with procuring components used in our systems, boards, and products. We face risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, inc",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 81750,
+        "end": 82250
+      }
+    },
+    {
+      "id": "f1f2a98909b8a2b0",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 24194,
+      "excerpt": "nt high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • failure by our suppliers to comply with our policies and expectations and emerging regulatory requirements; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers and memory manufacturers; • loss of a supplier and additional",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 82750,
+        "end": 83310
+      }
+    },
+    {
+      "id": "b974cd85051d9e32",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 25194,
+      "excerpt": "ide high quality products and/or making changes to their products without our qualification; 17 Table of Contents • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from issues in",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 83750,
+        "end": 84309
+      }
+    },
+    {
+      "id": "b4fc3d60c20e0a86",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 26095,
+      "excerpt": "d and could cause us to incur significant expenses to remediate, which can damage our reputation and cause us to lose market share. Our hardware and software product and service offerings are complex. They have in the past and may in the future contain defects, security vulnerabilities, experience failures, or unsatisfactory performance due to issues in design, fabrication, packaging, materials, bugs and/or use within a system. These risks may also increase when our products are introduced into",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 84651,
+        "end": 85210
+      }
+    },
+    {
+      "id": "8023230e1cecd16b",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 26885,
+      "excerpt": "offer rely on training data that may originate from third parties and new training methods, and the resulting products may contain unknown or undetected defects and errors, or reflect unintended bias. Although arrangements with component providers may contain provisions for product defect expense reimbursement, we generally remain responsible to the customer for warranty product defects that may occur from time to time. Some failures in our products or services have been in the past and may in t",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 85441,
+        "end": 85941
+      }
+    },
+    {
+      "id": "0618dee153b16843",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 27813,
+      "excerpt": "ial damage to the products in which our offerings have been integrated by OEMs, ODMs, AIB manufacturers, automotive manufacturers, and tier 1 automotive suppliers, and to the user of such end product. Such defects have in the past had an adverse effect on our cost and supply of components and finished goods and may in the future cause us to incur significant warranty, support, and repair or replacement costs as part of a product recall or otherwise, write-off the value of related inventory, and",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 86369,
+        "end": 86928
+      }
+    },
+    {
+      "id": "df8984089e15172e",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 30669,
+      "excerpt": "xpenses, which have negatively impacted our gross margin in the past and may do so in the future; 18 Table of Contents • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 89225,
+        "end": 89784
+      }
+    },
+    {
+      "id": "0be4aff36c8e78b9",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 31669,
+      "excerpt": "ions or strategic alliances among other companies, which could adversely affect our ability to compete effectively; • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our customers and suppliers; and • failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments. Adverse developments affecting financial institut",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 90225,
+        "end": 90725
+      }
+    },
+    {
+      "id": "12ae0e1c2da7f575",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 33404,
+      "excerpt": "are a significant part of our business, which exposes us to risks that could harm our business. We sell our products internationally, and we also have operations and conduct business internationally. Our semiconductor wafers are manufactured, assembled, tested and packaged by third parties located outside of the United States, and we generated 31% of our revenue in fiscal year 2026 from sales outside the United States. The market in China, where our offerings are limited by export controls, is h",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 91961,
+        "end": 92461
+      }
+    },
+    {
+      "id": "571d32f52ff082b4",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 34008,
+      "excerpt": "ss subjects us to a number of risks and uncertainties, which have had in the past and could in the future have a material adverse effect on our business, financial condition and results of operations. These include domestic and international economic and political conditions in countries in which we and our suppliers and manufacturers do business, government lockdowns to control case spread of global or local health issues, differing legal standards with respect to protection of IP and employmen",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 92564,
+        "end": 93064
+      }
+    },
+    {
+      "id": "a7dd354a04eb885f",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 36630,
+      "excerpt": "ity are dependent upon our employees, contractors and/or other third-party service providers safeguarding our sensitive information and adhering to our security policies and access control mechanisms. We have in the past experienced, and may in the future experience, security incidents arising from a failure to properly handle sensitive information or adhere to our security policies and access control mechanisms, including, for example, employees posting company data on third-party websites with",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 95186,
+        "end": 95686
+      }
+    },
+    {
+      "id": "2a72d46c46f5ca1b",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 38471,
+      "excerpt": "reputational damage, regulatory scrutiny, or adverse impacts on the performance and reliability of our products, which could, in turn, affect our partners' operations, customer trust, and our revenue. We may have limited insight into the data privacy or security practices of third-party suppliers, including for our AI algorithms. Our ability to monitor these third parties’ information security practices is limited, and they may not have adequate information security measures in place. In additio",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 97027,
+        "end": 97527
+      }
+    },
+    {
+      "id": "cd02f38a9a78a9de",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 39359,
+      "excerpt": "and, as a result, if our products or services are compromised, a significant number of our customers and their data could be affected, which could result in potential liability and harm our business. To defend against security incidents, we must continuously engineer more secure products and enhance security and reliability features, which is expected to result in increased expenses. We must also continue to develop our security measures, including training programs and security awareness initia",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 97916,
+        "end": 98416
+      }
+    },
+    {
+      "id": "3e6698ab08da647d",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 43006,
+      "excerpt": "eals competitively sensitive details about our organization and could be used to harm our business. Business disruptions could harm our operations, lead to a decline in revenue and increase our costs. Factors that have caused and/or could in the future cause disruptions to our worldwide operations include: natural disasters, extreme weather conditions, power or water shortages, critical infrastructure failures, telecommunications failures, supplier disruptions, terrorist attacks, acts of violenc",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 101562,
+        "end": 102062
+      }
+    },
+    {
+      "id": "f3527c794450ab94",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 43946,
+      "excerpt": "and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires or other business disruptions occurring in these geographical areas. Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel. Geopolitical and domestic political developments and other events beyond our control can increase economic volatility globall",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 102502,
+        "end": 103002
+      }
+    },
+    {
+      "id": "a9ac38c1fcf7ed47",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 44879,
+      "excerpt": "ed may result in changing regulatory requirements, and other disruptions that could impact our operations and operating strategies, product demand, access to global markets, hiring, and profitability. For example, other countries have restricted and may continue in the future to restrict business with the State of Israel, where we have engineering, sales support operations and manufacturing, and companies with Israeli operations, including by economic boycotts. Our operations could be harmed and",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 103435,
+        "end": 103995
+      }
+    },
+    {
+      "id": "5427f6b01789ba20",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 45672,
+      "excerpt": "environmental, public health, or political issues. The ultimate impact on us, our third-party foundries and other suppliers of being located and consolidated in certain geographical areas is unknown. In the event a disaster, war, or catastrophic event affects us, the third-party systems on which we rely, or our customers, our business could be harmed as a result of declines in revenue, increases in expenses, and substantial expenditures and time spent to fully resume operations. Our business con",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 104229,
+        "end": 104729
+      }
+    },
+    {
+      "id": "cbb41745cd9820e1",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 46663,
+      "excerpt": "e have experienced periods where some of our employees in the region have been on active military duty for an extended period, which caused limited disruption to our product development or operations. We have not experienced significant impact or expense to our business; however, if the conflict is further extended or expanded, it could impact future product development, operations, and revenue or create other uncertainty for our business. Additionally, interruptions or delays in services from C",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 105219,
+        "end": 105719
+      }
+    },
+    {
+      "id": "2c7cdae7db38485e",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 47518,
+      "excerpt": "amage from service interruptions, defects, disruptions, outages, shortages and other performance and quality problems may increase. Data centers depend on access to clean water and predictable energy. Power or water shortages, land or permitting constraints, or regulations that limit energy, water, or land availability, could impair the ability of our customers to expand their data center capacity and consume our products and services, which may in turn negatively impact our business. Climate ch",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 106074,
+        "end": 106574
+      }
+    },
+    {
+      "id": "8cdbcaa9b06f60f1",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 48478,
+      "excerpt": "fs due to wildfire risk, which can have adverse implications for our Santa Clara, California headquarter offices and data centers, including impairing the ability of our employees to work effectively. Climate change, its impact on our supply chain and critical infrastructure worldwide and its potential to increase political instability in regions where we, our customers, partners and our vendors do business, may disrupt our business and cause us to experience higher attrition, losses and costs t",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 107034,
+        "end": 107534
+      }
+    },
+    {
+      "id": "98a8e05ff9e4af8b",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 49364,
+      "excerpt": "be large, which could harm our results of operations and financial condition. Our business and those of our suppliers and customers is subject to sustainability-related laws, regulations and lawsuits. New or proposed regulations relating to carbon taxes, fuel or energy taxes, pollution limits, sustainability-related disclosure and governance and supply chain governance could result in greater direct costs, including costs associated with changes to manufacturing processes or the procurement of r",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 107920,
+        "end": 108420
+      }
+    },
+    {
+      "id": "353dd8c8bbf971b1",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 55547,
+      "excerpt": "e our acquisitions, resulting in increased debt, increased interest expense, and compliance with debt covenants or other restrictions; • the potential for our acquisitions to result in dilutive issuances of our equity securities; 22 Table of Contents • the potential variability of the amount and form of any performance-based consideration; • negative changes in general economic conditions in the regions or the industries in which we or our target operate; • exposure to additional cybersecurity r",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 114103,
+        "end": 114603
+      }
+    },
+    {
+      "id": "83022d2d5d5dea17",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 56496,
+      "excerpt": "th our key suppliers and customers, and training and change management needs of integration personnel. These challenges have impacted our results of operations and may continue to do so in the future. We receive a significant amount of our revenue from a limited number of partners and distributors and we have a concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these custo",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 115052,
+        "end": 115552
+      }
+    },
+    {
+      "id": "55fead60a58c49c9",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 57453,
+      "excerpt": "tems in our portfolio through their channels. Our operating results depend on sales to our partner network, as well as the ability of these partners to sell products that incorporate our technologies. We have a small number of partners that are involved in system integration with our key customers. As our system design becomes increasingly complex, system integrators may be unable to meet specifications of our key customers. Changes in our partners' or customers' business models or their ownersh",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 116009,
+        "end": 116509
+      }
+    },
+    {
+      "id": "c46ffb047ea7e517",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 63597,
+      "excerpt": "mely and accurate basis may be adversely affected, our access to the capital markets may be restricted, our stock price may decline, and we may be subject to sanctions or investigation by regulatory authorities. Our operating results have in the past fluctuated and may in the future fluctuate, and if our operating results are below the expectations of securities analysts or investors, our stock price could decline. Our operating results have in the past fluctuated and may continue to fluctuate d",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 122153,
+        "end": 122653
+      }
+    },
+    {
+      "id": "3762e5e3ed96422c",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 64597,
+      "excerpt": "tomers to make required payments, our ability to obtain credit insurance for customers with extended payment terms, and customer bad debt write-offs; • our vendors' payment requirements; • unanticipated costs associated with environmental liabilities; and • changes in financial accounting standards or interpretations of existing standards. Any of these factors could prevent us from achieving our anticipated financial results. For example, we have granted and may continue to grant extended paymen",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 123153,
+        "end": 123653
+      }
+    },
+    {
+      "id": "836ae32b9b26de29",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 66410,
+      "excerpt": "foreign ownership and investment; data privacy requirements; competition and antitrust; advertising; employment; product regulations; cybersecurity; environmental, health, and safety requirements; the responsible use of AI; sustainability; cryptocurrency; and consumer laws. Compliance with such requirements can be onerous and expensive, could impact our competitive position, and may negatively impact our business operations and ability to manufacture and ship our products. There can be no assura",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 124966,
+        "end": 125466
+      }
+    },
+    {
+      "id": "5d5d8d30df1f9ea1",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 68060,
+      "excerpt": "e French Competition Authority collected information from us regarding our business and competition in the graphics card and CSP market as part of an ongoing inquiry into competition in those markets. We have also received, and continue to receive, broad requests for information from competition regulators in the European Union, the United States, the United Kingdom, China, and South Korea regarding our sales of GPUs and other NVIDIA products, our efforts to allocate supply, foundation models an",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 126616,
+        "end": 127116
+      }
+    },
+    {
+      "id": "1617ea67bcb8da07",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 68925,
+      "excerpt": "information in the future. Such requests have been and are likely to be expensive and burdensome and could negatively impact our business and our relationships with customers, suppliers, and partners. Governments and regulators are also considering, and in certain cases, have imposed restrictions on the hardware, software, and systems used to develop frontier foundation models and generative AI. For example, the EU AI Act became effective on August 1, 2024 and will be fully applicable after a tw",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 127481,
+        "end": 127981
+      }
+    },
+    {
+      "id": "08e2b0efbb8abce7",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 84026,
+      "excerpt": "nsome conditions regarding the installation, maintenance, and use of such products, or include financial or economic requirements that we or our customers or end users cannot or choose not to fulfill. The licensing requirements have already and may in the future benefit certain of our competitors, as the licensing process will make our pre-sale and post-sale technical support efforts more cumbersome and less certain and encourage customers in China, the Middle East, and other regions to pursue a",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 49534,
+        "end": 50034
+      }
+    },
+    {
+      "id": "af660b90a70db864",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 87501,
+      "excerpt": "d in and distributed from Hong Kong. Export controls restricting our ability to sell data center GPUs may also negatively impact demand for our networking products used in servers containing our GPUs. The USG may also impose export controls on our networking products, such as high-speed network interconnects, to limit the ability of downstream parties to create large clusters for frontier model training. Export controls have and are likely in the future to have a disproportionate impact on NVIDI",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 146057,
+        "end": 146557
+      }
+    },
+    {
+      "id": "71d93dd61d4945c0",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 88455,
+      "excerpt": "future encourage overseas governments to request that our customers purchase from our competitors rather than NVIDIA or other U.S. firms, harming our business, market position, and financial results. As a result, export controls have in the past and may in the future negatively impact demand for our products and services not only in China, but also in other markets, such as Europe, Latin America, and Southeast Asia. Export controls increase the risk of investing in U.S. advanced semiconductor pr",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 147012,
+        "end": 147512
+      }
+    },
+    {
+      "id": "d4a53eaf0a824921",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 89267,
+      "excerpt": ", which would be less likely to be restricted by U.S. controls. The increasingly complex export controls impose complex and burdensome compliance obligations on our partners, suppliers, and customers. While we seek to strictly comply with all applicable export control regulators, reports of diversion of controlled products, even when unsubstantiated and untrue, may negatively impact our business, relationships with partners and customers, and our reputation. Incorrect allegations that our compli",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 147823,
+        "end": 148323
+      }
+    },
+    {
+      "id": "32f31c19cd79ba90",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 90948,
+      "excerpt": "fect our Gaming revenue, and even if we are able to participate in the China data center compute market, increased oversight of digital platform companies may adversely affect our Data Center revenue. The Chinese government has encouraged customers to purchase from our China-based competitors and discouraged customers from purchasing, importing, or using our data center products, including any China-specific product designed to comply with U.S. export controls. As another example, an agency of t",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 149504,
+        "end": 150004
+      }
+    },
+    {
+      "id": "6e2516edb52a414f",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 91532,
+      "excerpt": "the compute performance per watt and per memory bandwidth of accelerators used in new and renovated data centers in China. Although we are already effectively foreclosed from the China market by U.S. export controls, if those controls changed to allow us to return to the market, the Chinese government could modify or implement the Action Plan in a way that effectively prevents us from being able to design products to meet the new standard, which may restrict the ability of customers to use some",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 150089,
+        "end": 150648
+      }
+    },
+    {
+      "id": "41d8a76935ce70b0",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 92443,
+      "excerpt": "ea. Any new restrictions that negatively impact our ability to receive supply of components, parts, or services from Taiwan and South Korea, would negatively impact our business and financial results. Scrutiny from shareholders, regulators and others regarding our corporate sustainability practices could result in additional costs or risks and adversely impact our reputation and willingness of customers and suppliers to do business with us. Certain shareholder advocacy groups, investment funds,",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 150999,
+        "end": 151558
+      }
+    },
+    {
+      "id": "24a12bd76d50306e",
+      "ticker": "NVDA",
+      "vendor": "Arm",
+      "charOffset": 93245,
+      "excerpt": "r the speed of their adoption. Further, there are state-level initiatives in the U.S. that may differ from other 28 Table of Contents regulatory requirements or our various stakeholders’ expectations. Additionally, our corporate sustainability practices, oversight of our practices or disclosure controls may not meet evolving shareholder, regulator or other industry stakeholder expectations, or we may fail to meet corporate sustainability disclosure or reporting standards or legal requirements. W",
+      "sectionId": "item_1a_risk_factors_the_following_risk_",
+      "sectionHeader": "Item 1A. Risk Factors The following risk factors should be considered in addition to the o",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 151801,
+        "end": 152301
+      }
+    },
+    {
+      "id": "c0efaa0a3899e923",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 630,
+      "excerpt": "we evaluate and evolve our security measures as appropriate. We consult with external parties, such as cybersecurity firms and risk management and governance experts, on risk management and strategy. Identifying, assessing, and managing cybersecurity risk is integrated into our overall risk management systems and processes, and we have in place cybersecurity and data privacy training and policies designed to (a) respond to new requirements in global privacy and cybersecurity laws and (b) prevent",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Risk management and strate",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 174104,
+        "end": 174604
+      }
+    },
+    {
+      "id": "97c00a081c75133a",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 1414,
+      "excerpt": "supplier questionnaires designed to help us evaluate cybersecurity risks that we may encounter when working with third parties that have access to confidential and other sensitive company information. We take steps to review that such vendors have implemented data privacy and security controls that help mitigate the cybersecurity risks associated with these vendors, depending on the nature and sensitivity of the supplier and data they process on our behalf. We routinely assess our high-risk supp",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Risk management and strate",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 174887,
+        "end": 175387
+      }
+    },
+    {
+      "id": "80cb34d6f12c547d",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 4665,
+      "excerpt": "ructure. Our ability to increase manufacturing capabilities will depend on the local region's manufacturing ecosystem's capacity to ramp production supply to the required volume and on a timely basis. 36 Table of Contents We have made, and expect to continue making, investments that support our technology roadmap and the broader AI ecosystem. In fiscal year 2026, we made the following investments: • We invested $17.5 billion in private companies and infrastructure funds, primarily to support ear",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors,” our Consolidated Financial Statements and related Notes thereto, a",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 188834,
+        "end": 189334
+      }
+    },
+    {
+      "id": "91db563b19db1ecb",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 6588,
+      "excerpt": "wages, costs for capital equipment, the value of our investments, revenue and competitive position. Our product and solution pricing generally does not fluctuate with short-term changes in our costs. Within our supply chain, we continuously manage product availability and costs with our vendors. Refer to “",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors,” our Consolidated Financial Statements and related Notes thereto, a",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 190758,
+        "end": 191065
+      }
+    },
+    {
+      "id": "814d6b46677593fc",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 14528,
+      "excerpt": "he United States accounted for 31% and 41% of total revenue for fiscal years 2026 and 2025, respectively. Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue. Cost of revenue consists of the cost of semiconductors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory",
+      "sectionId": "item_1a_risk_factors_risks_related_to_re",
+      "sectionHeader": "Item 1A. Risk Factors – Risks Related to Regulatory, Legal, Our Stock and Other Matters” f",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 205593,
+        "end": 206153
+      }
+    },
+    {
+      "id": "5d4858a50ce45c77",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 2668,
+      "excerpt": "change rate fluctuations. Increases in the value of the United States’ dollar relative to other currencies would make our products more expensive, which could negatively impact our ability to compete. Conversely, decreases in the value of the United States’ dollar relative to other currencies could result in our suppliers raising their manufacturing costs. If the U.S. dollar strengthened by 10% as of January 25, 2026 and January 26, 2025, the amount recorded in Accumulated other comprehensive in",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk Investment and Interes",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 220771,
+        "end": 221271
+      }
+    },
+    {
+      "id": "58813792f1c3ff8d",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 30709,
+      "excerpt": "t exposures, and includes certain limits on our portfolio maturities. We perform ongoing credit evaluations of our customers’ financial condition and maintain an allowance for potential credit losses. This allowance consists of an amount identified for specific customers and an amount based on overall estimated exposure. Our overall estimated exposure excludes amounts covered by credit insurance and letters of credit. Inventories Inventory cost is computed on an adjusted standard basis, which ap",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 265481,
+        "end": 265981
+      }
+    },
+    {
+      "id": "0632bb86f770e1be",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 31608,
+      "excerpt": "charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to excess quantities of products, based on our inventory levels and future product purchase commitments compared to assumptions about future demand including the impact of regulatory export restrictions on our products. Once inventory has been written-off or",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 266380,
+        "end": 266939
+      }
+    },
+    {
+      "id": "c4c2d72b1940f6f4",
+      "ticker": "NVDA",
+      "vendor": null,
+      "charOffset": 64563,
+      "excerpt": "s and Contingencies Commitments Manufacturing, supply, and capacity commitments reflect datacenter-scale production and longer future ordering horizons across current and future product architectures. We enter into agreements with our supply vendors that allow them to procure inventory based upon our defined criteria, and in certain instances, these agreements are cancellable, able to be rescheduled, or adjustable for our business needs prior to placing firm orders. Changes to these agreements m",
+      "sectionId": "item_9a_our_responsibility_is_to_express",
+      "sectionHeader": "Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial",
+      "form": "10-K",
+      "filingDate": "2026-02-25",
+      "type": "chunk",
+      "range": {
+        "start": 299335,
+        "end": 299835
+      }
+    }
+  ]
+}

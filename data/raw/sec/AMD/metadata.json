@@ -1,0 +1,51 @@
+{
+  "ticker": "AMD",
+  "cik": "0000002488",
+  "name": "ADVANCED MICRO DEVICES INC",
+  "scrapedAt": "2026-05-29T04:55:59.052Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 34639000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 8091000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 17152000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 76926000000,
+      "end": "2025-12-27",
+      "filed": "2026-02-04",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 5329000000,
+      "end": "2017-12-30",
+      "filed": "2018-02-27",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 34639000000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-04",
+    "accessionNumber": "0000002488-26-000018",
+    "primaryDocument": "amd-20251227.htm",
+    "reportDate": "2025-12-27"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+  "htmlLength": 2174592
+}

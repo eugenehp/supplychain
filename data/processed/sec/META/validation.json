@@ -1,0 +1,26 @@
+{
+  "valid": true,
+  "checks": [
+    {
+      "id": "text",
+      "ok": true,
+      "detail": "535746 chars"
+    },
+    {
+      "id": "sections",
+      "ok": true,
+      "detail": "31 sections"
+    },
+    {
+      "id": "chunks",
+      "ok": true,
+      "detail": "590 chunks"
+    },
+    {
+      "id": "entities",
+      "ok": true,
+      "detail": "148 vendors"
+    }
+  ],
+  "errors": []
+}

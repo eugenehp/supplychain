@@ -1,0 +1,57 @@
+{
+  "ticker": "META",
+  "name": "Meta Platforms, Inc.",
+  "cik": "0001326801",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-29",
+    "accessionNumber": "0001628280-26-003942",
+    "primaryDocument": "meta-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+  "facts": {
+    "Revenues": {
+      "value": 40653000000,
+      "end": "2017-12-31",
+      "filed": "2018-02-01",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 200966000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 57372000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 36175000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 366021000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    }
+  },
+  "textLength": 516014,
+  "exportedAt": "2026-05-29T05:38:06.895Z",
+  "logoUrl": "/logos/META.svg",
+  "logoPrimaryUrl": "/logos/META.svg",
+  "logoFallbackUrl": "/logos/META.png",
+  "localUrls": {
+    "text": "/sec/META/filing.txt",
+    "metadata": "/sec/META/metadata.json",
+    "sections": "/sec/META/sections.json",
+    "evidence": "/sec/META/evidence.json",
+    "display": "/sec/META/display.json"
+  }
+}

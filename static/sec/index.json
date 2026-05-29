@@ -1,0 +1,1130 @@
+{
+  "generatedAt": "2026-05-29T05:38:10.719Z",
+  "filings": [
+    {
+      "ticker": "AMAT",
+      "name": "APPLIED MATERIALS INC /DE",
+      "cik": "0000006951",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-12-12",
+        "accessionNumber": "0001628280-25-056742",
+        "primaryDocument": "amat-20251026.htm",
+        "reportDate": "2025-10-26"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm",
+      "facts": {
+        "Revenues": {
+          "value": 14608000000,
+          "end": "2019-10-27",
+          "filed": "2019-12-13",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 28368000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3570000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 13808000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 36299000000,
+          "end": "2025-10-26",
+          "filed": "2025-12-12",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 14537000000,
+          "end": "2017-10-29",
+          "filed": "2017-12-15",
+          "form": "10-K"
+        }
+      },
+      "textLength": 291685,
+      "exportedAt": "2026-05-29T05:37:46.427Z",
+      "logoUrl": "/logos/AMAT.svg",
+      "logoPrimaryUrl": "/logos/AMAT.svg",
+      "logoFallbackUrl": "/logos/AMAT.png",
+      "localUrls": {
+        "text": "/sec/AMAT/filing.txt",
+        "metadata": "/sec/AMAT/metadata.json",
+        "sections": "/sec/AMAT/sections.json",
+        "evidence": "/sec/AMAT/evidence.json",
+        "display": "/sec/AMAT/display.json"
+      },
+      "evidenceCount": 68,
+      "sectionCount": 1,
+      "displayBlockCount": 272
+    },
+    {
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "cik": "0000002488",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-04",
+        "accessionNumber": "0000002488-26-000018",
+        "primaryDocument": "amd-20251227.htm",
+        "reportDate": "2025-12-27"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 34639000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 8091000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 17152000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 76926000000,
+          "end": "2025-12-27",
+          "filed": "2026-02-04",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 5329000000,
+          "end": "2017-12-30",
+          "filed": "2018-02-27",
+          "form": "10-K"
+        }
+      },
+      "textLength": 392109,
+      "exportedAt": "2026-05-29T05:37:46.485Z",
+      "logoUrl": "/logos/AMD.svg",
+      "logoPrimaryUrl": "/logos/AMD.svg",
+      "logoFallbackUrl": "/logos/AMD.png",
+      "localUrls": {
+        "text": "/sec/AMD/filing.txt",
+        "metadata": "/sec/AMD/metadata.json",
+        "sections": "/sec/AMD/sections.json",
+        "evidence": "/sec/AMD/evidence.json",
+        "display": "/sec/AMD/display.json"
+      },
+      "evidenceCount": 133,
+      "sectionCount": 16,
+      "displayBlockCount": 371
+    },
+    {
+      "ticker": "AMKR",
+      "name": "AMKOR TECHNOLOGY, INC.",
+      "cik": "0001047127",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-20",
+        "accessionNumber": "0001047127-26-000014",
+        "primaryDocument": "amkr-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1047127/000104712726000014/amkr-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 4052650000,
+          "end": "2019-12-31",
+          "filed": "2020-02-19",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 6707981000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 166743000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 938599000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 8136309000,
+          "end": "2025-12-31",
+          "filed": "2026-02-20",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 4186497000,
+          "end": "2017-12-31",
+          "filed": "2018-02-23",
+          "form": "10-K"
+        }
+      },
+      "textLength": 342542,
+      "exportedAt": "2026-05-29T05:37:46.927Z",
+      "logoUrl": "/logos/AMKR.svg",
+      "logoPrimaryUrl": "/logos/AMKR.svg",
+      "logoFallbackUrl": "/logos/AMKR.png",
+      "localUrls": {
+        "text": "/sec/AMKR/filing.txt",
+        "metadata": "/sec/AMKR/metadata.json",
+        "sections": "/sec/AMKR/sections.json",
+        "evidence": "/sec/AMKR/evidence.json",
+        "display": "/sec/AMKR/display.json"
+      },
+      "evidenceCount": 186,
+      "sectionCount": 14,
+      "displayBlockCount": 189
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMAZON COM INC",
+      "cik": "0001018724",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-06",
+        "accessionNumber": "0001018724-26-000004",
+        "primaryDocument": "amzn-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 716924000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 5531000000,
+          "end": "2009-12-31",
+          "filed": "2010-01-29",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 818042000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 177866000000,
+          "end": "2017-12-31",
+          "filed": "2018-02-02",
+          "form": "10-K"
+        }
+      },
+      "textLength": 283445,
+      "exportedAt": "2026-05-29T05:37:47.523Z",
+      "logoUrl": "/logos/AMZN.svg",
+      "logoPrimaryUrl": "/logos/AMZN.svg",
+      "logoFallbackUrl": "/logos/AMZN.png",
+      "localUrls": {
+        "text": "/sec/AMZN/filing.txt",
+        "metadata": "/sec/AMZN/metadata.json",
+        "sections": "/sec/AMZN/sections.json",
+        "evidence": "/sec/AMZN/evidence.json",
+        "display": "/sec/AMZN/display.json"
+      },
+      "evidenceCount": 92,
+      "sectionCount": 11,
+      "displayBlockCount": 146
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML HOLDING NV",
+      "cik": "0000937966",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-02-25",
+        "accessionNumber": "0001628280-26-011378",
+        "primaryDocument": "asml-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 32667300000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 4698800000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 17258000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 50566600000,
+          "end": "2025-12-31",
+          "filed": "2026-02-25",
+          "form": "20-F"
+        },
+        "SalesRevenueNet": {
+          "value": 9052800000,
+          "end": "2017-12-31",
+          "filed": "2018-02-07",
+          "form": "20-F"
+        }
+      },
+      "textLength": 1336690,
+      "exportedAt": "2026-05-29T05:37:47.755Z",
+      "logoUrl": "/logos/ASML.svg",
+      "logoPrimaryUrl": "/logos/ASML.svg",
+      "logoFallbackUrl": "/logos/ASML.png",
+      "localUrls": {
+        "text": "/sec/ASML/filing.txt",
+        "metadata": "/sec/ASML/metadata.json",
+        "sections": "/sec/ASML/sections.json",
+        "evidence": "/sec/ASML/evidence.json",
+        "display": "/sec/ASML/display.json"
+      },
+      "evidenceCount": 808,
+      "sectionCount": 9,
+      "displayBlockCount": 795
+    },
+    {
+      "ticker": "BIDU",
+      "name": "Baidu, Inc.",
+      "cik": "0001329099",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-03-17",
+        "accessionNumber": "0001193125-26-109289",
+        "primaryDocument": "d38065d20f.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526109289/d38065d20f.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 18458000000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "20-F"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2922000000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "20-F"
+        },
+        "CostOfRevenue": {
+          "value": 1035063000,
+          "end": "2012-12-31",
+          "filed": "2013-03-27",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 64229000000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "20-F"
+        },
+        "SalesRevenueNet": {
+          "value": 13034000000,
+          "end": "2017-12-31",
+          "filed": "2018-03-15",
+          "form": "20-F"
+        }
+      },
+      "textLength": 1284459,
+      "exportedAt": "2026-05-29T05:38:03.743Z",
+      "logoUrl": "/logos/BIDU.png",
+      "logoPrimaryUrl": "/logos/BIDU.png",
+      "logoFallbackUrl": "/logos/BIDU.svg",
+      "localUrls": {
+        "text": "/sec/BIDU/filing.txt",
+        "metadata": "/sec/BIDU/metadata.json",
+        "sections": "/sec/BIDU/sections.json",
+        "evidence": "/sec/BIDU/evidence.json",
+        "display": "/sec/BIDU/display.json"
+      },
+      "evidenceCount": 82,
+      "sectionCount": 17,
+      "displayBlockCount": 488
+    },
+    {
+      "ticker": "CDNS",
+      "name": "CADENCE DESIGN SYSTEMS INC",
+      "cik": "0000813672",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-19",
+        "accessionNumber": "0000813672-26-000016",
+        "primaryDocument": "cdns-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000016/cdns-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 5296759000,
+          "end": "2025-12-31",
+          "filed": "2026-02-19",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 10153148000,
+          "end": "2025-12-31",
+          "filed": "2026-02-19",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 1943032000,
+          "end": "2017-12-30",
+          "filed": "2018-02-20",
+          "form": "10-K"
+        }
+      },
+      "textLength": 448351,
+      "exportedAt": "2026-05-29T05:38:04.422Z",
+      "logoUrl": "/logos/CDNS.svg",
+      "logoPrimaryUrl": "/logos/CDNS.svg",
+      "logoFallbackUrl": "/logos/CDNS.png",
+      "localUrls": {
+        "text": "/sec/CDNS/filing.txt",
+        "metadata": "/sec/CDNS/metadata.json",
+        "sections": "/sec/CDNS/sections.json",
+        "evidence": "/sec/CDNS/evidence.json",
+        "display": "/sec/CDNS/display.json"
+      },
+      "evidenceCount": 118,
+      "sectionCount": 15,
+      "displayBlockCount": 272
+    },
+    {
+      "ticker": "GFS",
+      "name": "GLOBALFOUNDRIES Inc.",
+      "cik": "0001709048",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-02-27",
+        "accessionNumber": "0001709048-26-000022",
+        "primaryDocument": "gfs-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1709048/000170904826000022/gfs-20251231.htm",
+      "facts": {
+        "ResearchAndDevelopmentExpense": {
+          "value": 518000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 1690000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 17141000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "Revenue": {
+          "value": 6791000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        },
+        "RevenueFromContractsWithCustomers": {
+          "value": 6791000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "20-F"
+        }
+      },
+      "textLength": 588724,
+      "exportedAt": "2026-05-29T05:38:04.780Z",
+      "logoUrl": "/logos/GFS.png",
+      "logoPrimaryUrl": "/logos/GFS.png",
+      "logoFallbackUrl": "/logos/GFS.svg",
+      "localUrls": {
+        "text": "/sec/GFS/filing.txt",
+        "metadata": "/sec/GFS/metadata.json",
+        "sections": "/sec/GFS/sections.json",
+        "evidence": "/sec/GFS/evidence.json",
+        "display": "/sec/GFS/display.json"
+      },
+      "evidenceCount": 179,
+      "sectionCount": 17,
+      "displayBlockCount": 389
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "cik": "0001652044",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-05",
+        "accessionNumber": "0001652044-26-000018",
+        "primaryDocument": "goog-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 402836000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 350018000000,
+          "end": "2024-12-31",
+          "filed": "2025-02-05",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 61087000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 162535000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 595281000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-05",
+          "form": "10-K"
+        }
+      },
+      "textLength": 344455,
+      "exportedAt": "2026-05-29T05:38:05.793Z",
+      "logoUrl": "/logos/GOOGL.svg",
+      "logoPrimaryUrl": "/logos/GOOGL.svg",
+      "logoFallbackUrl": "/logos/GOOGL.png",
+      "localUrls": {
+        "text": "/sec/GOOGL/filing.txt",
+        "metadata": "/sec/GOOGL/metadata.json",
+        "sections": "/sec/GOOGL/sections.json",
+        "evidence": "/sec/GOOGL/evidence.json",
+        "display": "/sec/GOOGL/display.json"
+      },
+      "evidenceCount": 60,
+      "sectionCount": 13,
+      "displayBlockCount": 196
+    },
+    {
+      "ticker": "INTC",
+      "name": "INTEL CORP",
+      "cik": "0000050863",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-23",
+        "accessionNumber": "0000050863-26-000011",
+        "primaryDocument": "intc-20251227.htm",
+        "reportDate": "2025-12-27"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 52853000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 13774000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 18375000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 211429000000,
+          "end": "2025-12-27",
+          "filed": "2026-01-23",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 62761000000,
+          "end": "2017-12-30",
+          "filed": "2018-02-16",
+          "form": "10-K"
+        }
+      },
+      "textLength": 516811,
+      "exportedAt": "2026-05-29T05:38:05.935Z",
+      "logoUrl": "/logos/INTC.svg",
+      "logoPrimaryUrl": "/logos/INTC.svg",
+      "logoFallbackUrl": "/logos/INTC.png",
+      "localUrls": {
+        "text": "/sec/INTC/filing.txt",
+        "metadata": "/sec/INTC/metadata.json",
+        "sections": "/sec/INTC/sections.json",
+        "evidence": "/sec/INTC/evidence.json",
+        "display": "/sec/INTC/display.json"
+      },
+      "evidenceCount": 70,
+      "sectionCount": 2,
+      "displayBlockCount": 18
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA CORP",
+      "cik": "0000319201",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-08-08",
+        "accessionNumber": "0000319201-25-000024",
+        "primaryDocument": "klac-20250630.htm",
+        "reportDate": "2025-06-30"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 12156162000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 1360334000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 4751867000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 1153230000,
+          "end": "2021-06-30",
+          "filed": "2021-08-06",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 16067926000,
+          "end": "2025-06-30",
+          "filed": "2025-08-08",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 4036701000,
+          "end": "2018-06-30",
+          "filed": "2018-08-06",
+          "form": "10-K"
+        }
+      },
+      "textLength": 451393,
+      "exportedAt": "2026-05-29T05:38:05.956Z",
+      "logoUrl": "/logos/KLAC.svg",
+      "logoPrimaryUrl": "/logos/KLAC.svg",
+      "logoFallbackUrl": "/logos/KLAC.png",
+      "localUrls": {
+        "text": "/sec/KLAC/filing.txt",
+        "metadata": "/sec/KLAC/metadata.json",
+        "sections": "/sec/KLAC/sections.json",
+        "evidence": "/sec/KLAC/evidence.json",
+        "display": "/sec/KLAC/display.json"
+      },
+      "evidenceCount": 155,
+      "sectionCount": 11,
+      "displayBlockCount": 291
+    },
+    {
+      "ticker": "LRCX",
+      "name": "LAM RESEARCH CORP",
+      "cik": "0000707549",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-08-11",
+        "accessionNumber": "0000707549-25-000075",
+        "primaryDocument": "lrcx-20250629.htm",
+        "reportDate": "2025-06-29"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm",
+      "facts": {
+        "Revenues": {
+          "value": 3237693000,
+          "end": "2011-06-26",
+          "filed": "2011-08-19",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 18435591000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2096387000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1581123000,
+          "end": "2012-06-24",
+          "filed": "2012-08-22",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 8979059000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 21345260000,
+          "end": "2025-06-29",
+          "filed": "2025-08-11",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 11076998000,
+          "end": "2018-06-24",
+          "filed": "2018-08-14",
+          "form": "10-K"
+        }
+      },
+      "textLength": 330553,
+      "exportedAt": "2026-05-29T05:38:06.530Z",
+      "logoUrl": "/logos/LRCX.svg",
+      "logoPrimaryUrl": "/logos/LRCX.svg",
+      "logoFallbackUrl": "/logos/LRCX.png",
+      "localUrls": {
+        "text": "/sec/LRCX/filing.txt",
+        "metadata": "/sec/LRCX/metadata.json",
+        "sections": "/sec/LRCX/sections.json",
+        "evidence": "/sec/LRCX/evidence.json",
+        "display": "/sec/LRCX/display.json"
+      },
+      "evidenceCount": 137,
+      "sectionCount": 14,
+      "displayBlockCount": 241
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "cik": "0001326801",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-29",
+        "accessionNumber": "0001628280-26-003942",
+        "primaryDocument": "meta-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 40653000000,
+          "end": "2017-12-31",
+          "filed": "2018-02-01",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 200966000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 57372000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 36175000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 366021000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        }
+      },
+      "textLength": 516014,
+      "exportedAt": "2026-05-29T05:38:06.895Z",
+      "logoUrl": "/logos/META.svg",
+      "logoPrimaryUrl": "/logos/META.svg",
+      "logoFallbackUrl": "/logos/META.png",
+      "localUrls": {
+        "text": "/sec/META/filing.txt",
+        "metadata": "/sec/META/metadata.json",
+        "sections": "/sec/META/sections.json",
+        "evidence": "/sec/META/evidence.json",
+        "display": "/sec/META/display.json"
+      },
+      "evidenceCount": 50,
+      "sectionCount": 13,
+      "displayBlockCount": 459
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MICROSOFT CORP",
+      "cik": "0000789019",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-07-30",
+        "accessionNumber": "0000950170-25-100235",
+        "primaryDocument": "msft-20250630.htm",
+        "reportDate": "2025-06-30"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+      "facts": {
+        "Revenues": {
+          "value": 62484000000,
+          "end": "2010-06-30",
+          "filed": "2010-07-30",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 281724000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 32488000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 34261000000,
+          "end": "2017-06-30",
+          "filed": "2017-08-02",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 193893000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 619003000000,
+          "end": "2025-06-30",
+          "filed": "2025-07-30",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 89950000000,
+          "end": "2017-06-30",
+          "filed": "2017-08-02",
+          "form": "10-K"
+        }
+      },
+      "textLength": 313393,
+      "exportedAt": "2026-05-29T05:38:07.077Z",
+      "logoUrl": "/logos/MSFT.png",
+      "logoPrimaryUrl": "/logos/MSFT.png",
+      "logoFallbackUrl": "/logos/MSFT.svg",
+      "localUrls": {
+        "text": "/sec/MSFT/filing.txt",
+        "metadata": "/sec/MSFT/metadata.json",
+        "sections": "/sec/MSFT/sections.json",
+        "evidence": "/sec/MSFT/evidence.json",
+        "display": "/sec/MSFT/display.json"
+      },
+      "evidenceCount": 81,
+      "sectionCount": 15,
+      "displayBlockCount": 329
+    },
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "cik": "0000723125",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-10-03",
+        "accessionNumber": "0000723125-25-000028",
+        "primaryDocument": "mu-20250828.htm",
+        "reportDate": "2025-08-28"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm",
+      "facts": {
+        "Revenues": {
+          "value": 30391000000,
+          "end": "2018-08-30",
+          "filed": "2018-10-15",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 37378000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3798000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 14873000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 82798000000,
+          "end": "2025-08-28",
+          "filed": "2025-10-03",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 20322000000,
+          "end": "2017-08-31",
+          "filed": "2017-10-26",
+          "form": "10-K"
+        }
+      },
+      "textLength": 356179,
+      "exportedAt": "2026-05-29T05:38:07.231Z",
+      "logoUrl": "/logos/MU.svg",
+      "logoPrimaryUrl": "/logos/MU.svg",
+      "logoFallbackUrl": "/logos/MU.png",
+      "localUrls": {
+        "text": "/sec/MU/filing.txt",
+        "metadata": "/sec/MU/metadata.json",
+        "sections": "/sec/MU/sections.json",
+        "evidence": "/sec/MU/evidence.json",
+        "display": "/sec/MU/display.json"
+      },
+      "evidenceCount": 233,
+      "sectionCount": 11,
+      "displayBlockCount": 109
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "cik": "0001045810",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-25",
+        "accessionNumber": "0001045810-26-000021",
+        "primaryDocument": "nvda-20260125.htm",
+        "reportDate": "2026-01-25"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "facts": {
+        "Revenues": {
+          "value": 215938000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 26914000000,
+          "end": "2022-01-30",
+          "filed": "2022-03-18",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 18497000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 62475000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 153463000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 206803000000,
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K"
+        }
+      },
+      "textLength": 340242,
+      "exportedAt": "2026-05-29T05:38:08.137Z",
+      "logoUrl": "/logos/NVDA.svg",
+      "logoPrimaryUrl": "/logos/NVDA.svg",
+      "logoFallbackUrl": "/logos/NVDA.png",
+      "localUrls": {
+        "text": "/sec/NVDA/filing.txt",
+        "metadata": "/sec/NVDA/metadata.json",
+        "sections": "/sec/NVDA/sections.json",
+        "evidence": "/sec/NVDA/evidence.json",
+        "display": "/sec/NVDA/display.json"
+      },
+      "evidenceCount": 130,
+      "sectionCount": 17,
+      "displayBlockCount": 198
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
+      "cik": "0000883241",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-12-22",
+        "accessionNumber": "0000883241-25-000028",
+        "primaryDocument": "snps-20251031.htm",
+        "reportDate": "2025-10-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/snps-20251031.htm",
+      "facts": {
+        "Revenues": {
+          "value": 5081542000,
+          "end": "2022-10-31",
+          "filed": "2022-12-12",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 7054178000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2479338000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1623549000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 5430629000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 48224461000,
+          "end": "2025-10-31",
+          "filed": "2025-12-22",
+          "form": "10-K"
+        }
+      },
+      "textLength": 417623,
+      "exportedAt": "2026-05-29T05:38:08.493Z",
+      "logoUrl": "/logos/SNPS.svg",
+      "logoPrimaryUrl": "/logos/SNPS.svg",
+      "logoFallbackUrl": "/logos/SNPS.png",
+      "localUrls": {
+        "text": "/sec/SNPS/filing.txt",
+        "metadata": "/sec/SNPS/metadata.json",
+        "sections": "/sec/SNPS/sections.json",
+        "evidence": "/sec/SNPS/evidence.json",
+        "display": "/sec/SNPS/display.json"
+      },
+      "evidenceCount": 118,
+      "sectionCount": 15,
+      "displayBlockCount": 378
+    },
+    {
+      "ticker": "TSM",
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "cik": "0001046179",
+      "filing": {
+        "form": "20-F",
+        "filingDate": "2026-04-16",
+        "accessionNumber": "0001628280-26-025362",
+        "primaryDocument": "tsm-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "facts": {
+        "ResearchAndDevelopmentExpense": {
+          "value": 6227000000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "GrossProfit": {
+          "value": 49538100000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "Assets": {
+          "value": 204079400000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "Revenue": {
+          "value": 88268000000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        },
+        "RevenueFromContractsWithCustomers": {
+          "value": 2894307700000,
+          "end": "2024-12-31",
+          "filed": "2025-04-17",
+          "form": "20-F"
+        }
+      },
+      "textLength": 667613,
+      "exportedAt": "2026-05-29T05:38:08.815Z",
+      "logoUrl": "/logos/TSM.svg",
+      "logoPrimaryUrl": "/logos/TSM.svg",
+      "logoFallbackUrl": "/logos/TSM.png",
+      "localUrls": {
+        "text": "/sec/TSM/filing.txt",
+        "metadata": "/sec/TSM/metadata.json",
+        "sections": "/sec/TSM/sections.json",
+        "evidence": "/sec/TSM/evidence.json",
+        "display": "/sec/TSM/display.json"
+      },
+      "evidenceCount": 242,
+      "sectionCount": 19,
+      "displayBlockCount": 417
+    }
+  ],
+  "evidenceCount": 2942,
+  "embeddingModel": null,
+  "embeddingsUrl": null
+}

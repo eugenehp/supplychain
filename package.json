@@ -1,0 +1,55 @@
+{
+  "name": "supply_chain",
+  "private": true,
+  "version": "0.0.0",
+  "description": "SEC-grounded AI accelerator supply chain research — interactive Sankey maps, filing evidence, and RAG search",
+  "author": "Eugene Hauptmann (https://www.linkedin.com/in/eugenehp/)",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugenehp/supplychain.git"
+  },
+  "homepage": "https://github.com/eugenehp/supplychain#readme",
+  "type": "module",
+  "scripts": {
+    "pipeline": "node scripts/pipeline.mjs",
+    "scrape": "node scripts/pipeline.mjs",
+    "query": "node scripts/query-rag.mjs",
+    "test:search": "node scripts/test-search.mjs",
+    "glossary": "node scripts/lib/export-glossary.mjs",
+    "logos": "node scripts/fetch-logos.mjs",
+    "rag:server": "node scripts/rag-server.mjs",
+    "predev": "node scripts/pipeline.mjs --skip-scrape --skip-embed",
+    "dev": "vite",
+    "prebuild": "node scripts/pipeline.mjs --skip-scrape --skip-embed",
+    "build": "vite build",
+    "benchmark:ui": "node scripts/benchmark-ui.mjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@internationalized/date": "^3.12.2",
+    "@lucide/svelte": "^1.17.0",
+    "@sveltejs/vite-plugin-svelte": "^7.1.2",
+    "@tailwindcss/vite": "^4.3.0",
+    "svelte": "^5.55.5",
+    "tailwindcss": "^4.3.0",
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "better-sqlite3": "^12.10.0",
+    "bits-ui": "^2.18.1",
+    "clsx": "^2.1.1",
+    "d3": "^7.9.0",
+    "d3-sankey": "^0.12.3",
+    "d3-scale": "^4.0.2",
+    "d3-selection": "^3.0.0",
+    "jspdf": "^4.2.1",
+    "minisearch": "^7.2.0",
+    "svg2pdf.js": "^2.7.0",
+    "tailwind-merge": "^3.6.0",
+    "tailwind-variants": "^3.2.2",
+    "topojson-client": "^3.1.0",
+    "tw-animate-css": "^1.4.0"
+  }
+}

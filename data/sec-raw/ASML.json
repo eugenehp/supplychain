@@ -1,0 +1,59 @@
+{
+  "ticker": "ASML",
+  "cik": "0000937966",
+  "name": "ASML HOLDING NV",
+  "filing": {
+    "form": "20-F",
+    "filingDate": "2026-02-25",
+    "accessionNumber": "0001628280-26-011378",
+    "primaryDocument": "asml-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 32667300000,
+      "end": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 4698800000,
+      "end": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "CapitalExpendituresIncurredButNotYetPaid": {
+      "value": 29300000,
+      "end": "2021-12-31",
+      "filed": "2022-02-09"
+    }
+  },
+  "signals": {
+    "company": "ASML HOLDING NV",
+    "supplierMentions": [
+      "the adoption of a circular economy that emphasizes material recovery, recycling and sustainable design, the industry see",
+      "net cash provided by operating activities in calculating free cash flow because these payments are necessary to support ",
+      "those",
+      "such incidents, including rebuilding systems, enhancing security measures, modifying products and services, defending ag",
+      "disruptions or attacks. Despite these efforts, remediation may not be fully effective and could result in service interr",
+      "the Board of Manag",
+      "ASML yet remains close",
+      "third parties. Responsibilities for the Sustainability statements and for the limited assurance procedures thereon Respo",
+      "third parties that include information about, among others, value chain and information collected from actors in the val",
+      "GHG emissions from goods and services purchase",
+      "the production of products purchase",
+      "the generation of electricity, heat or steam generated offsite but purchase",
+      "lease",
+      "computational lithography solutions are estimated for the reporting year for the effective active licenses. Annual energ",
+      "renewable sources, and durable and efficient products with recyclable materials that can be upgraded, reuse"
+    ],
+    "customerConcentration": [
+      {
+        "pct": 0,
+        "entity": "our two largest customers"
+      }
+    ],
+    "supplierConcentration": [],
+    "capexMentions": [],
+    "segmentRevenue": []
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm"
+}

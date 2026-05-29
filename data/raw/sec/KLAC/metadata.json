@@ -1,0 +1,57 @@
+{
+  "ticker": "KLAC",
+  "cik": "0000319201",
+  "name": "KLA CORP",
+  "scrapedAt": "2026-05-29T04:56:03.079Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 12156162000,
+      "end": "2025-06-30",
+      "filed": "2025-08-08",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 1360334000,
+      "end": "2025-06-30",
+      "filed": "2025-08-08",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 4751867000,
+      "end": "2025-06-30",
+      "filed": "2025-08-08",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 1153230000,
+      "end": "2021-06-30",
+      "filed": "2021-08-06",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 16067926000,
+      "end": "2025-06-30",
+      "filed": "2025-08-08",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 4036701000,
+      "end": "2018-06-30",
+      "filed": "2018-08-06",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 12156162000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2025-08-08",
+    "accessionNumber": "0000319201-25-000024",
+    "primaryDocument": "klac-20250630.htm",
+    "reportDate": "2025-06-30"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+  "htmlLength": 2891232
+}
