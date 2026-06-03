@@ -2,6 +2,9 @@
   import { onMount } from 'svelte';
   import TopicSelector from './lib/TopicSelector.svelte';
   import TopicView from './lib/TopicView.svelte';
+  import RareEarthView from './lib/materials/RareEarthView.svelte';
+  import ResearchModeSelector from './lib/ResearchModeSelector.svelte';
+  import { loadResearchMode, installResearchModeHashSync, saveResearchMode } from './lib/research-mode.js';
   import ThemeToggle from './lib/ThemeToggle.svelte';
   import SiteLogo from './lib/SiteLogo.svelte';
   import { SITE_AUTHOR, SITE_AUTHOR_LINKEDIN, copyrightYear } from './lib/site.js';
@@ -11,6 +14,7 @@
 
   const year = copyrightYear();
 
+  let researchMode = $state(loadResearchMode());
   let topicId = $state(loadTopicId());
   let topicData = $state(/** @type {object | null} */ (null));
   let topicLoading = $state(true);
@@ -18,10 +22,11 @@
   const topicMeta = $derived(getTopicMeta(topicId));
 
   $effect(() => {
+    if (researchMode !== 'accelerators') return;
     const id = topicId;
     topicLoading = true;
     loadTopicData(id).then((data) => {
-      if (id === topicId) {
+      if (id === topicId && researchMode === 'accelerators') {
         topicData = data;
         topicLoading = false;
       }
@@ -30,9 +35,12 @@
 
   $effect(() => {
     if (typeof document === 'undefined') return;
-    document.title = topicMeta?.label
-      ? `${topicMeta.label} — Supply Chain Research`
-      : 'Supply Chain Research';
+    document.title =
+      researchMode === 'materials'
+        ? 'Rare Earth Elements — Supply Chain Research'
+        : topicMeta?.label
+          ? `${topicMeta.label} — Supply Chain Research`
+          : 'Supply Chain Research';
   });
 
   /** @type {(() => void) | null} */
@@ -57,9 +65,18 @@
     }
 
     const unhash = installTopicHashSync((id) => {
+      researchMode = 'accelerators';
       topicId = id;
       saveTopicId(id, { hash: false });
     });
+
+    const unMode = installResearchModeHashSync((mode) => {
+      researchMode = mode;
+    });
+
+    if (window.location.hash.startsWith('#materials')) {
+      researchMode = 'materials';
+    }
 
     let disconnectResize = () => {};
     const observers = [];
@@ -89,6 +106,7 @@
     return () => {
       disconnectResize();
       unhash();
+      unMode();
       disposeBrandTheme?.();
       disposeBrandTheme = null;
     };
@@ -109,13 +127,23 @@
     </div>
   </div>
   <div class="flex flex-wrap items-center gap-3">
-    <TopicSelector bind:topicId />
+    <ResearchModeSelector
+      bind:mode={researchMode}
+      onchange={(m) => {
+        if (m === 'materials') saveResearchMode('materials');
+      }}
+    />
+    {#if researchMode === 'accelerators'}
+      <TopicSelector bind:topicId />
+    {/if}
     <ThemeToggle />
   </div>
 </header>
 
 <main class="mx-auto max-w-[1400px] px-[var(--page-gutter)] py-4 pb-[var(--scroll-bottom-offset)] sm:py-6">
-  {#if topicLoading && !topicData}
+  {#if researchMode === 'materials'}
+    <RareEarthView />
+  {:else if topicLoading && !topicData}
     <div
       class="text-muted-foreground flex min-h-[40vh] flex-col items-center justify-center gap-3"
       aria-busy="true"

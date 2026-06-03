@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T06:06:30.791Z",
+  "generatedAt": "2026-06-03T06:16:58.245Z",
   "valid": true,
   "stages": [
     {
@@ -170,6 +170,48 @@
               "id": "revenue",
               "ok": true,
               "detail": "$716.9B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "AREC",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "AREC"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001590715"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-05-20"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "1605319 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$0.0B"
             }
           ],
           "errors": []
@@ -553,6 +595,48 @@
           "errors": []
         },
         {
+          "ticker": "MP",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "MP"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001801368"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-26"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "3138568 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$0.3B"
+            }
+          ],
+          "errors": []
+        },
+        {
           "ticker": "MSFT",
           "valid": true,
           "checks": [
@@ -679,6 +763,48 @@
           "errors": []
         },
         {
+          "ticker": "REEMF",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "REEMF"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001419806"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-03-12"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "1731491 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "optional (pre-revenue developer)"
+            }
+          ],
+          "errors": []
+        },
+        {
           "ticker": "SNPS",
           "valid": true,
           "checks": [
@@ -716,6 +842,48 @@
               "id": "revenue",
               "ok": true,
               "detail": "$5.1B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "TMRC",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "TMRC"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001445942"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2025-11-28"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "1192088 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "optional (pre-revenue developer)"
             }
           ],
           "errors": []
@@ -761,6 +929,90 @@
             }
           ],
           "errors": []
+        },
+        {
+          "ticker": "USAR",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "USAR"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001970622"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-03-30"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "3448218 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$0.0B"
+            }
+          ],
+          "errors": []
+        },
+        {
+          "ticker": "UUUU",
+          "valid": true,
+          "checks": [
+            {
+              "id": "ticker",
+              "ok": true,
+              "detail": "UUUU"
+            },
+            {
+              "id": "cik",
+              "ok": true,
+              "detail": "0001385849"
+            },
+            {
+              "id": "filing",
+              "ok": true,
+              "detail": "10-K 2026-02-26"
+            },
+            {
+              "id": "html",
+              "ok": true,
+              "detail": "5180836 bytes"
+            },
+            {
+              "id": "companyfacts",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "submissions",
+              "ok": true,
+              "detail": "present"
+            },
+            {
+              "id": "revenue",
+              "ok": true,
+              "detail": "$0.1B"
+            }
+          ],
+          "errors": []
         }
       ]
     },
@@ -768,16 +1020,17 @@
       "stage": "rag",
       "valid": true,
       "details": {
-        "documents": 9258,
-        "evidence": 2937,
-        "evidenceEmbeddings": 0,
-        "documentEmbeddings": 0,
-        "vendors": 5544,
+        "documents": 12761,
+        "evidence": 3262,
+        "evidenceEmbeddings": 3262,
+        "documentEmbeddings": 12761,
+        "vendors": 7060,
         "tickers": [
           "AMAT",
           "AMD",
           "AMKR",
           "AMZN",
+          "AREC",
           "ASML",
           "BIDU",
           "CDNS",
@@ -787,13 +1040,18 @@
           "KLAC",
           "LRCX",
           "META",
+          "MP",
           "MSFT",
           "MU",
           "NVDA",
+          "REEMF",
           "SNPS",
-          "TSM"
+          "TMRC",
+          "TSM",
+          "USAR",
+          "UUUU"
         ],
-        "queries": 16123
+        "queries": 20443
       }
     },
     {

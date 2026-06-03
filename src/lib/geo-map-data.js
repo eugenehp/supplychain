@@ -13,6 +13,14 @@ export const COUNTRY_CENTROIDS = {
   GB: [-2.5, 54.5],
   BE: [4.5, 50.5],
   FR: [2.2, 46.2],
+  CN: [104.2, 35.9],
+  AU: [133.8, -25.3],
+  MY: [101.7, 3.1],
+  MM: [96.1, 21.9],
+  TZ: [34.9, -6.4],
+  MW: [34.3, -13.3],
+  ZA: [25.7, -28.5],
+  GL: [-42.6, 71.7],
 };
 
 /** world-atlas TopoJSON country id (ISO 3166-1 numeric) → alpha-2 */
@@ -27,6 +35,14 @@ export const NUMERIC_TO_ALPHA = {
   '826': 'GB',
   '056': 'BE',
   '250': 'FR',
+  '156': 'CN',
+  '036': 'AU',
+  '458': 'MY',
+  '104': 'MM',
+  '834': 'TZ',
+  '454': 'MW',
+  '710': 'ZA',
+  '304': 'GL',
 };
 
 /** @param {string} alpha */

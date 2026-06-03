@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "source": "MOFCOM / MIIT rare-earth export quota and control notices (curated)",
+  "methodology": "Key PRC policy milestones affecting REE/magnet exports. Full text in linked public reports.",
+  "events": [
+    {
+      "id": "CN-QUOTA-2023",
+      "year": 2023,
+      "agency": "MIIT",
+      "title": "2023 rare-earth mining and smelting/separation quotas",
+      "summary": "Mining quota 240,000 t REO; separation quota 230,000 t REO — light REE 220,850 t, ion-adsorption clay 19,150 t.",
+      "elements": ["La", "Ce", "Nd", "Pr", "Dy", "Tb", "Y"],
+      "sourceUrl": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-rare-earths.pdf"
+    },
+    {
+      "id": "CN-QUOTA-2024",
+      "year": 2024,
+      "agency": "MIIT",
+      "title": "2024 rare-earth mining and separation quotas (unchanged YoY per USGS MCS 2025)",
+      "summary": "Mining and separation quotas held at 240,000 t and 230,000 t REO equivalent.",
+      "elements": ["La", "Ce", "Nd", "Pr", "Dy", "Tb"],
+      "sourceUrl": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-rare-earths.pdf"
+    },
+    {
+      "id": "CN-EXPORT-LICENSE-2023",
+      "year": 2023,
+      "agency": "MOFCOM",
+      "title": "Export licensing for gallium, germanium (precedent for technology metals controls)",
+      "summary": "August 2023 export controls on Ga/Ge — relevant comparator for REE/magnet trade policy escalation.",
+      "elements": ["Ga", "Ge"],
+      "sourceUrl": "https://www.mofcom.gov.cn/"
+    },
+    {
+      "id": "CN-MAGNET-2023",
+      "year": 2023,
+      "agency": "MOFCOM",
+      "title": "Technology export controls — sintered NdFeB magnet manufacturing (draft guidance)",
+      "summary": "Proposed restrictions on advanced sintered NdFeB production technology exports reported late 2023.",
+      "elements": ["Nd", "Pr", "Dy", "Tb"],
+      "sourceUrl": "https://www.mofcom.gov.cn/"
+    }
+  ]
+}

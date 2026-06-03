@@ -1,0 +1,690 @@
+Critical Raw
+              Materials Act
+SUMMARY
+The EU's ability to boost its competitiveness, become a climate-neutral economy by 2050, sustain
+the green and digital transition and achieve strategic autonomy depends heavily on access to critical
+raw materials (CRMs). Key technologies, across all industries, depend on CRMs' unique physical
+properties.
+The CRM Act (CRMA), aimed at making the EU's supply of CRMs more secure, resilient and
+sustainable, entered into force on 23 May 2024. The CRMA lists 34 CRMs, of which 17 are considered
+'strategic' (SRMs). The act includes measures to strengthen the EU's raw materials supply chains,
+monitor and mitigate supply risks and increase the sustainability of the CRMs consumed in the EU.
+It sets the following non-binding benchmarks for the overall capacity at EU level to be achieved by
+2030 (in terms of annual consumption of SRMs): the EU should mine 10 % of its annual needs, process
+40 % of its needs, and cover 25 % of its needs through recycling. Furthermore, the EU should
+diversify its imports of SRMs and, for each SRM, should not depend on any single third country for
+more than 65 % of its supply by 2030. The CRMA also sets a number of deadlines for key
+developments up to 2031.
+The time has now come to implement the new regulation. The CRMA has generally been hailed as a
+good first step in the right direction, but its weaknesses have also been highlighted. These include
+the lack of specific EU funding and doubt as to whether the measures to accelerate mining will prove
+effective. The EU's capacity to achieve the benchmarks for 2030 has therefore been questioned by
+a number of experts.
+Many proposals for improving the EU's CRM policy have recently been put forward. The Draghi
+Report includes 11 specific priority actions, including setting up a dedicated EU CRM platform to
+deliver a more comprehensive and coordinated strategy covering the whole CRM value chain. The
+Letta Report suggests that the EU could use joint purchasing to set up strategic reserves of key
+CRMs to the benefit of the single market. Other proposals outlined in this briefing include measures
+to boost circularity, ensure coherence of EU law affecting the CRM sector, and develop global
+partnerships to diversify supply.
+
+                                                IN THIS BRIEFING
+                                                •   Introduction
+                                                •   Main features of the CRM Act
+                                                •   Latest developments
+                                                •   The road ahead: Main issues and debate on
+                                                    possible new policy developments
+                                                •   Annex – Deadlines set in the CRM Act
+
+
+
+
+            EPRS | European Parliamentary Research Service
+         Author: Guillaume Ragonnaud; Graphics: Gyorgyi Macsai and Samy Chahri
+                               Members' Research Service
+                              PE 766.253 – November 2024                                                EN
+EPRS | European Parliamentary Research Service
+
+
+Introduction
+A wide range of key technologies across all industries, from chips to batteries, medical imaging to
+tanks, rely on the unique physical properties of certain CRMs (defined as 'critical' on the basis of
+their economic importance and supply risk). The transition to 'net-zero' and the digital age is
+particularly materials intensive. Although demand for CRMs is expected to skyrocket in the coming
+years, it remains uncertain whether supply will keep up with the projected needs. CRM supply chains
+are global, complex, and fragile, which makes them vulnerable to a wide range of risks, including
+those linked to geopolitical tensions.
+The supply of CRMs is often more concentrated than that of fossil fuels. Furthermore, the EU's
+reliance on imports of CRMs is extremely high, sometimes reaching 100 % (e.g. for rare earth
+elements – REEs). The EU's strategic dependency in the supply of REEs is a notable example of the
+challenges linked to the EU's over-dependence on supply chains dominated by third countries.
+The latest outlook released by the International Energy Agency (IEA) in May 2024 points out that
+mineral demand for clean energy technologies is expected to double between today and 2030 in a
+scenario reflecting current policy settings. It would almost triple by 2030 and quadruple by 2040 in
+a net-zero scenario. Furthermore, despite price declines in some CRM markets in 2023 (price falls
+were due to a strong increase in supply and high levels of stocks of technologies made with CRMs),
+investments in the CRM mining sector are still growing globally (+10 % in 2023) and the growth in
+demand for CRMs has remained strong (e.g. +30 % for lithium).
+The EU is highly dependent on imports from China for several CRMs. China has imposed export
+restrictions on gallium and germanium since August 2023, two SRMs for which China is the main EU
+supplier, which has led to a near-doubling of gallium prices in Europe. Moreover, germanium prices
+increased by 52 % between June and August 2024 on suspected stockpiling by China. Export
+controls on graphite have also been in place since October 2023, and from mid-September 2024
+China has imposed export controls on antimony, a CRM for which it is also the main EU supplier.
+Antimony prices have hit a record high and doubled compared to last year.
+Furthermore, China has banned the export of rare earth processing technologies since December
+2023. In addition, China's spending on and acquisition of overseas mines reached record levels of
+$10 billion in the first half of 2023, with a particular focus on battery metals such as lithium, nickel
+and cobalt.
+The need to secure the supply of CRMs is one of the reasons behind the 'rebirth' of industrial policies
+globally. Today, nearly all countries (not least China and the United States) have established forms
+of industrial policy, and the EU has also recently embraced a more active industrial policy agenda.
+During the last mandate, EU legislators marked the 'beginning of a new industrial chapter', adopting
+a number of specific regulatory frameworks supporting the production of strategic technologies
+(Net-zero Industry Act – NZIA), setting up a Strategic Technologies for Europe Platform (STEP) and
+targeting key industries, such as batteries, semiconductors (Chips Act) and CRMs (CRM Act).
+
+Main features of the CRM Act
+The CRM Act (Regulation (EU) 2024/1252) entered into force on 23 May 2024. It sets up a framework
+aimed at ensuring the EU's access to a 'secure, resilient and sustainable supply of CRMs'.
+The CRMA lists 34 CRMs, of which 17 are considered 'strategic' ('SRMs'). CRMs are selected based
+on their economic importance and supply risk, and, among them, SRMs are chosen based on their
+relevance for the green and digital transition and applications in the defence and aerospace sectors,
+forecasted growth in demand and difficulty of increasing production; the CRMA includes the
+methodologies to be used in this process. The Commission can review the list of CRMs and SRMs
+using delegated acts.
+
+
+
+
+2
+                                                         Implementing the EU's Critical Raw Materials Act
+
+
+  Figure 1 – The 34 CRMs, including 17 SRMs                         The CRMA sets non-binding
+                                                                    benchmarks for the overall
+                                                                    capacity at EU level to be achieved
+                                                                    by 2030 (in terms of annual
+                                                                    consumption of SRMs): the EU
+                                                                    should mine 10 % of its annual
+                                                                    needs; process 40 % of its needs;
+                                                                    and cover 25 % of its needs
+                                                                    through recycling. The EU should
+                                                                    also diversify its imports of SRMs
+                                                                    and, for each SRM, should not
+                                                                    depend on any single third country
+                                                                    for more than 65 % of its supply by
+                                                                    2030.
+                                                                    The Commission should publish EU
+                                                                    recycling capacity benchmarks for
+                                                                    SRMs in some waste streams (see
+                                                                    Annex). By November 2025, it
+                                                                    should also publish, for each CRM,
+                                                                    indicative projections of their
+                                                                    annual consumption in 2030, 2040
+                                                                    and     2050,    and      indicative
+                                                                    benchmarks for extraction and
+  Source: EPRS.                                                     processing for each SRM, with a
+                                                                    view to meeting the benchmarks.
+The Commission and Member States should encourage technological progress and resource
+efficiency to moderate the expected increase in EU consumption of CRMs below the reference
+projection. The Commission will monitor progress towards the benchmarks and towards
+'moderat[ing] the expected increase in Union consumption of critical raw materials'. 1 Depending on
+the monitoring results, the Commission could propose measures to ensure they are achieved. It
+should also ask the European standardisation organisations to develop standards to support the
+implementation of the CRMA.
+The CRMA sets a number of deadlines up to 2031 (see Annex). For instance, the Commission should
+publish, by May 2027, a report detailing the EU's progress towards meeting the benchmarks and
+towards moderating the expected increase in EU consumption.
+
+Strengthening the raw materials supply chain
+The Commission is responsible for designating certain raw materials projects as 'strategic projects'
+through a specific application process. To be designated as strategic, they should contribute to the
+EU's security of supply of SRMs, be technically feasible, and be implemented sustainably. These
+projects may be located within the EU or in third countries. Projects in the EU should have cross-
+border benefits, and those in third countries should add value locally. If a Member State objects to
+a potential strategic project on its territory, the Commission will not assess its application. Moreover,
+the Commission cannot approve the application of a project without the explicit approval of the
+third country concerned.
+Member States should designate one authority per relevant administrative level and stage of the
+CRM value chain as the point of contact for the CRM project promoter. They should facilitate and
+coordinate the permit-granting process for CRM projects.
+Strategic projects should be considered by the permitting authority to be in the public interest. The
+permitting authority could authorise strategic projects that have an adverse impact on the
+
+
+
+                                                                                                       3
+EPRS | European Parliamentary Research Service
+
+
+environment – falling within the scope of Directives 2000/60/EC on establishing a framework for
+Community action in the field of water policy, 92/43/EEC on the conservation of natural habitats
+and of wild fauna and flora or 2009/147/EC on the conservation of wild birds, or EU legislative acts
+regarding the restoration of ecosystems – if it considers that the public interest served by the
+projects overrides those impacts, and provided all the conditions set out in those legal acts are met.
+For strategic processes, the permit-granting process shall not exceed 27 months when they concern
+extraction activities, and 15 months when they concern processing or recycling activities.
+Nevertheless, the preparation of the environmental impact assessment report pursuant to Directive
+2011/92/EU on the assessment of the effects of certain public and private projects on the
+environment is not included in the duration of the permit-granting process. When several
+assessments of the effects on the environment are required under EU law, they should be bundled
+through a joint or coordinated procedure, to prevent overlaps and streamline the process.
+The authorities responsible should consider including provisions for CRM projects when developing
+zoning, spatial and land use plans, prioritising priority artificial and built surfaces, industrial and
+brownfield sites, and active or abandoned mines.
+The Commission, together with Member States, should help to facilitate the implementation of
+strategic projects and improve their access to private investment. The Commission should also
+establish a system to facilitate the conclusion of offtake agreements related to strategic projects.
+Each Member State should develop a national exploration programme targeting CRMs, including
+measures to acquire and update information on where CRMs occur on their territory.
+
+Monitoring and mitigating supply risks
+ Figure 2 - Timeline of the adoption of the      The Commission should monitor CRM supply risks,
+ EU CRMA                                         with the support of Member States, by tracking, in
+                                                 particular, trade flows, balances between demand
+                                                 and supply, concentration of supply, price volatility,
+                                                 bottlenecks, and obstacles to trade. A specific
+                                                 monitoring dashboard will be available freely online.
+                                                 The Commission should also carry out a stress test
+                                                 for each SRM at least every 3 years, analysing the
+                                                 vulnerability of the supply chain concerned to
+                                                 disruptions.
+                                              Member States should transmit some relevant
+                                              information (on CRM projects or key companies
+                                              operating in their territory, along the CRM supply
+                                              chain, and on major events that may affect the
+                                              sector) to support the Commission in monitoring the
+                                              supply risks. Member States should also transmit to
+                                              the Commission information on their strategic
+                                              stocks of SRMs (held by all public authorities,
+ Source: EPRS.                                publicly owned companies, or economic operators
+                                              charged with building up strategic stocks on their
+behalf) without compromising their defence or national security.
+Based on this information, the Commission should adopt a benchmark for a safe level of EU strategic
+stocks for each SRM. The Commission may also issue opinions addressed to Member States on the
+increase in the level of strategic stocks and production capabilities, and on possible solutions to
+make cross-border accessibility of such stocks possible for the production of strategic technologies.
+Member States should identify the large companies operating on their territory that use SRMs to
+produce batteries for energy storage and e-mobility; equipment related to hydrogen production and
+
+
+
+4
+                                                        Implementing the EU's Critical Raw Materials Act
+
+
+utilisation, to renewable energy generation, to data transmission and storage, to additive
+manufacturing, and to robotics; aircraft; traction motors; heat pumps; mobile electronic devices;
+drones; rocket launchers; satellites; and advanced chips. These large companies should perform a
+risk assessment of their SRM supply chain and, if necessary, mitigate the vulnerabilities identified.
+The Commission should set up and operate a system to aggregate the demand for some SRMs from
+EU companies consuming such materials and seek offers from suppliers to match that demand. To
+limit the impact on competition in the internal market, the Commission should carry out an ex ante
+impact assessment of the system for each SRM market; EU companies participating in the system
+could jointly negotiate the purchase of the SRMs concerned. The Commission should build on the
+lessons learned from the joint purchasing of gas under Council Regulation (EU) 2022/2576.
+
+Ways to increase the sustainability of CRMs consumed in the EU
+Member States should adopt national programmes including measures that promote circularity,
+such as measures to enhance resource efficiency and moderate the expected increase in EU
+consumption of CRMs, increase the collection of waste with CRM recovery potential, or promote
+circular design and substitution of CRMs in products.
+Operators of extractive waste facilities should carry out a preliminary economic assessment
+concerning the recovery of CRMs from extractive waste. To improve information about the CRM
+potential of closed extractive waste facilities, Member States should publish a database on these
+facilities present on their territory, including information on the quantities of raw materials present
+in the waste concerned. Member States should also promote the recovery of CRMs from extractive
+waste, particularly from closed extractive waste facilities identified in the database and containing
+potentially economically recoverable CRMs.
+Companies selling market magnetic resonance imaging devices, wind energy generators, industrial
+robots, motor vehicles, light means of transport, cooling generators, heat pumps, electric motors
+(including where electric motors are integrated in other products), automatic washing machines,
+tumble driers, microwaves, vacuum cleaners or dishwashers should label these products, indicating
+whether they contain one or more permanent magnets and, if so, which type of permanent magnet
+(e.g. neodymium-iron-boron). Information should also be made available on how to access and
+remove safely the permanent magnets.
+By 24 May 2027 or 2 years from the entry into force of the delegated act setting up the methodology
+to calculate and verify it, any company selling products mentioned above, and for which the total
+weight of all permanent magnets exceeds 0.2 kg, should publish on a free-access website the share
+of secondary (i.e. recovered from post-consumer waste) neodymium, dysprosium, praseodymium,
+terbium, boron, samarium, nickel and cobalt present in the permanent magnets. By 31 December
+2031, the Commission should adopt delegated acts establishing mandatory minimum content for
+secondary neodymium, dysprosium, praseodymium, terbium, boron, samarium, nickel and cobalt
+that must be present in the permanent magnet incorporated in the products concerned.
+The Commission may recognise some certification schemes concerning the sustainability of CRMs
+developed by governments, industry associations and groupings of interested organisations; the
+CRMA lays down criteria to be used by the Commission during the application process. These
+schemes should be open to all economic operators, verification and monitoring of compliance should
+be based on standards, the verifiers should be competent and independent, and an audit report
+should be established at the site where the project is located. The requirements for certification
+should at least include requirements ensuring environmentally sustainable practices, and the
+Commission should publish online a register listing the recognised schemes.
+The Commission should decide which CRMs should be prioritised when it comes to making the
+declaration of their environmental footprint mandatory. This obligation should only apply if the
+Commission has concluded, through a specific assessment, that it would contribute to the EU's
+climate and environmental objectives – by promoting the use of CRMs that have a lower
+
+
+
+                                                                                                      5
+EPRS | European Parliamentary Research Service
+
+
+environmental footprint – and if it would not disproportionately affect trade flows and companies'
+ability to source CRMs. For these CRMs, the Commission should adopt rules to calculate and verify
+their environmental footprint, based on scientific methods and international standards on life-cycle
+assessment. The rules should identify at least the three most important impact categories in terms
+of environmental footprint, including greenhouse gas emissions. The environmental footprint
+declaration should be published freely on the internet.
+Furthermore, the Commission should develop environmental footprint performance classes for
+CRMs for which calculation and verification rules exist, through delegated acts.
+The CRMA creates a European CRM Board, composed of representatives of all Member States and
+of the Commission (which also chairs the Board). The Chair should invite representatives of the
+European Parliament as observers. The Board supports the Commission in the implementation of
+the CRMA – for example, in its assessment of applications for strategic projects or in the
+coordination of strategic stocks. The CRM Board has some standing thematic groups, such as on
+financing or on circularity issues. The Board should also be used by the Member States and the
+Commission to discuss issues related to strategic partnerships in the area of CRMs.
+
+Latest developments
+The first meeting of the CRM Board took place on 23 May 2024 (on the day the CRMA entered into
+force). The Commission opened the call for applications for strategic projects on the same day, and
+the first cut-off date for the submission of applications was set at 22 August 2024. The Commission
+received 170 applications – 71 % from within the EU, covering all stages of the value chain – and is
+expected to take its decision on the applications in the fourth quarter of 2024.
+Furthermore, up to 31 May 2024 the Commission carried out a survey on demand aggregation and
+matchmaking under the CRMA, addressed to businesses and other parties interested in pooling CRM
+demand and connecting supply and demand for CRMs. The Commission explained that the result of
+the survey would contribute to the establishment of this new mechanism.
+In July 2024, the EU and the European Bank for Reconstruction and Development (EBRD) signed,
+under the InvestEU umbrella, an agreement on a new facility to support exploration for CRMs and
+SRMs, aiming to mobilise around €100 million in investments. The EU is contributing €25 million from
+Horizon Europe, the EBRD is providing another €25 million, and the joint facility aims to leverage a
+further €50 million. Some Member States – such as France, Germany and Italy – have also set up
+national funds to boost their supply of CRMs.
+Under its raw materials diplomacy aimed at securing access to CRMs through strategic partnerships
+and policy dialogues, the EU has engaged in strategic partnerships with resource-rich third
+countries. By July 2024, it had signed 14 such strategic partnerships 2 on raw materials (see Figure 3
+below).
+The EU is a member of the minerals security partnership (MSP), which brings together 15 partners 3
+to boost public and private investment in critical minerals projects that help to diversify and stabilise
+global supply chains, promote high environmental, social and governance standards, and increase
+recycling. It is also part of the MSP forum, launched in April 2024 and which has attracted
+23 members since July 2024. Open to countries committing to the MSP principles, it aims to promote
+cooperation between critical minerals-rich countries and countries with high demand for these
+minerals. The CRM Club, announced by the Commission in its 2023 communication on a secure and
+sustainable supply of CRMs in support of the twin transition, is a full part of the MSP Forum.
+
+
+
+
+6
+                                                      Implementing the EU's Critical Raw Materials Act
+
+
+In September 2024, the first sustainable investment facilitation agreement (SIFA), between the EU
+and Angola, entered into force. It aims to facilitate investment for the purposes of economic
+diversification and sustainable development, in all economic sectors, including CRMs. Angola is
+thought to have significant mineral potential.
+
+  Figure 3 – Strategic partnerships signed by the EU
+
+
+
+
+  Source: EPRS, based on European Commission data.
+
+In February 2024, the Commission presented a communication putting forward a number of actions
+to support the advanced materials sector in Europe, as some of them could substitute certain CRMs,
+thus contributing to the objectives of the CRMA.
+
+The road ahead: Main issues and debate on possible new
+policy developments4
+The Letta Report on the future of the single market, published in April 2024, welcomes the CRMA
+but emphasises the need to further intensify efforts to secure the EU's supply of CRMs. Letta
+suggests that the EU could use joint purchasing to set up strategic reserves of key CRMs to the
+benefit of the single market. Moreover, he recommends promoting circular economy principles
+within the single market – for example, by stimulating demand for high-quality recycled materials
+and to promote the use of secondary raw materials.
+The Draghi Report released in September 2024 acknowledges that the CRMA is a step in the right
+direction but emphasises the need for further efforts. Draghi points out that the CRMA must be
+implemented quickly and fully.
+The Draghi Report puts forward 11 proposals as the next steps beyond the CRMA: 1) develop a more
+comprehensive and coordinated strategy covering the whole value chain, building on the CRMA;
+2) set up a dedicated EU CRM platform to deliver on the EU strategy, reinforcing supply chain
+monitoring and playing a role in joint purchasing of CRMs (it could also manage future EU strategic
+stockpiles); 3) develop new financing solutions to support projects along the CRM value chain;
+4) reinforce CRM resource diplomacy to secure supply and diversification; 5) develop joint
+strategies with other global buyers in the G7 or OECD; 6) further promote mining in the EU;
+
+
+
+                                                                                                    7
+EPRS | European Parliamentary Research Service
+
+
+                                                              7) enhance research and innovation in
+    The new European Commission and CRMs                      alternative materials and processes to
+    CRMs are among the key topics for the next European
+                                                              substitute CRMs where possible, and rely on
+    Commission. In her political guidelines for 2024-2029,    components and materials that are more
+    Ursula von der Leyen announced a new clean industrial     abundant or less expensive; 8) establish a
+    deal for competitive industries and quality jobs in the   true single market for waste and recycling in
+    first 100 days of her mandate, focusing on ensuring       the EU; 9) speed up the creation of a
+    access to cheap, sustainable and secure energy            sustainable EU CRM market (for example,
+    supplies and raw materials. She proposed to activate      prohibit market access to CRMs below a
+    and extend the EU's aggregate demand mechanism to         certain threshold for their environmental
+    go beyond gas and include CRMs. The Commission is         footprint); 10) develop strategic stockpiles
+    also expected to work on new clean trade and
+                                                              for some CRMs; and 11) improve CRM
+    investment partnerships to help secure supply of raw
+    materials. Moreover, she announced a new circular
+                                                              market transparency.
+    economy act, which will help to create market demand      In a July 2024 briefing on a European
+    for secondary materials and a single market for waste,    sovereignty fund prepared for the European
+    notably in relation to CRMs.                              Parliament Committee on Economic Affairs
+    Stéphane Séjourné, as mentioned in his mission letter,    (ECON), Daniel Gros, Director of the
+    is the Commissioner-designate entrusted with              Institute for European Policymaking at
+    implementing the CRMA. He will establish an EU CRM        Bocconi University, argues that a new
+    platform to support joint purchasing and manage           European CRM fund could be set up to
+    strategic stockpiles of CRMs. He is also asked to         invest in the EU's CRM security of supply by
+    present the future circular economy act, and to
+                                                              acquiring and managing strategic stockpiles
+    develop a steel and metals action plan.
+                                                              of CRMs, which would foster the aims of the
+                                                              CRMA.
+A 2024 study carried out for the European Parliament Panel for the Future of Science and Technology
+(STOA) by L. Espinoza et al. puts forward a range of possible actions in the area of research and
+innovation (R&I) to improve the EU's CRM supply. They include strengthening expertise inside the
+EU institutions to support the implementation of the CRMA (which could take the form of a specific
+'office' with its own analytical capabilities) and carrying out research into overcoming regulatory
+barriers to achieve the CRMA's goals. It further suggests increasing funding allocated to the research
+topics linked to raw materials in EU framework programmes, and boosting R&I on demand reduction
+(reduced consumption, substitution and longevity of products). There should also be more funding
+for R&I aspects of strategic partnerships on raw materials, more research collaboration with non-EU
+partners, and international projects should help gather data on supply chains, as these remain
+opaque. In addition, research should help to improve citizen engagement and responsible innovation
+around new or reactivated exploration, mining and processing sites.
+As stressed by Bruegel in its memos to the EU leadership 2024-2029, the effectiveness of the CRMA
+remains to be tested. The memos recall that, due to the lack of EU-level funding, the main
+instruments of the CRMA are regulatory (such as shortened permitting times or strengthened
+circular economy rules).
+As recalled by Ditte Brasso Sørensen in an analysis for ThinkEuropa, the EU's capacity to achieve the
+CRMA's benchmarks has been questioned by a number of experts, and revitalising mining and
+processing in Europe presents several challenges. Mining activities face low social acceptance, and
+high energy and labour costs are affecting the viability of CRM projects. Furthermore, decades of
+limited research and exploration have left the EU with insufficient information on its mineral
+reserves, impeding the development of viable projects. The CRMA's efforts to streamline permitting
+processes may not significantly shorten the lead times needed to realise SRM projects, as they
+constitute only a small part of the overall preparation time required for such projects. Similarly, the
+CRMA's objectives of enhancing processing and recycling activities in Europe face considerable
+challenges.
+
+
+
+
+8
+                                                         Implementing the EU's Critical Raw Materials Act
+
+
+Diana Gherasim, in a 2024 analysis for Ifri, also points to the risk for the EU of missing the
+benchmarks due to insufficient funding, low public acceptance of CRM projects, volatile CRM prices,
+unclear business cases, and ineffective strategic CRM partnerships. The EU should make sure that
+the strategic projects receive real benefits, including capital (CAPEX) and operational expenditure
+(OPEX) support (for instance, via tax credits). The supply of abundant low-carbon and competitive
+energy is key for CRM project holders. In addition, as sustainable mines are more expensive, a
+common joint financing facility for CRM could be set up and be linked to an EU stockpiling
+mechanism. The EU should also establish a joint funding scheme to support projects in countries
+without any national support schemes. Furthermore, she emphasises the importance of bolstering
+Europe's mid-stream value chain, particularly in the production of cathode and anode materials, to
+ensure a market for EU-sourced and refined CRMs.
+In a briefing for the Hertie School – Jacques Delors Centre, Arthur Leichthammer stresses that the
+CRMA, as it stands, is insufficient. For him, the CRMA is likely to fall short of its ambitions for two
+reasons: first, the acceleration of permitting processes alone is unlikely to increase significantly the
+speed of mining investments. Second, the CRMA lacks the financial power of comparable
+programmes. As CRM projects are particularly risky, without greater financial support companies
+are likely to continue being reluctant to make the required investments. Without additional public
+financial support in the form of equity and investment guarantee support, it is unlikely to channel
+greater financial resources to CRM projects. Furthermore, the new Commission needs to set specific
+strategic priorities for individual CRMs (deciding, for example, whether they should be domestically
+sourced or sourced through international partnerships, and on which part of the value chain the EU
+should focus). The EU should also promote the use of resilience criteria in public procurement.
+Eurometaux estimates that the EU needs to open at least 10 new mines, 15 new processing facilities
+and 15 recycling facilities for key SRMs by 2030 (while no mine has opened in the past 15 years in
+the EU), and to finance 15 CRM-related projects in third countries through the Global Gateway;
+10 000 new workers should also be trained (such as geologists, metallurgists and engineers). In
+addition, Eurometaux recommends creating a sovereignty fund for manufacturing, with a strong raw
+materials focus; setting up a raw materials bank inspired by the hydrogen bank; and introducing a
+new package of State aid guidelines focused on CAPEX and OPEX.
+Euromines says that 20-30 new strategic mine projects are needed in Europe to deliver on the
+CRMA's 10 % benchmark, and that 'Europe has to take a closer look at the wider framework
+governing mining activities beyond the Critical Raw Materials Act'. The Commission should also
+enlarge the EU taxonomy to include mining, and reform State aid provisions to unlock investment.
+Transport and Environment (T&E) stress that mining waste rules in Europe are outdated and, in some
+areas, weaker than those of countries such as Brazil and China. It points to a significant risk of
+fragmentation in implementing the Directive on the management of waste from extractive industries
+(Directive 2006/21/EC), with many key provisions not clarified and left to the discretion of the
+Member States. T&E called on the new Commission to update this Directive – for example, to ensure
+community participation from the outset and throughout a project.
+The Institute for European Environmental Policy (IEEP) insists on the need to ensure policy
+coherence between the CRMA, the eco-design, batteries and waste shipment regulations, and the
+Waste Framework Directive to improve circularity in the CRM value chain.
+
+
+
+
+                                                                                                       9
+EPRS | European Parliamentary Research Service
+
+
+MAIN REFERENCES
+G. Ragonnaud, Securing Europe's supply of critical raw materials: The material nature of the EU's strategic
+goals, EPRS, European Parliament, 2023.
+International Energy Agency, Global Critical Minerals Outlook 2024, 2024.
+
+ENDNOTES
+1
+     Article 5(2) of the CRMA.
+2
+     CRM country profiles can be found in the Joint Research Centre's Raw Materials Information System.
+3
+     Australia, Canada, Estonia, Finland, France, Germany, India, Italy, Japan, Norway, the Republic of Korea, Sweden, the
+     United Kingdom, the United States and the EU.
+4
+     This section aims to provide a flavour of the debate and is not intended to be an exhaustive account of all different
+     views on the topic.
+
+
+
+
+DISCLAIMER AND COPYRIGHT
+This document is prepared for, and addressed to, the Members and staff of the European Parliament as
+background material to assist them in their parliamentary work. The content of the document is the sole
+responsibility of its author(s) and any opinions expressed herein should not be taken to represent an official
+position of the Parliament.
+Reproduction and translation for non-commercial purposes are authorised, provided the source is acknowledged
+and the European Parliament is given prior notice and sent a copy.
+© European Union, 2024.
+Photo credits: © Anastasiia / Adobe Stock.
+eprs@ep.europa.eu (contact)
+www.eprs.ep.parl.union.eu (intranet)
+www.europarl.europa.eu/thinktank (internet)
+http://epthinktank.eu (blog)
+
+
+
+
+10
+                                                           Implementing the EU's Critical Raw Materials Act
+
+
+Annex – Deadlines set in the CRM Act
+  Date/deadlines                                                Item
+
+2024
+
+3 May 2024              Publication of the CRM Act in the Official Journal of the EU
+
+23 May 2024             Entry into force of the CRM Act
+
+                        First cut-off date of the open call for applications for recognition of CRM projects
+24 August 2024
+                        as strategic projects
+                        Commission to adopt an implementing act establishing a single template for the
+24 November 2024
+                        applications for recognition of CRM projects as strategic projects
+2025
+                        Permit-granting process: Member States to establish or designate one or more
+24 February 2025
+                        authorities as 'single points of contact'
+                        Member States to draw up national programmes for general exploration targeted
+24 May 2025
+                        at CRMs and carrier minerals of CRMs
+
+24 May 2025             Member States to identify the large companies operating on their territory using
+and within              SRMs to produce batteries; equipment related to hydrogen production and
+12 months of each       utilisation, renewable energy generation, data transmission and storage, additive
+update of the list of   manufacturing, and robotics; aircraft; traction motors; heat pumps; mobile
+SRMs                    electronic devices; drones; rocket launchers; satellites; and advanced chips
+
+
+                        National measures on circularity: Commission to adopt implementing acts listing
+24 May 2025
+                        products, components and waste streams with a relevant CRM recovery potential
+
+                        Commission to publish a report on the consistency of the CRM Act with other EU
+24 May 2025
+                        law
+                        Each Member State to create a database of the closed extractive waste facilities
+24 November 2025
+                        located on their territory, including those that have been abandoned
+                        (Database) Member States to review the available permitting files, or other
+24 November 2025        available documentation when these files do not exist, for closed extractive waste
+                        facilities
+                        Permanent magnet content: Commission to adopt an implementing act
+24 November 2025
+                        establishing the format for the labelling of some products listed in the CRM Act
+                        Commission to submit a report to the European Parliament and the Council setting
+                        out which CRMs are to be prioritised for assessing the necessity and
+                        proportionality of declaring their environmental footprint
+24 November 2025
+                        Commission to present the conclusions of the assessment of necessity and
+                        proportionality for the CRMs identified as a priority within 12 months of the report
+                        being submitted
+                        Commission to submit a report including indicative projections of the annual
+                        consumption of each CRM in 2030, 2040 and 2050, including a low, a high and a
+24 November 2025
+                        reference projection, as well as indicative benchmarks for extraction and
+                        processing per SRM, with a view to meeting the benchmarks for 2030
+                        Member States to lay down rules on penalties applicable to infringements of the
+24 November 2025
+                        CRM Act and take all measures necessary to ensure that they are implemented
+
+
+
+
+                                                                                                            11
+EPRS | European Parliamentary Research Service
+
+
+     Date/deadlines                                           Item
+
+ 2026
+                       Commission to submit a report to the CRM Board describing obstacles to
+ 24 May 2026           accessing finance for strategic projects and including recommendations to
+                       facilitate such access
+                       Commission to share with the CRM Board a draft benchmark on a safe level of EU
+                       strategic stocks for each SRM; a comparison of the overall level of EU strategic
+ 24 May 2026
+                       stocks for each SRM and the draft benchmark; and information on the potential
+                       cross-border accessibility of strategic stocks
+                       (Database) Member States to conduct representative geochemical sampling for
+ 24 May 2026           extractive waste facilities where available information could indicate the presence
+                       of potentially economically recoverable quantities of CRMs
+                       Member States to submit a report to the Commission containing information on:
+                       progress in the implementation of the measures included in their national
+ 24 May 2026           exploration programmes; new or existing CRM projects on their territory; key
+ and annually          market operators along the CRM value chain established on their territory;
+ thereafter            information on the state of their strategic stocks of SRMs; whether they intend to
+                       implement the Commission opinion on strategic stocks; information on the
+                       national measures on circularity
+                       The Commission to adopt a delegated act establishing rules for the calculation and
+                       verification of the share of neodymium, dysprosium, praseodymium, terbium,
+ 24 May 2026
+                       boron, samarium, nickel and cobalt recovered from post-consumer waste present
+                       in the permanent magnets incorporated in a range of products
+                       Operators of extractive waste facilities to submit to the competent authority a
+                       preliminary economic assessment study regarding the potential recovery of CRMs
+ 24 November 2026
+                       from the extractive waste stored in the facility, and from the extractive waste
+                       being generated, or from the extracted volume prior to it becoming waste
+ 2027
+                       The Commission to adopt delegated acts providing for EU recycling capacity
+ 1 January 2027
+                       benchmarks expressed as a share of the SRMs available in relevant waste streams
+                       (Database) Member States to carry out a more detailed sampling with chemical
+ 24 March 2027         and mineralogical characterisation for extractive waste facilities with potentially
+                       economically recoverable quantities of CRMs, where this is environmentally sound
+ 24 May 2027
+ and every 3 years     The Commission reviews and, if necessary, updates the list of SRMs
+ thereafter
+ 24 May 2027
+ and at least every    The Commission reviews and, if necessary, updates the list of CRMs
+ 3 years thereafter
+                       Any natural or legal person that places on the market any products listed in the
+ 24 May 2027           CRM Act which incorporate one or more permanent magnets and for which the
+ or 2 years from the   total weight of all such permanent magnets exceeds 0.2 kg to make publicly
+ entry into force of   available on a free-access website the share of neodymium, dysprosium,
+ the delegated act     praseodymium, terbium, boron, samarium, nickel and cobalt recovered from post-
+                       consumer waste present in the permanent magnets incorporated in the product
+                       Commission to monitor progress towards the benchmarks, and towards
+ 24 May 2027
+                       moderating the expected increase in EU consumption of CRMs, and to publish a
+ and at least every
+                       report detailing the EU's progress towards meeting those benchmarks and
+ 3 years thereafter
+                       towards moderating the expected increase in EU consumption
+
+
+
+
+12
+                                                        Implementing the EU's Critical Raw Materials Act
+
+
+   Date/deadlines                                           Item
+
+                    Commission to adopt implementing acts on a single template to be used by the
+                    owners of certification schemes related to the sustainability of CRMs, which will
+ 24 May 2027
+                    provide the minimum information required for applications for recognition by the
+                    Commission
+                    (Database) Member States to introduce all the information required in the
+ 24 May 2027
+                    database of the closed extractive waste facilities located on their territory
+                    (Database) Member States to adopt and implement measures to promote the
+                    recovery of CRMs from extractive waste, particularly from closed extractive waste
+ 24 November 2027
+                    facilities identified in the database containing potentially economically recoverable
+                    CRMs
+ 2029
+ 24 May 2029        Date of application of Articles 40 and 41
+                    Commission to carry out an evaluation of the CRM Act in light of its objectives and
+ 24 May 2029        present a report to the European Parliament, the Council, and the European
+                    Economic and Social Committee
+                    Article 28 to apply to magnetic resonance imaging devices, motor vehicles and
+ 24 May 2029
+                    light means of transport that are type-approved vehicles of category L
+ 2031
+                    Commission to adopt delegated acts laying down minimum shares for neodymium,
+                    dysprosium, praseodymium, terbium, boron, samarium, nickel and cobalt
+ 31 December 2031
+                    recovered from post-consumer waste that must be present in the permanent
+                    magnet incorporated in the products listed in the CRM Act
+Source: EPRS.
+
+
+
+
+                                                                                                      13

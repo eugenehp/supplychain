@@ -322,6 +322,7 @@ mark {
 [data-slot='select-content'],
 [data-slot='popover-content'],
 [data-slot='dialog-content'] {
+  z-index: 101;
   background-color: var(--surface-solid) !important;
   color: var(--popover-foreground, var(--text));
   border: 1px solid var(--border-ui, var(--border));
@@ -329,6 +330,7 @@ mark {
 }
 
 [data-slot='dialog-overlay'] {
+  z-index: 100;
   background-color: rgba(0, 0, 0, 0.62) !important;
   backdrop-filter: blur(4px);
 }

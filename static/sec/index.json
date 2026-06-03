@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T06:06:20.459Z",
+  "generatedAt": "2026-06-03T05:55:05.638Z",
   "filings": [
     {
       "ticker": "AMAT",
@@ -52,7 +52,7 @@
         }
       },
       "textLength": 291685,
-      "exportedAt": "2026-05-29T06:05:56.128Z",
+      "exportedAt": "2026-06-03T05:51:15.302Z",
       "logoUrl": "/logos/AMAT.svg",
       "logoPrimaryUrl": "/logos/AMAT.svg",
       "logoFallbackUrl": "/logos/AMAT.png",
@@ -112,7 +112,7 @@
         }
       },
       "textLength": 392109,
-      "exportedAt": "2026-05-29T06:05:56.193Z",
+      "exportedAt": "2026-06-03T05:51:15.771Z",
       "logoUrl": "/logos/AMD.svg",
       "logoPrimaryUrl": "/logos/AMD.svg",
       "logoFallbackUrl": "/logos/AMD.png",
@@ -178,7 +178,7 @@
         }
       },
       "textLength": 342542,
-      "exportedAt": "2026-05-29T06:05:56.641Z",
+      "exportedAt": "2026-06-03T05:51:19.467Z",
       "logoUrl": "/logos/AMKR.svg",
       "logoPrimaryUrl": "/logos/AMKR.svg",
       "logoFallbackUrl": "/logos/AMKR.png",
@@ -232,7 +232,7 @@
         }
       },
       "textLength": 283445,
-      "exportedAt": "2026-05-29T06:05:57.245Z",
+      "exportedAt": "2026-06-03T05:51:24.287Z",
       "logoUrl": "/logos/AMZN.svg",
       "logoPrimaryUrl": "/logos/AMZN.svg",
       "logoFallbackUrl": "/logos/AMZN.png",
@@ -246,6 +246,66 @@
       "evidenceCount": 92,
       "sectionCount": 11,
       "displayBlockCount": 146
+    },
+    {
+      "ticker": "AREC",
+      "name": "American Resources Corp",
+      "cik": "0001590715",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-05-20",
+        "accessionNumber": "0001477932-26-003317",
+        "primaryDocument": "arec_10k.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1590715/000147793226003317/arec_10k.htm",
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2025-12-31",
+          "filed": "2026-05-20",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 21687656,
+          "end": "2022-12-31",
+          "filed": "2023-03-31",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 66360,
+          "end": "2016-09-30",
+          "filed": "2017-01-13",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 168907706,
+          "end": "2025-12-31",
+          "filed": "2026-05-20",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 147282,
+          "end": "2016-09-30",
+          "filed": "2017-01-13",
+          "form": "10-K"
+        }
+      },
+      "textLength": 206066,
+      "exportedAt": "2026-06-03T05:51:26.683Z",
+      "logoUrl": "/logos/AREC.png",
+      "logoPrimaryUrl": "/logos/AREC.png",
+      "logoFallbackUrl": "/logos/AREC.svg",
+      "localUrls": {
+        "text": "/sec/AREC/filing.txt",
+        "metadata": "/sec/AREC/metadata.json",
+        "sections": "/sec/AREC/sections.json",
+        "evidence": "/sec/AREC/evidence.json",
+        "display": "/sec/AREC/display.json"
+      },
+      "evidenceCount": 6,
+      "sectionCount": 11,
+      "displayBlockCount": 198
     },
     {
       "ticker": "ASML",
@@ -292,7 +352,7 @@
         }
       },
       "textLength": 1336690,
-      "exportedAt": "2026-05-29T06:05:57.478Z",
+      "exportedAt": "2026-06-03T05:51:27.453Z",
       "logoUrl": "/logos/ASML.svg",
       "logoPrimaryUrl": "/logos/ASML.svg",
       "logoFallbackUrl": "/logos/ASML.png",
@@ -352,7 +412,7 @@
         }
       },
       "textLength": 1284459,
-      "exportedAt": "2026-05-29T06:06:13.561Z",
+      "exportedAt": "2026-06-03T05:52:20.948Z",
       "logoUrl": "/logos/BIDU.png",
       "logoPrimaryUrl": "/logos/BIDU.png",
       "logoFallbackUrl": "/logos/BIDU.svg",
@@ -400,7 +460,7 @@
         }
       },
       "textLength": 448351,
-      "exportedAt": "2026-05-29T06:06:14.269Z",
+      "exportedAt": "2026-06-03T05:52:23.785Z",
       "logoUrl": "/logos/CDNS.svg",
       "logoPrimaryUrl": "/logos/CDNS.svg",
       "logoFallbackUrl": "/logos/CDNS.png",
@@ -460,7 +520,7 @@
         }
       },
       "textLength": 588724,
-      "exportedAt": "2026-05-29T06:06:14.633Z",
+      "exportedAt": "2026-06-03T05:52:25.019Z",
       "logoUrl": "/logos/GFS.png",
       "logoPrimaryUrl": "/logos/GFS.png",
       "logoFallbackUrl": "/logos/GFS.svg",
@@ -520,7 +580,7 @@
         }
       },
       "textLength": 344455,
-      "exportedAt": "2026-05-29T06:06:15.644Z",
+      "exportedAt": "2026-06-03T05:52:27.221Z",
       "logoUrl": "/logos/GOOGL.svg",
       "logoPrimaryUrl": "/logos/GOOGL.svg",
       "logoFallbackUrl": "/logos/GOOGL.png",
@@ -580,7 +640,7 @@
         }
       },
       "textLength": 516811,
-      "exportedAt": "2026-05-29T06:06:15.780Z",
+      "exportedAt": "2026-06-03T05:52:27.447Z",
       "logoUrl": "/logos/INTC.svg",
       "logoPrimaryUrl": "/logos/INTC.svg",
       "logoFallbackUrl": "/logos/INTC.png",
@@ -646,7 +706,7 @@
         }
       },
       "textLength": 451393,
-      "exportedAt": "2026-05-29T06:06:15.801Z",
+      "exportedAt": "2026-06-03T05:52:27.640Z",
       "logoUrl": "/logos/KLAC.svg",
       "logoPrimaryUrl": "/logos/KLAC.svg",
       "logoFallbackUrl": "/logos/KLAC.png",
@@ -718,7 +778,7 @@
         }
       },
       "textLength": 330553,
-      "exportedAt": "2026-05-29T06:06:16.364Z",
+      "exportedAt": "2026-06-03T05:52:29.813Z",
       "logoUrl": "/logos/LRCX.svg",
       "logoPrimaryUrl": "/logos/LRCX.svg",
       "logoFallbackUrl": "/logos/LRCX.png",
@@ -778,7 +838,7 @@
         }
       },
       "textLength": 516014,
-      "exportedAt": "2026-05-29T06:06:16.734Z",
+      "exportedAt": "2026-06-03T05:52:31.222Z",
       "logoUrl": "/logos/META.svg",
       "logoPrimaryUrl": "/logos/META.svg",
       "logoFallbackUrl": "/logos/META.png",
@@ -792,6 +852,54 @@
       "evidenceCount": 50,
       "sectionCount": 13,
       "displayBlockCount": 459
+    },
+    {
+      "ticker": "MP",
+      "name": "MP Materials Corp. / DE",
+      "cik": "0001801368",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001801368-26-000008",
+        "primaryDocument": "mp-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1801368/000180136826000008/mp-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 331952000,
+          "end": "2021-12-31",
+          "filed": "2022-02-28",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 224441000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 3864160000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "textLength": 529803,
+      "exportedAt": "2026-06-03T05:52:31.703Z",
+      "logoUrl": "/logos/MP.png",
+      "logoPrimaryUrl": "/logos/MP.png",
+      "logoFallbackUrl": "/logos/MP.svg",
+      "localUrls": {
+        "text": "/sec/MP/filing.txt",
+        "metadata": "/sec/MP/metadata.json",
+        "sections": "/sec/MP/sections.json",
+        "evidence": "/sec/MP/evidence.json",
+        "display": "/sec/MP/display.json"
+      },
+      "evidenceCount": 75,
+      "sectionCount": 13,
+      "displayBlockCount": 382
     },
     {
       "ticker": "MSFT",
@@ -850,7 +958,7 @@
         }
       },
       "textLength": 313393,
-      "exportedAt": "2026-05-29T06:06:16.909Z",
+      "exportedAt": "2026-06-03T05:52:32.334Z",
       "logoUrl": "/logos/MSFT.png",
       "logoPrimaryUrl": "/logos/MSFT.png",
       "logoFallbackUrl": "/logos/MSFT.svg",
@@ -916,7 +1024,7 @@
         }
       },
       "textLength": 356179,
-      "exportedAt": "2026-05-29T06:06:17.061Z",
+      "exportedAt": "2026-06-03T05:52:32.569Z",
       "logoUrl": "/logos/MU.svg",
       "logoPrimaryUrl": "/logos/MU.svg",
       "logoFallbackUrl": "/logos/MU.png",
@@ -982,7 +1090,7 @@
         }
       },
       "textLength": 340242,
-      "exportedAt": "2026-05-29T06:06:17.949Z",
+      "exportedAt": "2026-06-03T05:52:35.203Z",
       "logoUrl": "/logos/NVDA.svg",
       "logoPrimaryUrl": "/logos/NVDA.svg",
       "logoFallbackUrl": "/logos/NVDA.png",
@@ -996,6 +1104,48 @@
       "evidenceCount": 130,
       "sectionCount": 17,
       "displayBlockCount": 198
+    },
+    {
+      "ticker": "REEMF",
+      "name": "RARE ELEMENT RESOURCES LTD",
+      "cik": "0001419806",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-12",
+        "accessionNumber": "0001419806-26-000004",
+        "primaryDocument": "reemf-20251231x10k.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1419806/000141980626000004/reemf-20251231x10k.htm",
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2025-12-31",
+          "filed": "2026-03-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 24120000,
+          "end": "2025-12-31",
+          "filed": "2026-03-12",
+          "form": "10-K"
+        }
+      },
+      "textLength": 376477,
+      "exportedAt": "2026-06-03T05:52:36.145Z",
+      "logoUrl": "/logos/REEMF.png",
+      "logoPrimaryUrl": "/logos/REEMF.png",
+      "logoFallbackUrl": "/logos/REEMF.svg",
+      "localUrls": {
+        "text": "/sec/REEMF/filing.txt",
+        "metadata": "/sec/REEMF/metadata.json",
+        "sections": "/sec/REEMF/sections.json",
+        "evidence": "/sec/REEMF/evidence.json",
+        "display": "/sec/REEMF/display.json"
+      },
+      "evidenceCount": 44,
+      "sectionCount": 14,
+      "displayBlockCount": 171
     },
     {
       "ticker": "SNPS",
@@ -1048,7 +1198,7 @@
         }
       },
       "textLength": 417623,
-      "exportedAt": "2026-05-29T06:06:18.295Z",
+      "exportedAt": "2026-06-03T05:52:36.477Z",
       "logoUrl": "/logos/SNPS.svg",
       "logoPrimaryUrl": "/logos/SNPS.svg",
       "logoFallbackUrl": "/logos/SNPS.png",
@@ -1062,6 +1212,42 @@
       "evidenceCount": 118,
       "sectionCount": 15,
       "displayBlockCount": 378
+    },
+    {
+      "ticker": "TMRC",
+      "name": "Texas Mineral Resources Corp.",
+      "cik": "0001445942",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-11-28",
+        "accessionNumber": "0001999371-25-018974",
+        "primaryDocument": "tmrc-10k_83125.htm",
+        "reportDate": "2025-08-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1445942/000199937125018974/tmrc-10k_83125.htm",
+      "facts": {
+        "Assets": {
+          "value": 1161182,
+          "end": "2025-08-31",
+          "filed": "2025-11-28",
+          "form": "10-K"
+        }
+      },
+      "textLength": 282891,
+      "exportedAt": "2026-06-03T05:52:37.373Z",
+      "logoUrl": "/logos/TMRC.png",
+      "logoPrimaryUrl": "/logos/TMRC.png",
+      "logoFallbackUrl": "/logos/TMRC.svg",
+      "localUrls": {
+        "text": "/sec/TMRC/filing.txt",
+        "metadata": "/sec/TMRC/metadata.json",
+        "sections": "/sec/TMRC/sections.json",
+        "evidence": "/sec/TMRC/evidence.json",
+        "display": "/sec/TMRC/display.json"
+      },
+      "evidenceCount": 21,
+      "sectionCount": 13,
+      "displayBlockCount": 280
     },
     {
       "ticker": "TSM",
@@ -1108,7 +1294,7 @@
         }
       },
       "textLength": 667613,
-      "exportedAt": "2026-05-29T06:06:18.610Z",
+      "exportedAt": "2026-06-03T05:52:37.533Z",
       "logoUrl": "/logos/TSM.svg",
       "logoPrimaryUrl": "/logos/TSM.svg",
       "logoFallbackUrl": "/logos/TSM.png",
@@ -1122,9 +1308,129 @@
       "evidenceCount": 242,
       "sectionCount": 19,
       "displayBlockCount": 417
+    },
+    {
+      "ticker": "USAR",
+      "name": "USA Rare Earth, Inc.",
+      "cik": "0001970622",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-30",
+        "accessionNumber": "0001970622-26-000021",
+        "primaryDocument": "usar-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000021/usar-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 1643000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 15885000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1448000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 195000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 694999000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        }
+      },
+      "textLength": 579145,
+      "exportedAt": "2026-06-03T05:52:41.170Z",
+      "logoUrl": "/logos/USAR.svg",
+      "logoPrimaryUrl": "/logos/USAR.svg",
+      "logoFallbackUrl": "/logos/USAR.png",
+      "localUrls": {
+        "text": "/sec/USAR/filing.txt",
+        "metadata": "/sec/USAR/metadata.json",
+        "sections": "/sec/USAR/sections.json",
+        "evidence": "/sec/USAR/evidence.json",
+        "display": "/sec/USAR/display.json"
+      },
+      "evidenceCount": 93,
+      "sectionCount": 1,
+      "displayBlockCount": 312
+    },
+    {
+      "ticker": "UUUU",
+      "name": "ENERGY FUELS INC",
+      "cik": "0001385849",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001385849-26-000009",
+        "primaryDocument": "efr-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1385849/000138584926000009/efr-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 65922000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 65922000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 52169000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 384000,
+          "end": "2020-12-31",
+          "filed": "2021-03-22",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 1411852000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "textLength": 1088577,
+      "exportedAt": "2026-06-03T05:52:41.994Z",
+      "logoUrl": "/logos/UUUU.png",
+      "logoPrimaryUrl": "/logos/UUUU.png",
+      "logoFallbackUrl": "/logos/UUUU.svg",
+      "localUrls": {
+        "text": "/sec/UUUU/filing.txt",
+        "metadata": "/sec/UUUU/metadata.json",
+        "sections": "/sec/UUUU/sections.json",
+        "evidence": "/sec/UUUU/evidence.json",
+        "display": "/sec/UUUU/display.json"
+      },
+      "evidenceCount": 86,
+      "sectionCount": 13,
+      "displayBlockCount": 723
     }
   ],
-  "evidenceCount": 2942,
-  "embeddingModel": null,
-  "embeddingsUrl": null
+  "evidenceCount": 3267,
+  "embeddingModel": "Xenova/all-MiniLM-L6-v2",
+  "embeddingsUrl": "/sec/evidence-embeddings.json"
 }

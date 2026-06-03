@@ -1,7 +1,7 @@
 {
   "topicId": "intel-falcon-shores",
   "topicLabel": "Intel Falcon Shores",
-  "generatedAt": "2026-05-29T06:06:26.578Z",
+  "generatedAt": "2026-06-03T06:13:01.409Z",
   "disclosureLevel": "full",
   "disclosureNote": null,
   "methodology": {
@@ -269,7 +269,7 @@
       "group": "equipment",
       "description": "Etch & deposition — LRCX 10-K",
       "country": null,
-      "mentionScore": 137
+      "mentionScore": 127
     },
     {
       "id": "KLA",
@@ -1151,12 +1151,11 @@
         "group": "equipment",
         "description": "Etch & deposition — LRCX 10-K",
         "country": null,
-        "mentionScore": 137,
+        "mentionScore": 127,
         "sources": [
           "ASML",
           "LRCX",
           "CDNS",
-          "rag",
           "CDNS",
           "LRCX"
         ],
@@ -2418,6 +2417,59 @@
       "evidenceUrl": "/sec/AMZN/evidence.json"
     },
     {
+      "ticker": "AREC",
+      "name": "American Resources Corp",
+      "cik": "0001590715",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-05-20",
+        "accessionNumber": "0001477932-26-003317",
+        "primaryDocument": "arec_10k.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1590715/000147793226003317/arec_10k.htm",
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2025-12-31",
+          "filed": "2026-05-20",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 21687656,
+          "end": "2022-12-31",
+          "filed": "2023-03-31",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 66360,
+          "end": "2016-09-30",
+          "filed": "2017-01-13",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 168907706,
+          "end": "2025-12-31",
+          "filed": "2026-05-20",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 147282,
+          "end": "2016-09-30",
+          "filed": "2017-01-13",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 6,
+      "logoUrl": "/logos/AREC.png",
+      "logoPrimaryUrl": "/logos/AREC.png",
+      "logoFallbackUrl": "/logos/AREC.svg",
+      "localTextUrl": "/sec/AREC/filing.txt",
+      "metadataUrl": "/sec/AREC/metadata.json",
+      "sectionsUrl": "/sec/AREC/sections.json",
+      "evidenceUrl": "/sec/AREC/evidence.json"
+    },
+    {
       "ticker": "ASML",
       "name": "ASML HOLDING NV",
       "cik": "0000937966",
@@ -2901,6 +2953,47 @@
       "evidenceUrl": "/sec/META/evidence.json"
     },
     {
+      "ticker": "MP",
+      "name": "MP Materials Corp. / DE",
+      "cik": "0001801368",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001801368-26-000008",
+        "primaryDocument": "mp-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1801368/000180136826000008/mp-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 331952000,
+          "end": "2021-12-31",
+          "filed": "2022-02-28",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 224441000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 3864160000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 75,
+      "logoUrl": "/logos/MP.png",
+      "logoPrimaryUrl": "/logos/MP.png",
+      "logoFallbackUrl": "/logos/MP.svg",
+      "localTextUrl": "/sec/MP/filing.txt",
+      "metadataUrl": "/sec/MP/metadata.json",
+      "sectionsUrl": "/sec/MP/sections.json",
+      "evidenceUrl": "/sec/MP/evidence.json"
+    },
+    {
       "ticker": "MSFT",
       "name": "MICROSOFT CORP",
       "cik": "0000789019",
@@ -3084,6 +3177,41 @@
       "evidenceUrl": "/sec/NVDA/evidence.json"
     },
     {
+      "ticker": "REEMF",
+      "name": "RARE ELEMENT RESOURCES LTD",
+      "cik": "0001419806",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-12",
+        "accessionNumber": "0001419806-26-000004",
+        "primaryDocument": "reemf-20251231x10k.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1419806/000141980626000004/reemf-20251231x10k.htm",
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2025-12-31",
+          "filed": "2026-03-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 24120000,
+          "end": "2025-12-31",
+          "filed": "2026-03-12",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 44,
+      "logoUrl": "/logos/REEMF.png",
+      "logoPrimaryUrl": "/logos/REEMF.png",
+      "logoFallbackUrl": "/logos/REEMF.svg",
+      "localTextUrl": "/sec/REEMF/filing.txt",
+      "metadataUrl": "/sec/REEMF/metadata.json",
+      "sectionsUrl": "/sec/REEMF/sections.json",
+      "evidenceUrl": "/sec/REEMF/evidence.json"
+    },
+    {
       "ticker": "SNPS",
       "name": "SYNOPSYS INC",
       "cik": "0000883241",
@@ -3143,6 +3271,35 @@
       "evidenceUrl": "/sec/SNPS/evidence.json"
     },
     {
+      "ticker": "TMRC",
+      "name": "Texas Mineral Resources Corp.",
+      "cik": "0001445942",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-11-28",
+        "accessionNumber": "0001999371-25-018974",
+        "primaryDocument": "tmrc-10k_83125.htm",
+        "reportDate": "2025-08-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1445942/000199937125018974/tmrc-10k_83125.htm",
+      "facts": {
+        "Assets": {
+          "value": 1161182,
+          "end": "2025-08-31",
+          "filed": "2025-11-28",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 21,
+      "logoUrl": "/logos/TMRC.png",
+      "logoPrimaryUrl": "/logos/TMRC.png",
+      "logoFallbackUrl": "/logos/TMRC.svg",
+      "localTextUrl": "/sec/TMRC/filing.txt",
+      "metadataUrl": "/sec/TMRC/metadata.json",
+      "sectionsUrl": "/sec/TMRC/sections.json",
+      "evidenceUrl": "/sec/TMRC/evidence.json"
+    },
+    {
       "ticker": "TSM",
       "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
       "cik": "0001046179",
@@ -3194,6 +3351,112 @@
       "metadataUrl": "/sec/TSM/metadata.json",
       "sectionsUrl": "/sec/TSM/sections.json",
       "evidenceUrl": "/sec/TSM/evidence.json"
+    },
+    {
+      "ticker": "USAR",
+      "name": "USA Rare Earth, Inc.",
+      "cik": "0001970622",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-30",
+        "accessionNumber": "0001970622-26-000021",
+        "primaryDocument": "usar-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000021/usar-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 1643000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 15885000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1448000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 195000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 694999000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 93,
+      "logoUrl": "/logos/USAR.svg",
+      "logoPrimaryUrl": "/logos/USAR.svg",
+      "logoFallbackUrl": "/logos/USAR.png",
+      "localTextUrl": "/sec/USAR/filing.txt",
+      "metadataUrl": "/sec/USAR/metadata.json",
+      "sectionsUrl": "/sec/USAR/sections.json",
+      "evidenceUrl": "/sec/USAR/evidence.json"
+    },
+    {
+      "ticker": "UUUU",
+      "name": "ENERGY FUELS INC",
+      "cik": "0001385849",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001385849-26-000009",
+        "primaryDocument": "efr-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1385849/000138584926000009/efr-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 65922000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 65922000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 52169000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 384000,
+          "end": "2020-12-31",
+          "filed": "2021-03-22",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 1411852000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "evidenceCount": 86,
+      "logoUrl": "/logos/UUUU.png",
+      "logoPrimaryUrl": "/logos/UUUU.png",
+      "logoFallbackUrl": "/logos/UUUU.svg",
+      "localTextUrl": "/sec/UUUU/filing.txt",
+      "metadataUrl": "/sec/UUUU/metadata.json",
+      "sectionsUrl": "/sec/UUUU/sections.json",
+      "evidenceUrl": "/sec/UUUU/evidence.json"
     }
   ],
   "secFilings": [

@@ -2,6 +2,9 @@
  * Validation rules for raw and processed pipeline artifacts.
  */
 
+/** Development-stage miners often lack XBRL revenue in companyfacts. */
+const REVENUE_OPTIONAL_TICKERS = new Set(['REEMF', 'TMRC']);
+
 export function validateRawCompany(raw) {
   const checks = [];
   const pass = (id, ok, detail) => checks.push({ id, ok, detail });
@@ -12,7 +15,17 @@ export function validateRawCompany(raw) {
   pass('html', raw.htmlLength > 5000, `${raw.htmlLength ?? 0} bytes`);
   pass('companyfacts', !!raw.hasCompanyFacts, raw.hasCompanyFacts ? 'present' : 'missing');
   pass('submissions', !!raw.hasSubmissions, raw.hasSubmissions ? 'present' : 'missing');
-  pass('revenue', !!raw.hasRevenue, raw.hasRevenue ? `$${(raw.revenue / 1e9).toFixed(1)}B` : 'no revenue fact');
+  const revenueOptional = REVENUE_OPTIONAL_TICKERS.has(String(raw.ticker ?? '').toUpperCase());
+  const hasRevenue = !!raw.hasRevenue;
+  pass(
+    'revenue',
+    hasRevenue || revenueOptional,
+    hasRevenue
+      ? `$${(raw.revenue / 1e9).toFixed(1)}B`
+      : revenueOptional
+        ? 'optional (pre-revenue developer)'
+        : 'no revenue fact',
+  );
 
   const failed = checks.filter((c) => !c.ok);
   return {

@@ -1,0 +1,332 @@
+/** Non-U.S. listed miners — annual report sources and SEC form counterparts. */
+import { TSX_MINERS } from './tsx-registry.mjs';
+import { AIM_LSE_MINERS } from './aim-registry.mjs';
+import { CHINA_PROCESSORS } from './china-registry.mjs';
+import { JAPAN_KOREA_PROCESSORS } from './japan-korea-registry.mjs';
+
+/** @typedef {{
+ *   id: string,
+ *   name: string,
+ *   localTicker: string,
+ *   listingRegime: string,
+ *   countryCode: string,
+ *   countryName: string,
+ *   flag: string,
+ *   role: 'miner' | 'processor' | 'developer',
+ *   primaryElements: string[],
+ *   flagshipSites: string[],
+ *   secCounterpart: string,
+ *   homeFormLabel: string,
+ *   filingSources: { type: 'pdf' | 'html', url: string, label?: string, referer?: string }[],
+ *   secMirrorTicker?: string | null,
+ *   asxCode?: string,
+ *   asxCrawler?: boolean,
+ * }} InternationalMiner */
+
+/** @type {InternationalMiner[]} */
+const ASX_MINERS = [
+  {
+    id: 'LYC',
+    name: 'Lynas Rare Earths',
+    localTicker: 'LYC.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'processor',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb', 'La', 'Ce'],
+    flagshipSites: ['Mt Weld, Western Australia', 'Lynas Malaysia, Kuantan'],
+    secCounterpart: '20-F (if U.S. listed); none on EDGAR today',
+    homeFormLabel: 'Annual Report (Corporations Act 2001)',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://announcements.asx.com.au/asxpdf/20241011/pdf/068zp9wqw6v5dc.pdf',
+        label: 'FY2024 Annual Report (ASX announcement)',
+      },
+    ],
+    secMirrorTicker: null,
+  },
+  {
+    id: 'HAS',
+    name: 'Hastings Technology Metals',
+    localTicker: 'HAS.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb'],
+    flagshipSites: ['Yangibana, Western Australia'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://announcements.asx.com.au/asxpdf/20240930/pdf/068hfr3mgzbln7.pdf',
+        label: 'FY2024 Annual Report (ASX PDF)',
+      },
+    ],
+  },
+  {
+    id: 'PEK',
+    name: 'Peak Rare Earths',
+    localTicker: 'PEK.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb'],
+    flagshipSites: ['Ngualla, Tanzania', 'Teesside UK refinery (planned)'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://wcsecure.weblink.com.au/pdf/PEK/02872000.pdf',
+        label: 'FY2024 Annual Report (Weblink PDF)',
+      },
+    ],
+  },
+  {
+    id: 'ILU',
+    name: 'Iluka Resources',
+    localTicker: 'ILU.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'processor',
+    primaryElements: ['La', 'Ce', 'Nd', 'Pr'],
+    flagshipSites: ['Eneabba, Western Australia', 'Sierra Rutile'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://www.iluka.com/media/hlbhtwnj/final-iluka-ar24-25225.pdf',
+        label: 'FY2024 Annual Report (company PDF)',
+        referer: 'https://www.iluka.com/',
+      },
+    ],
+  },
+  {
+    id: 'ARU',
+    name: 'Arafura Rare Earths',
+    localTicker: 'ARU.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Ce', 'La'],
+    flagshipSites: ['Nolans Bore, Northern Territory'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://www.arultd.com/wp-content/uploads/2024/09/20240916-ST28239-Arafura-Annual-Report-2024_DIGITAL.pdf',
+        label: 'FY2024 Annual Report',
+      },
+      {
+        type: 'pdf',
+        url: 'https://wcsecure.weblink.com.au/pdf/ARU/02841373.pdf',
+        label: 'FY2024 Annual Report (Weblink mirror)',
+      },
+    ],
+  },
+  {
+    id: 'VML',
+    name: 'Vital Metals',
+    localTicker: 'VML.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb'],
+    flagshipSites: ['Nechalacho, Northwest Territories, Canada'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://vitalmetals.com/wp-content/uploads/2024/10/Vital-June-2024-Annual-Report.pdf',
+        label: 'FY2024 Annual Report',
+        referer: 'https://vitalmetals.com/',
+      },
+    ],
+  },
+  {
+    id: 'IXR',
+    name: 'Ionic Rare Earths',
+    localTicker: 'IXR.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb', 'Y'],
+    flagshipSites: ['Makuutu, Uganda', 'Belfast recycling (UK)'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'html',
+        url: 'https://www.ionicre.com/investors/',
+        label: 'Investor relations (annual reports)',
+        referer: 'https://www.ionicre.com/',
+      },
+      {
+        type: 'html',
+        url: 'https://ionicre.com/investors/',
+        label: 'Investor relations (mirror)',
+      },
+    ],
+    asxCrawler: true,
+  },
+  {
+    id: 'ASM',
+    name: 'Australian Strategic Materials',
+    localTicker: 'ASM.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb', 'Zr', 'Nb'],
+    flagshipSites: ['Dubbo, New South Wales', 'Ochang, South Korea (metals plant)'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'html',
+        url: 'https://asm-au.com/asm-2024-annual-report-copy/',
+        label: 'FY2024 Annual Report (IR page)',
+        referer: 'https://asm-au.com/',
+      },
+      {
+        type: 'html',
+        url: 'https://asm-au.com/investors/company-reports/',
+        label: 'Company reports index',
+        referer: 'https://asm-au.com/',
+      },
+    ],
+  },
+  {
+    id: 'MKA',
+    name: 'Mkango Resources',
+    localTicker: 'MKA.L',
+    listingRegime: 'AIM',
+    countryCode: 'GB',
+    countryName: 'United Kingdom',
+    flag: '🇬🇧',
+    role: 'developer',
+    primaryElements: ['Nd', 'Pr', 'Dy', 'Tb'],
+    flagshipSites: ['Songwe Hill, Malawi'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report (UK Companies Act)',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://www.mkango.ca/wp-content/uploads/2024/10/Mkango-Annual-Report-2024.pdf',
+        label: 'FY2024 Annual Report',
+        referer: 'https://www.mkango.ca/',
+      },
+      {
+        type: 'html',
+        url: 'https://www.mkango.ca/investors/',
+        label: 'Investor relations (HTML fallback)',
+      },
+    ],
+  },
+  {
+    id: 'GML',
+    name: 'Greenland Minerals (Kvanefjeld)',
+    localTicker: 'GML.AX',
+    asxCode: 'ETM',
+    listingRegime: 'ASX',
+    countryCode: 'GL',
+    countryName: 'Greenland',
+    flag: '🇬🇱',
+    role: 'developer',
+    primaryElements: ['La', 'Ce', 'Nd', 'Pr'],
+    flagshipSites: ['Kvanefjeld, Greenland'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://etransmin.com/wp-content/uploads/2026/05/Kvanefjeld-SIA-Dec-2020.pdf',
+        label: 'Kvanefjeld Social Impact Assessment (2020)',
+        referer: 'https://etransmin.com/',
+      },
+      {
+        type: 'pdf',
+        url: 'https://etransmin.com/wp-content/uploads/2026/05/Feasibility-Study-2016-Kvanefjeld.pdf',
+        label: 'Kvanefjeld Feasibility Study (2016)',
+        referer: 'https://etransmin.com/',
+      },
+      {
+        type: 'html',
+        url: 'https://etransmin.com/investors/financial-reports/',
+        label: 'Energy Transition Minerals IR (successor)',
+        referer: 'https://etransmin.com/',
+      },
+    ],
+    asxCrawler: false,
+  },
+  {
+    id: 'NTU',
+    name: 'Northern Minerals',
+    localTicker: 'NTU.AX',
+    listingRegime: 'ASX',
+    countryCode: 'AU',
+    countryName: 'Australia',
+    flag: '🇦🇺',
+    role: 'developer',
+    primaryElements: ['Dy', 'Tb', 'Y', 'Er', 'Ho'],
+    flagshipSites: ['Browns Range, Western Australia'],
+    secCounterpart: '20-F',
+    homeFormLabel: 'Annual Report',
+    filingSources: [
+      {
+        type: 'pdf',
+        url: 'https://company-announcements.afr.com/asx/ntu/894d1458-94de-11ef-8d66-6ae31cb6d2dd.pdf',
+        label: 'FY2024 Annual Report (ASX/AFR)',
+      },
+    ],
+    asxCrawler: true,
+  },
+];
+
+/** ASX + TSX/SEDAR + AIM/LSE + China SSE/SZSE processors. */
+export const INTERNATIONAL_MINERS = [
+  ...ASX_MINERS,
+  ...TSX_MINERS,
+  ...AIM_LSE_MINERS,
+  ...CHINA_PROCESSORS,
+  ...JAPAN_KOREA_PROCESSORS,
+];
+
+export const INTERNATIONAL_BY_ID = Object.fromEntries(INTERNATIONAL_MINERS.map((m) => [m.id, m]));
+
+export function internationalMinerIds() {
+  return INTERNATIONAL_MINERS.map((m) => m.id);
+}
+
+/** Map listing regime → typical SEC filing counterpart. */
+export const REGIME_SEC_COUNTERPARTS = {
+  ASX: { form: '20-F', note: 'Australian Annual Report under Corporations Act 2001' },
+  TSX: { form: '40-F', note: 'Canadian AIF / Annual MD&A (NI 43-101 for technical reports)' },
+  AIM: { form: '20-F', note: 'UK Annual Report and Accounts' },
+  HKEX: { form: '20-F', note: 'Hong Kong Annual Report' },
+  'CN-SSE': { form: '20-F (rare)', note: 'Shanghai Stock Exchange annual report (CNINFO PDF)' },
+  'CN-SZSE': { form: '20-F (rare)', note: 'Shenzhen Stock Exchange annual report (CNINFO PDF)' },
+  TSE: { form: '20-F (rare)', note: 'Tokyo Stock Exchange Yuho annual report' },
+  KRX: { form: '20-F (rare)', note: 'Korea Exchange business report' },
+  EU: { form: 'N/A', note: 'EU regulation / policy report (not an issuer annual report)' },
+  OTHER: { form: '20-F', note: 'Foreign private issuer annual report' },
+};

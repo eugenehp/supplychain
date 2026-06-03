@@ -43,6 +43,16 @@ flowchart LR
 - **Sources & abbreviations** — methodology, watchlist tickers, glossary from corpus
 - **Query panel** — keyword and hybrid search across ~9k document chunks (in-browser worker)
 
+### Raw materials (rare earth)
+
+- **Mendeleev table** — full periodic table (118 elements) with lanthanide/actinide rows; SEC badges on 17 REE (Sc, Y, La–Lu)
+- **Geography distribution** — per-element country breakdown, per-country element breakdown, and element×country matrix (SEC excerpt co-occurrence)
+- **International filings** — ASX / AIM annual reports parsed as SEC 20-F counterparts (`pdftotext` for PDFs; `brew install poppler`)
+- **Mining sites map** — global map of REE mines, mills, and deposits with operators and element focus
+- **Per-element profiles** — geography, cost language, pipeline, suppliers, and impact extracted from miner 10-Ks
+- **Miner watchlist** — MP Materials, Energy Fuels, USA Rare Earth, Rare Element Resources, Texas Mineral Resources, American Resources (plus downstream chip filers citing RE supply risk)
+- Switch **Research area → Raw materials** in the header (URL: `#materials/rare-earth`)
+
 ### Cross-topic analysis
 
 - **Similarity section** — pairwise overlap vs every other research topic

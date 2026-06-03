@@ -1,0 +1,833 @@
+APPIA RARE EARTHS & URANIUM CORP.
+       (formerly “APPIA ENERGY CORP.”)
+
+
+CONDENSED INTERIM FINANCIAL STATEMENTS
+
+
+For the six months ended March 31, 2024 and 2023
+                    (unaudited)
+             (Expressed in Canadian $)
+                           APPIA RARE EARTH & URANIUM CORP.
+                                    (the “Company”)
+        NOTICE OF NO AUDITOR REVIEW OF CONDENSED INTERIM FINANCIAL STATEMENTS
+
+Under National Instrument 51-102, Part 4, subsection 4.3(3) (a), if an auditor has not performed a review of the
+condensed interim financial statements, they must be accompanied by a notice indicating that the financial
+statements have not been reviewed by an auditor.
+
+The accompanying unaudited condensed interim financial statements of the Company have been prepared by,
+and are the responsibility of, the Company’s management. The Company’s independent auditor has not
+performed a review of these financial statements.
+
+DATED this 30th day of May 2024.
+
+
+
+                                                    APPIA RARE EARTH & URANIUM CORP.
+
+                                                    Per:   (signed) “Stephen Burega”
+                                                           Name: Stephen Burega
+                                                           Title: President
+
+                                                    Per:   (signed) “Frank van de Water”
+                                                           Name: Frank van de Water
+                                                           Title: Chief Financial Officer
+
+
+
+
+                                                                                                              2
+APPIA RARE EARTHS & URANIUM CORP.
+Condensed Interim Statements of Financial Position
+(Expressed in Cdn $)
+Unaudited
+
+                                                                               March 31,       September 30,
+                                                                                   2024                2023
+                                                                                       $                   $
+Assets
+Current
+Cash and cash equivalents (note 4)                                              1,948,334          2,193,753
+Accounts receivable                                                                32,589            209,344
+Prepaid expenses                                                                  220,375            139,869
+Total current assets                                                            2,201,098          2,542,966
+
+Non-current assets
+ Acquisition cost of properties (note 5)                                       1,100,955             844,046
+ Deferred exploration expenditures – Canada (note 5)                          23,606,012          23,234,826
+ Exploration camp and equipment (note 6)                                         475,854             559,828
+ Brazil project (note 7)                                                       1,391,684             708,314
+Total assets                                                                  28,775,803          27,889,980
+
+Liabilities
+Current
+Accounts payable & accruals                                                      147,316            160,246
+Due to related parties (note 11)                                                  88,831             57,647
+Flow-through share premium (note 9)                                              269,088                  -
+                                                                                 505,235            217,893
+Long term
+Future income tax liabilities                                                   2,906,103          2,906,103
+Total liabilities                                                               3,411,338          3,123,996
+Nature of operations and going concern (note 1)
+Subsequent events (note 16)
+
+Shareholders' equity
+Share capital (note 8(a))                                                      34,433,315         33,049,066
+Warrants (note 8(c))                                                                    -          1,912,692
+Contributed surplus (note 10)                                                  11,385,874          9,304,662
+Deficit                                                                      (20,454,724)        (19,500,436)
+Total shareholders' equity                                                     25,364,465         24,765,984
+Total liabilities and shareholders' equity                                     28,775,803         27,889,980
+
+The accompanying notes are an integral part of these condensed interim financial statements.
+
+
+APPROVED ON BEHALF OF THE BOARD on May 30th, 2024.
+
+"Signed"                                          "Signed"
+Anastasios (Tom) Drivas                           Frank van de Water
+      APPIA RARE EARTHS & URANIUM CORP.
+      Condensed Interim Statements of Changes in Equity
+      (Expressed in Cdn $)
+
+
+                                                     Share           Warrants    Contributed            Deficit         Total
+                                                     Capital                $       Surplus                  $             $
+                                                       $                                   $
+At September 30, 2022                              30,650,221       3,836,191     6,011,936    (17,355,181)       23,143,167
+Flow-through units private placement, net           3,207,864               -                                      3,207,864
+Working capital units private placement, net          175,999               -             -                  -       175,999
+Valuation of warrants issued                          (32,818)         32,818             -                  -             -
+Allocated to flow-through premium                   (952,200)               -             -                  -     (952,200)
+Share-based compensation                                     -              -       373,823                  -       373,823
+Net loss and comprehensive loss for the period               -              -             -          (642,039)     (642,039)
+At March 31, 2023                                  33,049,066       3,869,009     6,385,759    (17,997,220)       26,258,814
+Warrants expired                                            -     (1,956,317)     1,956,317               -                 -
+Share-based compensation                                    -               -       545,603               -           545,603
+Net loss and comprehensive loss for the period              -               -             -     (2,145,255)       (2,145,255)
+At September 30, 2023                              33,049,066       1,912,692     9,304,662    (19,500,436)       24,765,984
+Flow-through units private placement, net           1,358,341               -              -                 -     1,355,341
+Stock options exercised                               120,000               -              -                 -       120,000
+AJE for stock options exercised                        68,328               -       (68,328)                 -             -
+Allocated to flow-through premium                   (292,420)               -              -                 -     (292,420)
+Warrants expired                                            -     (1,912,692)     1,912,692                  -             -
+First tranche of 500,000 shares for PCH Project       130,000               -              -                 -       130,000
+Share-based compensation                                    -               -       236,484                  -       236,484
+Net loss and comprehensive loss for the period              -               -              -         (954,288)     (954,288)
+At March 31, 2024                                  34,433,315                -   11,385,874    (20,454,724)       25,364,465
+
+
+      The accompanying notes are an integral part of these condensed interim financial statements.
+    APPIA RARE EARTHS &URANIUM CORP.
+    Condensed Interim Statements of Income/(Loss) and Comprehensive Income/(Loss)
+    (Expressed in Cdn $)
+    Unaudited
+
+                                                      For the three months ended          For the six months ended
+                                                                March 31                          March 31
+                                                         2024            2023               2024            2023
+                                                            $              $                  $               $
+Expenses
+
+General and administrative activities:
+  Professional fees                                        75,756          76,294             130,875           136,104
+  Management fees and salaries                            126,563         103,362             230,513           171,525
+  Office and general                                      110,057          66,649             155,873           122,318
+  Part XII.6 tax                                            5,606               -               5,606                 -
+  Investor relations                                      121,184         113,718             275,211           199,224
+  Share-based compensation                                 59,150         416,983             236,848           790,806
+General and administrative expenses                       498,316         777,006           1,034,926         1,419,977
+
+Loss for the period before the following                 (498,316)       (777,006)        (1,034,926)        (1,419,977)
+
+Deferred income tax recovery                                23,332        155,271              23,332          155,271
+Interest income, sundry                                      1,353          1,092              57,306            2,024
+
+Net loss and comprehensive loss for the period           (473,631)       (620,643)          (954,288)        (1,262,682)
+
+
+Basic and diluted loss per share                             (0.00)          (0.00)                (0.01)         (0.01)
+Weighted average number of shares
+outstanding                                           136,334,000     130,523,000        133,585,000        128,060,000
+
+
+    The accompanying notes are an integral part of these condensed interim financial statements.
+APPIA RARE EARTHS &URANIUM CORP.
+Condensed Interim Statements of Cash Flows
+(Expressed in Cdn $)
+Unaudited
+
+
+                                                                       For the six months ended
+                                                                               March 31
+                                                                         2024               2023
+                                                                            $                 $
+
+ Operating activities
+  Net loss for the period                                                  (954,288)           (1,262,682)
+  Items not affecting cash:
+    Deferred income tax                                                     (23,332)            (155,271)
+    Share-based compensation                                                 236,848             790,806
+                                                                           (740,772)            (627,147)
+ Net change in non-cash working capital
+   Accounts receivable                                                       176,755             310,157
+   Prepaid expenses                                                         (80,506)            (117,915)
+   Accounts payable and accrued liabilities                                 (12,930)             (70,953)
+   Due to related parties                                                     31,184              36,252
+ Net cash used in operating activities                                     (626,269)            (469,606)
+
+ Investing activities
+ Exploration and evaluation assets acquisition costs (note 5)              (126,909)              (1,984)
+ Exploration equipment (note 5)                                               83,974              (3,388)
+ Deferred exploration expenditures                                       (1,054,556)            (469,429)
+ Net cash used in investing activities                                   (1,097,491)            (474,801)
+
+ Financing activities
+ Private placement of flow-through units                                  1,462,100            3,490,000
+ Private placement of working capital units                                       -              175,999
+ Stock options exercised                                                    120,000                     -
+ Share issue expense                                                      (103,759)             (282,136)
+ Net cash from financing activities                                       1,478,341            3,383,863
+
+ Change in cash and cash equivalents                                       (245,419)           2,439,456
+
+ Cash and cash equivalents, beginning of the period                       2,193,753            4,302,874
+
+ Cash and cash equivalents, end of the period                             1,948,334            6,742,330
+
+
+
+The accompanying notes are an integral part of these condensed interim financial statements.
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+1. Nature of operations and going concern
+Appia Rare Earths & Uranium Corp. (“Appia” or the “Company") is incorporated under the Canada Business
+Corporations Act and is listed on the Canadian Securities Exchange (CSE: “API”) and in New York on the
+OTCQX platform as “APAAF”. The shares also trade on German exchanges. The Company is actively exploring
+on its Saskatchewan properties to determine whether the properties contain resources that are economically
+recoverable and has entered into an agreement to participate in a rare earth element project in Brazil (note 7).
+The registered office and location of corporate records is Suite 500, 2 Toronto Street, Toronto, Ontario.
+
+The accompanying unaudited condensed interim financial statements (“Financial Statements”) of the Company
+have been prepared by, and are the responsibility of, the Company’s management. The Company’s
+independent auditor has not performed a review of these Financial Statements
+
+These Financial Statements have been prepared on a going concern basis which assumes that the Company
+will be able to realize its assets and discharge its liabilities in the normal course of business for the foreseeable
+future. As at March 31, 2024 the Company had no sources of operating cash flows and will therefore require
+additional funding which, if not raised, would result in the curtailment of activities and project delays. The
+Company had working capital $1,784,894 as at March 31, 2024, after providing for $88,831 due to related
+parties, and has incurred losses since inception resulting in an accumulated deficit of $20,454,724 as at March
+31, 2024. The Company’s ability to continue as a going concern is uncertain and is dependent upon its ability to
+continue to raise adequate financing. There can be no assurance that the Company will be successful in this
+regard, and therefore, there is doubt regarding the Company’s ability to continue as a going concern and the
+use of accounting principles applicable to a going concern. These Financial Statements do not reflect
+adjustments that would be necessary if the going concern assumption is not appropriate. If the going concern
+assumption is not appropriate, adjustments to the carrying values of the assets and liabilities, the expenses and
+the balance sheet classifications, which could be material, would be necessary.
+
+The recoverability of the carrying cost of its resource properties is dependent upon the existence of resources
+that are economically recoverable, confirmation of the Company's ownership interests in the claims, the ability of
+the Company to obtain necessary financing to complete the exploration and the development of the properties,
+and upon future profitable production, or proceeds from the disposition of the properties.
+
+2. Basis of preparation and statement of compliance with IAS 34
+
+These Financial Statements form part of the period covered by the Company’s International Financial Reporting
+Standards (“IFRS”) annual financial statements and have been prepared in accordance with IAS 34 - Interim
+Financial Reporting on the basis of IFRS standards and interpretations expected to be effective as at the
+Company’s fiscal year end, September 30, 2024.
+
+These Financial Statements do not contain all the disclosures required by IFRS for annual financial statements
+and should be read in conjunction with the Company’s audited annual financial statements for the year ended
+September 30, 2023 prepared in accordance with International Accounting Standards as issued by the
+International Accounting Standards Board (“IASB”) and interpretations of the International Financial Reporting
+Interpretations Committee (“IFRIC”) in effect as of September 30, 2023.
+
+In the opinion of management, all adjustments considered necessary for fair presentation have been included in
+these Financial Statements. Operating results for the six months ended March 31, 2024 may not be indicative of
+the results that may be expected for the year ending September 30, 2024.
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+3. Summary of significant accounting policies
+
+Readers should refer to the September 30, 2023, annual financial statements for the accounting policies used in
+the preparation of these Financial Statements. The IASB continues to amend and add to current IFRS standards
+and interpretations with several projects underway. Accordingly, the accounting policies adopted by the
+Company for the Company’s IFRS annual financial statements will be determined as at September 30, 2024
+and if a new policy differs materially from the accounting policies used in the preparation of these Financial
+Statements, these Financial Statements will be restated to retrospectively account for the application of those
+policies adopted at September 30, 2024.
+
+Presentation Currency
+
+The Company's presentation currency and functional currency is the Canadian dollar ("$").
+
+Accounting pronouncements issued but not yet adopted
+
+At the date of approval of these Financial Statements for the six months ended March 31, 2024, the following
+standards have been issued but not yet adopted.
+
+IFRS 10 – Consolidated Financial Statements (“IFRS 10”) and IAS 28 – Investments in Associates and Joint
+Ventures (“IAS 28”) were amended in September 2014 to address a conflict between the requirements of IAS 28
+and IFRS 10 and clarify that in a transaction involving an associate or joint venture, the extent of gain or loss
+recognition depends on whether the assets sold or contributed constitute a business. The effective date of these
+amendments is yet to be determined; however early adoption is permitted.
+
+The amendments are effective for annual periods beginning on or after January 1, 2023. The amendments must
+be applied retrospectively in accordance with IAS 8 Accounting Policies, Changes in Accounting Estimates and
+Errors. Earlier application is permitted. The Company is in the process of assessing the impact the amendments
+may have on future financial statements and plans to adopt the new standard retrospectively on the required
+effective date.
+
+The amendments are not expected to have an impact on the Company’s financial statements.
+
+4. Cash and cash equivalents
+
+Cash and cash equivalents comprise cash and investments in Canadian Chartered Bank demand money
+market funds.
+
+On November 22, 2022, and December 8, 2022, the Company closed a private placement of 6,980,000 flow-
+through units for gross proceeds of $3,490,000. These funds were expended on Canadian Exploration
+Expenditures ("CEE") in the year ended September 30, 2023.
+
+On December 27, 2023, the Company closed a private placement of 4,873,667 flow-through units for gross
+proceeds of $1,462,100. These funds are committed to be expended on Canadian Exploration Expenditures
+("CEE").
+
+5. Exploration and evaluation
+
+Property acquisition costs and related direct exploration costs less recoveries are deferred until such time as the
+properties are either placed into commercial production, sold, determined not to be economically viable, or
+abandoned.
+
+
+
+
+                                                                                                                 8
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+Acquisition cost of properties
+
+                                    Elliot
+                                    Lake         Alces Lake             Other        Brazil
+                                  Ontario     Saskatchewan      Saskatchewan        Project       Total
+                                         $                $                 $             $      $
+Balance, September 30, 2022       602,693           209,701            29,668              -    842,062
+Total additions for the period            -           1,984                 -              -      1,984
+Balance, September 30, 2023       602,693           211,685            29,668              -    844,046
+First tranche 500,000 shares
+for PCH Project                         -                 -                  -       130,000     130,000
+Additions for the period              367                 -            126,542             -     126,909
+Balance, March 31, 2024           603,030           211,685            156,210       130,000   1,100,955
+
+Deferred exploration and evaluation expenditures
+
+                                                              Saskatchewan
+                                                                $                  $
+Year ended September 30                                         2023            2022
+Opening balance October 1                                 19,237,376       7,857,131
+Additions:
+   Assaying                                                 384,898            656,213
+   Geophysics                                                42,500            184,595
+   Contract flying                                          815,779          2,299,031
+   Helicopter fuel                                          142,392            794,052
+   Drilling                                                 923,785          4,034,865
+   Contract labour                                          639,857          1,239,333
+   Employees                                                  87,670
+   Personnel travel costs                                     84,881           318,686
+   Field communications                                        4,147            60,206
+   Camp operating costs                                      383,471         1,077,932
+   Shipping                                                  136,873           356,771
+   Depreciation                                              297,229           312,767
+   Other                                                      53,968            45,794
+   Total additions for the year                            3,997,450        11,380,245
+Balance, September 30                                     23,234,826        19,237,376
+Additions:
+   Assaying                                                   91,264           281,377
+   Contract labour                                           127,498           126,379
+   Personnel travel costs                                      1,523            11,192
+   Field communications                                        2,302             1,599
+   Camp operating costs                                            -            19,846
+   Shipping                                                        -             5,075
+   Depreciation                                               83,974           126,670
+   Other                                                      13,985            23,961
+   Transport                                                  50,640                 -
+Total additions for the period                               371,186           596,099
+Balance, March 31                                         23,606,012        19,833,475
+
+
+
+
+                                                                                                   9
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+Saskatchewan, Athabasca Basin Area
+
+The Company commenced adding to its holdings by staking in Saskatchewan in 2011 and began significant
+acquisitions starting in 2016. At March 31, 2024 the Company held a 100% interest in 113,837 hectares
+(281,298 acres).
+
+Alces Lake Property is located 30 km northeast of Uranium city and at September 30, 2021 comprised 35,682
+hectares (88,172 acres), of REE mineralization, with multiple outcrops and boulders. In August 2021, 18,105
+hectares (44,738 acres) of land contiguous to the existing claim block were staked. The property is being
+actively explored and drilled in summer programs, extended to December in 2021, but in 2022 the program ran
+for 4.5 months from March to August. In February 2023 2,840 hectares (7,018 acres) were staked.
+
+Eastside Property is located east of Cameco’s Rabbit Lake mill and the eastern edge of the Athabasca Basin
+and was acquired by staking in June 2017. The property comprises 4,933 hectares (12,191 acres).
+
+Loranger Property comprises 26,409 hectares (65,258 acres) on the east side of Wollaston Lake with two
+diamond drill programs completed in January 2017 and March 2019.
+
+North Wollaston Property comprises 16,682 hectares (41,221 acres) located 30 km northeast of Cameco’s
+Rabbit Lake mill on the eastern edge of the Athabasca Basin.
+
+Other Side Property comprises 27,291 hectares (67,437 acres).
+
+Ontario, Elliot Lake
+In 2007, the Company acquired a 100% interest in 61 mining claims known as the Elliot Lake property located in
+Beange, Bolger, Bouck, Buckles, Gunterman and Joubin Townships, Sault Ste. Marie Mining Division in the
+Province of Ontario from Canada Enerco Corp. (“CEC”), a company controlled by the CEO and Director of the
+Company. CEC retains the right to a 1% Uranium Production Payment Royalty and a 1% Net Smelter Returns
+Royalty on any precious or base metals payable, provided that the price of uranium is greater than US$130 per
+pound.
+
+Appia holds over 12,545 hectares (31,000 acres) encompassing five mineralized zones in the Elliot Lake area of
+northern Ontario. The zones are called Teasdale, Banana Lake, Canuc, Bouck Lake and Buckles Lake.
+In prior years the Company had spent over $5 million exploring this property and had some promising results.
+However, with the low Uranium prices, the explorations costs were written off. The Company continues to own
+these claims.
+
+
+
+
+                                                                                                           10
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+6. Exploration camp and equipment
+   Alces Lake
+                                                              Machinery
+                                                                    and
+                                                              Equipment               Camp                  Total
+Cost                                                                    $                 $                    $
+Balance as at September 30, 2022                                  714,573           864,457            1,579,030
+Additions                                                          12,591                 -               12,591
+Balance as at September 30, 2023                                  727,164           864,457            1,591,621
+Additions                                                               -                 -                    -
+Balance as at March 31, 2024                                      727,164           864,457            1,591,621
+Accumulated depreciation
+Balance, September 30, 2022                                     (395,925)         (338,639)            (734,564)
+Depreciation for the year                                       (139,484)         (157,745)            (297,229)
+Balance, September 30, 2023                                     (535,409)         (496,384)          (1,031,793)
+Depreciation for the period                                      (28,764)          (55,210)             (83,974)
+Balance, March 31, 2024                                         (564,173)         (551,594)          (1,115,767)
+Net balance, September 30, 2023                                   191,755           368,073              559,828
+Net balance, March 31, 2024                                       162,991           312,863              475,854
+Depreciation is charged at 30% per annum (total of $83,974), on a declining balance basis and has been added to deferred exploration
+costs.
+
+7. Brazil project
+On March 7, 2023, the Company announced that it had signed a Letter Agreement (the “Letter Agreement”) with
+3S LTDA (“3S”) and Beko Invest Ltd. (“Beko”) to acquire up to a 70% interest in the PCH Project (the
+“Transaction”) located in the Tocantins Structural Province of the Brasília Fold Belt, Goiás State, Brazil (the
+“Target Property”).
+
+Appia will acquire incremental vested interests in the Target Property upon completion of specific expenditure
+requirements pursuant to the terms of the Letter Agreement, provided Appia initially issues at least 1 million
+common shares to Beko and spends at least US$1 million on the Target Property (at which time it will have
+earned a 10% legal and beneficial ownership interest in the Target Property), Appia can elect to cease funding
+the PCH Project and will have earned an interest in NewCo based upon the expenditures made to the date of
+the election (the “Earned Interest”) and the interest of Beko in NewCo will be adjusted to 100% minus the
+Earned Interest. The parties will then determine how they wish to proceed with their respective interests in
+NewCo.
+
+The Transaction is subject to the fulfillment of certain conditions precedent as are customary for transactions of
+this nature including compliance with the rules of the Canadian Securities Exchange. If the Definitive Agreement
+has not been executed by the Closing Date, the terms of the Letter Agreement shall govern the rights of the
+parties.
+
+Letter Agreement Terms and Conditions
+
+Appia has the option to earn a 60% interest in the Target Property by issuing an aggregate of 2.5 million
+common shares of Appia to Beko and spending US$10 million on the Target Property over a period of five
+years. If Appia earns its 60% interest, it will then be obligated, within 90 days of earning its 60% interest, to
+issue a further US$1,250,000 of common shares of Appia to Beko to earn a further 10% interest. Upon earning
+a 70% interest, Appia will grant to Beko a 1% net smelter returns royalty (the “1% NSR”) in the Target Property.
+Appia will have a right of first refusal to acquire the 1% NSR. Thereafter, Appia and Beko will enter into a joint
+
+
+
+
+                                                                                                                                 11
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+venture with respect to the further exploration and development of the Target Property (the “Joint Venture”) with
+Appia holding a 70% interest and Beko holding a 30% interest in the Joint Venture. Upon the formation of the
+Joint Venture, Beko will have 90 days within which to elect to either (a) participate in the Joint Venture and
+contribute its pro rata share of expenditures or be diluted; (b) sell all of its 30% interest in the Joint Venture,
+subject to a right of first refusal in favour of Appia; or (c) elect to have Appia fund its pro rata share of
+expenditures pursuant to the Joint Venture subject to the right of Appia to be reimbursed for 150% of the
+expenditures made by Appia on behalf of Beko.
+
+The execution of the Letter Agreement on June 9, 2023, will be followed by the good faith negotiation of formal
+documentation, including a definitive agreement (the “Definitive Agreement”) between the parties, setting forth
+the detailed terms of the Transaction, including the terms set out in the Letter Agreement and such other terms
+and conditions as are customary for transactions of the nature and magnitude contemplated herein. All
+documentation shall be in form and content satisfactory to each party and their respective counsel. The final
+structure of the Transaction will be determined after each of Appia and 3S / Beko have had the opportunity to
+consider all legal, tax and securities elements of the Transaction in order to ensure the most efficient structure
+for each of the parties and their respective security holders. The Target Property will be transferred to and held
+by a newly incorporated Brazilian company (“NewCo”) with Appia eventually holding a 70% interest in NewCo
+and Beko holding a 30% interest in NewCo subject to Appia earning its 70% interest as provided herein. The
+Joint Venture will be governed by the terms of a unanimous shareholders agreement between Appia and Beko
+which will govern the relationship of the parties to the Joint Venture.
+
+8. Share capital
+(a) Common shares
+The Company is authorized to issue an unlimited number of no par value common shares. The following table
+provides the details of changes in the number of issued common shares.
+
+                                                                          Number                   Amount
+                                                                             #                       $
+Balance, September 30, 2022                                                123,134,263              30,650,221
+Flow-through units private placement November 22, 2022                       5,000,000               2,500,000
+Flow-through units private placement December 8, 2022                        1,980,000                 990,000
+Working capital units private placement December 8, 2022                       409,300                 175,999
+Less: Value associated with warrants issued                                          -                 (31,382)
+Less: Value associated with broker warrants issued                                   -                  (1,436)
+Allocated to flow-through premium (note 8)                                           -               (952,200)
+Share issue costs                                                                    -               (282,136)
+Balance, September 30, 2023                                                130,523,563               33,049,066
+Flow-through units private placement December 27, 2023                       4,873,667                1,462,100
+Share issue costs                                                                    -                (103,759)
+Stock options exercised                                                        436,364                  120,000
+AJE for stock options exercised                                                      -                   68,328
+First tranche of 500,000 shares for PCH Project                                500,000                  130,000
+Allocated to flow-through premium (note 8)                                           -                (292,420)
+Balance, March 31, 2024                                                    136,333,594               34,433,315
+
+On November 22, 2022, the Company closed the first tranche of a non-brokered private placement of 5,000,000
+flow-through shares at $0.50 per share that were subject to a hold period expiring March 23, 2023.
+
+
+
+
+                                                                                                                12
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+On December 8, 2022, the Company closed the final tranche of the private placement with the issuance of
+1,980,000 flow-through shares for gross proceeds of $990,000 and 409,300 working capital units (“WC units”) at
+$0.43 for gross proceeds of $176,000. The WC units consist of one common share and one common share
+purchase warrant to acquire one common share at an exercise price of $0.65 until December 8, 2023. The
+Company also issued 12,000 brokers warrants valued at $1,436 with the WC units. The brokers warrants have
+the same term as the unit warrants.
+
+On December 11, 2023, the Company issued the first tranche of 500,000 common shares in accordance with
+the Definitive Agreement whereby it may acquire a 70% interest in the PCH Project in Brazil.
+
+On December 27, 2023, the Company closed its non-brokered private placement of 4,873,667 flow-through
+shares at $0.30 per share for gross proceeds of $1,462,100. The proceeds are expected to be spent on the
+Alces Lake exploration program in 2024.
+
+(b) Common share purchase options
+
+The Company has a stock option plan (the “Plan”) for the benefit of directors, officers and consultants. The total
+number of shares which may be reserved and set aside for issuance to eligible persons may not exceed 10% of
+the issued and outstanding common shares.
+As at March 31, 2024, 7,860,000 common shares were reserved for the exercise of stock options granted under
+the Plan.
+The following table provides the details of changes in the number of issued common share purchase options
+during the period:
+                                                                                         Weighted-average
+                                                                            Options       exercise price
+                                                                                                   $
+  Outstanding at September 30, 2022                                         7,110,000                   0.51
+  Granted                                                                     200,000                   0.60
+  Granted                                                                   1,000,000                   0.35
+  Expired                                                                 (1,000,000)                   0.65
+  Expired                                                                   (200,000)                   0.30
+  Outstanding at September 30, 2023                                         7,110,000                   0.47
+  Exercisable at September 30, 2023                                         3,985,000                   0.47
+  Granted                                                                   1,486,364                  0.275
+  Exercised                                                                 (436,364)                  0.275
+  Outstanding at March 31, 2024                                             8,160,000                   0.46
+  Exercisable at March 31, 2024                                             8,010,000                   0.46
+
+On October 18, 2022, the Company granted 200,000 options to purchase common shares exercisable at $0.60
+per share for five years to a consultant of the Company.
+
+On January 5, 2023, the Company granted 1,000,000 options to purchase common shares exercisable at $0.35
+per share for five years to the new President of the Company, Stephen Burega.
+
+On November 6, 2023, the Company granted 1,186,364 options to purchase common shares exercisable at
+$0.275 per share for five years to consultants of the Company.
+
+On February 8, 2024 the Company granted 300,000 options to purchase common shares exercisable at $0.275
+per share for five years to consultants of the Company.
+
+
+
+
+                                                                                                               13
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+   Number of             Number           Remaining         Exercise price per
+stock options         exercisable     contractual life                   share                      Expiry date
+      510,000             510,000        16.1 months                 $0.25                       August 4, 2025
+      150,000             150,000        26.1 months                 $0.91                         June 3, 2026
+      750,000             375,000        31.2 months                 $0.275                  November 6, 2026
+    5,250,000           5,250,000        41.7 months                 $0.50                  September 21, 2027
+      200,000             200,000        42.6 months                 $0.60                    October 18, 2027
+    1,000,000           1,000,000        45.1 months                 $0.35                     January 4, 2028
+      300,000             150,000        58.3 months                 $0.275                   February 8, 2029
+    8,160,000           8,010,000
+
+The weighted average fair value of the options issued on September 21, 2022, was calculated as $0.39 per
+share option. The fair value was estimated at the date of grant using the Black-Scholes pricing model with the
+following assumptions: risk-free weighted-average interest rate of 3.35%, expected dividend yield of nil,
+expected volatility of 120.93 and expected life term of 60 months. Options that have been issued generally vest
+one-half immediately on the date of grant and one-half twelve months from the date of grant.
+
+The weighted average fair value of the options issued on October 18, 2022, was calculated as $0.38 per share
+option. The fair value was estimated at the date of grant using the Black-Scholes pricing model with the
+following assumptions: risk-free weighted-average interest rate of 3.51%, expected dividend yield of nil,
+expected volatility of 120.61 and expected life term of 60 months.
+
+The weighted average fair value of the options issued on November 6, 2023, was calculated as $0.235 per
+share option. The fair value was estimated at the date of grant using the Black-Scholes pricing model with the
+following assumptions: risk-free weighted-average interest rate of 4.3%, expected dividend yield of nil, expected
+volatility of 112.71 and expected life term of 36 months.
+
+The weighted average fair value of the options issued on February 8, 2024, was calculated as $0.229 per share
+option. The fair value was estimated at the date of grant using the Black-Scholes pricing model with the
+following assumptions: risk-free weighted-average interest rate of 3.69%, expected dividend yield of nil,
+expected volatility of 122.48 and expected life term of 60 months.
+
+(c) Warrants
+
+On certain issuances of common shares, the Company grants warrants entitling the holder to acquire additional
+common shares of the Company, and the Company grants warrants as consideration for services associated
+with the placement of such common share issues. The following table provides the details of changes in the
+number of shares issuable on exercise of outstanding common share purchase warrants:
+
+                                                                           Number                        Value
+                                                                          of shares                         $
+Balance September 30, 2022                                                     15,577,074              3,836,191
+Private placement warrants issued                                                 421,300                 32,818
+Warrants expired                                                             (10,305,979)            (1,956,317)
+Balance September 30, 2023                                                      5,692,395              1,912,692
+Warrants expired                                                              (5,692,395)            (1,912,692)
+Balance March 31, 2024                                                                  -                      -
+
+The fair value of the warrants issued in the year ended December 31, 2022 was estimated using the Black-
+Scholes option pricing model with the following assumptions: risk-free weighted-average interest of 3.01%,
+expected dividend yield of nil, average expected volatility of 98.55% and expected life term of 24 months. Under
+this method of calculation, the Company recorded $32,818 as the value of the warrants issued under this
+offering.
+
+
+                                                                                                              14
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+As at December 31, 2023 all of the warrants outstanding at year end expired unexercised.
+
+The number of common shares outstanding on March 31, 2024, was 136,333,594. Taking into account
+outstanding share purchase options and warrants, the fully diluted number of common shares that could have
+been outstanding on March 31, 2024, was 144,693,594.
+
+9. Flow-through share premium
+
+Flow-through liabilities include the deferred premium portion of the flow-through shares issued. The following is
+a continuity schedule of the liability portion of the flow-through issuances.
+
+                                                                             March 31,          September 30,
+                                                                                 2024,                  2023,
+                                                                                     $                      $
+Balance at the beginning of the period                                               -                      -
+Liability incurred on flow-through shares issued                              292,420                 952,200
+Settlement of liability through the expenditure of funds                      (23,332)              (952,200)
+Balance at the end of the period                                              269,088                       -
+
+10. Contributed surplus
+
+A summary of changes in contributed surplus is:
+                                                                                                          Amount
+                                                                                                                $
+Balance, September 30, 2022                                                                            6,011,936
+Share-based payments                                                                                   1,336,409
+Warrants expired                                                                                       1,956,317
+Balance, September 30, 2023                                                                            9,304,662
+Stock options exercised                                                                                  (68,328)
+Warrants expired                                                                                       1,912,692
+Share-based payments                                                                                     236,848
+Balance, March 31, 2024                                                                               11,385,874
+
+11. Related party transactions
+
+During the three and six months ended March 31, 2024, the Company incurred related party expenses totaling
+$122,563 (2023 - $135,137) and $222,513 (2023 – $199,900) respectively. These expenses related to
+management fees paid or payable to key management personnel; Tom Drivas, Chief Executive Officer, Stephen
+Burega, President from January 4, 2021, Frank van de Water, Chief Financial Officer, and office administration
+services paid to Romios Gold Resources Inc., a company with a number of common directors and officers. The
+amount charged for office administration services is included under office and general expenses. At March 31,
+2024, $4,072 (2023 - $31,720) of accumulated related party expenditures was payable to the other officers and
+Romios Gold Resources Inc.
+
+Key management personnel were not paid post-retirement benefits, termination benefits, or other long-term
+benefits during the six months ended March 31, 2024, and 2023.
+
+During the three and six months ended March 31, 2024, the Company incurred expenses of $4,000 (2023 -
+$5,500) and $8,000 (2023 - $11,000) respectively for independent directors’ fees. At March 31, 2024, $47,000
+(2023 - $27,000) of accrued directors’ fees was outstanding.
+
+During the three and six months ended March 31, 2024, the Company incurred expenses of $13,191 (2023 -
+$21,140) and $47,332 (2023 - $66,277) respectively for legal fees, share issue costs and property acquisition
+
+
+                                                                                                              15
+APPIA RARE EARTHS & URANIUM CORP.
+Notes to Financial Statements
+For the six months ended March 31, 2024
+(expressed in Canadian dollars unless otherwise stated)
+
+costs to a law firm related to a director of the Company, William R. Johnstone. At March 31, 2024 $3,688 (2023
+– $17,935) was payable to this related party.
+
+On January 5, 2023, the Company granted 1,000,000 options to purchase common shares exercisable at $0.35
+per share for five years to the new President of the Company, Stephen Burega.
+
+As disclosed in Note 5, the Elliot Lake exploration properties were acquired from a related party that holds a 1%
+Uranium Production Payment Royalty and a 1% NSR Royalty on any precious or base metals payable provided
+that the price of uranium is greater than US$130 per pound.
+
+12. Financial instruments and risk management
+Categories of financial assets and liabilities
+
+Under IFRS, financial instruments are classified into one of the following five categories: Fair value through
+profit and loss (“FVTPL”), held to maturity investments, loans and receivables, financial assets, and financial
+liabilities. The carrying values of the Company’s financial instruments, including those held for sale are classified
+into the following categories:
+                                                                                           March 31          September 30
+                                                                                                2024                 2023
+                                                                                                   $                    $
+ FVTPL(1)                                                                                  1,948,334            2,193,753
+ Receivables (2)                                                                              32,589              209,344
+ Financial liabilities (3)                                                                   236,147              160,246
+(1) Includes cash, committed cash and demand deposits and money market funds of a Canadian Chartered Bank.
+(2) Includes accounts receivable related to HST and PST tax refunds.
+(3) Includes accounts payable.
+
+Financial Instruments
+
+The carrying amounts for the Company’s financial instruments approximate their fair values because of the
+short-term nature of these items.
+
+Risks arising from financial instruments and risk management
+
+The Company’s activities expose it to a variety of financial risks: market risk (including interest rate risk and
+price risk), credit risk and liquidity risk. The Company’s overall risk management program focuses on the
+unpredictability of financial markets and seeks to minimize potential adverse effects on the Company.
+
+Carrying value of exploration and evaluation assets
+
+The Company regularly reviews the carrying value of its properties to determine whether the cost of these
+assets will be recoverable from future cash flows or from the proceeds of their disposal. Assumptions underlying
+the cash flow estimates would include the forecasted prices for uranium and rare earth elements, planned
+production levels, and operating, capital, exploration, and reclamation costs, which are subject to risks and
+uncertainties. Management has determined that there is no impairment of the carrying value of its exploration
+properties.
+
+14. Capital disclosures
+
+The Company manages its capital structure and makes adjustments to it, based on the funds available to the
+Company, in order to support the acquisition, exploration and development of exploration and evaluation assets.
+The capital of the Company consists of capital stock, warrants, and contributed surplus.
+
+
+
+                                                                                                                     16
+    APPIA RARE EARTHS & URANIUM CORP.
+    Notes to Financial Statements
+    For the six months ended March 31, 2024
+    (expressed in Canadian dollars unless otherwise stated)
+
+    The properties in which the Company currently has an interest are in the exploration stage as such the
+    Company is dependent on external financing to fund its activities. In order to carry out the planned exploration
+
+    and pay for administrative costs, the Company will spend its existing working capital and will raise additional
+    amounts as needed. The Company will continue to assess new properties and seek to acquire an interest in
+    additional properties if it feels there is sufficient geologic or economic potential and if it has adequate financial
+    resources to do so.
+
+    Management reviews its capital management approach on an ongoing basis and believes that this approach,
+    given the relative size of the Company, is reasonable.
+
+    The Company is not subject to externally imposed capital requirements.
+
+    15. Segment information
+
+    The Company operated in 2 geographic segments during the six months ended March 31, 2024 as disclosed
+    below:
+
+
+              Cash and                         Exploration and      Exploration
+                cash         Receivables         evaluation          camp and        Accounts        Deferred
+Country      equivalents     & prepaids          Properties         equipment        Payable        income tax      Profit (Loss)
+
+Canada        $1,948,334          $252,964          $24,576,967         $475,854       $236,147      $2,906,103        $ (954,288)
+
+Brazil                   -                 -          1,521,684                  -              -               -                -
+
+              $1,948,334          $252,964         $ 26,098,651         $475,854       $236,147      $2,906,103        $ (954,288)
+
+    16. Subsequent events
+
+    On May 10, 2024, the Company signed a non-binding memorandum of understanding with 15997356 Canada
+    Inc. (the “Purchaser”) to option up to a 100% interest in the Company’s Elliot Lake uranium property. The
+    transaction, which is subject to the parties entering into a Definitive Agreement, enables the Purchaser to earn a
+    51% interest in the property by paying the Company $25 million by October 31, 2024. The transaction is
+    conditional upon the Purchaser providing the Company a financing commitment on or before July 9, 2024.,
+    failing which the Company can terminate the transaction.
+
+    If the Purchaser acquires a 51% interest in the property, the Purchaser and the Company will form a joint
+    venture, and the Purchaser will have a period of thirty-six months (forty-eight months upon payment of $5 million
+    to the Company) to obtain a bankable feasibility study with respect to the development of the property. Upon
+    delivery of a bankable feasibility study, the Purchaser can acquire the remaining 49% interest in the property by
+    making a payment of $50 million to the Company.
+
+    The Company will retain up to a 2% Uranium Production Payment Royalty and up to a 2% Net Smelter Returns
+    Royalty, subject to the existing royalties on the Elliot Lake property.
+
+
+
+
+                                                                                                                      17

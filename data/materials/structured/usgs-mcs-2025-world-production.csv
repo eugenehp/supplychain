@@ -1,0 +1,17 @@
+country,country_code,production_2023_mt,production_2024_mt,reserves_mt
+China,CN,255000,270000,44000000
+United States,US,41600,45000,1900000
+Burma,MM,43000,31000,
+Australia,AU,16000,13000,5700000
+Nigeria,NG,7200,13000,
+Thailand,TH,3600,13000,4500
+India,IN,2900,2900,6900000
+Russia,RU,2500,2500,3800000
+Madagascar,MG,2100,2000,
+Brazil,BR,140,20,21000000
+Malaysia,MY,310,130,
+Vietnam,VN,300,300,3500000
+Canada,CA,,,830000
+Greenland,GL,,,1500000
+South Africa,ZA,,,860000
+Tanzania,TZ,,,890000

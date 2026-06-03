@@ -1,0 +1,23 @@
+{
+  "id": "ASM",
+  "name": "Australian Strategic Materials",
+  "localTicker": "ASM.AX",
+  "listingRegime": "ASX",
+  "countryCode": "AU",
+  "scrapedAt": "2026-06-03T06:15:04.955Z",
+  "secCounterpart": "20-F",
+  "homeFormLabel": "Annual Report",
+  "sourceUrl": "https://asm-au.com/asm-2024-annual-report-copy/",
+  "sourceType": "html",
+  "error": null,
+  "textLength": 3320,
+  "sourceLabel": "FY2024 Annual Report (IR page)",
+  "parsed": {
+    "text": "Annual Report 2024 - Australian Strategic Materials Ltd (ASM) Skip to content About ASM Expand Our Values Board Management Corporate Directory Corporate Governance Mine Expand The Dubbo Project Expand Resources & Reserves Processing Technology Toongi Pastoral Company Environment Community Products Expand Rare Earths Zirconium Niobium Hafnium Metals Expand Korean Metals Plant Expand Supply Chain Technology & Innovation ESG History Products Expand NdPr Metal NdFeB Alloy Dy & Tb Metals Future Products Sustainability Expand Biodiversity Climate Change Water Safety Health Wellbeing Community & Social People & Culture Investors Expand Shareholder Information ASX Announcements Energy Fuels transaction Company Reports Corporate Presentations Latest Videos News Contact Expand Careers Customers Suppliers X Linkedin YouTube Search Toggle Menu Annual Report 2024 30/09/2024 ASM is pleased to present its 2024 Annual Report, highlighting the strategic and operational progress the Company made during the past financial year and the path it is on to successfully deliver its mine to metals strategy. “It is fair to say, the critical minerals sector has been firmly in the spotlight and ASM is well positioned to benefit from and support this national and international market momentum. With the right assets, technical capability and team, ASM’s mine to metals strategy offers an end-to-end sustainable supply chain, capable of building a leading position as a global producer of rare earths, critical minerals and high-tech metals..” Ian Gandel, ASM Chairman Read the 2024 Annual Report Post navigation Previous Previous Interactive Critical Minerals Prospectus showcases the Dubbo Project Next Continue Dubbo at the heart of plans to grow critical minerals and rare earths industry in NSW Subscribe to receive our latest updates Email Address * First Name * Last Name * I have read and agree to the Privacy Policy * I have read and agree to the Privacy Policy Subscribe Level 4, 66 Kings Park Road, West Perth WA 6005 PO Box 768 West Perth WA 6872 P: 61 8 9200 1681 F: 61 8 9200 1682 X Linkedin YouTube About ASM Mine Metals Sustainability Investors News Contact Us We acknowledge the Traditional Owners of the land on which we work, and pay our respects to the Elders, past and present. &copy; 2026 Australian Strategic Materials Ltd. All rights reserved. | Privacy | Terms About ASM Toggle child menu Expand Our Values Board Management Corporate Directory Corporate Governance Mine Toggle child menu Expand The Dubbo Project Toggle child menu Expand Resources & Reserves Processing Technology Toongi Pastoral Company Environment Community Products Toggle child menu Expand Rare Earths Zirconium Niobium Hafnium Metals Toggle child menu Expand Korean Metals Plant Toggle child menu Expand Supply Chain Technology & Innovation ESG History Products Toggle child menu Expand NdPr Metal NdFeB Alloy Dy & Tb Metals Future Products Sustainability Toggle child menu Expand Biodiversity Climate Change Water Safety Health Wellbeing Community & Social People & Culture Investors Toggle child menu Expand Shareholder Information ASX Announcements Energy Fuels transaction Company Reports Corporate Presentations Latest Videos News Contact Toggle child menu Expand Careers Customers Suppliers Toggle Menu Close Search for: Search",
+    "textLength": 3320,
+    "regime": "ASX",
+    "secCounterpart": "20-F",
+    "secCounterpartNote": "Australian Annual Report under Corporations Act 2001",
+    "parsedAt": "2026-06-03T06:15:08.110Z"
+  }
+}

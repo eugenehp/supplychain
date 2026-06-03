@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-29T06:06:24.747Z",
-  "corpusDocumentCount": 17896,
-  "acronymInstances": 110804,
-  "uniqueAcronymsInCorpus": 2401,
-  "termCount": 421,
+  "generatedAt": "2026-06-03T06:12:42.466Z",
+  "corpusDocumentCount": 23270,
+  "acronymInstances": 153154,
+  "uniqueAcronymsInCorpus": 3248,
+  "termCount": 560,
   "curatedCount": 134,
-  "filingExtractedCount": 287,
+  "filingExtractedCount": 426,
   "groups": [
     {
       "title": "Memory & storage",
@@ -237,7 +237,7 @@
           "abbr": "RF",
           "name": "Radio Frequency",
           "definition": "Chip domains handling wireless and high-frequency analog signals.",
-          "count": 212,
+          "count": 240,
           "source": "curated"
         },
         {
@@ -258,7 +258,7 @@
           "abbr": "GaN",
           "name": "Gallium Nitride",
           "definition": "Wide-bandgap semiconductor for power electronics and some specialty wafers.",
-          "count": 48,
+          "count": 51,
           "source": "curated"
         },
         {
@@ -277,7 +277,7 @@
           "abbr": "IP",
           "name": "Semiconductor intellectual property",
           "definition": "Licensed design blocks (CPU cores, interfaces) integrated into a chip.",
-          "count": 2856,
+          "count": 2904,
           "source": "curated"
         },
         {
@@ -309,6 +309,13 @@
           "source": "curated"
         },
         {
+          "abbr": "DRC",
+          "name": "Design Rule Check",
+          "definition": "Automated verification that layout meets fab manufacturing rules.",
+          "count": 40,
+          "source": "curated"
+        },
+        {
           "abbr": "RTL",
           "name": "Register Transfer Level",
           "definition": "Digital chip description level used before gate-level synthesis.",
@@ -316,17 +323,10 @@
           "source": "curated"
         },
         {
-          "abbr": "DRC",
-          "name": "Design Rule Check",
-          "definition": "Automated verification that layout meets fab manufacturing rules.",
-          "count": 32,
-          "source": "curated"
-        },
-        {
           "abbr": "ASIC",
           "name": "Application-Specific Integrated Circuit",
           "definition": "Custom chip designed for one application (vs. general-purpose CPU/GPU).",
-          "count": 16,
+          "count": 28,
           "source": "curated"
         },
         {
@@ -340,7 +340,7 @@
           "abbr": "EM",
           "name": "Electromigration",
           "definition": "Metal wire degradation under current — a reliability concern in advanced chips.",
-          "count": 2,
+          "count": 10,
           "source": "curated"
         }
       ]
@@ -352,7 +352,7 @@
           "abbr": "AI",
           "name": "Artificial Intelligence",
           "definition": "Machine learning workloads driving demand for GPUs, HBM, and advanced packaging.",
-          "count": 8154,
+          "count": 8306,
           "source": "curated"
         },
         {
@@ -384,17 +384,17 @@
           "source": "curated"
         },
         {
+          "abbr": "ML",
+          "name": "Machine Learning",
+          "definition": "Algorithms that learn from data — primary workload on NVIDIA data-center GPUs.",
+          "count": 280,
+          "source": "curated"
+        },
+        {
           "abbr": "HPC",
           "name": "High Performance Computing",
           "definition": "Large-scale scientific and AI supercomputing — major GPU market segment.",
           "count": 228,
-          "source": "curated"
-        },
-        {
-          "abbr": "ML",
-          "name": "Machine Learning",
-          "definition": "Algorithms that learn from data — primary workload on NVIDIA data-center GPUs.",
-          "count": 214,
           "source": "curated"
         },
         {
@@ -441,7 +441,7 @@
           "abbr": "KLA",
           "name": "KLA (inspection & metrology)",
           "definition": "Shorthand for KLA Corporation — wafer defect inspection and measurement tools.",
-          "count": 772,
+          "count": 792,
           "source": "curated"
         },
         {
@@ -495,7 +495,7 @@
           "abbr": "SK",
           "name": "SK Group / SK Hynix",
           "definition": "Korean conglomerate; SK Hynix is a primary HBM supplier in this chain.",
-          "count": 162,
+          "count": 166,
           "source": "curated"
         },
         {
@@ -520,6 +520,13 @@
           "source": "curated"
         },
         {
+          "abbr": "MU",
+          "name": "Micron Technology",
+          "definition": "Memory manufacturer (DRAM and NAND).",
+          "count": 14,
+          "source": "curated"
+        },
+        {
           "abbr": "TSM",
           "name": "TSMC (ticker)",
           "definition": "NYSE ticker for Taiwan Semiconductor Manufacturing Company.",
@@ -531,13 +538,6 @@
           "name": "Cadence Design Systems",
           "definition": "Major EDA and verification software vendor.",
           "count": 10,
-          "source": "curated"
-        },
-        {
-          "abbr": "MU",
-          "name": "Micron Technology",
-          "definition": "Memory manufacturer (DRAM and NAND).",
-          "count": 8,
           "source": "curated"
         },
         {
@@ -577,7 +577,7 @@
           "abbr": "GHG",
           "name": "Greenhouse Gas",
           "definition": "Emissions (CO₂ equivalent) tracked for climate reporting (Scope 1/2/3).",
-          "count": 1154,
+          "count": 1274,
           "source": "curated"
         },
         {
@@ -598,7 +598,7 @@
           "abbr": "OECD",
           "name": "Organisation for Economic Co-operation and Development",
           "definition": "Intergovernmental forum — OECD guidelines cited in responsible sourcing policies.",
-          "count": 300,
+          "count": 308,
           "source": "curated"
         },
         {
@@ -623,17 +623,17 @@
           "source": "curated"
         },
         {
+          "abbr": "CCA",
+          "name": "Climate Change Adaptation",
+          "definition": "EU taxonomy category for adapting to climate impacts.",
+          "count": 128,
+          "source": "curated"
+        },
+        {
           "abbr": "SCC",
           "name": "Semiconductor Climate Consortium",
           "definition": "Industry group working on semiconductor supply-chain emissions reduction.",
           "count": 122,
-          "source": "curated"
-        },
-        {
-          "abbr": "CCA",
-          "name": "Climate Change Adaptation",
-          "definition": "EU taxonomy category for adapting to climate impacts.",
-          "count": 118,
           "source": "curated"
         },
         {
@@ -659,14 +659,21 @@
           "abbr": "SEC",
           "name": "U.S. Securities and Exchange Commission",
           "definition": "Regulator publishing public company filings used as evidence in this report.",
-          "count": 1518,
+          "count": 2536,
           "source": "curated"
         },
         {
           "abbr": "EU",
           "name": "European Union",
           "definition": "Regional bloc whose regulations (CSRD, taxonomy) appear in sustainability filings.",
-          "count": 1104,
+          "count": 1210,
+          "source": "curated"
+        },
+        {
+          "abbr": "PFIC",
+          "name": "Passive Foreign Investment Company",
+          "definition": "U.S. tax classification affecting foreign company shareholders.",
+          "count": 748,
           "source": "curated"
         },
         {
@@ -680,14 +687,7 @@
           "abbr": "CHIPS",
           "name": "CHIPS Act",
           "definition": "U.S. law providing incentives for domestic semiconductor manufacturing.",
-          "count": 420,
-          "source": "curated"
-        },
-        {
-          "abbr": "PFIC",
-          "name": "Passive Foreign Investment Company",
-          "definition": "U.S. tax classification affecting foreign company shareholders.",
-          "count": 410,
+          "count": 432,
           "source": "curated"
         },
         {
@@ -717,6 +717,13 @@
       "title": "Accounting & filings",
       "items": [
         {
+          "abbr": "ASU",
+          "name": "Accounting Standards Update",
+          "definition": "FASB document proposing or amending GAAP rules.",
+          "count": 1230,
+          "source": "curated"
+        },
+        {
           "abbr": "ADSs",
           "name": "American Depositary Shares",
           "definition": "Plural of ADS — how foreign stocks often trade on U.S. exchanges.",
@@ -724,10 +731,17 @@
           "source": "curated"
         },
         {
-          "abbr": "ASU",
-          "name": "Accounting Standards Update",
-          "definition": "FASB document proposing or amending GAAP rules.",
-          "count": 782,
+          "abbr": "GAAP",
+          "name": "Generally Accepted Accounting Principles",
+          "definition": "U.S. accounting standards used in 10-K financial statements.",
+          "count": 1022,
+          "source": "curated"
+        },
+        {
+          "abbr": "PCAOB",
+          "name": "Public Company Accounting Oversight Board",
+          "definition": "U.S. body overseeing audits of public companies.",
+          "count": 902,
           "source": "curated"
         },
         {
@@ -738,10 +752,10 @@
           "source": "curated"
         },
         {
-          "abbr": "PCAOB",
-          "name": "Public Company Accounting Oversight Board",
-          "definition": "U.S. body overseeing audits of public companies.",
-          "count": 750,
+          "abbr": "XBRL",
+          "name": "eXtensible Business Reporting Language",
+          "definition": "Machine-readable format for SEC financial filings.",
+          "count": 706,
           "source": "curated"
         },
         {
@@ -752,10 +766,10 @@
           "source": "curated"
         },
         {
-          "abbr": "GAAP",
-          "name": "Generally Accepted Accounting Principles",
-          "definition": "U.S. accounting standards used in 10-K financial statements.",
-          "count": 680,
+          "abbr": "RSUs",
+          "name": "Restricted Stock Units",
+          "definition": "Plural of RSU — stock-based compensation awards.",
+          "count": 620,
           "source": "curated"
         },
         {
@@ -766,31 +780,38 @@
           "source": "curated"
         },
         {
-          "abbr": "XBRL",
-          "name": "eXtensible Business Reporting Language",
-          "definition": "Machine-readable format for SEC financial filings.",
-          "count": 534,
-          "source": "curated"
-        },
-        {
-          "abbr": "RSUs",
-          "name": "Restricted Stock Units",
-          "definition": "Plural of RSU — stock-based compensation awards.",
-          "count": 502,
-          "source": "curated"
-        },
-        {
           "abbr": "CODM",
           "name": "Chief Operating Decision Maker",
           "definition": "Executive who allocates resources — defines reportable business segments.",
-          "count": 424,
+          "count": 542,
+          "source": "curated"
+        },
+        {
+          "abbr": "NYSE",
+          "name": "New York Stock Exchange",
+          "definition": "U.S. stock exchange where some issuers in this dataset are listed.",
+          "count": 514,
+          "source": "curated"
+        },
+        {
+          "abbr": "FASB",
+          "name": "Financial Accounting Standards Board",
+          "definition": "U.S. body that sets GAAP accounting rules.",
+          "count": 460,
           "source": "curated"
         },
         {
           "abbr": "OBBBA",
           "name": "One Big Beautiful Bill Act",
           "definition": "U.S. legislation referenced in recent tax and incentive disclosures.",
-          "count": 398,
+          "count": 426,
+          "source": "curated"
+        },
+        {
+          "abbr": "IRS",
+          "name": "Internal Revenue Service",
+          "definition": "U.S. tax authority referenced in tax footnotes.",
+          "count": 422,
           "source": "curated"
         },
         {
@@ -801,10 +822,10 @@
           "source": "curated"
         },
         {
-          "abbr": "IRS",
-          "name": "Internal Revenue Service",
-          "definition": "U.S. tax authority referenced in tax footnotes.",
-          "count": 346,
+          "abbr": "EPS",
+          "name": "Earnings Per Share",
+          "definition": "Net income divided by shares outstanding — key profitability metric.",
+          "count": 368,
           "source": "curated"
         },
         {
@@ -815,24 +836,10 @@
           "source": "curated"
         },
         {
-          "abbr": "FASB",
-          "name": "Financial Accounting Standards Board",
-          "definition": "U.S. body that sets GAAP accounting rules.",
-          "count": 320,
-          "source": "curated"
-        },
-        {
-          "abbr": "NYSE",
-          "name": "New York Stock Exchange",
-          "definition": "U.S. stock exchange where some issuers in this dataset are listed.",
-          "count": 312,
-          "source": "curated"
-        },
-        {
-          "abbr": "EPS",
-          "name": "Earnings Per Share",
-          "definition": "Net income divided by shares outstanding — key profitability metric.",
-          "count": 292,
+          "abbr": "COSO",
+          "name": "Committee of Sponsoring Organizations",
+          "definition": "Framework for internal control over financial reporting (COSO framework).",
+          "count": 314,
           "source": "curated"
         },
         {
@@ -850,10 +857,10 @@
           "source": "curated"
         },
         {
-          "abbr": "COSO",
-          "name": "Committee of Sponsoring Organizations",
-          "definition": "Framework for internal control over financial reporting (COSO framework).",
-          "count": 266,
+          "abbr": "SOFR",
+          "name": "Secured Overnight Financing Rate",
+          "definition": "U.S. benchmark interest rate used in loan agreements.",
+          "count": 272,
           "source": "curated"
         },
         {
@@ -878,17 +885,10 @@
           "source": "curated"
         },
         {
-          "abbr": "SOFR",
-          "name": "Secured Overnight Financing Rate",
-          "definition": "U.S. benchmark interest rate used in loan agreements.",
-          "count": 240,
-          "source": "curated"
-        },
-        {
           "abbr": "ISO",
           "name": "International Organization for Standardization",
           "definition": "Body issuing standards (e.g. ISO 14001 environmental management).",
-          "count": 218,
+          "count": 226,
           "source": "curated"
         },
         {
@@ -899,6 +899,13 @@
           "source": "curated"
         },
         {
+          "abbr": "TSR",
+          "name": "Total Shareholder Return",
+          "definition": "Stock price change plus dividends — common executive comp metric.",
+          "count": 202,
+          "source": "curated"
+        },
+        {
           "abbr": "ERP",
           "name": "Enterprise Resource Planning",
           "definition": "Integrated software for finance, supply chain, and operations.",
@@ -906,10 +913,10 @@
           "source": "curated"
         },
         {
-          "abbr": "TSR",
-          "name": "Total Shareholder Return",
-          "definition": "Stock price change plus dividends — common executive comp metric.",
-          "count": 184,
+          "abbr": "RSU",
+          "name": "Restricted Stock Unit",
+          "definition": "Employee equity grant that vests over time — common in tech company comp.",
+          "count": 170,
           "source": "curated"
         },
         {
@@ -917,6 +924,13 @@
           "name": "Self-Assessment Questionnaire",
           "definition": "Supplier audit questionnaire (often RBA-based) for supply-chain compliance.",
           "count": 170,
+          "source": "curated"
+        },
+        {
+          "abbr": "KPMG",
+          "name": "KPMG",
+          "definition": "Global audit and advisory firm — external auditor named in filings.",
+          "count": 160,
           "source": "curated"
         },
         {
@@ -930,7 +944,7 @@
           "abbr": "FTE",
           "name": "Full-Time Equivalent",
           "definition": "Standardized headcount measure (one full-time employee = one FTE).",
-          "count": 138,
+          "count": 150,
           "source": "curated"
         },
         {
@@ -941,31 +955,17 @@
           "source": "curated"
         },
         {
-          "abbr": "KPMG",
-          "name": "KPMG",
-          "definition": "Global audit and advisory firm — external auditor named in filings.",
-          "count": 120,
-          "source": "curated"
-        },
-        {
-          "abbr": "RSU",
-          "name": "Restricted Stock Unit",
-          "definition": "Employee equity grant that vests over time — common in tech company comp.",
-          "count": 110,
-          "source": "curated"
-        },
-        {
           "abbr": "KPI",
           "name": "Key Performance Indicator",
           "definition": "Metric used to track business or sustainability goals.",
-          "count": 98,
+          "count": 108,
           "source": "curated"
         },
         {
           "abbr": "KPIs",
           "name": "Key Performance Indicators",
           "definition": "Plural of KPI.",
-          "count": 84,
+          "count": 104,
           "source": "curated"
         },
         {
@@ -981,24 +981,80 @@
       "title": "General",
       "items": [
         {
-          "abbr": "CEO",
-          "name": "Chief Executive Officer",
-          "definition": "Top executive leading company strategy and operations.",
-          "count": 1044,
-          "source": "curated"
+          "abbr": "REE",
+          "name": "d received patent protection for the removal of thorium from a rare earth element",
+          "definition": "Defined in SEC filings as “d received patent protection for the removal of thorium from a rare earth element”.",
+          "count": 3410,
+          "source": "filing"
+        },
+        {
+          "abbr": "HMS",
+          "name": "including titanium and zirconium minerals",
+          "definition": "Defined in SEC filings as “including titanium and zirconium minerals”.",
+          "count": 908,
+          "source": "filing"
+        },
+        {
+          "abbr": "NdPr",
+          "name": "deposits having a favorable distribution of neodymium-praseodymium",
+          "definition": "Defined in SEC filings as “deposits having a favorable distribution of neodymium-praseodymium”.",
+          "count": 786,
+          "source": "filing"
         },
         {
           "abbr": "IT",
           "name": "heavily on the accuracy, availability, and security of our information technology",
           "definition": "Defined in SEC filings as “heavily on the accuracy, availability, and security of our information technology”.",
-          "count": 652,
+          "count": 746,
           "source": "filing"
         },
         {
           "abbr": "VIEs",
           "name": "onsolidated VIEs We hold various forms of interests in Variable Interest Entities",
           "definition": "Defined in SEC filings as “onsolidated VIEs We hold various forms of interests in Variable Interest Entities”.",
-          "count": 586,
+          "count": 595,
+          "source": "filing"
+        },
+        {
+          "abbr": "RTMD",
+          "name": "which could be significant",
+          "definition": "Defined in SEC filings as “which could be significant”.",
+          "count": 564,
+          "source": "filing"
+        },
+        {
+          "abbr": "MP",
+          "name": "s common stock is currently quoted on the NYSE under the symbol",
+          "definition": "Defined in SEC filings as “s common stock is currently quoted on the NYSE under the symbol”.",
+          "count": 472,
+          "source": "filing"
+        },
+        {
+          "abbr": "VIE",
+          "name": "s made as to whether there is a requirement to apply the variable interest entity",
+          "definition": "Defined in SEC filings as “s made as to whether there is a requirement to apply the variable interest entity”.",
+          "count": 442,
+          "source": "filing"
+        },
+        {
+          "abbr": "CFO",
+          "name": "Chief Financial Officer",
+          "definition": "Executive responsible for finance, accounting, and investor relations.",
+          "count": 440,
+          "source": "curated"
+        },
+        {
+          "abbr": "PPA",
+          "name": "ferred Stock, a Warrant, a Samarium Project Loan and a Price Protection Agreement",
+          "definition": "Defined in SEC filings as “ferred Stock, a Warrant, a Samarium Project Loan and a Price Protection Agreement”.",
+          "count": 422,
+          "source": "filing"
+        },
+        {
+          "abbr": "HM",
+          "name": "no minimum thickness",
+          "definition": "Defined in SEC filings as “no minimum thickness”.",
+          "count": 402,
           "source": "filing"
         },
         {
@@ -1009,11 +1065,25 @@
           "source": "filing"
         },
         {
-          "abbr": "CFO",
-          "name": "Chief Financial Officer",
-          "definition": "Executive responsible for finance, accounting, and investor relations.",
+          "abbr": "TREO",
+          "name": "Recovered Metric Tons Total Rare Earth Oxide",
+          "definition": "Defined in SEC filings as “Recovered Metric Tons Total Rare Earth Oxide”.",
+          "count": 356,
+          "source": "filing"
+        },
+        {
+          "abbr": "AIC",
+          "name": "American Carbon changed its name to American Infrastructure Corporation",
+          "definition": "Defined in SEC filings as “American Carbon changed its name to American Infrastructure Corporation”.",
+          "count": 326,
+          "source": "filing"
+        },
+        {
+          "abbr": "HREE",
+          "name": "Heavy Rare Earth Elements",
+          "definition": "Defined in SEC filings as “Heavy Rare Earth Elements”.",
           "count": 310,
-          "source": "curated"
+          "source": "filing"
         },
         {
           "abbr": "AWS",
@@ -1023,31 +1093,66 @@
           "source": "filing"
         },
         {
+          "abbr": "ISR",
+          "name": "developing some of the key technology used globally to optimize In Situ Recovery",
+          "definition": "Defined in SEC filings as “developing some of the key technology used globally to optimize In Situ Recovery”.",
+          "count": 300,
+          "source": "filing"
+        },
+        {
           "abbr": "GDPR",
           "name": "nes under existing regulatory regimes like the General Data Protection Regulation",
           "definition": "Defined in SEC filings as “nes under existing regulatory regimes like the General Data Protection Regulation”.",
-          "count": 294,
+          "count": 298,
           "source": "filing"
         },
         {
-          "abbr": "OEM",
-          "name": "act price for rights of return and rebates to our original equipment manufacturer",
-          "definition": "Defined in SEC filings as “act price for rights of return and rebates to our original equipment manufacturer”.",
-          "count": 256,
-          "source": "filing"
-        },
-        {
-          "abbr": "VIE",
-          "name": "primary beneficiary of, and thus should consolidate, any variable interest entity",
-          "definition": "Defined in SEC filings as “primary beneficiary of, and thus should consolidate, any variable interest entity”.",
-          "count": 240,
+          "abbr": "RLMT",
+          "name": "ReElement Technologies Inc",
+          "definition": "Defined in SEC filings as “ReElement Technologies Inc”.",
+          "count": 292,
           "source": "filing"
         },
         {
           "abbr": "PSUs",
           "name": "itionally, SBC includes other stock-based awards, such as performance stock units",
           "definition": "Defined in SEC filings as “itionally, SBC includes other stock-based awards, such as performance stock units”.",
-          "count": 238,
+          "count": 287,
+          "source": "filing"
+        },
+        {
+          "abbr": "ASM",
+          "name": "acquisition pending",
+          "definition": "Defined in SEC filings as “acquisition pending”.",
+          "count": 280,
+          "source": "filing"
+        },
+        {
+          "abbr": "OEM",
+          "name": "act price for rights of return and rebates to our original equipment manufacturer",
+          "definition": "Defined in SEC filings as “act price for rights of return and rebates to our original equipment manufacturer”.",
+          "count": 268,
+          "source": "filing"
+        },
+        {
+          "abbr": "USFS",
+          "name": "Decision Notice",
+          "definition": "Defined in SEC filings as “Decision Notice”.",
+          "count": 254,
+          "source": "filing"
+        },
+        {
+          "abbr": "WDEQ",
+          "name": "Land Quality Division, Air Quality Division, and Water Quality Division",
+          "definition": "Defined in SEC filings as “Land Quality Division, Air Quality Division, and Water Quality Division”.",
+          "count": 254,
+          "source": "filing"
+        },
+        {
+          "abbr": "GT",
+          "name": "al Resource estimate for the Project was based on 2-dimensional grade x thickness",
+          "definition": "Defined in SEC filings as “al Resource estimate for the Project was based on 2-dimensional grade x thickness”.",
+          "count": 240,
           "source": "filing"
         },
         {
@@ -1058,6 +1163,20 @@
           "source": "filing"
         },
         {
+          "abbr": "OEMs",
+          "name": "rs consist primarily of hyperscale data centers, original equipment manufacturers",
+          "definition": "Defined in SEC filings as “rs consist primarily of hyperscale data centers, original equipment manufacturers”.",
+          "count": 207,
+          "source": "filing"
+        },
+        {
+          "abbr": "RL",
+          "name": "Reality Labs",
+          "definition": "Defined in SEC filings as “Reality Labs”.",
+          "count": 204,
+          "source": "filing"
+        },
+        {
           "abbr": "CPUs",
           "name": "Logic chips are processors, such as central processing units",
           "definition": "Defined in SEC filings as “Logic chips are processors, such as central processing units”.",
@@ -1065,17 +1184,31 @@
           "source": "filing"
         },
         {
-          "abbr": "RL",
-          "name": "Reality Labs",
-          "definition": "Defined in SEC filings as “Reality Labs”.",
-          "count": 196,
+          "abbr": "NASDAQ",
+          "name": "F EQUITY SECURITIES Our common stock is listed on The NASDAQ Global Select Market",
+          "definition": "Defined in SEC filings as “F EQUITY SECURITIES Our common stock is listed on The NASDAQ Global Select Market”.",
+          "count": 194,
           "source": "filing"
         },
         {
-          "abbr": "OEMs",
-          "name": "rs consist primarily of hyperscale data centers, original equipment manufacturers",
-          "definition": "Defined in SEC filings as “rs consist primarily of hyperscale data centers, original equipment manufacturers”.",
-          "count": 187,
+          "abbr": "EPA",
+          "name": "report and in US Environmental Protection Agency",
+          "definition": "Defined in SEC filings as “report and in US Environmental Protection Agency”.",
+          "count": 180,
+          "source": "filing"
+        },
+        {
+          "abbr": "CAMT",
+          "name": "llowance against deferred tax assets related to corporate alternative minimum tax",
+          "definition": "Defined in SEC filings as “llowance against deferred tax assets related to corporate alternative minimum tax”.",
+          "count": 178,
+          "source": "filing"
+        },
+        {
+          "abbr": "ARO",
+          "name": "lidated financial statements, the Company recorded an asset retirement obligation",
+          "definition": "Defined in SEC filings as “lidated financial statements, the Company recorded an asset retirement obligation”.",
+          "count": 172,
           "source": "filing"
         },
         {
@@ -1086,10 +1219,10 @@
           "source": "filing"
         },
         {
-          "abbr": "CAMT",
-          "name": "llowance against deferred tax assets related to corporate alternative minimum tax",
-          "definition": "Defined in SEC filings as “llowance against deferred tax assets related to corporate alternative minimum tax”.",
-          "count": 154,
+          "abbr": "NEPA",
+          "name": "National Environmental Policy Act",
+          "definition": "Defined in SEC filings as “National Environmental Policy Act”.",
+          "count": 162,
           "source": "filing"
         },
         {
@@ -1100,10 +1233,17 @@
           "source": "filing"
         },
         {
-          "abbr": "NASDAQ",
-          "name": "F EQUITY SECURITIES Our common stock is listed on The NASDAQ Global Select Market",
-          "definition": "Defined in SEC filings as “F EQUITY SECURITIES Our common stock is listed on The NASDAQ Global Select Market”.",
-          "count": 142,
+          "abbr": "MIN5532",
+          "name": "expires in 2042 2010 Mining License",
+          "definition": "Defined in SEC filings as “expires in 2042 2010 Mining License”.",
+          "count": 139,
+          "source": "filing"
+        },
+        {
+          "abbr": "EC",
+          "name": "s standalone equivalent of Regulation",
+          "definition": "Defined in SEC filings as “s standalone equivalent of Regulation”.",
+          "count": 134,
           "source": "filing"
         },
         {
@@ -1111,6 +1251,13 @@
           "name": "integrated device manufacturers",
           "definition": "Defined in SEC filings as “integrated device manufacturers”.",
           "count": 134,
+          "source": "filing"
+        },
+        {
+          "abbr": "ITC",
+          "name": "g claims in US and international courts and the US International Trade Commission",
+          "definition": "Defined in SEC filings as “g claims in US and international courts and the US International Trade Commission”.",
+          "count": 132,
           "source": "filing"
         },
         {
@@ -1125,6 +1272,13 @@
           "name": "ited States following a challenge brought by the Irish Data Protection Commission",
           "definition": "Defined in SEC filings as “ited States following a challenge brought by the Irish Data Protection Commission”.",
           "count": 126,
+          "source": "filing"
+        },
+        {
+          "abbr": "EVs",
+          "name": "ars for specific destinations such as Berlin , and switching to electric vehicles",
+          "definition": "Defined in SEC filings as “ars for specific destinations such as Berlin , and switching to electric vehicles”.",
+          "count": 125,
           "source": "filing"
         },
         {
@@ -1149,9 +1303,44 @@
           "source": "filing"
         },
         {
+          "abbr": "Mt",
+          "name": "kt Net scope 3 CO 2 e emissions",
+          "definition": "Defined in SEC filings as “kt Net scope 3 CO 2 e emissions”.",
+          "count": 118,
+          "source": "filing"
+        },
+        {
+          "abbr": "EFN",
+          "name": "no relation to the Company",
+          "definition": "Defined in SEC filings as “no relation to the Company”.",
+          "count": 116,
+          "source": "filing"
+        },
+        {
+          "abbr": "MOU",
+          "name": "see above for further details",
+          "definition": "Defined in SEC filings as “see above for further details”.",
+          "count": 116,
+          "source": "filing"
+        },
+        {
+          "abbr": "ARC",
+          "name": "American Resources Corporation",
+          "definition": "Defined in SEC filings as “American Resources Corporation”.",
+          "count": 114,
+          "source": "filing"
+        },
+        {
           "abbr": "EMEA",
           "name": "Regions represent Europe, the Middle East, and Africa",
           "definition": "Defined in SEC filings as “Regions represent Europe, the Middle East, and Africa”.",
+          "count": 114,
+          "source": "filing"
+        },
+        {
+          "abbr": "ESA",
+          "name": "Endangered Species Act",
+          "definition": "Defined in SEC filings as “Endangered Species Act”.",
           "count": 114,
           "source": "filing"
         },
@@ -1170,6 +1359,13 @@
           "source": "filing"
         },
         {
+          "abbr": "CIM",
+          "name": "ch are consistent with the Canadian Institute of Mining, Metallurgy and Petroleum",
+          "definition": "Defined in SEC filings as “ch are consistent with the Canadian Institute of Mining, Metallurgy and Petroleum”.",
+          "count": 112,
+          "source": "filing"
+        },
+        {
           "abbr": "CCG",
           "name": "Client Computing Group",
           "definition": "Defined in SEC filings as “Client Computing Group”.",
@@ -1177,10 +1373,24 @@
           "source": "filing"
         },
         {
+          "abbr": "CTO",
+          "name": "Chief Technology Officer",
+          "definition": "Executive leading technology strategy and R&D direction.",
+          "count": 108,
+          "source": "curated"
+        },
+        {
           "abbr": "SoCs",
           "name": "portfolios provide differentiated solutions, including semi-custom System-on-Chip",
           "definition": "Defined in SEC filings as “portfolios provide differentiated solutions, including semi-custom System-on-Chip”.",
           "count": 108,
+          "source": "filing"
+        },
+        {
+          "abbr": "MTs",
+          "name": "NdPr Production Volume",
+          "definition": "Defined in SEC filings as “NdPr Production Volume”.",
+          "count": 107,
           "source": "filing"
         },
         {
@@ -1191,9 +1401,23 @@
           "source": "filing"
         },
         {
+          "abbr": "LCM",
+          "name": "also referred to as",
+          "definition": "Defined in SEC filings as “also referred to as”.",
+          "count": 104,
+          "source": "filing"
+        },
+        {
           "abbr": "SCIP",
           "name": "Substances of Concern in articles as such or in complex objects (Products",
           "definition": "Defined in SEC filings as “Substances of Concern in articles as such or in complex objects (Products”.",
+          "count": 104,
+          "source": "filing"
+        },
+        {
+          "abbr": "TRS",
+          "name": "See “ Item 2. Properties” of this Annual Report",
+          "definition": "Defined in SEC filings as “See “ Item 2. Properties” of this Annual Report”.",
           "count": 104,
           "source": "filing"
         },
@@ -1212,6 +1436,13 @@
           "source": "filing"
         },
         {
+          "abbr": "DOC",
+          "name": "Department of Commerce",
+          "definition": "Defined in SEC filings as “Department of Commerce”.",
+          "count": 98,
+          "source": "filing"
+        },
+        {
           "abbr": "CIP",
           "name": "Land and assets held within construction in progress",
           "definition": "Defined in SEC filings as “Land and assets held within construction in progress”.",
@@ -1223,6 +1454,13 @@
           "name": "gawatts of AMD GPUs, with the a product purchase agreement with OpenAI OpCo, LLC,",
           "definition": "Defined in SEC filings as “gawatts of AMD GPUs, with the a product purchase agreement with OpenAI OpCo, LLC,”.",
           "count": 94,
+          "source": "filing"
+        },
+        {
+          "abbr": "OK",
+          "name": "Block grades for total HM were estimated using both ordinary kriging",
+          "definition": "Defined in SEC filings as “Block grades for total HM were estimated using both ordinary kriging”.",
+          "count": 92,
           "source": "filing"
         },
         {
@@ -1261,17 +1499,10 @@
           "source": "filing"
         },
         {
-          "abbr": "ITC",
-          "name": "g claims in US and international courts and the US International Trade Commission",
-          "definition": "Defined in SEC filings as “g claims in US and international courts and the US International Trade Commission”.",
+          "abbr": "SHEETS",
+          "name": "Expressed in thousands of U.S. dollars and share amounts in thousands",
+          "definition": "Defined in SEC filings as “Expressed in thousands of U.S. dollars and share amounts in thousands”.",
           "count": 84,
-          "source": "filing"
-        },
-        {
-          "abbr": "DOC",
-          "name": "Department of Commerce",
-          "definition": "Defined in SEC filings as “Department of Commerce”.",
-          "count": 82,
           "source": "filing"
         },
         {
@@ -1289,16 +1520,16 @@
           "source": "filing"
         },
         {
-          "abbr": "CTO",
-          "name": "Chief Technology Officer",
-          "definition": "Executive leading technology strategy and R&D direction.",
-          "count": 78,
-          "source": "curated"
-        },
-        {
           "abbr": "DSA",
           "name": "th certain requirements under Articles 28, 34, and 35 of the Digital Services Act",
           "definition": "Defined in SEC filings as “th certain requirements under Articles 28, 34, and 35 of the Digital Services Act”.",
+          "count": 76,
+          "source": "filing"
+        },
+        {
+          "abbr": "IEA",
+          "name": "C scenario For this scenario we use the International Energy Agency",
+          "definition": "Defined in SEC filings as “C scenario For this scenario we use the International Energy Agency”.",
           "count": 76,
           "source": "filing"
         },
@@ -1331,13 +1562,6 @@
           "source": "filing"
         },
         {
-          "abbr": "IEA",
-          "name": "C scenario For this scenario we use the International Energy Agency",
-          "definition": "Defined in SEC filings as “C scenario For this scenario we use the International Energy Agency”.",
-          "count": 72,
-          "source": "filing"
-        },
-        {
           "abbr": "NPR",
           "name": "Non-product- related",
           "definition": "Defined in SEC filings as “Non-product- related”.",
@@ -1345,9 +1569,37 @@
           "source": "filing"
         },
         {
+          "abbr": "RHR",
+          "name": "Roca Honda Resources",
+          "definition": "Defined in SEC filings as “Roca Honda Resources”.",
+          "count": 70,
+          "source": "filing"
+        },
+        {
+          "abbr": "WNB",
+          "name": "West North Butte",
+          "definition": "Defined in SEC filings as “West North Butte”.",
+          "count": 70,
+          "source": "filing"
+        },
+        {
           "abbr": "FDII",
           "name": "Foreign-Derived Intangible Income",
           "definition": "Defined in SEC filings as “Foreign-Derived Intangible Income”.",
+          "count": 68,
+          "source": "filing"
+        },
+        {
+          "abbr": "FIFO",
+          "name": "r net realizable value, with approximate cost determined on a first-in, first-out",
+          "definition": "Defined in SEC filings as “r net realizable value, with approximate cost determined on a first-in, first-out”.",
+          "count": 68,
+          "source": "filing"
+        },
+        {
+          "abbr": "IAS",
+          "name": "INTERNATIONAL ACCOUNTING STANDARDS",
+          "definition": "Defined in SEC filings as “INTERNATIONAL ACCOUNTING STANDARDS”.",
           "count": 68,
           "source": "filing"
         },
@@ -1362,6 +1614,13 @@
           "abbr": "META",
           "name": "ommon stock is trading on the Nasdaq Global Select Market under the ticker symbol",
           "definition": "Defined in SEC filings as “ommon stock is trading on the Nasdaq Global Select Market under the ticker symbol”.",
+          "count": 64,
+          "source": "filing"
+        },
+        {
+          "abbr": "NIST",
+          "name": "ssments based on the National Institute of Standards and Technology Cybersecurity",
+          "definition": "Defined in SEC filings as “ssments based on the National Institute of Standards and Technology Cybersecurity”.",
           "count": 64,
           "source": "filing"
         },
@@ -1387,9 +1646,30 @@
           "source": "filing"
         },
         {
+          "abbr": "COO",
+          "name": "Chief Operating Officer",
+          "definition": "Executive overseeing day-to-day operations.",
+          "count": 60,
+          "source": "curated"
+        },
+        {
+          "abbr": "EMC",
+          "name": "operations are focused on the d Materials Corporation",
+          "definition": "Defined in SEC filings as “operations are focused on the d Materials Corporation”.",
+          "count": 60,
+          "source": "filing"
+        },
+        {
           "abbr": "TSL",
           "name": "nd Ansys semiconductor products primarily through Technology Subscription License",
           "definition": "Defined in SEC filings as “nd Ansys semiconductor products primarily through Technology Subscription License”.",
+          "count": 60,
+          "source": "filing"
+        },
+        {
+          "abbr": "WTR",
+          "name": "Sustainable use and protection of water and marine resources",
+          "definition": "Defined in SEC filings as “Sustainable use and protection of water and marine resources”.",
           "count": 60,
           "source": "filing"
         },
@@ -1408,11 +1688,11 @@
           "source": "filing"
         },
         {
-          "abbr": "COO",
-          "name": "Chief Operating Officer",
-          "definition": "Executive overseeing day-to-day operations.",
+          "abbr": "CRA",
+          "name": "confronted w it h EU laws such as the NIS2 Directive and the Cyber Resilience Act",
+          "definition": "Defined in SEC filings as “confronted w it h EU laws such as the NIS2 Directive and the Cyber Resilience Act”.",
           "count": 56,
-          "source": "curated"
+          "source": "filing"
         },
         {
           "abbr": "DOCUMENT",
@@ -1422,16 +1702,16 @@
           "source": "filing"
         },
         {
-          "abbr": "FIFO",
-          "name": "r net realizable value, with approximate cost determined on a first-in, first-out",
-          "definition": "Defined in SEC filings as “r net realizable value, with approximate cost determined on a first-in, first-out”.",
+          "abbr": "LPA",
+          "name": "services free-of-charge, supported by ads, an option to see less personalized ads",
+          "definition": "Defined in SEC filings as “services free-of-charge, supported by ads, an option to see less personalized ads”.",
           "count": 56,
           "source": "filing"
         },
         {
-          "abbr": "LPA",
-          "name": "services free-of-charge, supported by ads, an option to see less personalized ads",
-          "definition": "Defined in SEC filings as “services free-of-charge, supported by ads, an option to see less personalized ads”.",
+          "abbr": "MS",
+          "name": "Minimum safeguards Article 18 of EU Taxonomy o utlines the minimum safeguards",
+          "definition": "Defined in SEC filings as “Minimum safeguards Article 18 of EU Taxonomy o utlines the minimum safeguards”.",
           "count": 56,
           "source": "filing"
         },
@@ -1457,17 +1737,31 @@
           "source": "filing"
         },
         {
-          "abbr": "NIST",
-          "name": "ssments based on the National Institute of Standards and Technology Cybersecurity",
-          "definition": "Defined in SEC filings as “ssments based on the National Institute of Standards and Technology Cybersecurity”.",
+          "abbr": "NL",
+          "name": "One such activity is ASML School Football Tournament",
+          "definition": "Defined in SEC filings as “One such activity is ASML School Football Tournament”.",
           "count": 52,
           "source": "filing"
         },
         {
-          "abbr": "PPA",
-          "name": "lectricity for the first time in South Kor our long-term power purchase agreement",
-          "definition": "Defined in SEC filings as “lectricity for the first time in South Kor our long-term power purchase agreement”.",
+          "abbr": "URI",
+          "name": "interest in the mineral properties controlled by Uranium Resource Incorporated",
+          "definition": "Defined in SEC filings as “interest in the mineral properties controlled by Uranium Resource Incorporated”.",
           "count": 52,
+          "source": "filing"
+        },
+        {
+          "abbr": "CAGR",
+          "name": "s historical market compound annual growth rate",
+          "definition": "Defined in SEC filings as “s historical market compound annual growth rate”.",
+          "count": 50,
+          "source": "filing"
+        },
+        {
+          "abbr": "CP",
+          "name": "Peter Allen, MAusIMM",
+          "definition": "Defined in SEC filings as “Peter Allen, MAusIMM”.",
+          "count": 50,
           "source": "filing"
         },
         {
@@ -1485,17 +1779,31 @@
           "source": "filing"
         },
         {
-          "abbr": "IAS",
-          "name": "INTERNATIONAL ACCOUNTING STANDARDS",
-          "definition": "Defined in SEC filings as “INTERNATIONAL ACCOUNTING STANDARDS”.",
+          "abbr": "REEC",
+          "name": "comprised primarily of monazite and also containing other REE-bearing minerals",
+          "definition": "Defined in SEC filings as “comprised primarily of monazite and also containing other REE-bearing minerals”.",
           "count": 48,
           "source": "filing"
         },
         {
-          "abbr": "SHEETS",
-          "name": "Amounts in millions of Renminbi (“RMB”",
-          "definition": "Defined in SEC filings as “Amounts in millions of Renminbi (“RMB””.",
+          "abbr": "USAR",
+          "name": "per share began trading on Nasdaq under the symbols,",
+          "definition": "Defined in SEC filings as “per share began trading on Nasdaq under the symbols,”.",
           "count": 48,
+          "source": "filing"
+        },
+        {
+          "abbr": "CHMP",
+          "name": "rt demonstrating no statutory requirement for a Cultural Heritage Management Plan",
+          "definition": "Defined in SEC filings as “rt demonstrating no statutory requirement for a Cultural Heritage Management Plan”.",
+          "count": 46,
+          "source": "filing"
+        },
+        {
+          "abbr": "ERC",
+          "name": "nia within the Central Appalachian coal basin, and ERC Mining Indiana Corporation",
+          "definition": "Defined in SEC filings as “nia within the Central Appalachian coal basin, and ERC Mining Indiana Corporation”.",
+          "count": 46,
           "source": "filing"
         },
         {
@@ -1524,6 +1832,13 @@
           "name": "arate report aligned with the Task Force on Climate-related Financial Disclosures",
           "definition": "Defined in SEC filings as “arate report aligned with the Task Force on Climate-related Financial Disclosures”.",
           "count": 46,
+          "source": "filing"
+        },
+        {
+          "abbr": "ENB",
+          "name": "East North Butte",
+          "definition": "Defined in SEC filings as “East North Butte”.",
+          "count": 44,
           "source": "filing"
         },
         {
@@ -1583,16 +1898,16 @@
           "source": "filing"
         },
         {
-          "abbr": "MS",
-          "name": "Minimum safeguards Article 18 of EU Taxonomy o utlines the minimum safeguards",
-          "definition": "Defined in SEC filings as “Minimum safeguards Article 18 of EU Taxonomy o utlines the minimum safeguards”.",
-          "count": 38,
+          "abbr": "NRP",
+          "name": "North Rolling Pin",
+          "definition": "Defined in SEC filings as “North Rolling Pin”.",
+          "count": 40,
           "source": "filing"
         },
         {
-          "abbr": "NL",
-          "name": "One such activity is ASML School Football Tournament",
-          "definition": "Defined in SEC filings as “One such activity is ASML School Football Tournament”.",
+          "abbr": "MWM",
+          "name": "now Excalibur Industries",
+          "definition": "Defined in SEC filings as “now Excalibur Industries”.",
           "count": 38,
           "source": "filing"
         },
@@ -1611,10 +1926,10 @@
           "source": "filing"
         },
         {
-          "abbr": "EVs",
-          "name": "ars for specific destinations such as Berlin , and switching to electric vehicles",
-          "definition": "Defined in SEC filings as “ars for specific destinations such as Berlin , and switching to electric vehicles”.",
-          "count": 37,
+          "abbr": "Years",
+          "name": "hted-Average Exercise Price per Share Weighted-Average Remaining Contractual Term",
+          "definition": "Defined in SEC filings as “hted-Average Exercise Price per Share Weighted-Average Remaining Contractual Term”.",
+          "count": 38,
           "source": "filing"
         },
         {
@@ -1628,6 +1943,20 @@
           "abbr": "NPU",
           "name": "AMD was the first company to integrate a dedicated neural processing unit",
           "definition": "Defined in SEC filings as “AMD was the first company to integrate a dedicated neural processing unit”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
+          "abbr": "PGE",
+          "name": "PGE Adjustment 1",
+          "definition": "Defined in SEC filings as “PGE Adjustment 1”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
+          "abbr": "REACH",
+          "name": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+          "definition": "Defined in SEC filings as “Registration, Evaluation, Authorisation and Restriction of Chemicals”.",
           "count": 36,
           "source": "filing"
         },
@@ -1646,6 +1975,13 @@
           "source": "filing"
         },
         {
+          "abbr": "WC",
+          "name": "Willow Creek",
+          "definition": "Defined in SEC filings as “Willow Creek”.",
+          "count": 36,
+          "source": "filing"
+        },
+        {
           "abbr": "AYMA",
           "name": "ASML Young Makers Award The ASML Young Makers Award",
           "definition": "Defined in SEC filings as “ASML Young Makers Award The ASML Young Makers Award”.",
@@ -1656,6 +1992,20 @@
           "abbr": "LEED",
           "name": "Leadership in Energy and Environmental Design",
           "definition": "Defined in SEC filings as “Leadership in Energy and Environmental Design”.",
+          "count": 34,
+          "source": "filing"
+        },
+        {
+          "abbr": "RC",
+          "name": "reverse circulation",
+          "definition": "Defined in SEC filings as “reverse circulation”.",
+          "count": 34,
+          "source": "filing"
+        },
+        {
+          "abbr": "TR",
+          "name": "ctor Total Return Index, the Nasdaq Composite Total Return Index, and the S&P 500",
+          "definition": "Defined in SEC filings as “ctor Total Return Index, the Nasdaq Composite Total Return Index, and the S&P 500”.",
           "count": 34,
           "source": "filing"
         },
@@ -1716,9 +2066,23 @@
           "source": "filing"
         },
         {
+          "abbr": "NCI",
+          "name": "Total noncontrolling interests",
+          "definition": "Defined in SEC filings as “Total noncontrolling interests”.",
+          "count": 30,
+          "source": "filing"
+        },
+        {
           "abbr": "Shanghai",
           "name": "Limited China X X X GLOBALFOUNDRIES China",
           "definition": "Defined in SEC filings as “Limited China X X X GLOBALFOUNDRIES China”.",
+          "count": 30,
+          "source": "filing"
+        },
+        {
+          "abbr": "WCC",
+          "name": "Wyoming County Coal",
+          "definition": "Defined in SEC filings as “Wyoming County Coal”.",
           "count": 30,
           "source": "filing"
         },
@@ -1727,6 +2091,13 @@
           "name": "PC OEMs and independent distributors as well as add-in-board manufacturers",
           "definition": "Defined in SEC filings as “PC OEMs and independent distributors as well as add-in-board manufacturers”.",
           "count": 29,
+          "source": "filing"
+        },
+        {
+          "abbr": "BOARD",
+          "name": "IASB",
+          "definition": "Defined in SEC filings as “IASB”.",
+          "count": 28,
           "source": "filing"
         },
         {
@@ -1772,9 +2143,9 @@
           "source": "filing"
         },
         {
-          "abbr": "TR",
-          "name": "ctor Total Return Index, the Nasdaq Composite Total Return Index, and the S&P 500",
-          "definition": "Defined in SEC filings as “ctor Total Return Index, the Nasdaq Composite Total Return Index, and the S&P 500”.",
+          "abbr": "RM",
+          "name": "Datamine",
+          "definition": "Defined in SEC filings as “Datamine”.",
           "count": 28,
           "source": "filing"
         },
@@ -1807,16 +2178,37 @@
           "source": "filing"
         },
         {
-          "abbr": "AMI",
-          "name": "Asociacion de Medios de Informacion",
-          "definition": "Defined in SEC filings as “Asociacion de Medios de Informacion”.",
-          "count": 24,
+          "abbr": "NG",
+          "name": "t and/or purchase and manage a chain of combined gasoline, diesel and natural gas",
+          "definition": "Defined in SEC filings as “t and/or purchase and manage a chain of combined gasoline, diesel and natural gas”.",
+          "count": 26,
           "source": "filing"
         },
         {
-          "abbr": "CAGR",
-          "name": "s historical market compound annual growth rate",
-          "definition": "Defined in SEC filings as “s historical market compound annual growth rate”.",
+          "abbr": "Singapore",
+          "name": "between MP Mine Operations LLC, MP International Sales LLC and Shenghe Resources",
+          "definition": "Defined in SEC filings as “between MP Mine Operations LLC, MP International Sales LLC and Shenghe Resources”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "Tons",
+          "name": "Tonnage",
+          "definition": "Defined in SEC filings as “Tonnage”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "WCP",
+          "name": "Wet concentrator plant",
+          "definition": "Defined in SEC filings as “Wet concentrator plant”.",
+          "count": 26,
+          "source": "filing"
+        },
+        {
+          "abbr": "AMI",
+          "name": "Asociacion de Medios de Informacion",
+          "definition": "Defined in SEC filings as “Asociacion de Medios de Informacion”.",
           "count": 24,
           "source": "filing"
         },
@@ -1831,6 +2223,13 @@
           "abbr": "CDM",
           "name": "oot causes of design issues that can cause chip failure from charged-device model",
           "definition": "Defined in SEC filings as “oot causes of design issues that can cause chip failure from charged-device model”.",
+          "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "Decrease",
+          "name": "Change for Sensitivity Analysis Increase",
+          "definition": "Defined in SEC filings as “Change for Sensitivity Analysis Increase”.",
           "count": 24,
           "source": "filing"
         },
@@ -1860,6 +2259,20 @@
           "name": "ing Our manufacturing solutions include Synopsys technology computer-aided design",
           "definition": "Defined in SEC filings as “ing Our manufacturing solutions include Synopsys technology computer-aided design”.",
           "count": 24,
+          "source": "filing"
+        },
+        {
+          "abbr": "AREC",
+          "name": "tor Josh Hawes is an Independent Board Director at American Resources Corporation",
+          "definition": "Defined in SEC filings as “tor Josh Hawes is an Independent Board Director at American Resources Corporation”.",
+          "count": 22,
+          "source": "filing"
+        },
+        {
+          "abbr": "FONSI",
+          "name": "also known as a",
+          "definition": "Defined in SEC filings as “also known as a”.",
+          "count": 22,
           "source": "filing"
         },
         {
@@ -1912,6 +2325,20 @@
           "source": "filing"
         },
         {
+          "abbr": "OSHA",
+          "name": "U.S. Occupational Safety and Health Administration",
+          "definition": "Defined in SEC filings as “U.S. Occupational Safety and Health Administration”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "PrNd",
+          "name": "also referred to as",
+          "definition": "Defined in SEC filings as “also referred to as”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
           "abbr": "Registrant",
           "name": "LAM RESEARCH CORPORATION",
           "definition": "Defined in SEC filings as “LAM RESEARCH CORPORATION”.",
@@ -1936,6 +2363,13 @@
           "abbr": "TWD",
           "name": "Taiwanese dollar",
           "definition": "Defined in SEC filings as “Taiwanese dollar”.",
+          "count": 20,
+          "source": "filing"
+        },
+        {
+          "abbr": "USGS",
+          "name": "Geological Survey",
+          "definition": "Defined in SEC filings as “Geological Survey”.",
           "count": 20,
           "source": "filing"
         },
@@ -1996,13 +2430,6 @@
           "source": "filing"
         },
         {
-          "abbr": "Years",
-          "name": "hted-Average Exercise Price per Share Weighted-Average Remaining Contractual Term",
-          "definition": "Defined in SEC filings as “hted-Average Exercise Price per Share Weighted-Average Remaining Contractual Term”.",
-          "count": 18,
-          "source": "filing"
-        },
-        {
           "abbr": "BJH",
           "name": "third-party content and services by leveraging our network partners of Baijiahao",
           "definition": "Defined in SEC filings as “third-party content and services by leveraging our network partners of Baijiahao”.",
@@ -2020,6 +2447,13 @@
           "abbr": "EMIB",
           "name": "rporate a multi-die design connected using Embedded Multi-die Interconnect Bridge",
           "definition": "Defined in SEC filings as “rporate a multi-die design connected using Embedded Multi-die Interconnect Bridge”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "ETS",
+          "name": "dered reference points such as carbon credits based on EU European Trading System",
+          "definition": "Defined in SEC filings as “dered reference points such as carbon credits based on EU European Trading System”.",
           "count": 16,
           "source": "filing"
         },
@@ -2045,9 +2479,9 @@
           "source": "filing"
         },
         {
-          "abbr": "OSHA",
-          "name": "U.S. Occupational Safety and Health Administration",
-          "definition": "Defined in SEC filings as “U.S. Occupational Safety and Health Administration”.",
+          "abbr": "McCoy",
+          "name": "McCoy Elkhorn Coal LLC",
+          "definition": "Defined in SEC filings as “McCoy Elkhorn Coal LLC”.",
           "count": 16,
           "source": "filing"
         },
@@ -2055,6 +2489,13 @@
           "abbr": "PII",
           "name": "l property, sensitive business information or personally identifiable information",
           "definition": "Defined in SEC filings as “l property, sensitive business information or personally identifiable information”.",
+          "count": 16,
+          "source": "filing"
+        },
+        {
+          "abbr": "RA",
+          "name": "ReElement Africa",
+          "definition": "Defined in SEC filings as “ReElement Africa”.",
           "count": 16,
           "source": "filing"
         },
@@ -2080,9 +2521,30 @@
           "source": "filing"
         },
         {
+          "abbr": "LOM",
+          "name": "improve cash flow and reduce payback, before reverting to the base life-of-mine",
+          "definition": "Defined in SEC filings as “improve cash flow and reduce payback, before reverting to the base life-of-mine”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "Lu",
+          "name": "Lutetium",
+          "definition": "Defined in SEC filings as “Lutetium”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
           "abbr": "NIIT",
           "name": "d US residents, estates and trusts will be subject to a Net Investment Income Tax",
           "definition": "Defined in SEC filings as “d US residents, estates and trusts will be subject to a Net Investment Income Tax”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "Pat",
+          "name": "Woods, MMSA QP, a Qualified Person employed by Woods Process Services, and Lee",
+          "definition": "Defined in SEC filings as “Woods, MMSA QP, a Qualified Person employed by Woods Process Services, and Lee”.",
           "count": 14,
           "source": "filing"
         },
@@ -2097,6 +2559,20 @@
           "abbr": "Revised",
           "name": "riteria based on the combined guidance from various external sources, such as the",
           "definition": "Defined in SEC filings as “riteria based on the combined guidance from various external sources, such as the”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "TSF",
+          "name": "ral and environmentally significant areas, the external tailings storage facility",
+          "definition": "Defined in SEC filings as “ral and environmentally significant areas, the external tailings storage facility”.",
+          "count": 14,
+          "source": "filing"
+        },
+        {
+          "abbr": "USMCA",
+          "name": "formerly NAFTA",
+          "definition": "Defined in SEC filings as “formerly NAFTA”.",
           "count": 14,
           "source": "filing"
         },
@@ -2122,16 +2598,16 @@
           "source": "filing"
         },
         {
-          "abbr": "BIO",
-          "name": "Protection and restoration of biodiversity and ecosystems",
-          "definition": "Defined in SEC filings as “Protection and restoration of biodiversity and ecosystems”.",
+          "abbr": "ACM",
+          "name": "Advanced Carbon Materials LLC",
+          "definition": "Defined in SEC filings as “Advanced Carbon Materials LLC”.",
           "count": 12,
           "source": "filing"
         },
         {
-          "abbr": "BOARD",
-          "name": "IASB",
-          "definition": "Defined in SEC filings as “IASB”.",
+          "abbr": "BIO",
+          "name": "Protection and restoration of biodiversity and ecosystems",
+          "definition": "Defined in SEC filings as “Protection and restoration of biodiversity and ecosystems”.",
           "count": 12,
           "source": "filing"
         },
@@ -2157,9 +2633,9 @@
           "source": "filing"
         },
         {
-          "abbr": "Decrease",
-          "name": "Transaction Date Increase",
-          "definition": "Defined in SEC filings as “Transaction Date Increase”.",
+          "abbr": "CSAMT",
+          "name": "Ground control source audio magneto tellurium",
+          "definition": "Defined in SEC filings as “Ground control source audio magneto tellurium”.",
           "count": 12,
           "source": "filing"
         },
@@ -2171,9 +2647,23 @@
           "source": "filing"
         },
         {
-          "abbr": "EPA",
-          "name": "report and in US Environmental Protection Agency",
-          "definition": "Defined in SEC filings as “report and in US Environmental Protection Agency”.",
+          "abbr": "FERC",
+          "name": "represented the State of Wyoming before the Federal Energy Regulatory Commission",
+          "definition": "Defined in SEC filings as “represented the State of Wyoming before the Federal Energy Regulatory Commission”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "FORGE",
+          "name": "rals Ministerial, which established the Forum on Resource Geostrategic Engagement",
+          "definition": "Defined in SEC filings as “rals Ministerial, which established the Forum on Resource Geostrategic Engagement”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
+          "abbr": "GSRM",
+          "name": "ections 19 and 20, Township 29 North, Range 03 East, Gila and Salt River Meridian",
+          "definition": "Defined in SEC filings as “ections 19 and 20, Township 29 North, Range 03 East, Gila and Salt River Meridian”.",
           "count": 12,
           "source": "filing"
         },
@@ -2199,6 +2689,13 @@
           "source": "filing"
         },
         {
+          "abbr": "KCC",
+          "name": "Knott County Coal LLC",
+          "definition": "Defined in SEC filings as “Knott County Coal LLC”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
           "abbr": "KRW",
           "name": "South Korean won",
           "definition": "Defined in SEC filings as “South Korean won”.",
@@ -2220,9 +2717,9 @@
           "source": "filing"
         },
         {
-          "abbr": "NCI",
-          "name": "Total noncontrolling interests",
-          "definition": "Defined in SEC filings as “Total noncontrolling interests”.",
+          "abbr": "PCR",
+          "name": "Perry County Resources LLC",
+          "definition": "Defined in SEC filings as “Perry County Resources LLC”.",
           "count": 12,
           "source": "filing"
         },
@@ -2248,6 +2745,13 @@
           "source": "filing"
         },
         {
+          "abbr": "Strathmore",
+          "name": "d a limited liability company with Sumitomo Corp Conoco, and Strathmore Resources",
+          "definition": "Defined in SEC filings as “d a limited liability company with Sumitomo Corp Conoco, and Strathmore Resources”.",
+          "count": 12,
+          "source": "filing"
+        },
+        {
           "abbr": "TPA",
           "name": "es governing our third-party security risks, including our third-party assessment",
           "definition": "Defined in SEC filings as “es governing our third-party security risks, including our third-party assessment”.",
@@ -2262,9 +2766,9 @@
           "source": "filing"
         },
         {
-          "abbr": "WTR",
-          "name": "Sustainable use and protection of water and marine resources",
-          "definition": "Defined in SEC filings as “Sustainable use and protection of water and marine resources”.",
+          "abbr": "Warrants",
+          "name": "per share",
+          "definition": "Defined in SEC filings as “per share”.",
           "count": 12,
           "source": "filing"
         },
@@ -2276,9 +2780,23 @@
           "source": "filing"
         },
         {
+          "abbr": "Banks",
+          "name": "along with their affiliates, the",
+          "definition": "Defined in SEC filings as “along with their affiliates, the”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
           "abbr": "BAR",
           "name": "Baselining, Ambition-Setting and Roadmapping",
           "definition": "Defined in SEC filings as “Baselining, Ambition-Setting and Roadmapping”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "BE",
+          "name": "und in software development and technologies, and holds a Bachelor of Engineering",
+          "definition": "Defined in SEC filings as “und in software development and technologies, and holds a Bachelor of Engineering”.",
           "count": 10,
           "source": "filing"
         },
@@ -2290,9 +2808,23 @@
           "source": "filing"
         },
         {
-          "abbr": "CRA",
-          "name": "confronted w it h EU laws such as the NIS2 Directive and the Cyber Resilience Act",
-          "definition": "Defined in SEC filings as “confronted w it h EU laws such as the NIS2 Directive and the Cyber Resilience Act”.",
+          "abbr": "C-1",
+          "name": "Common Stock Purchase Warrant",
+          "definition": "Defined in SEC filings as “Common Stock Purchase Warrant”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Consumers",
+          "name": "it was explored and developed by Plateau, a subsidiary of Consumers Power Company",
+          "definition": "Defined in SEC filings as “it was explored and developed by Plateau, a subsidiary of Consumers Power Company”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "CPA",
+          "name": "age 46",
+          "definition": "Defined in SEC filings as “age 46”.",
           "count": 10,
           "source": "filing"
         },
@@ -2304,9 +2836,23 @@
           "source": "filing"
         },
         {
+          "abbr": "FY2024",
+          "name": "Year 2 operating costs",
+          "definition": "Defined in SEC filings as “Year 2 operating costs”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
           "abbr": "Gains",
           "name": "related intangibles 2,254 2,393 2,811 Stock-based compensation 1,638 1,407 1,384",
           "definition": "Defined in SEC filings as “related intangibles 2,254 2,393 2,811 Stock-based compensation 1,638 1,407 1,384”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
+          "abbr": "Gulf",
+          "name": "Project is located on mining claims that EFN acquired from Gulf Mineral Resources",
+          "definition": "Defined in SEC filings as “Project is located on mining claims that EFN acquired from Gulf Mineral Resources”.",
           "count": 10,
           "source": "filing"
         },
@@ -2325,6 +2871,13 @@
           "source": "filing"
         },
         {
+          "abbr": "Ownership",
+          "name": "Also refer to the",
+          "definition": "Defined in SEC filings as “Also refer to the”.",
+          "count": 10,
+          "source": "filing"
+        },
+        {
           "abbr": "Pollara",
           "name": "r AMD Pensando",
           "definition": "Defined in SEC filings as “r AMD Pensando”.",
@@ -2339,9 +2892,9 @@
           "source": "filing"
         },
         {
-          "abbr": "REACH",
-          "name": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
-          "definition": "Defined in SEC filings as “Registration, Evaluation, Authorisation and Restriction of Chemicals”.",
+          "abbr": "Safety",
+          "name": "s employees, suppliers and communities are a priority, with",
+          "definition": "Defined in SEC filings as “s employees, suppliers and communities are a priority, with”.",
           "count": 10,
           "source": "filing"
         },
@@ -2363,6 +2916,20 @@
           "abbr": "GOs",
           "name": "Guarantees of Origin",
           "definition": "Defined in SEC filings as “Guarantees of Origin”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "ID2",
+          "name": "tistical comparisons with composite samples and parallel inverse distance squared",
+          "definition": "Defined in SEC filings as “tistical comparisons with composite samples and parallel inverse distance squared”.",
+          "count": 9,
+          "source": "filing"
+        },
+        {
+          "abbr": "ID3",
+          "name": "timate used a regularized, unrotated whole block approach, inverse distance cubed",
+          "definition": "Defined in SEC filings as “timate used a regularized, unrotated whole block approach, inverse distance cubed”.",
           "count": 9,
           "source": "filing"
         },
@@ -2416,6 +2983,13 @@
           "source": "filing"
         },
         {
+          "abbr": "Australia",
+          "name": "joint venture interest with Astron Corporation in the Donald Project",
+          "definition": "Defined in SEC filings as “joint venture interest with Astron Corporation in the Donald Project”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "BCIA",
           "name": "own operations, we use the outcomes of our B usiness Continuity Impact Assessment",
           "definition": "Defined in SEC filings as “own operations, we use the outcomes of our B usiness Continuity Impact Assessment”.",
@@ -2423,16 +2997,16 @@
           "source": "filing"
         },
         {
-          "abbr": "BE",
-          "name": "und in software development and technologies, and holds a Bachelor of Engineering",
-          "definition": "Defined in SEC filings as “und in software development and technologies, and holds a Bachelor of Engineering”.",
+          "abbr": "CAD",
+          "name": "se cases such as 3D rendering, design and manufacturing for Computer-Aided Design",
+          "definition": "Defined in SEC filings as “se cases such as 3D rendering, design and manufacturing for Computer-Aided Design”.",
           "count": 8,
           "source": "filing"
         },
         {
-          "abbr": "CAD",
-          "name": "se cases such as 3D rendering, design and manufacturing for Computer-Aided Design",
-          "definition": "Defined in SEC filings as “se cases such as 3D rendering, design and manufacturing for Computer-Aided Design”.",
+          "abbr": "Canada",
+          "name": "n federal income tax considerations generally applicable under the Income Tax Act",
+          "definition": "Defined in SEC filings as “n federal income tax considerations generally applicable under the Income Tax Act”.",
           "count": 8,
           "source": "filing"
         },
@@ -2451,9 +3025,30 @@
           "source": "filing"
         },
         {
+          "abbr": "Cloud",
+          "name": "gement database was built on an MS SQL SERVER platform and was hosted on a secure",
+          "definition": "Defined in SEC filings as “gement database was built on an MS SQL SERVER platform and was hosted on a secure”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "Credited",
           "name": "VALUATION AND QUALIFYING ACCOUNTS Balance at Beginning of Period Additions",
           "definition": "Defined in SEC filings as “VALUATION AND QUALIFYING ACCOUNTS Balance at Beginning of Period Additions”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "CUP",
+          "name": "Concentrate Upgrade Plant",
+          "definition": "Defined in SEC filings as “Concentrate Upgrade Plant”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Denison",
+          "name": "s US assets",
+          "definition": "Defined in SEC filings as “s US assets”.",
           "count": 8,
           "source": "filing"
         },
@@ -2493,16 +3088,16 @@
           "source": "filing"
         },
         {
-          "abbr": "ETS",
-          "name": "dered reference points such as carbon credits based on EU European Trading System",
-          "definition": "Defined in SEC filings as “dered reference points such as carbon credits based on EU European Trading System”.",
+          "abbr": "EU-IFRS",
+          "name": "ed in accordance with IFRS Accounting Standards as endorsed by the European Union",
+          "definition": "Defined in SEC filings as “ed in accordance with IFRS Accounting Standards as endorsed by the European Union”.",
           "count": 8,
           "source": "filing"
         },
         {
-          "abbr": "EU-IFRS",
-          "name": "ed in accordance with IFRS Accounting Standards as endorsed by the European Union",
-          "definition": "Defined in SEC filings as “ed in accordance with IFRS Accounting Standards as endorsed by the European Union”.",
+          "abbr": "GBD",
+          "name": "also known as",
+          "definition": "Defined in SEC filings as “also known as”.",
           "count": 8,
           "source": "filing"
         },
@@ -2514,9 +3109,23 @@
           "source": "filing"
         },
         {
+          "abbr": "Ho",
+          "name": "Holmium",
+          "definition": "Defined in SEC filings as “Holmium”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "ICANN",
           "name": "Internet Corporation for Assigned Names and Numbers",
           "definition": "Defined in SEC filings as “Internet Corporation for Assigned Names and Numbers”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Inventories",
+          "name": "s primarily to NdPr Product contained in stockpiled concentrate, which remains in",
+          "definition": "Defined in SEC filings as “s primarily to NdPr Product contained in stockpiled concentrate, which remains in”.",
           "count": 8,
           "source": "filing"
         },
@@ -2542,6 +3151,34 @@
           "source": "filing"
         },
         {
+          "abbr": "January",
+          "name": "inches",
+          "definition": "Defined in SEC filings as “inches”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Jms",
+          "name": "estimation completed using Se mber",
+          "definition": "Defined in SEC filings as “estimation completed using Se mber”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Juniper",
+          "name": "Juniper I",
+          "definition": "Defined in SEC filings as “Juniper I”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "Kerr-McGee",
+          "name": "Kerr-McGee Oil Industries",
+          "definition": "Defined in SEC filings as “Kerr-McGee Oil Industries”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "KLA-Tencor",
           "name": "Dickerson served 18 years with KLA-Tencor Corporation",
           "definition": "Defined in SEC filings as “Dickerson served 18 years with KLA-Tencor Corporation”.",
@@ -2549,9 +3186,23 @@
           "source": "filing"
         },
         {
-          "abbr": "Mt",
-          "name": "kt Net scope 3 CO 2 e emissions",
-          "definition": "Defined in SEC filings as “kt Net scope 3 CO 2 e emissions”.",
+          "abbr": "LNG",
+          "name": "construct conversion factories to convert NG to liquefied natural gas",
+          "definition": "Defined in SEC filings as “construct conversion factories to convert NG to liquefied natural gas”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "MLRS",
+          "name": "BLM Mining Claim Geographic Index Report Mineral and Land Record System",
+          "definition": "Defined in SEC filings as “BLM Mining Claim Geographic Index Report Mineral and Land Record System”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "MUP",
+          "name": "Mining Unit Plant",
+          "definition": "Defined in SEC filings as “Mining Unit Plant”.",
           "count": 8,
           "source": "filing"
         },
@@ -2570,6 +3221,13 @@
           "source": "filing"
         },
         {
+          "abbr": "Planned",
+          "name": "Heavies",
+          "definition": "Defined in SEC filings as “Heavies”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "PSIG",
           "name": "e these efforts, Baidu established the Personal Super Intelligence Business Group",
           "definition": "Defined in SEC filings as “e these efforts, Baidu established the Personal Super Intelligence Business Group”.",
@@ -2580,6 +3238,20 @@
           "abbr": "Re",
           "name": "logy High-tech manufacturing/ integrated supply chain management Business in Asia",
           "definition": "Defined in SEC filings as “logy High-tech manufacturing/ integrated supply chain management Business in Asia”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "REDOX",
+          "name": "Uranium precipitates from solution at the oxidation/reduction boundary",
+          "definition": "Defined in SEC filings as “Uranium precipitates from solution at the oxidation/reduction boundary”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "RLM",
+          "name": "ReElement Marion LLC",
+          "definition": "Defined in SEC filings as “ReElement Marion LLC”.",
           "count": 8,
           "source": "filing"
         },
@@ -2605,6 +3277,34 @@
           "source": "filing"
         },
         {
+          "abbr": "TDEM",
+          "name": "Time domain electro-magnetic surveys",
+          "definition": "Defined in SEC filings as “Time domain electro-magnetic surveys”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "UDEPO",
+          "name": "World Distribution of Uranium Deposits",
+          "definition": "Defined in SEC filings as “World Distribution of Uranium Deposits”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "USSU",
+          "name": "upper silty sand unit",
+          "definition": "Defined in SEC filings as “upper silty sand unit”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
+          "abbr": "VLF",
+          "name": "Ground very low frequency",
+          "definition": "Defined in SEC filings as “Ground very low frequency”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "Well-being",
           "name": "kelihood of accidents, and associated risk of failure to engage and retain talent",
           "definition": "Defined in SEC filings as “kelihood of accidents, and associated risk of failure to engage and retain talent”.",
@@ -2619,9 +3319,30 @@
           "source": "filing"
         },
         {
+          "abbr": "Wyoming",
+          "name": "northwest of the town of Sundance",
+          "definition": "Defined in SEC filings as “northwest of the town of Sundance”.",
+          "count": 8,
+          "source": "filing"
+        },
+        {
           "abbr": "Asia",
           "name": "group and the mergers and acquisitions group sequentially at Goldman Sachs",
           "definition": "Defined in SEC filings as “group and the mergers and acquisitions group sequentially at Goldman Sachs”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "B-4",
+          "name": "Common Stock Purchase Warrant",
+          "definition": "Defined in SEC filings as “Common Stock Purchase Warrant”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "BA-001",
+          "name": "hy The Bahia Project is easily accessed from the all-weather Bahia State Road 001",
+          "definition": "Defined in SEC filings as “hy The Bahia Project is easily accessed from the all-weather Bahia State Road 001”.",
           "count": 6,
           "source": "filing"
         },
@@ -2631,6 +3352,34 @@
           "definition": "Defined in SEC filings as “Battery Back-up Unit”.",
           "count": 6,
           "source": "filing"
+        },
+        {
+          "abbr": "C-2",
+          "name": "Common Stock Purchase Warrant",
+          "definition": "Defined in SEC filings as “Common Stock Purchase Warrant”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "C-3",
+          "name": "Common Stock Purchase Warrant",
+          "definition": "Defined in SEC filings as “Common Stock Purchase Warrant”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "C-4",
+          "name": "Common Stock Purchase Warrant",
+          "definition": "Defined in SEC filings as “Common Stock Purchase Warrant”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "CEO",
+          "name": "Chief Executive Officer",
+          "definition": "Top executive leading company strategy and operations.",
+          "count": 6,
+          "source": "curated"
         },
         {
           "abbr": "CMi",
@@ -2654,9 +3403,23 @@
           "source": "filing"
         },
         {
+          "abbr": "Er",
+          "name": "Erbium",
+          "definition": "Defined in SEC filings as “Erbium”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
           "abbr": "Eurozone",
           "name": "Risk free interest rate",
           "definition": "Defined in SEC filings as “Risk free interest rate”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Gauss",
+          "name": "gest commercially available neodymium magnets, offering maximum magnetic strength",
+          "definition": "Defined in SEC filings as “gest commercially available neodymium magnets, offering maximum magnetic strength”.",
           "count": 6,
           "source": "filing"
         },
@@ -2671,6 +3434,13 @@
           "abbr": "Ireland",
           "name": "Applied Materials Inc Sharing Scheme",
           "definition": "Defined in SEC filings as “Applied Materials Inc Sharing Scheme”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Jm",
+          "name": "uction of a geological or stratigraphic model representing the Morrison Formation",
+          "definition": "Defined in SEC filings as “uction of a geological or stratigraphic model representing the Morrison Formation”.",
           "count": 6,
           "source": "filing"
         },
@@ -2710,9 +3480,23 @@
           "source": "filing"
         },
         {
+          "abbr": "PG-6778",
+          "name": "Daniel Kapostasy, a Professional Geologist licensed in Wyoming",
+          "definition": "Defined in SEC filings as “Daniel Kapostasy, a Professional Geologist licensed in Wyoming”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
           "abbr": "Private",
           "name": "Philippines X N/A N/A Wave Computing",
           "definition": "Defined in SEC filings as “Philippines X N/A N/A Wave Computing”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Re-purchased",
+          "name": "Year Transaction Description Shares Issued",
+          "definition": "Defined in SEC filings as “Year Transaction Description Shares Issued”.",
           "count": 6,
           "source": "filing"
         },
@@ -2724,9 +3508,37 @@
           "source": "filing"
         },
         {
+          "abbr": "State",
+          "name": "Transfer of Legal Liability to Subsidiary Via Spin Off",
+          "definition": "Defined in SEC filings as “Transfer of Legal Liability to Subsidiary Via Spin Off”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Tb",
+          "name": "Terbium",
+          "definition": "Defined in SEC filings as “Terbium”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
           "abbr": "TMT",
           "name": "telecommunications, media and technology",
           "definition": "Defined in SEC filings as “telecommunications, media and technology”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Transfer",
+          "name": "collectively,",
+          "definition": "Defined in SEC filings as “collectively,”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
+          "abbr": "Uranium",
+          "name": "Mill Activities",
+          "definition": "Defined in SEC filings as “Mill Activities”.",
           "count": 6,
           "source": "filing"
         },
@@ -2745,6 +3557,13 @@
           "source": "filing"
         },
         {
+          "abbr": "Yb",
+          "name": "Ytterbium",
+          "definition": "Defined in SEC filings as “Ytterbium”.",
+          "count": 6,
+          "source": "filing"
+        },
+        {
           "abbr": "AA-",
           "name": "folio of available-for-sale securities must maintain an average minimum rating of",
           "definition": "Defined in SEC filings as “folio of available-for-sale securities must maintain an average minimum rating of”.",
@@ -2759,6 +3578,20 @@
           "source": "filing"
         },
         {
+          "abbr": "Budget",
+          "name": "sometimes referred to as the",
+          "definition": "Defined in SEC filings as “sometimes referred to as the”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "CCD",
+          "name": "liquid–solid separation",
+          "definition": "Defined in SEC filings as “liquid–solid separation”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
           "abbr": "CDC",
           "name": "clock domain crossing",
           "definition": "Defined in SEC filings as “clock domain crossing”.",
@@ -2769,6 +3602,41 @@
           "abbr": "Clawback",
           "name": "Compensation Recoupment",
           "definition": "Defined in SEC filings as “Compensation Recoupment”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Datamine",
+          "name": "Validation of grade interpolations were done visually in Studio RM",
+          "definition": "Defined in SEC filings as “Validation of grade interpolations were done visually in Studio RM”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Deane",
+          "name": "Deane Mining, LLC",
+          "definition": "Defined in SEC filings as “Deane Mining, LLC”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Deficit",
+          "name": "Common Stock Accumulated Earnings",
+          "definition": "Defined in SEC filings as “Common Stock Accumulated Earnings”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Downstream",
+          "name": "Magnet Making",
+          "definition": "Defined in SEC filings as “Magnet Making”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Existing",
+          "name": "NdPr",
+          "definition": "Defined in SEC filings as “NdPr”.",
           "count": 4,
           "source": "filing"
         },
@@ -2794,9 +3662,30 @@
           "source": "filing"
         },
         {
+          "abbr": "Hectares",
+          "name": "ANM Process Area Title Holder Stage Area",
+          "definition": "Defined in SEC filings as “ANM Process Area Title Holder Stage Area”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Holders",
+          "name": "estated registration rights agreement, pursuant to which, among other things, the",
+          "definition": "Defined in SEC filings as “estated registration rights agreement, pursuant to which, among other things, the”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
           "abbr": "I-RECs",
           "name": "International renewable energy certificates",
           "definition": "Defined in SEC filings as “International renewable energy certificates”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Indicated",
+          "name": "Probable",
+          "definition": "Defined in SEC filings as “Probable”.",
           "count": 4,
           "source": "filing"
         },
@@ -2808,16 +3697,16 @@
           "source": "filing"
         },
         {
-          "abbr": "Inventories",
-          "name": "Included in",
-          "definition": "Defined in SEC filings as “Included in”.",
+          "abbr": "K-RECs",
+          "name": "Korea renewable energy certificates",
+          "definition": "Defined in SEC filings as “Korea renewable energy certificates”.",
           "count": 4,
           "source": "filing"
         },
         {
-          "abbr": "K-RECs",
-          "name": "Korea renewable energy certificates",
-          "definition": "Defined in SEC filings as “Korea renewable energy certificates”.",
+          "abbr": "Kenya",
+          "name": "FY2024 FY2023 FY2022 Kwale Mine",
+          "definition": "Defined in SEC filings as “FY2024 FY2023 FY2022 Kwale Mine”.",
           "count": 4,
           "source": "filing"
         },
@@ -2836,6 +3725,27 @@
           "source": "filing"
         },
         {
+          "abbr": "M-113117",
+          "name": "RTMD is party to a 19-year initial term, renewable Mining Lease Agreement",
+          "definition": "Defined in SEC filings as “RTMD is party to a 19-year initial term, renewable Mining Lease Agreement”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "M-113629",
+          "name": "RTMD has also entered into an additional 19-year renewable Mining Lease Agreement",
+          "definition": "Defined in SEC filings as “RTMD has also entered into an additional 19-year renewable Mining Lease Agreement”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Madagascar",
+          "name": "interests in the Vara Mada",
+          "definition": "Defined in SEC filings as “interests in the Vara Mada”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
           "abbr": "March",
           "name": "Measurement is taken at the end of the annual Develop & Perform program",
           "definition": "Defined in SEC filings as “Measurement is taken at the end of the annual Develop & Perform program”.",
@@ -2843,9 +3753,44 @@
           "source": "filing"
         },
         {
+          "abbr": "Measured",
+          "name": "Proven",
+          "definition": "Defined in SEC filings as “Proven”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Midstream",
+          "name": "Processing, Separation, Metal and Alloy Making",
+          "definition": "Defined in SEC filings as “Processing, Separation, Metal and Alloy Making”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
           "abbr": "OCU",
           "name": "Overhead Cooling Unit",
           "definition": "Defined in SEC filings as “Overhead Cooling Unit”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "OQ",
+          "name": "formerly Oman Oil Refineries and Petroleum Industries Company",
+          "definition": "Defined in SEC filings as “formerly Oman Oil Refineries and Petroleum Industries Company”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Ore",
+          "name": "Reserves are customarily stated in terms of",
+          "definition": "Defined in SEC filings as “Reserves are customarily stated in terms of”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Pipeline",
+          "name": "Miscellaneous",
+          "definition": "Defined in SEC filings as “Miscellaneous”.",
           "count": 4,
           "source": "filing"
         },
@@ -2860,6 +3805,13 @@
           "abbr": "Products",
           "name": "Substances of Concern in articles as such or in complex objects",
           "definition": "Defined in SEC filings as “Substances of Concern in articles as such or in complex objects”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Ret",
+          "name": "General Paul Kern",
+          "definition": "Defined in SEC filings as “General Paul Kern”.",
           "count": 4,
           "source": "filing"
         },
@@ -2906,6 +3858,13 @@
           "source": "filing"
         },
         {
+          "abbr": "Tertiary",
+          "name": "Eocene",
+          "definition": "Defined in SEC filings as “Eocene”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
           "abbr": "Texas",
           "name": "He is also a member of the Board of Trustees for Rice University",
           "definition": "Defined in SEC filings as “He is also a member of the Board of Trustees for Rice University”.",
@@ -2916,6 +3875,20 @@
           "abbr": "Unaudited",
           "name": "Supplemental Pro Forma Information",
           "definition": "Defined in SEC filings as “Supplemental Pro Forma Information”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Underground",
+          "name": "Sheep Mountain",
+          "definition": "Defined in SEC filings as “Sheep Mountain”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Upstream",
+          "name": "Mining",
+          "definition": "Defined in SEC filings as “Mining”.",
           "count": 4,
           "source": "filing"
         },
@@ -2937,6 +3910,13 @@
           "abbr": "VEUO",
           "name": "dition, he is the Chair of the Board of the Dutch Association of Listed Companies",
           "definition": "Defined in SEC filings as “dition, he is the Chair of the Board of the Dutch Association of Listed Companies”.",
+          "count": 4,
+          "source": "filing"
+        },
+        {
+          "abbr": "Whirlwind",
+          "name": "ditionally, the Company is preparing one additional conventional mine in Colorado",
+          "definition": "Defined in SEC filings as “ditionally, the Company is preparing one additional conventional mine in Colorado”.",
           "count": 4,
           "source": "filing"
         },
@@ -3007,13 +3987,6 @@
           "abbr": "Senior",
           "name": "e worked at PricewaterhouseCoopers, where he held various management positions as",
           "definition": "Defined in SEC filings as “e worked at PricewaterhouseCoopers, where he held various management positions as”.",
-          "count": 2,
-          "source": "filing"
-        },
-        {
-          "abbr": "Warrants",
-          "name": "per share",
-          "definition": "Defined in SEC filings as “per share”.",
           "count": 2,
           "source": "filing"
         }

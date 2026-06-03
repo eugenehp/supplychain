@@ -1,0 +1,725 @@
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+Caution Regarding Forward-Looking Statements and Forward-Looking Information
+
+This MD&A may contain forward-looking statements based on assumptions and judgments of management regarding events
+or results that may prove to be inaccurate as a result of exploration, development, financial or other risk factors beyond its
+control. Actual results may differ materially from the expected results.
+
+Except for statements of historical fact, this MD&A contains certain "forward-looking information" within the meaning of
+applicable securities law. Forward-looking information is frequently characterized by words such as "plan", "expect",
+"project", "intend", "believe", "anticipate", "estimate" and other similar words, or statements that certain events or
+conditions "may", “should” or "will" occur. In particular, forward-looking information in this MD&A includes the further
+development of the Wicheeda Project (herein defined), completing the PFS (herein defined), potential financings, securing
+potential strategic partners and/or offtake agreements, future events and is subject to certain risks, uncertainties and
+assumptions. Although we believe that the expectations reflected in the forward-looking information are reasonable, there
+can be no assurance that such expectations will prove to be correct. We cannot guarantee future results, performance or
+achievements. Consequently, there is no representation that the actual results achieved will be the same, in whole or in part,
+as those set out in the forward-looking information.
+
+Forward-looking information is based on the opinions and estimates of management at the date the statements are made,
+which are subject to a variety of risks and uncertainties and other factors that could cause actual events or results to differ
+materially from those anticipated in the forward-looking information. Some of the risks and other factors that could cause
+results to differ materially from those expressed in the forward-looking statements include, but are not limited to: general
+economic conditions in Canada, the United States and globally; industry conditions, including fluctuations in commodity prices
+(including the price of rare earth elements); governmental regulation of the mining industry, including environmental
+regulation; geological, technical and drilling problems; unanticipated operating events; adverse weather and climate events;
+competition for and/or inability to retain drilling rigs, personnel and other services; the availability of capital on acceptable
+terms; failure to maintain or obtain all necessary government permits, approvals and authorizations; the impact of viruses
+and diseases on the Company’s ability to operate; failure to maintain or obtain community acceptance (including First
+Nations); increase in costs; litigation; failure of counterparties to perform their contractual obligations; the need to obtain
+required approvals from regulatory authorities; stock market volatility; volatility in market prices for commodities; liabilities
+inherent in mining operations; changes in tax laws and incentive programs relating to the mining industry; and the other
+factors described herein under "Risks and Uncertainties" as well as in our public filings available at www.sedarplus.ca.
+Readers are cautioned that this list of risk factors should not be construed as exhaustive. Such forward-looking information
+reflects the Company’s views with respect to future events and is subject to risks, uncertainties and assumptions, including
+the risks and uncertainties relating to the interpretation of exploration and metallurgical results, risks related to the inherent
+uncertainty of exploration, metallurgy and cost estimates, the potential for unexpected costs and expenses and those other
+risks filed under the Company’s profile on SEDAR+ at www.sedarplus.ca. While such estimates and assumptions are
+considered reasonable by the management of the Company, they are inherently subject to significant business, economic,
+competitive and regulatory uncertainties and risks.
+
+The forward-looking information contained in this MD&A is expressly qualified by this cautionary statement. We undertake
+no duty to update any of the forward-looking information to conform such information to actual results or to changes in our
+expectations except as otherwise required by applicable securities legislation. Readers are cautioned not to place undue
+reliance on forward-looking information.
+
+
+
+
+                                                                2
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+Scientific and Technical Disclosure
+
+The scientific and technical information contained in this MD&A has been prepared, reviewed and approved by Kristopher J.
+Raffle, P.Geo. (British Columbia), a technical consultant of the Company, a Principal and Consultant of APEX Geoscience Ltd.
+(“APEX”) of Edmonton, AB, and a Qualified Person (“QP”) within the context of Canadian Securities Administrators' National
+Instrument 43-101 – Standards of Disclosure for Mineral Projects (“NI 43-101”).
+
+HIGHLIGHTS DURING THE REPORTING PERIOD
+
+    •   Ongoing development of the 100% owned Wicheeda Project (herein defined); see discussions below.
+    •   Completed an updated mineral resource estimate (“2023 MRE”) for the Wicheeda Project and filed a National
+        Instrument 43-101 technical report (“Technical Report”) for the 2023 MRE, dated October 27, 2023, with an effective
+        date of August 28, 2023, entitled “Technical Report on the Wicheeda Property, British Columbia, Canada”.
+
+BACKGROUND AND RESOURCE ESTIMATES
+
+The Wicheeda Project is 100% owned by Defense Metals and covers 8,301 hectares (~20,534 acres) comprising 6 claims (1,708
+hectares) acquired through completion of the Spectrum Mining Corporation (“Spectrum”) option agreement (see below), and
+an additional 7 claims (6,593 hectares) acquired by staking between the dates of November 5, 2021 and November 24, 2023.
+
+
+
+
+                                           Figure 1: Wicheeda Project Location
+
+Defense Metals’ primary business objective is to successfully develop the Wicheeda Project into an economically viable Rare
+Earth Element (“REE”) mine. Currently, the Company is an exploration and development company with no revenues from
+mineral producing operations. The recoverability of financial amounts and related deferred exploration expenditures for the
+Wicheeda Project is dependent upon the development of economically recoverable mineral reserves and the ability of the
+                                                             3
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+Company to obtain necessary permitting and financing to complete the development of the property and commence future
+profitable production of REEs.
+
+A Technical Report for the 2023 MRE was prepared by APEX and is available under the Company’s profile on SEDAR+
+(www.sedarplus.ca) and on our website at www.defensemetals.com.
+
+MINERAL PROPERTIES
+
+Wicheeda Rare Earth Element Deposit
+
+On November 22, 2018, Defense Metals entered into an option agreement to acquire all of the issued and outstanding shares
+of Spectrum, which at the time was the beneficial and registered holder of 100% interest in six mining claims, known as the
+Wicheeda Project, located in the Cariboo Mining Division of British Columbia, Canada. To exercise the option, Defense Metals
+incurred exploration expenditures, issued shares to Spectrum shareholders, and made cash payments to Spectrum.
+
+On January 14, 2022, Defense Metals fully exercised its option and acquired 100% of the Wicheeda Project through the
+issuance of 78,115,549 Defense Metals common shares at a deemed price of $0.225 per share pro-rata to Spectrum
+shareholders, and the payment of $100,000 cash to Spectrum, for final consideration of $17,675,999, and the issuance of
+1,171,733 common shares pursuant to a finder’s fee agreement with Mulgravian Ventures Corporation, entered into in
+connection with the November 22, 2018 option agreement.
+
+The Wicheeda Project is subject to a 2.0% net smelter returns royalty (“NSR Royalty”) payable upon the commencement of
+any commercial production. Defense Metals has the irrevocable right to purchase one-half (1/2) of the NSR Royalty from the
+Vendors, on a basis pro rata to their prior shareholdings in Spectrum (being 1.0% of Net Smelter Returns) for $1,000,000,
+leaving the Vendors with an aggregate 1.0% NSR Royalty.
+
+On September 7, 2022, Defense Metals announced that it entered into a mineral exploration agreement with the McLeod
+Lake Indian Band regarding the Wicheeda Project, which is located on the traditional territory of the McLeod Lake Indian
+Band.
+
+On February 7, 2023, Defense Metals announced it had engaged SRK Consulting (Canada) Inc. (“SRK”) to commence site
+geotechnical investigations. These geotechnical studies were undertaken to inform a planned Wicheeda Project preliminary
+feasibility study (“pre-feasibility study” or “PFS”) with respect to areas of geotechnical engineering, hydrology, site
+infrastructure, tailings facilities, geochemistry, and site water management. SRK’s work included field investigations, allowing
+for preliminary characterization of shallow soil subsurface and bedrock foundations, tasks designed to advance the PFS
+engineering work.
+
+On March 6, 2023, the Company announced the results of a geological model and MRE domain update for the Wicheeda
+Project that incorporated over 10,000 metres of additional drilling in 47 holes completed during 2021 and 2022 following
+completion of the PEA. The model and domain update was preparatory to completion of the 2023 MRE and is an essential
+input to the planned pre-feasibility study.
+
+On April 1, 2023, Defense Metals amalgamated with Spectrum, all the issued shares of which were held by the Company,
+under section 273 of the Business Corporations Act (British Columbia) (the “Amalgamation”), with the continuing entity being
+Defense Metals. Accordingly, the shares of Spectrum were cancelled pursuant to the Amalgamation.
+
+
+
+                                                               4
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+On April 11, 2023, Defense Metals joined the Discovery Group alliance of public companies, led by Mr. John Robins and Mr.
+Jim Paterson.
+
+On August 1, 2023, Defense Metals announced that it had engaged Hatch Ltd. (“Hatch”) and SRK as principal consultants for
+the completion of a PFS for the Wicheeda Project. Both SRK and Hatch have extensive experience and knowledge of working
+in the REE sector and as directed by Defense Metals, agreed to a partition of responsibilities that allows each group to focus
+on their strengths. SRK is one of four key consultants chosen by Defense Metals to facilitate the PFS and take the lead role as
+overall coordinator of the National Instrument 43-101 PFS report, as well as handling the mining and tailings scope of work
+with support from APEX, Defense Metals' exploration, geology, and resource consultants. SRK is uniquely positioned to
+advance the Wicheeda Project given their prior involvement in both an extensive scenario analysis evaluation conducted in
+2021 and the PEA completed by them in 2021 and published in 2022. SRK will build upon the knowledge gained in these
+studies and improve upon the analyses completed then, to create an optimal development plan for the Wicheeda Project.
+SRK’s focus is on resource estimation, geotechnical engineering, mining engineering, tailings management, and economic
+analysis. Added scope for SRK in the PFS includes the project lead, risk assessment, surface water management, contact water
+treatment and environmental geochemistry. Hatch’s focus is on REE concentrating and hydrometallurgical processes and
+plant facilities, and both capital and operating costs. Hatch is responsible for the process design including the concentrator
+and hydrometallurgical plants as well as the infrastructure for mining, tailings, and other processing areas. One-eighty
+Consulting Group Inc. is responsible for the environmental studies, permitting, and social or community impact scope.
+
+On August 16, 2023, Defense Metals provided an update with respect to ongoing site infrastructure geotechnical
+investigations, which included relevant field site inspections from SRK personnel, and the completion of 13 excavated tests
+pits and 4 sonic overburden geotechnical holes to support characterization of the shallow soil subsurface and bedrock
+foundations of potential future waste rock storage, mineralization stockpile, contact water pond, crusher, processing plant,
+and tailings storage facility locations.
+
+On September 5, 2023, the Company announced completion of a ground radiometric geophysical survey over the Wicheeda
+Project. The survey identified new anomalies that may represent previously unknown REE mineralized carbonatite which
+Defense Metals planned to test during fall 2023 as part of an expanded program of pit geotechnical drilling.
+
+On September 12, 2023, Defense Metals announced the 2023 MRE1. The 2023 MRE comprises a 6.4 million tonne Measured
+Mineral Resource, averaging 2.86% Total Rare Earth Oxide (TREO2); a 27.8 million tonne Indicated Mineral Resource,
+averaging 1.84 % TREO; and an 11.1 million tonne Inferred Mineral Resource, averaging 1.02% TREO, all reported at a cut-off
+grade of 0.5% TREO within a conceptual open pit shell (Table 1, and Figure 2).
+
+Total Measured and Indicated (M+I) Mineral Resources of 34.2 million tonnes, averaging 2.02% TREO, is a significant upgrade
+representing a conversion of 101% of the 2021 MRE, which comprised some indicated and mostly inferred resources, to M+I
+on a contained TREO basis; and a 17% increase in contained TREO, or 31% tonnage increase, in comparison to the prior 2021
+MRE.
+
+
+
+
+1
+ Technical Report dated October 27, 2023, effective August 28, 2023, and titled "Technical Report on the Wicheeda Property, British
+Columbia, Canada", prepared by APEX Geoscience Ltd. available for review under the Company's profile on SEDAR+ at
+www.sedarplus.ca and on the Company's website at www.defensemetals.com
+2
+  TREO % is the sum of CeO2, La2O3, Nd2O3, Pr6O11, Sm2O3, Eu2O3, Gd2O3, Tb4O7, Dy2O3 and Ho2O3 %.
+                                                                   5
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+                         Table 1: Wicheeda Mineral Resource Estimate (effective date August 28, 2023)
+
+                       Tonnes      TREO    TREO     CeO2    La2O3   Pr6O11   Nd2O3   Sm2O3   Gd2O3   Eu2O3    Dy2O3    Tb4O7    Ho2O3
+          Category
+                       (Million)   (%)     (kt)     (%)     (%)      (%)      (%)    (ppm)   (ppm)   (ppm)    (ppm)    (ppm)    (ppm)
+
+    Measured             6.4       2.86    183      1.39    1.00    0.11     0.31     312    139      63       35          12     4
+
+    Indicated            27.8      1.84    516      0.89    0.62    0.07     0.21     232    111      50       32          10     4
+
+    M&I                  34.2      2.02    699      0.98    0.69    0.08     0.23     247    116      52       32          10     4
+
+    Inferred             11.1      1.02    113      0.50    0.31    0.04     0.13     166     91      38       35          9      5
+
+
+
+Notes for Resource Table:
+
+•       The 2023 MRE is classified according to the CIM “Estimation of Mineral Resources and Mineral Reserves Best Practice Guidelines”
+dated November 29th, 2019, and CIM “Definition Standards for Mineral Resources and Mineral Reserves” dated May 10, 2014.
+
+•       The 2023 MRE was prepared by Warren Black, M.Sc., P.Geo. and Tyler Acorn, M.Sc., of APEX under the supervision of the QP,
+Michael Dufresne, M.Sc., P.Geo. in accordance with CIM Definition Standards.
+
+•        Mineral Resources that are not Mineral Reserves do not have demonstrated economic viability. There has been insufficient
+exploration to allow for the classification of the indicated and inferred resources tabulated as a measured mineral resource; however, it
+is reasonably expected that the majority of the indicated and inferred mineral resources could be upgraded to measured or indicated
+mineral resources with continued exploration. There is no guarantee that any part of the mineral resources discussed herein will be
+converted to a mineral reserve in the future.
+
+•         All figures are rounded to reflect the relative accuracy of the estimates. Totals may not sum due to rounding.
+
+•       Median rock densities are supported by 8,075 measurements as follows: 2.95 g/cm3 (mineralized dolomite-carbonatite), 2.90
+g/cm3 (unmineralized dolomite-carbonatite), 2.85 g/cm3 (mineralized xenolithic-carbonatite), 2.76 g/cm3 (unmineralized xenolithic-
+carbonatite), 2.73 g/cm3 (syenite), and 2.76 g/cm3 (limestone).
+
+•       The reasonable prospect for eventual economic extraction is met by reporting the Mineral Resources at a cut-off grade of 0.50%
+TREO (total rare earth oxide, sum of 10 oxides: CeO2, La2O3, Nd2O3, Pr6O11, Sm2O3, Eu2O3, Gd2O3, Tb4O7, Dy2O3 and Ho2O3), contained within
+an optimized open pit shell.
+
+•        The cut-off grade is calculated, and the open pit shell is optimized based on the assumption that the hydrometallurgical
+processing can produce mixed REE carbonate precipitates. The parameters utilized, as in the 2021 MRE, include the following
+considerations:
+
+•         TREO price: $18.66/kg
+
+•         Exchange rate of 1.30 C$:US$
+
+•         Precipitate production grades of 81.09% of TREO
+
+•        Processing costs include $21.47/t of mill feed for flotation plus a variable cost for hydrometallurgical plant that varies based on
+the feed grade. The average cost of hydrometallurgical plant is assumed to be $1,204/t of concentrate.
+                                                                       6
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+•       Mining cost of C$2.00/t for mill feed and waste
+
+•       G&A Costs of C$3.33/t for mill feed.
+
+•       The overall process recoveries: For TREO>=2.3%, recovery is 69.6%; between 2.3% and 1.5% TREO, recovery is 65.3%; and less
+than 1.5% TREO, recovery is 52.2%. These assume variable flotation recoveries and a constant 87% hydrometallurgical recovery.
+
+•       Overall pit slope angles vary by zone between 40 and 48 degrees.
+
+
+
+
+                                  Figure 2: Cross Section of the Wicheeda Property 2023 MRE
+
+On October 3, 2023, the Company announced commencement of Phase 2 of its planned infrastructure and open pit
+geotechnical drilling, comprising sonic drilling overburden characterization (site infrastructure geotechnical) and diamond
+core drilling (open pit geotechnical and near resource exploration). This work was completed at the end of October.
+
+On October 10, 2023, Defense Metals announced the results of extensive comminution and beneficiation test work conducted
+by SGS Canada Inc. in Lakefield, Ontario on variability samples from the Wicheeda Project. A total of 90 open-circuit flotation
+tests, using 1 or 2 kg of feed, were conducted on seventeen individual variability samples, various composites, and blends.
+Considering all open-circuit flotation tests, at a feed grade of 3% TREO, the best fit line indicated 80% recovery to a 45% TREO
+concentrate. Very favorable results were obtained in a locked cycle test on a deposit composite giving a recovery rate of 85%
+of the rare earths at a concentrate grade of 50.7% TREO.
+
+On October 17, 2023, the Company announced that it had shipped samples of mixed rare earth oxide and mixed rare earth
+carbonate, generated during 2023 hydrometallurgical piloting test work, to interested parties. The samples were distributed
+                                                                 7
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+to certain select major processors, refiners, and metals traders located in Europe, Asia and North America, allowing the
+recipients to independently verify the high-quality of REE products from the Wicheeda Project, and establishing the Wicheeda
+Project as an important, future North American source of the rare earths needed to satisfy rapidly increasing demand driven
+by the electrification of the economy. The sample specifications were varied based on the recipients’ particular requirements,
+and these recipient parties could potentially represent future offtake or strategic partners. Discussions with the sample
+recipients regarding their individual test results and their assessments of the samples are ongoing.
+
+On December 27, 2023, Defense Metals announced completion of all infrastructure geotechnical field data collection in
+support of the PFS. The 2023 infrastructure geotechnical programs included: 16 helicopter and track sonic overburden
+geotechnical drill holes; 20 excavated overburden geotechnical test pits; 6 diamond drill holes totaling 1,182 metres inclusive
+of 4 open pit geochemical drill holes totaling 920 metres, and in pit exploration holes totaling 262 metres; collection from
+existing drill core of a 2,700 kg metallurgical sample for continued flotation and hydrometallurgical optimization test-work;
+and Initiation of humidity cell testwork.
+
+On January 9, 2024, the Company announced entering into a non-binding Memorandum of Understanding with Ucore Rare
+Metals Inc. (TSXV: UCU) to explore collaborative opportunities as both companies move towards their respective
+commercialization efforts for a North American REE supply chain.
+
+On January 17, 2024, Defense Metals announced a strategic equity partnership and co-design agreement (the “Co-Design”)
+with the McLeod Lake Indian Band (“MLIB”) regarding continuing project development of the Wicheeda Project. Pursuant to
+the Co-Design, Defense Metals will collaborate on the design of the Wicheeda Project with MLIB. Such collaboration will
+incorporate MLIB's interests and priorities in the planning and design of future feasibility studies and the environmental
+assessment process and include MLIB involvement in certain technical studies related to the Wicheeda Project. Among other
+things, comprehensive budgets and workplans are to be cooperatively developed and incorporated into the process. Defense
+Metals also announced that MLIB agreed to make a strategic investment into Defense Metals by way of a non-brokered
+private placement financing of 2,557,795 common shares of the Company at a price of $0.26 per share.
+
+
+
+
+                                                               8
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+Wicheeda Project Exploration and Evaluation Assets and Exploration Expenditures Summary:
+
+                                                                                       Wicheeda
+                                                                                          Project
+                                                                                                $
+                          Balance at March 31, 2022                                   24,138,630
+                          Drilling                                                     1,402,517
+                          Environmental                                                  187,768
+                          Field and camp costs                                           697,776
+                          Geological                                                   1,525,892
+                          Geotechnical                                                   145,756
+                          Helicopter survey                                              612,086
+                          Geochemical                                                    836,335
+                          Management and administration                                  183,069
+                          Permitting related                                             156,765
+                          Pilot plant metallurgical testing                              128,991
+                          Prefeasibility study                                             5,150
+                          Preliminary economic assessment                                258,674
+                          Balance at March 31, 2023                                   30,279,409
+                          Drilling                                                       775,815
+                          Environmental                                                  346,127
+                          Field and camp costs                                           691,074
+                          Geological                                                   1,727,897
+                          Helicopter and survey                                          726,169
+                          Geochemical                                                    490,232
+                          Management and administration                                  252,170
+                          Mapping                                                         27,185
+                          Permitting related                                           1,398,704
+                          Pilot plant metallurgical testing                            1,896,202
+                          Prefeasibility study                                         2,631,597
+                          Recovery                                                     (434,421)
+                          Balance at March 31, 2024                                   40,808,160
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+In management’s view, given the nature of the Company’s operations, which consist of exploration and evaluation of mining
+properties, the most relevant financial information relates primarily to current liquidity, solvency and planned property
+expenditures. Defense Metals’ future financial success will depend upon the extent to which it can successfully prove and
+develop the economic viability of REE mineralization of the Wicheeda Project.
+
+Such development may take years to complete and the amount of resulting income, if any, is difficult to determine. The sales
+value of any minerals discovered and developed by Defense Metals is largely dependent upon factors beyond our control,
+including the market value of the metals to be produced in the future. The Company does not expect to receive significant
+income from any of its properties in the immediate future.
+
+
+
+                                                              9
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+On April 5, 2022, the Company closed a non-brokered private placement of 8,996,267 units and 6,340,057 flow-through
+shares for gross proceeds of $4,558,050. Each unit was priced at $0.26 and was comprised of one common share and one
+transferable common share purchase warrant. Each warrant was exercisable to purchase one common share of the Company
+at a price of $0.40 per share for a period of 24 months from the date of closing the private placement. No value was allocated
+to warrants. Each flow-through share was priced at $0.35 per share. The Company paid aggregate cash finder's fees of
+$162,152 and issued 487,087 broker warrants exercisable at a price of $0.35 per share for 24 months.
+
+On May 20, 2022, the Company closed a non-brokered private placement of 4,545,456 flow-through shares for gross proceeds
+of $1,500,000. Each flow-through share was priced at $0.33 per share. The Company paid a cash finder’s fee of $90,000 and
+issued 272,727 broker warrants exercisable at a price $0.33 per share for 24 months.
+
+On December 8, 2022, the Company closed a private placement financing for gross proceeds of $6,094,020 comprising: (i)
+12,364,172 flow-through common shares (“FT Share”) at a price of $0.28 per FT Share for gross proceeds of $3,461,968; and
+(ii) 11,963,875 units (the "Units") at a price of $0.22 per Unit for gross proceeds of $2,632,052. Each Unit comprised one
+common share and one-half of a non-transferrable Common Share purchase warrant. Each whole Warrant entitled the holder
+thereof to purchase one Common Share at a price of $0.32 exercisable over two years following the Closing Date of December
+8, 2022. The Company paid aggregate cash finder's fees of $265,037 and issued 1,049,246 non-transferable finder warrants
+to certain brokers comprising 366,882 of which are exercisable at a price of $0.22 per share, 128,571 exercisable at a price of
+$0.28 per share, and 553,793 exercisable at $0.32 per common share for a period of 24 months from closing.
+
+On May 25, 2023, Defense Metals closed a non-brokered private placement financing for gross proceeds of $12,500,000
+comprising: 22,367,977 common shares at a price of $0.26 per share (“LIFE Offering”), and 25,708,946 common shares at a
+price $0.26 per share (“Concurrent Offering”). Included in the Concurrent Offering, was a lead order from RCF Opportunities
+Fund II L.P. (“RCF”) of 25,552,380 common shares, representing 9.99% of the issued and outstanding common shares of
+Defense Metals upon completion of the LIFE Offering and the Concurrent Offering. Subject to compliance with applicable
+regulatory requirements and in accordance with National Instrument 45-106 – Prospectus Exemptions (“NI 45-106”), the
+common shares issued pursuant to the LIFE Offering were offered for sale to purchasers resident in Canada, except Quebec,
+and/or other qualifying jurisdictions pursuant to the listed issuer financing exemption under Part 5A of NI 45-106. The
+common shares issues pursuant to the Concurrent Offering were issued pursuant to applicable exemptions under NI 45-106
+and are subject to a statutory holder period of four months and one day. In connection with the LIFE Offering and the
+Concurrent Offering, the Company paid aggregate cash finder's fees of $211,056 and issued 2,311,753 non-transferable
+common share warrants. The warrants are exercisable at $0.32 per common share for a period of two years from issuance.
+
+On January 17, 2024, Defense Metals closed a non-brokered private placement financing for aggregate gross proceeds of
+$738,836.28 comprising 2,841,678 common shares of the company at a price of $0.26. MLIB and RCF, following exercise of
+its participation right, subscribed for 2,557,795 common shares and 283,883 common shares, respectively. The common
+shares of the Company issued to MLIB are subject to a two-year voluntary hold period from the date of issuance.
+
+At March 31, 2024, Defense Metals had working capital of $362,830 including cash of $916,066.
+
+The Company expects to have sufficient capital to complete its business objectives and goals, however, the Company has no
+source of revenues and as noted in the audited Consolidated Financial Statements for the year ended March 31, 2024, there
+is a going concern note. Management will continue to seek new sources of capital to maintain its operations and to further
+the development of the Wicheeda Project through the completion of the PFS and beyond, as needed.
+
+
+
+
+                                                              10
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+The financial statements have been prepared in accordance with International Financial Reporting Standards (“IFRS”)
+applicable to a going concern, which assumes that the Company will be able to realize its assets and discharge its liabilities in
+the normal course of business for the foreseeable future.
+
+OUTSTANDING SHARE DATA
+
+The following share capital as of date of this document is:
+
+                                                                                                 Balance
+
+                       Shares issued and outstanding                                        258,621,249
+                       Options issued and outstanding                                        23,775,000
+                       Warrants issued and outstanding                                        9,342,937
+
+RESULTS OF OPERATIONS
+
+Three and Twelve Months Ended March 31, 2024
+The Company incurred a comprehensive loss of $567,713 and $2,761,157 for the three and twelve months ended March 31,
+2024, compared to a comprehensive net loss of $721,157 and $2,710,217 for the comparative periods. During the year ended
+March 31, 2024, the Company’s net loss was reduced due to a small reduction in communications and public relations costs,
+office and overhead costs, professional costs, regulatory and stock-based compensation costs. The Company incurred overall
+high consulting expenses for the year ended March 31, 2024. During the prior year, the Company recognized a significant
+flow-through shares premium which decreased overall expenses for that year.
+
+SELECTED QUARTERLY INFORMATION FOR MOST RECENT COMPLETED QUARTERS
+
+                                                   March 31,     December 31,      September 30,             June 30,
+                                                       2024              2023               2023                2023
+                                                           $                 $                  $                   $
+           Comprehensive loss                      (567,713)       (1,250,381)          (645,106)           (297,957)
+           Basic loss per share                       (0.00)            (0.00)             (0.00)              (0.00)
+           Diluted loss per share                     (0.00)            (0.00)             (0.00)              (0.00)
+
+
+
+                                                    March 31,     December 31,     September 30,            June 30,
+                                                        2023              2022              2022               2022
+                                                            $                 $                 $                  $
+           Comprehensive loss                       (721,157)         (878,922)         (150,687)          (959,451)
+           Basic loss per share                        (0.00)            (0.00)            (0.00)             (0.01)
+           Diluted loss per share                      (0.00)            (0.00)            (0.00)             (0.01)
+
+
+
+
+                                                                11
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+SELECTED ANNUAL INFORMATION FOR MOST RECENT COMPLETED YEARS
+
+
+                                                               For the year       For the year         For the year
+                                                                     ended              ended                ended
+                                                                 March 31,          March 31,            March 31,
+                                                                      2024               2023                 2022
+                                                                          $                  $                    $
+             Income Statement
+               Net profit (loss)                                (2,761,157)        (2,710,217)          (3,781,157)
+               Loss per share (basic and diluted)                    (0.01)             (0.02)               (0.04)
+
+             Balance Sheet
+              Total resource properties                         40,808,160         30,279,409           24,138,630
+              Total assets                                      42,646,270         32,743,589           25,261,545
+              Total long-term liabilities                                -                  -                    -
+
+FINANCIAL INSTRUMENTS AND RISK MANAGEMENT
+
+                                                                                    March 31,              March 31,
+                                                                    Level               2024                   2023
+                                                                                            $                      $
+           Cash                                                      1               916,066               1,762,556
+           Accounts payable and accrued liabilities                  1               808,911                 282,698
+
+The Company has determined the estimated fair values of its financial instruments based on appropriate valuation
+methodologies; however, considerable judgment is required to develop these estimates. The fair values of the Company’s
+financial instruments are not materially different from their carrying values.
+
+Management of Industry and Financial Risk
+
+Defense Metals is engaged in REE exploration and development and manages related industry risk issues directly. The
+Company may be at risk for environmental issues and fluctuations in commodity pricing. Management is not aware of and
+does not anticipate any significant environmental remediation costs or liabilities in respect of its current operations.
+
+The Company’s financial instruments are exposed to certain financial risks, which include the following:
+
+Credit risk
+Credit risk is the risk of loss due to the counterparty's inability to meet its obligations. The Company’s exposure to credit risk
+is on its cash and other receivables. Risk associated with cash is managed through the use of major Canadian chartered banks
+which are high credit quality financial institutions as determined by rating agencies.
+
+Liquidity risk
+Liquidity risk is the risk that the Company will encounter difficulties in meeting obligations when they become due. The
+Company, to the best of its abilities, ensures that there is sufficient capital in order to meet short-term operating
+requirements, after taking into account the Company’s holdings of cash and the Company’s liabilities. The Company’s cash is
+held in corporate bank accounts available on demand. As at March 31, 2024, Defense Metals had cash balance of $916,066
+                                                               12
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+(2023 - $1,762,556) to fulfill accounts payable and accrued liabilities obligations of $808,910 (2023 - $282,698). The financial
+liabilities as at March 31, 2024 are due within 90 days. The Company manages liquidity risk through the management of its
+capital structure. The Company has no income from operations or a regular source of cash flow and relies on equity funding
+to support its exploration and corporate activities. Should the need for equity funding arise, there is a risk that the Company
+may not be successful in selling new common shares at acceptable prices.
+
+Capital Finance Risk
+The Company will require additional financing and investment to advance beyond the PFS for the Wicheeda Project toward
+achieving commercial production. Additional funds may not be available when the Company needs them, on terms that are
+acceptable, or at all. If adequate funds are not available to the Company on a timely basis, it may be unable to proceed with
+future development of the Wicheeda Project or with other exploration, development or acquisition of property interests to
+carry out its business plan, if desired, which could materially affect the Company’s business, results of operations, financial
+condition and prospects.
+
+Market Risk
+Market risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in
+market prices. Market risk comprises three types of risk: currency risk, interest rate risk and price risk.
+
+Currency Risk
+The Company is subject to normal market risks including fluctuations in foreign exchange rates and interest rates. While the
+Company manages its operations in order to minimize exposure to these risks, the Company has not entered into any
+derivatives or contracts to hedge or otherwise mitigate this exposure.
+
+Interest Rate Risk
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes
+in market interest rates. The Company is not exposed to significant interest rate risk relating to its accounts payable and
+related party balances.
+
+Price Risk
+The Company is exposed to price risk with respect to equity prices. Price risk as it relates to the Company is defined as the
+potential adverse impact on the Company’s ability to raise financing due to movements in individual equity prices or general
+movements in the level of the stock market. The Company closely monitors individual equity movements and the stock market
+to determine the appropriate course of action to be taken by the Company.
+
+Capital management
+The Company attempts to maintain a strong capital base so as to maintain investor and creditor confidence and to sustain
+future development of the business. The capital structure of the Company consists of components of shareholders' equity.
+There were no changes in the Company's approach to capital management during the year ended March 31, 2024. The
+Company is not subject to any externally imposed capital requirements.
+
+
+
+
+                                                                13
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+RELATED PARTY TRANSACTIONS
+
+Parties are considered to be related if one party has the ability, directly or indirectly, to control the other party or exercise
+significant influence over the other party in making financial and operating decisions. Related parties may be directors,
+officers and corporate entities controlled by these individuals. The table summarizes related party compensation for various
+services received by the Company:
+
+                                                                    For the year      For the year
+                                                                          ended             ended
+                                                                      March 31,         March 31,
+                                                                           2024              2023
+                                                                              $                 $
+                              Exploration and evaluation              1,474,954         1,387,167
+                              Share issuance costs                            -            22,488
+                              Office and administrative                  12,600            12,600
+                              Consulting                                228,000           284,000
+                              Professional fees                         120,000           109,000
+                              Stock-based compensation                  346,737           375,777
+
+Included in exploration and evaluation expenditures: During the twelve months ended March 31, 2024, the Company incurred
+$1,231,954 (March 31, 2023 - $1,132,667) in geological services from APEX, a company of which Kristopher Raffle, a former
+director of the Company, is Principal of, and $150,000 (March 31, 2023 - $150,000) in Wicheeda Project administration and
+management costs charged by 576112 B.C. Ltd which is a BC-private company owed by the CEO. In addition, $45,000 (March
+31, 2023 - $65,000) is included in exploration and evaluation expenditures for geological services provided by Dr. Luisa
+Moreno, a director and President of the Company. For the twelve months ended March 31, 2024, $48,000 (March 31, 2023
+-$39,500) in geological services was charged by Blue Heron Productions Ltd., a B.C.-private company owned by William Bird
+who is a former director of the Company.
+
+Included in office and administrative expenses: During the twelve months ended March 31, 2024, the Company incurred
+$12,600 (March 31, 2023 - $12,600) in office costs from MCPA Services Inc., a B.C.-private company owned by the CFO.
+
+Included in consulting expenses: During the twelve months ended March 31, 2024, the Company incurred $150,000 (March
+31, 2023 - $150,000) in consulting expenses from 576112 B.C. Ltd which is a BC-private company owned by the CEO, and
+$45,000 (March 31, 2023 - $65,000) is included in consulting expenses for management services provided by Dr. Luisa
+Moreno, a director and President of the Company. In addition, $33,000 (March 31, 2023 - $Nil) is included in consulting
+expenses for services provided by a private company owned by Len Clough, a director of the Company.
+
+Included in professional fees: During the twelve months ended March 31, 2024, the Company incurred $120,000 (March 31,
+2023 - $109,000) in professional accounting costs from Midland Management Ltd., a B.C.-private company owned by the CFO.
+
+As at March 31, 2024, $59,695 (2023 - $Nil) was owing APEX, a company of which Kristopher Raffle, a former director of the
+Company, is Principal of, for geological services; $14,998 (2023 - $Nil) was owing to a Dr. Luisa Moreno for consulting fees
+and reimbursable expenses; and $3,464 (2023 - $Nil) was owing to a private company owned Craig Taylor, for reimbursable
+expenses. Amounts owing to related parties are unsecured, non-interest bearing, and carry no fixed terms of repayment.
+
+
+
+                                                               14
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+Off-Balance Sheet Transactions
+Defense Metals has not entered into any significant off-balance sheet arrangements or commitments.
+
+CRITICAL ACCOUNTING ESTIMATES
+
+The preparation of the Company’s annual audited Consolidated Financial Statements requires management to make
+judgments, estimates and assumptions that affect the application of policies and reported amounts of assets and liabilities,
+and revenue and expenses.
+
+The use of estimates and associated assumptions are based on historical experience and various other factors that are
+believed to be reasonable under the circumstances, the results of which form the basis of making the judgments about
+carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these
+estimates.
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are
+recognized in the period in which the estimate is revised if the revision affects only that period or in the period of the revision
+and further periods if the review affects both current and future periods. There were no critical accounting estimates required
+by management in preparation of the consolidated financial statements.
+
+Basis of measurement
+These financial statements have been prepared on a historical cost basis and except for cash flow information, using the
+accrual basis of accounting.
+
+PROPOSED TRANSACTIONS
+
+None.
+
+RISK AND UNCERTAINTIES
+
+The Company is in the mineral exploration and development business and, as such, is exposed to a number of risks and
+uncertainties that are not uncommon to other companies in the same business. Some of the possible risks include the
+following:
+
+a) The industry is capital intensive and subject to fluctuations in metal prices, market sentiment, foreign exchange and
+   interest rates. The recovery of the Company’s investment in exploration and evaluation assets and the attainment of
+   profitable operations are dependent upon the discovery and development of economic ore reserves and the ability to
+   arrange sufficient financing to bring the ore reserves into production.
+
+b) The most likely sources of future funds for further development, metallurgical work and exploration programs undertaken
+   by the Company are the sale of equity capital, the sale of an additional royalty or streaming interest, and/or the offering
+   by the Company of an interest in its properties to be earned by another interested party carrying out further exploration
+   or development. If such exploration programs are successful, the development of economic ore bodies and
+   commencement of commercial production may require future equity financings by the Company, which are likely to result
+   in substantial dilution to the holdings of existing shareholders.
+
+
+                                                                15
+DEFENSE METALS CORP.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+For the Year Ended March 31, 2024
+
+c) The Company’s capital resources are largely determined by the strength of the resource markets and the status of the
+   Company’s projects in relation to these markets, and its ability to compete for the investor support of its projects.
+
+d) The prices of metals, minerals, and other elements greatly affect the value and potential value of its exploration and
+   evaluation assets. This, in turn, greatly affects its ability to raise equity capital, negotiate option agreements and form
+   joint ventures.
+
+e) The Company must comply with health, safety, and environmental regulations governing air and water quality and land
+   disturbances and provide for mine reclamation and closure costs. The Company’s permission to operate could be
+   withdrawn temporarily where there is evidence of serious breaches of such regulations, or even permanently in the case
+   of extreme breaches. Significant liabilities could be imposed on the Company for damages, clean-up costs or penalties in
+   the event of certain discharges into the environment, environmental damage caused by previous owners of acquired
+   properties or noncompliance with environmental laws or regulations.
+
+f)   The operations of the Company will require various licenses and permits from various governmental authorities. There
+     is no assurance that the Company will be successful in obtaining the necessary licenses and permits to continue
+     exploration and development activities in the future.
+
+g) Although the Company has taken steps to verify title to exploration and evaluation assets in which it has an interest, these
+   procedures do not guarantee the Company’s title. Such assets may be subject to prior agreements or transfers and title
+   may be affected by such undetected defects.
+
+Should one or more of these risks and uncertainties materialize, or should underlying assumptions prove incorrect, then
+actual results may vary materially from those described in any forward-looking statement. While such estimates and
+assumptions are considered reasonable by the management of the Company, they are inherently subject to significant
+business, economic, competitive and regulatory uncertainties and risks. The development and exploration activities of the
+Company are subject to various laws governing exploration, development, and labour standards which may affect the
+operations of the Company as these laws and regulations set various standards regulating certain aspects of health and
+environmental quality. They provide for penalties and other liabilities for the violation of such standards and establish, in
+certain circumstances, obligations to rehabilitate current and former facilities and locations where operations are, or were
+conducted.
+
+MANAGEMENT’S RESPONSIBILITY FOR THE FINANCIAL STATEMENTS
+
+The information provided in this report is the responsibility of management. In the preparation of these statements,
+estimates are sometimes necessary to make a determination of future values for certain assets or liabilities. Management
+believes such estimates have been based on careful judgments and have been properly reflected in the accompanying
+financial statements.
+
+ADDITIONAL INFORMATION
+
+Additional information relating to the Defense Metals is available on the Canadian Securities Administrators’ System for
+Electronic Document Analysis and Retrieval website at www.sedarplus.ca and on our website at www.defensemetals.com.
+
+
+
+
+                                                              16

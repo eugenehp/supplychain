@@ -1,0 +1,45 @@
+{
+  "ticker": "MP",
+  "name": "MP Materials Corp. / DE",
+  "cik": "0001801368",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-26",
+    "accessionNumber": "0001801368-26-000008",
+    "primaryDocument": "mp-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1801368/000180136826000008/mp-20251231.htm",
+  "facts": {
+    "Revenues": {
+      "value": 331952000,
+      "end": "2021-12-31",
+      "filed": "2022-02-28",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 224441000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 3864160000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    }
+  },
+  "textLength": 529803,
+  "exportedAt": "2026-06-03T05:52:31.703Z",
+  "logoUrl": "/logos/MP.png",
+  "logoPrimaryUrl": "/logos/MP.png",
+  "logoFallbackUrl": "/logos/MP.svg",
+  "localUrls": {
+    "text": "/sec/MP/filing.txt",
+    "metadata": "/sec/MP/metadata.json",
+    "sections": "/sec/MP/sections.json",
+    "evidence": "/sec/MP/evidence.json",
+    "display": "/sec/MP/display.json"
+  }
+}

@@ -1,12 +1,14 @@
 #!/usr/bin/env node
 /**
- * Full pipeline: scrape → process → validate → RAG index → graph → Sankey (per topic)
+ * Full data pipeline (run via `npm run rag`):
+ * scrape → process → validate → RAG index → static export → topics → materials index
  */
 
 import { writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { PATHS } from './lib/paths.mjs';
 import { getBuildTopics, allSecWatchlistTickers } from './lib/topics/index.mjs';
+import { additionalMaterialsScrapeTickers, buildAndWriteRareEarthIndex } from './lib/materials/build-rare-earth-index.mjs';
 import { scrapeAllRaw, loadRawCompany, saveProcessedCompany } from './lib/scrape-store.mjs';
 import { processFiling } from './lib/filing-processor.mjs';
 import { validateRawCompany, validateProcessedCompany, validateGraph, validateSankey, buildPipelineReport } from './lib/validator.mjs';
@@ -27,7 +29,9 @@ const skipEmbed = args.includes('--skip-embed');
 const queryArg = args.find((a) => a.startsWith('--query='))?.slice(8) ?? (args.includes('--query') ? args[args.indexOf('--query') + 1] : null);
 
 function allWatchlistTickers() {
-  return allSecWatchlistTickers();
+  const set = new Set(allSecWatchlistTickers());
+  for (const t of additionalMaterialsScrapeTickers()) set.add(t);
+  return [...set].sort();
 }
 
 async function stageScrape() {
@@ -164,6 +168,19 @@ async function main() {
   console.log(`  ✓ Embeddings: ${finalStats.evidenceEmbeddings} evidence, ${finalStats.documentEmbeddings} document vectors`);
 
   const { datasets, validations } = await stageTopics(processed, staticIndex.filings);
+
+  console.log('\n══ Stage 7: Rare earth materials index ══');
+  await buildAndWriteRareEarthIndex({
+    fetchIntl: !args.includes('--skip-international'),
+    forceIntl: args.includes('--force-international'),
+    fetchReports: !args.includes('--skip-public-reports'),
+    forceReports: args.includes('--force-reports'),
+    useAsxCrawler: !args.includes('--skip-asx-crawler'),
+    importMrds: !args.includes('--skip-mrds'),
+    forceMrds: args.includes('--force-mrds'),
+    forceCsv: args.includes('--force-csv'),
+    forceComtrade: args.includes('--force-comtrade'),
+  });
 
   const report = buildPipelineReport([
     { stage: 'raw', valid: rawValidations.every((v) => v.valid), details: rawValidations },

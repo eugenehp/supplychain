@@ -16,8 +16,16 @@ export const PATHS = {
   staticSec: join(ROOT, 'static/sec'),
   staticRag: join(ROOT, 'static/rag'),
   supplyChainJson: join(ROOT, 'data/supply-chain.json'),
+  materialsRareEarth: join(ROOT, 'data/materials/rare-earth'),
+  rawInternational: join(ROOT, 'data/raw/international'),
+  rawPublicReports: join(ROOT, 'data/raw/public-reports'),
+  materialsStructured: join(ROOT, 'data/materials/structured'),
   logos: join(ROOT, 'data/logos'),
 };
+
+export function internationalRawDir(id) {
+  return join(PATHS.rawInternational, String(id).toUpperCase());
+}
 
 export function staticSecDir(ticker) {
   return join(PATHS.staticSec, ticker.toUpperCase());

@@ -1,0 +1,1013 @@
+annual reporting periods beginning on or after 1
+       January 2027. Earlier application is permitted. The key new concepts introduced in IFRS 18 relate to: the
+       structure of the statement of profit or loss; required disclosures in the financial statements for certain profit or
+       loss performance measures that are reported outside an entity’s financial statements; and enhanced principles
+       on aggregation and disaggregation which apply to the primary financial statements and notes. The Company
+       is currently assessing the impact and efforts related to adopting IFRS 18 however the impact is not expected
+       to be material.
+
+
+
+
+                                                           7
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+4.   MATERIAL ACCOUNTING POLICIES
+
+     Except as described below, the accounting policies applied in these condensed interim consolidated financial
+     statements are consistent with those of the annual financial statements for the year ended 31 December 2025.
+
+     The Company has adopted IFRS15 Revenue from Contracts with Customers effective for annual periods
+     beginning on or after 1 January 2026. The nature and effect of these changes are as follows:
+
+     Revenue
+
+         The Company manufactures and sells alloy powder to customers in various markets and has adopted a new
+         accounting policy on how the Company recognizes and measures these items.
+
+         Revenue is recognised in accordance with IFRS 15 Revenue from Contracts with Customers when control of
+         the goods is transferred to the customer in an amount that reflects the consideration to which the Company
+         expects to be entitled in exchange for those goods. The Company's contracts with customers generally contain
+         a single performance obligation, being the delivery of manufactured products. Revenue is recognised at a
+         point in time when control of the products passes to the customer, which is typically determined with reference
+         to the contractual shipping terms and occurs upon delivery to the customer, shipment of the goods, or
+         acceptance by the customer, depending on the terms of the contract.
+
+         The transaction price comprises the amount specified in the contract. Revenue is measured net of value-added
+         taxes, sales taxes and similar levies collected on behalf of governmental authorities.
+
+5.   SEGMENTED INFORMATION
+
+     The Company operates in three reportable segments, based on the nature of operations and internal reporting to
+     the Chief Executive Officer and President:
+
+     Rare earths recycling projects – the development and commercialisation of short loop and long loop rare earth
+     magnet recycling technologies (Maginito, HyProMag Limited (UK), HyProMag GmbH (Germany), Mkango
+     Rare Earths UK Limited (UK)).
+
+     Rare earths mining and refining projects – development of the advanced stage Songwe Hill rare earths project
+     in Malawi and the Pulawy rare earths separation project in Poland. (Mkango Rare Earth Limited (BVI), Mkango
+     Rare Earths Limited (Malawi), MKA Exploration Limited (BVI), MKA Exploration Limited (Malawi), Mkango
+     Polska (Poland)).
+
+     Corporate – administrative and head office activities including group-level financing, corporate development,
+     and regulatory compliance (Mkango Resources Ltd and Mkango ServiceCo UK Limited).
+
+     Management monitors the operating results of the Company’s segments separately for the purpose of making
+     decisions about resource allocation and performance assessment. Segment performance is evaluated based on
+     profit or loss and is measured consistently with the Company’s consolidated financial statements.
+
+
+
+
+                                                           8
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+   The following tables present selected financial information regarding the Company’s operating segments:
+
+   Segment results for the 3 months ended 31 March 2026
+
+
+                                                Operating         Depreciation
+                                              expenses (net of       and                           Profit/(loss)
+                                                  grants)         amortisation      Revenue*        before tax       Assets      Liabilities
+   Rare earths recycling projects                     (926,444)        (655,146)         51,621        (899,155)    10,633,725     2,707,324
+   Rare earths mining and refining projects           (706,613)            (357)              -        (847,910)     1,760,004     2,303,233
+   Corporate                                          (755,515)          (4,987)              -        1,799,545       500,680     8,332,606
+                                                    (2,388,572)        (660,489)         51,621            52,480   12,894,409    13,343,163
+
+   * Revenue recognised in the period related to the sale of alloy powder delivered during the period
+
+   Segment results for the 3 months ended 31 March 2025
+
+
+                                                Operating         Depreciation
+                                              expenses (net of       and                           Profit/(loss)
+                                                  grants)         amortisation       Revenue        before tax       Assets      Liabilities
+   Rare earths recycling projects                     (535,384)        (203,669)               -       (538,198)     8,737,841     2,377,038
+   Rare earths mining and refining projects           (264,700)            (742)               -       (265,410)       985,049       430,537
+   Corporate                                          (545,104)            (306)               -     (1,681,042)     2,763,034     2,632,681
+                                                    (1,345,188)        (204,717)               -     (2,484,650)    12,485,924     5,440,256
+
+   Basis of Measurement
+
+       Segment profit or loss represents profit or loss before tax at the segment level.
+       Inter-segment transactions are eliminated on consolidation.
+       Segment assets and liabilities are allocated based on the operations of each segment.
+       Depreciation, amortisation and material non-cash items such as the reversal of contingent consideration are
+        disclosed separately.
+
+   Geographic information
+
+   The Company’s non-current assets, excluding goodwill, deferred tax assets, and financial instruments, are
+   located in the following geographical regions:
+
+                                                      31 March 2026                31 December 2025
+   United Kingdom                                         1,335,443                        1,215,953
+   Malawi                                                   802,577                          781,271
+   Germany                                                3,677,926                        3,643,453
+   Poland                                                   199,346                          204,404
+                                                          6,015,292                        5,845,081
+
+   The goodwill and intangible asset relating to HPMS technology is not allocated by geography due to the integrated
+   nature of operations.
+
+
+
+
+                                                                  9
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+6.   GENERAL AND ADMINISTRATIVE EXPENSES
+
+                                                   3 months ended 31 March 2026          3 months ended 31 March 2025
+     Audit fees                                                          54,730                                46,659
+     Salaries and consulting fees                                       756,983                               488,486
+     Share-based payments                                               222,698                                88,047
+     Depreciation – Note 8                                              122,728                                73,274
+     Amortisation of intangible assets                                  131,275                               131,274
+     Expected credit losses                                                 254                                     -
+     Travel and Marketing                                                57,083                                18,157
+     SPAC Transaction Expenses                                          542,282                               204,111
+     HyProMag expenses (excl salaries)                                  113,218                               102,692
+     Mkango Rare Earths UK expenses (excl
+     salaries)                                                                49,932                               146,634
+     Legal and professional fees                                             113,826                                46,916
+     Other                                                                   166,840                              (17,575)
+                                                                           2,331,849                             1,328,675
+
+             Salaries and consulting fees in the current year are increased due to the inclusion of HyProMag UK,
+              HyProMag GmbH and Mkango UK salaries in the reanalysis into this line item.
+             The share-based payments charge in the current period were increased due to the accelerated vesting of
+              RSUs issued to Robert Sewell on resignation.
+             Depreciation in the current year increased due to acquisition of new assets in HyProMag UK and
+              HyProMag GmbH.
+             SPAC transactional costs increased as the SPAC transaction progressed, these costs are expected to
+              reduce in future quarters and not recur in future.
+7.   GOVERNMENT REMITTANCES RECEIVABLE
+                                               31 March 2026              31 December 2025
+     Recoverable within one year                      92,133                       270,060
+                                                      92,133                       270,060
+
+     The amount recoverable within one year relates to recoveries of indirect taxes paid to governments in the countries
+     in which the Company operates and the balance recoverable mainly fluctuates as a result of the timing of capital
+     expenditure.
+
+
+
+
+                                                          10
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+8.   PROPERTY, PLANT AND EQUIPMENT
+                                          Office       Right of     Plant and    Computer                 Leasehold
+                                      Equipment       Use Asset    equipment    Equipment     Vehicles Improvements              Total
+     Cost
+     Balance at 31 December 2024              289     1,240,974     1,397,389       72,483           -                -    2,711,135
+     Additions                             51,876        90,254     2,167,324        3,583      15,809           99,430    2,428,276
+     Foreign exchange differences           2,140       169,383       245,510        1,654         349            4,103      423,139
+     Balance at 31 December 2025           54,305     1,500,611     3,810,223       77,720      16,158          103,533    5,562,550
+     Additions                                  -             -       136,320            -           -          286,796      423,116
+     Disposals                           (18,587)             -             -            -           -                      (18,587)
+     Foreign exchange differences         (1,130)      (36,872)     (102,813)        (405)       (354)           (8,527)   (150,101)
+     Balance at 31 March 2026              34,587     1,463,739     3,843,730       77,315      15,804          381,802    5,816,978
+
+     Accumulated Depreciation
+     Balance at 31 December 2024              289         59,094     174,798        61,362           -                -        295,543
+     Depreciation                           2,198       197,735      129,649         5,558       3,949            1,510        340,599
+     Foreign exchange differences              91         16,043       48,974          883          87               62          66,139
+     Balance at 31 December 2025            2,578       272,872      353,420        67,803       4,036            1,572        702,281
+     Depreciation                           1,174         54,711       61,647        1,752       1,346            7,469        128,099
+     Foreign exchange differences           (123)        (7,884)     (18,628)        (329)       (119)            (194)        (27,277)
+     Balance at 31 March 2026               3,629       319,699      396,439        69,226       5,263            8,847        803,103
+
+
+     Net Book Value
+     31 December 2025                      51,727     1,227,739     3,456,803         9,917       12,123        101,961    4,860,270
+     31 March 2026                         30,959     1,144,040     3,447,291         8,089       10,541        372,955    5,013,875
+
+
+     Additions to plant and equipment are presented net of government grants received. Gross additions for the 3
+     months ended 31 March 2026 were $404,529. Government grants related to capital expenditure totalling $311,179
+     were received in the 3 months ended 31 March 2026. Included in additions to plant and equipment are progress
+     payments directly attributable to specific equipment being constructed for the Company, which will contribute to
+     future operations once delivered. Included in plant and equipment is $1,514,467 related to assets under
+     construction that are not available for use as at 31 March 2026 relating to the HyProMag GmbH recycling plant.
+
+     The Company recognises right-of-use (ROU) assets in relation to leased premises, including office and
+     manufacturing facilities, in accordance with IFRS 16:Leases. ROU assets represent the Company’s right to use
+     the underlying leased assets over the lease term.
+
+     The manufacturing facility lease for HyProMag Germany in Germany commenced in September 2024 and has an
+     initial term of 5 years, with an option to extend for a further 2 years. The ROU asset is being depreciated over 7
+     years. The corporate office lease in Mkango Services for the London office commenced on 1 October 2025 and
+     has an initial term of 5 years. The ROU asset for the office lease is being depreciated over 5 years.
+
+9.   DERIVATIVE LIABILITY
+
+     At 31 March 2026, the Company held warrants issued to investors in connection with a 5 September 2024 capital
+     raise and 2 October 2025 capital raise. These warrants are classified as derivative financial liabilities because their
+     exercise prices are denominated in GBP, while the Company's functional currency is USD. Under IAS 32 and IFRS
+     9, such instruments do not meet the “fixed-for-fixed” criterion for equity classification and are therefore accounted
+     for as derivatives measured at fair value through profit or loss.
+
+     The fair value of the derivative liability is calculated using the Black-Scholes option pricing model, which
+     incorporates share price at valuation date, exercise price (in GBP), volatility (based on historical data), risk-free
+     interest rate, expected life of the instrument and GBP/USD exchange rate. (see Note 20 (d))
+
+                                                            11
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+                                                                31 March 2026       31 December 2025
+   Opening balance                                                  10,598,289               1,286,206
+   Investor warrants exercised – 16 July 2025                                -             (1,517,752)
+   Investor warrants exercised – 15 August 2025                              -             (1,654,229)
+   Investor warrants – 17 October 2025                                       -               1,709,110
+   Fair value adjustment – investor warrants                       (2,555,869)              10,774,954
+   Closing balance                                                   8,042,420              10,598,289
+
+   The total movement of for the 3 months of $2,555,869 (for the year ended 31 December 2025: $10,774,954) arising
+   from fair value adjustments during the year has been recognised as a non-cash charge in the consolidated statement
+   of profit or loss.
+
+10. CONVERTIBLE LOAN NOTE (“CONVERTIBLE NOTEs”)
+
+   Pursuant to the 3 June 2025 Note Purchase Agreement (“NPA”) entered into between Mkango Rare Earths Limited
+   (“MKAR”) and sponsors of Crown PropTech Acquisitions (“CPTK”), on 2 July 2025, Lancaster BVI, a 100%
+   owned subsidiary of the Company, upon the execution of the Business Combination Agreement (“BCA”) issued
+   a convertible loan note to a sponsor of CPTK. On successful filing of the confidential F-4 on 16 February 2026 an
+   additional note, the F-4 convertible loan note was issued.
+
+   Interest on the Convertible Notes accrues at 12% per annum, paid semi-annually as follows:
+
+           3% in cash;
+           9% capitalised as Payment in Kind (“PIK”).
+
+   The redemption amount of the BCA note is $600,000, being the principal amount of $500,000 plus 20%
+   redemption premium, plus accumulated unpaid interest. The redemption amount of the F-4 note is $300,000, being
+   the principal amount of $250,000 plus 20% redemption premium, plus accumulated unpaid interest.
+
+   Conversion of the Note into Conversion Shares is mandatory on the completion of the SPAC Merger, if this
+   completes before the Maturity Date, being 1 July 2026.
+
+   Conversion Shares are Class A Shares, which are equity instruments, in Mkango Rare Earths BVI. The number
+   of Conversion Shares to be issued is driven by whether the minimum cash condition as part of the SPAC Merger
+   is met. On Conversion, the Conversion Shares will be equal to the Principal Amount and accumulated unpaid
+   interest divided by the Conversion Price of $5 per share. However, if the minimum cash condition is met, the
+   holders can elect to convert the Notes such that the holder is:
+
+           paid the Cashout Amount; and
+           issued a number of Conversion Shares equal to the Cashout Amount divided by $20; and
+           issued additional Conversion Shares equal to the Principal Amount and accumulated unpaid interest
+            less the Cashout Amount divided by the Conversion Price.
+
+   The Cashout Amount is the amount payable in cash, up to the lesser of:
+
+           the cash available in the SPAC in excess of the minimum cash condition; or
+           the sum of the Principal Amount and accumulated unpaid interest.
+
+   The Notes are financial instruments within the scope of IAS 32 Financial Instruments: Presentation and IFRS 9
+   Financial Instruments.
+
+   Both Notes are considered a hybrid contract, with a debt host liability host that is a non-derivative financial
+   liability and therefore is measured at amortised cost and a conversion option which has been identified as an
+   embedded derivative that is measured at fair value through profit or loss.
+
+   At the Issue Date for the BCA Note the fair value was determined to be $500,000, of which $183,844 was
+
+                                                         12
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+   recognised as an embedded derivative measured at fair value through profit or loss and the residual $316,156 was
+   allocated to the host liability.
+
+   At the Issue Date, the fair value of the F-4 Note was determined to be $250,000, of which $149,157 was recognised
+   as an embedded derivative measured at fair value through profit or loss and the residual $100,843 was allocated
+   to the host liability.
+
+   The effective interest rate is calculated such that the initial carrying value of the debt liability would equal to the
+   Redemption Amount as at 1 July 2026. The possibility of Conversion is not factored into the amortised cost
+   calculations.
+
+   The fair value of the BCA Note and the F-4 Note Conversion Option is highly sensitive to the assumed probability
+   of successful completion of the SPAC Merger.
+
+   At 2 July 2025 when the BCA note was issued (“the Issue Date”), management estimated a 25% probability of
+   successful completion. The conversion option can only be exercised on the occurrence of the SPAC Merger
+   completing. The SPAC merger is subject to a number of conditions which, inter alia, include the approval of a
+   Nasdaq listing application, approval by the Company as shareholder of MKAR, approval by the shareholders of
+   CPTK, approval by the TSX-V and the satisfaction or waiver of other closing conditions, most of which are outside
+   the Company’s control. At the Issue Date, none of the conditions of the SPAC Merger had been met. These
+   conditions are considered substantive and therefore a third-party market participant would have deemed the
+   probability of the SPAC Merger completing to be low. However, the probability is not considered nil and the
+   management estimate of 25% was determined by taking into consideration the available data prepared by SPAC
+   Insider for the completion of recent SPAC IPO’s of 34% in 2023 and 56% in 2024 discounted for the reasons that,
+   none of the conditions for the SPAC merger were met at the issue date; that the SPAC merger is not compulsory
+   for the Company; and the SPAC merger has to be completed within 12 months whilst the data for SPAC IPO’s
+   data is over the whole life of the SPAC once it has become public.
+
+   At 16 February 2026 on the filing of the confidential F-4 and issue of the F-4 Note, management estimated a 50%
+   probability of successful completion.
+
+   In valuing the Notes at 31 March 2026, the probability of successful completion of the SPAC was still considered
+   to be 50% and as such this probability was used to calculate the fair value.
+
+   As of 31 March 2026, the fair value of the BCA Note Conversion Option is assessed at $231,845. The host
+   liability is measured at amortised cost, with interest recognised using the effective interest rate method.
+
+                                                                        Financial              Derivative
+                                                                         Liability              Liability
+     Opening balance                                                             -                      -
+     Issue of BCA Note – 3 July 2025                                      316,156                183,844
+     Finance Charge                                                       142,717                       -
+     Derivative liability – fair value adjustment                                -                  5,936
+     Closing balance – 30 December 2025                                   458,873                189,780
+     Opening balance                                                      458,873                189,780
+     Issue of F-4 Note – 11 February 2026                                 100,842                149,157
+     Finance Charge                                                       110,550                       -
+     Payment of interest                                                   (7,500)                      -
+     Derivative liability – fair value adjustment                                -                42,065
+     Closing balance – 30 March 2026                                      662,765                381,002
+
+
+
+
+                                                           13
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+11. LEASES
+
+   The Company leases certain assets under lease agreements. During the year ended 31 December 2025, the
+   Company entered a new lease for a corporate office in London, commencing 1 October 2025. The lease has an
+   initial term of 5 years.
+
+   The Company used an incremental borrowing rate (“IBR”) of between 3.75% - 3.90% in determining its lease
+   liabilities.
+
+                                                    31 March 2026      31 December 2025
+   Opening balance                                      1,252,179              1,185,259
+   Additions                                                     -                92,301
+   Finance expense                                          11,536                46,307
+   Lease payments                                         (61,911)             (224,246)
+   Foreign exchange difference                            (29,682)               152,558
+   Closing balance                                      1,172,122              1,252,179
+
+   As at 31 March 2026 and 31 December 2025, the Company’s lease liability is as follows:
+
+   Split between:                                   31 March 2026      31 December 2025
+   Current portion of lease liability                     201,816                187,906
+   Non-current portion of lease liability                 970,306              1,064,273
+   Closing balance                                      1,172,122              1,252,179
+
+   Future minimum lease payments to be paid by the Company as a lessee as of 31 March 2026 are as follows:
+
+   Maturity Analysis – Contractual undiscounted cash flows
+   2026                                                                        181,845
+   2027                                                                        242,461
+   2028                                                                        242,461
+   Thereafter                                                                  628,451
+   Total future minimum lease payments                                       1,295,218
+   Discount                                                                  (123,095)
+   Total                                                                     1,172,122
+
+
+12. RELATED-PARTY TRANSACTIONS AND BALANCES
+
+   (a) Other related-party transactions
+
+       Leo Mining and Exploration Ltd. ("Leo Mining") is considered related by virtue of common directors and
+       officers, namely William Dawes, Alexander Lemon and Shaun Treacy. Leo Mining pays certain rental costs
+       on behalf of Mkango. Mkango reimburses Leo Mining for these costs.
+
+       As of 31 March 2026, the Company was owed an amount of $7,764 by Leo Mining (31 December 2025:
+       $7,216). The amount is unsecured and due on demand.
+
+       CoTec is considered related as it has a 20.6% interest in Maginito.
+
+       As of 31 March 2026, CoTec owed the Company $39,131 (31 December 2025: $117,240) relating to costs
+       incurred by the Company relating to the roll-out of HPMS technology into the United States on behalf of
+       HyProMag USA LLC. CoTec is responsible for these costs.
+
+
+
+       The amounts due to related parties were as follows:
+
+                                                        14
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+                                                                          31 March 2026        31 December 2025
+       Due to key management and directors                                      115,551                 108,293
+       Due to related parties with common directors (Leo Mining)                  1,231                   7,216
+       Total due to related parties                                             116,782                 115,509
+
+       The amounts due from related parties were as follows:
+
+                                                                          31 March 2026        31 December 2025
+       Due from key management and directors                                      2,302                  11,106
+       HyProMag USA                                                              38,143                  91,871
+       CoTec                                                                        988                 117,240
+       Leominex                                                                   8,995                       -
+       Mkango Cayman                                                              7,584                   7,584
+       Total due from related parties                                            58,012                 227,801
+
+
+13. ACCOUNTS PAYABLE AND ACCRUED LIABILITIES
+                                          31 March 2026                      31 December 2025
+    Accounts payable                            954,867                              1,144,688
+    Other payables                              261,183                                124,723
+    Government grants received in advance       908,981                              1,004,429
+    Accrued liabilities                         172,615                                 47,688
+                                              2,297,646                              2,321,528
+
+   The government grant received in advance relates to the REEsilience and GREENE programs and the EIT Raw
+   Material Booster Funding. The grants are subject to conditions, that if not met could result in repayment.
+
+
+
+14. SHARE CAPITAL
+
+   (a) Common shares
+       The Company is authorised to issue an unlimited number of common and preferred shares without nominal
+       or par value. The Company has not issued any preferred shares to date. The holders of common shares are
+       entitled to one vote for each share on all matters submitted to a shareholder vote and are entitled to share in
+       all dividends that the Company’s board of directors, at its discretion, declares from available funds.
+
+
+
+
+                                                        15
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+                                                           Ref           Number           Amount ($)
+         Closing balance 31 December 2024                             297,078,761          45,246,306
+         Issued for cash                                    (i)        29,187,500           2,892,866
+         Share issue expenses                               (i)                             (284,628)
+         Issued for cash                                    (i)            577,271              82,168
+         Share issue expenses                               (i)                                (9,771)
+         Exercise of broker warrants - cash                (ii)            209,375              21,676
+         Exercise of broker warrants - warrant charge      (ii)                                 12,859
+         Exercise of broker warrants - cash                (ii)                                 40,494
+         Exercise of broker warrants - warrant charge      (ii)                                 27,563
+         Exercise of investor warrants - cash              (iii)         5,690,000            480,160
+         Exercise of investor warrants - warrant
+         charge                                            (iii)                             1,517,752
+         Exercise of investor warrants - cash              (iv)          3,250,000             308,479
+         Exercise of investor warrants - warrant
+         charge                                            (iv)                             1,654,228
+         Share issue expenses                              (iv)                                (9,728)
+         Issued for cash                                   (v)          10,000,000          2,335,583
+         Share issue expenses                              (v)                              (483,162)
+         Exercise of broker warrants - cash                (v)                                  80,689
+         Exercise of broker warrants - warrant charge      (vi)         1,200,000               56,101
+         Closing balance 31 December 2025                             347,192,907          53,969,635
+         Exercise of RSU’s                                 (vii)        2,038,589             238,149
+         Share issue expenses                              (vii)                               (5,120)
+         Closing balance 31 March 2026                                349,231,496          54,202,664
+
+   (i)   On 31 January 2025, Mkango raised gross proceeds of £2,335,000 ($2,892,866) via a placement and
+         subscription totalling 29,187,500 issuing shares at a price of 8 pence per share. The net proceeds were
+         £2,023,024 ($2,608,238) after taking into account share issue costs which include the valuation of the broker
+         warrants associated with the placing.
+
+   (ii) On 27 March 2025, one of Mkango’s warrant holders exercised 209,375 warrants into shares in the Company,
+         at a price of 8 pence per share. Accordingly, the Company issued 209,375 common shares to satisfy this
+         exercise. This included the cash receipt of £16,750 ($21,676) and the transfer of $12,859 fair value from
+         contributed surplus to share capital.
+
+   (iii) On 16 July 2025, one of Mkango’s broker warrant holders exercised 600,000 warrants into shares in the
+         Company, at a price of 5 pence per share. Accordingly, the Company issued 600,000 common shares to satisfy
+         this exercise. This included the cash receipt of £30,000 ($40,494) and the transfer of $27,563 fair value from
+         contributed surplus to share capital. Additionally, one of Mkango’s warrant holders exercised 5,090,000
+         warrants into shares in the Company, at a price of 7 pence per share. Accordingly, the Company issued
+         5,090,000 common shares to satisfy this exercise. This included the cash receipt of £356,300 ($480,160) and
+         the transfer of $1,517,752 from the derivative liability relating to the investor warrants to share capital.
+
+   (iv) On 15 August 2025, one of Mkango’s warrant holders exercised 3,250,000 warrants into shares in the
+         Company, at a price of 7 pence per share. Accordingly, the Company issued 3,250,000 common shares to
+         satisfy this exercise. This included the cash receipt of £227,500 ($308,479) and the transfer of $1,654,228
+         from the derivative liability relating to the investor warrants to share capital.
+
+   (v) On 2 October 2025, Mkango raised gross proceeds of £3,000,000 (approximately $4,100,000) through a
+         private placement of 10,000,000 shares at a price of 30 pence per share. In connection with the placement, the
+         Company also issued 5,000,000 investor warrants—half of one warrant for each share issued. Each whole
+         warrant entitles the holder to acquire one common share at a price of 45 pence (approximately $0.57) per
+
+                                                          16
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+       share, exercisable for a period of two years, expiring on 2 October 2027. On the date of issuance, the Company
+       recognised a derivative liability of $1,709,110 related to these investor warrants, which was deducted from
+       the gross proceeds when recording the share capital. In addition the Company issued an aggregate of 500,000
+       broker warrants, exercisable for a period of three years, expiring 2 October 2028 and with an exercise price
+       of 30 pence (approximately $0.39). The valuation of the broker warrants associated with the placing were
+       included in the share issue costs.
+
+   (vi) On 17 October 2025, one of Mkango’s warrant holders exercised 1,200,000 warrants into shares in the
+       Company, at a price of 5 pence per share. Accordingly, the Company issued 1,200,000 common shares to
+       satisfy this exercise. This included the cash receipt of £60,000 ($81,324) and the transfer of $56,101 from the
+       derivative liability relating to the investor warrants to share capital.
+
+   (vii) On 13 February 2026, Mkango’s CFO Robert Sewell resigned and as part of his resignation 2,038,589
+       restricted share units vested. Accordingly, the Company issued 2,038,589 common shares to satisfy this
+       vesting. This was accounted for with a transfer of $238,149 fair value from contributed surplus to share capital.
+
+   (b) Share-based payments
+       (i)   Stock options
+
+       The Company has a rolling stock option plan (the “Plan”) established to recognise contributions made by key
+       personnel, to provide incentive to qualified parties to increase their proprietary interest in the Company and
+       thereby encourage their continued association with the Company. The number of options granted under the
+       Plan is limited to 10% in the aggregate of the number of issued and outstanding common shares of the
+       Company at the date of the grant of the options, less any options issued under its EMI Option Plan and RSUs
+       (see below).
+
+       The Company has an Enterprise Management Share Option Plan (“EMI Plan”) to provide management and
+       other employees resident the UK with a portion of their options on a tax efficient basis. No options under the
+       EMI Plan were issued in the first quarter.
+
+       On 27 March 2025, the Company granted 800,000 stock options to directors and employees of the Company.
+       The options have an exercise price of C$0.255 ($0.1782) per common share. The options vest over eighteen
+       months and are valid for a period of ten years from the date of the grant.
+
+       On 9 June 2025, the Company granted 1,104,933 stock options to Derek Linfield, Chairman of the Company.
+       The options have an exercise price of C$0.315 ($0.2313) per common share. The options vest over 18 months
+       and are valid for a period of ten years from the date of the grant. These Options were granted to Mr Linfield
+       as he was eligible to receive options following the forfeiture of 1,250,000 options on 10 May 2024, which
+       were reallocated to management of the Company in the form of restricted share units as part of management’s
+       agreement to receive a portion of their salary in shares. This forfeiture was in accordance with the TSX
+       Venture Exchange policy, which stipulates a 12-month cooling-off period after forfeiture before new options
+       may be granted.
+
+       The share-based payments expense that has been recognised in respect of stock options in the consolidated
+       statements of comprehensive loss for the period ended 31 March 2026 is $40,557 (31 December 2025:
+       $393,525). The stock options pursuant to the Plan vest over a term of 18 to 24 months.
+
+             The following tables provide a summary of information about the Company’s stock option plan.
+
+             As at 31 March 2026                                                    Weighted-average exercise
+                                                                     Options                     price (USD)
+             Opening                                               19,823,267                            0.15
+             Exercised                                                      -                               -
+             Total options                                         19,823,267                            0.15
+             Vested options                                        16,469,978                            0.15
+
+                                                         17
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+
+           As at 31 December 2025                                               Weighted-average exercise
+                                                                  Options                    price (USD)
+           Opening                                              17,918,334                           0.15
+           Issued – 27 March 2025                                  800,000                           0.18
+           Issued – 9 June 2025                                  1,104,933                           0.23
+           Total options                                        19,823,267                           0.15
+           Vested options                                       16,469,978                           0.15
+
+
+           The following provides a summary of the stock and EMI option plans as at 31 March 2026
+
+              Range of                          Weighted-average       Weighted-average
+            exercise price     Number         remaining contractual     exercise price          Number
+               (USD)         outstanding           life (years)             (USD)             exercisable
+             0.04 - 0.36     19,823,267                4.01                  0.15             16,469,978
+
+           The following provides a summary of the stock option plan as at 31 December 2025
+
+              Range of                          Weighted-average       Weighted-average
+            exercise price     Number         remaining contractual     exercise price          Number
+               (USD)         outstanding           life (years)             (USD)             exercisable
+             0.04 - 0.36     19,823,267                4.26                  0.15             16,469,978
+
+           The fair value of each share-based payment option granted is estimated as of the grant date using the
+           Black-Scholes option-pricing model. The following assumptions were used to arrive at the fair value for
+           the options that were issued during the year:
+
+                                                            26 March 2025         9 June 2025
+           Risk-free interest rate (%)                               3.09                4.36
+           Expected life (years)                                       10                  10
+           Expected volatility (%)                                  163.3                73.5
+           Dividends (%)                                              Nil                 Nil
+           Forfeiture rate (%)                                          5                   5
+           Weighted average fair value at issuance (USD)            0.253               0.186
+
+       (ii) Restricted Share Units (“RSUs”)
+
+           On 27 March 2025, the Company issued 1,455,000 Restricted Share Units to Will Dawes (500,000
+           RSUs), Alexander Lemon (500,000 RSUs) and Robert Sewell (455,000 RSUs) with certain vesting
+           conditions. Each RSU will, upon vesting, be capable of being redeemed for one Mkango Share. Of the
+           total number of RSUs, 20% of these RSUs were contingent on first production being achieved in the UK
+           by the end of Q2 2025 (achieved), 40% are contingent on first production being achieved in Germany by
+           the end of 2025, and 40% are contingent on the listing of Mkango Rare Earths Limited on the NASDAQ
+           exchange and the successful completion of the SPAC transaction by the end of 2025. Since the latter two
+           milestones were not achieved, these RSUs lapsed.
+
+           On 13 February 2026, Mkango’s CFO Robert Sewell resigned and as part of his resignation 2,038,589
+           restricted share units vested. Accordingly, the Company issued 2,038,589 common shares to satisfy this
+           vesting. This was accounted for with a transfer of $238,149 fair value from contributed surplus to share
+           capital.
+
+
+
+
+                                                       18
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+           At 31 March 2026 the Company had 9,679,434 (31 December 2025: 11,718,023) RSUs outstanding. The
+           RSUs vest over a period of ten years. The Company has recognised a share-based payment charge related
+           to these RSUs of $182,122 (31 December 2025: $182,257) for the current year.
+
+(c) Broker warrants
+       The fair value of each broker warrant granted is estimated as of the grant date using the Black-Scholes option-
+       pricing model. The following assumptions were used to arrive at the fair value for the broker warrants at date
+       of issue:
+
+                                             31 January 2025      2 October 2025
+       Share price (GBP)                               0.091                 50.5
+       Exercise price (GBP)                             0.08                 0.30
+       Risk-free interest rate (%)                      4.54                 3.97
+       Expected life (years)                               3                    2
+       Expected volatility (%)                          73.5                 88.3
+       Dividends (%)                                     Nil                  Nil
+       Weighted average fair value (GBP)              0.0496              0.3144
+       Exchange rate                                  0.8068              0.7404
+       Weighted average fair value at                                     0.4246
+       issuance (USD)                                   0.0614
+
+       On 31 January 2025, the Company issued 1,459,375 non-transferable warrants to the brokers who provided
+       advice in connection with the 31 January 2025 placing. Each warrant is exercisable for a period of 3 years
+       with an exercise price of £0.08 ($0.1031) per warrant.
+
+       On 27 March 2025, one of Mkango’s broker warrant holders exercised 209,375 warrants over shares in the
+       Company, at a price of 8 pence per share. Accordingly, the Company issued 209,375 common shares to
+       satisfy this exercise. This included the cash receipt of £16,750 ($21,676) and the transfer of $12,859 fair
+       value from contributed surplus to share capital.
+
+       On 16 July 2025, one of Mkango’s broker warrant holders exercised 600,000 warrants over shares in the
+       Company, at a price of 5 pence per share. Accordingly, the Company issued 600,000 common shares to satisfy
+       this exercise. This included the cash receipt of £30,000 ($40,494) and the transfer of $27,563 fair value from
+       contributed surplus to share capital.
+
+       On 2 October 2025, the Company issued 500,000 non-transferable warrants to the brokers who provided
+       advice in connection with the 2 October 2025 placing. Each warrant is exercisable for a period of 2 years
+       with an exercise price of £0.30 ($0.41 per warrant).
+
+       The following provides a summary of the Company’s outstanding broker warrants as at 31 March 2026:
+         Range of           Number         Weighted-average remaining Weighted-average
+       exercise price     outstanding         contractual life (years)      exercise price
+          0.065-0.395        1,800,000                 1.59                      0.18
+
+
+       The following provides a summary of the Company’s outstanding broker warrants as at 31 December 2025:
+         Range of           Number         Weighted-average remaining Weighted-average
+       exercise price     outstanding         contractual life (years)      exercise price
+        0.065-0.395        1,800,000                   1.84                     0.18
+
+
+   (d) Investor warrants
+
+       On 5 September 2024, the Company issued 25,000,000 investor warrants (one warrant for each subscription
+       share issued on the same date). Each warrant will entitle the holder to acquire one common share at a price
+
+                                                        19
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+       of £0.07 ($0.092) per common share for a period of 3 years (i.e. up until 4 September 2027). On 5 September
+       2024, the Company recognised a derivative liability of $969,533 related to these investor warrants. This
+       derivative liability was revalued at $1,286,206 on 31 December 2024 and the fair value adjustment of
+       $316,673 went through profit and loss.
+
+       The following provides a summary of the Company’s outstanding investor warrants as at 31 March 2026:
+         Range of           Number         Weighted-average remaining Weighted-average
+       exercise price     outstanding         contractual life (years)      exercise price
+        0.09 – 0.39        21,660,000                  1.43                     0.16
+
+       The following provides a summary of the Company’s outstanding broker warrants as at 31 December 2025:
+         Range of           Number         Weighted-average remaining Weighted-average
+       exercise price     outstanding         contractual life (years)      exercise price
+        0.065-0.395        1,800,000                   1.75                     0.18
+
+       On 16 July 2025, one of Mkango’s warrant holders exercised 5,090,000 warrants over shares in the Company,
+       at a price of 7 pence per share. Accordingly, the Company issued 5,090,000 common shares to satisfy this
+       exercise. This included the cash receipt of £356,300 ($480,160) and the credit of $1,517,752 to share capital.
+       On 15 August 2025, one of Mkango’s warrant holders exercised 3,250,000 warrants over shares in the
+       Company, at a price of 7 pence per share. Accordingly, the Company issued 3,250,000 common shares to
+       satisfy this exercise. This included the cash receipt of £227,500 ($308,479) and the credit of $1,654,228 to
+       share capital.
+
+       The derivative liability was again revalued for the 3 months ended 31 March 2026 to a value of $7,079,926
+       and a fair value adjustment of $1,968,928 went through profit and loss.
+
+       The fair value of each share-based payment warrant granted is estimated as of the grant date using the Black-
+       Scholes option-pricing model. The following assumptions were used to arrive at the fair value for the investor
+       warrants that were issued on 5 September 2024, they were re-valued on the exercise on 16 July 2025 and 15
+       August 2025, at 31 December 2025 and at 31 March 2026:
+
+                                             31 December         31 March
+                                                     2025             2026
+       Share price (GBP)                            0.465            0.386
+       Exercise price (GBP)                          0.07             0.07
+       Risk-free interest rate (%)                   3.63             4.01
+       Expected life (years)                        1.679           1.4329
+       Expected volatility (%)                      91.87            88.89
+       Dividends (%)                                  Nil              Nil
+       Weighted average fair value (GBP)           0.4030           0.3227
+       Exchange rate                                0.743           0.7592
+       Weighted average fair value (USD)           0.5427           0.4250
+
+       On 2 October 2025, the Company issued 5,000,000 investor warrants (half of one warrant for each
+       subscription share issued on the same date). Each warrant will entitle the holder to acquire one common share
+       at a price of £0.30 ($0.39) per common share for a period of 2 years (i.e. up until 2 October 2027). On 2
+       October 2025, the Company recognised a derivative liability of $1,709,110 related to these investor warrants.
+       This derivative liability was revalued at $1,547,905 on 31 December 2025 and the fair value adjustment of
+
+
+
+
+                                                        20
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+       $223,638 went through profit and loss. The derivative liability was again revalued for the 3 months ended 31
+       March 2026 to a value of $960,963 and a fair value adjustment of $586,941went through profit and loss.
+
+                                               31 December
+                                                      2025           31 March
+                                                                          2026
+       Share price (GBP)                                0.465            0.386
+       Exercise price (GBP)                              0.45             0.45
+       Risk-free interest rate (%)                       3.75             4.01
+       Expected life (years)                            1.753           1.5068
+       Expected volatility (%)                          90.16            86.74
+       Dividends (%)                                      Nil              Nil
+       Weighted average fair value (GBP)               0.2216           0.1459
+       Exchange rate                                    0.743           0.7592
+       Weighted average fair value (USD)               0.2984           0.1922
+
+15. FINANCIAL INSTRUMENTS
+
+   Determination of fair values
+
+   Financial assets and liabilities have been classified into the following categories: (i) fair value through profit or
+   loss and, (ii) amortised costs. Each category has a defined basis of measurement. If a category is measured at fair
+   value, any changes in fair value are recognised in the consolidated financial statements of comprehensive loss.
+
+   In establishing fair value, the Company uses a fair value hierarchy based on levels defined below:
+
+      Level 1 - quoted prices in active markets for identical assets or liabilities;
+
+      Level 2 - inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either
+       directly or indirectly; and
+
+      Level 3 - inputs for the asset or liability that are not based on observable market data.
+
+   The carrying value of cash, other receivables, accounts payable and accrued liabilities, and amounts due to/(from)
+   related parties, approximates the fair value due to their short-term nature and maturity.
+
+   Derivative warrants are established using level 2 and the convertible loan note is established using level 3 of the
+   fair value hierarchy.
+
+   Financial risk management
+
+   The Company’s management monitors and manages the financial risks relating to the operations of the Company.
+   These include foreign currency, interest rate, liquidity and credit risks.
+
+   Foreign currency risk
+
+   The Company enters into transactions denominated in the C$, the US dollar, the Euro, the GBP, the Australian
+   dollar, the South African Rand, the Polish Zloty and the Malawian Kwacha. The Company raises its equity in the
+   C$, and the GBP, and then purchases the US dollar, the Australian dollar, the South African Rand, the Euro, the
+   Polish Zloty and the Malawian Kwacha to settle liabilities. The Company minimizes exposure to foreign exchange
+   loss by converting funds to the appropriate currencies upon receipt of funding based on the expected use of the
+   various foreign currencies. The Company's exposure to foreign currency risk as at 31 December 2025 and 31
+   March 2026, is most significantly influenced by the following cash amounts held in foreign currencies (amounts
+   shown in US dollars):
+
+
+
+                                                          21
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+                                             31 March 2026            31 December 2025
+   Cash:
+      Canadian Dollar                                  1,644                          295
+      United States Dollar                           687,546                      477,604
+      Pound Sterling                                 416,939                    2,267,964
+      Euro                                            99,565                      311,696
+      Malawian Kwacha                                  8,958                          849
+      Australian Dollar                                   80                           79
+      Polish Zloty                                      (56)                           74
+                                                   1,214,676                    3,058,561
+
+   A 5% reduction in the value of the C$, Euro, GBP, MWK and AUD in comparison to the USD would cause a
+   change in net loss of approximately $60,734 (31 December 2025: $152,928).
+
+   Interest-rate risk
+
+   The Company’s exposure to interest-rate risk relates primarily to its cash at bank and its exposure to interest rate
+   risk on the convertible debt, however the convertible debt is at a fixed interest rate and the interest-rate risk overall
+   is expected to be minimal. The Company does not presently hedge against movements in interest rates.
+
+   Liquidity risk
+
+   Liquidity risk includes the risk that, as a result of the Company’s operational liquidity requirements:
+
+   a)   The Company will not have sufficient funds to settle a transaction on the due date;
+
+   b) The Company will be forced to dispose of financial assets at a value which is less than the fair value; or
+
+   c)   The Company may be unable to settle or recover a financial asset at all.
+
+   The Company’s operating cash requirements including amounts projected to complete the Company’s existing
+   capital expenditure program are continuously monitored and adjusted as input variables change. As these variables
+   change, liquidity risks may require the Company to conduct equity issuances or obtain other forms of financing.
+   The Company manages its liquidity risk by maintaining adequate cash and is actively seeking additional funding
+   to improve its exposure to liquidity risk. The Company continually monitors its actual and forecast cash flows to
+   ensure that there are adequate reserves to meet the maturing profiles of its financial liabilities.
+
+   The following table outlines the maturities of the Company’s financial liabilities as at 31 March 2026:
+
+                                                 Contractual cash flows         Less than 1 year     Greater than 1 year
+   Accounts payable and accrued liabilities                   2,297,646               2,297,646                        -
+   Due to related parties                                       116,782                 116,782                        -
+   Lease liability                                            1,172,122                 201,816                 970,306
+   Convertible loan notes                                       662,765                 662,765
+   Derivative liability – convertible loan
+   notes                                                         381,002                381,002
+
+        Credit risk
+
+   The Company’s principal financial asset is cash. The credit risk on cash is limited because the majority is deposited
+   with banks with high credit ratings assigned by international credit-rating agencies.
+
+
+
+
+                                                           22
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+   Financial instruments by category
+
+     Financial Assets
+                                     Fair value through profit or loss                    Amortised cost
+                                      31 March 2026 31 December 2025               31 March 2026 31 December 2025
+     Cash                                           -                  -               1,214,676         3,058,561
+     Receivables                                    -                  -                 281,956           238,843
+     Due from related parties                       -                  -                  65,578           228,292
+     Total financial assets                         -                  -               1,562,210         3,525,696
+
+     Financial liabilities
+     Accounts payable and                             -                     -           2,297,646            2,321,528
+     accrued liabilities
+     Due to related parties                           -                     -             116,782              115,509
+     Finance lease liability                          -                     -           1,172,122            1,252,179
+     Convertible loan notes                                                               662,765              458,873
+     Derivative liability                    8,042,419           10,598,289                     -                    -
+     Derivative liability –                    381,002              189,780                     -                    -
+     convertible loan notes
+     Total financial liabilities             8,423,422           10,788,069             4,249,315            4,148,089
+
+16. COMMITMENTS
+
+   HyProMag Germany
+
+   As at 31 March 2026, the Company had outstanding commitments related to the purchase of specialised equipment
+   for use in its German operations. Contracts for this equipment have been signed, and progress payments have been
+   made during the quarter.
+
+   The remaining committed payments, which fall due within the next 12 months, total approximately $805,801 and
+   are expected to be settled in line with the agreed manufacturing and delivery schedules.
+
+17. EARNINGS/(LOSS) PER SHARE
+
+   The calculation of basic earnings per share at 31 March 2026 was based on the loss attributable to ordinary
+   shareholders of $329,311 (31 March 2025: $2,328,146) and a weighted average number of ordinary shares
+   outstanding during the year ended 31 March 2026 of 348,234,852 (31 March 2025: 316,337,549) calculated as
+   follows:
+
+                                                                          31 March 2026             31 March 2025
+   Earnings/(loss) attributable to the ordinary shareholders
+   (USD)                                                                            329,311             (2,328,146)
+   Number of ordinary shares outstanding at beginning of year                   347,192,907            297,078,761
+   Effect of shares issued during the year                                        1,041,945              19,258,788
+   Weighted average number of ordinary shares outstanding                       348,234,852            316,337,549
+   Earnings/(loss) per share (USD)                                                   0.0009                (0.0074)
+
+   Diluted earnings/(loss) per share did not include the effect of options, warrants and RSUs for the period ended 31
+   March 2026 as the quantum is not material.
+
+18. CAPITAL MANAGEMENT
+
+   The Company’s total capital consists of Mkango’s shareholders’ equity of ($457,747) as at 31 March 2026 (31
+   December 2025: ($665,110)). The Company’s financing strategy includes the issuance of shares with warrants
+   (note 14), giving rise to investor warrant derivative liabilities that are sensitive to share price movements and have
+
+                                                          23
+MKANGO RESOURCES LTD
+Notes to the Condensed Interim Consolidated Financial Statements
+For the three months ended 31 March 2026 and 31 March 2025
+All figures in US dollars unless indicated otherwise
+
+   resulted in significant non-cash fair value adjustments and derivative liabilities. Upon exercise, these liabilities will
+   be reclassified to equity.
+
+   The Company’s objective when managing its capital is to have sufficient capital to maintain its ongoing operations,
+   pursue its strategic opportunities and maintain a flexible capital structure which optimises the cost of capital at an
+   acceptable risk. The Company manages its capital structure and makes adjustments to it based on the funds available
+   to the Company. The Company has no externally imposed capital requirements. There have been no changes to
+   how the Company manages its capital in the current year.
+
+19. SUBSEQUENT EVENTS
+
+    a) Equity Fundraising
+
+    On 10 April 2026, Mkango raised net proceeds of £11,700,000 (approximately $15,500,000) via a private
+    placement through the issuance of 37,878,788 common shares of the Company at a price per share of 33 pence.
+    The Company intends to use the net proceeds of the placing to acquire a synergistic German magnet business (note
+    below), fund capital expenditure of the German operations and acquire additional equipment for HyProMag UK
+    to scale up operations as well as to fund working capital requirements of the business. The aggregate fees and
+    commissions of the deal amounted to £435,583 (approximately $589,000) which were paid to Peel Hunt LLP,
+    H&P Advisory and Alternative Resource Capital who acted as joint bookrunners for the placing. The fees and
+    commissions comprised of a base commission of 5% of gross proceeds and a discretionary commission of 1% of
+    gross proceeds of the placing. Red Cloud acted as Canadian Adviser for the placing and the LIFE Offering and
+    received a cash commission of £10,499 (C$19,292) representing a 5.0% commission of the gross proceeds
+    received from investors introduced by Red Cloud.
+
+    b) Asset Purchase Agreement
+
+    On 20 May 2026, Mkango announced that it has signed an asset purchase agreement with Heraeus Amloy
+    Technologies GmbH to acquire Heraeus’s Remloy rare earth magnet recycling business for €8 million ($9,4
+    million). Remloy has developed a plant in Bitterfeld, Germany, which recycles end-of-life rare earth magnets via
+    a melting process (medium loop recycling) to produce neodymium-iron-boron alloy powders for the bonded and
+    hot deformed magnet markets, complementary to HyProMag’s short loop recycling process to produce sintered
+    magnets. The purchase includes a fully commissioned plant with significant investment in equipment, a large
+    stockpile of rare earth magnet and alloy feedstock totalling more than 300 tonnes, and a strong operational and
+    technical team in place.
+
+    c)   Filing of Form F-4 Registration Statement
+
+    Mkango announced the filing of the registration statement on Form F-4 with the U.S. Securities and Exchange
+    Commission by Mkango Rare Earths Limited (“MKAR”) on 21 May 2026, in connection with the proposed
+    business combination with Crown PropTech Acquisitions (“CPTK”). The Form F-4 is available on the EDGAR
+    and SEDAR websites. Subject to the completion of the SEC review process and satisfaction of customary closing
+    conditions, including approval by the shareholders of CPTK, MKAR’s common shares and warrants are expected
+    to be listed on the Nasdaq Stock Market under the symbols “MKAR” and “MKARW”, respectively, upon the
+    closing of the transaction.
+
+    d) MKAR application for large scale mining licence
+
+    MKAR has applied for a large scale mining license covering the Songwe Hill project area made up of 4 retention
+    licences which cover the area comprising the area of the future proposed mining license. Confirmation has been
+    received from the Government of Malawi that the Retention Licences will stay in good standing until the large-
+    scale mining licence has been processed and formally issued.
+
+
+
+
+                                                            24

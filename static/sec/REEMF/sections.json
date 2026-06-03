@@ -1,0 +1,142 @@
+[
+  {
+    "id": "item_1",
+    "item": "1",
+    "title": "Business",
+    "header": "Item 1. Business",
+    "charStart": 7120,
+    "charEnd": 16688,
+    "length": 9568,
+    "type": "item"
+  },
+  {
+    "id": "item_2",
+    "item": "2",
+    "title": "Properties",
+    "header": "Item 2. Properties",
+    "charStart": 34849,
+    "charEnd": 62181,
+    "length": 27332,
+    "type": "item"
+  },
+  {
+    "id": "item_1c",
+    "item": "1C",
+    "title": "Cybersecurity",
+    "header": "Item 1C. Cybersecurity",
+    "charStart": 141423,
+    "charEnd": 143383,
+    "length": 1960,
+    "type": "item"
+  },
+  {
+    "id": "item_3",
+    "item": "3",
+    "title": "Legal Proceedings",
+    "header": "Item 3. Legal Proceedings",
+    "charStart": 180999,
+    "charEnd": 181610,
+    "length": 611,
+    "type": "item"
+  },
+  {
+    "id": "item_4",
+    "item": "4",
+    "title": "Mine Safety Disclosures",
+    "header": "Item 4. Mine Safety Disclosures",
+    "charStart": 181610,
+    "charEnd": 182460,
+    "length": 850,
+    "type": "item"
+  },
+  {
+    "id": "item_5",
+    "item": "5",
+    "title": "Market for Registrant's Common Equity",
+    "header": "Item 5. Market for Registrant's Common Equity",
+    "charStart": 182460,
+    "charEnd": 208222,
+    "length": 25762,
+    "type": "item"
+  },
+  {
+    "id": "item_7",
+    "item": "7",
+    "title": "Management's Discussion and Analysis",
+    "header": "Item 7. Management's Discussion and Analysis",
+    "charStart": 208241,
+    "charEnd": 208899,
+    "length": 658,
+    "type": "item"
+  },
+  {
+    "id": "item_1a",
+    "item": "1A",
+    "title": "Risk Factors",
+    "header": "Item 1A. Risk Factors",
+    "charStart": 255223,
+    "charEnd": 301930,
+    "length": 46707,
+    "type": "item"
+  },
+  {
+    "id": "item_9a",
+    "item": "9A",
+    "title": "Controls and Procedures",
+    "header": "Item 9A. Controls and Procedures",
+    "charStart": 302031,
+    "charEnd": 306044,
+    "length": 4013,
+    "type": "item"
+  },
+  {
+    "id": "item_10",
+    "item": "10",
+    "title": "Directors, Executive Officers and Corporate Governance",
+    "header": "Item 10. Directors, Executive Officers and Corporate Governance",
+    "charStart": 306464,
+    "charEnd": 320128,
+    "length": 13664,
+    "type": "item"
+  },
+  {
+    "id": "item_11",
+    "item": "11",
+    "title": "Executive Compensation",
+    "header": "Item 11. Executive Compensation",
+    "charStart": 338143,
+    "charEnd": 352220,
+    "length": 14077,
+    "type": "item"
+  },
+  {
+    "id": "item_13",
+    "item": "13",
+    "title": "Certain Relationships and Related Transactions",
+    "header": "Item 13. Certain Relationships and Related Transactions",
+    "charStart": 357363,
+    "charEnd": 365269,
+    "length": 7906,
+    "type": "item"
+  },
+  {
+    "id": "item_14",
+    "item": "14",
+    "title": "Principal Accountant Fees and Services",
+    "header": "Item 14. Principal Accountant Fees and Services",
+    "charStart": 365269,
+    "charEnd": 367607,
+    "length": 2338,
+    "type": "item"
+  },
+  {
+    "id": "item_8",
+    "item": "8",
+    "title": "Financial Statements and Supplementary Data",
+    "header": "Item 8. Financial Statements and Supplementary Data",
+    "charStart": 367792,
+    "charEnd": 368151,
+    "length": 359,
+    "type": "item"
+  }
+]

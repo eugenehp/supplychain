@@ -1,0 +1,874 @@
+Rare Earth Project in Greenland, one of the largest undeveloped rare deposits in the world,
+                        and it is in the process of completing the acquisition of the Penouta Tin-Tantalum-Niobium Mine in
+                        Galicia, Spain. The Company has been involved in the development of the Kvanefjeld Rare Earth Project
+                        since 2007, and its right to the grant of an exploitation licence for this Project remains subject to legal
+                        proceedings in the courts of Greenland and Denmark. The Company is also involved in the Villasrubias
+                        Lithium-Tantalum Project, an early-stage exploration project located in the region of Castile and Leon
+                        in Spain; and the Solo and Good Setting Lithium Projects in James Bay, Quebec. ETM continues to assess
+                        other critical metals project opportunities globally.
+
+
+
+
+                        Energy Transition Minerals Ltd | ASX:ETM                                                                  10
+                        www.etransmin.com
+                                                                              ASX Announcement
+
+
+
+                        Investors/Corporate
+
+                        Daniel Mamadou                   Sara Kelly
+
+
+
+
+For personal use only
+                        Managing Director                Executive Director
+                        +61 8 9382 2322                  +61 8 9382 2322
+
+                        Media Inquiries
+
+                        Nicholas Read – Read Corporate
+                        M: +61 419 929 046
+                        E: nicholas@readcorporate.com.au
+
+
+
+
+                        Energy Transition Minerals Ltd | ASX:ETM                            11
+                        www.etransmin.com
+                      Appendix 1 – JORC Code, 2012 Edition - Table 1 Checklist of Assessment and Reporting Criteria
+
+                      PENOUTA SN-TA-NB DEPOSIT
+
+                      Section 1 Sampling Techniques and Data
+
+
+
+
+r personal use only
+                      (Criteria in this section apply to all succeeding sections.)
+
+                       Criteria         JORC Code Explanation                                     Commentary
+                       Sampling         Nature and quality of sampling (eg cut channels,          The Penouta deposit has been evaluated primarily using diamond drill (DD) core
+                       techniques       random chips, or specific specialised industry standard   samples. Other sample types include trench (TR), reverse circulation (RC) and
+                                        measurement tools appropriate to the minerals under       blast-hole (BH) samples for open pit grade control. The following limitations
+                                        investigation, such as down hole gamma sondes, or         meant only DD core samples were used directly in the Mineral Resource
+                                        handheld XRF instruments, etc). These examples should     estimate (MRE):
+                                        not be taken as limiting the broad meaning of             •        TR – no assay certificates to verify results. Small programme (454m) mainly
+                                        sampling.                                                          within the depleted volume.
+                                                                                                  •        RC – 4 drillholes to generate bulk metallurgical samples.
+                                                                                                  •        BH – Lower sample quality. Analysed at the Penouta site laboratory with
+                                                                                                           limited QAQC checks. Restricted to the depleted volume. Used only to
+                                                                                                           validate variogram modelling for the leucogranite roof zone.
+                                                                                                  •        TR and BH data is strongly clustered and restricted to the near surface.
+                                                                                                           Higher grades at the top of the granite mean including TR or BH samples in
+                                                                                                           estimation risks extrapolating higher grades to depth.
+                                                                                                  The Penouta MRE database comprises 139 surface DD holes for 25km of drilling.
+                                                                                                  Diamond drilling was completed across two phases: Historical drilling from 1982
+                                                                                                  to 1985 (35% of drill metres) and drilling by Strategic Minerals Spain (SMS) from
+                                                                                                  2012 to 2013 (65% of drill metres). SMS twinned or resampled approximately
+                                                                                                  15% of the historical drilling to verify the historical drill results.
+                                        Include reference to measures taken to ensure sample      Drill core was selectively sampled to exclude unmineralised wall rock, whilst
+                                        representativity and the appropriate calibration of any   providing complete sample coverage through the mineralised leucogranite and
+                                        measurement tools or systems used.                        greisen domains.
+                                                                                                  For SMS diamond drilling, the core was marked up, logged, and half-core
+                                                                                                  sampled at the Penouta core processing facility using a diamond core saw.
+                                                                                                  Sample intervals were split at lithological contacts, with a minimum sample
+                                                                                                  length of 0.5m and a maximum sample length of 2.5m.
+
+
+
+
+                                                                                                      12
+                                                                                               Historical core sampling used a mean sample length of 5m. No further details
+                                                                                               are available regarding historical sampling and sub-sampling routines.
+                                   Aspects of the determination of mineralisation that are     All SMS half-core samples were submitted to ALS Seville for sample preparation,
+                                   Material to the Public Report. In cases where ‘industry     with pulps sent to ALS Vancouver for analysis . The sample preparation process
+
+
+
+
+r personal use only
+                                   standard’ work has been done this would be relatively       included drying, crushing to >70% passing 2mm, sub-sampling 250g using a riffle
+                                   simple (eg ‘reverse circulation drilling was used to        splitter and pulverising to >85% passing 75µm. Field duplicate and coarse blank
+                                   obtain 1 m samples from which 3 kg was pulverised to        QAQC samples indicate no material bias or contamination occurred during the
+                                   produce a 30 g charge for fire assay’). In other cases      sampling and sub-sampling process.
+                                   more explanation may be required, such as where there       SMS samples were analysed for Sn, Ta and Nb. In 2012 SMS trialled a range of
+                                   is coarse gold that has inherent sampling problems.         analytical methods including:
+                                   Unusual commodities or mineralisation types (eg
+                                                                                               •        ME-MS61TM – four-acid digestion with ICP-MS.
+                                   submarine nodules) may warrant disclosure of detailed
+                                   information                                                 •        ME-XRF05TM – pressed powder pellet read by XRD spectrometry.
+                                                                                               •        ME-MS81TM – lithium borate fusion, acid digestion and ICP-MS.
+                                                                                               ME-MS81TM has the widest range of detection for each metal, and results are
+                                                                                               available for all SMS samples. Results from this method were prioritised for use
+                                                                                               in the MRE. Certified reference material and pulp duplicate results show
+                                                                                               acceptable analytical accuracy and precision.
+                                                                                               Historical core samples are reported to have been submitted to the ADARO
+                                                                                               laboratory in Madrid for sample preparation and analysis. All historical samples
+                                                                                               were analysed for Sn and Ta, with only 5.4% analysed for Nb. No records have
+                                                                                               been retained regarding the historical analysis method. The correlation between
+                                                                                               the historical drillholes and SMS twin drillholes and resampling supports
+                                                                                               including the historical data in the Penouta MRE.
+                      Drilling     Drill type (eg core, reverse circulation, open-hole         SMS DD programmes used a SPIDRILL 160-D diamond rig, using PQ (85mm)
+                      techniques   hammer, rotary air blast, auger, Bangka, sonic, etc) and    diameter core to approximately 35m, then completed to depth using HQ
+                                   details (eg core diameter, triple or standard tube, depth   (63.5mm) diamond core.
+                                   of diamond tails, face-sampling bit or other type,
+                                   whether core is oriented and if so, by what method,
+                                   etc).
+
+
+
+
+                                                                                                   13
+                      Drill sample   Method of recording and assessing core and chip             Core recovery was captured during SMS core logging. Mean core recovery was
+                      recovery       sample recoveries and results assessed.                     97%.
+                                     Measures taken to maximise sample recovery and              Drillers would adjust the drilling rate and method if recovery issues arose.
+                                     ensure representative nature of the samples.                Sample intervals were split at lithological contacts.
+
+
+
+
+r personal use only
+                                     Whether a relationship exists between sample recovery       There is no known relationship between sample recovery and grade.
+                                     and grade and whether sample bias may have occurred
+                                     due to preferential loss/gain of fine/coarse material.
+                      Logging        Whether core and chip samples have been geologically        Detailed geological and geotechnical logs were produced for SMS DD core. Logs
+                                     and geotechnically logged to a level of detail to support   captured lithology, weathering, oxidation, alteration, mineralisation, colour,
+                                     appropriate Mineral Resource estimation, mining             structural observations, sample intervals, and geotechnical parameters including
+                                     studies and metallurgical studies.                          core recovery, RQD, fracture number and type, breakage, weathering extent,
+                                                                                                 rock hardness and rock quality designation. Mineralogical logging was also
+                                                                                                 completed, recording sulphide, oxide and gangue mineral abundances.
+                                                                                                 Only lithology logging has been retained for historical drill core. Historical
+                                                                                                 logging codes have been translated into SMS coding. Logging from both drill
+                                                                                                 phases was used to construct the Penouta geological model.
+                                     Whether logging is qualitative or quantitative in           Logging was qualitative or quantitative depending on the variable being
+                                     nature. Core (or costean, channel, etc) photography.        captured. Digital photographs of SMS drill core were taken prior to sampling.
+                                     The total length and percentage of the relevant             Lithology logging is available for 99.8% of the ~25km of Penouta diamond
+                                     intersections logged.                                       drilling.
+                      Sub-sampling   If core, whether cut or sawn and whether quarter, half      SMS drill core was primarily half-core sampled using a diamond core saw.
+                      techniques     or all core taken.                                          Where the core was severely broken and could not be sawn, controlled tools
+                      and sample                                                                 (hammer, knife, spoon) were used to obtain the most unbiased split possible.
+                      preparation
+                                     If non-core, whether riffled, tube sampled, rotary split,   RC drilling in 2012 was undertaken to obtain bulk metallurgical samples. These
+                                     etc and whether sampled wet or dry.                         samples are not part of the MRE database.
+
+                                     For all sample types, the nature, quality and               Sample preparation for SMS drilling was completed at ALS Seville. Samples were
+                                     appropriateness of the sample preparation technique.        dried, crushed to >70% passing 2mm, split using a riffle splitter, and a nominal
+                                                                                                 250 g subsample was pulverised to >85% passing 75µm. This is considered an
+                                                                                                 appropriate workflow for preparing representative subsamples for analysis.
+                                     Quality control procedures adopted for all sub-sampling     Laboratory equipment is routinely cleaned between samples and sample
+                                     stages to maximise representativity of samples.             batches. Regular sieve tests are completed to monitor particle size.
+
+
+
+
+                                                                                                  14
+                                       Measures taken to ensure that the sampling is                Field duplicates were collected during the 2012 SMS drill programme by splitting
+                                       representative of the in situ material collected,            half-core into quarter-core pairs. Duplicate sample pairs show strong correlation
+                                       including for instance results for field duplicate/second-   for Sn, Ta and Nb. No systematic bias between the original and duplicate results
+                                       half sampling.                                               is observed.
+
+
+
+
+r personal use only
+                                       Whether sample sizes are appropriate to the grain size       Sample sizes are considered appropriate for the mineralisation style.
+                                       of the material being sampled.
+                      Quality of       The nature, quality and appropriateness of the assaying      SMS samples were analysed for Sn, Ta, Nb and a multi-element suite, using
+                      assay data and   and laboratory procedures used and whether the               lithium borate fusion, acid digestion and inductively coupled plasma mass
+                      laboratory       technique is considered partial or total.                    spectrometry (ALS method code ME-MS81TM). Method ME-MS81 is a whole-
+                      tests                                                                         rock method, as fusion decomposition breaks down all minerals in the sample,
+                                                                                                    thereby liberating all elements for analysis.
+                                                                                                    All historical samples were analysed for Sn and Ta, with only 5% analysed for Nb.
+                                                                                                    No records have been retained regarding the historical analysis method.
+                                       For geophysical tools, spectrometers, handheld XRF           No geophysical tools are used to analyse the samples.
+                                       instruments, etc, the parameters used in determining
+                                       the analysis including instrument make and model,
+                                       reading times, calibrations factors applied and their
+                                       derivation, etc.
+                                       Nature of quality control procedures adopted (eg             SMS QAQC procedures included routine insertion of certified reference
+                                       standards, blanks, duplicates, external laboratory           materials (CRMs), blanks, and field duplicates. CRM insertion rates were ~10%
+                                       checks) and whether acceptable levels of accuracy (ie        for Sn, 7% for Ta and 9% for Nb. Blanks and duplicates were each inserted at a
+                                       lack of bias) and precision have been established.           rate of 2.5%.
+                                                                                                    CRM performance is varied across the range of materials used and metals
+                                                                                                    analysed. Of the 3 Sn CRMs and 2 Ta CRMs within representative grade ranges,
+                                                                                                    weak positive bias is evident in 2012, with largely unbiased performance and
+                                                                                                    acceptable failure rates in 2013. Two out of 3 Nb CRMs show moderate to
+                                                                                                    strong positive bias.
+                                                                                                    There is no evidence of material contamination in blank sample results.
+                                                                                                    Duplicate results show no systematic bias and acceptable levels of precision in
+                                                                                                    sample preparation and analysis.
+                                                                                                    External check assays show strong correlation for Sn and Ta, with moderate
+                                                                                                    correlation for Nb.
+                                                                                                    Overall, SMS QAQC results indicate that acceptable levels of accuracy,
+                                                                                                    contamination and precision have been established for Sn and Ta. Potential
+
+
+
+
+                                                                                                     15
+                                                                                                    issues around the Nb analysis are not considered material, given no revenue is
+                                                                                                    ascribed directly to Nb in the NSR calculation used for MRE reporting.
+                                                                                                    No QAQC data is available for historical drill programmes.
+                      Verification of   The verification of significant intersections by either     SLR personnel have verified significant intersections via visual review of
+
+
+
+
+r personal use only
+                      sampling and      independent or alternative company personnel.               representative drill cores and script-based checks comparing database assay
+                      assaying                                                                      tables and original laboratory certificates.
+                                        The use of twinned holes.                                   Seven twin drillholes were completed by SMS in 2012, and 4 historical drillholes
+                                                                                                    were resampled in 2013. For Ta, there is a good correlation between historical
+                                                                                                    and SMS assay results. Twinhole results are more variable for Sn, however there
+                                                                                                    is no systematic bias and the resampling shows strong correlation. The
+                                                                                                    twinholes have some spatial separation and weaker performance for Sn in some
+                                                                                                    twinhole pairs could reflect local grade and spatial variability. Overall, the
+                                                                                                    results indicate that historical Sn and Ta results are suitable for use in the
+                                                                                                    Penouta MRE.
+                                        Documentation of primary data, data entry procedures,       Drillhole, logging and assay data were recorded on standard templates,
+                                        data verification, data storage (physical and electronic)   validated by SMS geologists, and stored in an electronic database.
+                                        protocols.
+                                        Discuss any adjustment to assay data                        No adjustments have been made to the assay data.
+                      Location of       Accuracy and quality of surveys used to locate drill        Collar locations for SMS drillholes were surveyed using high-precision GPS,
+                      data points       holes (collar and down-hole surveys), trenches, mine        based on Total Station measurements. Coordinates were recorded in ED50
+                                        workings and other locations used in Mineral Resource       UTM Zone 29N. All drillholes were downhole-surveyed using a Reflex EZ-Shot
+                                        estimation.                                                 tool at 10m intervals.
+                                                                                                    Three of the historical drillhole platforms are reported to have been located to
+                                                                                                    check collar survey accuracy. Based on these checks, SMS corrected collar
+                                                                                                    location differences, which are thought to have resulted from changes in
+                                                                                                    coordinate systems.
+                                        Specification of the grid system used.                      Mine survey and grade control systems have been conducted in the ETRS89
+                                                                                                    UTM Zone 29N coordinate reference system. Prior to the MRE, drillhole data
+                                                                                                    was transformed from ED50 to ETRS89 to align with the operational grid.
+                                        Quality and adequacy of topographic control.                Topographic control is based on a high-resolution satellite-derived topographic
+                                                                                                    survey purchased by SMS, prior to restart of open pit mining in 2018. Drone-
+                                                                                                    based photogrammetry was used to generate a detailed digital surface model of
+
+
+
+
+                                                                                                     16
+                                                                                                  the current pit area. This surface was ‘subtracted’ from the existing topography
+                                                                                                  to capture open pit depletion to date.
+
+
+
+                      Data spacing     Data spacing for reporting of Exploration Results.         Diamond drill spacing ranges from 25x50-100m to 100x100m.
+
+
+
+
+r personal use only
+                      and
+                                       Whether the data spacing and distribution is sufficient    The drill hole spacing and distribution relative to geological and grade continuity
+                      distribution
+                                       to establish the degree of geological and grade            are considered sufficient to support the estimation of Mineral Resources and
+                                       continuity appropriate for the Mineral Resource and        the classifications applied.
+                                       Ore Reserve estimation procedure(s) and classifications
+                                       applied.
+                                       Whether sample compositing has been applied.               No sample compositing has been applied for samples included in the MRE
+                                                                                                  database.
+                      Orientation of   Whether the orientation of sampling achieves unbiased      Most drillholes were drilled vertically. Vertical drilling intersects the sub-
+                      data in          sampling of possible structures and the extent to which    horizontal geological contacts and mineralised zones at high angles.
+                      relation to      this is known, considering the deposit type.
+                      geological
+                                       If the relationship between the drilling orientation and   Drill orientation with respect to structure is not considered to have introduced
+                      structure
+                                       the orientation of key mineralised structures is           material sampling bias.
+                                       considered to have introduced a sampling bias, this
+                                       should be assessed and reported if material.
+                      Sample           The measures taken to ensure sample security.              SMS samples were sealed in heavy-duty plastic bags after core logging and
+                      security                                                                    sampling, and labelled with matching sample tags, then stored in a secure
+                                                                                                  facility until shipment. Samples were personally transported by SMS employees
+                                                                                                  from the storage facility to the ALS laboratory and, upon arrival, checked against
+                                                                                                  laboratory dispatch sheets by both SMS and ALS staff.
+                                                                                                  There are no documented sample security procedures for historical drilling.
+                      Audits or        The results of any audits or reviews of sampling           Laboratory audits were conducted monthly by SMS staff.
+                      reviews          techniques and data.
+
+
+
+
+                                                                                                   17
+                      Section 2 Reporting of Exploration Results
+                      (Criteria listed in the preceding section also apply to this section.)
+                       Criteria         JORC Code Explanation                                      Commentary
+
+
+
+
+r personal use only
+                       Mineral          Type, reference name/number, location and ownership        SLR has not performed an independent verification of mineral and land tenure
+                       tenement and     including agreements or material issues with third         status and has relied on information provided by ETM and its legal adviser.
+                       land tenure      parties such as joint ventures, partnerships, overriding   The Penouta Mineral Resource sits within a Section C (hard rock) Mining
+                       status           royalties, native title interests, historical sites,       Concession known as “Penouta Mine No. 4,880.1.”
+                                        wilderness or national park and environmental settings.
+                                                                                                   The transfer of the Mining Concession is subject to previous administrative
+                                                                                                   authorization from the Regional Government of Galicia. The transfer
+                                                                                                   authorization is expected to be granted shortly, enabling the Mining Concession
+                                                                                                   to be formally acquired by ETM as part of its purchase of the Penouta Sn-Ta-Nb
+                                                                                                   Project.
+                                                                                                   ETM holds 100% of Penouta through Spanish registered company Energy
+                                                                                                   Transition Minerals, S.L.
+                                                                                                   The Mining Concession is located on land owned by the “Dehesa da Chanca”
+                                                                                                   community of neighbouring common lands, with whom a lease agreement has
+                                                                                                   been signed.
+                                                                                                   The Penouta deposit and project site borders a Natura 2000 area. The Natura
+                                                                                                   2000 boundary has been used to limit the extent of the MRE pit shell and no
+                                                                                                   Mineral Resources have been reported from within the Natura 2000 area.
+                                        The security of the tenure held at the time of reporting   The mining concession for Section C is valid and remains in effect for a period of
+                                        along with any known impediments to obtaining a            30 years beginning on May 23, 2023, a period that may be extended to a
+                                        licence to operate in the area.                            maximum total of 75 years.
+                                                                                                   The High Court of Justice of Galicia declared the mining concession for Section C
+                                                                                                   null and void in a ruling dated 7 June 2024, on the grounds that an adequate
+                                                                                                   environmental assessment had not been conducted regarding the values of a
+                                                                                                   Natura 2000 site located near the mining operation. That ruling was appealed
+                                                                                                   to the Supreme Court; therefore, the mining concession remains in effect
+                                                                                                   pending the issuance of the final judgment.
+                                                                                                   If, as expected, the nullity of the mining concession is confirmed, it will be
+                                                                                                   necessary to process a new concession application, with its corresponding
+                                                                                                   environmental impact assessment (EIA). There is no known impediment to the
+                                                                                                   concession being granted again. Specifically, it is noted that the reason for
+                                                                                                   declaring the concession null and void was the formal absence of an
+
+
+
+
+                                                                                                   18
+                                                                                             environmental assessment for that area of the Natura 2000 network, not the
+                                                                                             existence of environmental values incompatible with mining operations. Based
+                                                                                             on the available information, there are no known environmental grounds that
+                                                                                             would prevent the resumption of mining operations once the relevant
+                                                                                             environmental impact assessment has been fully and properly completed.
+
+
+
+
+r personal use only
+                      Exploration     Acknowledgment and appraisal of exploration by other   In the early 1900s, a 64 ha mining lease (Olga Mine) was approved in the
+                      done by other   parties.                                               Penouta area, and during the 1960s and 1970s, a number of additional mining
+                      parties                                                                leases were granted in the area surrounding the Olga Mine.
+                                                                                             Historically, the Penouta Mine was operated by RUMASA from 1976 to 1982,
+                                                                                             and mining was completed via open pit, targeting the kaolinised leucogranite
+                                                                                             and soft muscovitised portions of the country rock. Areas that were exploited
+                                                                                             using free digging (the soft, muscovitised country rock) were exhausted by
+                                                                                             1983.
+                                                                                             A number of historical drill programmes were undertaken between 1971 and
+                                                                                             1985. Only drillhole data from 1982 to 1985 has been retained.
+                                                                                             SMS completed systematic verification and resource development drilling from
+                                                                                             2012 to 2013.
+                                                                                             SMS restarted mining operations in 2018 through tailings re-processing then hard
+                                                                                             rock open pit mining. Operations were suspended in October 2024.
+                      Geology         Deposit type, geological setting and style of          The Penouta deposit lies in the Central Iberian Zone of the Iberian Massif
+                                      mineralisation.                                        incorporating the north-western part of the “Ollo de Sapo” Formation. Regional
+                                                                                             geology comprises the Viana do Bolo Series, including the Covelo orthogneisses,
+                                                                                             the Ollo de Sapo Formation, and the Penouta alkaline granite.
+                                                                                             The Penouta deposit comprises two principal lithologies:
+                                                                                                  1.   Alkaline leucogranite – fine to medium-grained, equigranular and
+                                                                                                       leucocratic, composed mainly of quartz, K-feldspar, albite and
+                                                                                                       muscovite, and hosting cassiterite (60–800µm) and Nb-Ta oxides (20–
+                                                                                                       360µm) as disseminations and aggregates.
+                                                                                                  2.   Greisen – medium-grained white-mica–quartz assemblage with only
+                                                                                                       sparse cassiterite and Nb-Ta oxides (≤360 µm); and quartz veins,
+                                                                                                       occurring as sigmoidal, lenticular or tabular bodies 30 cm to 2 m thick,
+                                                                                                       typically hosted in augen gneiss or locally in the leucogranite, and
+                                                                                                       characterised by muscovite-rich selvages and abundant coarse
+                                                                                                       cassiterite.
+
+
+
+
+                                                                                             19
+                                                                                                The Penouta leucogranite formed after Variscan deformation through fractional
+                                                                                                crystallisation and metasomatism, with cassiterite and columbite-tantalite
+                                                                                                deposited during a late magmatic albitisation event. Later hydrothermal activity
+                                                                                                caused muscovitisation, greisenisation, silicification and cassiterite-bearing
+                                                                                                quartz veins, followed by later-stage kaolinisation of the granite body.
+
+
+
+
+r personal use only
+                      Drill hole     A summary of all information material to the               No exploration results are reported in this release. All drill collars informing the
+                      Information    understanding of the exploration results including a       reported MRE have been included in drill plans and representative cross
+                                     tabulation of the following information for all Material   sections.
+                                     drill holes:                                               Complete drill collar and intercept lists have been released to the ASX in a
+                                     •   easting and northing of the drill hole collar          previous announcement on 7 August 2025. Exclusion of the previously disclosed
+                                     •   elevation or RL (Reduced Level – elevation above       drill hole information is not considered to detract from the understanding of
+                                         sea level in metres) of the drill hole collar          this report.
+                                     •   dip and azimuth of the hole
+                                     •   down hole length and interception depth
+                                     •   hole length.
+                                     If the exclusion of this information is justified on the
+                                     basis that the information is not Material and this
+                                     exclusion does not detract from the understanding of
+                                     the report, the Competent Person should clearly explain
+                                     why this is the case.
+                      Data           In reporting Exploration Results, weighting averaging      No exploration results are reported in this release. This criterion is not relevant
+                      aggregation    techniques, maximum and/or minimum grade                   to this report on Mineral Resources.
+                      methods        truncations (eg cutting of high grades) and cut-off
+                                     grades are usually Material and should be stated.
+                                     Where aggregate intercepts incorporate short lengths       No exploration results are reported in this release. This criterion is not relevant
+                                     of high grade results and longer lengths of low grade      to this report on Mineral Resources.
+                                     results, the procedure used for such aggregation should
+                                     be stated and some typical examples of such
+                                     aggregations should be shown in detail.
+                                     The assumptions used for any reporting of metal            No metal equivalents are reported.
+                                     equivalent values should be clearly stated.
+                      Relationship   These relationships are particularly important in the      No exploration results are reported in this release. This criterion is not relevant
+                      between        reporting of Exploration Results.                          to this report on Mineral Resources.
+
+
+
+
+                                                                                                20
+                      mineralisation   If the geometry of the mineralisation with respect to the
+                      widths and       drill hole angle is known, its nature should be reported.
+                      intercept        If it is not known and only the down hole lengths are
+                      lengths          reported, there should be a clear statement to this
+                                       effect (eg ‘down hole length, true width not known’).
+
+
+
+
+r personal use only
+                      Diagrams         Appropriate maps and sections (with scales) and             Appropriate maps and sections have been included in this report.
+                                       tabulations of intercepts should be included for any
+                                       significant discovery being reported These should
+                                       include, but not be limited to a plan view of drill hole
+                                       collar locations and appropriate sectional views.
+                      Balanced         Where comprehensive reporting of all Exploration            No exploration results are reported in this release. This criterion is not relevant
+                      reporting        Results is not practicable, representative reporting of     to this report on Mineral Resources.
+                                       both low and high grades and/or widths should be
+                                       practiced to avoid misleading reporting of Exploration
+                                       Results.
+                      Other            Other exploration data, if meaningful and material,         No exploration results are reported in this release. This criterion is not relevant
+                      substantive      should be reported including (but not limited to):          to this report on Mineral Resources.
+                      exploration      geological observations, geophysical survey results,
+                      data             geochemical survey results, bulk samples - size and
+                                       method of treatment, metallurgical test results, bulk
+                                       density, groundwater, geotechnical and rock
+                                       characteristics, potential deleterious or contaminating
+                                       substances.
+                      Further work     The nature and scale of planned further work (eg tests      ETM plans to complete a Feasibility Study, Geotechnical study, Environmental
+                                       for lateral extensions or depth extensions or large-scale   and Social Impact Assessment and Natura 2000 Assessment for the Project,
+                                       step-out drilling). Diagrams clearly highlighting the       followed by an Environmental Permit Application and Mining Application to the
+                                       areas of possible extensions, including the main            Spanish authorities.
+                                       geological interpretations and future drilling areas,
+                                       provided this information is not commercially sensitive.
+
+
+
+
+                                                                                                   21
+                      Section 3 Estimation and Reporting of Mineral Resources
+                      (Criteria listed in section 1, and where relevant in section 2, also apply to this section.)
+                       Criteria          JORC Code Explanation                                       Commentary
+
+
+
+
+r personal use only
+                       Database          Measures taken to ensure that data has not been             SMS drillhole, logging, sampling and assay data from the 2012 and 2013
+                       integrity         corrupted by, for example, transcription or keying          programmes, were maintained in structured digital databases with internal
+                                         errors, between its initial collection and its use for      validation procedures undertaken during logging, sampling, and when entering
+                                         Mineral Resource estimation purposes.                       data.
+                                                                                                     Primary assay results were received electronically from the analytical
+                                                                                                     laboratories.
+                                         Data validation procedures used.                            SLR validated the database using standard software tools to detect errors in the
+                                                                                                     collar, survey or interval data. This included script-based checks comparing all
+                                                                                                     database assay records with available laboratory certificates. Collar elevations
+                                                                                                     were compared with the topographic surface.
+                       Site visits       Comment on any site visits undertaken by the                The SLR Competent Person visited the Penouta site on 10-11 February 2026.
+                                         Competent Person and the outcome of those visits. If no     The visit included a review of the project site and infrastructure, inspection of
+                                         site visits have been undertaken indicate why this is the   outcrop and drill core geology and handover of project data.
+                                         case.
+                       Geological        Confidence in (or conversely, the uncertainty of ) the      The primary geological controls on mineralisation at Penouta are well
+                       interpretation    geological interpretation of the mineral deposit.           constrained by drilling, geological logging, and 3D modelling.
+                                         Nature of the data used and of any assumptions made.        All available geological information has been incorporated into SLR’s 3D
+                                                                                                     geological model.
+                                         The effect, if any, of alternative interpretations on       The orientation of individual mineralised veins in the greisenised gneiss cannot
+                                         Mineral Resource estimation.                                be resolved at the current drill spacing. This complex network of veins and
+                                                                                                     greisen alteration has been constrained by a broad envelope. This approach is
+                                                                                                     consistent with the planned selectivity of open pit mining. Additional drilling
+                                                                                                     could refine structural controls and modify the local estimate but is unlikely to
+                                                                                                     have a material impact on the global estimate.
+                                         The use of geology in guiding and controlling Mineral       Geological model wireframes have been treated as hard boundaries during
+                                         Resource estimation.                                        grade interpolation. Dynamic anisotropy was applied so that search orientation
+                                                                                                     aligns with the interpreted orientation of grade and geological continuity within
+                                                                                                     the deposit.
+
+
+
+
+                                                                                                     22
+                                       The factors affecting continuity both of grade and       Tin, Ta and Nb grades trend higher towards the upper leucogranite contact,
+                                       geology                                                  consistent with fractional crystallisation. Statistical and boundary analysis
+                                                                                                support the construction of higher-grade sub-domains in the leucogranite roof
+                                                                                                zone. Minor lower-grade domains within and beneath the main leucogranite
+                                                                                                intrusion are associated with alternating bands of leucogranite and gneiss.
+
+
+
+
+r personal use only
+                                                                                                Internal geological and grade continuity is sub-horizontal, oriented sub-parallel
+                                                                                                to the broader leucogranite dome.
+                                                                                                The overlying greisen zone envelopes a complex array of quartz veins and
+                                                                                                greisen alteration. Greisen mineralisation typically has higher and more variable
+                                                                                                Sn and lower Ta-Nb grades than the Leucogranite.
+                      Dimensions       The extent and variability of the Mineral Resource       The Penouta Mineral Resource has been outlined along a strike length of
+                                       expressed as length (along strike or otherwise), plan    ~1040m, across a width of ~980m, and from surface to ~230m depth.
+                                       width, and depth below surface to the upper and lower
+                                       limits of the Mineral Resource.
+                      Estimation and   The nature and appropriateness of the estimation         Geological modelling was completed using Leapfrog GeoTM. Block modelling and
+                      modelling        technique(s) applied and key assumptions, including      estimation were completed using Leapfrog EdgeTM, with supplementary
+                      techniques       treatment of extreme grade values, domaining,            statistical and geostatistical analysis in Snowden SupervisorTM.
+                                       interpolation parameters and maximum distance of         Samples were composited to 5m lengths within geological model boundaries.
+                                       extrapolation from data points. If a computer assisted   Capping was applied to outlier Sn grades. No capping was applied to Ta or Nb.
+                                       estimation method was chosen include a description of
+                                                                                                Grades were estimated into a block model representing each mineralised
+                                       computer software and parameters used.
+                                                                                                domain. The domains were treated as hard boundaries and as such, composites
+                                                                                                from an adjacent domain were not used in the grade estimation of another
+                                                                                                domain. Ordinary kriging was the primary estimation technique, with inverse
+                                                                                                distance squared applied in data-poor domains. Grade estimation was run in a
+                                                                                                three-pass plan, the second and third passes using progressively larger search
+                                                                                                radii. Search radii were guided by the data spacing and geometric anisotropy
+                                                                                                defined by the variogram model.
+                                                                                                Weathering and kaolinisation wireframes were used to classify density sample
+                                                                                                measurements and assign mean density values to each weathering-
+                                                                                                kaolinisation group.
+
+
+
+
+                                                                                                23
+                      The availability of check estimates, previous estimates    The MRE was compared with the previous March 2021 estimate. Changes
+                      and/or mine production records and whether the             include:
+                      Mineral Resource estimate takes appropriate account        •    Open pit depletion since March 2021.
+                      of such data.
+                                                                                 •    Consideration of production experience and metallurgical testwork for
+
+
+
+
+r personal use only
+                                                                                      hard rock mineralisation.
+                                                                                 •    Updated technical and economic parameters for the cut-off grade
+                                                                                      calculation and pit optimisation.
+                                                                                 •    Use of an NSR rather than Ta2O5 Equivalent cut-off grade.
+                                                                                 •    Reconstruction of the Penouta geological model and block model to
+                                                                                      address potential boundary definition issues and create a dynamic product
+                                                                                      that can be efficiently updated with further drilling.
+                                                                                 •    Minor adjustments to estimation parameters.
+                                                                                 •    New metallurgical testwork for greisen mineralisation enabled conversion
+                                                                                      of sufficiently drilled areas of the Greisen Zone to Indicated Resource.
+                                                                                 •    Use of the Natura 2000 boundary as a hard limit to the MRE pit extent.
+                                                                                 Comparisons show that introducing the Natura 2000 boundary as an external
+                                                                                 boundary constraint is the only material change, driving a 24.2Mt drop in
+                                                                                 resource tonnage, primarily from the Inferred Resource.
+                                                                                 The MRE was compared with plant feed data from a 6-month period. Plant feed
+                                                                                 grade was back-calculated from concentrate and tails grades, for which reliable
+                                                                                 analytical results exist (there is evidence of systematic errors in the Penouta
+                                                                                 site laboratory analysis for production samples). The reconciled MRE grade is
+                                                                                 −1% Sn, +6% Ta, +3% Nb and reconciled MRE tonnage is +3%.
+
+                      The assumptions made regarding recovery of by-             Columbite is recovered as part of tantalite concentrate production. Only Nb2O5
+                      products.                                                  grade is included in the MRE statement. Contained Nb2O5 content is not
+                                                                                 reported given it does not currently directly generate revenue. No revenue is
+                                                                                 attributed to Nb2O5 content in the block NSR calculation.
+                      Estimation of deleterious elements or other non-grade      No other variables of economic significance have been estimated.
+                      variables of economic significance (eg sulphur for acid
+                      mine drainage characterisation).
+                      In the case of block model interpolation, the block size   25mX by 25mY by 10mZ parent blocks, with sub- blocking allowed at wireframe
+                      in relation to the average sample spacing and the          boundaries to a minimum size of 3.125mX by 3.125mY by 2.5mZ.
+                      search employed.
+
+
+
+
+                                                                                 24
+                                       Any assumptions behind modelling of selective mining       No selective mining units have been modelled as part of the estimation
+                                       units.                                                     procedure.
+                                       Any assumptions about correlation between variables.       Ta and Nb composite grades are correlated and their estimates utilised the
+                                                                                                  same domain configuration.
+
+
+
+
+r personal use only
+                                       Description of how the geological interpretation was       Geological model wireframes have been treated as hard boundaries during
+                                       used to control the resource estimates.                    grade interpolation. Dynamic anisotropy was applied so that search orientation
+                                                                                                  aligns with the interpreted orientation of grade and geological continuity within
+                                                                                                  the deposit.
+                                       Discussion of basis for using or not using grade cutting   Grade capping was applied to Sn based on log-probability and histogram
+                                       or capping.                                                analysis by domain. Ta and Nb did not require capping.
+                                       The process of validation, the checking process used,      Validation included visual comparison of composite and estimated block model
+                                       the comparison of model data to drill hole data, and       grades. Nearest-neighbour grades were interpolated for validation purposes
+                                       use of reconciliation data if available.                   and used for statistical and swath-plot comparisons.
+                      Moisture         Whether the tonnages are estimated on a dry basis or       The tonnages were estimated on a dry basis.
+                                       with natural moisture, and the method of
+                                       determination of the moisture content.
+                      Cut-off          The basis of the adopted cut-off grade(s) or quality       Mineral Resources are reported above a net smelter return (NSR) cut-off value
+                      parameters       parameters applied.                                        of US$9.25/t. The cut-off value is based on operating cost estimates of
+                                                                                                  US$7.75/t processing and US$1.5/t G&A. These cost estimates were derived
+                                                                                                  from previous operating cost actuals adjusted for inflation and assume a
+                                                                                                  production rate of 1.5Mtpa.
+                      Mining factors   Assumptions made regarding possible mining methods,        Mineral Resources are reported within an optimised pit shell where blocks
+                      or assumptions   minimum mining dimensions and internal (or, if             exceed the 9.25 US$/t NSR cut-off.
+                                       applicable, external) mining dilution. It is always        Block NSR values and the MRE pit optimization used the following parameters:
+                                       necessary as part of the process of determining
+                                                                                                  •    Long-term metal prices of US$40,000/t Sn and US$100/lb Ta2O5.
+                                       reasonable prospects for eventual economic extraction
+                                       to consider potential mining methods, but the              •    Metallurgical recoveries of 75% Sn and 65% Ta2O5.
+                                       assumptions made regarding mining methods and              •    Operating costs of US$5/t mining, US$7.75/t processing and US$1.5/t G&A
+                                       parameters when estimating Mineral Resources may           •    Total selling cost of US$2,200/t for the tin concentrate. For Ta₂O₅, the long-
+                                       not always be rigorous. Where this is the case, this            term metal price assumptions are stated net of selling expenses, consistent
+                                       should be reported with an explanation of the basis of          with historical practice whereby such costs were incorporated into agreed
+                                       the mining assumptions made.                                    sales prices.
+                                                                                                  •    95% ore recovery and 5% mining dilution.
+
+
+
+
+                                                                                                  25
+                                                                                                  •    Overall slope angles based on elevation, in line with the existing Penouta
+                                                                                                       final pit design
+                                                                                                       o   Topo down to 1390RL - 26.6°
+                                                                                                       o   1390RL down to 1370RL - 28.2°
+
+
+
+
+r personal use only
+                                                                                                       o   1370RL down to 1340RL - 23.0°
+                                                                                                       o   1340RL down to 1325RL - 16.9°
+                                                                                                       o   1325RL down to pit floor - 42.3°
+                      Metallurgical   The basis for assumptions or predictions regarding          Metallurgical recoveries of 75% Sn and 65% Ta2O5 reflect base case recoveries
+                      factors or      metallurgical amenability. It is always necessary as part   (current plant configuration and performance) with estimated improvements
+                      assumptions     of the process of determining reasonable prospects for      due to proposed plant upgrades.
+                                      eventual economic extraction to consider potential          The current Penouta processing circuit comprises:
+                                      metallurgical methods, but the assumptions regarding
+                                                                                                  •    Size reduction of ~1.5Mtpa ore feed (D80 = 400mm to D80 = 3mm) via a
+                                      metallurgical treatment processes and parameters
+                                                                                                       crushing circuit adjacent to the open pit.
+                                      made when reporting Mineral Resources may not
+                                      always be rigorous. Where this is the case, this should     •    Material pumped as a slurry to the gravimetric plant.
+                                      be reported with an explanation of the basis of the         •    Closed-circuit grinding with primary cyclones (P80 = 250μm).
+                                      metallurgical assumptions made.                             •    Secondary classification with cyclones cutting at 38μm.
+                                                                                                  •    Gravity concentration of the 38–250μm fraction (spirals + shaking tables +
+                                                                                                       Falcon).
+                                                                                                  •    Gravity tails are discarded as coarse tailings. Direct discard of the <38μm
+                                                                                                       fraction (product of overgrinding) as fine tailings.
+                                                                                                  •    Magnetic separation to produce cassiterite and tantalite concentrates.
+                                                                                                  The potential recovery improvements are based on:
+                                                                                                  •    Addition of a fines recovery circuit (desliming at 10μm + MGS centrifuge for
+                                                                                                       the 10–38μm fraction).
+                                                                                                  •    Replacement of the hydrocyclone battery currently operating upstream of
+                                                                                                       the ball mills with high-frequency screens.
+                      Environmental   Assumptions made regarding possible waste and               Existing tailings storage facilities (TSFs) are at capacity. For the Penouta MRE, it
+                      factors or      process residue disposal options. It is always necessary    has been assumed that there is potential for dry-stack tailings disposal within
+                      assumptions     as part of the process of determining reasonable            the footprint of the existing TSFs. Tailings filtration has been included in the
+                                      prospects for eventual economic extraction to consider      processing operating cost estimate.
+                                      the potential environmental impacts of the mining and
+                                      processing operation. While at this stage the
+
+
+
+
+                                                                                                  26
+                                     determination of potential environmental impacts,           The Penouta deposit and project site borders a Natura 2000 area. The Natura
+                                     particularly for a greenfields project, may not always be   2000 boundary has been used to limit the extent of the MRE pit shell and no
+                                     well advanced, the status of early consideration of         Mineral Resources have been reported from within the Natura 2000 area.
+                                     these potential environmental impacts should be             To obtain a new mining concession and reopen the mine, ETM must conduct a
+                                     reported. Where these aspects have not been                 Natura 2000 impact assessment and update the mining project, the restoration
+
+
+
+
+r personal use only
+                                     considered this should be reported with an explanation      plan, and the EIA. This process could result in:
+                                     of the environmental assumptions made.
+                                                                                                 •    Proving that the operation will not have a material impact on the Natura
+                                                                                                      2000 area; and/or
+                                                                                                 •    Demonstrating that mitigation measures can be applied; and/or
+                                                                                                 •    Concluding that environmental offsetting (Natura offsetting) can be applied
+                                                                                                      as adequate compensation; or
+                                                                                                 •    Determining that responsible mining is not feasible.
+                      Bulk density   Whether assumed or determined. If assumed, the basis        Density measurements are available for SMS drilling only. There are 1109
+                                     for the assumptions. If determined, the method used,        density measurements in the Penouta database. Density determination was
+                                     whether wet or dry, the frequency of the                    undertaken by IDC Laboratory in Salamanca and in the core shed at Penouta by
+                                     measurements, the nature, size and representativeness       SMS employees. The following process was undertaken for determining the
+                                     of the samples.                                             density of samples:
+                                                                                                 •    Drill core samples weighed prior to drying (ms).
+                                                                                                 •    Drill core samples dried in a kiln and weighed upon completion of drying
+                                                                                                      (md).
+                                                                                                 •    Drill core samples weighed in water (mh).
+                                                                                                 Apparent (bulk) density was calculated as:
+                                                                                                 pb = prh*md / (ms – mh)
+                                                                                                 Where prh is the density of the water at 20°C = 998 kg / m3
+                                                                                                 Where samples were highly weathered, they were wrapped in plastic film prior
+                                                                                                 to weighing to preserve the sample.
+                                     The bulk density for bulk material must have been           The density measurement method adequately accounts for void spaces and
+                                     measured by methods that adequately account for void        moisture effects.
+                                     spaces (vugs, porosity, etc), moisture and differences
+                                     between rock and alteration zones within the deposit.
+                                     Discuss assumptions for bulk density estimates used in      Analysis of density sample statistics shows that weathering and the degree of
+                                     the evaluation process of the different materials.          kaolinisation are the main drivers of density variation. Weathering and
+
+
+
+
+                                                                                                 27
+                                                                                                   kaolinisation wireframes were used to classify density sample measurements
+                                                                                                   and assign mean density values to each weathering-kaolinisation group.
+
+                      Classification   The basis for the classification of the Mineral Resources   Classification is based on drillhole spacing criteria that consider the reliability of
+                                       into varying confidence categories.                         the input data, the style of mineralisation, geological and grade continuity, and
+
+
+
+
+r personal use only
+                                                                                                   reconciliation performance. Measured Resources are informed by 25m x 50-
+                                                                                                   100m spaced drilling, Indicated Resources by 50m x 100m spaced drilling and
+                                                                                                   Inferred Resources by 100m x 100m spaced drilling
+                                       Whether appropriate account has been taken of all           All relevant factors have been considered in the Mineral Resource classification.
+                                       relevant factors (ie relative confidence in
+                                       tonnage/grade estimations, reliability of input data,
+                                       confidence in continuity of geology and metal values,
+                                       quality, quantity and distribution of the data).
+                                       Whether the result appropriately reflects the               The classification reflects the Competent Persons view of the deposit.
+                                       Competent Person’s view of the deposit.
+                      Audits or        The results of any audits or reviews of Mineral Resource    The Mineral Resource estimate has been reviewed internally by SLR consulting
+                      reviews          estimates.                                                  and by the Penouta Project technical team.
+
+
+                      Discussion of    Where appropriate a statement of the relative accuracy      Factors that affect the relative accuracy and confidence of the Mineral
+                      relative         and confidence level in the Mineral Resource estimate       Resource estimate include spatial accuracy of the wireframe interpretation,
+                      accuracy/        using an approach or procedure deemed appropriate           accuracy of the sample data (location and values), appropriateness of
+                      confidence       by the Competent Person. For example, the application       estimation parameters (including treatment of high-grade values), and long-
+                                       of statistical or geostatistical procedures to quantify     term validity of price, cost and process recovery inputs to NSR cut-off value
+                                       the relative accuracy of the resource within stated         calculations and resource pit optimisation. The level of uncertainty in these
+                                       confidence limits, or, if such an approach is not deemed    items is lowest for the Measured Mineral Resource category and highest for the
+                                       appropriate, a qualitative discussion of the factors that   Inferred Mineral Resource category.
+                                       could affect the relative accuracy and confidence of the
+                                       estimate.
+                                       The statement should specify whether it relates to          The statement relates to global estimates.
+                                       global or local estimates, and, if local, state the
+                                       relevant tonnages, which should be relevant to
+                                       technical and economic evaluation. Documentation
+                                       should include assumptions made and the procedures
+                                       used.
+
+
+
+
+                                                                                                   28
+                      These statements of relative accuracy and confidence   The MRE was compared with plant feed data from a 6-month period. Plant feed
+                      of the estimate should be compared with production     grade was back-calculated from concentrate and tails grades, for which reliable
+                      data, where available.                                 analytical results exist (there is evidence of systematic errors in the Penouta
+                                                                             site laboratory analysis for production samples). The reconciled MRE grade is -
+                                                                             1% Sn, +6% Ta, +3% Nb and reconciled MRE tonnage is +3%. This performance
+
+
+
+
+r personal use only
+                                                                             is considered commensurate with the Measured and Indicated classification
+                                                                             applied to the material within the 6-month production volume.
+
+
+
+
+                                                                             29
+                        JORC UNIT DEFINITION TABLE
+
+
+                        Unit                   Name             Definition                   Common JORC Usage
+
+
+
+
+For personal use only
+                        g                      Gram             Basic metric unit of mass.   Used for precious metal
+                                                                                             contents in samples or
+                                                                                             concentrates.
+
+
+                        um                     Micrometre       One-millionth of a metre     Critical for P80 grind sizes
+                                                                ($10^{-6}$ m).               and mineral liberation
+                                                                                             studies.
+
+
+                        mm                     Millimetre       One-thousandth of a          Used for drill core
+                                                                metre ($10^{-3}$ m).         diameters and
+                                                                                             metallurgical grain size
+                                                                                             reporting.
+
+
+                        m                      Metre            SI unit of length.           Fundamental for drill
+                                                                                             depths, intercept widths,
+                                                                                             and spatial modelling.
+
+
+                        km                     Kilometre        One thousand metres          Used for regional
+                                                                ($1,000$ m).                 exploration scales and
+                                                                                             infrastructure distances.
+
+
+                        ha                     Hectare          $10,000$ square metres       Standard unit for reporting
+                                                                ($m^2$).                     tenement area and surface
+                                                                                             footprints.
+
+
+                        m³                     Cubic Metre      SI unit of volume.           Used for volume
+                                                                                             estimation of mineralized
+                                                                                             domains and tailings
+                                                                                             storage capacity.
+
+
+                        kt                     Kilotonne        One thousand metric          Standard unit for smaller
+                                                                tonnes ($1,000$ t).          Resource blocks or annual
+                                                                                             production.
+
+
+                        Mt                     Million Tonnes   One million metric tonnes    Standard unit for reporting
+                                                                ($1,000,000$ t).             major Mineral Resources
+                                                                                             and Ore Reserves.
+
+
+
+
+                                                                                     30
+                        ppm     Parts per Million    Equivalent to grams per   Used for grades of base
+                                                     tonne (g/t).              metals, REEs, or pathfinder
+                                                                               elements.
+
+
+
+
+For personal use only
+                        NSR     Net Smelter Return   Net revenue from sales    Often used as a "cut-off"
+                                                     minus costs.              grade metric in
+                                                                               polymetallic deposits.
+
+
+                        US$/t   USD per Tonne        Value in US Dollars per   Defines economic
+                                                     metric tonne.             "Modifying Factors" like
+                                                                               mining or processing costs.
+
+
+                        °C      Degrees Celsius      Metric unit of            Used in metallurgical tests
+                                                     temperature.              (e.g., leaching) and
+                                                                               geothermal reporting.
+
+
+
+
+                                                                         31

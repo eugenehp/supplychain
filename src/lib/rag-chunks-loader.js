@@ -17,7 +17,7 @@ export async function fetchRagChunkEntries(manifest) {
 
   const chunksUrl = manifest?.chunksUrl ?? '/rag/chunks.json';
   const res = await fetch(chunksUrl);
-  if (!res.ok) throw new Error('RAG static index missing — run `npm run pipeline`');
+  if (!res.ok) throw new Error('RAG static index missing — run `npm run rag`');
   const chunksData = await res.json();
   return chunksData.entries ?? [];
 }

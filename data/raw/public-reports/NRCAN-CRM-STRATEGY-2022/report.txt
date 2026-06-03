@@ -1,0 +1,2271 @@
+rare earth magnets. Nuclear power requires uranium. Electric vehicles require batteries
+made with lithium, cobalt and nickel and magnets. Indium and tellurium are integral to solar
+panel manufacturing.
+
+It is therefore paramount for countries around the world to establish and maintain resilient critical
+minerals value chains that adhere to the highest ESG standards. It is also important that we partner
+with Indigenous Peoples — including ensuring that long-term benefits flow to Indigenous communities.
+
+Canada is in the extremely fortunate position of possessing significant amounts of many of the world’s
+most critical minerals as well as the workers, businesses and communities that know how to scale up
+our exploration, extraction, processing, manufacturing and recycling of those minerals.
+
+Canada is a world leader in environmental, social and governance standards with respect to mining,
+with Canadian industry advancing important initiatives such as Towards Sustainable Mining. We are
+also home to almost half of the world’s publicly listed mining and mineral exploration companies, with
+a presence in more than 100 countries and a combined market capitalization of $520 billion.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy                1
+    The Government of Canada has worked to build on these advantages in the past several years. We
+    have invested in businesses and workers along the critical minerals value chain, such as the world’s
+    most sustainable potash mine in Saskatchewan, mining of rare earth elements in the Northwest
+    Territories and electric vehicle assembly in Quebec.
+
+    The government has also published the list of 31 minerals that Canada considers “critical” to signal to
+    domestic and international investors where we will focus our efforts, and we have signed cooperation
+    agreements with allies to advance this work together.
+
+    Now, I am pleased to release Canada’s Critical Minerals Strategy. This Strategy, backed by nearly
+    $4 billion in Budget 2022, sets out a course for Canada to become a global supplier of choice for
+    critical minerals and the clean digital technologies they enable.
+
+    It sets the stage across the country for job creation, economic growth, the advancement of
+    reconciliation with Indigenous Peoples and close cooperation with Canada’s allies — all in line with
+    Canadian and international climate and nature protection objectives.
+
+    The Critical Minerals Strategy is the roadmap to seizing a generational opportunity. A roadmap to
+    creating significant wealth and sustainable jobs in every region of this country. And a roadmap to
+    making Canada a clean energy and technology supplier of choice in a net-zero world.
+
+    I look forward to working with Indigenous partners, labour groups, provinces, territories, industry and
+    stakeholders in the implementation of this Strategy in the years to come.
+
+
+
+
+    The Honourable
+    Jonathan Wilkinson,
+    Minister of Natural Resources
+
+
+
+
+2       The Canadian Critical Minerals Strategy
+Foreword from the Minister of Innovation, Science
+and Industry
+The global clean energy transition is under way, and it represents the largest economic transformation
+since the Industrial Revolution. Canada is poised to seize this generational opportunity—particularly in
+the critical minerals sector, from mining to refining and from manufacturing to recycling.
+
+Critical minerals are essential to Canada’s strategic industries. They are at the heart of key sectors
+that drive our economy, including agriculture, manufacturing, artificial intelligence, clean technologies,
+electric vehicles, energy and much more. They are vital to our everyday lives, and they are essential
+inputs for the global energy transition, including for wind turbines, electric vehicle batteries, solar
+panels and semiconductors.
+
+As global demand for critical minerals skyrockets, Canada will be extremely well positioned to take
+advantage of this opportunity. Thanks to our wealth of critical minerals, our excellence in mining, our
+skilled labour and our innovation ecosystem, Canada will become the world’s green supplier of choice
+for critical minerals.
+
+This is particularly true as we continue to strengthen critical minerals supply and promote innovation
+and sustainable practices across critical minerals value chains. We are doing this in a way that
+supports regional economic growth; creates a more inclusive and highly skilled workforce; and
+upholds and strengthens our leading environmental, social and governance standards.
+
+Canada’s leadership in this space has never been more important. The fragility of global supply chains
+is motivating governments and companies around the world to assess their supply chain resilience
+for commodities and manufactured goods. It is increasingly clear that Canada can—and will—be
+the solution.
+
+Through the Canadian Critical Minerals Strategy, we are putting our vision into action. We will
+incentivize new connections and linkages across Canada’s upstream and downstream critical minerals
+value chains, allowing us to build a strong critical minerals ecosystem while supporting leading-edge
+digital, clean technology and advanced manufacturing sectors. This strategy will help create and
+support hundreds of thousands of well-paying jobs across the country, and it will cement Canada’s
+position as a leader in the low-carbon economy. Together, we must be bold, we must be ambitious,
+and we must seize the moment.
+
+
+
+
+The Honourable
+François-Philippe Champagne,
+Minister of Innovation, Science and Industry
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy               3
+      OVERVIEW
+      Vision
+      The Canadian Critical Minerals Strategy will increase the supply of
+      responsibly sourced critical minerals and support the development of
+      domestic and global value chains for the green and digital economy.
+
+
+
+
+4   The Canadian Critical Minerals Strategy
+Summary
+Critical minerals represent a generational opportunity for Canada’s workers, economy, and net-
+zero future. They are the foundation on which modern technology is built. From solar panels to
+semiconductors, wind turbines to advanced batteries for storage and transportation, the world needs
+critical minerals to build these products. Simply put, there is no energy transition without critical
+minerals, which is why their supply chain resilience has become an increasing priority for advanced
+economies. By growing Canadian expertise at every point along the critical mineral value chain — from
+mining to manufacturing to recycling — we will create good jobs, build a strong, globally competitive
+Canadian economy, and take real action to fight climate change. As a result of this strategy, we will
+also better position Canada as a reliable supplier of critical mineral resources to our allies.
+
+The global demand for critical minerals and the manufactured products they go into is required to
+increase significantly in the coming decades to enable transition to a green and digital economy.
+Current forecasts show supply deficits if critical mineral production, processing and recycling
+are not increased. At the same time, the production and processing of many critical minerals are
+geographically concentrated, making supply vulnerable to economic, geopolitical, environmental, and
+other risks. With its vast resources and manufacturing capacity, Canada is well positioned to become
+a secure and reliable supplier of critical minerals and value-added products for global markets.
+
+Growing our supply of critical minerals and the products they go into presents a generational
+opportunity with domestic and global benefits. To fully seize this opportunity, we must ensure that
+value is added to the entire supply chain, including exploration, extraction, intermediate processing,
+advanced manufacturing, and recycling. We must create the necessary conditions for Canadian
+companies to grow, scale-up, and expand globally in markets that depend on critical minerals.
+Our efforts must be consistent with Canada’s priorities and objectives including environmental
+protection and conservation, safe and responsible labour practices, and respect for the rights of
+Indigenous peoples.
+
+By growing and building our expertise at each point along the critical mineral supply chain, Canada
+can grow its economy from coast to coast to coast, fight climate change at home and around the
+world, and improve the resiliency of our supply chain and those of our allies to future disruptions.
+Importantly, this must be done in a way that advances the Government of Canada’s commitment
+to reconciliation with Indigenous peoples through meaningful consultation, early and ongoing
+engagement, investments in capacity supports, environmental stewardship, community safety, and
+economic opportunities for Indigenous peoples.
+
+In addition, critical mineral development needs to be sustainable and create nature-forward outcomes
+with minimal environmental footprint and leading-edge conservation and reclamation practices (i.e.,
+mine closure). A “nature forward” approach to critical minerals development and sourcing means
+incorporating practices that work to prevent biodiversity loss, protect species at risk , and support
+nature protection. Innovative ways to capture value from alternative sources and waste streams,
+recycling technologies, and traditional Indigenous conservation practices are all examples of “nature
+forward” solutions.
+
+The Canadian Critical Minerals Strategy will empower businesses, workers, and communities across
+Canada to seize this generational opportunity. Accelerating the development of Canada’s critical
+mineral sector, while ensuring environmental sustainability and respecting the rights of Indigenous
+peoples, is essential if Canada is to seize upon this generational opportunity and position itself as a
+stable supplier of critical minerals, both at home and abroad.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy            5
+      Objectives
+      Canada’s whole-of-government approach to critical mineral development will be collaborative,
+      forward-looking, iterative, adaptive, and long-term. The initiatives presented in this Strategy will
+      be implemented and refined in collaboration with provincial, territorial, Indigenous, industry, and
+      other Canadian and international partners. They will be updated, as needed, to respond to shifts
+      in domestic and global markets, technologies, and geopolitical considerations. As such, this
+      Strategy will help lay the foundation for Canada’s industrial transformation towards a greener,
+      more secure, and more competitive economy.
+
+      The Canadian Critical Minerals Strategy addresses five core objectives:
+
+
+
+
+                           2. Promoting                         4. Fostering
+                              climate                           diverse and
+                            action and                            inclusive
+      1. Supporting       environmental        3. Advancing    workforces and   5. Enhancing
+    economic growth,        protection;        reconciliation communities; and global security
+    competitiveness,                          with Indigenous                 and partnerships
+    and job creation;                             peoples;                       with allies.
+
+
+
+
+      These objectives will be achieved by focusing on six areas of focus:
+
+          1. driving research, innovation, and exploration;
+
+          2. accelerating project development;
+
+          3. building sustainable infrastructure;
+
+          4. advancing reconciliation with Indigenous peoples;
+
+          5. growing a diverse workforce and prosperous communities; and
+
+          6. strengthening global leadership and security.
+
+
+
+
+6       The Canadian Critical Minerals Strategy
+The success of Canada’s critical mineral development is tied to the active participation of Indigenous
+peoples, achieved by integrating diverse Indigenous perspectives through ongoing engagement,
+collaboration, and benefits-sharing. Indigenous peoples are the stewards, right holders and, in some
+cases, title holders to the land upon which mineral and industrial development takes place. The
+Government of Canada is renewing relationships with Indigenous peoples through the implementation
+of the United Nations Declaration on the Rights of Indigenous Peoples Act (UNDA), which came into
+force on June 21, 2021. The Act provides a clear vision for the future to ensure that federal laws reflect
+the standards set out in the Declaration, while also respecting Aboriginal and Treaty rights recognized
+and affirmed in the Constitution and seeking to secure free, prior, and informed consent for natural
+resource projects, including critical mineral development.
+
+The Strategy also emphasizes the conservation and protection of Canada’s natural environment, as
+well as the promotion of climate action by supporting the transition to a greener economy at home
+and around the world. Mining and related activities can have significant impacts on communities
+and ecosystems. Canadians place great value on public health and safety, air and soil quality, and
+wildlife and habitat preservation. Through this Strategy, Canada will leverage its industrial expertise
+in environmental, social and governance (ESG) frameworks to develop critical minerals with minimal
+environmental footprint, in accordance with some of the world’s most responsible regulations. In
+addition, the Strategy will help advance Canada’s circular economy by aiming to keep resources in
+circulation, minimizing industrial waste through recycling and other means, and thus contributing to an
+environmentally responsible and economically competitive critical minerals sector.
+
+The Canadian Critical Minerals Strategy complements the vision, principles, and strategic directions
+of the Canadian Minerals and Metals Plan (CMMP), developed in collaboration with provinces and
+territories and founded on engagement with industry, Indigenous business representatives, and other
+stakeholders working to build a stronger, more competitive mining sector.
+
+
+
+
+What Are Critical Minerals?
+Canada and other countries have developed defined lists of critical minerals to guide investment and
+prioritize decision-making to support supply chains. Critical minerals can change with time based
+on supply and demand, technological development, and shifting societal needs. Some commonly
+recognized examples of critical minerals include lithium, nickel, cobalt, graphite, and zinc, among
+others. While these country-specific lists differ in their composition internationally, there is a shared
+view that critical minerals:
+
+     ¤ have few or no substitutes;
+     ¤ are strategic and somewhat limited commodities; or
+     ¤ are increasingly concentrated in terms of extraction and, even more, in terms of
+       processing location.
+There is significant overlap between jurisdictions due to the nature of global supply chains and shared
+challenges. For example, many critical minerals on Canada’s list are also included on lists by the
+United States, the European Union, the United Kingdom, South Korea, and Japan. A comparison of
+Canada’s list relative to those of our partners can be found in Annex E.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy               7
+                                  Did You Know?
+                                  Critical minerals are used in a variety of goods and
+                                  products, many of which can be found in our homes
+                                  and daily lives.
+
+
+
+
+                                                                            Solar Panel
+                                                                            e.g. Gallium.
+                                                                            Copper, Zinc
+
+
+
+      Electrical Wiring
+    e.g. Copper, Aluminum
+
+
+
+
+                                                                                            Electronics
+                                                                                            (Laptops, LED
+                                                                                            Monitors/TVs,
+                                                                                            Smartphones)
+                                                                                            e.g. Indium, rare
+                                                                                            earth elements
+Stainless Steel
+   Appliances
+    e.g. Manganese
+
+
+
+
+                                                                                                 Fertilizer
+                                                                                                 e.g. Potash
+
+
+
+                                    Electric Vehicle
+                            e.g. Lithium, nickel, cobalt,
+                                 graphite, manganese
+
+
+
+
+8         The Canadian Critical Minerals Strategy
+CRITICAL MINERALS IN CANADA
+Canada has a list of 31 minerals it currently considers to be “critical.” Developed in consultation with
+provincial, territorial, and industry experts, Canada’s Critical Minerals List provides greater certainty and
+predictability to investors, developers, communities, and trading partners on national priorities. To be
+deemed “critical” in Canada, a mineral must be
+
+    ¤ essential to Canada’s economic security and its supply is threatened; or
+    ¤ required for our national transition to a low-carbon economy; or,
+    ¤ a sustainable source of highly strategic critical minerals for our partners and allies.
+
+Canada already produces more than 60 minerals and metals and is a leading global producer of many
+of the critical minerals on our list, including nickel, potash, aluminum, and uranium. We have the
+potential to supply even more critical minerals to both domestic and international markets.
+
+Figure 1: Canada’s 31 Critical Minerals and Some of Their Uses
+
+
+
+
+Of Canada’s 31 critical minerals, six are initially prioritized in this Strategy for their distinct potential
+to spur Canadian economic growth and their necessity as inputs for priority supply chains. These six
+minerals are lithium, graphite, nickel, cobalt, copper, and rare earth elements (Annex B). While these
+minerals represent the greatest opportunity to fuel domestic manufacturing and will be the initial
+focus of federal investments, many other minerals present notable prospects for the future. Further,
+where critical minerals are not used solely for domestic manufacturing, there is value to be captured
+by increasing exports for allies, and expanding domestic refining, processing and components
+manufacturing. Examples of these minerals are vanadium, gallium, titanium, scandium, magnesium,
+tellurium, zinc, niobium, and germanium, along with potash, uranium and alluminum (Annex B).
+Canada’s list of 31 minerals, as well as the federal government’s priority value chains, will be reviewed
+and updated every few years.
+
+                                                         The Canadian Critical Minerals Strategy                9
+     Foundations for a Competitive, Sustainable Economy
+     Critical minerals are the building blocks for the green and digital economy. They are used in a wide
+     range of essential products, from mobile phones to solar panels, electric vehicle batteries to medical
+     and healthcare devices, to military and national defence applications. Without critical minerals, there
+     can be no green energy transition for Canada and the world. By investing in critical minerals today, we
+     are building a sustainable industrial base to support emission-reducing supply chains that will address
+     climate change for generations to come (e.g., net-zero energy and transportation systems).
+
+     Growth in green and digital applications is expected to boost the global demand for many critical
+     minerals. According to the International Energy Agency, the energy sector’s overall needs for critical
+     minerals could increase by as much as six times by 2040. The North American zero-emission vehicle
+     (ZEV) market alone is estimated to reach $174 billion by 2030, creating more than 220,000 jobs in
+     mining, processing, and manufacturing.
+
+     Based on a report by Clean Energy Canada, a battery supply chain in Canada could directly contribute
+     between $5.7 billion to $24 billion in GDP by 2030 annually, supporting between 18,500 and
+     81,000 direct jobs, depending on how quickly and ambitiously Canadian governments act. These
+     figures grow to between $15 billion and $59 billion in annual GDP contributions, and 79,000 and
+     333,000 jobs, when indirect and induced activities and jobs are included. Once realized, these
+     activities would contribute between $2.7 billion and $11 billion annually in combined federal and
+     provincial government revenues.
+
+
+     Canada’s Critical-Mineral-Rich Regions
+     Canada is endowed with enormous resource wealth spread across critical-mineral-rich regions
+     from coast to coast to coast, including rural, remote, and Indigenous communities. For example,
+     Canada is the only Western nation that has an abundance of cobalt, graphite, lithium, and nickel
+     — essential to creating the batteries and electric vehicles of the future. Canada is also the world’s
+     second-largest producer of niobium, an important metal for the aerospace industry, and the fourth-
+     largest producer of indium, a key input in semiconductors and many materials needed for advanced
+     vehicle manufacturing.
+
+     Figure 2: Critical Mineral Opportunities
+     Spanning All Regions of Canada
+
+
+
+
+10       The Canadian Critical Minerals Strategy
+Our preliminary analysis has identified several Canadian regions with high potential for mineral
+exploration and development in the near term. Recognizing that these regions are at different stages
+of development, ongoing analysis and engagement with provinces, territories, Indigenous peoples,
+and industry experts will be needed to further evaluate their potential and suitability for mineral
+development, as well as their connection to value chain and consideration of environmental aspects
+and Indigenous perspectives.
+
+
+Defining the Value Chain: From Exploration to Recycling
+Value chains differ from supply chains. A value chain is the set of activities that add value at each stage
+of the production and delivery of a product to market (e.g., a product upgrade or process innovation).
+Value chains tend to improve an industry’s competitive advantage. A supply chain, on the other hand, is
+a related concept pertaining to the organization and logistics of getting a product to market.
+
+Building on the success of Canada’s Mines to Mobility approach — which has attracted major
+investments in the manufacturing of zero-emission vehicles — this Strategy focuses on critical mineral
+exploration to recycling. It goes beyond the foundation established from Mines to Mobility by building
+capacity at each stage of the value chain, from exploration to recycling, and everything in between.
+
+The value chain for critical minerals includes five segments: geoscience and exploration; mineral
+extraction; intermediate processing; advanced manufacturing; and, recycling. An illustrative example of
+a critical mineral value chain is included below.
+
+Figure 3: The Value Chain of Critical Minerals Addressed in This Strategy: From Exploration
+to Recycling
+
+
+
+
+At present, the production and processing of many critical minerals are geographically concentrated,
+making global supply vulnerable to several risks. For example, recent geopolitical events, such
+as Russia’s invasion of Ukraine, highlight the fragility of critical mineral supply and the need for
+Canada’s partners and allies to diversify their sources. By ramping up critical mineral production and
+strengthening their affiliated value chains, Canada and its trusted international partners can reduce their
+dependency on high-risk imports as demand forecasts outpace mineral supply and investment plans.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy                11
+     Value Chains With High Potential for National Integration
+     To build competitive value chains in Canada, different stages of the industrial process need to
+     be nationally integrated. For example, instead of exporting mineral resources to be processed in
+     foreign countries and reimported as final goods or inputs for domestic manufacturing, Canada
+     can build industrial ecosystems where all stages of the value chain are available and integrated
+     domestically, and with trading partners. Minerals extracted in the Territories could be processed in
+     the Prairies to supply manufacturing operations in other regions of Canada. Industrial suppliers and
+     consumers along the value chain could invest in Canada with greater confidence, in partnership with
+     governments, communities and regional development organizations across the country.
+
+     The following value chains have the highest potential for such integration in Canada:
+
+             ¤ Clean technologies, which include zero-emission vehicles (ZEV), wind turbines, solar
+               panels, advanced batteries, hydrogen fuel cells, small modular reactors;
+
+             ¤ Information and communication technologies, including semiconductors;
+
+             ¤ Advanced manufacturing inputs and materials, such as defence applications,
+               permanent magnets, ceramics, high value-added metals, electronic materials,
+               composites, polymers, and biomaterials.
+
+     These value chains offer the greatest potential for economic growth and employment across the
+     country. The critical mineral resources needed to build their end products tend to be underdeveloped
+     in Canada, and thus would benefit from government funding to further strengthen the
+     competitiveness of our mining and manufacturing sectors. Developing critical minerals for the green
+     and digital economy is also expected to catalyze foreign direct investment (FDI), helping to create
+     more resilient supply chains. It is in Canada’s advantage to work with allies to pursue increased
+     resiliency in our value chains, which will further enhance our country’s ability to attract investment.
+     Annex B presents more information on the critical minerals implicated in Canada’s high-potential
+     value chains.
+
+     As we build new value chains in Canada, we will continue to strengthen and consolidate our existing
+     position as a strong, sustainable producer and global supplier of leading Canadian minerals and
+     metals, like potash, uranium, and aluminum — all critical to the global economy. Whether they
+     represent opportunities in low-carbon energy and electrification, healthcare, green buildings, or food
+     security, we recognize that these minerals are central to Canada’s economic well-being, trading
+     relationships, and strategic global position. Canada’s Trade Commission Services will be a key
+     partner in helping Canadian firms find international business opportunities in these value chains
+     across the world.
+
+
+
+
+12      The Canadian Critical Minerals Strategy
+Did you know?
+Canada has a pipeline of critical mineral projects in advanced stages of development.
+Canada currently ranks fifth globally in the production of graphite and nickel and is an
+emerging supplier of many other critical minerals. In 2021, 11% of globally mined nickel and
+24% of globally mined graphite were used in batteries. We are also primed to help address
+the world’s growing demand for lithium.
+
+Canada is the world’s largest producer and exporter of potash, which is primarily used to
+produce fertilizer. In 2021, Canada accounted for 31% (22.5 million tonnes) of the world’s
+total potash production and 38% (21.6 million tonnes) of the world’s total potash exports.
+With the war in Ukraine having created uncertainty about potash supply coming out of
+eastern Europe, Canadian firms are increasing their production for this essential input for
+global food security.
+
+
+
+
+Sustainable Development and the Circular Economy
+This Strategy recognizes Canadian priorities such as human rights, section 35 Aboriginal
+and treaty rights, climate action, inclusive trade, and the eradication of forced labour. It aims
+to advance and promote environmental, social, and governance (ESG) priorities across the
+critical mineral value chain, including support for industry-led approaches such as the Mining
+Association of Canada’s (MAC) Towards Sustainable Mining initiative, and international standard-
+setting bodies, such as the International Standards Organization. ESG considerations are
+becoming increasingly prominent in business and investment decisions. For example, automotive
+firms have shown heightened interest in ESG frameworks as they transition away from
+combustion engines towards increased production of electric vehicles. Many mining companies
+have been implementing their own net-zero objectives, including investments in green technology
+and process innovations.
+
+As we work to reduce the greenhouse gas emissions (GHGs) of end products and improve
+responsible business practices, markets, investors, and consumers are increasingly demanding
+more sustainable practices throughout the value chain. In addition, Canada is seeking to advance
+efforts that support human rights through collaboration on transparency and traceability in
+the critical mineral supply chain, as under Canada’s Extractive Sector Transparency Measures
+Act (ESTMA), and through participation in international activities like the Extractive Industries
+Transparency Initiative. There has also been increased recognition that Indigenous perspectives
+must be better integrated into ESG standards and ratings to ensure investor certainty while
+advancing economic reconciliation in Canada’s mining and manufacturing sectors.
+
+
+
+
+                                                 The Canadian Critical Minerals Strategy            13
+     The global transition to a greener future is expected to increase the volume of end-of-life clean and
+     digital technologies. For that reason, this Strategy will advance circular solutions to close material
+     loops, increase access to the minerals and metals contained in post-consumer goods through
+     robust recycling infrastructure and secondary markets, and encourage their recovery from mining
+     and industrial waste streams. Circularity will ensure that Canada retains the benefits from the
+     extraction of its critical minerals for decades to come, capitalizing on an industrial segment with
+     untapped potential. As such, it will further cement Canada’s leadership in sustainable industrial
+     practices and ESG frameworks.
+
+     Canada’s 2030 Agenda National Strategy, Moving Forward Together, aims to implement the
+     Sustainable Development Goals (SDGs) and highlight Canada’s commitments to promoting and
+     protecting human rights, and leveraging fair and inclusive trade to raise incomes and broaden its
+     benefits for underrepresented groups, such as women and Indigenous peoples. Promoting and
+     encouraging responsible business conduct and proactively addressing risks provides businesses
+     with a stronger social license to operate when facing potential legal, political, and social challenges.
+     Canadian companies active in Indigenous lands are expected to follow established international
+     frameworks and guidelines such as the United Nations Declaration on the Rights of Indigenous
+     Peoples (UNDRIP), the UN Guiding Principles and the OECD Guidelines for Multinational
+     Enterprises. Canada’s expectation for responsible business conduct and due diligence can be
+     found in Canada’s strategy for Responsible Business Conduct Abroad.
+
+
+
+
+14      The Canadian Critical Minerals Strategy
+CANADA’S OPPORTUNITY
+AND OBJECTIVES
+The generational opportunity presented by critical minerals is defined by five core objectives, which, if
+achieved, will indicate that Canada has successfully seized the opportunity before it.
+
+
+
+
+Canada’s Competitive Advantage
+   ¤ A developed industry with world class mineral resource wealth. In 2021, the minerals
+     sector directly and indirectly contributed $125 billion or 5% of Canada’s total nominal GDP.
+
+   ¤ Strong environmental, social, and governance (ESG) credentials. The Mining Association
+     of Canada’s (MAC) Towards Sustainable Mining initiative (TSM) is globally recognized for
+     supporting companies in managing environmental and social risks. TSM is mandatory for all
+     MAC members operating in Canada.
+
+   ¤ Long-standing mining expertise with extensive technology and mining capabilities.
+     Canada has a robust network of research and development labs that continually advance
+     science and technology in a competitive mining sector.
+
+   ¤ Established advanced manufacturing sector. Canada’s manufacturing sector employed
+     approximately 1.7 million Canadians in 2019, representing about 10% of the national economy.
+     Canada is also the 6th largest commercial vehicle manufacturer in the world.
+
+   ¤ Abundant clean energy resources. According to the Canada Energy Regulator, 75% of our
+     national electricity in 2019 was generated from hydro, nuclear, wind, and solar combined.
+
+   ¤ Open economy and governance structure. Canada is one of the leading mining countries
+     in the world and one of the largest producers of minerals and metals. Valued at $102 billion in
+     2020, mineral exports accounted for 21% of Canada’s total domestic exports.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy              15
+     What does success look like?
+     Objective 1: Support economic growth and competitiveness.
+        ¤ High-quality and paying jobs are created in the critical minerals exploration, mining,
+          processing, manufacturing, and recycling sectors, with Canadian SME’s accounting for a
+          significant share of the market.
+
+        ¤ Canada’s economic resiliency is improved by reducing its dependency on key sourcing
+          countries for inputs and manufactured goods.
+
+        ¤ Critical mineral supply chains among trusted partners are made more resilient thanks to
+          increased Canadian supply.
+
+        ¤ Economic growth is sustained and enhanced through the anticipated increase in value-
+          added and GDP growth (e.g., global market share), as well as regional economic development
+          initiatives, including in rural, remote, and Indigenous communities.
+
+        ¤ Trade is increased through reliable exports of processed materials and value-added goods.
+
+        ¤ Value is added by developing, expanding, and integrating Canadian value chains, including
+          midstream processing and the circular economy (e.g., through recycling and extracting value
+          from mining waste) and increasing the participation of domestic SMEs.
+
+        ¤ Foreign Direct Investment (FDI) is attracted, enhancing all the factors above while also
+          increasing capital and investment in R&D, leading to innovation, technological advancement,
+          improved productivity, and increased exports.
+
+
+
+     Objective 2: Promote climate action and strong
+     environmental management.
+     Recognizing that sustainable critical mineral development is indivisible from our net-zero objectives,
+     Canada wants to advance “nature forward” approaches, which seek to incorporate practices that
+     prevent biodiversity loss, protect species at risk and support nature protection.
+
+        ¤ Nature and biodiversity-related commitments and standards are upheld by limiting the
+          environmental footprint of mining activities and advancing exemplary ESG standards, including
+          conservation and reclamation practices that prevent the loss of biodiversity.
+
+        ¤ GHG emissions are reduced through the deployment of clean technologies and low-emission
+          industrial processes, in line with Canada’s Emissions Reduction Plan.
+
+        ¤ Waste is reduced, end-of-life products are reused, and their mineral content recycled by
+          means of innovative technologies and processing techniques (e.g., mining value from tailings,
+          recycling wastewater, reuse of chemicals).
+
+        ¤ Indigenous Knowledge is respectfully incorporated into considerations for sustainable
+          critical mineral development, in line with the new Indigenous Knowledge Policy Framework for
+          Project Reviews and Regulatory Decisions, as well as Indigenous guardian programs.
+
+
+
+
+16      The Canadian Critical Minerals Strategy
+Objective 3: Advance reconciliation with Indigenous peoples.
+While Indigenous leadership and communities across the country will determine how they view success
+regarding critical mineral development on or near their territories, the Government of Canada will start with
+the following outcomes:
+
+   ¤ Economic reconciliation is prioritized by enhancing Indigenous participation in jobs, businesses,
+     and ownership of mining and enabling infrastructure projects and sharing direct benefits from critical
+     mineral development. Indigenous communities will directly benefit from critical mineral development
+     through the development and implementation of a National Benefits Sharing Framework which will
+     ensure that First Nations and Métis communities can directly benefit from major resource projects in
+     their territories and that Inuit communities benefit from major resource projects in Inuit Nunangat.
+
+   ¤ Aboriginal and treaty rights are respected through early, meaningful, and ongoing engagement
+     with Indigenous peoples, from project conception to development and oversight, and through robust
+     and inclusive regulatory processes. More specifically, the federal government will respect section
+     35 rights; honour the spirit and intent of historic and modern treaties; facilitate more opportunities
+     for Indigenous-led planning and decision-making around land use and development; mitigate
+     environmental impacts and address their cumulative effects; and support UNDA implementation by
+     championing UNDA principles around working together in partnership and respect.
+
+   ¤ Responsible critical mineral development contributes to the socio-economic well-being of
+     Indigenous communities by ensuring that Indigenous women, girls and 2SLGBTQQIA+ people are
+     safe and secure, and derive equitable benefits from critical mineral projects. The federal government
+     will work to facilitate Indigenous access to jobs in the mining sector and will engage Indigenous
+     peoples on decisions related to critical mineral projects.
+
+
+Objective 4: Foster diverse and inclusive workforces and communities.
+   ¤ Diversity and inclusion in the workforce are enhanced, particularly for women, youth,
+     2SLGBTQQIA+, Indigenous peoples, recent immigrants, Black and racialized communities, and
+     persons with disabilities.
+
+   ¤ Human rights are upheld through Canada’s commitment to the SDGs and expectations for
+     responsible business conduct and due diligence throughout the supply chain.
+
+   ¤ Leading professionals are trained and upskilled by leveraging existing government initiatives,
+     such as the Youth Employment Strategy, the Centre on Diversity and Inclusion, and the Rural
+     Economic Development Strategy to create and sustain high-quality jobs.
+
+
+
+Objective 5: Enhance global security and partnership with allies.
+   ¤ Cooperation agreements are advanced through bilateral and multilateral forums with a view of
+     protecting critical mineral supply chains among trading partners and like-minded nations.
+
+   ¤ Investment attraction is enhanced by protecting Canadian assets while encouraging foreign direct
+     investment under certain conditions.
+
+   ¤ International best practices are strengthened, including Environmental, Social, and Governance
+     (ESG) frameworks, as well as the protection of human rights, including Indigenous rights.
+
+
+
+
+                                                         The Canadian Critical Minerals Strategy                17
+18   The Canadian Critical Minerals Strategy
+STRATEGIC FOCUS AREAS
+AND INITIATIVES
+The Critical Minerals Centre of Excellence (CMCE), housed at Natural Resources Canada, leads the
+development and coordination of Canada’s policies and programs on critical minerals, in collaboration
+with federal, provincial, territorial, Indigenous, industry, non-governmental, and international
+partners. Federal initiatives and investments related to this Strategy will be advanced according to
+six focus areas: 1) Driving research, innovation, and exploration, 2) Accelerating responsible project
+development, 3) Building sustainable infrastructure, 4) Advancing reconciliation with Indigenous
+peoples, 5) Growing a diverse workforce and prosperous communities, and 6) Strengthening global
+leadership and security.
+
+
+1. Driving Exploration, Research & Development,
+and Innovation
+As a leading mining nation backed by a rich endowment of resources, Canada has vast opportunities
+when it comes to critical minerals. Exploration is the starting point if we are to make the most of this
+potential. To unlock these possibilities, we need to expand geoscience and exploration activities to
+find the deposits of the future, as locating critical minerals in Canada’s vast landmass is a complex
+endeavour. It requires advanced geoscience capabilities, including geological mapping, geophysical
+surveying, and scientific assessments and data. The next step is to be able to extract and process
+critical minerals sustainably. Canada will need to continue developing innovative technologies (e.g.,
+new conversion processes) and industrial practices that optimize efficiency, cost competitiveness, and
+environmental stewardship.
+
+Budget commitments from 2021 and 2022 cover different aspects of the critical minerals value chain,
+from exploration to processing and refining, to more advanced products.
+They include:
+
+
+
+                                                                                  $144.4
+                                                                                    million
+     $79.2                       30%                     $47.7                   for critical mineral
+                                                                                    research and
+
+      million
+                               Critical Mineral
+                              Exploration Tax             million                development, and
+                                                                                 the deployment of
+ for public geoscience       Credit for targeted         for targeted
+                                                                                  technologies and
+    and exploration           critical minerals;       upstream critical
+                                                                                materials to support
+   to better identify                                mineral R&D through
+                                                                                   critical mineral
+  and assess mineral                                  Canada’s research
+                                                                                  development for
+       deposits;                                             labs;
+                                                                                    upstream and
+                                                                                midstream segments
+                                                                                 of the value chain.
+
+
+
+
+                                                     The Canadian Critical Minerals Strategy               19
+     The federal government will invest in geological modelling and resource potential mapping
+     for both conventional and unconventional sources, which will help define and enhance our
+     collective knowledge of Canada’s critical minerals landscape. Discoveries of future mineral
+     wealth, particularly in rural, remote, and northern regions, will require advanced technologies at
+     the exploration stage to identify areas of highest potential, while minimizing exploration costs,
+     reducing the carbon footprint of exploration programs, and minimizing the environmental impact
+     on the landscape.
+
+     Information and data will be made publicly available to inform development considerations
+     for potential critical mineral projects and to support investment decisions across the supply
+     chain. This includes mobilizing knowledge in a manner that is culturally relevant to Indigenous
+     communities, thus supporting Indigenous evidence-based decision-making. Considered together
+     with other metrics, such as economic and technical feasibility, Indigenous partnerships, and
+     environmental, social, and governance priorities, reliable data at an early stage will help identify
+     exploration opportunities that offer the greatest potential economic benefit and lowest risk to the
+     natural environment.
+
+     In addition, Budget 2022 introduced a tax incentive to support exploration for certain critical
+     minerals. The Government of Canada’s proposed Critical Minerals Exploration Tax Credit, in
+     combination with the existing flow-through share program, will provide a significant incentive to
+     investors to support exploration for certain critical minerals in Canada.
+
+
+
+
+      Supporting Critical Mineral Exploration in Canada
+      To enable the exploration of critical minerals, a new 30 percent Critical Mineral Exploration
+      Tax Credit is being introduced that would be available to investors under certain flow-through
+      shares agreements to support specified exploration expenditures incurred in Canada. This
+      tax credit is applicable to specific critical minerals including nickel, lithium, cobalt, graphite,
+      copper, rare earth elements, vanadium, and uranium, among others.
+
+
+
+
+      Finally, the federal government leverages national labs and catalyzes private sector investment to
+      accelerate technological innovation in Canada’s critical minerals sector and associated industries,
+      thus enhancing competitiveness and environmental performance. Building on the momentum
+      of the Critical Minerals Research, Development and Demonstration Program launched in 2021,
+      we will scale up support to de-risk innovations through research, piloting, and deployment
+      to advance sustainable technologies and processes towards commercialization in identified
+      priority value chains. New innovation funding will focus on processing and refining technologies
+      needed to effectively and efficiently transform minerals from primary and secondary sources into
+      intermediate materials, including post-consumer waste (e.g., used batteries) and mining waste
+      (e.g., tailings).
+
+
+
+
+20    The Canadian Critical Minerals Strategy
+Industry partnerships will be crucial. We will support and directly work with the sector to facilitate the
+development and deployment of market-ready technologies and innovations (e.g., emerging mining
+electrification systems, processes to extract value from waste, etc.).
+
+Through a robust network of research and development labs, Canada has the science, technologies,
+and tools to be a leader in the development of critical minerals. Partnerships with the provinces
+and territories, Indigenous governments and organizations, academia, and research institutions, as
+well as industry stakeholders will be key to developing a sustainable pipeline of innovative mineral
+development projects in Canada. Recognizing potential opportunities in the critical minerals industry,
+this Strategy provides a targeted commitment to geoscience, exploration, and innovation which is
+unprecedented in the Canadian mining sector.
+
+
+
+
+  Summary and Next Steps
+      ¤ The federal government recognizes that investing in public geoscience is a key element to
+        identifying and assessing critical mineral resources in Canada.
+
+      ¤ Enabling exploration via targeted financial incentives for critical mineral exploration activities
+        in Canada will help reduce risks for proponents and help grow the sector. Supporting critical
+        mineral innovations, particularly in areas that enhance sustainability and environmental
+        performance, will unlock additional opportunities from the sector while protecting our
+        environment and enhancing our competitiveness.
+
+
+
+
+2. Accelerating Responsible Project Development
+To advance our transition to a net-zero economy, the federal government is providing financial
+and administrative support to accelerate the development of strategic projects in critical mineral
+mining, processing, manufacturing, and waste reduction (e.g., through recycling and mining value
+from waste). This support includes strategic investments to unlock potential in critical-mineral-
+rich regions, leveraging the resources and expertise of federal trade and business development
+organizations such as the Business Development Bank of Canada, Export Development Canada, and
+the Canadian Commercial Corporation. It also means capitalizing on existing programs such as the
+Strategic Innovation Fund (SIF), which is already making significant investments in the electric vehicle
+battery industries.
+
+Most critical mineral industrial projects require large upfront investments that are higher risk and may
+generate a slower return. For example, it can presently take anywhere from 5 to 25 years for a mining
+project to become operational, with no revenue until production starts. Domestic projects are also
+subject to rigorous federal and provincial/territorial regulatory assessments to meet Canada’s high
+environmental and social standards.
+
+
+
+
+                                                        The Canadian Critical Minerals Strategy              21
+     Budgets 2021 and 2022 include multiple initiatives to help accelerate
+     project development:
+
+
+
+
+                                                                                            $21.5
+                                                                                                million
+                    $1.5                                  $40                          to support the Critical
+                   billion                              million                          Minerals Centre of
+                                                                                       Excellence (CMCE) to
+            for the SIF to support                 to support northern
+                                                                                      develop federal policies
+          critical minerals projects,            regulatory processes in
+                                                                                      and programs on critical
+          with prioritization given to          reviewing and permitting
+                                                                                       minerals and to assist
+          advanced manufacturing,               critical minerals projects;
+                                                                                        project developers in
+          processing, and recycling                         and
+                                                                                       navigating regulatory
+                 applications.
+                                                                                       processes and federal
+                                                                                         support measures.1
+
+
+
+
+     The SIF will be one of the most significant direct funding mechanisms in Canada’s toolkit presented
+     under this Strategy. The SIF will help build world-class critical mineral value chains in which
+     prefabrication and manufacturing activities are done domestically by default. It will support projects
+     that decrease or remove reliance on foreign critical mineral inputs across a range of priority industrial
+     sectors or technologies. It will help grow Canada’s critical mineral value chains in areas of research,
+     development, extraction, processing, manufacturing and/or recycling. Finally, SIF investments will
+     favour critical mineral development opportunities that aim to reduce GHG emissions in Canada’s
+     critical mineral and manufacturing sectors.
+
+
+
+
+     Building on Mines to Mobility
+     In 2019, the federal government launched the Mines to Mobility initiative to build a sustainable battery
+     innovation and industrial ecosystem in Canada. To date, the initiative has attracted more than $7 billion
+     in announced investments to capture opportunities in the growing global battery market. It has led
+     to an increased interest in Canada’s value proposition in the battery sector, attracting notable global
+     players in the midstream and upstream segments of our domestic value chain. The federal government
+     will continue to support Canada’s battery ecosystem through the Canadian Critical Minerals Strategy
+     by building value chains that position Canada as a global leader in the innovative and sustainable
+     production of ZEV batteries.
+
+
+
+
+     This amount represents $10.9 million from Budget 2021 and $10.6 million from Budget 2022
+     1
+
+
+
+
+22       The Canadian Critical Minerals Strategy
+Investments Across the Battery Value Chain
+ Ford                           GM Canada                     THE LION
+ Investing
+                                                              ELECTRIC CO
+                                Investing $1 billion to
+ $1.8 billion to produce        transform CAMI Ingersoll      A manufacturer of all
+ Vs in Canada                   plant to EV commercial        electric medium and
+                                van plant                     heavy duty vehicles invests
+                                                              $285 million for a battery
+                                                              manufacturing plant and
+                                                              innovation centre in QC
+
+
+
+
+ Electra                        Vale                          NanoOne
+ Battery Materials              Concluded a prefeasibility    NanoOne acquires Johnson
+                                study to produce nickel       Matthey Battery Materials,
+ North America’s first cobalt
+                                sulfate in Bécancour, QC      enters into a joint production
+ refinery for battery metals
+                                                              agreement with BASF
+ announces plans to develop
+                                                              for CAM and announces
+ a second cobalt processing
+ facility in Canada in Quebec                                 $10 million strategic
+                                                              investment agreement with
+                                                              Rio Tinto
+
+
+
+ LGES and Stellantis            GM/POSCO                      BASF
+ JV for over $5 billion EV      $500 million joint venture    purchase of land in
+ battery plant in Windsor,      to produce cathode active     Bécancour for a future
+ Ontario                        materials in Bécancour, QC    cathode active materials
+                                                              production
+
+
+
+
+Stellantis                      Umicore                       Honda
+$3.6 billion to retool          $1.5 billion for cathode      to invest nearly
+Brampton and Windsor            active material and           $1.4 billion to retool its
+plants to produce               precursor cathode active      manufacturing operations
+EVs & fund Windsor              materials production in       in Alliston, Ont., to launch
+Automotive Research and         Ontario                       the next generation of
+Development Centre                                            hybrid-electric vehicles.
+
+
+
+
+                                                The Canadian Critical Minerals Strategy        23
+     The Government of Canada recognizes that to meet our ambitious climate and economic objectives
+     to transition to a net-zero economy, additional mechanisms must be in place to expedite and
+     facilitate strategic critical mineral projects from investment and funding opportunities, through
+     regulatory approvals and development, to production. We recognize that, although responsible
+     regulations are vital, complex regulatory and permitting processes can hinder the economic
+     competitiveness of the sector and increase investment risk for proponents. As such, the federal
+     government remains committed to sustainable economic development and environmental
+     protection, which go hand-in-hand, in collaborating with Indigenous peoples, as well as the
+     provinces and territories. We are committed to collaboration on impact assessments, informed
+     participation and decision-making, and high environmental standards for critical mineral projects.
+
+     We have heard that better coordination and harmonization is needed across all orders of
+     governments and throughout the impact assessment and regulatory/permitting processes, to avoid
+     duplication, streamline requirements, and ensure early Indigenous consultation and engagement in a
+     manner that respects the parameters of the United Nations Declaration on the Rights of Indigenous
+     Peoples Act. Regulatory certainty is a prerequisite for Canada’s economic competitiveness, which is
+     why the federal government is taking the following actions:
+
+        ¤ Mandating the Critical Minerals Centre of Excellence (CMCE) to assist project developers
+          navigate regulatory processes and federal support measures;
+
+        ¤ Convening Regional Energy and Resource Tables to align Canada’s federal, provincial, and
+          territorial approaches to regulatory and permitting processes for mining;
+
+        ¤ Reviewing Canada’s regulatory framework, in a working group that includes Natural
+          Resources Canada, the Impact Assessment Agency of Canada and other federal partners, to
+          identify opportunities for advancing clean growth projects (including critical minerals mines)
+          in a timely and predictable manner, while safeguarding the interests of Canadians, protecting
+          the environment, and respecting the rights of Indigenous peoples;
+
+        ¤ Exploring regulatory harmonization opportunities with our U.S. partners.
+
+     For major development projects where both federal and provincial impact or environmental
+     assessments are required, the Government of Canada is committed to meeting the objective of
+     “one project, one assessment” in its review of projects by working with other jurisdictions to reduce
+     duplication and increase efficiency and certainty in the regulatory process. The federal government
+     also recognizes that efficient, effective, and inclusive northern co-management regulatory regimes
+     are important to advance critical mineral projects in the distinct regulatory environment of northern
+     Canada. The meaningful participation and leadership of Indigenous peoples, including shared and
+     informed decision making, is integral to ensure that projects advance, and that Indigenous rights
+     and titles are upheld.
+
+     The CMCE will continue to act as the central coordination hub for critical mineral programs within
+     the federal government, assisting partners and stakeholders in navigating Canada’s regulatory
+     processes to advance project development. Recognizing the wealth of expertise that already
+     exists across the Canadian critical mineral sector, the CMCE will also strive to facilitate regional
+     engagement and connections within the sector and communicate industry information and
+     resources to further stimulate project development.
+
+
+
+
+24      The Canadian Critical Minerals Strategy
+Summary and Next Steps
+   ¤ Canada needs to act swiftly in capturing the generational opportunity presented by the growing
+     global demand for critical minerals to support the green and digital economy. The federal
+     government recognizes that predictable and efficient regulatory regimes are a prerequisite for
+     Canada’s economic competitiveness and is making efforts to streamline project assessments
+     and permits. Budgets 2021 and 2022 proposed multiple initiatives to help accelerate critical
+     mineral project development:
+
+       ¤ The $1.5 billion critical mineral envelope under the SIF will support advanced
+         manufacturing, processing, and recycling applications;
+
+       ¤ An allocation of $40 million will support northern regulatory processes in reviewing and
+         permitting critical mineral projects; and
+
+       ¤ The CMCE will use its $21.5 million in extension funds to provide a broad range of
+         programming support for the sector, in collaboration with implicated teams across the
+         federal government.
+
+
+
+
+3. Building Sustainable Infrastructure
+Strategic infrastructure investments are key to translating Canada’s critical mineral potential into
+reality and securing its position as a leading supplier of minerals and materials to fuel demand for
+clean energy technologies. Canada’s critical mineral sector has tremendous opportunities that remain
+underdeveloped. Critical mineral deposits are often located in remote areas with challenging terrain
+and limited access to enabling infrastructure such as roads or grid connectivity. The cost implications
+of this infrastructure deficit discourage investment and hinder the socio-economic development of
+local communities that welcome mineral development. It also increases the risks associated with
+economic and logistical feasibility, particularly with rising inflationary pressures and challenges in
+global supply chains.
+
+To address this, Budget 2022 includes a provision of up to $1.5 billion for infrastructure development
+for critical mineral supply chains, with a focus on priority deposits. The federal government is
+supporting the development of Canada’s critical minerals sector by investing in sustainable energy
+and transportation infrastructure to support industrial development, unlock priority mineral deposits,
+improve supply chain resiliency, and facilitate international trade. These investments will support
+Canadian economic development and trade by addressing gaps in enabling infrastructure to unlock
+priority mineral deposits. Additionally, investments would complement existing clean energy and
+transportation programming, including the Canada Infrastructure Bank (CIB), Transport Canada’s
+National Trade Corridors Fund (NTCF) and NRCan’s Smart Renewables and Electrification Pathways
+(SREPs) Program. The Strategy would align with other strategic federal investment mechanisms
+(e.g., the Strategic Innovation Fund), the potential for multi-user benefits to local communities,
+the advancement of Canada’s goals related to environmental protection, climate adaptation, and
+reconciliation with Indigenous peoples.
+
+
+
+
+                                                      The Canadian Critical Minerals Strategy             25
+     The Government of Canada recognizes that off-grid mining operations are heavily dependent on GHG
+     emitting energy sources for power, such as diesel, largely due to the lack of access to energy grids in
+     Canada’s northern and remote regions. Potential strategic investments in green energy infrastructure
+     would improve the environmental performance and sustainability of critical mineral development,
+     by integrating renewable and alternative energy solutions throughout the mineral value chain. These
+     potential investments would drive the industry’s competitiveness by reducing energy costs, while
+     advancing climate action by reducing the carbon footprint of industrial activities in environmentally
+     sensitive regions. They would also support improved quality of life and energy security for primarily
+     Indigenous communities in isolated and remote regions.
+
+     In regions with high critical mineral potential, there is a need address gaps in enabling energy
+     infrastructure. Addressing these gaps could be achieved through a range of investments including
+     small-scale green energy projects, leveraging, and expanding existing energy network capacity
+     (e.g., hydroelectricity generation and transmission lines), or by enabling innovative technologies
+     to decarbonize mineral development activities and reduce dependence on fossil fuels (e.g., wind,
+     hydrogen, small modular reactors). Given their lack of grid connectivity, northern and remote mining
+     operations are ideal for the integration of renewable and alternative energy sources to support
+     the electrification of mines, including wind, solar, hydrogen, and energy storage solutions. In
+     addition, some Canadian jurisdictions are looking into the potential of small modular reactor (SMRs)
+     technologies to fill energy supply needs of mine sites and communities, in addition to carbon capture,
+     utilization, and storage (CCUS) technology to reduce carbon emissions from existing energy systems.
+     Renewable and alternative energy solutions represent a strategic opportunity to advance Canada’s
+     critical mineral resources, while improving environmental performance by cutting GHG emissions.
+
+     Finally, Canada’s geography and underdeveloped land-based infrastructure across northern regions
+     create logistical challenges for industrial development and access to domestic and international
+     markets. Transportation infrastructure is a major catalyst for critical mineral development, particularly
+     in northern and remote areas. New infrastructure investments aimed at unlocking new mineral
+     projects in resource-rich regions — including roads, rail, and ports — are needed to help Canada’s
+     mining industry provide the minerals and metals required to reach net zero by 2050, in consultation
+     with Indigenous peoples and local communities. Enhancing Canada’s transportation infrastructure
+     in northern and remote regions represents a strategic opportunity to support broader economic
+     growth objectives, Canada’s Arctic sovereignty and national security, and reconciliation with
+     Indigenous peoples.
+
+     With critical minerals playing an integral role in supporting the global green energy transition,
+     Canadians expect the impacts of development on the environment to be managed responsibly.
+     Development impacts may include increased GHG emissions, loss of biodiversity and impacts to
+     freshwater and sensitive land-based and aquatic ecosystems. One-third of global peatlands are
+     located in Canada, spread over 1.1 million square kilometres or about 12% of Canada’s land area.
+     These wetland ecosystems have been identified as a key nature-based climate solution that act as
+     a natural carbon sink, and maintaining their integrity is essential to meeting national climate targets.
+     Concerns have also been raised over the long-term release of carbon resulting from disturbance
+     of peatlands, and the estimated 20-year timeframe to rehabilitate these wetland ecosystems. The
+     Government of Canada recognizes that there is a need to ensure that development includes measures
+     to mitigate these potential environmental impacts and ensure that Canada’s critical minerals sector is
+     developed sustainably.
+
+
+
+
+26      The Canadian Critical Minerals Strategy
+Summary and Next Steps
+  ¤ Budget 2022 proposed $1.5 billion for infrastructure development for critical mineral supply
+    chains, with a focus on priority deposits.
+
+  ¤ Strategic infrastructure investments in green energy and transportation are required to unlock
+    critical mineral regions, while also improving environmental performance and driving emissions
+    reductions in existing operations through electrification – enabling competitive development
+    of Canada’s critical mineral resources. Potential investments would compliment existing clean
+    energy and transportation programming, and consider alignment with other strategic federal
+    investment mechanisms.
+
+  ¤ Existing federal programming, such as the CIB, NTCF and SREPS, can help complement the
+    Strategy’s infrastructure investments.
+
+
+
+4. Advancing Reconciliation with Indigenous Peoples
+
+The Government of Canada’s efforts to advance critical mineral development will be based on
+respect for Aboriginal and treaty rights, as well as meaningful engagement, partnership, and
+collaboration with First Nations, Inuit, and Métis peoples and governments. The development
+of critical mineral value chains presents a significant opportunity to grow the Indigenous
+economy through jobs, businesses, services, and ownership opportunities. As Canada seeks
+to advance reconciliation with Indigenous peoples, we recognize that this Strategy will need to
+evolve to address key initiatives, like the implementation of UNDA, and emerging priorities from
+Indigenous partners.
+
+
+
+Indigenous peoples are the stewards, rights holders, and in many cases, title holders to the land
+upon which mineral resources are located. Historically, Indigenous peoples have not always
+benefited from natural resource development on their traditional territories, and some developments
+have caused adverse environmental and social impacts on communities. However, over the past
+few decades, Indigenous participation in the mining sector has grown significantly and there has
+been a greater emphasis on advancing development in a socially, economically, and environmentally
+responsible manner. With the majority of current and future critical mineral projects located on or
+near Indigenous territories, the Government of Canada is dedicated to working with Indigenous
+peoples to invest in their leadership in critical mineral value chains and to ensure that they benefit
+from these projects through meaningful engagement and partnership with industry and governments.
+It is important that decisions related to critical mineral development not only advance and respect
+Aboriginal and treaty rights to lands, territories, and resources, but also embody Indigenous land
+stewardship principles and self-determined priorities of communities.
+
+Indigenous peoples are important partners in Canada’s mining industry. The mining sector is the
+second-largest private sector employer of Indigenous peoples in Canada and provides skills and
+employment training, contracting opportunities, job guarantees, and community investments. Many
+Indigenous-owned businesses are involved in the mining supply and services sector, delivering
+goods and services to mining companies and generating significant economic benefits for their
+communities. We have heard from mining stakeholders that industry is committed to building
+
+
+
+                                                    The Canadian Critical Minerals Strategy              27
+     strong, progressive relationships with First Nations, Inuit, and Métis peoples across Canada through
+     early engagement, collaboration, and the development of mutually beneficial partnerships. This
+     commitment is supported by industry efforts to respond to the Truth and Reconciliation Commission’s
+     Call to Action 92 for the corporate sector by developing protocols related to engagement and
+     relationship-building with Indigenous communities. It is also supported by the fact that more
+     than 500 agreements between Indigenous communities and industry have been signed since the
+     year 2000.
+
+     While the Government of Canada recognizes that critical mineral development in Canada offers an
+     opportunity to build on successful Indigenous-industry partnerships, we know that the sector must
+     continue to evolve and create new pathways to help advance reconciliation with Indigenous peoples.
+     We have heard serious concerns regarding the social, environmental, and gendered risks of critical
+     mineral development on or near Indigenous communities, the potential impacts and cumulative
+     effects of critical mineral development on Aboriginal and treaty rights, and the health and safety of
+     Indigenous peoples, as well as lands, waters, wildlife, and local food sources. Additionally, Indigenous
+     peoples continue to face systemic barriers to their participation and leadership in the sector. Barriers
+     commonly cited include economic, business, and community skills and capacity gaps; a need for
+     more Indigenous-led research and inclusion of traditional knowledge; access to competitive capital
+     for equity participation; and, a need for inclusion in planning, participating, and decision-making
+     throughout the project lifecycle from exploration to reclamation. The Government of Canada will work
+     collaboratively with Indigenous peoples to address these barriers and ensure that benefits are derived
+     from responsible critical mineral development.
+
+
+
+     Indigenous Engagement on this Strategy
+     Through submissions and discussions with First Nations, Inuit, and Métis peoples on the Critical
+     Minerals Strategy, we heard that additional meaningful engagement is required to ensure that
+     Indigenous peoples’ priorities and concerns with respect to critical mineral value chains in Canada
+     are reflected in the implementation of this Strategy. Canada is at an important juncture for advancing
+     reconciliation, including in the minerals and metals sector, which must be done through ongoing
+     dialogue and impactful, collaborative actions with Indigenous peoples. While this Strategy is a high-
+     level frame for current critical mineral investments and principles, the Government of Canada is
+     committed to developing specific actions in collaboration with Indigenous communities over the
+     course of the Strategy’s implementation under four broad themes:
+
+        ¤ Facilitating meaningful Indigenous participation and partnerships in critical minerals projects;
+
+        ¤ Respecting Aboriginal and treaty rights;
+
+        ¤ Advancing economic reconciliation; and,
+
+        ¤ Supporting safe and secure communities throughout the critical mineral project lifecycle.
+
+
+
+
+28      The Canadian Critical Minerals Strategy
+Indigenous peoples should be able to derive equitable economic benefits throughout the critical
+mineral value chain — from mineral exploration and extraction to material processing, manufacturing,
+and recycling. Indigenous leaders across Canada have signalled that there is strong interest in
+seeking ownership stakes in critical mineral projects and related infrastructure (e.g., renewable energy
+generation, transmission options, community-focused infrastructure, and roads). However, the high
+borrowing costs required to obtain financial capital can make equity ownership in critical mineral
+projects uneconomical for many Indigenous groups.
+
+The Government of Canada will work with Indigenous communities and industry to address
+these challenges and ensure that Indigenous peoples are active partners throughout the entire
+value chain of responsible critical mineral development in Canada. The government will continue
+to honour treaty obligations; uphold the duty to consult, with the aim of securing the free, prior,
+and informed consent of Indigenous peoples; and, move beyond legal obligations by strengthening
+Indigenous participation and leadership in the sector. In addition:
+
+   ¤ Budget 2022 allocates $103.4 million to advance economic reconciliation through enhanced
+     readiness to meaningfully participate in the natural resource sector, including at least
+     $25 million to support Indigenous participation and early engagement in the Critical Minerals
+     Strategy. Funding is available through the Indigenous Natural Resource Partnerships Program,
+     which funds activities that help increase the economic participation of Indigenous peoples in
+     natural resource projects. The Program is accessible to Indigenous communities, businesses,
+     and organizations.
+
+   ¤ The Government of Canada is developing a National Benefits Sharing Framework to help
+     ensure Indigenous communities directly benefit from major resource projects in their territories.
+     Engagement on the development of the Framework is ongoing. The federal government is
+     committed to co-developing aspects of the Framework with Indigenous peoples, communities,
+     and businesses to ensure it reflects Indigenous priorities.
+
+   ¤ The federal government will leverage Indigenous labour market programs to provide
+     Indigenous skills training and employment support, such as the Skills and Partnership Fund,
+     while continuing to foster mineral literacy partnerships with Indigenous communities and
+     organizations to support greater Indigenous participation in mining through the Canadian
+     Minerals and Metals Plan.
+
+   ¤ Recognizing the value of Indigenous science and knowledge systems and their role in
+     broadening our collective understanding of Canada’s natural resources, the federal
+     government will continue to prioritize robust, meaningful engagement with
+     Indigenous communities for geoscientific information and research, drawing on
+     Traditional Knowledge.
+
+   ¤ The Government of Canada will also update its existing guidance on Indigenous participation
+     in mining and its map of Indigenous mining agreements to foster a mutually beneficial climate
+     between Indigenous peoples and industry.
+
+   ¤ In 2022-23, Natural Resources Canada will convene a roundtable on the Missing and
+     Murdered Indigenous Women and Girls (MMIWG) five Calls for Justice with Indigenous and
+     industry partners, including the mineral and metal sectors, to learn about the actions industry
+     is already taking or plans to take to increase safety and security and ensure equitable benefits
+     for Indigenous women, girls, and 2SLGBTQQIA+ people.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy             29
+     Canada’s Commitments and Legal Obligations to Indigenous Peoples
+     Aboriginal and treaty rights are recognized and affirmed in Section 35 of the Constitution Act, 1982,
+     and recognition of these inherent rights are also a part of the United Nations Declaration on the Rights
+     of Indigenous Peoples Act, which is being implemented by the Government of Canada. Treaties
+     between the Crown (represented by the Government of Canada and/or the provincial or territorial
+     government) and Indigenous peoples are solemn agreements that set out promises, obligations,
+     and benefits for all parties, and serve to reconcile pre-existing Indigenous sovereignty with assumed
+     Crown sovereignty and to define Aboriginal rights guaranteed by section 35 of the Constitution.
+     Modern treaties (those signed since 1975) often include provisions related to resource development
+     opportunities, such as clarity around ownership of surface and/or sub-surface rights, and participation
+     and decision-making in land and resource management (e.g., land use planning and permitting). Most
+     recently, Canada has affirmed respect for rights and governance arrangements set out in Inuit-Crown
+     treaties in the Inuit Nunangat Policy.
+
+     The duty to consult is a constitutional obligation of the Crown rooted in the honour of the Crown and
+     the protection of section 35 rights. When conducting critical mineral exploration and development
+     activities, the potential for adverse impacts to Indigenous and treaty rights must be considered,
+     mitigated, and where appropriate, accommodated. As this Strategy is implemented, the Government
+     of Canada will continue to not only uphold its duty to consult obligations for critical
+     minerals projects but will also seek opportunities to go actively beyond this duty to ensure
+     that Indigenous peoples are active partners in critical mineral development through early,
+     meaningful, and ongoing engagement on projects.
+
+     The UNDA came into force on June 21, 2021. The Declaration helps to affirm the minimum standards
+     for the survival, dignity, and well-being of Indigenous peoples. The implementation of UNDA has the
+     potential to make meaningful and positive change to the ways that Indigenous peoples, communities,
+     and businesses participate in natural resource development, including critical mineral value chains
+     in Canada. The federal government engaged with National Indigenous Organizations, Indigenous
+     communities, Indigenous rights holders, industry, and other relevant stakeholders to help inform the
+     development of a Draft Action Plan, which has a legislated deadline for release in 2023. These efforts
+     will better inform the Government of Canada on what it means to meaningfully partner and engage
+     with Indigenous peoples in natural resource development. Actions under the Canadian Critical
+     Minerals Strategy will comply with the Government of Canada’s implementation of UNDA.
+
+     The Government of Canada understands the importance of environmental protection and stewardship
+     in Indigenous communities and expects mining activities to include measures to avoid and mitigate
+     negative environmental impacts, where possible, to ensure sustainable mining development.
+     Balancing environmental considerations while protecting Indigenous peoples’ lands, water, wildlife,
+     and resources help advance the UNDA’s commitments by mitigating cumulative effects within
+     traditional territory.
+
+     In discussions with Indigenous partners, the Government of Canada has heard serious concerns
+     about community safety with respect to critical mineral development. These concerns are also
+     reflected in the 2019 Final Report of the National Inquiry into Missing and Murdered Indigenous
+     Women and Girls which includes five Calls for Justice specific to the extractive and development
+     industries. These Calls for Justice highlight the need to ensure safety and equity for Indigenous
+     women, girls, and 2SLGBTQQIA+ people. The transition to clean technologies presents an opportunity
+     to ensure Indigenous women and 2SLGBTQQIA+ people are included in decision-making processes
+     related to major natural resource projects going forward, including sustainable critical mineral
+     development projects.
+
+
+
+30      The Canadian Critical Minerals Strategy
+Summary and Next Steps
+    ¤ Funding is available through the Indigenous Natural Resource Partnerships program to support
+      Indigenous participation and early engagement in the Critical Minerals Strategy.
+
+    ¤ The Government of Canada will continue to engage with Indigenous governments,
+      organizations, and communities on the implementation of the Strategy. This will include hosting
+      critical-minerals-related roundtables and workshops in prospective regions, and meeting with
+      Indigenous partners to address their critical mineral priorities.
+
+    ¤ Engagement on key initiatives, such as the implementation of UNDA, the development
+      of a National Benefits Sharing Framework, and the Federal Pathway to Address Missing
+      and Murdered Indigenous Women, Girls and 2SLGBTQQIA+ People, will also inform the
+      implementation of the Critical Minerals Strategy. The Government of Canada will work
+      with Indigenous partners to revise this section of the Strategy based on feedback from
+      these engagements.
+
+    ¤ The Government of Canada will work with Indigenous communities to address systemic
+      barriers and ensure that Indigenous peoples are active partners throughout the entire value
+      chain of responsible critical mineral development in Canada.
+
+    ¤ The Government of Canada will continue to honour treaty obligations, to uphold the duty to
+      consult, with the aim of securing the free, prior, and informed consent of Indigenous peoples,
+      and to move beyond legal obligations by strengthening Indigenous participation and leadership
+      in the sector.
+
+
+
+5. Growing a Diverse Workforce and Prosperous Communities
+Developing Canada’s critical minerals and associated value chains will create jobs and prosperity for
+communities across the country, including Indigenous communities. The growth of a highly skilled
+and more representative workforce in the minerals and metals sector will ensure that Canadians can
+capitalize on these opportunities. Moreover, as lower-emission industries come online, workers from
+other extractive sectors, like oil and gas, will be able to use their transferable skills to secure high-quality
+jobs in critical mineral exploration, extraction, processing, manufacturing, and recycling.
+
+The Mining Industry Human Resources Council forecasts that up to 113,000 new workers will be needed
+by 2030 to meet new demand and replace those workers anticipated to exit the mining workforce. Skill
+requirements in the minerals and metals sector will also continue to change as the industry adopts
+and makes use of emerging technologies, such as AI systems, automation, and robotics, while critical
+minerals demand creates new opportunities midstream in processing, manufacturing, and recycling.
+
+
+Critical Mineral Jobs Are More Diverse Than You Think
+Jobs in the critical minerals sector exist at each stage of the mineral development cycle, from
+exploration to mine closure, and along the value chain. They include, but are not limited to geoscientists,
+mining engineers, and metallurgists, workers skilled in computer technology, heavy equipment
+operation, emerging technologies like AI and automation, minerals processing, and automotive
+assembly. As we build the workforce for the future, it will be vital that Canadians are aware of the diverse
+opportunities available in the sector.
+
+
+
+                                                        The Canadian Critical Minerals Strategy                    31
+     Diversity and inclusion will be a driving force in the recruitment and retention of a talented workforce,
+     capable of providing the technical and leadership skills necessary to support critical mineral
+     development in Canada. Research indicates that a workforce that reflects the diversity of Canada,
+     especially in leadership roles, is linked to better business results both in terms of profitability and in
+     the creation of long-term value. In addition, critical mineral projects provide an opportunity to increase
+     Indigenous employment and participation in natural resource development, especially in northern,
+     remote, and isolated communities. More than 600 Indigenous communities are located near major
+     minerals and metals projects and over 200 Indigenous businesses supply Canada’s extractive industry.
+
+     To fully realize the opportunities available in the critical minerals sector, the federal government is
+     leveraging a wide range of actions and initiatives, including:
+
+         ¤ Federal skills and training initiatives to help institutions and employers train and re-
+           skill people, and to help the workforce grow and meet the demand driven by critical
+           minerals. Examples of these initiatives include the Sectoral Workforce Solutions Program,
+           the Indigenous Skills and Employment Training Program, and the Skills and Partnership Fund.
+           These programs support activities that will help forecast future skills requirements; build talent
+           for the green economy, including the development of green skills training for workers; grow the
+           Indigenous workforce; and, increase participation of equity-deserving groups. These initiatives
+           will be complemented by new federal investments aimed at ensuring Canadians have the skills
+           they need to capitalize on critical minerals opportunities, including the establishment of the
+           Sustainable Jobs Training Centre and the Sustainable Jobs Secretariat. The federal government
+           will work with provinces, territories and industry associations to help Canadians identify
+           and access existing training, upskilling, and re-skilling initiatives targeting the minerals and
+           metals sector.
+
+         ¤ Assisting youth in developing skills and transitioning into the labour market. Through the
+           collaboration of multiple federal departments, the Youth Employment and Skills Strategy (YESS)
+           helps young people (15–30 years old) develop their skills and transition into the labour market.
+           For example, Canada Summer Jobs, a program under YESS, is responsive to national and local
+           priorities in the labour market, which could include the critical minerals sector.
+
+         ¤ Actions to help mobilize a more diverse and inclusive minerals and metals sector. For
+           example, the federal government will continue to support efforts to attract, train, and retain
+           women, in line with the Canadian Minerals and Metals Plans’ aspirational target of achieving
+           30% female participation in the mining workforce by 2030. In addition, Canada will facilitate the
+           economic immigration of talented workers to communities with critical mineral projects through
+           mechanisms like the Rural and Northern Immigration Pilot program, while ensuring alignment
+           with existing provincial and territorial initiatives and community priorities.
+
+         ¤ Partnership opportunities with provinces and territories, Indigenous-led organizations,
+           and several stakeholders, including universities, colleges, and specialized training
+           institutions, to create greater awareness and understanding of the minerals and metals
+           sector, sometimes referred to as mineral literacy. These partnerships would also encourage
+           enrolment in mining curriculum, skilled trades, and training programs for youths, Indigenous
+           peoples, women, and new and racialized Canadians by socializing the significant role critical
+           minerals play in the green energy transition and showcasing the diversity of careers available in
+           the sector.
+
+
+
+
+32       The Canadian Critical Minerals Strategy
+   ¤ Continued collaboration on initiatives under the Canadian Minerals and Metals Plan with
+     Indigenous business leaders and organizations, as well as provinces and territories, to
+     grow opportunities for Indigenous and rural SMEs through the local supply of goods and
+     services for critical minerals development projects.
+
+Canada is committed to a just transition to a net-zero emissions future and supporting the creation
+of jobs to achieve it. We want to help workers and communities thrive in the new economy, while
+fostering a diverse industrial sector that includes Indigenous peoples, women, Black and racialized
+Canadians, people with disabilities, and members of the 2SLGBTQQIA+ community.
+
+
+Summary and Next Steps
+   ¤ Federal skills and training initiatives will help the minerals and metals sector grow its workforce
+     and meet the increased demand for critical minerals.
+
+   ¤ Diversity and inclusion will play a central part in these efforts, with the federal government
+     continuing to support efforts to attract, train, and retain employees, including women, youth,
+     Indigenous peoples, and other equity-seeking groups.
+
+   ¤ The federal government will continue to seek out partnerships and collaboration opportunities
+     with provinces and territories, Indigenous organizations, universities, and training institutions to
+     increase mineral literacy.
+
+
+
+
+6. Strengthening Global Leadership and Security
+The concentration of critical mineral production in a few countries overseas that use non-market-based
+practices raises the risk of supply chain disruptions and inflated prices of key minerals and materials
+for Canada and its allies. The risk inherent to this concentration of production is being accentuated
+by geopolitical events, which further fuels supply uncertainties. In addition, some jurisdictions have
+not prioritized high environmental, social, and governance (ESG) standards, including in the resource
+development activities they undertake in other countries. As the global economy moves towards
+net-zero, advanced manufacturers are seeking to ensure their supply chains are carbon competitive,
+environmentally sustainable, and respectful of human rights. As a trusted and reliable supplier of
+responsibly sourced mineral and metal products, Canada is well positioned to be a leader in the
+responsible, inclusive, and sustainable production of critical minerals and resilient value chains. We
+have a role to play in powering the green and digital economy, both at home and around the world, in a
+manner that avoids a race to the bottom for the lowest cost output.
+
+Interest in pursuing collective action on critical minerals to support the global green energy transition
+is growing within several key multilateral organizations, including the Organisation for Economic
+cooperation and Development (OECD), the G7/G20, the International Energy Agency (IEA), the World
+Bank, the International Renewable Energy Agency (IRENA), the Intergovernmental Forum on Mining,
+Minerals, Metals and Sustainable Development (IGF), the Extractive Industries Transparency Initiative
+(EITI), and the Energy Resource Governance Initiative (ERGI). Enhancing Canada’s participation in
+these forums will help strengthen the linkage between critical minerals and the energy transition,
+advance Canada’s commitment to responsible supply chains, and further its role as the global leader in
+responsible and sustainable mining.
+
+
+
+
+                                                      The Canadian Critical Minerals Strategy               33
+     Bilateral Cooperation on Critical Minerals
+     Since January 2020, Canada has formalized bilateral cooperation agreements on critical minerals with
+     the United States, the European Union, and Japan, and is actively engaging with additional allies such
+     as the United Kingdom and the Republic of Korea. Canada needs to deliver on its growing number of
+     bilateral commitments and engagements without compromising its ability to deliver on domestically
+     focused programs and priorities.
+
+
+
+
+     This Strategy will work to ensure international engagement activities related to critical minerals align
+     with the Government of Canada’s strategic objectives, including Canada’s Indo-Pacific Strategy.
+     It will address broad geopolitical and industrial priorities for Canada’s international engagements
+     to advance secure critical minerals supply chains, including potential risks and regional gaps. This
+     work will align with the Government’s commitment in the 2022 Fall Economic Statement to ensure
+     that Canada remains a first-choice destination for businesses to invest and create jobs in light of
+     investments made by other governments, such as the United States through the Inflation Reduction
+     Act and Infrastructure Bill.
+
+     There is growing interest to pursue collective action to secure critical mineral value chains across
+     the globe with allies. To ensure enhanced sustainability practices, we will leverage our international
+     partnerships to improve Responsible Business Conduct, ESG standards, and best practices in
+     critical minerals-related activities, including human rights and reconciliation considerations, as
+     a key objective under the Strategy. This includes enhancing the interoperability of systems and
+     standards, increased recognition of ESG performances, and international collaboration on traceability
+     technologies to prevent products from conflict, child labour, and environmentally poor operations from
+     entering the supply chains.
+
+     Additional collective actions under existing and new partnerships can further align policies and
+     regulatory approaches, address technical challenges through joint R&D, facilitate trade and reduce
+     barriers, encourage new investment opportunities in Canada, and reinforce supply chain security and
+     stability. These actions include
+
+         ¤ an allocation of $70 million in Budget 2022 for global partnerships to promote Canadian
+           mining leadership, such as promoting ESG standards and supporting bilateral and multilateral
+           critical mineral commitments;
+
+         ¤ leveraging Canada’s new Responsible Business Conduct (RBC) Strategy, launched in April
+           2022, to continue enhancing Canada’s regulation abroad and strengthening the global RBC
+           ecosystem. We are contributing to a rules-based international system that advances Canada’s
+           values, integrating RBC in bilateral and multilateral agreements and engagements, as well as
+           fostering an enabling environment for RBC; and,
+
+         ¤ launching an initiative and leveraging existing frameworks, such as Towards Sustainable
+           Mining, to drive the global uptake of “nature-forward” mining practices that minimize and
+           mitigate environmental impacts and work to return the land to its natural state.
+
+
+
+
+34      The Canadian Critical Minerals Strategy
+Summary and Next Steps
+   ¤ Canada is well positioned to be a leader in the responsible, inclusive, and sustainable
+     production of critical minerals. The Canadian Critical Minerals Strategy will align with the
+     Government of Canada’s strategic objectives, including Canada’s Indo-Pacific Strategy, and
+     ensure that Canada remains competitive globally.
+
+   ¤ Canada will continue to leverage its international partnerships to improve Responsible Business
+     Conduct; ESG standards and best practices in critical-mineral-related activities, including
+     enhancing the interoperability of systems and standards; recognition of ESG performances;
+     and, collaboration on traceability initiatives including studies and technologies.
+
+
+
+
+Critical Minerals and National Security
+Critical minerals are strategic assets that contribute to Canada’s prosperity and national security. They
+are essential to military and security technology supply chains for national security, as well as other
+value chains of critical importance to Canada’s economic security and prosperity.
+
+A key challenge is the global reliance on non-market economies for the supply of critical minerals, and
+for the transformation of minerals and metals through processing and production of downstream value-
+added products. The COVID-19 pandemic has underscored the need to secure and diversify critical
+mineral supply chains, given that key operations are located in only a handful of regions globally,
+leaving them exposed to economic disruptions and predatory actions by non-market economies. Non-
+market economies are taking increasingly aggressive steps to further cement their control of critical
+minerals markets and achieve foreign policy goals. Geopolitical events such as war and trade disputes
+are also increasingly affecting global mineral markets, adding to price volatility and supply uncertainty.
+Heightened trade barriers and weaker access to markets create bottlenecks along supply chains and
+result in trade disruptions.
+
+Reliable market-based access to sustainable sources of critical minerals, especially in northern and
+remote locations, is a strategic and economic security consideration for Canada and its allies. We are
+working towards securing our supply chains by:
+
+   ¤ Taking steps to ensure that Canada’s foreign investment review regime is positioned to
+     respond to the evolving threat landscape. Foreign investment fuels innovation and helps
+     businesses develop, enabling economic growth that benefits all Canadians. At the same time,
+     the federal government recognizes that some investments into Canada may be motivated
+     by non-commercial imperatives that are contrary to our interests and could be injurious to
+     our national security. To address this risk, the Government of Canada issued a new policy to
+     clarify the treatment of foreign investment by state-owned enterprises under the Investment
+     Canada Act.
+
+   ¤ Working with like-minded partners through bilateral and multilateral forums to align
+     policies and promote common standards, including strategic consideration of broader
+     geopolitical and industrial priorities that advance supply chain resiliency and create
+     partnerships with allied countries on global value chain development.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy               35
+     ¤ Engaging with our national security agencies and other federal government
+       departments, provinces and territories, and industry stakeholders to examine additional
+       measures to improve critical mineral supply chain security. Geopolitical, technological,
+       and competitiveness considerations are constantly evolving. Our toolkit must also evolve to
+       make sure Canada is well positioned to seize economic opportunities in the critical minerals
+       space while protecting our national security.
+
+
+
+
+36   The Canadian Critical Minerals Strategy
+CONCLUSION AND NEXT STEPS
+The growing global demand for critical minerals represents a generational opportunity for Canada.
+Critical minerals are the foundation on which modern technology is built. Simply put, there is no
+green energy transition without critical minerals, which is why their supply chain resilience is an
+increasing priority for advanced economies. Every stage of the critical mineral value chain presents an
+opportunity for Canada, from exploration to recycling and everything in between.
+
+Canada’s approach to critical minerals builds on extensive public and Indigenous consultations,
+including comments received on the Canadian Critical Minerals Strategy Discussion Paper (from June
+14 to September 16, 2022), as well as consultations held for the Canadian Minerals and Metals Plan
+(CMMP). In addition, evidence and recommendations were considered from a series of engagements
+and roundtables with industry and Indigenous peoples, as well as recommendations included in the
+June 2021 report of the House of Commons Standing Committee on Natural Resources, From Mineral
+Exploration to Advanced Manufacturing: Developing Value Chains for Critical Minerals in Canada, and
+the March 2022 report of the House of Commons Standing Committee on Industry and Technology,
+The Neo Lithium Acquisition: Canada’s National Security Review Process in Action.
+
+This Strategy is intended to be an evergreen document — forward-looking, iterative, and long-term.
+Its successful implementation will require a coordinated and multi-pronged approach, in collaboration
+with multiple partners and stakeholders. The following strategic partnerships and engagement forums
+will help inform implementation of the Strategy over the long term:
+
+   ¤ Federal-Provincial-Territorial (FPT) Task Team on Critical Minerals and Battery Value Chains;
+
+   ¤ Ongoing engagement with Indigenous peoples via roundtables, workshops, and meetings on
+     Indigenous priorities related to critical mineral value chains and other cross-cutting topics (e.g.,
+     the National Benefit Sharing Framework;
+
+   ¤ Northern Regulatory Initiative Engagement;
+
+   ¤ Regional Energy and Resource Tables;
+
+   ¤ Industry Critical Minerals Roundtables;
+
+   ¤ Canada-U.S. Joint Action Plan on Critical Minerals Collaboration;
+
+   ¤ Critical Minerals Working Group under the Canada-Japan Energy Policy Dialogue;
+
+   ¤ Canada-EU Strategic Partnership on Raw Materials;
+
+   ¤ Government of Canada FDI Working Group.
+
+The CMCE will continue to lead Canada’s whole-of-government, multi-stakeholder approach to critical
+mineral development, including the ongoing development and coordination of policies and initiatives
+under this Strategy. Ongoing engagement with partners and stakeholders will inform future iterations
+of this evergreen document.
+
+
+
+
+                                                      The Canadian Critical Minerals Strategy               37
+     ANNEX A: Canada’s Critical Minerals List
+
+
+
+
+38    The Canadian Critical Minerals Strategy
+ANNEX B: Domestic Value Chains with High
+Growth Potential
+An Exploration to Recycling approach to critical minerals refers to building capacity at each stage
+of the value chain, from exploration to recycling, and everything in between. A value chain is the set
+of activities that add value (e.g., product or process innovation) at each stage of the production and
+delivery of a quality product to a customer, and that maximize a company’s competitive advantage. A
+supply chain, which is a related concept, is concerned with the logistics and organizations involved in
+getting the product to market.
+
+Due to factors like geopolitical risks, ESG, and cost considerations, many companies are increasingly
+prioritizing vertical integration and having as much of the value chain located in close geographic
+proximity to their primary operations. An EV manufacturer, for example, will benefit if all stages of
+battery production occur relatively close to its plant, with transparent and trusted suppliers, operating
+in a stable economic and political climate.
+
+The value chain for critical minerals includes five segments:
+
+    1. Upstream — Exploration: Mineral exploration is the search for materials in the earth’s crust
+       that occur in concentrations and quantities high enough to be extracted and processed for
+       profit. Exploration covers a wide range of activities, including reconnaissance surveys (e.g.,
+       aerial photography, airborne geophysical surveys), prospecting and ground surveys, drilling
+       and trenching, project engineering, and feasibility studies.
+
+         Companies are actively exploring for critical minerals and developing critical minerals
+         projects in Canada. From 2010 to 2020, a total of $66.4 billion2 was invested in critical mineral
+         exploration and development projects in Canada, accounting for 45% of total spending.
+         However, except for base metals and uranium, critical minerals (especially battery minerals)
+         account for a small but recently growing share of total exploration spending.
+
+         The federal, provincial, and territorial governments support mineral exploration by providing
+         geoscience in the form of geological maps, regional geophysical surveys, and other scientific
+         information. The Geological Survey of Canada (GSC) manages several national geoscience
+         research initiatives that support critical mineral exploration, including the Geo-Mapping for
+         Energy and Minerals-GeoNorth program and the Targeted Geoscience Initiative.
+
+         The Government of Canada can improve its geoscience capacity by combining and
+         overlaying geological potential with economic feasibility, ESG priorities, and infrastructure
+         data at an early stage to identify the exploration projects that offer the greatest benefits
+         and lowest risks. Better data, platforms for large-scale data analysis and visualization,
+         and predictive tools deployed as early as possible in the mining cycle would also facilitate
+         project planning, improve investor confidence, and create efficiencies in the regulatory and
+         permitting processes.
+
+
+
+
+2
+ Based on Natural Resources Canada’s analysis using data from the Survey of Mineral Exploration, Deposit Appraisal and
+Mine Complex Development
+
+                                                               The Canadian Critical Minerals Strategy                   39
+     2. Upstream — Mining (or Extraction): Mining is the process of extracting minerals and/or other
+        useful materials from the earth. The two main modes of mining are surface and underground
+        mining. The mode of mining depends on the size, shape, and ore grade or mineral richness
+        of the deposit. While specific operations may differ, they generally involve the use of
+        heavy machinery for drilling, blasting, excavating, loading, and hauling the minerals away
+        for processing.
+
+        With approximately 200 active mines across the country, Canada is a major producer of critical
+        minerals. It is the global leader in the production of potash and ranks among the top five global
+        producers of aluminum, indium, niobium, platinum group metals, titanium concentrate, and
+        uranium. The mining sector is also the second-largest private sector employer of Indigenous
+        peoples in Canada and provides skills and employment training, contracting opportunities, job
+        guarantees, and community investments.
+
+        Mining is typically very capital-intensive, and new mines can take anywhere from 5 to 25 years
+        to become operational. Mining companies, particularly junior companies, face the challenge
+        of raising the private investment required to conduct their operations. In rural, northern, and
+        remote regions, infrastructure gaps also hamper mineral development. To boost or develop
+        new mine production, and to do so in a cost-effective and environmentally responsible
+        manner, the Government of Canada will look for opportunities to partner with the private
+        sector in financing new projects, support building the necessary infrastructure for priority
+        deposits, advance innovation to improve efficiency and environmental performance, strengthen
+        Indigenous engagement, and streamline regulatory and permitting processes. The mining
+        industry is investing in green technology to lower the environmental footprint, efficiency, and
+        safety of new and existing mines.
+
+     3. Midstream — Processing, Refining and Metallurgy (e.g., semi-finished inputs and
+        materials): Metallurgy refers to the study of metals and alloys, and specifically, the science of
+        turning them into forms suitable for practical use. There are three steps in extracting metals
+        from their ores or mine waste: mineral processing, chemical extraction, and refining. The
+        mineral processing stage treats the ore to eliminate as much of the waste portion as possible,
+        and includes two main steps: comminution (e.g., crushing and grinding), and separation.
+        Chemical extraction often uses high-temperature processes, such as smelting or aqueous
+        solutions, to process these valuable metal-bearing solids and transform them into intermediate
+        compounds that are refined to their elemental or metallic state.
+
+        Canada has a long tradition in copper, zinc, and nickel mining, smelting, and processing.
+        Mining of these metals in Canada comes mostly from sulphide deposits, which turn
+        concentrates (either for exports or for processing within Canada) into intermediate or refined
+        metal products. Base metals refineries are key sources of minor metals deemed critical,
+        including germanium, indium, and tellurium. Canada is also a producer of aluminum and
+        refined cobalt. Cobalt is produced primarily as a co-product of nickel mining and processing.
+
+        For many critical minerals such as lithium, Canada has no domestic refined production.
+        However, several companies are investing in innovative technologies to extract lithium from
+        brines. Canada has significant rare earth resources and advanced projects and is developing a
+        first-of-its-kind processing and separation facility in Saskatchewan.
+
+        The Government can focus on building Canada’s midstream capacity to produce the
+        materials and value-added products needed for clean technologies, such as lithium, graphite,
+        nickel, cobalt, copper, and rare earth elements. This will connect upstream and downstream
+
+
+
+
+40   The Canadian Critical Minerals Strategy
+   components, and allow Canada to build new production capacity, capture more value,
+   expand economic benefits and jobs in Canada, attract investment, and boost our domestic
+   capabilities, all while helping to meet growing global demand.
+
+   Semi-manufactured products include cathodes and anodes, which are components that
+   make their way into lithium-ion cells and battery packs that are later integrated into end-use
+   applications like EVs. These are processed from minerals such as graphite, lithium, nickel, and
+   cobalt. Semi-manufactured products such as these are an important growth opportunity for
+   Canadian companies.
+
+4. Downstream — Component Manufacturing and Clean, Digital, and Advanced Technology
+   Production (e.g., ZEV manufacturing, aircraft, and semiconductors): Once processed, the
+   metals make their way into any number of products. Separated rare earth oxides that were
+   converted into metals can be combined to create permanent magnets that are important
+   components of EV motors and wind turbines.
+
+   Canada has strong automotive and aerospace manufacturing sectors. Ontario represents
+   one of the two largest automotive manufacturing jurisdictions in North America. It has
+   the distinction of serving as Canadian headquarters for five global original equipment
+   manufacturers: Stellantis, Ford, General Motors, Honda, and Toyota. Together, these
+   companies typically assemble about two million light vehicles each year at their Canadian
+   plants. They are supplied by an ecosystem of nearly 700 parts suppliers across the country.
+   Canada is also home to many leading aerospace companies such as CAE, Bombardier, Pratt
+   & Whitney Canada, De Havilland Canada, Airbus Canada, Bell Textron Canada Ltd., and MHI
+   RJ who are global leaders in their respective markets. Canada also has world-class aerospace
+   suppliers who are well integrated into global supply chains.
+
+   The green transformation of the automotive and aerospace sectors, which is a federal priority,
+   will depend on access to critical minerals. Working with provincial partners and the private
+   sector, the Government of Canada has made significant investments in attracting cell, battery,
+   and EV manufacturing. The government also made significant investments in sustainable
+   aviation projects, working in partnership with the private sector and the Province of Quebec.
+   These types of investments in the green technologies of the future will help encourage
+   upstream activities such as new mines or processing facilities.
+
+5. Material Recovery and Recycling: Recycling is a keystone of the circular economy. It can
+   relieve some pressure on primary supply and can be a more cost-effective, environmentally
+   friendly alternative to opening new mines. For example, the recycling of end-of-life lithium-
+   ion batteries to recover valuable minerals can also reduce primary supply requirements for
+   these minerals.
+
+   Currently, recycled mineral volumes are relatively minimal overall (except for steel, lead, copper,
+   and aluminum which have higher volumes), but the International Energy Agency forecasts they
+   will become much more significant by 2040.
+
+   In Canada, critical minerals are also found in secondary and unconventional sources (e.g.,
+   mine tailings, brines in oil fields). Examples of current and emerging private sector recycling
+   activities and R&D research include lithium-ion recycling; recovery of titanium from oil sands
+   tailings; recycling of vanadium in the steel industry in the form of scrap steel; recovery of
+   magnesium from asbestos tailings; and, extraction of rare earth elements from recycled
+   permanent magnets.
+
+
+
+
+                                                   The Canadian Critical Minerals Strategy               41
+           Natural Resources Canada’s Mining Value from Waste Initiative is a multifaceted program
+           that works on reprocessing existing mine waste to remove the valuable minerals and metals
+           important for clean technology and military applications. Mine waste includes rocks, sludge,
+           slag, tailings, and other by-products, depending on the type of mines and operations. The
+           program’s goal is to reduce risk and environmental liability and, at the same time, create
+           economic opportunities.
+
+     Among the critical minerals essential for priority supply chains, advanced manufacturing, clean
+     technologies, and zero-emission vehicles, six hold the most significant potential for Canadian
+     economic growth. These include:
+
+     Critical Mineral     Value Chains         Major Application        Examples of Specific Products
+     Lithium              Clean technologies   Batteries, glassware,    Rechargeable batteries (phones,
+                          and defence          ceramics                 computers, cameras, and EVs);
+                          and security                                  hydrogen fuel storage; metal alloys
+                          technologies                                  (military ballistic armour; aircraft,
+                                                                        bicycle, and train components);
+                                                                        specialized glass and ceramics;
+                                                                        drying and air conditioning
+                                                                        systems.
+     Graphite             Clean technologies   Batteries, fuel cells    Metal foundry lubricants, vehicle
+                                               for EVs                  brake linings, metal casting wear,
+                                                                        crucibles, rechargeable battery
+                                                                        anodes, EV fuel cells, electrical
+                                                                        motor components, frictionless
+                                                                        materials, pencils.
+     Nickel               Clean technologies   Stainless steel, solar   Metal alloys (steel, superalloys,
+                          and advanced         panels, batteries,       non-ferrous alloys), jet and
+                          manufacturing        aerospace, and           combustion engine components,
+                                               defence applications     rechargeable batteries (phones,
+                                                                        computers, EVs), industrial
+                                                                        manufacturing machines,
+                                                                        construction beams, anti-corrosive
+                                                                        pipes, cookware, medical implants,
+                                                                        power plant components.
+     Cobalt               Clean technologies   Batteries                Battery electrodes; metal alloys;
+                                                                        turbine engine components,
+                                                                        automobile airbags; catalysts in the
+                                                                        petroleum and chemical industries;
+                                                                        drying agents for paints, varnishes,
+                                                                        and inks; magnets.
+     Copper               Clean technologies   Electrical and           Power transmission lines,
+                          and advanced         electronics products     electrical building wiring, vehicle
+                          manufacturing                                 wiring, telecommunication wiring,
+                                                                        electronic components.
+
+
+
+
+42      The Canadian Critical Minerals Strategy
+Critical Mineral     Value Chains          Major Application        Examples of Specific Products
+Rare earth           Zero-emission         Permanent magnets        Flat screens, touch screens,
+elements             vehicles              for electricity          LED lights, permanent magnets,
+                                           generators and           electronic components, EV drive
+                                           motors                   trains, wind turbines, aircraft
+                                                                    components, vehicle components,
+                                                                    speakers, steel manufacturing,
+                                                                    battery anodes, chemical catalysts,
+                                                                    glass manufacturing, specialized
+                                                                    glass lenses.
+
+While these minerals represent the greatest opportunity to fuel Canadian domestic manufacturing
+and will be the focus of most investment, many other minerals also present significant prospects
+for the future. Where critical minerals are not used solely for domestic manufacturing, there is value
+to be captured by increasing exports to allies and expanding domestic refining, processing, and
+components manufacturing over the medium to long term. Examples of these minerals include:
+
+Critical Mineral      Value Chains          Major Application       Examples of Specific Products
+Vanadium              Clean technologies    Alloys, batteries       Metal alloys (steel), military armour
+                      and advanced                                  plating, vehicle axles, piston rods
+                      manufacturing                                 and crankshafts, vanadium redox
+                                                                    flow batteries, nuclear reactor
+                                                                    components, manufacturing
+                                                                    of superconducting magnets,
+                                                                    pigments for ceramics and glass.
+Gallium               Information and       Semiconductors,         Electronic circuit boards, LED
+                      communications        optoelectronics         devices, semiconductors,
+                                                                    specialized thermometers,
+                                                                    barometric sensors, solar
+                                                                    panels, blue-ray technology,
+                                                                    pharmaceuticals.
+Titanium              Clean technologies    Aerospace and           Colour pigments in paint, plastics,
+                      and advanced          defence applications,   and paper; metal alloys (aluminum,
+                      manufacturing         chemicals               steel, molybdenum); aircraft;
+                                                                    spacecraft; missiles and rockets;
+                                                                    non-corrosive pipes; ship and
+                                                                    submarine hulls; medical implants;
+                                                                    sunscreen; specialty Li-ion battery
+                                                                    anode materials.
+Scandium              Clean technologies    Advanced alloys         Metal alloys (aluminum);
+                      and advanced          (aerospace &            commercial and military aircraft;
+                      manufacturing         defence), fuel cells    rockets and vehicle components;
+                                                                    high-end sports equipment;
+                                                                    specialized light bulbs; solid oxide
+                                                                    fuel cells; laser research.
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy              43
+     Critical Mineral      Value Chains          Major Application       Examples of Specific Products
+     Magnesium             Clean technologies    Aluminum alloys         Aluminum alloys (aircraft and
+                           and advanced                                  automobile components);
+                           manufacturing                                 iron manufacturing; flares and
+                                                                         fireworks; lightweight consumer
+                                                                         goods (laptops, cameras, power
+                                                                         tools); fertilizer; animal feed;
+                                                                         pharmaceuticals.
+
+     Tellurium             Clean technologies    Solar power,            Metal alloys (copper and steel),
+                                                 thermoelectric          solar cells, semiconductors, CDs/
+                                                 devices                 DVDs, vulcanized rubber, chemical
+                                                                         catalysts in oil refining.
+
+     Zinc                  Clean technologies    Galvanizing             Rust proofing, manufacturing
+                           and advanced                                  of automobiles, paints, rubber,
+                           manufacturing                                 cosmetics, pharmaceuticals,
+                                                                         plastics, inks, soaps, batteries,
+                                                                         textiles, electronics, baby creams,
+                                                                         sunscreen.
+
+     Niobium               Clean technologies    Construction,           Metal alloys (steel), jet engines,
+                           and advanced          transportation          rockets, construction beams,
+                           manufacturing                                 building girders, oil rigs and
+                                                                         pipelines, superconducting
+                                                                         magnets, MRI scanners, NMR
+                                                                         equipment, eyeglasses, titanium
+                                                                         niobium oxide anode materials.
+
+     Germanium             Information and     Optical fibres,           Fibre-optic communication
+                           communications,     satellites, solar cells   networks, camera and microscope
+                           clean technologies,                           lenses, infrared night vision
+                           and advanced                                  systems, polymerization catalysts.
+                           manufacturing
+
+     It is also important that Canada maintain its position as a world leader in minerals like potash, uranium,
+     and aluminum. These minerals are important for agriculture, nuclear energy, and diverse manufacturing
+     sectors, respectively.
+
+
+
+
+44      The Canadian Critical Minerals Strategy
+ANNEX C: Provincial and Territorial
+Strategies and Policies
+Provinces and territories also consider critical minerals development as strategic priority. Several
+jurisdictions have developed critical minerals strategies, while others are in the process of developing
+policies or are actively promoting this sector. The Canadian Critical Minerals Strategy will address
+national gaps and ensure shared benefits from core and complementary investments.
+
+
+
+
+ Yukon
+
+                                        Nunavut
+                Northwest
+                Territories
+
+
+                                                                                     Newfoundland
+                                                                                     and Labrador
+ British
+Columbia         Alberta               Manitoba
+
+                                                                       Quebec
+
+
+                                                      Ontario
+                   Saskatchewan                                                                     Nova
+                                                                                                    Scotia
+
+
+                                                                                       New
+                                                                                    Brunswick
+
+
+
+
+                                                       The Canadian Critical Minerals Strategy               45
+     ANNEX D: Global Cooperation on
+     Critical Minerals
+     Canada is seeking to build more resilient global supply chains for critical minerals by working with
+     international partners to align policies, raise global economic, social, and governance (ESG) standards,
+     advance joint research and development, and encourage new investment opportunities, among
+     other priorities.
+
+     The Canada-U.S. Joint Action Plan on Critical Minerals was announced on January 9, 2020,
+     to advance bilateral interest in securing supply chains for the critical minerals needed in strategic
+     manufacturing sectors, including communication technology, aerospace and defence, and clean
+     technology. The Action Plan is guiding cooperation between officials in areas such as industry
+     engagement, innovation, defence supply chains, improving information sharing on mineral resources
+     and potential, and cooperation in multilateral forums. Canada already supplies many of the minerals
+     deemed critical by the United States. In 2020, bilateral mineral trade was valued at $95.6 billion, with
+     298 Canadian mining companies and a combined $40 billion in Canadian mining assets south of
+     the border.
+
+     The Canada-EU Strategic Partnership on Raw Materials is the primary mechanism for engaging the
+     European Commission and European Union Member States in Canada’s critical mineral and battery
+     value chains. The overarching objective of the partnership is to advance the value, security, and
+     sustainability of trade and investment into the critical minerals and metals needed for the transition
+     to a green and digital economy. Agreed areas of collaboration include the integration of raw material
+     value chains; science, technology, and innovation collaboration; and, collaboration in international
+     forums to advance world-class ESG criteria and standards.
+
+     The Canada-Japan Sectoral Working Group on Critical Minerals aims to facilitate commercial
+     engagement between Canadian and Japanese businesses across the critical mineral value chain;
+     strengthen government-to-government information sharing; and, encourage cooperation on
+     international standard-setting for critical minerals. It is part of the Canada-Japan Energy Policy
+     Dialogue, where Japan is working to secure the critical mineral supply chains needed for its industrial
+     base and broader green energy transition.
+
+     Through other multilateral engagements, Canada is pursuing collective action on critical minerals
+     to support the global transition to green energy and more resilient supply chains. Notable multilateral
+     organizations and initiatives include the G7/G20, the International Energy Agency (IEA), the World
+     Bank, the International Renewable Energy Agency (IRENA), the Intergovernmental Forum on
+     Mining, Minerals, Metals and Sustainable Development (IGF), and the Energy Resource Governance
+     Initiative (ERGI).
+
+
+
+
+46       The Canadian Critical Minerals Strategy
+ANNEX E: Comparing Canada’s Critical
+Mineral List
+                                South                                 South
+              Canada    EU               USA     Japan    Australia             India     UK
+Commodity                      Korea                                  Africa
+               (2021) (2020)            (2022)   (2019)    (2022)              (2016)   (2021)
+                               (2020)                                 (2022)
+
+Aluminum        x       x                 x                  x
+Antimony        x       x        x        x         x        x                            x
+Arsenic                          x        x
+Barium                  x        x        x         x
+Beryllium               x        x        x         x        x                   x
+Bismuth         x       x        x        x         x        x                            x
+Boron                   x        x                  x
+Cadmium                          x
+Cesium          x                x        x         x
+Chromium        x                x        x         x        x          x        x
+Cobalt          x       x        x        x         x        x          x                 x
+Coking Coal             x                                               x
+Copper          x                                                       x
+Fluorspar       x       x                 x         x
+Gallium         x       x        x        x         x        x                            x
+Germanium       x       x        x        x         x        x                   x
+Graphite        x       x                 x         x        x                   x        x
+Hafnium                 x        x        x         x        x
+Helium          x                                            x
+Indium          x       x        x        x         x        x                            x
+Iridium                                   x
+Iron ore                                                                x
+Lead                                                                    x
+Limestone                                                                        x
+Lithium         x       x        x        x         x        x          x                 x
+Magnesium       x       x        x        x         x        x                            x
+Manganese       x                x        x         x        x          x
+Molybdenum      x                x                  x
+
+
+
+
+                                                 The Canadian Critical Minerals Strategy         47
+                                     South                                 South
+                   Canada    EU               USA     Japan    Australia             India     UK
+     Commodity                      Korea                                  Africa
+                    (2021) (2020)            (2022)   (2019)    (2022)              (2016)   (2021)
+                                    (2020)                                 (2022)
+
+     Nickel          x                x        x        x                    x
+     Niobium         x        x       x        x        x         x                   x        x
+     PGM             x        x       x        x        x         x          x                 x
+     Phosphate                x       x
+     Potash          x
+     Rare earth      x        x       x        x        x         x          x        x        x
+     elements
+     group
+     Rhenium                          x                 x         x                   x
+     Rubidium                                  x        x
+     Selenium                         x                 x
+     Silicon                  x       x                 x         x                   x        x
+     Strontium                x       x                 x                             x
+     Tantalum        x        x       x        x        x         x                   x        x
+     Tellurium       x                x        x        x                                      x
+     Thallium                         x                 x
+     Tin             x                x        x                                               x
+     Titanium        x        x       x        x        x         x
+     Tungsten        x        x       x        x        x         x                            x
+     Uranium         x                                                       x
+     Vanadium        x        x       x        x        x         x          x                 x
+     Zinc            x                                            x          x
+     Zirconium                        x        x        x         x                   x
+
+
+
+
+48      The Canadian Critical Minerals Strategy
+ANNEX F: Canadian Critical Mineral Success
+Stories in 2022
+NOVEMBER 2022
+ ¤ Vale Canada Limited (a subsidiary of Vale S.A.) and General Motors Co., announce they
+   have signed a term sheet for the long-term supply of battery grade nickel sulfate from Vale’s
+   proposed plant at Bécancour, Que. Under the terms of the agreement, if the project goes
+   ahead, Vale will supply battery grade nickel sulfate, equivalent to 25,000 metric tonnes per year
+   of contained nickel, for use in GM’s Ultium battery cathodes which will power several kinds of
+   electric vehicles.
+
+
+
+OCTOBER 2022
+ ¤ Rio Tinto and the Government of Canada announce a combined investment of $737 million,
+   with the Government of Canada proposed an investment of up to $222 million through the
+   Strategic Innovation Fund in Rio Tinto’s Fer et Titane’s operations over the next eight years.
+   The investment will go towards decarbonizing Rio Tinto’s operations in Sorel-Tracy, Quebec.
+   The partnership will support technological innovations to reduce greenhouse gas emissions
+   from the company’s titanium dioxide, steel and metal powders businesses by up to 70%.
+
+ ¤ Panasonic Energy and Quebec graphite mining company Nouveau Monde Graphite enter
+   a commercial framework, which included a memorandum of understanding where Panasonic
+   will purchase battery grade graphite materials from Nouveau Monde once it has reached
+   commercial production. Nouveau Monde also announced a $50 million investment from
+   Mitsubishi, Pallinghurst, and Investissement Québec, to help the mining company achieve
+   commercialization as well as the integration of its mining project and battery materials plant.
+
+ ¤ Mercedes-Benz finalizes a supply agreement with Canadian-German start-up Rock Tech
+   Lithium Inc., to secure battery grade lithium hydroxide, sourced from Rock Tech Lithium’s
+   Georgia Lake lithium project in Ontario and produced from a planned lithium converter facility
+   in Germany.
+
+ ¤ Vital Metals amends its offtake agreement to increase the volume of rare earth oxide sourced
+   from the company’s Nechalacho mine in the Northwest Territories and sold to Norway-based
+   REEtec by 50%. In April, REEtec reached a deal with German auto parts supplier Schaeffler to
+   use the rare earth metals sourced from Vital Metals for magnets used in the manufacturing of
+   electric vehicles. Det’on Cho Nahanni Construction Corporation, which is 51% owned by the
+   Yellowknives Dene First Nation, runs operations at the Nechalacho site. The Yellowknives Dene
+   First Nation is one of the first Indigenous communities in Canada to be responsible for mineral
+   extraction on their traditional territory.
+
+
+
+
+                                                  The Canadian Critical Minerals Strategy              49
+     SEPTEMBER 2022
+      ¤ LG Energy Solutions signs a binding term sheet with Electrica Battery materials (the only
+        permitted cobalt sulphate facility in North America) to supply 7,000 tonnes of cobalt sulphate
+        for three years, starting in 2023.
+
+      ¤ LG Energy Solutions signs two non-binding Memorandums of Understanding with Canadian
+        junior mining companies Avalon Advanced Materials Inc. and Snow Lake Resources Inc.
+        for the supply of lithium hydroxide, starting in 2025. LG Energy accounts for more than 20% of
+        the global electric vehicle battery market and supplies automotive companies including Tesla,
+        General Motors and Volkswagen.
+
+
+
+     AUGUST 2022
+      ¤ Canadian Junior mining company Giga Metals and Mitsubishi Corporation (Japan’s largest
+        trading company) agree to establish a joint venture to develop the Turnagain Nickel project in
+        northern British Columbia. The joint venture involving the Hard Creek Nickel Corp., would see
+        Mitsubishi have a 15% equity interest, while Giga Metals will have an 85% equity interest.
+
+      ¤ Volkswagen and Mercedes-Benz Group sign memorandums of understanding with the
+        Government of Canada to deepen cooperation on electric vehicles and critical mineral
+        supply chains.
+
+
+
+     JULY 2022
+      ¤ Umicore SA announces it will build a $1.5 billion cathode active material factory in Eastern
+        Ontario to produce the precursor cathode active materials as well as cathode active materials
+        for electric vehicle batteries. Construction is targeted to start in 2023, with operations to start
+        at the end of 2025. The project is expected to create 1,000 jobs during construction and
+        hundreds of permanent positions.
+
+
+
+     JUNE 2022
+      ¤ Saskatchewan Research Council (Canada’s second-largest research and technology
+        organization) and Korea Mine Rehabilitation and Mineral Corp. (a state-owned corporation
+        responsible for natural resource security), sign a Memorandum of Understanding for
+        cooperation in the area of critical minerals, including a framework to develop a secure supply
+        chain of critical minerals (particularly potash and rare earth elements).
+
+      ¤ Piedmont Lithium and Sayona Québec announce spodumene concentrate production has
+        restarted at its North American Lithium project located near Val D’Or, Quebec, following a
+        successful $136 million institutional placement (announced in May 2022).
+
+      ¤ Canadian mining company Vale completes pre-feasibility study for its proposed nickel
+        sulphate project in Bécancour, Que., that, if developed, would help supply material used to
+        make lithium-ion batteries.
+
+
+
+
+50    The Canadian Critical Minerals Strategy
+ ¤ The Government of Canada says it plans to invest $100 million to minimize the carbon
+   footprint and improve worker safety at BHP’s $7.5 billion Jansen Stage 1 mine in
+   Saskatchewan, the first new major potash project in Canada in more than 50 years.
+
+
+
+MAY 2022
+ ¤ Vale and Tesla confirm a multi-year agreement that will see Vale supply Tesla with low-carbon
+   nickel (to be used in manufacturing lithium-ion batteries) from its Long Harbour refinery in
+   Newfoundland, while the raw material will be sourced from Vale’s Voisey Bay mine in Labrador.
+
+ ¤ Automaker Stellantis announces the company’s assembly plants in Windsor, Ont., and
+   Brampton, Ont., will receive $3.6 billion (including up to $529 million in federal funding) in
+   retooling and modernization upgrades as the company works to transform the plants into
+   flexible, multi-energy vehicle assembly facilities ready to produce electric vehicles.
+
+ ¤ Nano One announces it has entered a binding agreement to acquire all outstanding shares of
+   Johnson Matthey Battery Materials, a Canadian entity located in Quebec, for approximately
+   $10.25 million.
+
+ ¤ 5N, a leading global producer of specialty semiconductors and performance materials, reaches
+   a commercial agreement with Rio Tinto to refine tellurium produced at its Kennecott copper
+   operation in Utah. Under the agreement, the tellurium will be refined at 5N’s Montréal facility
+   in Quebec and will be primarily used for manufacturing thin-film photovoltaic modules by First
+   Solar under an existing semiconductor supply agreement between First Solar and 5N.
+
+ ¤ Livent Corp., based in the United States, announces it has doubled its ownership interest
+   in Nemaska Lithium Inc., to 50%. Nemaska Lithium is a fully integrated lithium hydroxide
+   development project located in Quebec.
+
+
+
+APRIL 2022
+ ¤ General Motors in Canada announces plans to invest more than $2 billion at its Oshawa, Ont.,
+   assembly plant and its CAMI assembly plant in Ingersoll, Ont. The investment is supported
+   by $259 million from the federal government to advance the electrification of Canada’s
+   automotive sector.
+
+
+
+MARCH 2022
+ ¤ General Motors announces plans for a $500 million cathode facility in Quebec, in partnership
+   with South Korea’s POSCO. The facility will produce cathode active material for GM’s Ultium
+   battery manufacturing plans in the United States.
+
+ ¤ BASF signs an agreement to secure land for its future cathode active materials and recycling
+   site in Bécancour, Que., further enhancing BASF’s cathode active material production footprint
+   in North America. Project commissioning is targeted in 2025.
+
+ ¤ Honda announces it plans to invest nearly $1.4 billion to retool its manufacturing operations
+   in Alliston, Ont., to launch the next generation of hybrid-electric vehicles, supported by
+   $131.6 million in federal funding.
+
+
+
+                                                    The Canadian Critical Minerals Strategy          51
+     JANUARY 2022
+      ¤ Canada’s Electra Battery Materials announces the company has signed a battery recycling
+        and cobalt sulphate supply agreement with Marubeni (one of Japan’s largest trading
+        companies). The agreement will see Electra benefit from Marubeni’s extensive battery cell
+        recyclers network to secure a stable source of recyclable materials for the company’s recycling
+        operation, slated for commissioning in 2023.
+
+      ¤ Canadian junior mining company Magna Mining Inc., enters a non-binding memorandum of
+        understanding with Mitsui and Co. Ltd., to facilitate Mitsui’s potential acquirement of a 10 to
+        12% stake in Magna’s Shakespeare Mine. The Shakespeare Mine, located in Sudbury, Ont., is
+        a nickel, copper, and platinum group metals mine. In connection with the transaction, Magna
+        Mining said it would sign a joint venture agreement with Mitsui to develop the Shakespeare
+        Mine, with Magna serving as project operator.
+
+
+
+
+52    The Canadian Critical Minerals Strategy

@@ -1,0 +1,206 @@
+Mineral Industry Surveys
+For information, contact:                                              Shonta E. Osborne (Data)
+Andrew Stewart, Mineral Commodity Specialist                           Telephone: (703) 648-7971
+National Minerals Information Center                                   Email: sosborne@usgs.gov
+Telephone: (703) 648-7723                                              Internet: https://www.usgs.gov/centers/national-minerals-
+Email: astewart@usgs.gov                                               information-center/mineral-industry-surveys
+
+
+  U.S. PRODUCTION OF SELECTED MINERAL COMMODITIES IN THE FIRST QUARTER 2025
+
+  U.S. mine and plant production data for 16 selected mineral          Precious Metals
+commodities are provided on a monthly (or quarterly) basis by            During the first quarter of 2025, silver production increased
+the U.S. Geological Survey to the Board of Governors, Federal          by 8%, compared with production in the fourth quarter of 2024.
+Reserve System (FRS), for use in preparing its index of                Gold, platinum, and palladium production decreased by 18%
+industrial production and the related capacity indexes and             each compared with production in the fourth quarter of 2024. In
+capacity utilization rates. These measures cover manufacturing,        the first quarter of 2025, silver production was 7% more
+mining, and electric and gas utilities, and they are among the         compared with production in the first quarter of 2024. Platinum,
+key economic indicators monitored by the FRS for guidance in           palladium, and gold decreased by 41%, 41%, and 9%,
+determining national monetary policy.                                  respectively, than that in the first quarter of 2024 (fig. 3, table
+                                                                       1).
+Construction Materials
+   The combined production of construction-related materials           Other Mineral Materials
+(cement, construction sand and gravel, crushed stone, and                 Molybdenum production was 3% higher in the first quarter of
+gypsum) in the first quarter of 2025 decreased by 24%                  2025 compared with that in the fourth quarter of 2024 and was
+compared with that in the fourth quarter of 2024 following the         14% higher in the first quarter of 2025 compared with that in the
+typical seasonal trend (fig. 1, tables 1, 2). Production of gypsum,    first quarter of 2024. Phosphate rock production was 6% higher
+cement, crushed stone, and construction sand and gravel in the         in the first quarter of 2025 compared with that in the fourth
+first quarter of 2024 were 8%, 7%, 6%, and 5% lower,                   quarter of 2024 and was 2% higher in the first quarter of 2025
+respectively, than that in the first quarter of 2024. (fig. 1, table   compared with that in the first quarter of 2024. Soda ash
+1).                                                                    production was unchanged in the first quarter of 2025 compared
+                                                                       with that in the fourth quarter of 2024 and was 2% less in the
+Base Metals                                                            first quarter of 2025 compared with the same time period in
+   Production of base metals except for secondary aluminum             2024 (tables 1, 2).
+decreased in the first quarter of 2025 compared with that in the
+fourth quarter of 2024 (fig. 2, table 1). Comparing the first
+quarter of 2025 with the first quarter of 2024, production              List services and web feed subscribers are the first to
+increased for lead (3%), but production decreased for zinc              receive notification of USGS minerals information
+(14%) and copper (7%). Production for iron ore was slightly             publications and data releases. For information on how to
+less, and secondary aluminum production was unchanged (fig.             subscribe, go to https://www.usgs.gov/centers/national-
+2, tables 1, 2).                                                        minerals-information-center/minerals-information-
+                                                                        publication-list-services.
+
+
+
+
+U.S. Department of the Interior                                                                                             December 2025
+U.S. Geological Survey
+                               250
+                                                                               EXPLANATION
+                                          Cement               Sand and gravel, construction              Stone, crushed            Gypsum
+                               200
+
+
+
+
+Productrion index, 1Q20= 100
+                               150
+
+
+
+                               100
+
+
+
+                                50
+
+
+
+                                                                                         Quarter
+Figure 1. U.S. production of selected construction-related mineral commodities from the first quarter of 2020 through the first quarter of 2025, indexed to the first
+quarter of 2020.
+
+
+                               165
+                                                                                 EXPLANATION
+                                     Secondary Aluminum                   Iron Ore                 Lead                    Zinc                Copper
+                               140
+
+
+
+
+Production index, 1Q20 = 100
+                               115
+
+
+                               90
+
+
+                               65
+
+
+                               40
+
+
+                                                                                         Quarter
+Figure 2. U.S. production of selected base metals from the first quarter of 2020 through the first quarter of 2025, indexed to the first quarter of 2020.
+
+
+
+
+                               150
+
+                                                                                  EXPLANATION
+                                               Gold                      Silver                     Platinum                      Palladium
+                               125
+
+
+
+
+Production ndex, 1Q20 = 100
+                               100
+
+
+
+                                75
+
+
+
+                                50
+
+
+
+                                                                                         Quarter
+Figure 3. U.S. mine production of gold and silver from the first quarter of 2019 through the first quarter of 2024, indexed to the first quarter of 2019.
+
+
+
+                                                                                     2
+Table 1. Production trends for selected mineral commodities
+[Based on data available through September 3, 2025. Estimated data are marked with a
+superscript ‟e.”]
+                                             Percent change          Percent change
+          Mineral commodity                1st quarter 2025 vs.       YTD 2025 vs.
+                                            4th quarter 2024           YTD 2024
+Aluminum (secondary)                                             4                  (1 )
+        e
+Cement                                                        -21                  -7
+Copper                                                          -1                 -7
+Gold                                                          -19                  -9
+Gypsum                                                          -2                 -8
+Iron ore                                                      -11                  -1
+Lead                                                          -16                    3
+Molybdenum                                                       3                 14
+Palladium                                                     -18                 -41
+Phosphate rocke                                                  6                   2
+Platinum                                                      -18                 -41
+Sand and gravel, construction                                 -26                  -5
+Silver                                                           8                   7
+Soda ash                                                        (1 )               -2
+Stone, crushed                                                -24                  -6
+Zinc                                                          -11                 -14
+1
+    Less than 0.5 percent.
+
+
+
+
+                                           3
+Table 2. U.S. production of selected mineral commodities, by quarter
+[Based on data available through September 3, 2025. Data are rounded to no more than three significant digits; may not add to totals shown.
+Estimated and revised data are marked with a superscript ‟e” and "r".]
+                                                                                               2024                                         2025
+                        Commodity                                                                                        1st quarter–
+                                                            1st quarter     2d quarter       3d quarter 4th quarter                     1st quarter
+                                                                                                                         4th quarter
+Aluminum [thousand metric tons]e, 1                                  230              220            220           222            892            231
+Cement [million metric tons]e, 2                                   21.4 r           28.2 r         28.3 r        25.3 r           103           19.9
+Copper [thousand metric tons]3                                       284              257            260           265          1,070            264
+Gold [metric tons]3                                                  37.7             38.5          39.9           41.9           158           34.1
+                               4
+Gypsum [million metric tons]                                          4.7              4.9            4.6           4.4          18.6             4.3
+Iron ore [million metric tons]5                                      10.4             11.4          11.6           11.7          45.1           10.3
+Lead [thousand metric tons]3                                         62.0             75.7          71.5           75.8           285           63.9
+Molybdenum [thousand metric tons]3                                    8.6              7.9            7.9           9.5          34.0             9.8
+Palladium [metric tons]3                                              2.9              2.8            2.7           2.1          10.6             1.7
+Phosphate rock, marketable [million metric tons]e, 6                  4.7              4.9            5.0           4.6          19.3             4.8
+                        3
+Platinum [metric tons]                                                0.9              0.8            0.8           0.6            3.1            0.5
+                                                    7                    r                r              r             r              r
+Sand and gravel, construction [million metric tons]                 165              248            260           210            883             156
+Silver [metric tons]3                                                261              278            260           259          1,060            279
+Soda ash [million metric tons]5                                       3.0              2.8            3.0           2.9          11.7             2.9
+Stone, crushed [million metric tons]7                               291 r            407 r          413 r         360 r         1,470            273
+Zinc [thousand metric tons]3                                         190              186            185          183 r          743 r           162
+1
+  Aluminum alloys produced at secondary smelters in the United States, less primary aluminum consumed, primary silicon consumed, and other
+alloying ingredients consumed.
+2
+  Shipments of domestically produced portland and blended cement, including cement made from imported clinker, as a proxy for actual domestic
+cement production.
+3
+  Recoverable mine production.
+4
+  Calcined production.
+5
+  Mine production.
+6
+  Marketable mine production. First to fourth quarter 2024 total may not add to quarterly data owing to annual adjustments that are not broken out `
+by quarter.
+7
+  Sold or used; quarterly survey based on sample survey.
+
+
+
+
+                                                                             4

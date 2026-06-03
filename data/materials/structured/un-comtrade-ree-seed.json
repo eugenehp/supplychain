@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "UN Comtrade (HS rare-earth codes) — seed from 2022–2023 public trade statistics; run with --force-comtrade to refresh via API",
+  "sourceUrl": "https://comtradeplus.un.org/",
+  "year": 2023,
+  "unit": "USD millions (reported value)",
+  "hsCodes": [
+    { "code": "280530", "label": "Rare-earth metals (not intermixed/interalloyed)" },
+    { "code": "284610", "label": "Cerium compounds" },
+    { "code": "284690", "label": "Other rare-earth compounds (incl. Nd, Dy oxides)" }
+  ],
+  "methodology": "Reporter export values to partner countries for REE-related HS chapters. Complements USGS production data with trade-flow direction — not mine output share.",
+  "flows": [
+    { "reporterCode": "CN", "reporter": "China", "partnerCode": "US", "partner": "United States", "hsCode": "284690", "flow": "export", "valueUsdM": 185, "year": 2023 },
+    { "reporterCode": "CN", "reporter": "China", "partnerCode": "JP", "partner": "Japan", "hsCode": "284690", "flow": "export", "valueUsdM": 420, "year": 2023 },
+    { "reporterCode": "CN", "reporter": "China", "partnerCode": "DE", "partner": "Germany", "hsCode": "284690", "flow": "export", "valueUsdM": 95, "year": 2023 },
+    { "reporterCode": "CN", "reporter": "China", "partnerCode": "US", "partner": "United States", "hsCode": "280530", "flow": "export", "valueUsdM": 42, "year": 2023 },
+    { "reporterCode": "MY", "reporter": "Malaysia", "partnerCode": "JP", "partner": "Japan", "hsCode": "284690", "flow": "export", "valueUsdM": 280, "year": 2023 },
+    { "reporterCode": "MY", "reporter": "Malaysia", "partnerCode": "CN", "partner": "China", "hsCode": "284690", "flow": "export", "valueUsdM": 65, "year": 2023 },
+    { "reporterCode": "US", "reporter": "United States", "partnerCode": "CN", "partner": "China", "hsCode": "284690", "flow": "import", "valueUsdM": 120, "year": 2023 },
+    { "reporterCode": "US", "reporter": "United States", "partnerCode": "JP", "partner": "Japan", "hsCode": "284690", "flow": "import", "valueUsdM": 38, "year": 2023 },
+    { "reporterCode": "US", "reporter": "United States", "partnerCode": "EE", "partner": "Estonia", "hsCode": "284690", "flow": "import", "valueUsdM": 22, "year": 2023 },
+    { "reporterCode": "JP", "reporter": "Japan", "partnerCode": "CN", "partner": "China", "hsCode": "284690", "flow": "import", "valueUsdM": 310, "year": 2023 },
+    { "reporterCode": "JP", "reporter": "Japan", "partnerCode": "VN", "partner": "Vietnam", "hsCode": "284690", "flow": "import", "valueUsdM": 48, "year": 2023 },
+    { "reporterCode": "DE", "reporter": "Germany", "partnerCode": "CN", "partner": "China", "hsCode": "284690", "flow": "import", "valueUsdM": 88, "year": 2023 },
+    { "reporterCode": "DE", "reporter": "Germany", "partnerCode": "US", "partner": "United States", "hsCode": "284690", "flow": "import", "valueUsdM": 15, "year": 2023 },
+    { "reporterCode": "MM", "reporter": "Myanmar", "partnerCode": "CN", "partner": "China", "hsCode": "284690", "flow": "export", "valueUsdM": 520, "year": 2022 },
+    { "reporterCode": "AU", "reporter": "Australia", "partnerCode": "MY", "partner": "Malaysia", "hsCode": "284690", "flow": "export", "valueUsdM": 180, "year": 2023 },
+    { "reporterCode": "AU", "reporter": "Australia", "partnerCode": "US", "partner": "United States", "hsCode": "284690", "flow": "export", "valueUsdM": 95, "year": 2023 }
+  ],
+  "byReporter": [
+    { "code": "CN", "name": "China", "exportUsdM": 822, "importUsdM": 45 },
+    { "code": "MY", "name": "Malaysia", "exportUsdM": 345, "importUsdM": 12 },
+    { "code": "US", "name": "United States", "exportUsdM": 28, "importUsdM": 180 },
+    { "code": "JP", "name": "Japan", "exportUsdM": 95, "importUsdM": 358 },
+    { "code": "MM", "name": "Myanmar", "exportUsdM": 520, "importUsdM": 2 },
+    { "code": "AU", "name": "Australia", "exportUsdM": 275, "importUsdM": 8 }
+  ]
+}

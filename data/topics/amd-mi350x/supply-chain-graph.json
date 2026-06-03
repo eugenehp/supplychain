@@ -271,12 +271,11 @@
       "group": "equipment",
       "description": "Etch & deposition — LRCX 10-K",
       "country": null,
-      "mentionScore": 137,
+      "mentionScore": 127,
       "sources": [
         "ASML",
         "LRCX",
         "CDNS",
-        "rag",
         "CDNS",
         "LRCX"
       ],

@@ -1,0 +1,209 @@
+Solus Advanced Materials Co., Ltd.
+4Q24 Earnings Report
+
+February 6, 2025
+Disclaimer                                                                                              Investor Relations 2024
+
+
+
+
+The information herein has been prepared based on unaudited financial statements for your information purposes
+only and contains preliminary figures which may change depending on the external audit results.
+
+
+
+All information about the company's financial performance contained in this material is based on consolidated
+financial statements in accordance with Korean IFRS.
+
+
+
+This material also contains “forecasts” based on predictions, forecasts, plans and expectations for the future, and
+these “forecasts” may differ significantly from the company’s actual performance to be provided in the future due
+to their uncertain nature.
+     2024 Annual Earnings Report                                                                                                 Investor Relations 2024
+
+
+
+    ⚫ Sales increased by 33.0% compared to last year to KRW 571 billion won due to: increased supply of battery copper foil for
+      European/North American customers, increased supply of copper foil for AI accelerators, and increased supply caused by
+      increased operating rates of OLED customers.
+    ⚫ The deficit was reduced compared to last year due to: increased battery copper foil supply, increased sales of high-end
+      products, and high-intensity cost saving activities.
+
+                           Sales                                  EBITDA                                Business Profits
+
+      (Unit:: 100 million KRW))                        EBITDA Margin (%)                           Operating Profit Margin (%)
+                                                       EBITDA (100 million KRW)                    Business Profits (100 million KRW)
+                             YoY
+                            +33%
+                                                                   YoY
+                                    5,710                                                                        YoY
+                                                            Turned into surplus
+                                                                                                            Reduced deficit
+
+              4,294                 2,483                                         150
+
+  Battery                    +61%
+Copper Foil 1,546                                                                 3%
+                                                                                                                                 -10%
+
+                                    1,963
+Copper Foil 1,636            +20%
+                                                         -3%                                                                     -544
+    OLED 1,112                      1,264                                                            -17%
+                            +14%                        -150                                        -732
+               2023                 2024                 2023                     2024               2023                        2024
+                                                                                                                                                           3
+4Q 2024 Performance & 1Q 2025 Plan by Business Division                                                                            Investor Relations 2024
+
+
+
+
+ 4Q 2024 Performance                                                     1Q 2025 Plan
+
+ • Elecfoil: Sales of QoQ+45.8% and YoY+34.5% due to the                 • Elecfoil: Plan to increase shipments of existing products and
+   operation of the second plant in Hungary and increased sales for
+   European/North American customers                                        expand supply of high-profit products
+ • Copper foil: Sales of QoQ + 7.7% and YoY + 14.7% due to increased     • Copper foil: Plan to continuously expand the supply of high-end
+   sales of high-end products such as copper foil for AI accelerators       copper foil to big tech customers targeting the AI market
+ • Electronic materials: Sales QoQ+6.6% and YoY+11.4% due to
+                                                                         • Electronic materials: Plan to expand sales of mobile and IT
+   increased supply caused by increased operation rates of major
+   customers                                                                products and new non-light-emitting products
+
+(Unit: 100 million KRW)
+                                                   Compared to the previous quarter (QoQ)       Compared to the same period last year (YoY)
+         Category               4Q 2024
+                                                        3Q 2024               Growth                  4Q 2023                   Growth
+
+            Sales                    1,657                   1,347              +23.0%                      1,043                  +21.1%
+
+   Battery Copper Foil                 802                     550              +45.8%                        369                  +34.5%
+
+        Copper Foil                    531                     493               +7.7%                        384                  +14.7%
+
+   Electronic Materials                324                     304               +6.6%                        290                  +11.4%
+
+          EBITDA                        74                      -15        Turned into                          8
+                                                                                                                                  +825.0%
+            (%)                     (4.6%)                 (-1.1%)            surplus                     (-0.8%)
+
+    Business Profits                  -113                    -187                                           -100
+                                                                                +39.6%                                             +13.0%
+          (%)                      (-6.8%)                (-13.9%)                                        (-9.6%)
+
+                                                                                                                                                   4
+     Sales Forecast and Key Promotion Strategies for 2025                                                                    Investor Relations 2024
+
+
+
+
+      Sales Forecast for 2025
+
+      (Unit:100 million KRW)
+                                                                   Elecfoil: Targeting 32% of sales growth
+
+                                YoY             ⚫ Promoting profit maximization through the sales expansion of high-end
+                               +23%               elecfoil products
+                                                 - Moving from existing products (BF) to high-yield products (SR, HTS) / Expanding sales
+                                       7,000
+                                                ⚫ Maximizing production volume and establishing stable production systems
+                                                  for high-end elecfoil products
+                                                 - Establishing stable production systems to maximize production volume based on
+                   5,710                           enhanced yield and to increase supply of high-yield products
+                                      3,270                      Copper foil: Targeting 21% of sales growth
+                  2,483        +32%              ⚫ Expanding product supply for high-yield HVLP/ semiconductor package
+   Battery                                        - Realizing stable product supply and initiating mass production for new customers in
+ Copper Foil                                        order to secure solid market dominance of HVLP3
+                                                  - Promoting the expansion of customer approval to secure leading market position for
+                                                    HVLP4/5
+                                      2,380
+Copper Foil       1,963        +21%                   Electronic materials business: Targeting 7% of sales growth
+                                                 ⚫ Expanding sales for IT-oriented products, considering the growth of
+                                                   mobile and IT-oriented OLED markets
+     OLED         1,264        +7%    1,350       - Securing sales growth and profitability by developing and introducing new IP products,
+                                                    and expanding new non-light-emitting products
+                                                  - Responding to the expansion of new models by securing stable production bases such
+                   2024               2025(E)       as Hamyeol plant (Dec. 2025)
+
+                                                                                                                                                       5
+Summary Consolidated Statement of Financial Position                                                                          Investor Relations 2024
+
+
+
+                                                                                                                          (KRW 100 million)
+
+          Classification                     Dec. 2020                 Dec. 2021        Dec. 2022        Dec. 2023          Dec. 2024
+
+Current assets                                         4,504                  3,945            5,080            5,643                  5,968
+
+Non-current assets                                     3,908                  6,171            9,530           11,424                14,677
+
+Total assets                                          8,412                 10,116           14,610           17,067                20,645
+
+Current liabilities                                    1,674                  2,926            4,221            5,680                  5,442
+
+Non-current liabilities                                1,839                  1,968            1,208             805                   4,289
+
+Total liabilities                                     3,513                   4,894            5,429            6,485                 9,731
+
+Capital stock                                             40                       40               45               45                     91
+
+Total shareholders' equity                            4,899                   5,222            9,181          10,582                10,914
+
+Debt ratio                                              72%                    94%              59%              61%                     89%
+
+[Borrowings]
+
+Borrowings                                             2,484                  2,995            3,520            3,746                  7,645
+
+Cash                                                   3,056                  1,396            1,628            2,741                  1,751
+
+Net borrowings                                         -572                   1,599            1,893            1,006                 5,894
+
+The current quarter data is based on unaudited financial statements.
+
+                                                                                                                                              6
+ Summary Consolidated Comprehensive Income Statement                                                                                                         Investor Relations 2024
+
+
+
+                                                                                                                                                        (KRW 100 million)
+                                                                                          ‘23                                                    ‘24
+                Classification               ’21        ’22
+                                                                    1Q         2Q         3Q         4Q        Total        1Q        2Q         3Q         4Q         Total
+Sales                                        3,803      4,612       1,128      1,012      1,112      1,043      4,294       1,213     1,493      1,347      1,657        5,710
+Battery foil                                   378      1,127        402        367        409        369       1,546        463       668        550         802         2,483
+Copper foil                                  2,036      1,805        452        369        430        384       1,636        437       502        493         531         1,963
+Electronic materials                           950      1,251        274        276        273        290       1,112        313       323        304         324         1,264
+Bio                                            440       429              -          -           -         -           -
+Cost of sales                                3,028      4,158       1,081      1,047      1,089       905       4,122       1,108     1,379      1,286      1,534         5,307
+Gross profit                                   775       454             47      -36            24    138        172         105       114             61     123           403
+SG&A                                           725       906         237        202        227        238        904         245       218        248         236           947
+Operating profit                                   50    -452        -190       -238       -203       -100       -732        -140      -104       -187       -113          -544
+  (%)                                        1.3%       -9.8%      -16.9%     -23.5%     -18.3%      -9.6%     -17.0%      -11.5%     -7.0%     -13.9%      -6.8%        -9.5%
+Gains (losses) on interest                     -45        -67         -34        -55        -41        -34       -163         -41       -50        -43        -61          -195
+Gain (losses) on foreign currency
+                                                   81    113              2         -2           4        -6       -3            -5         2          -3        22           16
+transactions
+Gain (losses) on foreign currency
+                                                   15         58          1         6           97    -111         -7        121           82     -184        404           423
+translation
+Net income before corporate tax                    36    -367        -230       -301      2,953       -537      1,884         -73       -81       -423        203          -375
+Corporate tax                                       9         71      -16        -43       792        -108       625             17        18      -60           78           54
+Profit (losses) from continuing operations         27    -438        -213       -258      2,161       -430      1,259         -91       -99       -363        124          -429
+Profit (losses) from discontinued
+                                               -25        -34            -1         8            0        1            9          -         -           -         -
+operations
+Net income                                         2     -472        -214       -250      2,161       -429      1,268         -91       -99       -363       124           -429
+Net Income of controlling shareholders         119       -113        -110       -132      2,273       -156      1,875            17        3      -217       242              45
+   The current quarter data is based on unaudited financial statements.
+   Due to the disposal of Solus Biotech, discontinued business (bio) was excluded from sales from 1Q 2023 and classified as discontinued operating                           7
+   profit (losses).
+                                     Investor Relations 2024
+
+
+
+
+Solus Advanced Materials Co., Ltd.
+   www.solusadvancedmaterials.com

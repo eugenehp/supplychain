@@ -1,0 +1,31 @@
+{
+  "asxCode": "ETM",
+  "crawledAt": "2026-06-03T06:13:52.431Z",
+  "discovered": {
+    "type": "pdf",
+    "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03085925-6A1323797",
+    "label": "ASX technical: Penouta Mineral Resource Update",
+    "referer": "https://www.asx.com.au/",
+    "crawlerMeta": {
+      "documentKey": "2924-03085925-6A1323797",
+      "announcementDate": "2026-05-03T22:25:12.000Z",
+      "announcementType": "PROGRESS REPORT",
+      "fileSize": "1309KB"
+    }
+  },
+  "discoveredAll": [
+    {
+      "type": "pdf",
+      "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03085925-6A1323797",
+      "label": "ASX technical: Penouta Mineral Resource Update",
+      "referer": "https://www.asx.com.au/",
+      "crawlerMeta": {
+        "documentKey": "2924-03085925-6A1323797",
+        "announcementDate": "2026-05-03T22:25:12.000Z",
+        "announcementType": "PROGRESS REPORT",
+        "fileSize": "1309KB"
+      }
+    }
+  ],
+  "error": null
+}

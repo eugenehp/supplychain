@@ -1,0 +1,653 @@
+{
+  "ticker": "REEMF",
+  "count": 44,
+  "generatedAt": "2026-06-03T05:52:36.460Z",
+  "entries": [
+    {
+      "id": "REEMF-kw-0",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 35591,
+      "excerpt": "…n affiliate of Synchron, the Company’s majority shareholder, and includes certain of General Atomics’ affiliates, the Company, and LNV, an Ardurra Group, Inc. company, as engineering and construction subcontractor. A formal proposal was submitted by the consortium in response to a published Funding Opportunity Announcement in mid-2020 for the construction and operation of a rare earth separation and processing plant utilizing the Company’s proprietary technology to produce commercial-grade products. The DoE finalized the award, and an agreement was executed by the DoE’s grants/agreement office…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 35432,
+        "end": 35952
+      }
+    },
+    {
+      "id": "REEMF-Arm-0",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 66704,
+      "excerpt": "…y these two agencies and have established surety bonds to ensure environmental reclamation of areas disturbed. As of December 31, 2025, the Company holds surety bonds with the state of Wyoming totaling $185. Prior to operating, we will require several other permits and licenses, including those issued by the NRC, U.S. Army Corps of Engineers, and others. Our Demonstration Plant is subject to federal, state, county and local licenses and permits, including an NRC source material possession license, USFS road use permit, and WDEQ air quality and storm water permits, among others. As of December 31, 2025, the Company held a surety bond…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 66384,
+        "end": 67024
+      }
+    },
+    {
+      "id": "REEMF-Arm-1",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 72638,
+      "excerpt": "…oxic chemicals, the handling and storage of radioactive materials, and other workplace risks typical of an industrial operation of this kind. Although we consider health, safety, and environmental stewardship a core value of our operations, certain events may occur which could result 17 Table of Contents in injury or harm to human health or the environment, resulting in significant fines and penalties and/or the possible suspension of our operations. ​ We have no revenues from operations and expect to incur losses for a significant period of time. Any future revenues and profits are uncertain. We have incurred losses since our incep…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 72319,
+        "end": 72959
+      }
+    },
+    {
+      "id": "REEMF-kw-1",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 88431,
+      "excerpt": "…iod of time, such as decreased employee or contractor availability, unavailability of needed products or services, or disruptions to the businesses of our contracted service providers and others. Our suppliers may also face these and other challenges, which could lead to a disruption or delay in their services. Any pandemic and resulting economic slowdown may also impact the supply and demand for rare earths domestically and globally. Although these disruptions may continue to occur, the long-term economic impact and near-term financial impacts of a pandemic, its ongoing variants, and other po…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 88231,
+        "end": 88831
+      }
+    },
+    {
+      "id": "REEMF-kw-2",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 92924,
+      "excerpt": "…ral estimates for our Sundance Gold Project as a current estimate of mineral resources, and we are not treating the historical mineral resource estimates as current estimates of mineral resources. We depend on key personnel, and the absence of any of these individuals could adversely affect our business. Our success is currently largely dependent on the performance, retention and abilities of our directors, President and Chief Executive Officer (“CEO”), other officers and personnel. The loss of the services of these persons could have a material adverse effect on our business and prospects. Th…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 92724,
+        "end": 93324
+      }
+    },
+    {
+      "id": "REEMF-kw-3",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 101079,
+      "excerpt": "…echnologies (hybrid and fully electric vehicles, wind power turbines, robotics, and AI data centers), as well as other REE applications such as oil refining catalysts, the success of our business may depend on the creation of new markets in addition to the successful commercialization of REE products in existing and emerging markets. Any unexpected costs or delays in the commercialization of any of the foregoing products or applications could have a material adverse effect on our ability to develop our Bear Lodge REE Project or operate our business profitably. 23 Table of Contents We are subje…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 100879,
+        "end": 101479
+      }
+    },
+    {
+      "id": "REEMF-Arm-2",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 113862,
+      "excerpt": "…st management practices, training, periodic monitoring of covered activities, and monitoring and sampling of stormwater run-off. The CWA and regulations implemented thereunder also prohibit discharges of dredged and fill material in wetlands and other waters of the U.S. unless authorized by a permit issued by the U.S. Army Corps of Engineers. ● The Safe Drinking Water Act, as amended (“SDWA”), and the Underground Injection Control (“UIC”) program promulgated thereunder regulate the drilling and operation of subsurface injection wells. The program requires that a permit be obtained before drilling a disposal well. The EPA directly ad…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 113543,
+        "end": 114183
+      }
+    },
+    {
+      "id": "REEMF-Arm-3",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 114889,
+      "excerpt": "…ies Act (“ESA”) regulates activities that could have an adverse effect on threatened and endangered species, including the habitat and ecosystems upon which they depend. The ESA protects threatened and endangered species primarily by prohibiting the unauthorized “taking” of listed species, which includes harassing or harming members of such species or significantly modifying their habitat. The ESA also requires consultation with other agencies in certain circumstances. Compliance with ESA requirements can significantly delay, limit, or even prevent the development of projects, including the development of mining claims, and can also…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 114569,
+        "end": 115269
+      }
+    },
+    {
+      "id": "REEMF-Arm-4",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 116019,
+      "excerpt": "…in response to the potential impact of climate change. In the U.S., on December 15, 2009, the EPA published its findings that emissions of carbon dioxide, methane and other GHGs present an endangerment to public health and the environment because emissions of such gases are, according to the EPA, contributing to the warming of the earth’s atmosphere and other climate changes. Based on these findings, the EPA developed and implemented regulations that restrict GHG emissions under existing provisions of the CAA. The EPA rescinded its endangerment finding on February 12, 2026, prompting immediate legal challenges. The EPA’s ability an…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 115700,
+        "end": 116339
+      }
+    },
+    {
+      "id": "REEMF-kw-4",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 117354,
+      "excerpt": "…tain states will pass additional legislation regulating GHG emissions at the state level. Legislation and increased regulation regarding climate change could impose significant costs on us and/or our suppliers, including costs related to increased energy requirements, capital equipment, environmental monitoring, and reporting and/or other costs to comply with such regulations. Any adopted future climate change regulations could also negatively impact our ability to compete with companies situated in areas not subject to such regulations. Alternatively, climate change legislation could potentia…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 117155,
+        "end": 117755
+      }
+    },
+    {
+      "id": "REEMF-Arm-5",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 118162,
+      "excerpt": "…products. We cannot predict how legislation and regulation will affect our financial condition, operating performance, or ability to compete. Even without such regulation, increased awareness, or any adverse publicity in the global marketplace about the rare earth industry’s potential impacts on the environment could harm our reputation and business. The potential physical impacts of climate change on our operations are highly uncertain and would be particular to the geographic circumstances in the areas in which we operate. These may include changes in precipitation, storm patterns and intensities, water shortages and changing temp…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 117842,
+        "end": 118482
+      }
+    },
+    {
+      "id": "REEMF-kw-5",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 118731,
+      "excerpt": "…t on the cost, production, or financial performance of our operations. A shortage of equipment and supplies could adversely affect our ability to operate our business. We currently do and likely will depend on various supplies and equipment to carry out our activities, including those for the Demonstration Plant, and, if warranted, future exploration, development, mining, and processing operations. A shortage of such supplies, equipment or parts could have a material adverse effect on our ability to carry out our planned activities or increase our operating costs and expenses. Mineral explorat…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 118531,
+        "end": 119131
+      }
+    },
+    {
+      "id": "REEMF-kw-6",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 132117,
+      "excerpt": "…sent policy is to retain all available funds for use in our business development and operations. Payment of future cash dividends, if any, will be at the discretion of the Board of Directors and will depend on our financial condition, results of operations, contractual restrictions, capital requirements, business prospects and other factors that the Board of Directors considers relevant. In the absence of dividends, investors will only see a return on their investment if the value of our common shares appreciate. Future sales of our securities in the public or private markets could adversely a…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 131917,
+        "end": 132517
+      }
+    },
+    {
+      "id": "REEMF-Arm-6",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 141602,
+      "excerpt": "…rt for more information about the systems and processes we use to manage these risks. ​ ITEM 1B. UNRESOLVED STAFF COMMENTS Not applicable. ​ ITEM 1C. CYBERSECURITY ​ We face cybersecurity risks due to the breadth of networks and systems we must defend against cybersecurity attacks and threat actors seeking to inflict harm on us; and the substantial level of harm that could occur to us were we to suffer impacts of a material cybersecurity incident. We are committed to maintaining robust governance and oversight of these risks and to implementing mechanisms, controls, technologies, and processes designed to help us assess, identify, a…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 141283,
+        "end": 141923
+      }
+    },
+    {
+      "id": "REEMF-Arm-7",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 141643,
+      "excerpt": "…and processes we use to manage these risks. ​ ITEM 1B. UNRESOLVED STAFF COMMENTS Not applicable. ​ ITEM 1C. CYBERSECURITY ​ We face cybersecurity risks due to the breadth of networks and systems we must defend against cybersecurity attacks and threat actors seeking to inflict harm on us; and the substantial level of harm that could occur to us were we to suffer impacts of a material cybersecurity incident. We are committed to maintaining robust governance and oversight of these risks and to implementing mechanisms, controls, technologies, and processes designed to help us assess, identify, and manage these risks. In the year ended…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "range": {
+        "start": 141324,
+        "end": 142022
+      }
+    },
+    {
+      "id": "REEMF-kw-7",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 143106,
+      "excerpt": "…e and recurrence where practicable through changes or updates to our internal processes and tools; however, we remain potentially vulnerable to known or unknown threats. In some instances, we and our suppliers may be unaware of a threat or incident or its magnitude and effects. Further, there is increasing regulation regarding responses to cybersecurity incidents, including reporting to regulators, which could subject us to additional liability and reputational harm. See “Item 1A. Risk Factors” of this Annual Report for more information on our cybersecurity risks and product vulnerability risk…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 142906,
+        "end": 143506
+      }
+    },
+    {
+      "id": "REEMF-kw-8",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 170786,
+      "excerpt": "…E (Heavy Rare Earth Elements) = Ytterbium (Yb)+Thulium (Tm)+ Terbium (Tb)+ Erbium (Er)+Holmium (Ho)+Lutetium (Lu) Data Verification The Company obtained the geological, exploration, and drilling data package from Phelps Dodge and Newmont Corporation, covering most of the work done on the property by various companies and claim owners through 1996. From 2006 until spring 2010, the Company conducted its own REE drilling programs throughout the Bear Lodge Property under a joint venture agreement with the Newmont Mining Corporation (“Newmont”), with the Company maintaining a separate database of R…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 170586,
+        "end": 171186
+      }
+    },
+    {
+      "id": "REEMF-kw-9",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 174181,
+      "excerpt": "…consortium created by General Atomics, an affiliate of Synchron, includes certain of General Atomics’ affiliates, the Company, and LNV, an Ardurra Group, Inc. company, as engineering and construction subcontractor. The Company, as a subrecipient of the award, along with the other consortium members, commenced work on the planning and design of the demonstration project in November 2021. The purpose of the Demonstration Plant is to process and separate certain REEs from previously stockpiled high-grade sample materials from the Bear Lodge REE P roject, utilizing the Company’s proprietary extrac…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 173981,
+        "end": 174581
+      }
+    },
+    {
+      "id": "REEMF-kw-10",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 236806,
+      "excerpt": "…fort to address these matters. Addressing the matter involved gaining an understanding of the process to account for the Cost Share Agreement. We obtained and interpreted the Cost Share Agreement and subcontracts to ensure the amounts were consistently applied. We evaluated management’s analysis and compared that to applicable accounting guidance. Finally, we obtained the 56 Table of Contents Company’s fund flows and examined the costs used in their calculation to ensure they were in accordance with the agreements. ​ ​ ​ ​ ​ ​ Haynie & Company Salt Lake City, Utah March 12, 2026 ​ We have serv…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 236606,
+        "end": 237206
+      }
+    },
+    {
+      "id": "REEMF-kw-11",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 246506,
+      "excerpt": "…e of Synchron, the Company’s majority shareholder, and includes certain of General Atomics’ affiliates, as well as the Company and LNV, an Ardurra Group, Inc. company, as engineering and construction subcontractor. The Company, as a subrecipient of the award, along with the other consortium members, commenced work on the planning and design of the Demonstration Plant project in November 2021, with the Company’s contractual arrangement with General Atomics finalized in December 2021. ​ To address the Company’s funding needs, including the funding required for the Demonstration Plant, the Compan…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 246347,
+        "end": 246867
+      }
+    },
+    {
+      "id": "REEMF-kw-12",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 266417,
+      "excerpt": "…of Synchron (the Company’s majority shareholder), and includes certain of General Atomics’ affiliates, as well as the Company and LNV, an Ardurra Group, Inc. company, as engineering and construction subcontractor. A formal proposal was submitted by the consortium in response to a published Funding Opportunity Announcement in mid-2020 for the construction and operation of the Demonstration Plant utilizing proprietary technology to produce commercial-grade products. Under this original proposal, the DoE’s share of the Demonstration Plant project funding was estimated at $ 21,900 and represented…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 266218,
+        "end": 266877
+      }
+    },
+    {
+      "id": "REEMF-kw-13",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 268137,
+      "excerpt": "…Plant under the Cooperative Agreement. The Demonstration Plant will process already stockpiled high-grade sample materials from the Bear Lodge REE Project. ​ On March 17, 2022, the Company executed a subcontract purchase order in the amount of $ 5,318 with General Atomics under which the Company agreed to provide certain services and materials to the Demonstration Plant project, including, but not limited to, providing the plant’s sample materials, engaging in site location leases and other logistics, providing operational support, and providing decommissioning, bonding and other Demonstration…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 267937,
+        "end": 268597
+      }
+    },
+    {
+      "id": "REEMF-kw-14",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 268569,
+      "excerpt": "…’s sample materials, engaging in site location leases and other logistics, providing operational support, and providing decommissioning, bonding and other Demonstration Plant support activities (the “Subcontract Purchase Order”). In connection with the Subcontract Purchase Order, the Company submitted monthly invoices to General Atomics for the subcontracted services performed, which were reimbursed by General Atomics with one -half of the funds coming from funds advanced by the Company under the Cost Share Agreement and, up to the original Demonstration Plant budget, one -half of the funds fr…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 268369,
+        "end": 268969
+      }
+    },
+    {
+      "id": "REEMF-kw-15",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 268622,
+      "excerpt": "…and other logistics, providing operational support, and providing decommissioning, bonding and other Demonstration Plant support activities (the “Subcontract Purchase Order”). In connection with the Subcontract Purchase Order, the Company submitted monthly invoices to General Atomics for the subcontracted services performed, which were reimbursed by General Atomics with one -half of the funds coming from funds advanced by the Company under the Cost Share Agreement and, up to the original Demonstration Plant budget, one -half of the funds from the DoE. ​ Due to inflationary cost pressures on l…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 268424,
+        "end": 269023
+      }
+    },
+    {
+      "id": "REEMF-kw-16",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 268716,
+      "excerpt": "…d other Demonstration Plant support activities (the “Subcontract Purchase Order”). In connection with the Subcontract Purchase Order, the Company submitted monthly invoices to General Atomics for the subcontracted services performed, which were reimbursed by General Atomics with one -half of the funds coming from funds advanced by the Company under the Cost Share Agreement and, up to the original Demonstration Plant budget, one -half of the funds from the DoE. ​ Due to inflationary cost pressures on labor, equipment, and consumables, as well as cost increases associated with certain optimized…",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "keyword",
+      "range": {
+        "start": 268516,
+        "end": 269175
+      }
+    },
+    {
+      "id": "5c006f0711abef66",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 2. Properties” in this Annual Report. RECENT CORPORATE DEVELOPMENTS Rare Earth Demonstration Plant Project ​ Construction, Commissioning and Operation of the Demonstration Plant ​ In January 2021, a consortium of companies, of which the Company is a part, received notice from the DoE that the consortium had been selected for negotiation of a potential financial award for the engineering, construction and operation of a rare earth separation and processing demonstration plant. The consortium",
+      "sectionId": "item_2_properties_in_this_annual_report_",
+      "sectionHeader": "Item 2. Properties” in this Annual Report. RECENT CORPORATE DEVELOPMENTS Rare Earth Demon",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 34849,
+        "end": 35409
+      }
+    },
+    {
+      "id": "5fbe9cd077d75d26",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 3529,
+      "excerpt": "creases that could make production less profitable or not profitable at all. A material increase in costs could also impact our ability to commence or maintain future development of mining operations. External influences, like a pandemic or other world health crisis, may have an adverse impact on our business. A future pandemic or similar public health issues, as seen in the COVID-19 pandemic, could have a material adverse effect on our ability to raise capital, construct or operate our Demonstr",
+      "sectionId": "item_2_properties_of_this_annual_report_",
+      "sectionHeader": "Item 2. Properties” of this Annual Report) and Technical Report for the Bear Lodge REE Pr",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 87520,
+        "end": 88020
+      }
+    },
+    {
+      "id": "fc131b3e78f6ecfe",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 8729,
+      "excerpt": "mineral estimates for our Sundance Gold Project as a current estimate of mineral resources, and we are not treating the historical mineral resource estimates as current estimates of mineral resources. We depend on key personnel, and the absence of any of these individuals could adversely affect our business. Our success is currently largely dependent on the performance, retention and abilities of our directors, President and Chief Executive Officer (“CEO”), other officers and personnel. The loss",
+      "sectionId": "item_2_properties_of_this_annual_report_",
+      "sectionHeader": "Item 2. Properties” of this Annual Report) and Technical Report for the Bear Lodge REE Pr",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 92720,
+        "end": 93280
+      }
+    },
+    {
+      "id": "e2084a9956914209",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 4272,
+      "excerpt": "nd, in part, on the establishment of new uses and markets for rare earth products. The success of our business may depend, in part, on the establishment of new markets for certain rare earth products. Although we plan to produce rare earth products for use in end-products such as NdFeB magnets, which are used in critical existing and emerging technologies (hybrid and fully electric vehicles, wind power turbines, robotics, and AI data centers), as well as other REE applications such as oil refini",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 100533,
+        "end": 101033
+      }
+    },
+    {
+      "id": "25e2845ca621c0bf",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 20284,
+      "excerpt": "d many states have already taken measures to reduce GHG emissions, primarily through the development of GHG inventories, GHG emission fees, GHG permitting and/or regional GHG “cap and trade” programs. Most of these “cap and trade” programs work by requiring major sources of emissions to acquire and surrender emission allowances, with the number of allowances available for purchase reduced each year until the overall GHG emission-reduction goal is achieved. It is likely that, in the 26 Table of C",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 116545,
+        "end": 117045
+      }
+    },
+    {
+      "id": "f1af178bb57d2618",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 22237,
+      "excerpt": "factors may have an adverse impact on the cost, production, or financial performance of our operations. A shortage of equipment and supplies could adversely affect our ability to operate our business. We currently do and likely will depend on various supplies and equipment to carry out our activities, including those for the Demonstration Plant, and, if warranted, future exploration, development, mining, and processing operations. A shortage of such supplies, equipment or parts could have a mate",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 118498,
+        "end": 118998
+      }
+    },
+    {
+      "id": "8a7c9acc0e13cf95",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 35098,
+      "excerpt": "ect to publish periodic financial information or furnish such information to our shareholders except as may be required by applicable laws, including Canadian securities laws, or stock exchange rules. As a result of the foregoing factors, deregistration may result in less disclosure about us and may negatively affect the liquidity and trading prices of our common shares. We do not currently intend to pay cash dividends. We have not declared any dividends since our incorporation and do not antici",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 131359,
+        "end": 131859
+      }
+    },
+    {
+      "id": "eea150f37d2c94a0",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 622,
+      "excerpt": "experience a material “cybersecurity incident” as such term is defined in Item 106(a) of Regulation S-K. However, there can be no guarantee that we will not experience such an incident in the future. Such incidents, whether or not successful, could result in us incurring significant costs related to, for example, implementing additional threat protection measures and increased cybersecurity insurance premiums, defending against litigation, responding to regulatory inquiries or actions, paying da",
+      "sectionId": "item_1b_unresolved_staff_comments_not_ap",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS Not applicable. ​ ITEM 1C. CYBERSECURITY ​ We face cybe",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 141993,
+        "end": 142493
+      }
+    },
+    {
+      "id": "3ff9d4dfb668a55f",
+      "ticker": "REEMF",
+      "vendor": "Arm",
+      "charOffset": 1614,
+      "excerpt": "processes and tools; however, we remain potentially vulnerable to known or unknown threats. In some instances, we and our suppliers may be unaware of a threat or incident or its magnitude and effects. Further, there is increasing regulation regarding responses to cybersecurity incidents, including reporting to regulators, which could subject us to additional liability and reputational harm. See “",
+      "sectionId": "item_1b_unresolved_staff_comments_not_ap",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS Not applicable. ​ ITEM 1C. CYBERSECURITY ​ We face cybe",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 142984,
+        "end": 143383
+      }
+    },
+    {
+      "id": "32c15c4087a4171d",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 21574,
+      "excerpt": "pay factors, and commodity price assumptions used for the purposes of preparing mineral resource estimates. ​ 39 Table of Contents At December 31, 2025, we had no proven or probable mineral reserves. The metallurgical recoveries, pay factors, and commodity price assumptions used in the preparation of the mineral resource estimate are shown in Table 2 below. Additional information about these assumptions is provided in Chapter 11 of the TRS and in the Technical Report. Table 2. Pay Factors, Hydro",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. The information that follows relating to the",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 169686,
+        "end": 170186
+      }
+    },
+    {
+      "id": "ffe72368116d5735",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 22574,
+      "excerpt": "+Lutetium (Lu) Data Verification The Company obtained the geological, exploration, and drilling data package from Phelps Dodge and Newmont Corporation, covering most of the work done on the property by various companies and claim owners through 1996. From 2006 until spring 2010, the Company conducted its own REE drilling programs throughout the Bear Lodge Property under a joint venture agreement with the Newmont Mining Corporation (“Newmont”), with the Company maintaining a separate database of",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. The information that follows relating to the",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 170685,
+        "end": 171244
+      }
+    },
+    {
+      "id": "f50a3e57d2453c06",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 25206,
+      "excerpt": "ge exploration drill programs (2009-2013). Dr. Jaacks, in his review, concluded that the 2009-2013 drill program analysis/assays to be of an acceptable quality and appropriate for resource estimation. ​ Rare Earth Processing and Separation Demonstration Plant Project During 2021, a consortium of companies, of which the Company is a member, and which is led by General Atomics, secured with the DoE an assistance agreement for the engineering, construction, operation and decommissioning of a rare e",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. The information that follows relating to the",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 173317,
+        "end": 173817
+      }
+    },
+    {
+      "id": "b936ce7e0d9eed9c",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 26059,
+      "excerpt": "nstruction subcontractor. The Company, as a subrecipient of the award, along with the other consortium members, commenced work on the planning and design of the demonstration project in November 2021. The purpose of the Demonstration Plant is to process and separate certain REEs from previously stockpiled high-grade sample materials from the Bear Lodge REE P roject, utilizing the Company’s proprietary extraction and separation processes. The Demonstration Plant has been designed as a demonstrati",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. The information that follows relating to the",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 174170,
+        "end": 174670
+      }
+    },
+    {
+      "id": "d13454f38996f9f3",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 4518,
+      "excerpt": "quired by management to determine the activity completed in accordance with the agreements. This required a high degree of auditor judgement and an increased extent of effort to address these matters. Addressing the matter involved gaining an understanding of the process to account for the Cost Share Agreement. We obtained and interpreted the Cost Share Agreement and subcontracts to ensure the amounts were consistently applied. We evaluated management’s analysis and compared that to applicable a",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Not applicable. ​ ITEM",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 236436,
+        "end": 236936
+      }
+    },
+    {
+      "id": "20172768a8d476f5",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 13632,
+      "excerpt": "ntly focused on the advancement of a rare earth processing and separation demonstration-scale plant (the “Demonstration Plant”) project and the permitting and licensing of the Bear Lodge REE Project . The Demonstration Plant will process already stockpiled high-grade sample materials from the Bear Lodge REE Project. In January 2021, a consortium of companies, of which the Company is a part, received notice from the Department of Energy (“DoE”) that the consortium had been selected for negotiatio",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Not applicable. ​ ITEM",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 245550,
+        "end": 246050
+      }
+    },
+    {
+      "id": "65c1e4c0e834cca9",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 14402,
+      "excerpt": "the Company’s majority shareholder, and includes certain of General Atomics’ affiliates, as well as the Company and LNV, an Ardurra Group, Inc. company, as engineering and construction subcontractor. The Company, as a subrecipient of the award, along with the other consortium members, commenced work on the planning and design of the Demonstration Plant project in November 2021, with the Company’s contractual arrangement with General Atomics finalized in December 2021. ​ To address the Company’s",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Not applicable. ​ ITEM",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 246321,
+        "end": 246880
+      }
+    },
+    {
+      "id": "ff00138449592721",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 10206,
+      "excerpt": "mber 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. ​ While early adoption is permitted, we do not plan to adopt this standard early. When adopted, this ASU may result in additional disclosures being included in our consolidated financial statements, but we are still in the process of evaluating the provisions of this ASU. ​ 4. RELATED PARTY Cost Share Agreement with General Atomics In January 2021, a consortium of companies, of",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. Research & Development (“R&D”) Expenditures",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 265429,
+        "end": 265988
+      }
+    },
+    {
+      "id": "9518ea27d2dc7594",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 11008,
+      "excerpt": "the Company’s majority shareholder), and includes certain of General Atomics’ affiliates, as well as the Company and LNV, an Ardurra Group, Inc. company, as engineering and construction subcontractor. A formal proposal was submitted by the consortium in response to a published Funding Opportunity Announcement in mid-2020 for the construction and operation of the Demonstration Plant utilizing proprietary technology to produce commercial-grade products. Under this original proposal, the DoE’s shar",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. Research & Development (“R&D”) Expenditures",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 266231,
+        "end": 266731
+      }
+    },
+    {
+      "id": "86165b4463ea7ee3",
+      "ticker": "REEMF",
+      "vendor": null,
+      "charOffset": 12669,
+      "excerpt": "truction, and operation of the Demonstration Plant under the Cooperative Agreement. The Demonstration Plant will process already stockpiled high-grade sample materials from the Bear Lodge REE Project. ​ On March 17, 2022, the Company executed a subcontract purchase order in the amount of $ 5,318 with General Atomics under which the Company agreed to provide certain services and materials to the Demonstration Plant project, including, but not limited to, providing the plant’s sample materials, en",
+      "sectionId": "item_1a_risk_factors_of_this_annual_repo",
+      "sectionHeader": "Item 1A. Risk Factors” of this Annual Report. Research & Development (“R&D”) Expenditures",
+      "form": "10-K",
+      "filingDate": "2026-03-12",
+      "type": "chunk",
+      "range": {
+        "start": 267892,
+        "end": 268392
+      }
+    }
+  ]
+}

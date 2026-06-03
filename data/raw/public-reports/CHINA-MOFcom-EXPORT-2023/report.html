@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<!--[if lte IE 7 ]><html lang="zh-cn" class="no-js ie lte7 lte8 lte9 "> <![endif]-->
+<!--[if IE 8 ]><html lang="zh-cn" class="no-js ie ie8 lte8 lte9 "> <![endif]-->
+<!--[if IE 9 ]><html lang="zh-cn" class="no-js ie ie9 lte9 "> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="zh-cn" class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/edi.base.min.css">
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/edi.reset.min.css" />
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/edi.function.min.css" />
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/module.css">
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/barrierfree.css">
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/app.css" />
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/all.css" />
+<link rel="stylesheet" href="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/jq_ui.min.css">
+<style>
+	/* 网站变灰 start */
+	/*.suggest-container {
+		min-width: 200px;
+	}*/
+	/*.menuTggle,.menuLayout,.iUserBox,.main,.iMenu_l,.mFooter_01,.footer_02,.ftCon,.ft-jc-01,.ftInfo{
+		-webkit-filter: grayscale(1);
+		filter: grayscale(100%);
+		filter: gray
+		/* webkit内核 */
+		/*-webkit-filter: grayscale(100%);
+		/* 火狐内核 */
+		/*-moz-filter: grayscale(100%);
+		/* 微软内核 */
+		/*-ms-filter: grayscale(100%);
+		/* 欧朋内核 */
+		/*-o-filter: grayscale(100%);
+		/* ie专有滤镜 */
+		/*filter:gray;
+	}
+	.header{
+		border-top-color: gray;
+	}*/
+	.column1_1 {
+		padding-top: 10px;
+		padding-bottom: 18px;
+		font-family: "微软雅黑", "宋体";
+		color: #005293;
+		font-size: 39px;
+		text-align: center;
+	}
+	/* 网站变灰 end */
+
+	/* 加banner文字说明链接 */
+	/*.column1_1 {
+            padding-top: 10px;
+            padding-bottom: 18px;
+            font-family: "微软雅黑", "宋体";
+            color: #005293;
+            font-size: 39px;
+            text-align: center;
+        }*/
+        .column1_2 {
+            display: none;
+            margin-bottom: 20px;
+            height: auto;
+            overflow: hidden;
+            color: #005293;
+            font-family: "微软雅黑", "宋体";
+            font-size: 18px;
+            text-align: center;
+        }
+        .column1_1 a, .column1_2 a {
+            color: rgb(69, 69, 69);
+	}
+
+	html{
+		min-width: 1034px;
+	}
+	.iColumn .iMainL, .iMainR_02{
+		width: 36%;
+		float: left;
+	}
+	.iMainR_02{
+		width:20%;
+	}
+	.iMainR_02.f-fr{float:right}
+	@media (max-width:640px) {
+		body{padding:0 15px;}
+		.main h1 .gwy-box a{letter-spacing: 0em;}
+		.interviewList li a.aTxt {
+			overflow: hidden;
+			text-overflow: ellipsis;
+			display: -webkit-box;
+			-webkit-box-orient: vertical;
+			-webkit-line-clamp: 4;
+			max-height: 104px;
+		}
+	}
+	.banner20_1 {display: block;}
+	.banner20_m_1{display:none;}
+	@media (max-width:999px) {
+		.banner20_1{display: none;}
+		.banner20_m_1{display:block;}
+        }
+	.banner20_2 {display: block;}
+	.banner20_m_2{display:none;}
+	@media (max-width:999px) {
+		.banner20_2{display: none;}
+		.banner20_m_2{display:block;}
+        }
+	.bg_20d {
+		background-image: url(/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/img/20/ershidasybg1.jpg);
+		background-position: center 0;
+		background-repeat: no-repeat;
+		width: 100%;
+		z-index: 0;
+	}
+	.bg_20d .main {
+		background: #fff;
+	}
+	.logoLianghui {
+		width: 1100px;
+		margin: 0 auto;
+		text-align: right;
+		padding: 14px 0;
+	}
+	.logoLianghui a {
+		display: inline-block;
+		height: 120px;
+		padding-right: 20px;
+		padding-top: 25px;
+	}
+	@media (max-width:1099px) {
+		.logoLianghui {
+			margin: 0 auto;
+			width: 80%;
+			text-align: center;
+		}
+        }
+</style>
+</link></link></link></link><script src="/cms_files/default/script/jslib/jquery.js"></script>
+ <script src="/cms_files/default/script/jslib/jquery.cookie.js"></script>
+ <script src="/cms_files/default/script/layui/layui.all.js"></script>
+ <script src="/cms_files/default/script/layui/layer/layer.js"></script>
+ <script src="/script/webglobal.js"></script>
+ <script src="/plugins/libs/require.js"></script>
+ <script src="/plugins/libs/load.js"></script>
+ <script src="/script/webgray.js"></script>
+ <link rel="stylesheet" href="/cms_files/default/css/iconfont.css" />
+<link rel="stylesheet" href="/cms_files/default/script/layui/css/layui.css" />
+<title>中华人民共和国商务部</title>
+<meta name="ColId" content="fdbf8bd743f54454b28bebe8b11dceb8">
+<meta name="SiteName" content="中华人民共和国商务部">
+<meta name="SiteDomain" content="www.mofcom.gov.cn">
+<meta name="SiteIDCode" content="bm22000001">
+<meta name="server" content="www.mofcom.gov.cn/index.html">
+<meta name="MakeTime" content="2026-06-03 10:21:53">
+
+<meta id="pagetype" content="0">
+</meta></meta></meta></meta></meta></meta></meta></head>
+<body id="page_type" alt="首页"><div id='barrierfree_container'>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/uaredirect.js"></script>
+<!--[if lte IE 8 ]><script>window.location.href = "https://www.mofcom.gov.cn/txym/index.html"</script><![endif]-->
+<script type="text/javascript">uaredirect("https://www.mofcom.gov.cn/wap/index.html");</script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/grayscale.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/yahoo-dom-event.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/suggest-yui2.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/search.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/index.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/edi_accessible.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/EasyReader.min.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/jquery.jplayer.min.js"></script>
+<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/dm.js"></script>
+<script src="/cms_files/filemanager/1077459795/script/20234/f520b6706ce14329a507091f7ccdb71e.js" type="text/javascript" charset="utf-8"></script><script src="/cms_files/filemanager/1077459795/script/20234/142e24a5aa6741a584da14105ae1a7f2.js" type="text/javascript" charset="utf-8"></script>	<!--<div id="gray">-->
+		<section class="main">
+			<section class="container f-pr f-ptb0">
+				<div class="iColumn"></div>
+				<div class="iColumn iColumn_01">
+					<section class="f-cb">
+						<div class="iMainL f-fl ml2 j-slideTxtBox">
+							<h1 class="iTitle_01 f-mt30 f-pr hd">
+								<em>			<a href="/szyw/index.html">时政要闻</a>
+</em>								<span class="u-split">|</span>
+								<em class="z-crt">			<a href="/xwfb/index.html">新闻发布</a>
+</em>							</h1>
+							<section ergodic="view">
+								<div class="bd">
+									<section class="u-tab-ct f-dn">
+										<div class="lCol_01 lBorB">
+											<ul class="lColList_01">
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202606/content_7070850.htm" title="创造属于我们这个时代的新文化——习近平文化思想引领文化传承发展开创新局面" target="_blank">创造属于我们这个时代的新文化——习近平文化思想引领文化传承发展开创新局面</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202605/content_7070725.htm" title="《习近平法治文选》第一卷英文版出版发行" target="_blank">《习近平法治文选》第一卷英文版出版发行</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202605/content_7070716.htm" title="习近平给中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员的回信" target="_blank">习近平给中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员的回信</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202605/content_7070713.htm" title="《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》" target="_blank">《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202606/content_7070766.htm" title="李强签署国务院令 公布《国务院关于对外投资的规定》" target="_blank">李强签署国务院令 公布《国务院关于对外投资的规定》</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202605/content_7070687.htm" title="李强对安全生产工作作出重要批示：坚决贯彻落实习近平总书记关于安全生产的重要指示精神 切实维护人民群众生命财产安全和社会大局稳定" target="_blank">李强对安全生产工作作出重要批示：坚决贯彻落实习近平总书记关于安全生产的重要指示精神 切实维护人民群众生命财产安全和社会大局稳定</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202605/content_7070418.htm" title="李强在浙江舟山宁波调研时强调：加快建设大宗商品资源配置枢纽 为统筹发展和安全提供可靠保障" target="_blank">李强在浙江舟山宁波调研时强调：加快建设大宗商品资源配置枢纽 为统筹发展和安全提供可靠保障</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/yaowen/liebiao/202605/content_7070066.htm" title="前4个月我国高技术产业实际使用外资同比增长20.3%" target="_blank">前4个月我国高技术产业实际使用外资同比增长20.3%</a>
+	  </li>
+	  <li>
+		<a href="https://www.gov.cn/lianbo/202605/content_7070034.htm" title="近3年我国存量外资企业数量逐年上升 存量外资超3.6万亿美元" target="_blank">近3年我国存量外资企业数量逐年上升 存量外资超3.6万亿美元</a>
+	  </li>
+											</ul>
+										</div>
+										<div class="gwy-box f-mt25"><a href="http://www.gov.cn/pushinfo/v150203/index.htm" target="_blank">国务院信息</a><span>|</span><a href="http://www.gov.cn/zhengce/zuixin.htm" target="_blank">国务院文件</a></div>
+									</section>
+									<section class="u-tab-ct">
+										<section class="lCol_01 f-mt20 lBorB">
+<h3>
+	<a href="/syxwfb/art/2026/art_aa358e1a732c4453bec87d3093e4ffc7.html" target="_blank" title="习近平同塞尔维亚总统武契奇会谈">习近平同塞尔维亚总统武契奇会谈</a>
+</h3>
+<div readLabel="" class="con f-mt20">  新华社北京5月25日电 5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。  习近平指出，2024年我对塞尔维亚...</div>
+<p class="lFt f-mt15">更新于 2026年05月26日 11:16</p>
+										</section>
+										<section class="lCol_01 f-mt30 lBorB">
+ <h4>
+<a href="/syxwfb/art/2026/art_7c77a20ac6364e91ab639a502451cf6f.html" target="_blank" title="李强签署国务院令 公布《国务院关于对外投资的规定》">李强签署国务院令 公布《国务院关于对外投资的规定》</a>
+</h4>
+<div readlabel="" class="con f-mt15">新华社北京6月1日电　国务院总理李强日前签署国务院令，公布《国务院关于对外投资的规定》（以下简称《规定》），自2026年7月1日起施行。《规定》旨在推进高水平对...
+</div>
+										</section>
+										<section class="f-mt10">
+											<ul class="lColList_01 lColList_01_2">
+	  <li>
+		<a href="/syxwfb/art/2026/art_f3f940591b534ad1b0d9d80a80db9a5f.html" title="王文涛部长会见巴西外交部长维埃拉" target="_blank">王文涛部长会见巴西外交部长维埃拉</a>
+	  </li>
+	  <li>
+		<a href="/syxwfb/art/2026/art_0871a8d23a7d4f4099de0c139e4f2fa0.html" title="凌激副部长兼国际贸易谈判副代表会见英中贸协主席吴思田" target="_blank">凌激副部长兼国际贸易谈判副代表会见英中贸协主席吴思田</a>
+	  </li>
+	  <li>
+		<a href="/syxwfb/art/2026/art_d8213c96a3a947279bd606d3a4bedb97.html" title="商务部启动2026年“服务消费季”活动" target="_blank">商务部启动2026年“服务消费季”活动</a>
+	  </li>
+											</ul>
+										</section>
+									</section>
+								</div>
+							</section>
+						</div>
+						<div class="iMainR f-fr">
+							<div class="slider">
+								<div id="slideBox" class="slideBox">
+<div class="hd">
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</div>
+<div class="bd">
+	<ul>
+		<li>
+			<a href="https://www.12371.cn/zqzjg/" target="_blank" title="树立和践行正确政绩观"><img src="/cms_files/filemanager/1077459795/picture/202511/d1b43c480f9b4d539156ed02a7ed031c.jpg">
+			<div class="wms-exp">
+				<h5>树立和践行正确政绩观</h5>
+				<p></p>
+			</div>
+		</img></a>
+		</li>
+		<li>
+			<a href="https://www.mofcom.gov.cn/ddesdjsxxpt/index.html" target="_blank" title="学习宣传贯彻党的二十大精神"><img src="/cms_files/filemanager/1077459795/picture/20239/dd22148ed38c4f81b9d1a09491861dd9.jpg">
+			<div class="wms-exp">
+				<h5>学习宣传贯彻党的二十大精神</h5>
+				<p></p>
+			</div>
+		</img></a>
+		</li>
+		<li>
+			<a href="/xwfb/bldhd/art/2026/art_f33c949a0c4c45c8871e2daa9ed34046.html" target="_blank" title="全国商务工作会议在京召开"><img src="/cms_files/filemanager/1077459795/picture/202511/89466e355c934764a31e251a1be170c4.jpg">
+			<div class="wms-exp">
+				<h5>全国商务工作会议在京召开</h5>
+				<p>1月10日至11日，全国商务工作会议在京召开。会议以习近平新时代中国特色社会主义思想为指导，深入贯彻落实党的二十大和二十届历次全会精神，认真落实中央经济工作会议部署，坚持稳中求进工作总基调，立足商务工作“三个重要”定位，总结2025年和“十四五”工作，研究“十五五”目标任务，部署2026年工作。</p>
+			</div>
+		</img></a>
+		</li>
+		<li>
+			<a href="https://hzf.mofcom.gov.cn" target="_blank" title="国家层面海外综合服务平台正式上线"><img src="/cms_files/filemanager/1077459795/picture/202511/a8da2939654342a2ae5da019b1c94d88.jpg">
+			<div class="wms-exp">
+				<h5>国家层面海外综合服务平台正式上线</h5>
+				<p></p>
+			</div>
+		</img></a>
+		</li>
+		<li>
+			<a href="http://www.scio.gov.cn/live/2025/36771/index.html" target="_blank" title="王文涛部长出席国新办系列主题新闻发布会介绍“十四五”商务高质量发展成就有关情况"><img src="/cms_files/filemanager/1077459795/picture/20255/4134544a6f8f4030afeab39feef94706.jpg">
+			<div class="wms-exp">
+				<h5>王文涛部长出席国新办系列主题新闻发布会介绍“十四五”商务高质量发展成就有关情况</h5>
+				<p>国务院新闻办公室于2025年7月18日上午10时举行“高质量完成‘十四五’规划”系列主题新闻发布会，请商务部部长王文涛、商务部国际贸易谈判代表兼副部长李成钢、商务部副部长兼国际贸易谈判副代表凌激、商务部副部长盛秋平介绍“十四五”商务高质量发展成就，并答记者问。</p>
+			</div>
+		</img></a>
+		</li>
+		<li>
+			<a href="https://www.mofcom.gov.cn/syxwfb/art/2026/art_2d11cc8218d248a3b4c98ea465781427.html" target="_blank" title="商务部召开党风廉政建设和反腐败工作会议暨警示教育大会"><img src="/cms_files/filemanager/1077459795/picture/202511/4edcca49b9c34585a1f608c2f72cb9e5.png">
+			<div class="wms-exp">
+				<h5>商务部召开党风廉政建设和反腐败工作会议暨警示教育大会</h5>
+				<p></p>
+			</div>
+		</img></a>
+		</li>
+	</ul>
+</div>									<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+									<a class="prev" href="javascript:void(0)"></a>
+									<a class="next" href="javascript:void(0)"></a>
+								</div>
+							</div>
+							<div class="hotScroll f-mt50" ergodic="view">
+								<div class="picScroll-left">
+									<div class="hd">
+										<a class="next" href="javascript:void(0)"></a>
+										<a class="prev" href="javascript:void(0)"></a>
+										<h5>			<a href="/rdzt/index.html" target="_blank">热点专题</a>
+</h5>									</div>
+									<div class="f-cb">
+										<div class="bd">
+											<ul class="picList">
+<li>
+	<div class="pic"><a href="https://hzf.mofcom.gov.cn" target="_blank" title="国家层面海外综合服务平台"><img src="/cms_files/filemanager/1077459795/picture/202511/cf43ba73651e46f2b2e9e8931d137c69.jpg" alt="国家层面海外综合服务平台" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="http://scyxs.mofcom.gov.cn/xfpyjhx/index.html" target="_blank" title="消费品以旧换新"><img src="/cms_files/filemanager/1077459795/picture/20245/de9624ea129e4a51a96f4c52da37c68b.jpg" alt="消费品以旧换新" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="https://cws.mofcom.gov.cn/swbf/index.html" target="_blank" title="商务帮扶"><img src="/cms_files/filemanager/1077459795/picture/20251/794bd49b67a2412886288ed375309f88.jpg" alt="商务帮扶" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm" target="_blank" title="提振消费专项行动 政策集成和综合解读"><img src="/cms_files/filemanager/1077459795/picture/20254/a6fa05fdadc9444e8af6b9959612c343.jpg" alt="提振消费专项行动 政策集成和综合解读" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="/yhyshj/index.html" target="_blank" title="优化营商环境-国际贸易专题"><img src="/cms_files/filemanager/1077459795/picture/202311/85c026d5d94245838f941d96c82d8cd6.png" alt="优化营商环境-国际贸易专题" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="http://wms.mofcom.gov.cn/ztxx/wmcj/" target="_blank" title="外贸促进"><img src="/cms_files/filemanager/1077459795/picture/20238/a06f92e07a264dcd92bfff26d79b7a42.jpg" alt="外贸促进" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="https://wzxxbg.mofcom.gov.cn/wzWtsq/un/register" target="_blank" title="外资企业问题诉求收集办理"><img src="/cms_files/filemanager/1077459795/picture/202311/18ed5f012d9b4877ac605ac3805c6533.jpg" alt="外资企业问题诉求收集办理" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="https://dzswgf.mofcom.gov.cn/" target="_blank" title="电子商务公共服务"><img src="/cms_files/filemanager/1077459795/picture/20238/598bac74b72d4cf5b04b4d65cc183631.jpg" alt="电子商务公共服务" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="http://scyxs.mofcom.gov.cn/gjxfzxcs/index.html" target="_blank" title="国际消费中心城市培育建设"><img src="/cms_files/filemanager/1077459795/picture/20238/7ea52a218aa944d5878df01ff77fad7b.jpg" alt="国际消费中心城市培育建设" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="/zcfb/wwmwwzzccs/index.html" target="_blank" title="稳外贸稳外资政策措施"><img src="/cms_files/filemanager/1077459795/picture/20238/7eb92c653e6a4949883d595413737613.jpg" alt="稳外贸稳外资政策措施" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="https://dzswgf.mofcom.gov.cn/slds.html" target="_blank" title="丝路电商——电子商务国际合作"><img src="/cms_files/filemanager/1077459795/picture/20238/3e500a130697461e999a37cd8fd3fb37.jpg" alt="丝路电商——电子商务国际合作" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="http://fta.mofcom.gov.cn/rcep/rcep_new.shtml" target="_blank" title="《区域全面经济伙伴关系协定》（RCEP）"><img src="/cms_files/filemanager/1077459795/picture/20238/8760c7345f6540d8ae05ff3b664eecd3.jpg" alt="《区域全面经济伙伴关系协定》（RCEP）" /></a></div>
+</li>
+<li>
+	<div class="pic"><a href="/xxgcxjpxsdzgtsshzysxztjy/index.html" target="_blank" title="学习贯彻习近平新时代中国特色社会主义思想..."><img src="/cms_files/filemanager/1077459795/picture/20238/b923c1bef92d408b95b59778c4eb3d3c.jpg" alt="学习贯彻习近平新时代中国特色社会主义思想..." /></a></div>
+</li>
+											</ul>
+										</div>
+									</div>
+									<script>
+										// 首页滚动
+										jQuery(".picScroll-left").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"leftLoop",autoPlay:true,vis:3,trigger:"click"});
+									</script>
+									
+								</div>
+							</div>
+							<ul class="f-cb hotTxtList f-mt10" ergodic="view">
+
+
+<li><a href="https://www.ciie.org/zbh/index.html" target="_blank" title="中国国际进口博览会">中国国际进口博览会</a></li>
+<li><a href="https://scyxltfz.mofcom.gov.cn/" target="_blank" title="市场运行与流通发展服务平台">市场运行与流通发展服务平台</a></li>
+<li><a href="https://dzswgf.mofcom.gov.cn/" target="_blank" title="电子商务公共服务">电子商务公共服务</a></li>
+							</ul>
+						</div>
+					</section>
+					<section class="hiddenColumn_01 f-cb f-mt30 f-dn">
+						<div class="iMainL f-fl ml2">
+							<div class="ovdColumn">
+			<a href="/xwfb/rcxwfb/index.html" target="_blank"><h4 class="iTitle_02">日常新闻发布</h4></a>
+								<div class="con">
+									<ul>
+	  <li>
+		<a href="/xwfb/rcxwfb/art/2026/art_a19be62e79f04d72adef2945b20e9247.html" title="国务院关于对外投资的规定" target="_blank" class="prolink">国务院关于对外投资的规定</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/rcxwfb/art/2026/art_a36d2000fc1a4d7fa2ed12a9f39b0cae.html" title="2026年亚太经合组织贸易部长会议苏州联合声明" target="_blank" class="prolink">2026年亚太经合组织贸易部长会议苏州联合声明</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/rcxwfb/art/2026/art_420906b502c24be68b800620817a2621.html" title="2026年亚太经合组织贸易部长会议在苏州举行" target="_blank" class="prolink">2026年亚太经合组织贸易部长会议在苏州举行</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/rcxwfb/art/2026/art_21245f836d4e435fbe30701c54cca7fc.html" title="2026年1-4月全国吸收外资2876.9亿元人民币" target="_blank" class="prolink">2026年1-4月全国吸收外资2876.9亿元人民币</a>
+	  </li>
+									</ul>
+								</div>
+							</div>
+							<div class="ovdColumn f-mt30">
+			<a href="/xwfb/xwfyrth/index.html" target="_blank"><h4 class="iTitle_02">新闻发言人谈话</h4></a>
+								<div class="con">
+									<ul>
+	  <li>
+		<a href="/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html" title="商务部新闻发言人就欧委会开展对华关系讨论答记者问" target="_blank" class="prolink">商务部新闻发言人就欧委会开展对华关系讨论答记者问</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/xwfyrth/art/2026/art_2ff1de0282be42ab87201b69a9fcb008.html" title="商务部新闻发言人就中美经贸磋商初步成果答记者问" target="_blank" class="prolink">商务部新闻发言人就中美经贸磋商初步成果答记者问</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/xwfyrth/art/2026/art_df1b7dd65f014ea29f7de59bb04e2ebf.html" title="商务部新闻发言人就认定欧盟外国补贴调查相关做法构成不当域外管辖措施答记者问" target="_blank" class="prolink">商务部新闻发言人就认定欧盟外国补贴调查相关做法构成不当域外管辖措施答记者问</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/xwfyrth/art/2026/art_393faf62f1034140a4f741ab8647bc39.html" title="商务部新闻发言人就英国政府拟将英国钢铁国有化答记者问" target="_blank" class="prolink">商务部新闻发言人就英国政府拟将英国钢铁国有化答记者问</a>
+	  </li>
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+						<div class="iMainL f-fl ml2">
+							<div class="ovdColumn">
+			<a href="/xwfb/sjfzrfb/index.html" target="_blank"><h4 class="iTitle_02">司局负责人发布</h4></a>
+								<div class="con">
+									<ul>
+	  <li>
+		<a href="/xwfb/sjfzrfb/art/2026/art_d8dc8a75ba624562bee60458ef35bb4d.html" title="APEC贸易部长会议发表《苏州声明》，取得丰硕成果" target="_blank" class="prolink">APEC贸易部长会议发表《苏州声明》，取得丰硕成果</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/sjfzrfb/art/2026/art_a7fb8a17adc045c6beb5dccac4b2f3a8.html" title="商务部电子商务司负责人介绍2026年1-4月我国电子商务发展情况" target="_blank" class="prolink">商务部电子商务司负责人介绍2026年1-4月我国电子商务发展情况</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/sjfzrfb/art/2026/art_af8f89a0ec45453f99749f8587545344.html" title="商务部消费促进司负责人谈2026年4月我国消费市场情况" target="_blank" class="prolink">商务部消费促进司负责人谈2026年4月我国消费市场情况</a>
+	  </li>
+	  <li>
+		<a href="/xwfb/sjfzrfb/art/2026/art_de52be0213aa4c7c8216a564545c8bf7.html" title="商务部美大司负责人解读中美经贸磋商初步成果" target="_blank" class="prolink">商务部美大司负责人解读中美经贸磋商初步成果</a>
+	  </li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="ovdColumn f-mt30">
+			<a href="/xwfbh/index.html" target="_blank"><h4 class="iTitle_02">新闻发布会</h4></a>
+								<div class="con">
+									<ul>
+	  <li>
+		<a href="http://www.scio.gov.cn/live/2026/38706/index.html" title="鄢东副部长出席国新办发布会介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况" target="_blank" class="prolink">鄢东副部长出席国新办发布会介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况</a>
+	  </li>
+	  <li>
+		<a href="/xwfbzt/2026/swbzklxxwfbh2026n5y28r/index.html" title="商务部召开例行新闻发布会（2026年5月28日）" target="_blank" class="prolink">商务部召开例行新闻发布会（2026年5月28日）</a>
+	  </li>
+	  <li>
+		<a href="http://www.scio.gov.cn/live/2026/38622/index.html" title="鄢东副部长出席国新办发布会介绍2026年跨国公司领导人青岛峰会有关情况" target="_blank" class="prolink">鄢东副部长出席国新办发布会介绍2026年跨国公司领导人青岛峰会有关情况</a>
+	  </li>
+	  <li>
+		<a href="/xwfbzt/2026/swbzkztxwfbhwzbfb/index.html" title="王文涛部长出席APEC贸易部长会议新闻发布会" target="_blank" class="prolink">王文涛部长出席APEC贸易部长会议新闻发布会</a>
+	  </li>
+									</ul>
+								</div>
+
+						</div>			
+							
+						</div>
+						<div class="iMainR_02 mr10 f-fr">
+							<div class="rTopicCol">
+								<h4 class="iTitle_02">机构子站专题</h4>								<ul class="txtList_02 f-mt20">
+	  <li>
+		<a href="http://yzs.mofcom.gov.cn/zrjjgcdh/index.html" title="中日经济高层对话" target="_blank" class="ediAssetsTextCon">中日经济高层对话</a>
+	  </li>
+	  <li>
+		<a href="http://wms.mofcom.gov.cn/ztxx/ncpmyzt/index.html" title="农产品贸易专题" target="_blank" class="ediAssetsTextCon">农产品贸易专题</a>
+	  </li>
+	  <li>
+		<a href="/cms_files/filemanager/ckzn/index.shtml" title="出口商品技术指南" target="_blank" class="ediAssetsTextCon">出口商品技术指南</a>
+	  </li>
+								</ul>
+							</div>
+						</div>
+					</section>
+					<p class="ftColumn f-mt20"><span></span><i>点击查看更多内容</i></p>
+				</div>
+				<div class="iColumn iColumn_02">
+					<h1 class="iTitle_01 f-mt50 ml2"><em class="z-crt">
+		<a href="/zwgk/index.html">政务公开</a>
+
+</em></h1>					<div class="f-cb f-pb20">
+						<div class="iMainL f-fl ml2 f-mt30">
+							<ul class="f-cb gkList_01">
+<script src="/cms_files/filemanager/1077459795/script/20234/042850169d8847cf8c62a205a40e68d7.js" type="text/javascript" charset="utf-8"></script>							</ul>
+							<ul class="gkList_02 borT1 f-mt10" ergodic="view">
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_fd260389389f47adbda5bfb1eb6b824d.html" title="商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告" target="_blank">商务部等5部门关于调整《向特定国家（地区）出口易制毒化学品管理目录》的公告</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：安全与管制局</span>
+		<i>05-22</i>
+	</p>
+	</li>
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_f1cb6bc8911745a8b2a6d8a5b39c043f.html" title="商务部等6部门关于加力优化离境退税措施扩大入境消费的通知" target="_blank">商务部等6部门关于加力优化离境退税措施扩大入境消费的通知</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：消费促进司</span>
+		<i>05-18</i>
+	</p>
+	</li>
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_0ff88c45f1974962a539775085014888.html" title="商务部公告2026年第21号 公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令" target="_blank">商务部公告2026年第21号 公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：条法司</span>
+		<i>05-02</i>
+	</p>
+	</li>
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_b42f60d3d2884af1b609474e96f7319a.html" title="中华人民共和国商务部令二〇二六年第1号 关于取消对欧盟两家金融机构反制措施的决定" target="_blank">中华人民共和国商务部令二〇二六年第1号 关于取消对欧盟两家金融机构反制措施的决定</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：安全与管制局</span>
+		<i>04-24</i>
+	</p>
+	</li>
+							</ul>
+						</div>
+						<div class="iMainL f-fl ml2 f-mt30">
+							<ul class="f-cb gkList_01">
+<script src="/cms_files/filemanager/1077459795/script/20234/f5eb42c8f34b45059cc16197d318e746.js" type="text/javascript" charset="utf-8"></script>							</ul>
+							<ul class="gkList_02 borT1 f-mt10" ergodic="view">
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_cbb5d167f9004a58aee4b7a0f260c078.html" title="商务部公告2026年第20号 公布将7家欧盟实体列入出口管制管控名单" target="_blank">商务部公告2026年第20号 公布将7家欧盟实体列入出口管制管控名单</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：安全与管制局</span>
+		<i>04-24</i>
+	</p>
+	</li>
+	<li>
+	<a href="/zwgk/zcjd/art/2026/art_b77e03895b744889b5c7b385e18d429c.html" title="商务部服贸司负责人解读《服务贸易标准化工作行动计划（2026—2030年）》" target="_blank">商务部服贸司负责人解读《服务贸易标准化工作行动计划（2026—2030年）》</a>
+	<p>
+		<em><a href="/zwgk/zcjd/index.html">政策解读</a></em> 
+		<span>来源：商务部新闻办公室</span>
+		<i>04-23</i>
+	</p>
+	</li>
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_0345a4ab47e747058833a5c03faab931.html" title="商务部 市场监管总局关于印发《服务贸易标准化工作行动计划（2026—2030年）》的通知" target="_blank">商务部 市场监管总局关于印发《服务贸易标准化工作行动计划（2026—2030年）》的通知</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：服贸司</span>
+		<i>04-23</i>
+	</p>
+	</li>
+	<li>
+	<a href="/zwgk/zcfb/art/2026/art_70c913e1d8054102b42a24ac53cb1d39.html" title="商务部、中国进出口银行联合印发《关于强化进出口信贷支持 服务“十五五”商务高质量发展良好开局的通知》" target="_blank">商务部、中国进出口银行联合印发《关于强化进出口信贷支持 服务“十五五”商务高质量发展良好开局的通知》</a>
+	<p>
+		<em><a href="/zwgk/zcfb/index.html">政策发布</a></em> 
+		<span>来源：财务司</span>
+		<i>04-14</i>
+	</p>
+	</li>
+							</ul>
+						</div>
+						<div class="iMainR_02 f-fr f-mt20" ergodic="view">
+<script src="/cms_files/filemanager/1077459795/script/20234/fd6de1d5f3514858b2af7992cb4d8b0a.js" type="text/javascript" charset="utf-8"></script>						</div>
+					</div>
+					<section class="hiddenColumn_01 f-cb f-mt10 f-dn">
+						<div class="swColumn_01 f-mt30">
+							<header class="swTitle f-cb">
+								<h4>
+		<a href="/zctj/index.html">政策图解</a>
+
+</h4>							</header>
+							<section class="con f-mt30 f-cb pd-l-22">
+								<div class="iMainL f-fl" style="width:32%">
+<div class="vBox_01">
+	<p class="vPlay"><a href="/tj/qttj/art/2026/art_d09b12c053aa40a3a7dcb587f5a83ad0.html" title="中国与南亚国家：贸易规模实现新跨越 投资动能不断积聚" target="_blank"><img src="/cms_files/filemanager/1077459795/picture/202511/0112626fd6164799b0bad7c06738c4ac.jpg" /></a></p>
+	<h4 class="f-mt20"><a href="/tj/qttj/art/2026/art_d09b12c053aa40a3a7dcb587f5a83ad0.html" title="中国与南亚国家：贸易规模实现新跨越 投资动能不断积聚" target="_blank">中国与南亚国家：贸易规模实现新跨越 投资动能不断积聚</a></h4>
+	<p class="info f-mt15"><i>2026-06-02 13:13</i></p>
+</div>
+								</div>
+								<div class="iMainR f-fr" style="width:66%">
+									<ul class="f-cb lixList">
+<li>
+	<a href="/tj/qttj/art/2026/art_b04c7c1eacea46d0809a141f5c83d481.html" title="培育建设五年来 国际消费中心城市亮点多" target="_blank" class="aImg"><img src="/cms_files/filemanager/1077459795/picture/202511/8b6e1ff13f6e41dab81738ec739d08bb.jpg" /></a>
+	<a href="/tj/qttj/art/2026/art_b04c7c1eacea46d0809a141f5c83d481.html" title="培育建设五年来 国际消费中心城市亮点多" target="_blank" class="aTitle">培育建设五年来 国际消费中心城市亮点多</a>
+	<i>2026-05-23 17:55</i>
+</li>
+<li>
+	<a href="/tj/qttj/art/2026/art_342797c70ea747e5aafd70732789bd28.html" title="Chinamaxxing成新风尚 商务部加力扩大入境消费" target="_blank" class="aImg"><img src="/cms_files/filemanager/1077459795/picture/202511/e06fbdfe9385476887d582bceaa3be8f.jpg" /></a>
+	<a href="/tj/qttj/art/2026/art_342797c70ea747e5aafd70732789bd28.html" title="Chinamaxxing成新风尚 商务部加力扩大入境消费" target="_blank" class="aTitle">Chinamaxxing成新风尚 商务部加力扩大入境消费</a>
+	<i>2026-05-21 10:11</i>
+</li>
+<li>
+	<a href="/tj/zc/art/2026/art_63df2ece12af49d2b136c8b9e9874010.html" title="超5.2亿人次上传发票抽奖 50城有奖发票试点成效加快显现" target="_blank" class="aImg"><img src="/cms_files/filemanager/1077459795/picture/202511/551fa5a1019148fbb2afbfcfaa5604d7.jpg" /></a>
+	<a href="/tj/zc/art/2026/art_63df2ece12af49d2b136c8b9e9874010.html" title="超5.2亿人次上传发票抽奖 50城有奖发票试点成效加快显现" target="_blank" class="aTitle">超5.2亿人次上传发票抽奖 50城有奖发票试点成效加快显现</a>
+	<i>2026-05-19 14:54</i>
+</li>
+									</ul>
+								</div>
+							</section>
+						</div>
+					</section>
+					<p class="ftColumn"><span></span><i>点击查看更多内容</i></p>
+				</div>
+				<div class="iColumn iColumn_03 f-mt20 borB01">
+<script src="/cms_files/filemanager/1077459795/script/20234/a3dbff0dfd0e4b4e93187b751d547ad5.js" type="text/javascript" charset="utf-8"></script>				</div>
+				<div class="iColumn iColumn_04 f-mt20 borB01">
+					<h1 class="iTitle_01 ml2"><em class="z-crt">
+		<a href="/hdjl/index.html">互动交流</a>
+
+</em></h1>					<section class="f-cb f-mt30 publicSer_01">
+						<div class="iMainL_02 f-fl ml2" ergodic="view">
+<script src="/cms_files/filemanager/1077459795/script/20234/6b4d7ec3cd14424aa89b77c44ddace27.js" type="text/javascript" charset="utf-8"></script>							<ul class="interviewList f-cb">
+
+<li>
+	<a class="aImg" href="http://interview.mofcom.gov.cn/detail/202605/ff80808198065e18019e6323bfa5692c.html" target="_blank" title="王文涛部长出席APEC贸易部长会议新闻发布会"><img src="/cms_files/filemanager/1077459795/picture/202511/39f43f4760fc4789bc230800a1219219.jpg" alt="王文涛部长出席APEC贸易部长会议新闻发布会" /></a>
+	<a class="aTxt" href="http://interview.mofcom.gov.cn/detail/202605/ff80808198065e18019e6323bfa5692c.html" target="_blank" title="王文涛部长出席APEC贸易部长会议新闻发布会">王文涛部长出席APEC贸易部长会议新闻发布会</a>
+	<span class="time">2026年05月23日</span>
+</li>
+<li>
+	<a class="aImg" href="http://interview.mofcom.gov.cn/detail/202606/ff8080819e868489019e871440500002.html" target="_blank" title="鄢东副部长出席国新办发布会介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况"><img src="/cms_files/filemanager/1077459795/picture/202511/7e0e6dec2556418ba2c66635683c62d7.png" alt="鄢东副部长出席国新办发布会介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况" /></a>
+	<a class="aTxt" href="http://interview.mofcom.gov.cn/detail/202606/ff8080819e868489019e871440500002.html" target="_blank" title="鄢东副部长出席国新办发布会介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况">鄢东副部长出席国新办发布会介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况</a>
+	<span class="time">2026年05月29日</span>
+</li>
+							</ul>
+						</div>
+						<div class="iMainR_02 f-fr" ergodic="serve">
+							<div class="lyBox">
+<script src="/cms_files/filemanager/1077459795/script/20234/be12ee5bd2674f07af759e1dd8e94e82.js" type="text/javascript" charset="utf-8"></script>							</div>
+						</div>
+					</section>
+					<section class="f-cb f-mt30 publicSer_01">		
+						<div class="iMainL_02 f-fl ml2">
+<script src="/cms_files/filemanager/1077459795/script/20234/827f25b6288543cf9dc434debcb54cc1.js" type="text/javascript" charset="utf-8"></script>							<div class="f-cb zqyjCon">
+								<div class="f-fl">
+									<ul class="gkList_02" ergodic="view">
+	<li>
+	<a href="https://sms.mofcom.gov.cn/myzcsy/zgcysmzzqtcymyzcsy/art/2026/art_4f896cce8cec4a9985da73c092359744.html" title="关于征求对印度第八次贸易政策审议关注和评论的通知" target="_blank">关于征求对印度第八次贸易政策审议关注和评论的通知
+      [进行中]
+      </a>
+	<p>
+		<em><a href="/zqyj/qtzqyj/index.html">其它征求意见</a></em> 
+		<span>来源：世贸司</span>
+		<i>2026-05-29</i>
+	</p>
+	</li>
+	<li>
+	<a href="https://fms.mofcom.gov.cn/zxdt/art/2026/art_25d8fda582764a2ab31582893ded80b9.html" title="公开征求《鲜切花拍卖产品质量等级（征求意见稿）》系列4项行业标准意见" target="_blank">公开征求《鲜切花拍卖产品质量等级（征求意见稿）》系列4项行业标准意见
+      [进行中]
+      </a>
+	<p>
+		<em><a href="/zqyj/bqzqyj/index.html">标准征求意见</a></em> 
+		<span>来源：服贸司</span>
+		<i>2026-05-29</i>
+	</p>
+	</li>
+									</ul>
+								</div>
+								<div class="f-fr">
+									<ul class="gkList_02" ergodic="view">
+	<li>
+	<a href="https://mds.mofcom.gov.cn/zwgk/art/2026/art_82361d98f90b4ea688be90b57937d34c.html" title="中国—智利经贸混委会第22次会议征求意见" target="_blank">中国—智利经贸混委会第22次会议征求意见
+      [已结束]
+      </a>
+	<p>
+		<em><a href="http://www.mofcom.gov.cn/zqyj/hwhzqyj/index.html">混委会征求意见</a></em> 
+		<span>来源：美大司</span>
+		<i>2026-05-14</i>
+	</p>
+	</li>
+	<li>
+	<a href="https://xyf.mofcom.gov.cn/jmhzjz/art/2026/art_3044fed747fe4d80821a0cf2e0756938.html" title="中国—加纳经贸联委会第五次会议征求意见" target="_blank">中国—加纳经贸联委会第五次会议征求意见
+      [已结束]
+      </a>
+	<p>
+		<em><a href="/zqyj/hwhzqyj/index.html">混委会征求意见</a></em> 
+		<span>来源：西亚非洲司</span>
+		<i>2026-05-12</i>
+	</p>
+	</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="iMainR_02 f-fr">
+<script src="/cms_files/filemanager/1077459795/script/20234/ba8ee410f0104f829856928231375128.js" type="text/javascript" charset="utf-8"></script>						</div>
+					</section>
+				</div>
+				<div class="iColumn iColumn_06">
+					<h1 class="iTitle_01 f-mt50 ml2"><em class="z-crt">
+		<a href="/ggfw/index.html">公共服务</a>
+
+</em></h1>					<section class="f-cb f-mt30 publicSer">
+<script src="/cms_files/filemanager/1077459795/script/20234/19885aa60c8b437fbb2c3aa896b8fcc4.js" type="text/javascript" charset="utf-8"></script>					</section>
+				</div>
+<script src="/cms_files/filemanager/1077459795/script/20234/b360d82fa08745128ba0ead328d879c1.js" type="text/javascript" charset="utf-8"></script>			</section>
+		</section>
+<script src="/cms_files/filemanager/1077459795/script/20233/d9e950c10e9041749d2f4a76d4c986f7.js" type="text/javascript" charset="utf-8"></script>	<!--</div>-->
+	<script type="text/javascript"></script>
+	<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/jq_ui.min.js"></script>
+	<script src="/cms_files/webshangwubu/tplobject/defaultSet/229896a16318433a8f9940c8ec5d46c8/images/indexBottom.js"></script>
+</div></body>
+</html>

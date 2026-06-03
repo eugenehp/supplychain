@@ -1,0 +1,93 @@
+{
+  "ticker": "AREC",
+  "count": 6,
+  "generatedAt": "2026-06-03T05:51:26.921Z",
+  "entries": [
+    {
+      "id": "AREC-kw-0",
+      "ticker": "AREC",
+      "vendor": null,
+      "charOffset": 31463,
+      "excerpt": "…070, respectively. The Company did not generate revenues during 2025 as it did not conduct metal recovery or sales activities during the period. The timing and extent of future revenues, if any, will depend on strategic, operational, and market factors, and there can be no assurance that revenue‑generating activities will resume in the near term. Operating expenses The following table summarizes the changes in operating expenses: For the Years Ended December 31, 2025 2024 Change Operating expenses Cost of Sales $ 306,639 $ 530,891 $ (224,252 ) Depreciation 122,916 123,253 (337 ) General and ad…",
+      "form": "10-K",
+      "filingDate": "2026-05-20",
+      "type": "keyword",
+      "range": {
+        "start": 31263,
+        "end": 31863
+      }
+    },
+    {
+      "id": "AREC-kw-1",
+      "ticker": "AREC",
+      "vendor": null,
+      "charOffset": 56328,
+      "excerpt": "…ry to assist American Resources with their supply chain, logistics, customers, overall corporate strategy. He has a vast knowledge of both the global and domestic marketplace where he works with both suppliers and consumers. Courtenay is currently Managing Director of Compass Point Resources, LLC which he founded in 2007. Mr. Taplin also acts as Managing Director for Clay Resources LLC, a commodities firm trading in African origin minerals and metals with sales to the world’s merchant consumers from its offices in the U. S. and Durban, South Africa. His prior experience includes Crown Coal & C…",
+      "form": "10-K",
+      "filingDate": "2026-05-20",
+      "type": "keyword",
+      "range": {
+        "start": 56128,
+        "end": 56728
+      }
+    },
+    {
+      "id": "AREC-Arm-0",
+      "ticker": "AREC",
+      "vendor": "Arm",
+      "charOffset": 154224,
+      "excerpt": "…r 26, 2025. The Company’s retained ownership interest in RLMT is accounted for under the equity method. The fair value of the retained interest recognized at the deconsolidation date was $ 28,263,734 . The fair value of the retained equity interest in RLMT was determined using a market approach based on an observable, arm’s‑length transaction that occurred contemporaneously with the spin‑off and implied an enterprise value of approximately $ 150 million for RLMT. The transaction was negotiated between independent third parties and reflected market participant assumptions regarding RLMT’s value as of the deconsolidation date. The imp…",
+      "form": "10-K",
+      "filingDate": "2026-05-20",
+      "range": {
+        "start": 153904,
+        "end": 154544
+      }
+    },
+    {
+      "id": "AREC-Arm-1",
+      "ticker": "AREC",
+      "vendor": "Arm",
+      "charOffset": 158514,
+      "excerpt": "…ervable equity transactions at the measurement date. The valuation was primarily anchored to observable market participant evidence in the form of an non-executed third‑party letter of intent (“LOI”), which contemplated the acquisition of substantially all of AIC’s operating assets by an independent counterparty in an arm’s‑length transaction. The LOI reflected an indicated value of the underlying operating assets on a free‑and‑clear basis and represented the most relevant market participant indication of value available as of the measurement date. Because the LOI was structured as an asset transaction, management translated the ind…",
+      "form": "10-K",
+      "filingDate": "2026-05-20",
+      "range": {
+        "start": 158194,
+        "end": 158834
+      }
+    },
+    {
+      "id": "8795e49478bda62a",
+      "ticker": "AREC",
+      "vendor": null,
+      "charOffset": 2975,
+      "excerpt": "timing and extent of future revenues, if any, will depend on strategic, operational, and market factors, and there can be no assurance that revenue‑generating activities will resume in the near term. Operating expenses The following table summarizes the changes in operating expenses: For the Years Ended December 31, 2025 2024 Change Operating expenses Cost of Sales $ 306,639 $ 530,891 $ (224,252 ) Depreciation 122,916 123,253 (337 ) General and administrative 9,557,890 11,417,208 (1,859,318 ) Pr",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-05-20",
+      "type": "chunk",
+      "range": {
+        "start": 31412,
+        "end": 31912
+      }
+    },
+    {
+      "id": "c3819d91e862d0f7",
+      "ticker": "AREC",
+      "vendor": null,
+      "charOffset": 9273,
+      "excerpt": "n the technical innovations of in carbon and rare earth elements. She has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. Courtenay O. Taplin – Director Courtenay serves as Director of American Resources Corporation. He brings over 40 years of experience of sourcing and supplying iron ore, coke and metallurgical coal to the steel industry to assist American Resources with their supply chain, logistics, customers, over",
+      "sectionId": "item_9b_other_information_none_16_table_",
+      "sectionHeader": "Item 9B. Other Information. None. 16 Table of Contents PART III Item 10. Directors, Execut",
+      "form": "10-K",
+      "filingDate": "2026-05-20",
+      "type": "chunk",
+      "range": {
+        "start": 55711,
+        "end": 56211
+      }
+    }
+  ]
+}

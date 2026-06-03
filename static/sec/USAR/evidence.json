@@ -1,0 +1,1364 @@
+{
+  "ticker": "USAR",
+  "count": 93,
+  "generatedAt": "2026-06-03T05:52:41.941Z",
+  "entries": [
+    {
+      "id": "USAR-Arm-0",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 14243,
+      "excerpt": "…act our business or require us to repay that financing or lose access to those incentives. • We are dependent upon information technology systems, which are subject to cyber threats, disruption, damage and failure. Any unauthorized access to, disclosure, or theft of personal information we gather, store, or use could harm our reputation and subject us to claims or litigation. Further, a failure of our information technology and data security infrastructure could adversely affect our business and operations. • We depend on key personnel for the success of our business. If we fail to retain our key personnel or if we fail to attract a…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 13923,
+        "end": 14563
+      }
+    },
+    {
+      "id": "USAR-kw-0",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 14441,
+      "excerpt": "…harm our reputation and subject us to claims or litigation. Further, a failure of our information technology and data security infrastructure could adversely affect our business and operations. • We depend on key personnel for the success of our business. If we fail to retain our key personnel or if we fail to attract additional qualified personnel, we may not be able to achieve our desired level of growth and our business could suffer. • Work stoppages or similar difficulties, breakdown in labor relations, or a shortage of skilled technicians and engineers could significantly disrupt our ope…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 14243,
+        "end": 14842
+      }
+    },
+    {
+      "id": "USAR-Arm-1",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 15851,
+      "excerpt": "…nging, the intellectual property rights of third parties, it may increase our costs or prevent us from being able to commercialize new products. • We may not be able to adequately protect our intellectual property rights. If we fail to adequately enforce or defend our intellectual property rights, our business may be harmed. • Our operations at our Projects are subject, or may become subject, to environmental, health and safety regulations, which could impose additional costs and compliance requirements or could limit or prevent our ability to continue our current operations or to undertake new operations, and we may face claims and…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 15532,
+        "end": 16172
+      }
+    },
+    {
+      "id": "USAR-KLA-0",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 23535,
+      "excerpt": "…nounced plans to build a metal making plant in Lacq, France with 3,750 metric tons per year (“MTPA”) of metal making production capacity. Metal making links the processing and separation capabilities that we're developing in Wheat Ridge, Colorado with our magnet manufacturing facility we are developing in Stillwater, Oklahoma (“Stillwater Facility”). USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 1 Table of Contents Executing on our mission requires a world-class team that can set a new pace for our industry’s dynamic development. We have assembled a team of industry experts to guide our strategic expansion program, support…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 23216,
+        "end": 23856
+      }
+    },
+    {
+      "id": "USAR-kw-1",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 57572,
+      "excerpt": "…cluding standard grades (N35–a standard grade of neodymium magnets through N52–the strongest commercially available neodymium magnets, offering maximum magnetic strength (Gauss) in a compact, brittle package) and high-temperature grades (N35SH through N45UH, and beyond) that incorporate dysprosium and/or terbium additions to maintain coercivity at elevated operating temperatures. High-temperature grade (SH–Super High, UH–Ultra High, and EH–Extra High) designations are critical for defense applications, including precision-guided munitions, satellite attitude control systems, and directed energ…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 57372,
+        "end": 57972
+      }
+    },
+    {
+      "id": "USAR-kw-2",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 65260,
+      "excerpt": "…ustomer ordering patterns are often shaped by broader economic conditions, government policies, and industry‑specific incentive programs. The extent to which these cycles may affect our business will depend on the concentration of our customer base within particular end markets and sectors as we scale. As we execute our strategy to serve a broad range of industries, we believe that diversification across multiple sectors may help mitigate the effects of demand cyclicality over time. Intellectual Property We have applied for a U.S. patent in connection with our proprietary methods for metal ext…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 65060,
+        "end": 65660
+      }
+    },
+    {
+      "id": "USAR-KLA-1",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 88410,
+      "excerpt": "…e and/or process water discharge permit • Other building and construction permits Human Capital Resources Our workforce is the foundation of our ability to execute on our mission. As of December 31, 2025, we had a total of 132 employees, all of whom are full-time, across multiple locations in the U.S., principally in Oklahoma, Colorado, and Washington D.C., and in the United Kingdom. Our team encompasses engineers, scientists, mining specialists, manufacturing experts, and operations professionals with deep expertise in rare earth processing, metal-making, and magnet manufacturing. None of our employees are represented by a labor un…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 88090,
+        "end": 88730
+      }
+    },
+    {
+      "id": "USAR-KLA-2",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 92422,
+      "excerpt": "…furnished to, the SEC. The information contained on our website, or any other website, is not part of this report nor is it considered to be incorporated by reference herein or with any other filing we make with the SEC. Our headquarters and primary manufacturing center is located at 100 W. Airport Road, Stillwater, Oklahoma 74075, and our main telephone number is (813) 867-6155. The SEC maintains an internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. The address of the SEC website is http://www.sec.gov. We have included this website ad…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 92103,
+        "end": 92742
+      }
+    },
+    {
+      "id": "USAR-Arm-2",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 99258,
+      "excerpt": "…the future. • We are in the process of developing a flow sheet with respect to the processing of rare earth minerals from our assets in the Round Top Project, but we may not be able to do so. If we are unable to develop a flow sheet that results in profitable production, our business and results of operations may be harmed. • An increase in the global supply of rare earth magnets or critical and rare earth minerals and lithium related products, dumping, predatory pricing and other tactics by our competitors or state actors may adversely affect our profitability. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 19 Table of Co…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 98939,
+        "end": 99578
+      }
+    },
+    {
+      "id": "USAR-kw-3",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 101177,
+      "excerpt": "…nt of substantial resources; if we do not have sufficient capital or resources to provide for such activities, it could negatively impact our business. • The performance of the Round Top Project will depend on its ability to reach favorable production rates for the separation of rare earths. • The revenue generated by the Round Top Project may be negatively impacted by possible competition from substitutions for critical and rare earth minerals and lithium. • Our continued growth depends on our ability to obtain commercial deployment of our mineral processing and purification technology, or th…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 100978,
+        "end": 101638
+      }
+    },
+    {
+      "id": "USAR-kw-4",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 103445,
+      "excerpt": "…Round Top Project, a process which is often costly, time-consuming and somewhat uncertain as to outcome. These permits may include permits related to disposal of radioactive mineral waste, which will depend on how we conduct our processing operations in the future as well as what thresholds (regarding whether a permit is required or not) are set by the government at that point in time. Failure to obtain or retain any necessary permits or approvals for our planned operations may negatively impact our business. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 20 Table of Contents • Our mi…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 103245,
+        "end": 103845
+      }
+    },
+    {
+      "id": "USAR-kw-5",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 118083,
+      "excerpt": "…USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 23 Table of Contents We may not be able to generate positive cashflow from our expected future business operations. Our long-term success will depend on implementing our business strategy and operational plan, as well as our ability to generate revenues, achieve and maintain profitability and develop positive cash flows from our magnet production. Our ability to continue with our business plan to produce and sell neo magnets and our future plans regarding the Round Top Project, ultimately depends on our ability to generate revenues, achi…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 117884,
+        "end": 118483
+      }
+    },
+    {
+      "id": "USAR-Arm-3",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 122034,
+      "excerpt": "…l commitments, resulting in delays in obtaining necessary materials used in our production process, defects in material or workmanship or unexpected problems in our manufacturing process, which could lead to unanticipated revenue and earnings losses and financial penalties. The occurrence of any of these events could harm our business, prospects, results of operations and financial results. Prior to reaching expected production rates at the Stillwater Facility, we intend to enter into short-and long-term sales contracts with new customers. However, there can be no assurance that these customers will enter into sales contracts for ou…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 121714,
+        "end": 122354
+      }
+    },
+    {
+      "id": "USAR-Arm-4",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 123586,
+      "excerpt": "…essfully commercializing neo magnets, in such markets. If the market for these existing and emerging technologies does not grow as we expect, grows more slowly than we expect, or if the demand for our products in these markets decreases, then our business, prospects, financial condition and operating results could be harmed. In addition, the market for these technologies, particularly in the automotive and wind turbine industry, tends to be cyclical, which exposes us to increased volatility, and it is uncertain as to how such macroeconomic factors will impact our business. Although certain restrictions are expected in the future to…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 123266,
+        "end": 123965
+      }
+    },
+    {
+      "id": "USAR-Arm-5",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 127663,
+      "excerpt": "…d regulatory factors, including less stringent environmental and other governmental regulations and lower labor and benefit costs. For instance, many of our Chinese competitors dispose of the waste material from beneficiation in wet tailings dams, which are significantly less expensive to operate and potentially more harmful to the environment than the dry tailings method that we would expect to employ. Even upon successful completion of our planned business stages and/or Projects, if we are not able to achieve our anticipated costs of production, then any strategic advantages that our competitors may have over us, including, withou…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 127384,
+        "end": 127944
+      }
+    },
+    {
+      "id": "USAR-kw-6",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 131751,
+      "excerpt": "…increase materially from our current estimates, and we expect to raise further funds through equity or debt financing, joint ventures, production sharing arrangements or other means. Consequently, we depend on our ability to successfully access the capital and financial markets. Any inability to access the capital or financial markets may limit our ability to fund our ongoing operations, execute our business plan or pursue investments that we may rely on for future growth. Until commercial production is achieved from our Projects, we will continue to incur operating and investing net cash outf…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 131551,
+        "end": 132151
+      }
+    },
+    {
+      "id": "USAR-KLA-3",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 136448,
+      "excerpt": "…nancial condition. A power or other utility disruption or shortage at our Projects could temporarily delay operations and increase costs, which may negatively impact our business. Our facilities currently rely on electricity and other utilities each provided by a single utility company in West Texas and North-Central Oklahoma, respectively. Instability in electrical or other utility supply could cause sporadic outages and brownouts. Any such outages or brownouts could have a negative impact on our production. As a result, our revenue could be adversely impacted and our relationships with our customers could suffer, adversely impacti…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 136128,
+        "end": 136768
+      }
+    },
+    {
+      "id": "USAR-KLA-4",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 140726,
+      "excerpt": "…ives and favorable financing and contain conditions and obligations, including local investment, job creation, and repayment terms, that, if not complied with, could negatively impact our business or require us to repay that financing or lose access to those incentives. We have been offered incentives by the State of Oklahoma, as well as the city of Stillwater, Oklahoma, to locate and operate our Projects, especially our Stillwater Facility. These incentives include cash grants, development financing at favorable terms, certain tax exemptions and rights to participate in government-subsidized jobs programs, among other things. If we…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 140406,
+        "end": 141106
+      }
+    },
+    {
+      "id": "USAR-KLA-5",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 140771,
+      "excerpt": "…itions and obligations, including local investment, job creation, and repayment terms, that, if not complied with, could negatively impact our business or require us to repay that financing or lose access to those incentives. We have been offered incentives by the State of Oklahoma, as well as the city of Stillwater, Oklahoma, to locate and operate our Projects, especially our Stillwater Facility. These incentives include cash grants, development financing at favorable terms, certain tax exemptions and rights to participate in government-subsidized jobs programs, among other things. If we do not comply with certain conditions and ob…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 140451,
+        "end": 141091
+      }
+    },
+    {
+      "id": "USAR-KLA-6",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 141997,
+      "excerpt": "…conditions, fires, floods, tornados, earthquakes, explosions or other catastrophes, epidemics, like COVID-19, or quarantine restrictions. We may be impacted by natural disasters, wars, health epidemics or pandemics or other events outside of our control. For example, our Stillwater Facility is located in Stillwater, Oklahoma, which is in the geographical area known as “tornado alley.” If major disasters such as tornados, earthquakes, wildfires, health epidemics or pandemics, floods or other events occur, or our information system or communications network breaks down or operates improperly, our ability to continue operations at our…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 141678,
+        "end": 142377
+      }
+    },
+    {
+      "id": "USAR-Arm-6",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 142913,
+      "excerpt": "…cial condition. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 28 Table of Contents We are dependent upon information technology systems, which are subject to cyber threats, disruption, damage and failure. Any unauthorized access to, disclosure, or theft of personal information we gather, store, or use could harm our reputation and subject us to claims or litigation. Further, a failure of our information technology and data security infrastructure could adversely affect our business and operations. We maintain information necessary to conduct our businesses, including confidential and proprietary information as well as pers…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 142593,
+        "end": 143233
+      }
+    },
+    {
+      "id": "USAR-Arm-7",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 145328,
+      "excerpt": "…scribed above, we may lose revenue as a result of unlicensed use of our intellectual property. If personal information of our customers or employees is misappropriated, our reputation with our customers and employees may be damaged, resulting in loss of business or morale, and we may incur costs to remediate possible harm to our customers and employees or damages arising from litigation and/or to pay fines or take other action with respect to judicial or regulatory actions arising out of the incident. Insurance we obtain may not cover losses or damages associated with such attacks or events. We rely on various information technology…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 145008,
+        "end": 145708
+      }
+    },
+    {
+      "id": "USAR-kw-7",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 147163,
+      "excerpt": "…ive measures or to investigate and remediate any security vulnerabilities. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 29 Table of Contents Risks Related to Human Capital and Community We depend on key personnel for the success of our business. If we fail to retain our key personnel or if we fail to attract additional qualified personnel, we may not be able to achieve our desired level of growth and our business could suffer. We highly value and depend on the contributions of our senior management and key personnel, particularly our experts with respect to magnet production. Our su…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 146963,
+        "end": 147563
+      }
+    },
+    {
+      "id": "USAR-kw-8",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 147425,
+      "excerpt": "…fail to retain our key personnel or if we fail to attract additional qualified personnel, we may not be able to achieve our desired level of growth and our business could suffer. We highly value and depend on the contributions of our senior management and key personnel, particularly our experts with respect to magnet production. Our success continues to depend largely upon the performance of key officers, employees and consultants. The market for qualified talent has become increasingly competitive, with shortages of qualified talent relative to the number of available opportunities being exp…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 147226,
+        "end": 147825
+      }
+    },
+    {
+      "id": "USAR-kw-9",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 147948,
+      "excerpt": "…qualified talent relative to the number of available opportunities being experienced in all markets where we conduct our operations. The ability to remain competitive by offering higher compensation packages and programs for growth and development of personnel, with a view to retaining existing talent and attracting new talent, has become increasingly important to us. We may not be able to replace our senior management or key personnel (including personnel that are key to magnet production) with persons of equivalent expertise and experience within a reasonable period of time or at all if one…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 147750,
+        "end": 148349
+      }
+    },
+    {
+      "id": "USAR-kw-10",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 155683,
+      "excerpt": "…Earth, Inc. | 2025 Annual Report (Form 10-K) | 31 Table of Contents Our success following completion of the LCM Acquisition depends on the ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. Our success following the completion of the LCM Acquisition depends on our ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. The LCM Acquisition may create uncertainty among the Less Common Metals’ customers…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 155483,
+        "end": 156143
+      }
+    },
+    {
+      "id": "USAR-kw-11",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 155763,
+      "excerpt": "…following completion of the LCM Acquisition depends on the ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. Our success following the completion of the LCM Acquisition depends on our ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. The LCM Acquisition may create uncertainty among the Less Common Metals’ customers and suppliers, leading them to re-evaluate their business relationships. Custom…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 155563,
+        "end": 156163
+      }
+    },
+    {
+      "id": "USAR-kw-12",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 155910,
+      "excerpt": "…bility to build relationships with new customers and suppliers. Our success following the completion of the LCM Acquisition depends on our ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. The LCM Acquisition may create uncertainty among the Less Common Metals’ customers and suppliers, leading them to re-evaluate their business relationships. Customers may be concerned about potential changes in product offerings, pricing, service quality, or the combined company’s ability to meet their needs.…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 155711,
+        "end": 156311
+      }
+    },
+    {
+      "id": "USAR-kw-13",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 155990,
+      "excerpt": "…owing the completion of the LCM Acquisition depends on our ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. The LCM Acquisition may create uncertainty among the Less Common Metals’ customers and suppliers, leading them to re-evaluate their business relationships. Customers may be concerned about potential changes in product offerings, pricing, service quality, or the combined company’s ability to meet their needs. Suppliers may have concerns about changes in purchasing volumes, payment terms,…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 155790,
+        "end": 156450
+      }
+    },
+    {
+      "id": "USAR-kw-14",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 156088,
+      "excerpt": "…xisting customers and suppliers, as well as our ability to build relationships with new customers and suppliers. The LCM Acquisition may create uncertainty among the Less Common Metals’ customers and suppliers, leading them to re-evaluate their business relationships. Customers may be concerned about potential changes in product offerings, pricing, service quality, or the combined company’s ability to meet their needs. Suppliers may have concerns about changes in purchasing volumes, payment terms, or the combined company’s financial stability. If Less Common Metals’ customers decide to reduce…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 155888,
+        "end": 156547
+      }
+    },
+    {
+      "id": "USAR-kw-15",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 156311,
+      "excerpt": "…to re-evaluate their business relationships. Customers may be concerned about potential changes in product offerings, pricing, service quality, or the combined company’s ability to meet their needs. Suppliers may have concerns about changes in purchasing volumes, payment terms, or the combined company’s financial stability. If Less Common Metals’ customers decide to reduce or discontinue their business with the combined company, it could result in a significant loss of revenue. Similarly, if suppliers decide to terminate or renegotiate their agreements, it could lead to increased costs or dis…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 156112,
+        "end": 156711
+      }
+    },
+    {
+      "id": "USAR-kw-16",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 156609,
+      "excerpt": "…mpany’s financial stability. If Less Common Metals’ customers decide to reduce or discontinue their business with the combined company, it could result in a significant loss of revenue. Similarly, if suppliers decide to terminate or renegotiate their agreements, it could lead to increased costs or disruptions in the supply chain. Furthermore, having closed the LCM Acquisition, we may face challenges in integrating and harmonizing customer service and supplier management processes, which could impact the quality of relationships and the ability to achieve operational efficiencies. Less Common M…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 156409,
+        "end": 157009
+      }
+    },
+    {
+      "id": "USAR-kw-17",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 156864,
+      "excerpt": "…ements, it could lead to increased costs or disruptions in the supply chain. Furthermore, having closed the LCM Acquisition, we may face challenges in integrating and harmonizing customer service and supplier management processes, which could impact the quality of relationships and the ability to achieve operational efficiencies. Less Common Metals and our ability to build or maintain strong relationships with customers and suppliers is critical to long-term success. Any failure to retain Less Common Metals’ customers and suppliers, or to establish and maintain effective relationships with new…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 156664,
+        "end": 157324
+      }
+    },
+    {
+      "id": "USAR-kw-18",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 157092,
+      "excerpt": "…s, which could impact the quality of relationships and the ability to achieve operational efficiencies. Less Common Metals and our ability to build or maintain strong relationships with customers and suppliers is critical to long-term success. Any failure to retain Less Common Metals’ customers and suppliers, or to establish and maintain effective relationships with new and existing customers and suppliers, could adversely affect our business, results of operations and financial condition. The proposed TMRC Mergers may not be completed on the anticipated timeline or at all, and failure to comp…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 156892,
+        "end": 157492
+      }
+    },
+    {
+      "id": "USAR-kw-19",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 157192,
+      "excerpt": "…es. Less Common Metals and our ability to build or maintain strong relationships with customers and suppliers is critical to long-term success. Any failure to retain Less Common Metals’ customers and suppliers, or to establish and maintain effective relationships with new and existing customers and suppliers, could adversely affect our business, results of operations and financial condition. The proposed TMRC Mergers may not be completed on the anticipated timeline or at all, and failure to complete the transaction could adversely affect our business, financial condition, and results of operat…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 156992,
+        "end": 157592
+      }
+    },
+    {
+      "id": "USAR-kw-20",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 157292,
+      "excerpt": "…suppliers is critical to long-term success. Any failure to retain Less Common Metals’ customers and suppliers, or to establish and maintain effective relationships with new and existing customers and suppliers, could adversely affect our business, results of operations and financial condition. The proposed TMRC Mergers may not be completed on the anticipated timeline or at all, and failure to complete the transaction could adversely affect our business, financial condition, and results of operations. Completion of the proposed TMRC Mergers is subject to a number of conditions, including the re…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 157092,
+        "end": 157692
+      }
+    },
+    {
+      "id": "USAR-kw-21",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 168950,
+      "excerpt": "…o proceed with the development or operation of a property. In addition, our ability to successfully obtain key permits and approvals to explore for, develop, operate and expand operations will likely depend on our ability to undertake such activities in a manner consistent with the creation of social and economic benefits in the surrounding communities, which may or may not be required by law. Our ability to obtain permits and approvals and to successfully operate in particular communities may be adversely affected by real or perceived detrimental events associated with our activities. USA Rar…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 168750,
+        "end": 169350
+      }
+    },
+    {
+      "id": "USAR-kw-22",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 194892,
+      "excerpt": "…Our business plan requires significant additional capital, which may include equity and/or debt financing, beyond the Expected U.S. Government Transaction, and our ability to obtain such capital will depend on market conditions and our operating performance, and may result in higher costs of capital, increased leverage, or dilution to existing stockholders. To meet certain milestones to obtain funding awards and debt under the Expected U.S. Government Transaction and execute on our current business plan, we will be required to i) raise at least $600 million of additional equity by December 31,…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 194692,
+        "end": 195352
+      }
+    },
+    {
+      "id": "USAR-kw-23",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 206206,
+      "excerpt": "…t stockholder of ours, it is difficult to foresee all the potential consequences. Among other things, there could be adverse reactions, immediately or over time, from investors, employees, customers, suppliers, other business or commercial partners, foreign governments or competitors. There may also be litigation related to the transaction or otherwise and increased public or political scrutiny with respect our operations. Risks Related to our Securities The issuance of additional shares of our common stock or equity-linked securities could result in significant dilution to our existing stockh…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 206527,
+        "end": 206607
+      }
+    },
+    {
+      "id": "USAR-KLA-7",
+      "ticker": "USAR",
+      "vendor": "KLA",
+      "charOffset": 229892,
+      "excerpt": "…SA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 47 Table of Contents Item 2 — Properties The table below presents details for each of our principal properties located in the U.S. and U.K. Facility or Purpose Location Owned or Leased Size Lease Expiration Headquarters, testing labs and manufacturing Stillwater, Oklahoma Own 310,000 sq.ft. n/a Research and development Wheat Ridge, Colorado Lease 13,037 sq.ft. Mar 2028 Mining operations office Sierra Blanca, Texas Lease 2,000 sq.ft. Apr 2027 Round Top mine (1) Round Top, Texas Own 2,037 acres n/a Metal manufacturing Cheshire, United Kingdom Lease 6,060 sq.m Nov 2026 (1) We own a…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 229572,
+        "end": 230212
+      }
+    },
+    {
+      "id": "USAR-kw-24",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 260582,
+      "excerpt": "…e drivers of our future financial results, as well as the components of such results, may not be comparable to our historical results of operations. We believe that our performance and future success depend on several factors that present significant opportunities for us but also pose significant risks and challenges, including those discussed below and in Part I, Item 1A , “Risk Factors.” Less Common Metals In the fourth quarter of 2025, we completed the acquisition of Indian Ocean Rare Metals Pte. Ltd., which includes Less Common Metals Ltd. (“Less Common Metals”), its manufacturing subsidia…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 260423,
+        "end": 260943
+      }
+    },
+    {
+      "id": "USAR-kw-25",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 267906,
+      "excerpt": "…ce, the Expected U.S. Government Transaction would represent a transformative source of capital that accelerates the development of our integrated rare earth value chain and positioning as a domestic supplier of REE and neo magnets for both commercial and national security applications. However, the transaction remains subject to the negotiation and execution of Definitive Agreements, the satisfaction of numerous conditions, and final government approvals, and there is no assurance it will be consummated on the anticipated terms or at all. Even if Definitive Agreements are reached, funding is…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 267706,
+        "end": 268365
+      }
+    },
+    {
+      "id": "USAR-kw-26",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 270000,
+      "excerpt": "…mates and assumptions we have made about our business over the next few years, including the ability to obtain the equipment and materials needed to produce magnets on a timely basis from third party vendors. Our ability to achieve our production timeline depends on our ability to obtain equipment and materials, the recruitment and retention of skilled personnel, and the timely sourcing of rare earth oxide and metal feedstock from third parties while the Round Top Project matures. Any delays or cost overruns in commissioning the facility, challenges in securing feedstock at competitive prices,…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 269800,
+        "end": 270460
+      }
+    },
+    {
+      "id": "USAR-kw-27",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 285560,
+      "excerpt": "…50 million revolving credit facility by December 31, 2026. Our ability to raise capital in the future on acceptable terms, whether through equity, debt, or government funding, is not assured and will depend on market conditions, our operational progress, and our ability to satisfy applicable milestones and conditions. Sources and Uses of Cash Our primary sources of liquidity have historically consisted of debt and equity financing. For the year ended December 31, 2025, we had a net loss of $298.5 million, which included a non-cash fair value loss on financial instruments of $244.5 million, and…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 285360,
+        "end": 286020
+      }
+    },
+    {
+      "id": "USAR-kw-28",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 287980,
+      "excerpt": "…penditures with precision, as they are dependent on the outcomes of our ongoing feasibility studies. However, we expect total capital requirements to be significant, and our ability to fund them will depend on our ability to access additional financing from debt and equity sources. Trends in Capital Resources Expected U.S. Government Transaction The Letter of Intent with the U.S. Department of Commerce covers a total proposed commitment of $1.6 billion. If consummated on the terms described in the Letter of Intent, this transaction would represent a significant new long-term source of capital…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 287781,
+        "end": 288380
+      }
+    },
+    {
+      "id": "USAR-kw-29",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 288727,
+      "excerpt": "…ment of specified business milestones and are expected to be released in phases over time. Accordingly, the timing and magnitude of any cash inflows from the Expected U.S. Government Transaction will depend on our ability to satisfy those milestones on the anticipated schedule. There is no assurance that the Definitive Agreements will be entered into or that any funding will be received. If we are unable to satisfy the required milestones or if the Definitive Agreements are not executed, we may not receive any or all of the anticipated government funding, and we would need to identify alternat…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 288527,
+        "end": 289127
+      }
+    },
+    {
+      "id": "USAR-kw-30",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 291427,
+      "excerpt": "…hange in fair value of outstanding financial instruments, stock-based compensation of $8.8 million and a non-cash litigation settlement of approximately $1.7 million, and an increase in cash used for vendor payments and prepayment of insurance, partially offset by an increase in accrued liabilities related to financing, acquisition and payroll costs. Investing Activities. The $136.3 million increase in cash used in investing activities, as compared to the comparable period of the prior year, was primarily due to additional investments made for plant improvements and equipment purchases as we e…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 291227,
+        "end": 291827
+      }
+    },
+    {
+      "id": "USAR-kw-31",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 331129,
+      "excerpt": "…value associated with the acquisition of Indian Ocean Rare Metals Pte. Ltd. under the acquisition method of accounting. Other acquired intangible assets consist of trademarks, customer relationships, supplier relationships, and manufacturing know-how. Intangible assets are recognized over their estimated useful life and are included within selling, general and administrative expense. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 77 Table of Contents USA Rare Earth, Inc. Notes to Consolidated Financial Statements Goodwill represents the excess of the purchase price of a business combi…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 330929,
+        "end": 331529
+      }
+    },
+    {
+      "id": "USAR-kw-32",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 337041,
+      "excerpt": "…n the lease is not readily determinable, the Company utilizes its incremental borrowing rate, which is the rate for a collateralized loan with the same term as the lease. Variable lease payments that depend on an index or a rate are initially measured using the index or rate at the commencement date. Lease Expense The Company recognizes the amortization of its finance lease-related ROU assets, including purchase options when it is reasonably certain to exercise the related purchase option, on a straight-line basis over the shorter of the lease term or the useful life of the underlying asset as…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 336883,
+        "end": 337462
+      }
+    },
+    {
+      "id": "USAR-kw-33",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 376970,
+      "excerpt": "…lue approach, as appropriate, as of the date of acquisition. • Intangible assets . ◦ Customer relationships . The fair value of the intangible asset acquired was estimated using an income approach. ◦ Supplier relationship . The fair value of the intangible asset acquired was estimated using the with and without method, which is a type of incremental income method approach. This method assumes that the value of the intangible asset is equal to the difference between the present value of the prospective cash flows with the intangible asset in place and the present value of the prospective cash f…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 376770,
+        "end": 377370
+      }
+    },
+    {
+      "id": "USAR-kw-34",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 379812,
+      "excerpt": "…ate of acquisition, along with their estimated useful lives: Intangible assets Fair Value Weighted Average Useful Life (In thousands) (Years) Trade name $ 7,245 15.0 Customer relationship 11,856 20.0 Supplier relationship 33,986 10.0 Know-how 16,203 17.0 Total identifiable intangible assets $ 69,290 13.8 Acquisition-related Costs Acquisition-related costs consist of legal and professional service fees and expenses for acquisition-related activities. The Company incurred acquisition-related costs of $ 8.1 million during the year ended December 31, 2025, which are shown in Selling, general and a…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 379612,
+        "end": 380212
+      }
+    },
+    {
+      "id": "USAR-kw-35",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 393499,
+      "excerpt": "…r Intangible Assets December 31, 2025 Gross Carrying Amount Accumulated Amortization Net Carrying Amount (In thousands) Trade name $ 7,245 $ ( 60 ) $ 7,185 Customer relationships 11,856 ( 74 ) 11,782 Supplier relationships 33,986 ( 425 ) 33,561 Know-how 16,203 ( 119 ) 16,084 Total other intangible assets $ 69,290 $ ( 678 ) $ 68,612 There were no other intangible assets at December 31, 2024. The following table presents the amortization expense related to the Company’s other intangible assets. Year Ended December 31, 2025 (In thousands) Trade name $ 60 Customer relationships 74 Supplier relatio…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 393299,
+        "end": 393899
+      }
+    },
+    {
+      "id": "USAR-kw-36",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 393883,
+      "excerpt": "…31, 2024. The following table presents the amortization expense related to the Company’s other intangible assets. Year Ended December 31, 2025 (In thousands) Trade name $ 60 Customer relationships 74 Supplier relationships 425 Know-how 119 Total amortization of other intangible assets $ 678 Amortization of Intangible Assets The annual expected amortization expense of finite-lived intangible assets subject to amortization as of December 31, 2025 were as follows. Fiscal Year Finite-lived Intangible Assets (In thousands) 2026 $ 5,428 2027 5,428 2028 5,428 2029 5,428 2030 5,428 2031 and thereafter…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 393683,
+        "end": 394343
+      }
+    },
+    {
+      "id": "USAR-kw-37",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 460085,
+      "excerpt": "…nd specific to any one customer. No revenues were reported in fiscal year 2024. Customer Year Ended December 31, 2025 Customer 1 73 % Customer 2 18 % All other customers 9 % Major Raw Material Supply Vendors The following table presents the major raw material supply vendors accounting for 10% or more of the Company’s consolidated raw material supply purchases. The percentages by vendor reflect specific relationships or contracts that would concentrate raw material supply purchases for the period presented and do not indicate a trend specific to any one vendor. There were no vendor purchases in…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 459885,
+        "end": 460545
+      }
+    },
+    {
+      "id": "USAR-kw-38",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 460152,
+      "excerpt": "…l year 2024. Customer Year Ended December 31, 2025 Customer 1 73 % Customer 2 18 % All other customers 9 % Major Raw Material Supply Vendors The following table presents the major raw material supply vendors accounting for 10% or more of the Company’s consolidated raw material supply purchases. The percentages by vendor reflect specific relationships or contracts that would concentrate raw material supply purchases for the period presented and do not indicate a trend specific to any one vendor. There were no vendor purchases in fiscal year 2024. Vendor Year Ended December 31, 2025 Vendor 1 81…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 459952,
+        "end": 460611
+      }
+    },
+    {
+      "id": "USAR-kw-39",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 460267,
+      "excerpt": "…w Material Supply Vendors The following table presents the major raw material supply vendors accounting for 10% or more of the Company’s consolidated raw material supply purchases. The percentages by vendor reflect specific relationships or contracts that would concentrate raw material supply purchases for the period presented and do not indicate a trend specific to any one vendor. There were no vendor purchases in fiscal year 2024. Vendor Year Ended December 31, 2025 Vendor 1 81 % All other supply vendors 19 % USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 120 Table of Contents USA R…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "keyword",
+      "range": {
+        "start": 460067,
+        "end": 460667
+      }
+    },
+    {
+      "id": "USAR-GlobalFoundries-0",
+      "ticker": "USAR",
+      "vendor": "GlobalFoundries",
+      "charOffset": 475476,
+      "excerpt": "…e is also Treasurer and Chair of the Investment Committee. We believe Mr. Blitzer is qualified to serve as a director due to his extensive public and private company experience. Thomas Caulfield . Dr. Thomas Caulfield has served as a director on our board of directors since March 2026. He is the Executive Chairman for GLOBALFOUNDRIES Inc. (“GF”) and was previously President and Chief Executive Officer of GF from 2018 to April of 2025. As Chief Executive Officer he led the company’s initial public offering in October 2021, which was not only the largest semiconductor IPO in history at that time, but also the largest IPO across all of…",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "range": {
+        "start": 475156,
+        "end": 475856
+      }
+    },
+    {
+      "id": "5d53c53eb8b94e82",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 36998,
+      "excerpt": "line will produce approximately 600 MTPA of sintered NdFeB permanent magnet blocks. We are currently procuring equipment and completing engineering for commissioning of Phase 1b at the same facility. At full production capacity, we expect Phase 1b will produce approximately 600 MTPA of sintered NdFeB permanent magnet blocks. Our Magnet Research and Product Development (“R&D”) Program Our in-house Innovations Lab (the “Lab”), housed within the Stillwater Facility, and magnet development program (",
+      "sectionId": "item_1_business_overview_usa_rare_earth_",
+      "sectionHeader": "Item 1 — Business Overview USA Rare Earth, Inc.’s mission is to be a global leader in the",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 56589,
+        "end": 57089
+      }
+    },
+    {
+      "id": "57a1cc0e9a818700",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 37964,
+      "excerpt": "compact, brittle package) and high-temperature grades (N35SH through N45UH, and beyond) that incorporate dysprosium and/or terbium additions to maintain coercivity at elevated operating temperatures. High-temperature grade (SH–Super High, UH–Ultra High, and EH–Extra High) designations are critical for defense applications, including precision-guided munitions, satellite attitude control systems, and directed energy weapons, as well as mobility or traction motors where magnets must maintain perfo",
+      "sectionId": "item_1_business_overview_usa_rare_earth_",
+      "sectionHeader": "Item 1 — Business Overview USA Rare Earth, Inc.’s mission is to be a global leader in the",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 57555,
+        "end": 58055
+      }
+    },
+    {
+      "id": "37b1f49c9ac650bb",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 45268,
+      "excerpt": "ges in supply and demand or inflationary pressures, and changes in demand for end-use applications, among other factors. Demand for NdFeB permanent magnets can also exhibit other types of cyclicality. Customer ordering patterns are often shaped by broader economic conditions, government policies, and industry‑specific incentive programs. The extent to which these cycles may affect our business will depend on the concentration of our customer base within particular end markets and sectors as we s",
+      "sectionId": "item_1_business_overview_usa_rare_earth_",
+      "sectionHeader": "Item 1 — Business Overview USA Rare Earth, Inc.’s mission is to be a global leader in the",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 64858,
+        "end": 65358
+      }
+    },
+    {
+      "id": "e0b6827f36f859db",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 8080,
+      "excerpt": "tal-intensive business that requires the commitment of substantial resources; if we do not have sufficient capital or resources to provide for such activities, it could negatively impact our business. • The performance of the Round Top Project will depend on its ability to reach favorable production rates for the separation of rare earths. • The revenue generated by the Round Top Project may be negatively impacted by possible competition from substitutions for critical and rare earth minerals an",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 100928,
+        "end": 101428
+      }
+    },
+    {
+      "id": "fde8bac54d83bd04",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 9981,
+      "excerpt": "nge and these changes may result in a reduction in our resources. These changes may also result in alterations to our development and mining plans, which may, in turn, adversely affect our operations. • We face opposition from organizations that oppose mining which may disrupt or delay our Round Top Project. • We will be required to obtain and sustain governmental permits and approvals to develop and operate the Round Top Project, a process which is often costly, time-consuming and somewhat unce",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 102829,
+        "end": 103329
+      }
+    },
+    {
+      "id": "3f49c6552da9d4af",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 25007,
+      "excerpt": "in achieving profitability. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 23 Table of Contents We may not be able to generate positive cashflow from our expected future business operations. Our long-term success will depend on implementing our business strategy and operational plan, as well as our ability to generate revenues, achieve and maintain profitability and develop positive cash flows from our magnet production. Our ability to continue with our business plan to produce and sell",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 117856,
+        "end": 118416
+      }
+    },
+    {
+      "id": "820db5682e6c4eae",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 38422,
+      "excerpt": "erpretation thereof, confiscatory taxation, governmental royalties, restrictions on currency conversion, imports or sources of supplies, or the expropriation or nationalization of private enterprises. The amount of capital required for completion and build-out of our Projects may increase materially from our current estimates, and we expect to raise further funds through equity or debt financing, joint ventures, production sharing arrangements or other means. Consequently, we depend on our abili",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 131270,
+        "end": 131770
+      }
+    },
+    {
+      "id": "991fea9010ced420",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 53796,
+      "excerpt": "yberattacks or other information security breaches in the future. Our risk and exposure to these matters cannot be fully mitigated because of, among other things, the evolving nature of these threats. As such threats continue to evolve, we may be required to expend additional resources to modify or enhance any protective measures or to investigate and remediate any security vulnerabilities. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 29 Table of Contents Risks Related to Human Capita",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 146644,
+        "end": 147144
+      }
+    },
+    {
+      "id": "2721bb219abd8f29",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 54613,
+      "excerpt": "enior management and key personnel, particularly our experts with respect to magnet production. Our success continues to depend largely upon the performance of key officers, employees and consultants. The market for qualified talent has become increasingly competitive, with shortages of qualified talent relative to the number of available opportunities being experienced in all markets where we conduct our operations. The ability to remain competitive by offering higher compensation packages and",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 147461,
+        "end": 148020
+      }
+    },
+    {
+      "id": "9211d341a1fad735",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 61788,
+      "excerpt": "nefits of the acquisition of Less Common Metals, including the anticipated synergies, growth opportunities and supply-chain benefits, may not be achieved within the time frame we anticipate or at all. Failure to achieve the anticipated benefits of the LCM Acquisition or to identify all the risks associated with the LCM Acquisition could adversely affect our results of operations or cash flows, decrease or delay any accretive effect of the LCM Acquisition, and negatively impact the price of our C",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 154636,
+        "end": 155136
+      }
+    },
+    {
+      "id": "b38ffa709870faf6",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 62725,
+      "excerpt": "completion of the LCM Acquisition depends on the ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. Our success following the completion of the LCM Acquisition depends on our ability to retain Less Common Metals’ existing customers and suppliers, as well as our ability to build relationships with new customers and suppliers. The LCM Acquisition may create uncertainty among the Less Common Metals’",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 155573,
+        "end": 156133
+      }
+    },
+    {
+      "id": "810eb5f59c4ae58b",
+      "ticker": "USAR",
+      "vendor": "Arm",
+      "charOffset": 63692,
+      "excerpt": "any, it could result in a significant loss of revenue. Similarly, if suppliers decide to terminate or renegotiate their agreements, it could lead to increased costs or disruptions in the supply chain. Furthermore, having closed the LCM Acquisition, we may face challenges in integrating and harmonizing customer service and supplier management processes, which could impact the quality of relationships and the ability to achieve operational efficiencies. Less Common Metals and our ability to build",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 156540,
+        "end": 157099
+      }
+    },
+    {
+      "id": "fdf3ae77cb0eeb4d",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 75760,
+      "excerpt": "een issued. These third-party actions can materially increase the costs of and cause delays in the permitting process and could cause us not to proceed with the development or operation of a property. In addition, our ability to successfully obtain key permits and approvals to explore for, develop, operate and expand operations will likely depend on our ability to undertake such activities in a manner consistent with the creation of social and economic benefits in the surrounding communities, wh",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 168608,
+        "end": 169108
+      }
+    },
+    {
+      "id": "29e040bc7debb453",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 101643,
+      "excerpt": "ilestones. Our ability to raise additional equity or debt financing may be adversely affected by market conditions, interest rates, investor risk appetite, or macroeconomic factors beyond our control. Our business plan requires significant additional capital, which may include equity and/or debt financing, beyond the Expected U.S. Government Transaction, and our ability to obtain such capital will depend on market conditions and our operating performance, and may result in higher costs of capita",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 194491,
+        "end": 194991
+      }
+    },
+    {
+      "id": "af76528da34301af",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 112891,
+      "excerpt": "ing from the potential announcement or completion of the Expected U.S. Government Transaction. Given the scarcity of recent U.S. precedents for transactions such as those contemplated by Expected U.S. Government Transaction and of the government becoming a significant stockholder of ours, it is difficult to foresee all the potential consequences. Among other things, there could be adverse reactions, immediately or over time, from investors, employees, customers, suppliers, other business or comm",
+      "sectionId": "item_1a_risk_factors_the_following_discu",
+      "sectionHeader": "Item 1A — Risk Factors The following discussion sets forth what management currently believ",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 205739,
+        "end": 206239
+      }
+    },
+    {
+      "id": "695d99af6faf2190",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 2712,
+      "excerpt": "integrated mine-to-magnet platform. Accordingly, the drivers of our future financial results, as well as the components of such results, may not be comparable to our historical results of operations. We believe that our performance and future success depend on several factors that present significant opportunities for us but also pose significant risks and challenges, including those discussed below and in Part I, Item 1A , “Risk Factors.” Less Common Metals In the fourth quarter of 2025, we com",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 260331,
+        "end": 260831
+      }
+    },
+    {
+      "id": "2ebf86a0c2d79a90",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 9514,
+      "excerpt": "HREE and critical mineral oxides and concentrates at Round Top, which are and largely unavailable domestically; • reshore 10,000 MTPA of HREE metal- and alloy-making and strip-casting capacity, capabilities that do not currently exist in the U.S., through the expertise of Less Common Metals; and USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 56 Table of Contents • process 2,000 MTPA of swarf, which is a result of our magnet production. We believe that, if consummated on the terms descri",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 267132,
+        "end": 267632
+      }
+    },
+    {
+      "id": "736c9564d8d885d6",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 11434,
+      "excerpt": "roducers of sintered NdFeB permanent magnet, enabling us to serve customers across the defense, electric vehicle, and industrial sectors and to generate meaningful product revenues for the first time. We believe domestic production of neo magnets addresses a critical gap in the U.S. supply chain and that demand from both commercial and government customers for domestically sourced magnets should be substantial and grow over time. However, we have no history of commercial magnet manufacturing, an",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 269052,
+        "end": 269552
+      }
+    },
+    {
+      "id": "70c1ea672cc40c4b",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 12190,
+      "excerpt": "d assumptions we have made about our business over the next few years, including the ability to obtain the equipment and materials needed to produce magnets on a timely basis from third party vendors. Our ability to achieve our production timeline depends on our ability to obtain equipment and materials, the recruitment and retention of skilled personnel, and the timely sourcing of rare earth oxide and metal feedstock from third parties while the Round Top Project matures. Any delays or cost ove",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 269808,
+        "end": 270308
+      }
+    },
+    {
+      "id": "4090c087450df87b",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 27276,
+      "excerpt": "Facility, are expected to exceed our current resources, and we will need to raise additional capital. In addition, to meet certain milestones to obtain funding awards and debt under the Expected U.S. Government Transaction and execute on our current business plan, we will be required to i) raise at least $600 million of additional equity by December 31, 2027 to satisfy our estimated $4.1 billion of required long-term capital expenditures; and ii) establish a $250 million revolving credit facilit",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 284895,
+        "end": 285395
+      }
+    },
+    {
+      "id": "30507844219827f9",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 29898,
+      "excerpt": "the Round Top Project into a producing mine and expanding the Stillwater Facility to its full planned capacity will require substantial additional capital expenditures beyond our current cash on hand. We have not yet determined the full scope or timing of those expenditures with precision, as they are dependent on the outcomes of our ongoing feasibility studies. However, we expect total capital requirements to be significant, and our ability to fund them will depend on our ability to access addi",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 287516,
+        "end": 288016
+      }
+    },
+    {
+      "id": "48ff70965f8d50b7",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 30880,
+      "excerpt": "e each subject to our achievement of specified business milestones and are expected to be released in phases over time. Accordingly, the timing and magnitude of any cash inflows from the Expected U.S. Government Transaction will depend on our ability to satisfy those milestones on the anticipated schedule. There is no assurance that the Definitive Agreements will be entered into or that any funding will be received. If we are unable to satisfy the required milestones or if the Definitive Agreeme",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 288498,
+        "end": 288998
+      }
+    },
+    {
+      "id": "a6f30a7ff302fed5",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 33557,
+      "excerpt": "s and prefunded warrants (the “$75M PIPE”) and the change in fair value of outstanding financial instruments, stock-based compensation of $8.8 million and a non-cash litigation settlement of approximately $1.7 million, and an increase in cash used for vendor payments and prepayment of insurance, partially offset by an increase in accrued liabilities related to financing, acquisition and payroll costs. Investing Activities. The $136.3 million increase in cash used in investing activities, as comp",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 291175,
+        "end": 291675
+      }
+    },
+    {
+      "id": "37f201fab5b77915",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 29960,
+      "excerpt": "erials and supplies, drilling costs, contractor payments, and other costs directly associated with exploration activities undertaken prior to the establishment of proven and probable mineral reserves. License costs associated with the right to explore in a specific exploration area are capitalized and amortized over the term of the license. Once technical feasibility and economic viability of a mineral property have been established and appropriate approvals have been obtained, subsequent costs",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 330117,
+        "end": 330676
+      }
+    },
+    {
+      "id": "913661ef07f9d7c2",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 30958,
+      "excerpt": "elationships, supplier relationships, and manufacturing know-how. Intangible assets are recognized over their estimated useful life and are included within selling, general and administrative expense. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 77 Table of Contents USA Rare Earth, Inc. Notes to Consolidated Financial Statements Goodwill represents the excess of the purchase price of a business combination over the fair value of the net assets acquired. Goodwill is not amortized, but",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 331115,
+        "end": 331674
+      }
+    },
+    {
+      "id": "e1b3d8b4e64604a4",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 35856,
+      "excerpt": "tstanding lease payable is recognized on the Consolidated Balance Sheets with respect to these leases. USA Rare Earth, Inc. | 2025 Annual Report (Form 10-K) | 78 Table of Contents USA Rare Earth, Inc. Notes to Consolidated Financial Statements A ROU asset is initially measured by adding the initial measurement of the lease liability, any lease payments made to the lessor at or before lease commencement, any initial direct costs incurred by the lessee, and subtracting any lease incentives receive",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 336013,
+        "end": 336513
+      }
+    },
+    {
+      "id": "7e4c1909002afc4a",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 36785,
+      "excerpt": "s the rate for a collateralized loan with the same term as the lease. Variable lease payments that depend on an index or a rate are initially measured using the index or rate at the commencement date. Lease Expense The Company recognizes the amortization of its finance lease-related ROU assets, including purchase options when it is reasonably certain to exercise the related purchase option, on a straight-line basis over the shorter of the lease term or the useful life of the underlying asset as",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 336942,
+        "end": 337501
+      }
+    },
+    {
+      "id": "103800782ae10719",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 76311,
+      "excerpt": "ompletion and selling effort, or at estimated replacement costs for certain components. Raw materials were valued at the lower of the at purchased cost or replacement costs. • Property and equipment . The property, plant and equipment acquired were valued using either the replacement cost or market value approach, as appropriate, as of the date of acquisition. • Intangible assets . ◦ Customer relationships . The fair value of the intangible asset acquired was estimated using an income approach.",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 376468,
+        "end": 377027
+      }
+    },
+    {
+      "id": "7005463a42585431",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 79124,
+      "excerpt": "tities, and intangible assets that do not qualify for separate recognition, including the existing workforce acquired through the acquisition.The Company does not expect goodwill to be tax deductible. Intangible Assets Acquired The following table presents the components of the fair value of intangible assets acquired as of the date of acquisition, along with their estimated useful lives: Intangible assets Fair Value Weighted Average Useful Life (In thousands) (Years) Trade name $ 7,245 15.0 Cus",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 379281,
+        "end": 379781
+      }
+    },
+    {
+      "id": "51f63149b78e63c6",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 92477,
+      "excerpt": ". The following table presents the depreciation expense related to the Company’s property, plant and equipment, and the amortization expense related to the Company’s finance lease right-of-use assets. Year Ended December 31, 2025 2024 (In thousands) Depreciation expense $ 573 $ 235 Amortization expense 190 — Total $ 763 $ 235 Goodwill and Other Intangible Assets Goodwill Year Ended December 31, 2025 2024 (In thousands) Balance, beginning of year $ — $ — IORM Acquisition 134,848 — Balance, end of",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 392634,
+        "end": 393194
+      }
+    },
+    {
+      "id": "bd7a13f340ad202c",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 93439,
+      "excerpt": "e assets $ 69,290 $ ( 678 ) $ 68,612 There were no other intangible assets at December 31, 2024. The following table presents the amortization expense related to the Company’s other intangible assets. Year Ended December 31, 2025 (In thousands) Trade name $ 60 Customer relationships 74 Supplier relationships 425 Know-how 119 Total amortization of other intangible assets $ 678 Amortization of Intangible Assets The annual expected amortization expense of finite-lived intangible assets subject to a",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 393596,
+        "end": 394096
+      }
+    },
+    {
+      "id": "3819c7300469493c",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 158927,
+      "excerpt": "the customers’ “shipped to” address. The following tables presents revenue by geographical region and by countries representing more than 10% of revenue. No revenues were reported in fiscal year 2024. Region Year Ended December 31, 2025 (In thousands) United States $ 99 International 1,544 Total revenue $ 1,643 Country Year Ended December 31, 2025 Germany 77 % Switzerland 11 % Other 12 % Total revenue 100 % Major Customers The following table presents the customers that account for 10% or more o",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 459084,
+        "end": 459584
+      }
+    },
+    {
+      "id": "f2d4fdf668a44c35",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 159890,
+      "excerpt": "stomers 9 % Major Raw Material Supply Vendors The following table presents the major raw material supply vendors accounting for 10% or more of the Company’s consolidated raw material supply purchases. The percentages by vendor reflect specific relationships or contracts that would concentrate raw material supply purchases for the period presented and do not indicate a trend specific to any one vendor. There were no vendor purchases in fiscal year 2024. Vendor Year Ended December 31, 2025 Vendor",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 — Financial Statements and Supplementary Data Page No. Report of Independent Regist",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 460047,
+        "end": 460606
+      }
+    },
+    {
+      "id": "73ff5d1817af20d0",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 12853,
+      "excerpt": "ligibility requirements of the plan. The Code allows eligible employees to defer a portion of their compensation, within prescribed limits, on a pre-tax basis through contributions to the 401(k) Plan. Currently, we make safe harbor matching contributions to the 401(k) Plan equal to 100% of employee contributions not in excess of 1% of their compensation and 50% of employee contributions not in excess of 6% of their compensation, and these matching contributions are fully vested as of the date on",
+      "sectionId": "item_11_executive_compensation_this_sect",
+      "sectionHeader": "Item 11 — Executive Compensation This section discusses the 2025 executive compensation pro",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 509821,
+        "end": 510381
+      }
+    },
+    {
+      "id": "04f6b42cf29a180f",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 14620,
+      "excerpt": "for all other Eligible Participants 6 months of base salary and 6 months of COBRA coverage, and for both the CEO and other Eligible Participants, acceleration of the next tranche of outstanding equity awards at the time of termination, with performance awards vesting based on target performance. All of our full-time employees, including our named executive officers, are eligible to participate in our health and welfare plans, including: • medical, dental and vision benefits; • life insurance; an",
+      "sectionId": "item_11_executive_compensation_this_sect",
+      "sectionHeader": "Item 11 — Executive Compensation This section discusses the 2025 executive compensation pro",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 511589,
+        "end": 512089
+      }
+    },
+    {
+      "id": "ec800767d1fac52b",
+      "ticker": "USAR",
+      "vendor": null,
+      "charOffset": 18181,
+      "excerpt": "d by the terms of the Ballard Separation Agreement, Mr. Ballard forfeited all such RSUs in connection with stepping down from the role of Chief Executive Officer of the Company. In connection with Mr. Ballard’s separation, he is entitled to payments and benefits in accordance with the Ballard Separation Agreement. For additional information regarding the Ballard Separation Agreement, please see “— Narrative to Summary Compensation Table — Departure of Certain Named Executive Officers” above. USA",
+      "sectionId": "item_11_executive_compensation_this_sect",
+      "sectionHeader": "Item 11 — Executive Compensation This section discusses the 2025 executive compensation pro",
+      "form": "10-K",
+      "filingDate": "2026-03-30",
+      "type": "chunk",
+      "range": {
+        "start": 515149,
+        "end": 515709
+      }
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+Management’s Discussion and Analysis (“MD&A”)
+                                      for the Year Ended November 30, 2023
+
+The following information, prepared as of November 20, 2024, should be read in conjunction with the audited
+consolidated financial statements of Search Minerals Inc. (the “Company” or “Search”) for the year ended November
+30, 2023. The referenced consolidated financial statements have been prepared in accordance with International
+Financial Reporting Standards (“IFRS”). All amounts are expressed in Canadian dollars unless otherwise indicated.
+
+FORWARD-LOOKING STATEMENTS
+
+Forward-looking statements look into the future and provide an opinion as to the effect of certain events and trends
+on the business. Forward-looking statements may include words such as “plans”, “intends”, “anticipates”, “should”,
+“estimates”, “expects”, “believes”, “indicates”, “suggests” and similar expressions.
+
+This MD&A contains forward-looking statements. These forward-looking statements are based on current
+expectations and various estimates, factors and assumptions and involve known and unknown risks, uncertainties
+and other factors. Information concerning mineral resource estimates and the interpretation of drill results may also
+be considered a forward-looking statement, as such information constitutes a prediction of what mineralization
+might be found to be present if and when a project is actually developed.
+
+It is important to note the following:
+
+    •    Unless otherwise indicated, forward-looking statements in this MD&A describe the Company’s expectations
+         as of November 20, 2024.
+
+    •    Readers are cautioned not to place undue reliance on these statements as the Company’s actual results,
+         performance or achievements may differ materially from any future results, performance or achievements
+         expressed or implied by such forward-looking statements if known or unknown risks, uncertainties or other
+         factors affect the Company’s business, or if the Company’s estimates or assumptions prove inaccurate.
+         Therefore, the Company cannot provide any assurance that forward-looking statements will materialize.
+         Factors that could cause results or events to differ materially from current expectations expressed or
+         implied by the forward-looking statements include, but are not limited to, possible variations in mineral
+         resources, labour disputes, operating or capital costs; availability of sufficient financing to fund planned or
+         further required work in a timely manner and on acceptable terms; failure of equipment or processes to
+         operate as anticipated; and political, regulatory, environmental and other risks of the mining industry.
+
+    •    Subject to applicable laws, the Company assumes no obligation to update or revise any forward-looking
+         statement, whether as a result of new information, future events or any other reason.
+
+    •    The preliminary economic assessment includes inferred mineral resources that are considered too
+         speculative geologically to have the economic considerations applied to them to enable them to be
+         categorized as mineral reserves and there is no certainty that the preliminary economic assessment will be
+         realized. Mineral resources that are not mineral reserves do not have a demonstrated economic viability.
+
+For a description of material factors that could cause the Company’s actual results to differ materially from the
+forward-looking statements in this MD&A, please see “Risks and Uncertainties.”
+
+
+
+                                                           1
+DESCRIPTION OF BUSINESS
+
+Search Minerals Inc. (“Search”) was incorporated on June 7, 2006, under the Business Corporations Act of British
+Columbia. The Company’s common shares are listed on the TSX Venture Exchange (the “TSX-V”) under the symbol
+“SMY.V”. On April 8, 2024, the Company received a British Columbia Securities Commission (“BCSC”) cease trade
+order (“CTO”) for failure to file audited annual financial statements and MD&A for the year ended November 30,
+2023. The CTO remains in effect.
+
+Search is developing Critical Rare Earth Element (“CREE”) mineral assets in south-east and central Labrador, Canada.
+Critical Rare Earth Elements, such as: neodymium, praseodymium, terbium, dysprosium, lanthanum plus zirconium,
+and hafnium (Nd, Pr, Tb, Dy, La, Zr, and Hf, respectively) are strategic metals that have growing demand, constrained
+or restricted supply, and are commonly used in innovative technologies.
+
+Search is the discoverer of the St. Lewis – Port Hope Simpson CREE District (Figure 1), a highly prospective CREE belt
+located in south-east Labrador that is 64 km long. Search owns 100% of two advanced CREE resources called the
+Deep Fox and Foxtrot Projects and the Fox Meadow, Silver Fox, Fox Valley and Awesome Fox Prospects.
+
+
+
+
+                       Figure 1: Port Hope Simpson – St. Lewis area Projects and Prospects
+
+Search also maintains mineral licenses for other CREE mineral prospects in Labrador, including claims in the Red
+Wine area of central Labrador.
+
+PROJECT SUMMARY
+
+Search began exploring for Rare Earth Elements (“REE”) near the communities of St. Lewis and Port Hope Simpson
+in 2009.
+
+Search controls a CREE District in south-east Labrador that is road accessible and on/near tidewater. The Company
+completed three drill programs (2017, 2018, 2021), totaling 12,000m, and produced a new mineral resource
+estimate at Deep Fox and an updated Preliminary Economic Assessment (“PEA”) in July 2022. The 2022 drill program
+at Deep Fox, totaling 14,000m consisted of infill resource delineation, exploration and geotechnical drilling.
+
+
+                                                          2
+DEEP FOX PROJECT
+
+Deep Fox is located approximately 2.7 km north east of the main dock in the Port of St. Lewis, NL (Figure 1, and
+Figure 2), and is located 12 km east of the Foxtrot deposit. The Deep Fox project is located atop a hill, nearby the
+abandoned fishing community of Deepwater Creek.
+
+
+
+
+                                                         3
+                                       Figure 2: Deep Fox Project Location
+
+The 2021 exploration program at Deep Fox consisted of resource definition and exploration diamond drilling,
+channel sampling, and bulk material sampling. This program focused on infill drilling the resource from the 25m to
+200m level. A total of 38 drill holes were completed, including four drill holes on the 200m level which intersected
+mineralization from 20 – 45m apparent width (approximately 16 – 36m true width). The exploration at the 200m
+level indicates that mineralization has maintained thickness to this depth, and the deposit continues to be open at
+depth.
+
+The 2022 resource estimate for Deep Fox Project incorporates data from 2017, 2018, and 2021 drill programs. This
+new resource estimate incorporates new CREE prices, new CREE recoveries, and a new underground/open pit mining
+scenario and the accompanying NSR values. This resource estimate was used to support the 2022 PEA that combined
+the new Foxtrot and Deep Fox resources.
+
+FOXTROT PROJECT
+
+Foxtrot is located approximately 10 km west of St. Lewis and 12 km west of Deep Fox.
+
+FOX MEADOW PROSPECT
+
+The Fox Meadow discovery is located 11 km west of Port Hope Simpson and 1 km southeast of a graveled forest
+access road, which extends southwestward from the paved Trans Labrador Highway.
+
+SILVER FOX PROSPECT
+
+The Silver Fox discovery is located 14 km west of St. Lewis, 2 km west of Foxtrot and about 1 km south of an all-
+season graveled road.
+
+
+
+                                                         4
+RED WINE CREE DISTRICT, CENTRAL LABRADOR
+
+The Red Wine property is located approximately 80 km north-east of Churchill Falls, Labrador and is 100% owned by
+Search. On June 28, 2015, the Company purchased Great Western Minerals Group Ltd.’s (“GWMG”) 50% interest in
+the Red Wine Property for $20,000. GWMG had acquired its interest in the Red Wine Property pursuant to an option
+agreement between the Company and GWMG dated July 23, 2010.
+
+The district can be subdivided into two areas: the northern area contains the Mann #1 and Two Tom Lake prospects
+and the southern area contains the Merlot and Narnia Hill prospects.
+
+Red Wine CREE District Option Agreements
+
+The Company signed two option agreement for properties within the Red Wine District as follows:
+
+Option Agreement – Two Tom Property
+
+On June 14, 2021, the Company entered into an option agreement (the “Option Agreement”) with United Gold Inc,
+Aubrey Budgell and Donna Lewis (the “Vendors”) for an option to acquire an undivided 100% interest in and to
+certain claims known as the Two Tom Property (the “Two Tom Property”).
+
+The Two Tom Property consists of two licenses (027378M and 016522M) totaling 16 claims
+
+Under the terms of the Option Agreement, the Company may earn the undivided 100% interest in the Two Tom
+Property by making aggregate cash payments of $200,000 and by issuing an aggregate of 1,600,000 common shares
+of the Company over a period of three years as follows:
+
+    •   pay $40,000 (paid) and issue 400,000 common shares on the acquisition date (issued);
+    •   pay $50,000 (paid) and issue 400,000 common shares on or before July 2, 2022 (issued);
+    •   pay $50,000 (paid) and issue 400,000 common shares on or before July 2, 2023 (issued); and,
+    •   pay $60,000 and issue 400,000 common shares on or before July 2, 2024. In August 2024, the Company
+        and the Vendors entered into an amending agreement extending the due date. On October 10, 2024 the
+        Company issued the 400,000 common shares and on November 5, 2024, the Company made the $60,000
+        cash payment.
+
+The Company has completed all terms and conditions of the Option Agreement and the transfer of claims to the
+Company has been initiated.
+
+The Vendors were granted a 3.0% net smelter return royalty. The Company may, at any time, purchase 2.0% of the
+net smelter return royalty for $2,000,000.
+
+Letter Agreement – Mann Property and Two Tom Property claim
+
+On June 15, 2021, the Company entered into a binding letter agreement (the “Letter Agreement”) with Roland
+Quinlan and Eddie Quinlan (the “Vendors”) for an option to acquire an undivided 100% interest in and to certain
+claims known as the Mann#1 claims (the “Mann Property”) and another claim proximal to the Two Tom Property.
+
+The Mann Property consists of license 027380M (4 claims, 1 square km) and the Two Tom Property consists of license
+027384M (16 claims, 5 square km).
+
+Under the terms of the Letter Agreement, the Company may earn the undivided 100% interest in the claims by
+making aggregate cash payments of $200,000 and by issuing an aggregate of 1,600,000 common shares of the
+Company over a period of four years as follows:
+   • pay $20,000 (paid) and issue 400,000 common shares on the acquisition date (issued);
+   • pay $30,000 (paid) and issue 400,000 common shares on or before July 2, 2022 (issued);
+   • pay $60,000 (paid) and issue 400,000 common shares on or before July 2, 2023 (issued);
+
+                                                        5
+    •   pay $60,000 and issue 300,000 common shares on or before July 2, 2024. In August 2024, the Company
+        and the Vendors agreed to amend and reschedule the cash payment and share issuance to a future date.
+        On October 10, 2024 the Company issued the 300,000 common shares and the $60,000 cash payment
+        remains outstanding; and,
+    •   pay $30,000 and issue 100,000 common shares on or before July 2, 2025.
+
+The Vendors were granted a 3.0% net smelter return royalty. The Company may, at any time, purchase 2.5% of the
+net smelter return royalty for $2,000,000.
+
+Resource Estimate
+
+On April 11, 2022, Search announced an updated Mineral Resource Estimate for the Deep Fox and Foxtrot projects.
+The Mineral Resource Estimate was prepared by SLR Consulting (Canada) Inc (“SLR”), and the Technical Report was
+filed on SEDAR on July 22, 2022.
+
+Preliminary Economic Assessment
+
+On June 7, 2022, Search announced the key financial metrics of a Preliminary Economic Assessment (“PEA”) for the
+development of its Deep Fox and Foxtrot CREE deposits located in Labrador, Canada, and the establishment of a
+Hydrometallurgical (direct extraction) processing facility on the Island of Newfoundland.
+
+The PEA was prepared by SLR, and the technical report relating to the PEA was filed on SEDAR on July 22, 2022.
+
+CORPORATE DEVELOPMENTS
+
+Corporate Events from August 31, 2023 to June 21, 2024
+
+Please read the August 31, 2023 MD&A filed on November 1, 2023 for the prior information.
+
+Effective at the open on December 19, 2023, trading in the shares of the Company were halted by the TSX-V pending
+a review of compliance with TSX-V requirements. Previous directors of the Company failed to satisfy TSX-V
+requirements and the halt remains effective as of the date of this MD&A.
+
+On February 21, 2024, Dr. David Dreisinger resigned as VP – Technology and a Director, and Mr. Matt Anderson
+resigned as Chief Financial Officer.
+
+On April 8, 2024, the Company received a BCSC cease trade order for failure to file audited annual financial
+statements and MD&A for the year ended November 30, 2023. The CTO remains in effect.
+
+On March 4, 2024, certain concerned shareholders formally requisitioned an Annual General Meeting of
+shareholders. As previous management and directors failed to respond to the requisition, on April 29, 2024,
+concerned shareholders proceeded to call an Annual General Meeting and announced that a Requisition Annual
+General Meeting would be held in Vancouver, B.C., in person, on June 21, 2024. The concerned shareholders duly
+issued a Notice of Meeting, Information Circular and Proxy and the Annual General Meeting was held on June 21,
+2024.
+
+Corporate Events after June 21, 2024
+
+On June 21, 2024, Search held its Annual General Meeting of shareholders, called by certain concerned shareholders
+of the Company, led by Joseph Lanzon, which was held in person in Vancouver, British Columbia. Mr. George
+Molyviatis and Ms. Jocelyn Bennett, the remaining Search directors at that time, did not file a form of proxy and did
+not stand for re-election.
+
+The shareholders of the Company elected a new slate of directors to Search’s Board of Directors, being Joseph
+Lanzon, Rohan Hazelton and Diane Poole. The directors were elected to hold offices until the next annual general
+
+                                                         6
+meeting of shareholders or until their successors are elected or appointed. Mr. Joseph Lanzon has been appointed
+as interim Chief Executive Officer and Mr. Greg Andrews has been appointed as interim Chief Financial Officer and
+Corporate Secretary. An Advisory Board was formed with the support of Dr. Randy Miller to lead and re-establish
+our exploration team, and Mr. Ed Moriarity will be instrumental in our communications and environmental
+engagements.
+
+On August 9, 2024, the Company announced that pursuant to the agreement announced June 15, 2021, with Roland
+Quinlan and Eddie Quinlan (collectively, the "Vendors") for the option to acquire an undivided 100% interest in and
+to certain claims owned by the Vendors including Mann #1 and another claim proximal to Two Tom Lake, the
+Company and Vendors agreed to amend and reschedule the third anniversary cash payment of $60,000 and the
+provision of 300,000 common shares. On October 10, 2024 the Company issued the 300,000 common shares and
+the $60,000 cash payment remains outstanding.
+
+On August 24, 2024, the Company announced that pursuant to the agreement announced June 14, 2021, with United
+Gold, Aubrey Budgell and Donna Lewis (collectively, the “Vendors”) for the option to acquire an undivided 100%
+interest in the Two Tom Property, the Company and Vendors agreed to amend and reschedule the third and final
+anniversary cash payment of $60,000 and the provision of 400,000 shares. On October 10, 2024 the Company issued
+the 400,000 common shares and on November 5, 2024, the Company made the $60,000 cash payment. The
+Company has completed all terms and conditions of the Option Agreement and the transfer of claims to the
+Company has been initiated.
+
+On September 6, 2024, the BCSC granted a partial revocation (the “Partial Revocation”) of the CTO previously issued
+by the BCSC on April 8, 2024. The Partial Revocation permitted the Company to complete a private placement
+financing for the purpose of finalizing its annual financial statements for the year ended November 30, 2023, interim
+financial statements, MD&A’s and certifications of interim filings for the quarters ended February 29 and May 31,
+2024, as well as to provide funding for certain operational, filing, debt and administrative expenses. The Partial
+Revocation also permitted the Company to issue an aggregate of 700,000 common shares of the Company under
+the option agreements in respect of the Two Tom Lake licenses and Mann #1 claims.
+
+Pursuant to the Partial Revocation Search was able to issue and sell non-transferable unsecured convertible notes
+(the “Convertible Notes”) with an aggregate principal amount of $1,000,000. The Convertible Notes have a maturity
+date of one year from the date of issuance (the “Maturity Date”) and bear simple interest at a rate of 15% per
+annum. Following the full revocation of the CTO and prior to the Maturity Date, principal and interest under the
+Convertible Notes may be converted into common shares of the Company at the option of the noteholder. The
+conversion price of the principal will be $0.05 per share and the conversion price of the accrued interest into Shares
+will be as permitted by the policies of the TSX-V. The Company closed the Convertible Notes in two tranches, tranche
+1 for $300,000 with the Company’s indigenous partner, the Nunatukavut Community Council on October 7, 2024
+and tranche 2 for $700,000 on November 1, 2024.
+
+The use of proceeds as outlined in the Partial Revocation Order includes: 1) revocation costs to auditors and other
+professionals fees, transfer and filing fees of $205,000, 2) Maintenance costs for minimal ongoing expenses and
+mining license managements of $251,500, 3) Assessment related expenses to obtain past assay results, re-
+instatement our geological database, engagement of two qualified geologists (including Dr. Randy Miller) and
+commence small work programs to keep our mining licenses in good standing of $435,000 and 4) General Working
+Capital of $108,500.
+
+Dr. Randy Miller has commissioned and opened Search’s St. Lewis, Labrador field office. The Company also re-hired
+some of the former seasonal workers to commence an approximately two month field and exploration season. The
+Company’s short-term goal is to obtain the assay results from the 2022 Fox Meadow 2,000m drill program and report
+on those results.
+
+
+
+
+                                                          7
+DIRECT EXTRACTION TECHNOLOGY
+
+Search completed a successful $1.9M pilot plant operation in June 2017 using the proprietary Direct Extraction
+Process at SGS Canada (Lakefield) (“SGS”) Lakefield, Ontario. The pilot plant provided Search with a sample of a 99%
+high purity mixed rare earth oxide concentrate (“REO Concentrate”) for further testing at separation facilities.
+
+In conjunction with processing the Foxtrot material during the pilot plant operation, a bench-top demonstration test
+of the Deep Fox mineral sample was also completed at SGS. The test highlights provided extractions of 90.8%
+Neodymium, 90.5% Praseodymium, 81.3% Dysprosium and 82.5% Terbium, which compare favorably with the
+extractions from the Foxtrot recent pilot plant studies.
+
+MINERAL PROPERTIES
+
+Although the Company has taken steps to verify title to mineral properties in which it has an interest, in accordance
+with industry standards for the current stage of exploration of such properties, these procedures do not guarantee
+a clear title. Property title may be subject to unregistered prior agreements and regulatory requirements. The
+Company is not aware of any disputed claims of title.
+
+SELECTED ANNUAL INFORMATION
+
+The Company’s fiscal year ends on November 30th of each year. The following is a summary of certain selected
+audited financial information for the last three completed fiscal years:
+
+                                              November 30, 2023       November 30, 2022         November 30, 2021
+                                                             ($)                     ($)                       ($)
+Total Revenues                                                 -                       -                         -
+Loss                                                (1,545,238)             (1,571,004)               (2,074,584)
+Loss per Share (basic and diluted)                        (0.00)                  (0.00)                    (0.01)
+Deferred Resource Property Acquisition
+and Exploration Expenditures                           1,740,972                7,875,352                5,810,987
+Total Assets                                          29,471,268               29,288,803               21,647,044
+Total Liabilities                                      3,801,688                2,350,882                  802,980
+Dividends Declared                                             -                        -                        -
+
+During the year ended November 30, 2023, the Company’s loss and exploration expenditures decreased as a result
+of lower activities.
+
+RESULTS OF OPERATIONS
+
+During the year ended November 30, 2023, the Company incurred exploration and evaluation expenditures as
+follows:
+
+                                                      Critical Rare Earth
+                                                       Element District,           Red Wine,
+                                                                Labrador            Labrador                  Total
+                                                                        $                  $                     $
+
+Balance, November 30, 2022                                   26,772,129               351,700           27,123,829
+
+Acquisition costs
+Cash                                                             120,000                    -              120,000
+Shares                                                                 -               24,000               24,000
+                                                                 120,000               24,000              144,000
+
+
+
+                                                         8
+Deferred exploration costs
+Assays                                                           739,614                    -             739,614
+Camp and rent                                                     92,835                    -              92,835
+Drilling                                                          80,802                    -              80,802
+Engineering and metallurgy                                        79,168                    -              79,168
+Geological consulting, salaries, wages and
+benefits                                                         475,714                 841              476,555
+Government contributions                                       (111,406)                   -            (111,406)
+Helicopters                                                        6,160                   -                6,160
+Metallurgical consulting                                         111,000                   -              111,000
+Other                                                             97,786              12,946              110,732
+Travel and accommodation                                          11,512                   -               11,512
+                                                               1,583,185              13,787            1,596,972
+
+Balance, November 30, 2023                                    28,475,314             389,487           28,864,801
+
+The Company was conducting the Deep Fox exploration program and the remaining work was focused primarily on
+keeping the licenses in good standing.
+
+OVERALL PERFORMANCE
+
+Year ended November 30, 2023 and 2022
+
+The Company had a loss of $1,545,238 ($0.00 per share) for the year ended November 30, 2023 as compared to a
+loss of $1,571,004 ($0.00 per share) for the year ended November 30, 2022. The table below details certain non-
+cash or unusual transactions that for the purposes of this discussion have been adjusted out of the reported loss to
+produce an adjusted loss that forms a better basis for comparing the period over period operating results of the
+Company.
+
+                                                                                  2023                       2022
+                                                                                    ($)                        ($)
+Loss for the period as reported                                             (1,545,238)                (1,571,004)
+Add (deduct):
+     Amortization                                                               210,829                    165,538
+     Share-based compensation – stock options                                    92,897                  1,414,674
+     Flow-through premium income                                               (40,878)                (1,265,322)
+     Write-off of accounts payable                                             (36,750)                          -
+     Loss on sale of equipment                                                   30,429                          -
+Adjusted loss for the period (1)                                            (1,288,711)                (1,256,114)
+ (1)
+        Adjusted loss for the period is not a term recognized under IFRS.
+
+    •   Amortization increased during the period due to the additions to equipment. The Company granted
+        11,550,000 stock options in February 2022. The options vest in three tranches over a one year period. On
+        May 8, 2023, the Company granted 2,000,000 stock options and 20% vested prior to the remainder being
+        forfeited, unvested.
+    •   The flow-through premium income of $40,878 (2022 - $1,265,322) represents the value of the tax benefits
+        transferred from Search to the flow-through share investors.
+
+The increase in the adjusted loss for the year ended November 30, 2023 compared to the year ended November 30,
+2022 is the net result of a number of differences in various expenses as follows:
+
+    •   Accounting and audit fees of $127,626 (2022: $112,739) are comprised of fees to maintain the accounting
+        records and prepare financial reports as required as well as administration of the Company.
+
+
+                                                          9
+    •   Administration expense and management fees of $532,707 (2022: $280,000) are comprised of salaries,
+        bonuses, fees and severance paid to the former CEO of the Company. The increase in fees this period was
+        due to the appointment of new CEOs and the severance paid to the former CEO.
+    •   Consulting fees of $33,160 (2022: $133,117) were fees to a director and to a consultant for corporate
+        advisory services. The director left the Company on June 27, 2023.
+    •   Legal fees of $97,418 (2022: $54,301) are general legal fees to comply with various regulations and general
+        business requirements.
+    •   Non-executive directors fees of $124,000 (2022: $138,000) are monthly fees to the non-executive directors.
+    •   Office and miscellaneous expenses of $211,156 (2022: $172,917) includes insurance, rent, office expenses
+        and supplies, memberships and subscriptions, flow-through interest tax as well as other miscellaneous
+        expenses. The increase during 2023 was due primarily to an increase in insurance as well as flow-through
+        interest tax.
+    •   Regulatory and transfer agent fees of $51,418 (2022: $116,749) are fees paid to maintain the listing on the
+        TSX-V, the OTCQB and other transaction fees. The decrease in fees was due primarily to decreased activity
+        and filings in 2023, as well as a stock option plan fee in 2022.
+    •   Shareholder communications of $43,725 (2022: $134,454) are fees incurred to market the Company to
+        current and potential investors. The decrease in fees was due primarily to decreased activities in 2023.
+    •   Travel and accommodation expenses of $60,647 (2022: $85,264) includes executive travel to the properties
+        in Newfoundland as well as travel for investor relations purposes.
+
+Three months ended November 30, 2023 and 2022
+
+                                                                                  2023                     2022
+                                                                                    ($)                       ($)
+(Loss) income for the period as reported                                      (212,399)                  149,348
+Add (deduct):
+      Amortization                                                               53,427                   68,175
+      Flow-through premium income                                                     -                (620,368)
+      Share-based compensation – stock options                                        -                  124,824
+      Write-off of accounts payable                                            (36,750)                        -
+      Loss on sale of equipment                                                  30,429                        -
+Adjusted loss for the period (1)                                              (165,293)                (278,021)
+  (1)
+         Adjusted loss for the period is not a term recognized under IFRS.
+
+The decrease in the adjusted loss for the three months ended November 30, 2023 compared to the three months
+ended November 30, 2022 was due primarily to a reduction in activities.
+
+QUARTERLY INFORMATION
+
+The following is selected financial data from the Company’s unaudited quarterly financial statements for the last
+eight quarters ending with the most recently completed quarter, being the three months ended November 30, 2023.
+
+                                                                Three Months Ended ($)
+                                        Nov 30, 2023           Aug 31, 2023     May 31, 2023        Feb 28, 2023
+ Total Revenues                                    -                      -                 -                  -
+ Loss                                      (212,399)              (143,934)         (471,724)          (717,181)
+ Loss Per Share (basic and
+ diluted)(1)                                   (0.00)                (0.00)             (0.00)             (0.00)
+ Total Assets                             29,471,268            29,277,002         29,240,141         29,648,378
+ Total Liabilities                         3,801,688             3,395,023          3,238,228          3,344,422
+ Shareholders’ Equity                     25,669,580            25,881,979         26,001,913         26,303,956
+
+
+
+
+                                                          10
+                                                               Three Months Ended ($)
+                                       Nov 30, 2022          Aug 31, 2022      May 31, 2022          Feb 28, 2022
+ Total Revenues                                   -                     -                  -                    -
+ Loss                                      149,348               (24,377)          (716,972)            (979,003)
+ Loss Per Share (basic and
+ diluted)(1)                                     0.00                0.00               (0.00)              (0.00)
+ Total Assets                             29,288,803          28,979,086           27,296,971          27,295,477
+ Total Liabilities                         2,350,882           2,315,337            2,106,049           1,863,976
+ Shareholders’ Equity                     26,937,921          26,663,749           25,190,922          25,431,501
+  (1)
+       The basic and diluted calculations result in the same values.
+
+FINANCING ACTIVITIES
+
+Subsequent to November 30, 2023, the Company received $1,000,000 of convertible notes (the “Convertible
+Notes”). The Convertible Notes have a maturity of one year from the date of issuance and bear simple interest at a
+rate of 15% per annum. Following the full revocation of the BCSC cease trade order, the principal and interest under
+the Convertible Notes may be converted into common shares at the option of the noteholders. The conversion price
+of the principal will be $0.05 per common share and the conversion price of interest will be as permitted by the
+policies of the TSX-V. On October 7, 2024, the Company closed the first tranche of $300,000 of Convertible Notes
+and on November 1, 2024 the Company closed the second tranche of $700,000 of Convertible Notes.
+
+During the year ended November 30, 2023, the Company received non-interest bearing, due on demand loans from
+a company that had common former directors ($265,250), and a former director ($930). As at November 30, 2023,
+the total demand loans outstanding were $266,180. Subsequent to November 30, 2023, the Company received
+demand loans from a company that had common former directors, $138,828, and a former director, $52,033.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+As at November 30, 2023, the Company’s cash balance was $7,292 with working capital deficit of $3,645,698.
+
+The Company’s operations consumed $1,288,711 of cash, before working capital items, during the year ended
+November 30, 2023 (2022: $1,256,114) with an additional $1,106,880 (2022: $7,025,977) utilized on mineral
+property deferred exploration and acquisition expenditures and the purchase of property and equipment. The cash
+requirement for the year ended November 30, 2023 was fulfilled from cash on hand, government assistance, other
+working capital and unsecured, non-interest bearing demand loans from a company with common directors.
+Subsequent to November 30, 2023, the Company received $1,000,000 of Convertible Notes.
+
+The Company’s aggregate operating, investing and financing activities during the year ended November 30, 2023
+resulted in a net decrease in its cash balance from $457,537 at November 30, 2022 to $ 7,292 at November 30, 2023.
+The Company’s working capital decreased by $2,698,519 correspondingly during the period and stood at a deficiency
+of $3,645,698 at November 30, 2023. The Company has accumulated losses since inception of $25,085,530.
+
+As at November 30, 2023, the liabilities include trade payables, due to related parties, demand loans and the CEBA
+loan for $120,000. Also included in liabilities are unpaid wages to former employees who were laid off in 2023 and
+are owed for May and June 2023 unpaid wages. The Company is also in arrears on paying required payroll
+remittances to the Canada Revenue Agency for unpaid remittances for March and April 2023 monthly payrolls.
+
+The Company does not have any commitments for material capital expenditures over the near term or long term
+other than a $10,000 annual payment to the vendors of the Quinlan Property, the $10,000 annual payment to the
+vendors of the Mann Property and the $90,000 remaining on option agreements to acquire certain licenses in
+Newfoundland.
+
+The Company has received funding from the Atlantic Canada Opportunities Agency during the year ended November
+30, 2023 and prior years. Of the amounts received, $905,308 was a repayable grant. The terms of the repayment
+are on project success, with annual payments over time after project success is reached.
+
+
+                                                        11
+The Company has not put into commercial production any of its mineral properties and as such has no operating
+revenues or cash flows. Accordingly, the Company is dependent on the equity markets as its sole source of operating
+working capital, and the Company’s capital resources are largely determined by the strength of the junior resource
+capital markets and by the status of the Company’s projects in relation to these markets, and its ability to compete
+for investor support of its projects. Since the Company will not have cash flows from operations over the next year,
+it will have to continue to rely upon equity and debt financing during such period. There can be no assurance that
+financing, whether debt or equity, will be available to the Company in the amount required at any particular time or
+for any particular period or, if available, that it can be obtained on terms satisfactory to it.
+
+GOING CONCERN
+
+The consolidated financial statements have been prepared on a going concern basis, which assumes that the
+Company will be able to meet its obligations and continue its operations for the foreseeable future. Realization
+values may be substantially different from carrying values as shown and these financial statements do not give effect
+to adjustments that would be necessary to the carrying values and classification of assets and liabilities should the
+Company be unable to continue as a going concern. Such adjustments could be material.
+
+The business of mining and exploring for minerals involves a high degree of risk and there can be no assurance that
+current operations, including exploration programs, will result in profitable mining operations. The recoverability of
+the carrying value of exploration and development properties and the Company's continued existence is dependent
+upon the preservation of its interest in the underlying properties, the discovery of economically recoverable
+reserves, the achievement of profitable operations, the ability of the Company to raise additional financing, if
+necessary, or alternatively upon the Company's ability to dispose of its interests on an advantageous basis. Changes
+in future conditions could require material write-downs of the carrying values of assets.
+
+At November 30, 2023, the Company had not yet achieved profitable operations, had an accumulated deficit of
+$25,085,530 since inception and expects to incur further losses in the development of its business. Although the
+Company has been successful in the past in obtaining financing, there is no assurance that it will be able to obtain
+adequate financing in the future or that such financing will be on terms advantageous to the Company. At November
+30, 2023, the Company had working capital deficiency of $3,645,698 compared to a working capital deficiency of
+$947,179 at November 30, 2022, an increase in working capital deficiency of $2,698,519. The above factors cast
+significant doubt upon the Company’s ability to continue as a going concern and, therefore, it may be unable to
+realize its assets and discharge its liabilities in the normal course of business. Subsequent to November 30, 2023,
+the Company has received unsecured, non-interest bearing due on demand loans as well as $1,000,000 of
+Convertible Notes.
+
+TRANSACTIONS WITH RELATED PARTIES
+
+During the years ended November 30, 2023 and 2022, the Company incurred the following expenditures charged by
+directors and officers of the Company, or former directors and officers of the Company, and/or companies they
+owned or were significant shareholders of:
+
+                                                                                         2023                  2022
+                                                                                            $                     $
+
+Administration and management fees(1)(2)(4)                                           516,187              280,000
+Consulting fees(2)                                                                     41,520               75,000
+Non-executive directors fees                                                          124,000              138,000
+Mineral property expenditures
+   Geological consulting, salaries, wages and benefits(3)(4)                          241,333               355,000
+   Metallurgical consulting(5)                                                        111,000               111,000
+Share-based payments - options                                                         69,120             1,010,482
+
+                                                                                    1,103,160             1,969,482
+
+                                                          12
+ (1)
+       Includes salary earned by the former CEO, Greg Andrews. The business purpose of the transactions was to
+       compensate Mr. Andrews for administration and management services provided. The Company has an
+       employment contract with Mr. Andrews that includes a termination clause of twelve months compensation
+       and a change of control provision calling for twenty-four months compensation. On February 10, 2023, Mr.
+       Andrews was terminated without cause. He was paid twelve months compensation in March 2023.
+ (2)
+       Includes fees billed by Leo Power, former Chairman and former Director. The consulting fees were for
+       additional services outside of the scope of non-executive directors fees. Mr. Leo Power also earned
+       administration and management fees during his time as CEO. On June 27, 2023, Mr. Leo Power resigned as
+       Director and CEO.
+ (3)
+       Includes salary earned by the former VP of Exploration, Dr. Randy Miller. The business purpose of the
+       transactions was to compensate Dr. Randy Miller for managing the mineral properties. The Company has an
+       employment agreement with Dr. Miller that includes a termination clause of twelve months compensation
+       and a change of control provision calling for eighteen months compensation. Dr. Miller was laid off effective
+       June 30, 2023.
+ (4)
+       Includes the compensation to the former COO and former CEO, Todd Burlingame. The business purposes of
+       the transactions was to compensate Mr. Burlingame for administration and management services provided,
+       with a portion applied to mineral property expenditures and a portion to management fees. On June 23, 2023,
+       Mr. Burlingame resigned as Director and CEO. The Company is in litigation with Mr. Burlingame regarding
+       compensation and time worked.
+ (5)
+       Includes fees billed by the former VP of Metallurgy and former Director, Dr. David Dreisinger. The business
+       purpose of the transactions was to compensate Dr. David Dreisinger for assisting with metallurgical work
+       relating to the Company’s REE properties. The Company had a consulting agreement with Dr. David Dreisinger.
+       The agreement included a termination notice period of 180 days. Dr. David Dreisinger resigned on February
+       21, 2024.
+
+At November 30, 2023, due to related parties of $474,413 (2022: $69,454) included amounts owing to directors and
+officers of the Company, or former directors and officers of the Company, and/or companies they control or of which
+they were significant shareholders. The amounts owing include amounts related to expenditures charged to the
+Company. The amounts owing are unsecured, non-interest bearing and due on demand. The amounts have been
+recorded at their exchange amount, being the amount agreed to by the parties.
+
+The unsecured, non-interest bearing demand loans are related party transactions as they are with a private company
+with common former directors and with a former director.
+
+Key management includes the former CEO, former COO, former VP of Metallurgy, former VP of Exploration and the
+former directors of the Company. The compensation paid or payable to key management for services during the
+years ended November 30, 2023 and 2022 is as follows:
+
+                                                                                       2023                  2022
+                                                                                          $                     $
+
+Short-term benefits                                                               1,034,040               959,000
+Share-based payments - options                                                       69,120             1,010,482
+
+                                                                                  1,103,160             1,969,482
+
+FINANCIAL INSTRUMENTS
+
+Designation of Financial Instruments
+
+The Company’s financial instruments consist of cash, trade payable, due to related parties, demand loans and CEBA
+loan. The Company’s cash, trade payable, due to related parties, demand loans and CEBA loan are measured at
+amortized cost.
+
+
+
+                                                         13
+Discussions of risks associated with financial assets and liabilities are detailed below:
+
+Credit Risk
+
+Credit risk arises from cash held with banks and financial institutions. The maximum exposure to credit risk is equal
+to the carrying value of the financial assets. The Company’s cash is primarily held with a large Canadian bank.
+
+Commodity Price Risk
+
+The Company’s ability to raise capital to fund exploration or development activities is subject to risks associated with
+fluctuations in the market price of minerals under exploration.
+
+Liquidity Risk
+
+Liquidity risk is the risk that the Company will not have sufficient funds to meet its financial obligations when they
+are due. The Company manages liquidity risk by maintaining sufficient cash and cash equivalent balances to enable
+settlement of transactions on the due date. Management monitors the Company’s contractual obligations and other
+expenses to ensure adequate liquidity is maintained; however, the Company had been unable to obtain sufficient
+financing to meet its contractual obligations. Since new directors and management were appointed in June 2024,
+the Company has been able to secure financing. In October and November 2024, the Company received $1,000,000
+of Convertible Notes which is being used to manage the liquidity risk as well as for other purposes as described
+above. Refer to the going concern note for additional disclosure. The Company had working capital as follows:
+
+                                                                                 November 30,          November 30,
+                                                                                        2023                  2022
+                                                                                            $                    $
+
+Current assets                                                                            35,990            1,283,703
+Current liabilities                                                                  (3,681,688)          (2,230,882)
+
+Working capital (deficiency)                                                         (3,645,698)            (947,179)
+
+Market Risk
+
+Market risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of
+changes in market prices. Market risk comprises three types of risk: currency risk, interest rate risk and price risk.
+
+a)   Currency Risk
+
+     As at November 30, 2023, substantially all of the Company’s cash was held in Canadian dollars, the Company’s
+     functional currency. The Company has no operations in foreign jurisdictions outside of Canada at this time and
+     as such has no currency risk associated with its operations. The Company has had nominal amounts of payables
+     in US dollars.
+
+b) Interest Rate Risk
+
+     As the Company had no variable rate interest bearing financial instruments as at November 30, 2023, the
+     Company is not exposed to interest rate risk. Certain vendors have been charging interest to the Company on
+     outstanding accounts payable. Subsequent to November 30, 2023, the CEBA loan bears interest at a fixed rate
+     of 5% per annum and the convertible notes bear interest at a fixed rate of 15% per annum.
+
+c)   Price Risk
+
+     Price risk is the risk that the fair value of a financial instrument will fluctuate because of changes in market
+     prices. The Company has no financial instruments subject to price risk.
+
+                                                           14
+OUTSTANDING SHARE CAPITAL
+
+Authorized:                                   Unlimited number of common shares
+
+Issued and outstanding:                       417,987,014 common shares as at November 20, 2024.
+
+The Company has no stock options outstanding as at November 20, 2024.
+
+The Company has 30,000,000 share purchase warrants outstanding as at November 20, 2024 at an exercise price of
+$0.05 expiring on November 12, 2025.
+
+DISCLOSURE CONTROLS AND PROCEDURES
+
+In connection with National Instrument 52-109 (Certificate of Disclosure in Issuer’s Annual and Interim Filings) (“NI
+52-109”), the Chief Executive Officer and Chief Financial Officer of the Company have filed a Venture Issuer Basic
+Certificate with respect to the financial information contained in the consolidated financial statements for the year
+ended November 30, 2023 and this accompanying MD&A (together, the “Annual Filings”).
+
+In contrast to the full certificate under NI 52-109, the Venture Issuer Basic Certificate does not include
+representations relating to the establishment and maintenance of disclosure controls and procedures and internal
+control over financial reporting, as defined in NI 52-109. For further information the reader should refer to the
+Venture Issuer Basic Certificates filed by the Company with the Annual Filings on SEDAR+ at www.sedarplus.ca.
+
+RISKS AND UNCERTAINTIES
+
+The exploration and development of mineral deposits involves significant risks which even a combination of careful
+evaluation, experience and knowledge may not be successful in overcoming. Few mineral properties which are
+explored ultimately develop into producing mines. There has been no commercial production of minerals on
+properties held by the Company to date and there is a high degree of risk that commercial production of minerals
+will not be achieved.
+
+Locating mineral deposits depends on a number of factors, not the least of which is the technical skill of the
+exploration personnel involved. The mining industry is intensely competitive. The commercial viability of a mineral
+deposit depends on a number of factors including the particular attributes of the deposits (principally size and grade),
+proximity to infrastructure, the impact of mine development on the environment, environmental regulations
+imposed by various levels of government and the competitive nature of the industry which causes mineral prices to
+fluctuate substantially over short periods of time. There can be no assurance that the minerals can be marketed
+profitably or in such a manner as to provide an adequate return on invested capital.
+
+The operations of the Company are subject to all of the risks normally associated with the operation and
+development of mineral properties and the development of a mine, including encountering unexpected formations
+or pressures, caving, flooding, fires and other hazards, all of which could result in personal injuries, loss of life and
+damage to property of the Company and others. In accordance with customary industry practice, the Company is
+not fully insured against all of these risks, nor are all such risks insurable.
+
+The operations of the Company’s properties will be subject to various laws and regulations relating to the
+environment, prospecting, development, production, waste disposal and other matters. Amendments to current
+laws and regulations governing activities related to the Company’s mineral properties may have material adverse
+impact on operations.
+
+The Company will need additional funding to complete its long term objectives. The ability of the Company to raise
+such financing in the future will depend on relisting the Company’s shares on the TSX-V, the prevailing market
+conditions, competition with other strategic metals exploration stage companies, as well as the business
+performance of the Company. There can be no assurances that the Company will be successful in its efforts to relist
+its shares for trading on the TSX-V, and/or raise additional financing on terms satisfactory to the Company. If
+adequate funds are not available or not available on acceptable terms, the Company may not be able to take
+                                                           15
+advantage of opportunities, continue its business, develop new projects or to otherwise respond to competitive
+pressures.
+
+The Company's working capital and liquidity fluctuate in proportion to its ongoing equity financing activities. The
+Company requires a certain amount of liquid capital in order to sustain its operations and in order to meet various
+obligations as specified under its resource property acquisition agreements. Should the Company fail to obtain future
+equity financing due to reasons as described above, it will not be able to meet these obligations and may lose its
+interests in the properties covered by the agreements. Further, should the Company be unable to obtain sufficient
+equity financing for working capital, it may be unable to meet its ongoing operational commitments.
+
+The accounts payable and accrued liabilities and due to related parties of the Company at November 30, 2023 was
+$3,415,508 the majority of which is past due. There is a significant risk that the unpaid creditors will commence
+legal action against the Company in order to collect the amounts they are owed. The interim CEO, interim CFO and
+the directors are in direct negotiations with creditors at this time. There can be no assurance that the Company will
+be successful in negotiating settlements of outstanding debt with its creditors or raising sufficient capital to satisfy
+its outstanding obligations. The above factors cast significant doubt upon the Company’s ability to continue as a
+going concern. Please refer to GOING CONCERN note above.
+
+All industries, including the mining industry, are subject to legal claims, with and without merit. The Company may
+become involved in legal disputes in the future. Defense and settlement costs can be substantial, even with respect
+to claims that have no merit. Due to the inherent uncertainty of the litigation process, there can be no assurance
+that the solution of any particular legal proceeding will not have a material adverse effect on the Company’s financial
+position or results of operations.
+
+All of the Company's mineral properties are in the exploration stage. Exploration and development of natural
+resources involve substantial expenditures and a high degree of risk. Few properties that are explored are ultimately
+developed into producing properties. Accordingly, the Company has no material revenue, writes off its mineral
+properties from time to time, and operates at a loss. Continued operations are dependent upon ongoing equity
+financing activities.
+
+OTHER INFORMATION
+
+The critical rare earth elements (“CREE”) mentioned are defined as follows: La – Lanthanum, Ce – Cerium, Pr –
+Praseodymium, Nd – Neodymium, Pm – Promethium, Sm – Samarium, Eu – Europium, Gd – Gadolinium, Tb –
+Terbium, Dy – Dysprosium, Ho – Holmium, Er – Erbium, Tm – Thulium, Yb – Ytterbium, Lu – Lutetium and Y – Yttrium.
+Additional elements of interest are Zr – Zirconium and Nb – Niobium.
+
+Additional information related to the Company is available for viewing on SEDAR+ at www.sedarplus.ca and at the
+Company’s website at https://searchminerals.ca.
+
+QUALIFIED PERSONS:
+
+Dr. Randy Miller, Ph.D., P.Geo, is the Qualified Person (as defined by National Instrument 43-101) who has supervised
+the preparation of and approved the geological technical information reported herein as applicable. The company
+will endeavour to meet high standards of integrity, transparency, and consistency in reporting technical content,
+including geological and assay (e.g., REE) data.
+
+
+
+
+                                                          16

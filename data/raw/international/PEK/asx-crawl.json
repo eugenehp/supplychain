@@ -1,0 +1,7 @@
+{
+  "asxCode": "PEK",
+  "crawledAt": "2026-06-03T06:13:41.769Z",
+  "discovered": null,
+  "discoveredAll": [],
+  "error": "HTTP 400 for https://asx.api.markitdigital.com/asx-research/1.0/companies/PEK/announcements?count=80&market_sensitive=false"
+}

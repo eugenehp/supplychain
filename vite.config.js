@@ -12,6 +12,7 @@ export default defineConfig({
   resolve: {
     alias: {
       $lib: path.resolve('./src/lib'),
+      '@materials': path.resolve('./scripts/lib/materials'),
     },
   },
   optimizeDeps: {

@@ -1,0 +1,26 @@
+{
+  "ticker": "TMRC",
+  "cik": "0001445942",
+  "name": "Texas Mineral Resources Corp.",
+  "scrapedAt": "2026-06-03T05:50:41.312Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Assets": {
+      "value": 1161182,
+      "end": "2025-08-31",
+      "filed": "2025-11-28",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": false,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2025-11-28",
+    "accessionNumber": "0001999371-25-018974",
+    "primaryDocument": "tmrc-10k_83125.htm",
+    "reportDate": "2025-08-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1445942/000199937125018974/tmrc-10k_83125.htm",
+  "htmlLength": 1192088
+}

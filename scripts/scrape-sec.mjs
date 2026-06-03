@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** @deprecated — use `npm run pipeline` */
+/** @deprecated — use `npm run rag` */
 import { spawn } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';

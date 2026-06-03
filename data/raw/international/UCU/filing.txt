@@ -1,0 +1,2032 @@
+NI 43-101”).
+                                                                                                                 3|P a g e
+    The RapidSX™
+    Program
+    Description of the             In 2023 the Company completed the formal commissioning program of its 52-Stage
+    project, including the         RapidSX™ REE Commercial Demonstration Plant ("Demo Plant") within the
+    Company’s short and            Company’s Commercialization and Demonstration Facility ("CDF") in Kingston, ON.
+    long-term plans for the
+                                   With commissioning complete, the Company shifted its focus in 2024 to include
+    project and the status of
+    the project relative to        demonstrating the commercial efficacy of the RapidSX™ technology platform for the
+    those plans:                   separation and purification of REEs utilizing the Demo Plant as compared head-to-head
+                                   versus a Conventional Solvent Extraction (“CSX”) Pilot Circuit. This past and current
+                                   work includes the completion of the Demo Plant commissioning trials over hundreds of
+                                   runtime hours followed by thousands of runtime hours in demonstration trials mode.
+                                   The primary objective of the trials is to produce consistent REE sub-groups and
+                                   products2 (from multiple feedstocks) at specifications sufficient to assess the
+                                   efficiencies and benefits of the RapidSX™ technology versus the results of the
+                                   concurrent trials taking place on the traditional CSX Pilot Circuit. This includes a
+                                   commercial-scale techno-economic assessment of the RapidSX™ separation and
+                                   purification process, including capital and operating costs. Concurrently, but slightly
+                                   lagging the RapidSX™ Program, the Company is incorporating the RapidSX™
+                                   technology platform into the specific engineering and design packages for its first
+                                   commercial-scale SMC planned for Louisiana.
+
+                                   The RapidSX™ Program is being led by the Company’s CEO and Chairman, Pat Ryan,
+                                   P.Eng., and the Company’s Vice-President and Chief Operating Officer, Mike Schrider,
+                                   P.E., in conjunction with Dr. Boyd Davis and Mr. Alain Roy, principals of Kingston
+                                   Process Metallurgy Inc. ("KPM"), supported by additional technical expertise that Ucore
+                                   and IMC have engaged for the RapidSX™ Program. KPM is Ucore’s and IMC’s
+                                   research, development, and commercialization partner and will be supporting all
+                                   aspects of the technical work to finalize the commercialization program required to scale
+                                   up the RapidSX™ technology for commercial deployment into the SMCs.
+
+                                   The Company had originally planned to construct an 18-stage RapidSX™ REE demo
+                                   plant for the separation of HREEs from LREEs. However, in early 2022, the Company
+                                   received very positive results from the independent RapidSX™ technology evaluation,
+                                   including the conclusion that a RapidSX™ production plant can potentially have one-
+                                   third the footprint of a CSX production plant with the same throughput. The Company
+                                   then expanded the design and construction of the Demo Plant to the now single
+                                   machine 52-stage3 design for the separation of many different feedstocks to virtually
+                                   any one particular target REE element or group.
+
+                                   The single machine 52-stage RapidSX™ Demo Plant is designed and constructed to
+                                   process:
+
+                                        1. Many different feedstock sources, including all planned LREE and HREE
+                                             chemical concentrates for the Louisiana SMC;
+
+                                        2. Tens of tonnes of mixed rare earth concentrates on a per-annum basis,
+                                             including products for prospective metal/alloy makers and original equipment
+                                             manufacturer (“OEM”) qualifications; and
+
+                                        3. All RapidSX™ splits required to produce individual praseodymium (Pr),
+                                             neodymium (Nd), samarium (Sm), gadolinium (Gd), terbium (Tb), dysprosium
+                                             (Dy) and / or yttrium (Y) - including the NdPr compound.
+
+                                   The short-term (12 months) objectives of the current RapidSX™ Program include the
+                                   continuation of:
+
+
+
+
+2
+    NdPr, Pr, Nd, Sm, Gd, Tb, Dy, and Y rare earth compounds and elements.
+3
+    Comprising of all of the unit operations of solvent extraction chemistry - extract, scrub, strip, wash and saponification.
+                                                                                                                             4|P a g e
+                                 1.   Continued validation of the RapidSX™ applied chemistry at commercial
+                                      demonstration-scale under semi-continuous conditions through the robust
+                                      processing features of the Demo Plant;
+
+                                 2.   Continued validation of the physical design of the RapidSX™ platform at
+                                      commercial demonstration-scale over thousands of Demo Plant runtime
+                                      hours;
+
+                                 3.   Continually enhancing the program of continuous improvement to ensure that
+                                      the Company is incorporating the knowledge and experience gained through
+                                      operating the Demo Plant;
+
+                                 4.   Validation of the specific process flowsheets/programming developed for a
+                                      particular REE feedstock, including multiple US-friendly sourced commercial
+                                      REE feedstocks currently under consideration;
+
+                                 5.   Initial generation of REE product qualification samples for potential customers
+                                      for independent evaluation;
+
+                                 6.   Confirmation testing of the full-size RapidSX™ components for the Louisiana
+                                      SMC;
+
+                                 7.   Creation of design and construction inputs required for the design of a
+                                      commercial-scale RapidSX™ HREE and LREE separation facility i.e., "copy
+                                      and paste" all knowledge gained and lessons learned to the Louisiana SMC;
+                                      and
+
+                                 8.   Development of a detailed techno-economic assessment of RapidSX™ based
+                                      separation, as part of the commercialization process.
+
+                             The long-term (12-36 months) objectives of the current the RapidSX™ Program include:
+
+                                 1.   Demonstrate the successful process qualification of any feedstock destined
+                                      for an SMC at the Demo plant over hundreds of runtime hours for each planned
+                                      RapidSX™ production circuit. Transfer the knowledge gained to the full-scale
+                                      SMC design, construction, commissioning, qualifications, and operating
+                                      processes;
+
+                                 2.   Utilize the Demo Plant for SMC operator training; and
+
+                                 3.   Concurrently with the Demo Plant qualification process of REE feedstocks,
+                                      focus the attention of RapidSX™ technology development to other critical
+                                      metals.
+
+The expected timeline of     Since the Company completed its acquisition of IMC in May 2020, a significant amount
+the project, including the   of work has been planned and/or performed to advance the RapidSX™ Program,
+Company’s progress           including:
+compared to the
+timeline:
+                             Technical:
+
+                                 1.   Engaging KPM as IMC’s long-term               research,   development,     and
+                                      commercialization partner: Q2-2020;
+
+                                 2.   Continuous development of the CDF in Kingston, ON: Q2-2020 through at
+                                      least Q4-2027;
+
+                                 3.   Completing the RapidSX™ initial technical-validation and optimization
+                                      program on the constructed research & development apparatus (the
+                                      "Research Rig"): Q2-2020 to Q3-2022;
+
+
+
+                                                                                                          5|P a g e
+                             4.   KPM's participation with AIDEA in the execution of Dr. Ahmad Ghahreman's
+                                  independent assessment of the RapidSX™ technology platform: Q3-2021 to
+                                  Q2-2022;
+
+                             5.   Designing, constructing, operating and continuously improving the 52-Stage
+                                  RapidSX™ REE Commercial Demonstration Plant ("Demo Plant") within the
+                                  CDF: Q2-2022 through at least Q4-2027;
+
+                             6.   Designing, constructing, and operating the 52-stage CSX mixer settler pilot-
+                                  scale circuit (the "CSX Pilot Circuit"): Q2-2022 through at least H2-2026
+                                  (extended from Q4-2025);
+
+                             7.   Demo Plant commissioning trials: Q1-2023 to Q4-2023;
+
+                             8.   Conducting the formal techno-economic assessment program for the
+                                  commercial deployment of the RapidSX™ technology platform: Q2-2023
+                                  through at least H1-2026 (extended from Q4-2025);
+
+                             9.   Expanding the focus of the RapidSX™ technology platform to other critical
+                                  metals: Q2-2026 through at least Q4-2027;
+
+                             10. Commencement of the "Copy and Paste" technology template to transfer the
+                                 engineering, construction, commissioning, and product qualification data from
+                                 the Demo Plant to the full-scale Louisiana SMC: Q2-2022 through Q4-2027
+                                 (extended from Q4-2025);
+
+                             11. Demo Plant product qualification trials: Q4-2023 through at least Q4-2027; and
+
+                             12. SMC operator training at the Demo Plant: Q2-2026 (extended from Q4-2025)
+                                 through at least Q4-2027.
+
+                         Business:
+
+                             1.   Working directly with US-registered lobbyist J.A. Green & Company and US
+                                  municipal, state, and federal government entities to advance various initiatives
+                                  related to the Demo Plant and the future SMCs;
+
+                             2.   Working directly with Canadian municipal, provincial, and federal government
+                                  entities and/or representatives to advance various initiatives related to the
+                                  Demo Plant and future potential SMCs; and
+
+                             3.   Significant business developments with multiple upstream and downstream
+                                  prospective partners, suppliers and customers toward the establishment of a
+                                  North American REE supply chain, focusing on Ucore’s and IMC’s role with
+                                  mid-stream processing and RapidSX™: Q2-2020 to current.
+
+The expenditures made    During the year ended December 31, 2025, the Company incurred net research and
+on the project to date   development expenditures of approximately $7.54 million compared to approximately
+and during the period:   $5.45 million for the year ended December 31, 2024. Research and development
+                         expenditures relate to amortization, consulting and professional services, facility and
+                         equipment expenditures, laboratory and analytical expenses, labour, process feedstock
+                         and reagents, supplies, consumables and materials, and other expenses to further
+                         advance the Company’s RapidSX™ technology and are recorded net of any recoveries
+                         from government assistance and tax credits. A breakdown of material components of
+                         the Company’s research and development expenditures period over period is presented
+                         below in the Research and Development Expenditures section.
+
+
+
+
+                                                                                                       6|P a g e
+ Previously issued           The Company has completed all project milestones (including all HREE objectives)
+ forward-looking             under the initial OT Agreement with the Department of Defense demonstration trials as
+ information about the       further described in the U.S Department of Defense Government Funding Award
+ project that is hereby
+                             section below.
+ being updated and a
+ discussion of the events
+ and circumstances that      It was anticipated that project costs to complete the project would have been $9.75
+ occurred during the         million as previously disclosed. The project has now been completed at a total gross
+ period that caused the      cost of approximately $10.5 million. The increase relative to the previously disclosed
+ actual results to differ    estimate primarily reflects higher input and operating costs, adjustments to project
+ from the previously         scheduling, and incremental work required to complete certain aspects of the program.
+ disclosed forward-
+ looking information:
+                             The total net cost to the Company (after the US government funding) will be
+                             approximately $4.89 million.
+
+ The anticipated timing      The Company’s next project relates to its $4.28 million contribution agreement with the
+ and costs to take the       Government of Canada, as further described in the Government of Canada Contribution
+ project to the next stage   Section below. The project supports the demonstration of the Company’s RapidSX™
+ of the project plan:
+                             rare earth element separation technology for light REEs. The total project budget is
+                             approximately $8.3 million, of which up to $4,275,848 is eligible for reimbursement.
+
+                             As at December 31, 2025, the Company had incurred $1,708,665 in reimbursable
+                             eligible expenditures, with $2,567,183 remaining available to be claimed. The project is
+                             to be completed by March 31, 2026, following a prior extension. The Company is
+                             currently in discussions with NRCan regarding a potential further extension, and
+                             advancement of the remaining project activities is contingent on securing this extension.
+
+ The license(s) and          No required licenses or regulatory approvals are associated with the RapidSX™
+ regulatory approval(s)      technology development platform. Any licenses permits or approvals that are related to
+ that the Company must       the operation of the CDF are the responsibility of KPM (the landlord and the Company’s
+ obtain related to the
+                             research, development, and commercialization partner).
+ project and the next
+ milestone:
+
+
+
+United States Patent Application
+
+During the year ended December 31, 2023, IMC filed a United States Provisional Patent application for its
+RapidSX™ technology. In February 2024, IMC submitted the subsequent application for an international Patent
+Cooperation Treaty (PCT) filing. In August of 2025, IMC began the National Phase Jurisdiction entry filings in dozens
+of countries. The process remains “patent pending” and is ongoing.
+
+Mech-Chem Associates, Inc. – SMC Engineering
+
+The Company continues its engagement with Mech-Chem Associates, Inc. (“Mech-Chem”) to develop the specific
+process engineering requirements for stages of the planned SMCs, in conjunction with other consultants and the
+Company’s and IMC's engineering personnel. Additionally, Mech-Chem has incorporated its developed pre-and
+post-RapidSX™ process engineering into the design of the Demo Plant to ensure a truly seamless ramp up to the
+SMC’s full-scale engineering package. The Company has constructed the Demo Plant within a 5,000-square-foot
+building at KPM's facilities in Kingston, ON. This concept of building a REE-processing plant within an existing
+building is the go-forward engineering and construction template for the process that the Company will replicate to
+create the full-scale Louisiana SMC.
+
+The SMC Business Model
+
+Since the Company's May 8, 2020, acquisition of IMC and its proprietary RapidSX™ metals separation technology,
+the Company has focused on a definitive commercialization pathway to achieve a secure, economic, REE supply
+chain in North America – starting with securing mid-stream REE processing. As critical as the establishment of a
+complete North American REE supply chain is, it must be achieved in the shortest time frame possible and with the
+lowest possible capital and operating costs. The Company's business plan is focused entirely on near-term North
+American REE independence, by establishing mid-stream REE processing and production capacity to cost-
+effectively transform US-friendly-sourced REE feedstocks into made in North America finished rare earth oxides
+“REOs”.
+
+
+
+                                                                                                           7|P a g e
+On October 6, 2020, the Company introduced its ALASKA2023 business plan centered around the construction of
+an Alaska SMC founded on the RapidSX™ separation technology platform. In early 2022, it became apparent that
+additional SMCs are required to truly establish an independent North American REE supply chain and that given
+the projected rate of automotive electrification, the first SMC should be established in a "brownfield" facility
+surrounded by significant business infrastructure. Therefore, the Company expanded its SMC business model to
+now include additional SMCs and has strategically selected Alexandria, Louisiana, for the location of its first SMC.
+Alaska and/or Canada (Ontario, Saskatchewan and/or Nova Scotia) are the prospective locations for additional
+SMCs.
+
+ The LSMC Program
+ Description of the          On October 17, 2022, the Company announced that it had entered into a mutual
+ project, including the      commitment with the US State of Louisiana toward the establishment of the Company's
+ Company’s short and         first SMC REE separation facility - the Louisiana SMC ("LSMC"). Since the spring of
+ long-term plans for the
+                             2022, the Company had been engaged with the state and numerous local economic
+ project and the status of
+ the project relative to     development agencies and communities as it worked through the down-selection process
+ those plans:                from twenty potential existing brownfield facilities across the state to the selected
+                             Alexandria facility based on the following criteria:
+
+                                 1.   Commercial considerations;
+                                 2.   Engineering fitness and expansion capabilities;
+                                 3.   Environmental assessment and permitting;
+                                 4.   Community integration; and
+                                 5.   Government incentives (as further described below)
+
+                             On April 6, 2023, Ucore announced that the State of Louisiana had increased its incentive
+                             offer to $20+ million and the Company had selected an 80,800-square-foot brownfield
+                             facility within the England Airpark in Alexandria, LA, as the location for its planned
+                             Louisiana SMC REE separation and oxide production facility. The England Airpark is the
+                             former England Air Force Base and, since 1992, has been run by the England Authority.
+                             The mission of the England Authority is to create jobs for central Louisiana.
+
+                             On January 4, 2024, the Company announced that it has entered into a lease with the
+                             England Economic and Industrial Development District (“EEIDD”) at its England Airpark
+                             complex for a multi-decade lease arrangement to ensure the long-term viability of the
+                             LSMC and continued employment opportunities for the residents of Rapides and the
+                             surrounding parishes. Simultaneously, the Company subleased the facility through
+                             January 2025. The facility is an 80,800-square-foot brownfield facility on a 10.7-plus-acre
+                             industrial parcel for the development of the Company’s first commercial REE processing
+                             facility. Additionally, the EEIDD has committed to providing US$360,000 of grant funding
+                             over 24 months to reduce the Company’s initial lease obligations to the England
+                             Authority. This rate reduction has commenced upon the expiration of the sub-lease in Q1
+                             of 2025. The communities of central Louisiana have an available work force of over
+                             114,000 persons within an hour's drive of the LSMC.
+
+                             The LSMC is being developed around the Company's proprietary RapidSX™ technology
+                             platform, representing North America's first REE processing center based on 21 st century
+                             separation technology. It is expected to receive REE feedstock from several US-friendly
+                             nations and it is expected to produce the individual REOs required for fabricating rare
+                             earth permanent magnets used in electric motors and generators, thus forming a
+                             significant part of North America's developing independent REE supply chain.
+
+                             The LSMC Program, is being led by the Company’s CEO and Chairman, Pat Ryan,
+                             P.Eng., and the Company’s Vice-President and Chief Operating Officer, Mike Schrider,
+                             P.E., and is highly integrated with the RapidSX™ Program. This includes KPM, Mech-
+                             Chem, other technical consultants and the Company’s internal resources. The Company
+                             is now engaging with architects, engineers and contractors familiar with executing
+                             projects in Alexandria, Louisiana, and with the CDF, joint product qualification and
+                             verification trials of feedstocks are underway for the LSMC.
+
+                             The Company will "copy and paste" all knowledge gained from the RapidSX™ Program
+                             at the CDF to the LSMC.
+
+                             Subject to available financing, the short-term (12 months) objectives of the current LSMC
+                             Program include:
+                                                                                                            8|P a g e
+                                     1.  Secure US-friendly feedstock sources for early production opportunities;
+                                     2.  Secure financing, including pre-purchase and supply offtake agreements with
+                                         OEM-automotive companies and similar downstream users of REEs;
+                                     3. Finalizing the Stages 1-3 contract design engineering and estimating packages;
+                                     4. Commence the RapidSX™ Machine No. 1 and Stage 1 detail design
+                                         engineering and estimating packages through the Louisiana-centric engineering
+                                         and construction team;
+                                     5. Order and receive long lead materials and equipment for RapidSX™ Machine
+                                         No. 1 and Stage 1;
+                                     6. Establish the required personnel and business infrastructure in Louisiana,
+                                         taking advantage of LED’s FastStart assistance benefits program;
+                                     7. Secure permitting required to initiate construction (air) and commence
+                                         production (water and solid discharges, building, etc.);
+                                     8. Commence RapidSX™ Machine No. 1 construction and testing activities;
+                                     9. Finalize Stage-1 engineering activities, and
+                                     10. Initiate Stage-1 construction.
+
+                                 Subject to available financing, the long-term (12-60 months) objectives of the current
+                                 RapidSX™ development program include:
+                                      1. Complete RapidSX™ Machine No. 1 construction, testing, commissioning and
+                                          demonstration activities;
+                                      2. Finalize Stage-1 procurement, construction, commissioning, and OEM product
+                                          qualifications;4
+                                      3. Initiate Stage-1 production;
+                                      4. Finalize Stage-2 engineering, procurement, construction, commissioning, and
+                                          OEM product qualifications;5
+                                      5. Initiate Stage-2 production;
+                                      6. Finalize Stage-3 engineering, procurement, construction, commissioning, and
+                                          OEM product qualifications;6
+                                      7. Initiate Stage-3 production;
+                                      8. Secure final required permits;
+                                      9. Secure additional feedstock sources; and
+                                      10. Secure partner relationships for metal/alloy and magnet production
+                                          opportunities.
+    The expected timeline of     Establishment of a single RapidSX™ machine at the LSMC facility in H1 2027, with
+    the project, including the   early production readiness in H1 2027, is the objective of the Company as the first step
+    Company’s progress           of the Company’s SMC business model – this entails:
+    compared to the
+    timeline:
+                                 Technical:
+                                     1. Finalizing the RapidSX™ scale-up design and RapidSX™ technology platform
+                                         Factory Acceptance Testing (FAT) at the CDF: Q2-2025 through H1-2026;
+                                     2. Finalize the RapidSX™ Machine No. 1 engineering design package: Q2-2025
+                                         through H1-2026;
+                                     3. Permitting, procurement, construction, testing, and commissioning (RapidSX™
+                                         Machine No. 1 only): Q2-2025 to H1-2027;
+                                     4. Commissioning and product qualification trials7 (RapidSX™ Machine No. 1
+                                         only): H1-2027; and
+                                     5. Establish early production readiness (RapidSX™ Machine No. 1 only): 2027.
+
+                                 Business:
+                                     1. Secure a second US-friendly feedstock for RapidSX™ Machine No. 1
+                                         operations: H2-2025 to H2-2026;
+                                     2. Establish an Alexandria corporate infrastructure8 and workforce for RapidSX™
+                                         Machine No. 1 operation: Q2-2025 to H2-2026 (extended from H1-2026);
+                                     3. Working directly with US-registered lobbyist J.A. Green & Company and US
+                                         municipal, state, and federal government entities and representatives to
+                                         advance various initiatives; and
+
+
+4
+  Stage 1 = 2,000 tpa TREO throughput.
+5
+  Stage 2 = 5,000 tpa TREO throughput.
+6
+  Stage 3 is targeted for 10,000 tpa REO throughput.
+7
+  Enhanced by identical feedstock qualification trials and knowledge transfer at/from the Kingston CDF.
+8
+  The Company has established the Louisiana domiciled and wholly owned business entity, Ucore North America, LLC, as the
+entity to develop and operate the LSMC.
+                                                                                                                9|P a g e
+                                    4.   Significant business developments with multiple upstream and downstream
+                                         prospective partners toward the establishment of a North American REE supply
+                                         chain, starting with mid-stream processing and RapidSX™: Q2-2020 to current.
+
+    The expenditures made       During the year ended December 31, 2025, the Company capitalized expenditures of
+    on the project to date      $784,564 (December 31, 2024 - $128,516) relating to engineering and design of the
+    and during the period:      LSMC.
+    Previously issued           As previously disclosed, due to slowed re-scaled automotive OEM electric vehicle roll-
+    forward-looking             out schedules, global economic concerns, and a dramatically changing worldwide rare
+    information about the       earth industry, the Company’s pre-purchase and supply financing and project execution
+    project that is hereby
+                                timelines continue to face delays. In addition, lessons learned with the Demo Plant and
+    being updated and a
+    discussion of the events    improvements to design and construction details for the LSMC, as well as inflation and
+    and circumstances that      anticipated feedstock costs have resulted in an update to the total CAPEX of Stage 1
+    occurred during the         production and initial feedstock acquisition from US$80 million to US$95 million, including
+    period that caused the      the commissioning feedstock (which can become saleable goods).
+    actual results to differ
+    from the previously         The Company has extended the timelines for certain project activities. These changes
+    disclosed forward-          were primarily influenced by prevailing market conditions and the Company’s ability to
+    looking information:
+                                secure necessary feedstock, capital and financing. As a result, the previously disclosed
+                                forward-looking information about the project and related timelines has been updated to
+                                reflect these adjustments.
+
+    The anticipated timing      US$959 Million to get to Stage 1 production and initial sale delivery, as noted above.
+    and costs to take the
+    project to the next stage
+    of the project plan:
+    The license(s) and          The Company has conducted preliminary meetings with the State of Louisiana's
+    regulatory approval(s)      Department of Environmental Quality regarding its prospective air, water and solid
+    that the Company must       discharge permits and has received and expedited permitting pathway in its offer from
+    obtain related to the
+                                LED. Additionally, the England Authority is responsible for all other required building
+    project and the next
+    milestone:                  permits.
+
+                                The next permitting milestone will be the submission of a “minor air” permit applications
+                                to the Department of Environmental Quality (the “DEQ”) upon finalization of the process
+                                engineering design package.
+    Description of the risks    The noted permits are required to operate the LSMC. With the declared expedited
+    associated with not         permitting support of LED and the England Authority as the local permitting authority, the
+    obtaining the required      Company has selected a project location which mitigates the permitting risk of the LSMC
+    license(s) and regulatory
+                                Project. However, any delay in receiving a required permit will likely delay the LSMC
+    approval(s):
+                                from going into operation.
+
+
+Letter of Intent from Louisiana Economic Development (“LED”)
+
+As the result of a larger than originally anticipated facility selection, the Company is targeting the expansion of its
+maximum production rate from 5,000 to 10,000 tonnes per annum (“tpa”) of total rare earth oxide (“TREO”)
+throughput. In turn, the Company has received and accepted an amended non-binding letter of intent from LED.
+This letter of intent added a potential US$900,000 grant for infrastructure costs in consideration of the Company’s
+updated 10,000-tonne-per-annum facility (at Stage 3) with a projected minimum of at least US$75 million capital
+expenditure investment and 100 family wage paying jobs for the fully completed LSMC - bringing the total potential
+value of state grants, tax incentives, payroll rebates, and customized employment recruitment and training to US$15
+million. Moreover, LED estimates the project will result in 298 new indirect jobs, for a total of 398 new jobs in central
+Louisiana.
+
+The financial, economic and tax incentive offers described in the letter of intent are estimates based on the
+Company's commitment to and fulfillment of its capital investment schedules for the LSMC. This includes (i) a total
+capital investment by the Company for the Louisiana SMC of at least US$75 million by December 31, 2027; The
+Company and the State of Louisiana recently eliminated the original jobs and payroll requirement per updated
+guidance from Louisiana in combination with current project timelines. While the overall capital investment,
+employment, and development plans and LED benefits for the LSMC remain unchanged.
+
+
+9
+ Estimated stage 1 facility CAPEX of US$65 million and an estimated US$30 million in commissioning feedstock acquisition
+costs.
+                                                                                                                10 | P a g e
+Louisiana's industrial tax exemption program can offer up to a 10-year tax exemption to the Company. LED
+estimates that the exemption may result in up to US$8.2 million in tax savings for the Company. The state's industrial
+tax exemption program is administered by the Louisiana Board of Commerce and Industry and required approvals
+from parish and municipal governing bodies, as well as the parish school board. The Company has received the
+final approved Contract for Exemption of Ad Valorem Taxes from the State of Louisiana.
+
+Louisiana's quality jobs program provided a 4% or 6% payroll rebate on the gross annual payroll for qualifying new
+jobs for up to 10 years. The program also refunds state sales/use tax paid on construction materials purchased
+during construction or a 1.5% project facility expense rebate on certain capital expenditures. LED estimates that the
+value of this program could be up to US$4.5 million for the Company. The quality jobs program is administered by
+and will be subject to a contract to be finalized between the Company and the Louisiana Board of Commerce and
+Industry. The overall benefits of this program will be retained.
+
+Louisiana's research and development tax credit program encourages businesses to establish or continue qualified
+research and development activities within the state. The benefit is primarily tied to nationwide employment and
+ranges from 5% to 30% on increases in qualified expenses. Company eligibility for the program is subject to the
+statute and rules applicable to the program. The letter of intent contemplates the Company’s participation in the
+program; however, the value of the benefits from the program will be determined later and will be dependent upon
+the actual qualified expenses that the Company incurs.
+
+Louisiana's small business loan and guarantee program facilitates capital accessibility for small businesses by
+providing loan guarantees to banks and other small business lenders. The program is administered by the LED. The
+letter of intent contemplates the Company’s participation in the program; however, the value of the benefits from the
+program will be determined during future negotiations between the Company and LED.
+
+The program provides a performance-based grant to be used for reimbursement of Company expenditures for
+infrastructure costs. This will be administered pursuant to a co-operative endeavour agreement and requires
+Company compliance with and adherence to the capital investment and employment and payroll commitments. LED
+estimates the grant, based upon the needs of the facility, as well as the investment, employment and payroll
+projections, could be for up to US$900,000, payable at US$400,000 upon the facility being placed into
+operation/production with more than US$45-million in capital expenditures and 45 full-time employees on payroll
+and US$300,000 after US$55-million in capital expenditures and 80 full-time employees on payroll, and US$200,000
+after US$75-million in capital expenditures and 100 full-time employees.
+
+The LED FastStart program offers substantial LED investment in customized employment recruitment and training
+during the Company's period of employment ramp-up. LED estimates that FastStart may provide a benefit to the
+Company of up to US$1.4 million. This program is underway.
+
+The Company's final board of directors' approval is contingent on receiving the offered Louisiana incentive
+packages.
+
+Other Prospective SMC Business Model Partners
+
+The Company has entered into various confidential discussions with several international companies, ranging from
+early-stage conversations to executed non-binding letter of intent (“LOIs”) and memorandum of understanding
+(“MOUs”). These discussions are progressing towards pre-purchase and supply agreements for LSMC REO
+products and include due diligence activities such as reviewing the LSMC development plans. Additionally,
+discussions are ongoing with potential offtake partners for REOs and/or metal alloys.
+
+On April 20, 2022, the Company provided information on the execution of a MOU with thyssenkrupp Materials
+Trading GmbH (“thyssenkrupp”). The MOU contemplates thyssenkrupp initially supplying a minimum of 1,000 tpa
+of mixed rare earth carbonate for processing at the Company’s LSMC. The parties have agreed to work toward a
+10-year binding contract for the continued and increasing supply of mixed rare earth carbonates for processing,
+including the consideration of various marketing strategies.
+
+On January 9, 2024, the Company announced that it has established a non-binding MOU with Defense Metals Corp.
+(“Defense Metals”) to explore collaborative opportunities in advancing North American REE supply chain initiatives.
+As part of this collaboration, Defense Metals sent a mixed rare earth carbonate sample to the Company’s RapidSX™
+Demo Plant. The sample was generated during 2023 hydrometallurgical piloting test work performed on concentrate
+produced by earlier flotation pilot plant testing of a 26-tonne bulk sample from Defense Metal's Wicheeda property
+in British Columbia.
+
+
+
+
+                                                                                                          11 | P a g e
+On July 25, 2024, the Company announced that it has entered into a non-binding MOU with Cyclic Materials Inc.
+(“Cyclic”) for the future supply of recycled mixed rare earth oxides (“rMREO”). The Company and Cyclic will work
+together towards determining the potential of a long-term supply agreement, starting with Cyclic supplying trial
+quantities of rMREO to the Company’s RapidSX™ Demo Plant. The ultimate objective of the MOU is to qualify
+Cyclic’s product in the Company’s process and ensure the Company’s developing North American commercial REO
+production output includes North American recycled content from Cyclic, as Cyclic's capacities scale.
+
+On August 21, 2024, the Company announced that it has entered into a MOU with Meteoric Resources NL
+(“Meteoric”) for the supply of 3,000 metric tonnes of TREO from Meteoric's forthcoming Caldeira rare earth ionic
+clay project in the Minas Gerais state of Brazil to the Company’s LSMC.
+
+Key provisions of the MOU:
+    • During the term of the MOU, the parties will work toward establishing a binding definitive agreement for the
+        supply of mixed rare earth carbonate from Caldeira to the LSMC.
+    • Once the parties are in production, they envision that the Company will purchase a minimum quantity of
+        3,000 Mt of TREO annually from Caldeira. This could represent over 900 Mt of NdPr, approximately 6 Mt
+        of Tb and 24 Mt of Dy.
+    • Both parties will support each other in the pursuit of financing and business development for their
+        respective projects.
+
+On September 4, 2024, ABx Group Ltd. (“ABx”) and the Company have executed a MOU that describes the
+collaborative pathway ABx and the Company will advance to:
+
+    •    A binding offtake agreement for the supply of a mixed rare earth carbonate by ABx to the Company; and
+    •    An opportunity for the Company to invest in the ABx rare earth project in Tasmania.
+
+ABx is an Australian public company headquartered in South Melbourne, Victoria, which has established an ionic
+adsorption clay REE resource in northern Tasmania. The grades of the two key heavy rare earths, dysprosium and
+terbium, are the highest of any clay-hosted rare earth resource in Australia and comparable with the highest in the
+world. Metallurgical testing by the Australian Nuclear Science and Technology Organisation (“ANSTO”) has
+confirmed that samples from the resource have the highest ionic proportion of any clay-hosted rare earth resource
+in Australia.
+Key features of the MOU:
+
+    •    ABx and the Company will work toward an arrangement for the preferred annual volume of intermediate
+         rare earth product, which is envisaged to be an MREC, to be supplied by ABx to the Company:
+              o The intent is for the Company to obtain first right of refusal for 50% of Abx’s annual volume for a
+                   minimum period of five years, subject to the agreement of commercial terms.
+    •    The parties will explore potential investment by the Company into the ABx rare earth project, as well as
+         project finance opportunities for ABx and the Company’s projects, which may involve joint approaches to
+         the companies active in the rare earth value chain, governments, institutional funds and private investors.
+    •    ABx and the Company will collaborate to develop and optimize:
+              o A comprehensive product flow sheet considering where best to implement collective project
+                   efficiencies; and
+              o A total project development strategy, including laboratory, pilot and demonstration plant testing.
+    •    ABx and the Company will share information on global rare earth markets, particularly for the permanent
+         magnet rare earths, with the objective of identifying opportunities for and mitigating risks to ABx and the
+         Company’s projects.
+
+On August 27, 2025, the Company announced the execution of a non-binding LOI with Critical Metals Corp. (“CMC”)
+for a long-term offtake agreement to secure HREE feedstock from CMC's Tanbreez project in southern Greenland.
+Under the terms of the proposed arrangement, CMC intends to supply the Company with a REE product from
+Tanbreez over an initial 10-year term. This material will be used as feedstock for the Company’s SMC.
+
+The LOI sets out the parties' intentions to negotiate and execute a definitive offtake agreement. Terms of the LOI
+include the delivery of a mixed rare earth carbonate or oxide, with specifications to be agreed to, over a multiyear
+term commencing on the later of July 1, 2027, or commercial production. The execution of a definitive offtake
+agreement remains subject to customary conditions, including completion of due diligence, finalization of
+commercial terms and necessary approvals.
+
+On September 16, 2025, the Company announced the signing of a strategic technology collaboration agreement
+with Metallium Limited (“Metallium”). The binding agreement is for a term of 12 months from the date of signing,
+September 13, 2025. Each party will enter good faith discussions to explore the potential of a future commercial
+                                                                                                        12 | P a g e
+arrangement for future collaboration. Each party shall retain all rights to their technology and binding non-disclosure
+agreements are in place between the parties. There are no commercial arrangements by way of fees or
+consideration associated with this collaboration agreement. The primary objectives are:
+
+    •    The formation of a strategic partnership with Metallium which will add to potential feedstock sources for the
+         Company’s prospective SMC in Alexandria, Louisiana.
+    •    Metallium’s Flash Joule Heating process provides an alternative to traditional sulfate leaching approaches
+         to generating mixed rare earth products which will be suitable for refining using the Company’s
+         RapidSXTM technology.
+    •    A staged program is being developed combining Metallium’s front-end upgrading capability with the
+         Company’s downstream RapidSX™ separation capacity, reflecting the complementary roles of each
+         technology within the integrated flowsheet.
+
+On October 31, 2025, the Company announced that it has entered into a non-binding Heads of Agreement (“HoA”)
+with Wyloo Gascoyne Pty Ltd (“Wyloo”) and Hastings Technology Metals Ltd (“Hastings”) to:
+
+    •    Establish a long-term supply pathway for Yangibana rare earth concentrate; and
+    •    Evaluate hydrometallurgical processing options in the United States, with the Company’s prospective SMC
+         in Louisiana as the priority location.
+
+The HoA links Australian feedstock from the Yangibana Rare Earths and Niobium Project with US mid-stream
+processing and separation at the Company’s prospective Louisiana SMC aligning with the Company’s objective to
+establish a North American, ex-China rare earth supply chain and leverage the critical materials frameworks amid
+unprecedented policy convergence with allied jurisdictions, notably the United States, Canada, and Australia.
+
+On November 3, 2025, the Company announced the signing of a non-binding MOU with Vacuumschmelze GmbH
+& Co. KG (“VAC”) and eVAC Magnetics LLC (“eVAC”) to develop a collaborative supply agreement for high-purity
+REOs.
+
+    •    eVAC Magnetics has completed construction of a rare earth permanent magnet manufacturing facility in
+         Sumter County, South Carolina with support from the US DoD and a $111.9 million Qualifying Advanced
+         Energy Project Tax Credit
+    •    VAC also produces magnets at its facilities in Europe requiring rare earth oxides for product lines including
+         neodymium-iron-boron (NdFeB) and Samarium-Cobalt (SmCo) permanent magnets.
+    •    The MOU provides a means for eVAC and VAC to align with the Company for the supply of high-purity
+         rare earth oxides which will be coordinated with the Company’s staged growth refining plans in Louisiana,
+         USA and Ontario, Canada.
+
+Bokan-Dotson Ridge, Alaska
+
+In 2006, the Company acquired the right to the Bokan Mountain mineral property through five separate option
+agreements to acquire a 100% interest in a parcel of unpatented mineral claims from underlying owners and through
+staking a 100% interest in an additional parcel of prospective ground. The option agreements provide for the
+Company to acquire a 100% interest in the optioned claims in exchange for total remaining payments of US$90,000.
+The five vendors will retain Net Smelter Royalties ("NSR") ranging from 2% to 4% on their specific claims. The
+Company has the right to purchase between 33% and 100% of the NSR for cash payments of US$500,000 to
+US$1,000,000 per vendor. The staked claims, together with the exclusive option agreements, have the effect of
+providing the Company with an effective 100% control of the Bokan Mountain mineral property.
+
+ The Bokan Project in
+ Alaska, USA
+ Description of the          The Company’s Bokan Project is located on Prince of Wales Island, Alaska,
+ project, including the      approximately 60 km southwest of Ketchikan, Alaska and 140 km northwest of Prince
+ Company’s short and         Rupert, British Columbia, with direct ocean access to the western seaboard and the
+ long-term plans for the
+                             Pacific Rim. The project is situated in the Tongass National Forest, within an area set
+ project and the status of
+ the project relative to
+                             aside for natural resource development.
+ those plans:
+                             On November 28, 2012, the Company reported the results of a PEA completed by Tetra
+                             Tech of Vancouver, BC, regarding the Dotson Ridge Zone of the Company’s Bokan
+                             Project in Southeast Alaska. A copy of this PEA (a NI 43-101 technical report) was filed
+                             on SEDAR+ on March 14, 2013.
+
+                                                                                                           13 | P a g e
+                             On October 15, 2019, the Company issued a press release describing an updated
+                             mineral resource estimate for the Bokan Project (now including the 2014 drill program
+                             results) including the identification of the tonnes and the corresponding grades of
+                             additional critical-metal co-product mineral resources. At a TREO cut-off grade of 0.40
+                             percent, an additional 38.5 thousand tonnes of the critical and strategic metals, including
+                             niobium (Nb), zirconium (Zr) beryllium (Be), hafnium (Hf), titanium (Ti) and vanadium (V)
+                             were added to the mineral resource estimate at Bokan. The October 2019 study did not
+                             increase the overall tonnage of the deposit relative to the Company’s May 2015 mineral
+                             resource update; it only quantified the occurrence of co-product metals within the mineral
+                             resource established in 2015. The Company does not consider the co-product resources
+                             to be a “material change” to the Company.
+
+                             In the past, the Company’s primary focus was the exploration and development of the
+                             Bokan Project in Alaska, where the Company has incurred the majority of its mineral
+                             exploration expenditures for the past several years. In recent years, more of the
+                             Company’s time and expenses have been focused on developing the downstream
+                             metallurgy component of its plan, which involves the development of mineral separation,
+                             processing and metal purification technologies that can be utilized in its downstream
+                             business objectives. The Company sees the metallurgy component as one of its priorities
+                             since it is a potential bottleneck to implementing the full commercial production of the
+                             upstream Bokan Project. Accordingly, the Company’s mineral exploration and
+                             development expenses at the Bokan Project have been modest in the past few years.
+
+The expected timeline of     The Company expects that the prospective development profile of the Bokan Project is
+the project, including the   best implemented in the latter half of this decade after the Louisiana SMC and a North
+Company’s progress           American centric REE supply chain is fully established.
+compared to the
+timeline:
+
+The expenditures made        During the year ended December 31, 2025, the Company incurred expenditures of
+on the project to date       $30,000 for the preparation of updated technical reports and other consulting services,
+and during the period:       compared to $45,277 in the prior year. During the year ended December 31, 2025, the
+                             Company incurred environmental and permitting expenditures of $204,282 which
+                             includes the general carrying costs of the property, compared to $326,188 in the prior
+                             year. In total, during the year ended December 31, 2025, the Company incurred $234,282
+                             in expenditures on the Bokan Project, compared to $371,465 in the prior year.
+
+                             The Company capitalizes its mineral exploration and evaluation (“E&E”) expenditures. A
+                             detailed schedule of the Company’s deferred E&E costs for the years ended December
+                             31, 2025, and December 31, 2024, is included in Appendix “B” of this MD&A.
+
+The anticipated timing       It was anticipated that the next milestone for the Bokan Project was to refresh the 2013
+and costs to take the        PEA against the future expected back drop of a robust and independent North American
+project to the next stage    REE supply chain supported by projects such as the Company's LSMC and perhaps an
+of the project plan:
+                             Alaska SMC. The estimated cost for this effort was between $150,000 and $300,000.
+                             Work commenced in Q3-2023, with an updated PEA for the Bokan Project originally
+                             anticipated in approximately 2025. However, in August 2025, the Company determined
+                             it would be more appropriate to first complete an updated Mineral Resource Estimate
+                             (“MRE”) rather than proceeding with a PEA update. The estimated cost of the MRE is
+                             approximately $45,000, with completion targeted for H1-2026 (extended from Q4-2025).
+
+The license(s) and           None required to update the MRE.
+regulatory approval(s)
+that the Company must
+obtain related to the
+project and the next
+milestone:
+
+Previously issued            In August 2025, the Company re-evaluated its planned technical work in light of current
+forward-looking              project development priorities and determined that proceeding with an updated MRE
+information about the        would better align with near-term objectives of the Company. As a result, the Company
+project that is hereby
+                             has deferred the completion of a PEA and is now advancing an updated MRE with
+being updated and a
+                                                                                                           14 | P a g e
+ discussion of the events    completion anticipated in the first half of 2026, revised from the fourth quarter of 2025
+ and circumstances that      due to additional time required to finalize the updated report.
+ occurred during the
+ period that caused the
+ actual results to differ
+ from the previously
+ disclosed forward-
+ looking information:
+
+
+Qualified Persons
+
+The technical disclosures in this section of this MD&A regarding the Bokan Project were written by the Company’s
+management based upon information provided to the Company and approved by James Robinson, P. Geo., an
+independent geologist with Aurora Geosciences.
+
+Cautionary Notes
+
+Please note that the Company’s PEA is preliminary in nature, that it includes inferred mineral resources that are
+considered too speculative geologically to have the economic considerations applied to them that would enable
+them to be categorized as mineral reserves, and there is no certainty that the PEA will be realized. Mineral resources
+that are not mineral reserves do not have demonstrated economic viability.
+
+General Business Information
+
+IMC Former Employee Litigation
+
+On December 14, 2022, a former employee of the Company’s wholly owned subsidiary, IMC, filed a civil claim
+against IMC and the Company for wrongful dismissal and breach of contract. The claim is derived from an
+employment relationship between the former employee and IMC and the subsequent termination of this relationship.
+The former employee is seeking $650,000, plus interest and costs. The Company believes that the action is without
+merit and intends to fully defend its interest and take all other legal actions available to it. The parties have agreed
+to settle the claim through arbitration, which remains ongoing. While arbitration was initially expected to conclude in
+Q1 2025, the process has been extended, and a revised timeline has not yet been established. The outcome of this
+claim cannot be determined at this time, and no provision has been recorded in the consolidated financial statements
+for the years ended December 31, 2025 and 2024.
+
+Change of Auditor
+
+KPMG LLP, the Company’s former auditor, resigned as auditor of the Company effective August 8, 2025. The former
+auditor did not express any modified opinions in the former auditor's reports on the consolidated financial statements
+of the Company and there were also no reportable events as such term is defined in National Instrument 51-102.
+On September 23, 2025, the Board of Directors appointed PricewaterhouseCoopers LLP (“PwC”) as the Company’s
+auditor to hold office until the next annual meeting of shareholders.
+
+Critical Minerals Innovation Fund
+
+On January 21, 2025, the Company announced that it has been awarded $500,000 in partnership with Ontario’s
+Critical Minerals Innovation Fund. The funding contribution is for the advancement of the continuous improvement
+process at the Company’s RapidSX™ CDF. The Company receives payments based on project milestones. The
+Company has successfully completed all project milestones and received the full $500,000 contribution.
+
+Government of Canada Contribution Agreement
+
+On November 20, 2023, the Company announced it had executed a $4.28 million contribution agreement with the
+Government of Canada to demonstrate its RapidSX™ rare earth element separation technology capabilities. The
+formal announcement of financing was announced through Natural Resources Canada’s (“NRCan”) Critical Minerals
+Research, Development and Demonstration (“CMRDD”) program on February 5, 2024. The funding to be received
+by the Company will be used to demonstrate the commercial efficacy of the Company's RapidSX™ technology
+specifically for light REEs.
+
+
+
+
+                                                                                                            15 | P a g e
+Total eligible expenditures to be reimbursed further to the funding are budgeted at $4,275,848 out of the total project
+budget of $8,308,441. The project is to be completed by March 31, 2026, following an extension from the original
+completion date of March 31, 2025, and the eligible expenditures period runs from September 22, 2023, to March
+31, 2026. The Company is currently in discussions with NRCan regarding a potential further extension of the project
+deadline. As at December 31, 2025, the Company incurred reimbursable eligible expenditures of $1,537,799 out of
+the total $4,275,848 available under contribution agreement and $2,738,049 remains available to be claimed for
+future eligible expenditures.
+
+This funding will assist the Company with qualifying specific critical magnet materials (Pr, Nd and NdPr) with
+automotive, wind energy and consumer original equipment manufacturers. This funding and its focus on the light
+REE magnet materials complements the Company’s US Department of Defense Government Funding Award, which
+focuses on producing the heavy REE magnet materials, terbium (Tb) and dysprosium (Dy) as further described
+below.
+
+US Department of Defense Government Funding Award
+
+On June 2, 2023, the Company, through its wholly owned subsidiary, IMC, was awarded a firm fixed-price US$4-
+million other transaction agreement (“OT Agreement” or “Award”) by the United States Army Contracting Command-
+Orlando (“ACC-ORL” or “US DoD” (“Department of Defense”)) to conduct a REE separation technology capabilities
+prototype project at the Company's RapidSX™ CDF, utilizing its 52-stage RapidSX™ Demo Plant for the separation
+of mixed heavy REE concentrate feedstocks.
+
+The objectives of the project are to demonstrate to the US DoD:
+
+    1.   The capability to commercially source a sustainable domestic (that is, United States and Canada)
+         processing facility for converting heavy and light REE feedstock sources to salable individual rare earth
+         products.
+
+    2.   A new innovative separation process that increases the ability to create domestic REE processing plants.
+
+The initial OT Agreement will allow the Company to operate the RapidSX™ demonstration plant for extended
+periods of nearly continuous operation, with the goal of demonstrating the following attributes to the US DoD:
+
+    1.   Rare earth separation processing capability at a rate more efficient than conventional solvent extraction;
+
+    2.   Separation technology applicability to both light and heavy REEs with the same equipment;
+
+    3.   A continuous process working facility capable of processing tonnes of feedstock; and
+
+    4.   An increase in the Company’s RapidSX™ technology readiness level (“TRL”).
+
+Background information about the award process:
+
+On November 10, 2022, the US DoD issued a request for solutions (“RFS”) seeking vendors and suppliers of
+innovative REE projects that can promote the adoption of REE recovery and separation technologies that
+incorporate advanced processing capabilities with the ability to meet the US DoD's requirements.
+
+On January 17, 2023, the Company, through IMC, submitted a solution to the US DoD in response to the RFS,
+based on the execution of its separation technology development program in Kingston, ON, and its commercial
+deployment advancements in Louisiana. The Company’s solution described the proposed project and the use of its
+proprietary RapidSX™ separation technology at the CDF utilizing the Demo Plant.
+
+On June 2, 2023, the OT Agreement was finalized and awarded to the Company, through IMC, by ACC-ORL.
+Pursuant to the terms of the OT Agreement, the Company is to pursue and complete the project in stages and
+provide regular reporting and information to ACC-ORL. The payment milestones are divided into fixed tranches and
+tied to the successful completion of each stage.
+
+On December 13, 2024, the Company announced that the US DoD approved modifications to the Company’s
+existing OT Agreement and a corresponding payment of US$1.8 million for the completion of certain milestones
+under the Award. The modifications amended the existing agreement to more closely align payment milestones to
+the commercial objectives of the project, including:
+
+                                                                                                           16 | P a g e
+    •    Significant business progress toward the establishment of a Western supply chain;
+
+    •    Over 2,600 hours of demo plant operation in a simulated commercial environment processing tonnes of
+         mixed rare earth elements; and
+
+    •    Thousands of hours of conventional solvent extraction pilot operation for direct comparative analysis.
+
+To date, the Company has completed all the project milestones (including all HREE objectives) under the initial OT
+Agreement. During the year ended December 31, 2025, the Company recorded a cost recovery of $1,448,189
+(US$1,057,412) to research and development compared to $3,235,768 (US$2,295,472) for the year ended
+December 31, 2024.
+
+On May 14, 2025, the Company announced that it had reached an agreement with the DoD regarding amending
+the OT Agreement whereby an additional fixed amount of US$18.4 million will be provided to the Company. On
+June 2, 2025, the Company announced the execution of the amending OT Agreement (“Second OT Agreement”)
+bringing the total US DoD funding to US$22.4 million.
+
+The purpose of the additional US$18.4 million award from the US DoD is to facilitate the construction of the
+Company's first commercial RapidSX™ machine and supporting infrastructure. Specifically, the additional
+requirements of the project and the Company's objectives pursuant to the Second OT Agreement are to:
+
+    •    Complete detailed design, engineering, construction, and confirmation testing of commercial-scale
+         RapidSX™ columns at the Company's CDF;
+
+    •    Complete initial design and engineering plans for the LSMC;
+
+    •    Submit the required permit applications for the initial single machine demonstration trials with respect to
+         the LSMC;
+
+    •    Construct the requisite RapidSX™ supporting infrastructure for the single machine trials, which will initially
+         be scaled to service three RapidSX™ machines within the LSMC (with still capacity for additional machines
+         within the 80,800-square-foot facility); and
+
+    •    Construct one commercial-scale RapidSX™ machine within the LSMC, including commissioning,
+         demonstration and achieving "early production" readiness of salable individual REE products from the
+         LSMC in H1-2027.
+
+The Second OT Agreement contains 20 project milestones. To date, the Company has fully completed 5 of the 20
+project milestones under the Second OT Agreement. During the year ended December 31, 2025, the Company
+recorded a cost recovery of $927,441 (US$676,847) to research and development related to the Second OT
+Agreement. The Company continues to advance work on the remaining milestones and as at the date of this MD&A,
+US$16,500,133 remains available to be claimed upon achievement of future milestones.
+
+Government of Canada Funding for a Samarium and Gadolinium Facility
+
+On October 31, 2025, the Company announced that it has been conditionally approved for a Government of Canada
+contribution of up to $36.3 million for the “Pathway to Samarium and Gadolinium Security” project. This includes the
+conditional approval of a contribution of up to $26.3 million from NRCan through the Global Partnerships Initiative
+Program and up to $10 million from FedDev Ontario, to demonstrate and scale-up a first-of-its-kind commercial
+processing facility in Kingston, Ontario, dedicated to the refining of the critical rare earth elements samarium and
+gadolinium. If approved, this funding will address a critical gap in the North American defense and technology supply
+chains. As of the date of this MD&A, the Company does not have a definitive agreement with the Government of
+Canada for this funding. Definitive agreements for the up to $26.3 million from NRCan and the up to $10 million
+from FedDev Ontario are expected to be negotiated and finalized in the coming months.
+
+
+
+
+                                                                                                           17 | P a g e
+Financing Transactions
+
+2025 Private Placements
+
+On June 19, 2025, the Company closed a brokered private placement for aggregate gross proceeds of $15,500,000
+million, which includes the full exercise of the agents’ option. In aggregate pursuant to the brokered private
+placement, the Company issued 12,916,667 units of the Company at a price of $1.20 per unit. Each unit consists of
+one common share in the capital of the Company and one-half of one common share purchase warrant. Each whole
+warrant entitles the holder thereof to purchase one common share at any time on or before June 19, 2028 at an
+exercise price of $1.75.
+
+Red Cloud Securities Inc., as lead agent and sole bookrunner, together with Raymond James Ltd., acted as agents
+in connection with the brokered private placement. As consideration for their services, the agents received cash
+commissions and advisory fees totaling $855,000 and were issued an aggregate of 712,500 non-transferable
+common share purchase broker warrants. Each broker warrant is exercisable into one common share at $1.20 at
+any time on or before June 19, 2028.
+
+The units were issued to Canadian purchasers pursuant to the listed issuer financing exemption under Part 5A of
+National Instrument 45-106 – Prospectus Exemptions, as amended by Coordinated Blanket Order 45-935 –
+Exemptions from Certain Conditions of the Listed Issuer Financing Exemption. The units and the securities
+underlying the units are not subject to resale restrictions pursuant to applicable Canadian securities laws.
+
+The net proceeds of the brokered private placement are expected to be used for the following: (i) finalization of
+upstream mixed-rare-earth feedstock agreements and downstream customer offtake agreements for the Company’s
+planned SMC in Louisiana; (ii) completion of the Company’s existing obligations pursuant to its agreements with the
+US DoD and NRCan; (iii) commercial scale column confirmation testing; (iv) progressing engineering drawings and
+plans, which are currently ongoing, for the Company’s planned SMC; and (v) general working capital requirements.
+
+On February 28, 2025, the Company closed a non-brokered private placement of 1,955,800 units at a price of $0.60
+per unit for gross proceeds of $1,173,480. Each unit is comprised of one common share of the Company and one
+common share purchase warrant. Each whole warrant entitles the holder thereof to purchase one common share
+at an exercise price $0.75 per common share for a period of 36 months following the date of issuance.
+
+On January 31, 2025, the Company closed a non-brokered private placement which consisted of 3,600,000 units at
+a price of $0.60 per unit for gross proceeds of $2,160,000. Each unit is comprised of one common share of the
+Company and one common share purchase warrant. Each whole warrant entitles the holder thereof to purchase
+one common share at an exercise price of $0.75 per common share for a period of 36 months following the date of
+issuance.
+
+2024 Private Placement
+
+On November 14, 2024, the Company announced the closing of a non-brokered private placement of 4,803,329
+units at a price of $0.50 per unit for gross proceeds of $2,401,665. Each unit consists of one common share in the
+capital of the Company and one-half of one common share purchase warrant. Each whole warrant entitles the holder
+thereof to purchase one common share for a period of 24 months following the date of closing of the private
+placement at an exercise price of $0.75. In connection with the private placement, the Company issued a total of
+21,000 common shares to an arms-length finder.
+
+Pursuant to the private placement, certain insiders of the Company – being Pat Ryan (the Company’s Chairman
+and CEO) and Orca Holdings, LLC (“Orca”), which is wholly owned by Randy Johnson (a director of the Company)
+– purchased a total of 2,856,330 units for gross proceeds to the Company of $1,428,165. As such, the private
+placement is considered a related party transaction within the meaning of Multilateral Instrument 61-101 – Protection
+of Minority Security Holders in Special Transactions (“MI 61-101”). Full details of the above-described transactions
+with Mr. Ryan and Orca will be disclosed on the System for Electronic Disclosure by Insiders (SEDI)
+at www.sedi.ca and, in the case of Orca, in an early warning press release and an early warning report available on
+the System for Electronic Document Analysis and Retrieval+ (SEDAR+) at www.sedarplus.ca. The private
+placement was exempt from the formal valuation and minority shareholder approval requirements of MI 61-101 as
+neither the fair market value of the subject matter of the private placement, nor the consideration to be paid,
+exceeded 25% of the Company’s market capitalization. No new insiders and no control persons were created in
+connection with the closing of the private placement.
+
+
+
+                                                                                                         18 | P a g e
+2024 Line of Credit Facility Amendments
+
+On April 26, 2024, the Company announced amendments to the 2023 Line of Credit Facility and the 2022 Line of
+Credit Facility with Orca. Both facilities are further described below under 2023 Line of Credit Facility and 2022 Line
+of Credit Facility. The Company and Orca agreed to further amend their debt arrangements regarding the 2023
+Facility and 2022 Facility and entered into amending agreements in connection with these amendments. The
+Company and Orca agreed to: increase the credit limit under the 2023 Facility from US$2.2 million to US$3.2 million;
+and amend the interest payment terms of both the 2022 Facility and the 2023 Facility in accordance with the
+following:
+
+         (a) whereas interest was previously payable on maturity, interest will now be payable quarterly, unless the
+         Company would have less than $2.0 million in cash after such interest payment; and
+
+         (b) in the event that the Company would have less than $2.0 million in cash after a quarterly interest
+         payment:
+                   • the interest will not be payable at that time;
+                   • interest will compound on unpaid interest at the rate outlined in the applicable debt
+                   agreements between the parties (as amended); and
+                   • unpaid interest will be added to the next quarterly interest payment.
+
+In consideration for the above-stated amendments to the 2023 Facility the Company agreed to issue 1,300,000
+additional warrants to Orca, with each warrant entitling Orca to acquire one common share at an exercise price of
+$0.75 per share until January 31, 2026. The warrants were to contain a condition precedent to their exercise such
+that no warrants shall be exercisable if such exercise would cause Orca’s ownership of the Company’s, as calculated
+on a partially diluted basis, to exceed 19.99% of the aggregate of the issued and outstanding shares in the capital
+of the Company.
+
+On June 7, 2024, the Company announced additional amendments to the 2023 Facility and the 2022 Facility with
+Orca. The Company and Orca agreed to further increase the credit limit under the 2023 Facility to US$5.2 million
+and further extend the maturity dates of both the 2023 Facility and the 2022 Facility to October 1, 2026. All of the
+warrants that were previously issued or issuable in connection with the 2022 Facility and the 2023 Facility are
+deemed to have expired or become non-issuable (as applicable) concurrently with the effective date of the new
+amendments and extensions to the lines of credit. As consideration for these changes, the Company issued a total
+of 7.7 million new common share purchase warrants to Orca, with 4.4 million of these warrants having an exercise
+price of $0.89 per common share and the rest of these warrants having an exercise price of $0.75 per common
+share. All 7,700,000 warrants expire on October 1, 2026, and contain a condition precedent to their exercise such
+that no warrants shall be exercisable if such exercise would cause Orca's ownership of the Company, as calculated
+on a partially diluted basis, to exceed 19.99% of the aggregate of the issued and outstanding common shares,
+unless the Company obtains prior shareholder approval in accordance with the applicable requirements of the TSX
+Venture Exchange. The TSX Venture Exchange approved the issuance of the 7.7 million warrants on September
+30, 2024.
+
+2024 Convertible Debentures
+
+On February 9, 2024, the Company closed the second and final tranche of a non-brokered private placement of
+convertible debentures for gross proceeds of $1,990,000 (the “2024 Convertible Debentures”). Each debenture was
+issued at a price of $1,000 per debenture. The 2024 Convertible Debentures bore interest at a rate of 7.5%, payable
+semi-annually on the last day of June and December of each year, commencing on June 30, 2024. The 2024
+Convertible Debentures had a maturity date of January 31, 2026, and were unsecured. At any time before maturity,
+a holder could have elected to convert the outstanding net principal amount, or any portion thereof, into units at a
+conversion price of $0.75 per unit. Each unit consisted of one common share of the Company and one half of a
+warrant, with each whole warrant entitling the holder to acquire a common share at an exercise price of $1.05 for a
+period ending on the maturity date of the debentures. In connection with the issuance of the 2024 Convertible
+Debentures the Company paid a total of $89,250 finders' fees and issued a total of 231,000 finders' warrants. Each
+finder's warrant entitled the holder to acquire one common share of the Company at a price of $0.75 for a period of
+24 months from the date of issuance. As of December 31, 2025, all of the 2024 Convertible Debentures have been
+converted.
+
+2020 Convertible Debentures
+
+On May 21 and 29, 2020, the Company issued 1,280 and 1,520 convertible debentures respectively, with a face
+value of $1,000 each for total gross proceeds of $2.8 million (the “2020 Convertible Debentures”). These unsecured
+convertible debentures bore interest at a rate of 7.5% payable semi-annually.
+                                                                                                           19 | P a g e
+On April 26, 2024, the Company announced amendments to the 2020 Convertible Debentures that had a maturity
+date of May 31, 2024. The Company extended the maturity date of the convertible debentures to January 31, 2026
+and amended the terms of conversion feature. Under the amended terms at any time during the term of the 2020
+Convertible Debentures, a holder could have elected to convert the outstanding net principal amount, or any portion
+thereof, into units at a conversion price of $0.90 per unit, amended from $1.20 per unit. Each unit consisted of one
+common share of the Company and one-half of a warrant with each whole warrant entitling the holder to acquire a
+common share at an exercise price of $1.30, amended from $1.80, until the maturity date of the debenture. In
+consideration for the extension and amendments, the Company paid a restructuring fee equal to six months interest.
+The other terms of the 2020 Convertible Debentures remained unchanged. The TSX Venture Exchange approved
+the 2020 Convertible Debenture amendments on September 24, 2024. On September 3, 2025, the then 1,100
+outstanding convertible debentures were automatically converted into equity pursuant to an automatic conversion
+clause.
+
+2023 Line of Credit Facility
+
+On May 9, 2023, the Company entered into a secured line of credit facility agreement with Orca, in the amount of
+up to US$1 million (the "2023 Facility"). Proceeds from the 2023 Facility were primarily used to continue
+commissioning trials at the Company's RapidSX™ Demo Plant. Drawdowns on the 2023 Facility were available in
+multiples of US$100,000 and as of the date of this MD&A the Company has drawn down the full US$1,000,000 from
+the 2023 Facility. The 2023 Facility carries an interest at a rate of 10% per annum. All amounts owing under the
+2023 Facility were to be repayable by December 31, 2023. An administrative loan origination fee equal to 1.5% of
+the available 2023 Facility was to be paid at maturity. A total of 1 million bonus warrants were issued as consideration
+for the granting of the 2023 Facility. The warrants contained a condition precedent to their exercise such that no
+warrant could be exercised if such exercise would cause Orca’s ownership of the Company, as calculated on a
+partially diluted basis, to exceed 19.99%. The warrants had an exercise price of $1.20 and a term of 12 months from
+the date of issue.
+
+On December 22, 2023, the Company announced that the Company and Orca agreed to extend the term of the
+2023 Facility such that the amended maturity date will be January 31, 2026. Further, Orca agreed to increase the
+available principal amount of the 2023 Facility to US$2,200,000 which was fully drawn down at December 31, 2023.
+Orca agreed to keep the annual interest rate on the 2023 Facility unchanged at 10%. A total of one million warrants
+previously issued to Orca in connection with the 2023 Facility were deemed to have expired concurrently with the
+execution of the 2023 Facility amending agreement. In consideration for extending the due date of the 2023 Facility
+to January, 31, 2026, and increasing the amount of the facility, a total of 2.9 million warrants were issued to Orca,
+with each warrant entitling Orca to acquire one common share of the Company at an exercise price of $0.89. These
+warrants had a term ending on January 31, 2026. The TSX Venture Exchange approved the issuance of the 2.9
+million warrants on March 4, 2024. The 2023 Facility has since been amended as further described above under
+2024 Line of Credit Facility Amendments.
+
+Orca is owned by Mr. Randy Johnson, a resident of Alaska, USA. Mr. Johnson, directly and indirectly, holds greater
+than 10% of the Company’s outstanding common shares (but less than 20%) and he is a Director of the Company.
+Therefore, the transaction is considered a related party transaction within the meaning of MI 61-101. The line of
+credit facility transaction between the Company and Orca was exempt from the formal valuation and minority
+shareholder approval requirements of MI 61-101 since neither the fair market value of the subject matter of the
+transaction, nor the considered received or payable, exceeded 25% of the Company's market capitalization. No new
+insiders and no control persons were created in connection with the closing of the transactions. The Company’s
+Board of Directors believes that the line of credit facility has reasonable commercial terms that are not less
+advantageous to the Company as compared to if the line of credit were obtained from a person dealing at arm’s
+length with the Company. The above-described transactions were reviewed and unanimously approved by the
+Company's Board of Directors. No special committee of the Board of Directors was created to negotiate, review and
+approve the, line of credit, line of credit amending agreement, or the offering agreements; rather, the agreements
+were negotiated by the Company with Mr. Johnson declaring his conflict and abstaining from the Board of Directors'
+deliberations. No cash consideration was paid pursuant to the extension of the due dates for the line of credit and
+no commissions or similar fees were paid to any person with respect the extension.
+
+2022 Line of Credit Facility
+
+The Company was party to a secured line of credit facility agreement with Orca in the amount US$2,000,000 (the
+“2022 Facility”) which had a maturity date of March 31, 2024. On December 22, 2023, the Company announced
+that it had entered into an agreement with Orca to extend the term of 2022 Facility such that the amended maturity
+date will be January 31, 2026. Orca also agreed to keep the annual interest rate on the 2022 Facility unchanged at
+9%. A total of 1.15 million warrants that were previously issued to Orca in connection with the 2022 Facility expired
+concurrently with the execution of the 2022 Facility amending agreement. In consideration for extending the due
+
+                                                                                                            20 | P a g e
+date of the 2022 Facility to January 31, 2026, a total of 1.5 million warrants were issued to Orca, with each warrant
+entitling Orca to acquire one common share of the Company at an exercise price of $0.89. These warrants had a
+term ending on January 31, 2026. The TSX Venture Exchange approved the issuance of the 1.5 million warrants
+on March 4, 2024. The line of credit is secured by a general security agreement over the assets of the Company.
+Certain terms of the 2022 Facility have since been amended as further described above in 2024 Line of Credit
+Facility Amendments. On November 12, 2025, the Company repaid the outstanding balance of the 2022 Facility in
+full, thereby extinguishing all obligations under the agreement.
+
+Orca is owned by Mr. Randy Johnson, a resident of Alaska, USA. Mr. Johnson, directly and indirectly, holds greater
+than 10% of the Company’s outstanding common shares (but less than 20%) and he is a Director of the Company.
+Therefore, the transaction is considered a related party transaction within the meaning of MI 61-101. The line of
+credit facility transaction between the Company and Orca was exempt from the formal valuation and minority
+shareholder approval requirements of MI 61-101 since neither the fair market value of the subject matter of the
+transaction, nor the considered received or payable, exceeded 25% of the Company's market capitalization. No new
+insiders and no control persons were created in connection with the closing of the transactions. The Company’s
+Board of Directors believes that the line of credit facility has reasonable commercial terms that are not less
+advantageous to the Company as compared to if the line of credit were obtained from a person dealing at arm’s
+length with the Company. The above-described transactions were reviewed and unanimously approved by the
+Company's Board of Directors. No special committee of the Board of Directors was created to negotiate, review and
+approve the, line of credit, line of credit amending agreement, or the offering agreements; rather, the agreements
+were negotiated by the Company with Mr. Johnson declaring his conflict and abstaining from the Board of Directors'
+deliberations. No cash consideration was paid pursuant to the extension of the due date for the line of credit and no
+commissions or similar fees were paid to any person with respect the extension.
+
+Term Loan
+
+The Company is party to a secured term loan payable to Orca in the amount of US$964,928 which had a maturity
+date of November 30, 2024 (the “Term Loan”). On December 22, 2023, the parties executed an agreement to further
+extend the maturity date of Term Loan to January 31, 2027. The parties also agreed to keep the annual interest rate
+on the Term Loan at 9%. A total of one million warrants each with an exercise price of $0.85 that were previously
+issued to Orca in connection with the Term Loan expired concurrently with the execution of the Term Loan amending
+agreement. In consideration for extending the maturity date for the Term Loan to January 31, 2027, and for not
+increasing the interest rate, a total of 1.2 million warrants were issued to Orca, with each warrant entitling Orca to
+acquire one common share at an exercise price of $0.89. The warrants have a term ending on January 31, 2027.
+The TSX Venture Exchange approved the issuance of the 1.2 million warrants on March 4, 2024.
+
+Orca is owned by Mr. Randy Johnson, a resident of Alaska, USA. Mr. Johnson, directly and indirectly, holds greater
+than 10% of the Company’s outstanding common shares (but less than 20%) and he is a Director of the Company.
+Therefore, the transaction is considered a related party transaction within the meaning of MI 61-101. The Term Loan
+transaction between the Company and Orca was exempt from the formal valuation and minority shareholder
+approval requirements of MI 61-101 since neither the fair market value of the subject matter of the transaction, nor
+the considered received or payable, exceeded 25% of the Company's market capitalization. No new insiders and
+no control persons were created in connection with the closing of the transaction.
+
+The Company’s Board of Directors believes that Term Loan has reasonable commercial terms that are not less
+advantageous to the Company as compared to if the Term Loan were obtained from a person dealing at arm’s
+length with the Company. The above-described transactions were reviewed and unanimously approved by the
+Company's Board of Directors. No special committee of the Board of Directors was created to negotiate, review and
+approve the Term Loan amending agreement or the offering agreements; rather, the agreements were negotiated
+by the Company with Mr. Johnson declaring his conflict and abstaining from the Board of Directors' deliberations.
+No cash consideration was paid pursuant to the extension of the due dates for the Term Loan, and no commissions
+or similar fees were paid to any person with respect to the extension.
+
+
+
+
+                                                                                                          21 | P a g e
+Selected Annual Information
+
+The following annual information is prepared in accordance with IFRS Accounting Standards. Amounts are reported
+in thousands of Canadian dollars, except for per share amounts.
+
+                                                 For the year ended      For the year ended        For the year ended
+                                                      December 31,            December 31,              December 31,
+                                                               2025                    2024                      2023
+                                                                   $                       $                         $
+  Net loss                                                    39,265                  13,470                     7,605
+  Loss per share – basic and diluted                              0.46                    0.22                       0.13
+  Total assets                                                 83,583                   62,055                    60,621
+
+
+Research and Development Expenditures
+
+During the year ended December 31, 2025, the Company incurred $7,543,540 (December 31, 2024 - $5,453,839)
+in net research and development expenditures. The following is a breakdown of the material components of the
+Company’s research and development expenditures:
+
+                                                                         For the year ended         For the year ended
+                                                                         December 31, 2025          December 31, 2024
+                                                                                           $                          $
+ Depreciation                                                                      1,796,163                  1,801,083
+ Consulting and professional services                                                979,634                  1,189,077
+ Facility and equipment expenditures                                                 139,500                    120,300
+ Laboratory and analytical expenses                                                   85,251                     92,500
+ Labour                                                                            5,470,748                  4,734,923
+ Other operating expenses                                                            164,034                    163,797
+ Process feedstock and reagents                                                      265,839                    249,135
+ Share-based payments                                                                 69,711                     21,174
+ Supplies, consumables, and materials                                              1,596,828                    771,316
+ Waste management disposal                                                           221,796                    349,454
+ Total research and development expenditures                                     10,789,504                   9,492,759
+ NRC-CMRDD program funding                                                         (249,521)                  (363,152)
+ Government tax credits and recoveries                                             (320,813)                  (240,000)
+ CMIF funding                                                                      (300,000)                  (200,000)
+ US DoD funding                                                                  (2,375,630)                (3,235,768)
+ Total research and development expenditures, net                                  7,543,540                  5,453,839
+
+Results of Operations
+
+The Company has no operating revenues. The Company is dependent on equity or other external financings to fund
+the Company’s mineral exploration and evaluation operations, to fund the Company’s evaluation and intended
+development of the Company’s prospective Louisiana SMC, to fund the Company’s pursuit and development of the
+Company’s consolidated business plans (including the expected continued development of IMC’s RapidSX™), and
+also to fund all of the Company’s general, administrative, interest and other costs. As a result, the Company expects
+to incur operating losses until such time as either: (i) an economic mineral resource is identified, developed and put
+into profitable commercial production on one or more of the Company’s mineral properties; (ii) the Louisiana SMC
+becomes designed, constructed and then eventually operational to the extent that it generates net profits; (iii) the
+Company engages in other joint ventures related to its RapidSX™ technology; and/or (iv) the Company profitably
+sells one or more of its core assets.
+
+During the year ended December 31, 2025, the Company incurred a net loss of approximately $39.26 million
+compared to a net loss of $13.47 million for the year ended December 31, 2024, an increase of approximately
+$25.79 million. Operating expenses totalling approximately $15.09 million were recognized during the year ended
+December 31, 2025 compared to approximately $10.37 million during the year ended December 31, 2024. The
+increase in net loss is primarily attributable to the fair value adjustment of derivative liabilities, which increased due
+to the higher share price during the year, as the fair value of the conversion feature fluctuates with changes in the
+Company’s share price. Further variances between the years are discussed below.
+
+
+
+                                                                                                              22 | P a g e
+The Company recorded a non-cash amortization expense of approximately $943,000 during the year ended
+December 31, 2025, which is consistent with the prior year amount of $942,000 and is largely attributable to the
+amortization of the Company’s intellectual property.
+
+For the year ended December 31, 2025, the Company recorded salaries and management fees of approximately
+$1.64 million compared to approximately $1.16 million in the prior year. The increase was primarily attributable to
+one-time bonuses paid during the year and higher salary and management fees resulting from annual compensation
+adjustments.
+
+Professional services expenditures totaled approximately $1.79 million for the year ended December 31, 2025,
+compared to approximately $1.32 million in the prior year. The increase reflects higher legal, tax, and audit costs
+and increased use of external professional advisors in connection with advancing the Company’s strategic initiatives.
+
+During the year ended December 31, 2025, the Company incurred net research and development expenditures of
+approximately $7.54 million compared to approximately $5.45 million for the year ended December 31, 2024.
+Research and development expenditures relate to expenditures incurred to further the advancement of the
+Company’s wholly owned subsidiary’s RapidSX™ technology. The increase of approximately $2.09 million in the
+current year was primarily driven by the timing of milestone achievements under the Company’s agreement with the
+US DoD and the corresponding funding received. A breakdown of material components of the Company’s research
+and development expenditures year over year is presented above in the Research and Development Expenditures
+section.
+
+Investor relations and marketing expenditures were approximately $866,000 for the year ended December 31, 2025
+compared to approximately $327,000 for the year ended December 31, 2024. Further details pertaining to the
+Company’s investor relations and marketing activities is found below in the Investor Relations, Marketing and Other
+section.
+
+The Company recorded office and premises expenditures of approximately $335,000 for the year ended December
+31, 2025, compared to approximately $274,000 for the year ended December 31, 2024. The increase was primarily
+attributable to higher general office expenses associated with increased corporate and project development
+activities during the year.
+
+The Company recorded non-cash share-based compensation expense of approximately $1.41 million, reflecting the
+estimated value of stock options and restricted share units recognized over their respective vesting periods during
+the year ended December 31, 2025 compared to approximately $569,000 in the prior year. Differences year-over-
+year are largely attributable to size and timing of the options and restricted share units granted in each year.
+
+The Company recorded travel expenditures of approximately $423,000 for the year ended December 31, 2025,
+compared to $206,000 in the prior year. The increase in the current year is primarily attributable to increased travel
+to the Company’s CDF in Kingston, ON, and the Company’s LSMC, in Alexandria, Louisiana, as well as attendance
+at various industry conferences.
+
+When looking at the Company’s consolidated statement of loss and comprehensive loss, the difference between
+the operating expenses and the net loss is the result of the following items:
+
+    •    During the year ended December 31, 2025, the Company recorded interest and accretion expense of
+         approximately $2.81 million compared to approximately $2.48 million for the year ended December 31,
+         2024. The interest and accretion expenditures are as a result of the Company’s convertible debentures,
+         loans payable and lease liabilities.
+
+    •    The 2020 and 2024 Convertible Debentures contain multiple embedded derivatives which have been
+         revalued upon conversion, resulting in a non-cash loss on the fair value adjustment of approximately
+         $21.74 million for the year ended December 31, 2025, as compared to a non-cash gain of approximately
+         $549,000 for the year ended December 31, 2024. The increase in the fair value adjustment is primarily
+         attributable to the higher share price during the year, as the fair value of the conversion feature fluctuates
+         with changes in the Company’s share price.
+
+    •    During the year ended December 31, 2025, the Company recognized other income of approximately
+         $25,000, compared to approximately $601,000 for the year ended December 31, 2024. The decrease in
+         the current period is due to the termination of the sublease for the Company’s SMC facility in Alexandria,
+         Louisiana, in early January of 2025.
+
+
+                                                                                                           23 | P a g e
+    •    The Company recorded a foreign exchange gain of approximately $320,000 during the year ended
+         December 31, 2025, compared to a loss of approximately $639,000 for the year ended December 31,
+         2024. As the Company continues to deal in both the Canadian and United States currencies, the Company
+         may continue to incur foreign exchange gains and losses arising from changes in the value of the Unites
+         States dollar relative to the Canadian dollar.
+
+Summary of Quarterly Financial Results
+
+ Expressed in           12/31/25    09/30/25    06/30/25    03/31/25     12/31/24    09/30/24    06/30/24      03/31/24
+ thousands of              $           $           $           $            $           $           $             $
+ dollars, except per
+ share amounts
+
+ Net loss                  7,817      22,690        3,634       5,124       2,024     2,724(1)     5,497(1)      3,410(1)
+
+ Net loss per share         0.07         0.25        0.05        0.08        0.03         0.04        0.09        0.06(1)
+ – basic and diluted
+
+ Total Assets             83,583      76,023      70,665       60,724      62,055      58,088      59,246        60,422
+
+
+(1) The company has restated the net loss to reflect year-end December 31, 2024, adjusting journal entries that were
+
+reflected in the last annual consolidated financial statements as further described in note 3 of the unaudited
+condensed interim consolidated financial statements for the three-month and nine-month periods ended September
+30, 2025.
+
+During the fourth quarter of 2025, the Company incurred a net loss of approximately $7.82 million compared to a
+net loss of approximately $2.02 million in the fourth quarter of 2024. As a result of fair value adjustments to the
+Company’s convertible debentures during the current quarter, the Company recorded a non-cash loss on the fair
+value adjustment of derivative liabilities of approximately $2.39 million, as compared to a non-cash loss of
+approximately $395,000 during the comparable prior quarter. During the fourth quarter of 2025, the Company
+recorded research and development expenditures of approximately $2.75 million, compared to a recovery of
+research and development expenditures of approximately $1.2 million in the comparable prior quarter, primarily due
+to the timing of completed project milestones and the associated funding received from the US DoD. As a result of
+fluctuations in foreign exchange rates, the Company recorded a gain due to foreign exchange of approximately
+$67,000 in the current quarter, compared to a loss of approximately $641,000 in the comparable prior quarter. The
+remaining operating and other expenditures remained relatively consistent quarter-over-quarter.
+
+Liquidity and Capital Resources
+
+As at December 31, 2025, the Company had positive working capital of approximately $19.5 million with an
+unrestricted cash balance of approximately $26.12 million. As at December 31, 2025, the Company had current
+assets of approximately $28.45 million and current liabilities of approximately $8.94 million resulting in current ratio
+of 3.18.
+
+During the year ended December 31, 2025, the Company used approximately $10.98 million in cash to fund
+operating activities, primarily related to research and development at the Company’s RapidSX TM Pilot Plant.
+
+On January 31, 2025, the Company closed a non-brokered private placement which consisted of 3,600,000 units at
+a price of $0.60 per unit for gross proceeds of $2,160,000. See “Financing Transactions – 2025 Private Placements”
+above for additional information.
+
+On February 28, 2025, the Company closed a non-brokered private placement of 1,955,800 units at a price of $0.60
+per unit for gross proceeds of $1,173,480. See “Financing Transactions – 2025 Private Placements” above for
+additional information.
+
+On June 19, 2025, the Company closed a brokered private placement of 12,916,667 units at a price of $1.20 per
+unit for gross proceeds of $15,500,000. See “Financing Transactions – 2025 Private Placements” above for
+additional information.
+
+
+
+                                                                                                              24 | P a g e
+On November 12, 2025, the Company repaid in full the outstanding principal balance and accrued interest of
+$1,629,499 (US$1,162,193) under the 2022 Facility, thereby extinguishing all remaining obligations pursuant to the
+agreement. See “Financing Transactions - 2022 Line of Credit Facility” above for additional information.
+
+During the year ended December 31, 2025, the Company received proceeds of $25,505,898 from the exercise of
+stock-options, warrants, and compensation options.
+
+Subsequent to December 31, 2025, the Company received proceeds of $4,095,795 from the exercise of stock-
+options and warrants.
+
+Based on the Company’s closing share price of $6.07 on March 17, 2025, there are in-the-money outstanding stock-
+options and warrants, that if exercised, would provide the Company with proceeds of $15,404,939.
+
+The Company is reliant on equity or other forms of financing to fund the advancement of its RapidSX™ Program,
+the development of its SMC in Louisiana, the advancement of the Bokan Project, and other corporate objectives.
+Management concluded that the Company has sufficient liquidity to meet its obligations for the next twelve months,
+considering the Company’s planned capital expenditures and exploration activities. The Company has the ability to
+scale back its capital expenditures and exploration activities, and will do so as necessary, based on cash availability.
+The Company will also need to raise further financing within the next two years to execute its strategic plan and
+meet its objectives. Management is actively evaluating potential sources of additional financing, which may be
+completed by way of traditional equity financings or in a number of alternative ways including, but not limited to, a
+combination of: new strategic partnerships; joint venture arrangements; project-level or subsidiary-level third-party
+financings; royalty or streaming financing; the sale of core and/or non-core assets; and other capital market
+alternatives.
+
+Market Maker
+
+In regard to market making services related to the Company’s common shares, the Company currently retains the
+services of Venture Liquidity Providers Inc. ("VLP") to provide assistance in maintaining an orderly trading market
+for the common shares of the Company on the TSX Venture Exchange. These market making services are
+undertaken by VLP through a registered investment dealer, W.D. Latimer Co. Ltd., in compliance with the policies
+of the TSX Venture Exchange and other applicable legislation. The Company continues to pay VLP $5,000 per
+month as was described in the Company’s press release dated January 15, 2016 when VLP was first retained by
+the Company.
+
+Investor Relations, Marketing, and Other
+
+During the year ended December 31, 2025, and up until the date of this MD&A, the Company used advertising and
+promotion services offered by Google and Facebook to raise public awareness of the Company’s website and
+corporate videos and to bring awareness to the Company’s business initiatives. The Company’s corporate videos
+are approved by the Company’s management prior to public distribution. On October 28, 2024, the Company
+engaged Outside the Box Capital Inc. (“OTB”) at a cost of $150,000 for a period of six months. On May 13, 2025,
+the Company re-engaged OTB for a period of 12 months. In consideration of the services to be provided by OTB,
+the Company paid a cash fee in the amount of $160,000 and issued 100,000 stock options to purchase the common
+shares of the Company with an exercise price of $1.60 per common share. The Company also paid $25,000 to be
+used by OTB for its influencer marketing campaign. Services performed by OTB are comprised of marketing and
+distribution services to communicate information about the Company and create awareness and investor
+engagement. On February 19, 2025 the Company engaged InvestorNews Inc. (“InvestorNews”), for 12 months, at
+a cost of $18,750. InvestorNews Inc. provided digital marketing and video production services along with a 12-month
+brand awareness program featured on InvestorNews’ website and social media channels. On May 5, 2025, the
+Company engaged Goldinvest Consulting GmbH ("Goldinvest”) for a period of six months at a cost of 4,050 euros
+per month. Goldinvest prepared corporate videos and assisted with investor awareness activities in Germany. On
+May 8, 2025, the Company engaged InvestorBrandNetwork (“IBN”), to assist with various marketing initiatives and
+the Company expects that IBN will leverage its investor-based distribution network of 5,000-plus key syndication
+outlets, various newsletters and other outreach tools to generate awareness of the Company. The Company has
+engaged IBN for a period of 12 months, commencing May 8, 2025, at a cost of US$23,200 per quarter.
+
+
+
+
+                                                                                                            25 | P a g e
+Off-Balance Sheet Arrangements
+
+As at December 31, 2025, the Company had no off-balance sheet arrangements such as guarantee contracts,
+contingent interest in assets transferred to an entity, derivative instruments obligations or any obligations that trigger
+financing, liquidity, market or credit risk to the Company.
+
+Critical Judgements and Estimates
+The preparation of financial statements in conformity with IFRS Accounting Standards requires management to
+make estimates, judgments, and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the year. These estimates are based on historical experience, current and future
+economic conditions, and other factors, including expectations of future events that are believed to be reasonable
+under the circumstances. The determination of estimates requires the exercise of judgment based on various
+assumptions and other factors such as historical experience and current and expected economic conditions. Actual
+results could differ from those estimates. Further information on management’s judgments, estimates and
+assumptions and how they impact accounting policies are described below and also in the relevant notes to the
+consolidated financial statements.
+
+Going concern
+The assessment of the Company’s ability to continue as a going concern and to raise sufficient funds to pay for its
+ongoing operating expenditures, meets its liabilities for the ensuing year, and to fund planned and contractual
+development and exploration programs, involves significant judgment based on historical experience and other
+factors including expectation of future events that are believed to be reasonable under the circumstances.
+
+Recoverability of resource properties and related exploration costs
+
+At the end of the reporting period, the Company assessed its resource properties and related exploration costs to
+determine whether any indication of impairment exists. Judgement is required in determining whether indicators of
+impairment exist, including factors such as expiration of rights to explore with no right or expectation of renewal,
+substantive expenditure on further exploration and evaluation in the specific area is neither budgeted nor planned
+or the entity has decided to discontinue such activities in the specific area, no commercially viable quantities are
+discovered and exploration and evaluation activities will be discontinued, or sufficient data exists to indicate that the
+carrying amount of the resource properties and related exploration costs are unlikely to be recovered in full from
+successful development or by sale.
+
+Where an indicator of impairment exists, a formal estimate of the recoverable amount is made, which is considered
+to be the greater of the fair value less cost of disposal and value in use. The impairment analysis requires the use
+of estimates and assumptions, such as long-term commodity prices, discount rates, future capital expenditures,
+exploration potential and operating costs. The fair value of resource properties and related exploration costs is
+generally determined as the present value of estimated future cash flows arising from the continued use of the
+assets, which includes estimates such as the cost of future expansion plans and eventual disposal, using
+assumptions that an independent market participation may take into account. Cash flows are discounted to their
+present value using a pre-tax discount rate that reflects current market assessment of the time value of money and
+risk to the asset. If the Company does not have sufficient information about a particular mineral resource property
+to meaningfully estimate future cash flows, the fair value is estimated by management through comparison to similar
+market assets and, where available, industry benchmarks.
+
+Convertible debentures
+
+In 2020 and 2024, the Company issued convertible debentures with an embedded derivative, a conversion option,
+allowing the holder to convert any or all amounts outstanding to units, consisting of common shares and share
+purchase warrants of the Company. The terms of the debentures also allowed the Company to extend the maturity
+date by one year. The identification of the convertible debenture components was based on interpretations of the
+substance of the contractual arrangement and therefore required judgement from management. The separation of
+components affects the initial recognition of the convertible debenture at issuance and the subsequent recognition
+of interest on the liability component. The determination of fair value of the liability was also based on several
+assumptions, including contractual future cash flows, discount rates and the presence of any derivative financial
+instruments. The inputs used in the fair value models contain inherent uncertainties, estimates and use of judgment
+as certain valuation inputs are unobservable.
+
+
+
+
+                                                                                                              26 | P a g e
+Changes in Accounting Standards including Initial Adoption
+
+Other accounting standards issued but not yet effective
+
+The Company is in the process of determining how the following new and amended standards could impact its
+financial statements.
+
+The IASB has issued classification and measurement and disclosure amendments to IFRS 9 Financial Instruments
+and IFRS 7 Financial Instruments: Disclosures with an effective date for years beginning on or after January 1, 2026
+with earlier application permitted. The amendments relevant to the Company clarify the date of recognition and
+derecognition of some financial assets and liabilities and introduce a new exception for some financial liabilities
+settled through an electronic payment system.
+
+IFRS 18 Presentation and Disclosure in Financial Statements is a new standard that will provide new presentation
+and disclosure requirements and replace IAS1 Presentation of Financial Statements. IFRS 18 introduces changes
+to the structure of the income statement; provides required disclosures in financial statements for certain profit or
+loss performance measures that are reported outside an entity’s financial statements; and provides enhanced
+principles on Annual Report Consolidated Financial Statements aggregation and disaggregation in financial
+statements. Many other existing principles in IAS 1 have been maintained. IFRS 18 is effective for years beginning
+on or after January 1, 2027, with earlier application permitted.
+
+Related Party Transactions
+
+Related parties consist of key management personnel, directors, and entities that are associated with the Company
+as well as significant shareholders including Orca. The Company has defined key management personnel as senior
+executive officers, as well as the Board of Directors. The total remuneration of key management personnel and the
+Board of Directors was as follows:
+
+                                                                  For the year ended            For the year ended
+                                                                  December 31, 2025             December 31, 2024
+                                                                                  ($)                           ($)
+ Director’s fees                                                             236,500                       226,000
+ Share-based payments to directors                                           167,121                       113,443
+ Key management short-term benefits                                          840,444                       526,605
+ Share-based payments to key management                                      501,059                       200,612
+                                                                           1,745,124                     1,066,660
+
+Key management short-term benefits include all salary, bonuses, and health/dental benefits earned by officers
+during the year.
+
+Other related party transactions
+
+The Company paid legal fees to Miller Thomson LLP of $610,060 during the year ended December 31, 2025,
+compared to $372,502 for the year ended December 31, 2024. Mr. Geoff Clarke, a director of the Company, is a
+partner of that law firm. Payments made by the Company to Miller Thomson LLP are for the various legal services
+provided to the Company by several lawyers and law clerks at the firm, which includes lawyers and law clerks in
+multiple provinces and offices across Canada. For additional related party transactions see “Financing Transactions”
+above.
+
+The Company has loans payable to Orca, and during the year ended December 31, 2025, and the year ended
+December 31, 2024, the Company amended certain loan agreements, received advances, repaid principal amounts,
+repaid interest, and incurred financing fees and interest charges as further described in the “Financing Transactions”
+section above.
+
+All related party transactions were valued and recorded by the Company at the stated amount agreed to between
+the parties. To the Company’s knowledge, the Company’s reporting insiders have reported their transactions on the
+System for Electronic Disclosure by Insiders, known as SEDI (www.SEDI.ca). Orca Holdings, LLC (which is wholly
+owned by Mr. Randy Johnson, a director of the Company since October 6, 2020) filed its latest early warning report
+on SEDAR+ on December 5, 2025 (www.sedarplus.ca).
+
+
+
+
+                                                                                                          27 | P a g e
+Outstanding Share Data
+
+The Company’s outstanding share capital is detailed in note 13 of the Company’s consolidated financial statements
+for the years ended December 31, 2025 and 2024. The following is the Company’s issued and outstanding share
+data as of (March 18, 2026).
+
+                                                                                     Weighted         Weighted
+                                                                                     average          average
+                                                                                     exercise       remaining life
+                                                                                      price            (years)
+                         Securities                               Number                $
+  Common shares                                                     116,354,586              n/a                n/a
+  Warrants(1)                                                         11,781,789           0.89                0.66
+  Compensation options                                                      2,625          1.00                0.36
+  Stock options(2)                                                     4,693,334           1.06                2.78
+  Deferred share units                                                    25,710             n/a                n/a
+  Restricted share units                                                 640,000             n/a                n/a
+
+(1) Subsequent to December 31, 2025, the Company received proceeds of $3,780,445 from the exercise of 4,730,000
+
+warrants.
+(2) Subsequent to December 31, 2025, the Company received proceeds of $315,350 from the exercise of 279,500
+
+stock options.
+
+Risks and Uncertainties
+
+In conducting its business, the principal risks and uncertainties faced by the Company relate to:
+
+    •    the development of the Company’s prospective LSMC including the commercial deployment of the
+         Company’s innovative RapidSX™ mineral processing and purification technology capable of efficiently
+         processing and purifying one or more feedstocks of mixed rare earth chemical concentrates;
+    •    the ability of the Company to generate positive cashflow from its expected future business operations;
+    •    commodity prices and the demand for REEs and other critical materials that underlay the business
+         objectives of the Company;
+    •    the availability of upstream REE feedstock, and in quantities and at prices that will allow for the Company
+         to develop and then commercially operate its planned SMCs in order to refine the REEs and then sell and
+         deliver them profitably to the Company’s downstream customers;
+    •    exploration and development success of the Company’s mineral property (the Bokan Project);
+    •    capital adequacy, liquidity and cash management along with the ability to obtain additional financing in
+         both the short and long terms;
+    •    counter-party risk and issues related to any significant non-compliance by the parties to the Company’s
+         material contracts;
+    •    the Company’s dependence on key management and technical personnel, including the risk that the loss
+         of such individuals could adversely impact the Company’s ability to execute its strategy, develop its
+         technologies, and advance is projects;
+    •    the ability of the Company to develop and/or protect its intellectual property; and
+    •    general economic, business and capital market sentiment and conditions.
+
+Near-Term Execution Risks
+
+Within the next two years, the Company’s development and growth depends on its ability to: (i) successfully trial the
+Demo Plant at the CDF in Kingston, Ontario; (ii) secure one or more reliable sources of REE feedstock at prices
+that are acceptable and attractive to the Company; (iii) secure one or more REE-product customers that are willing
+and able to purchase REE products from the Company at prices that are expected to be profitable for the Company;
+and then (iv) develop, construct and commission the Louisiana SMC (Stage 1), which is planned to be the
+Company’s first commercially operated rare earth processing facility.
+
+
+
+
+                                                                                                         28 | P a g e
+Market Demand and End-Use Risks
+
+The success of the Company’s business in the long run will depend, in part, on the growth of existing and emerging
+uses for rare earth products and other critical materials that are suitable for processing using RapidSX™. Demand
+for the REE products that the Company is planning on eventually producing and selling from the Company’s planned
+SMCs may be impacted by demand for downstream products incorporating rare earths, including hybrid and electric
+vehicles, wind turbines, robotics, medical equipment, military equipment and other high-growth, advanced motion
+technologies, as well as demand in the general automotive and electronic industries. Lack of growth in these markets
+may adversely affect the demand for the Company’s expected products. In contrast, extended periods of high
+commodity prices may create economic dislocations that may be destabilizing to rare earth oxides supply and
+demand and ultimately to the broader markets. Periods of high rare earth oxide market prices generally are expected
+to be beneficial to the Company’s financial performance. However, strong rare earth oxide prices also create
+economic pressure to identify or create alternate technologies that ultimately could depress future long-term demand
+for rare earth oxides and products, and at the same time may incentivize development of competing rare earth
+processing technologies and also rare earth mining properties.
+
+The Company’s strategy is to eventually produce rare earth products from the Company’s planned SMCs that are
+expected to be used by the Company’s customers in their manufacturing or assembly of hybrid and electric vehicles,
+wind turbines, robotics, medical equipment, military equipment and other technologically advanced products. The
+success of the Company’s eventual business will depend on the continued growth of these end markets and the
+successful commercialization of rare earth products, including NdPr, in such markets. If the market for these critical
+existing and emerging technologies does not grow as the Company expects, grows more slowly than is expected,
+or if the expected demand for the Company’s future products in these markets decreases, then the Company’s
+business, prospects, financial condition and operating results will be harmed. In addition, the market for these
+technologies, particularly in the automotive industry, tends to be cyclical, which exposes the Company to increased
+volatility, and it is uncertain as to how such macroeconomic factors will impact the Company’s business. Any
+unexpected costs or delays in the commercialization of separated REE products or rare earth magnets, or less than
+expected demand for the critical existing and emerging technologies that use rare earth products, could have a
+material adverse effect on the Company’s financial condition or results of operations.
+
+Geopolitical Risks
+
+Changes in the People’s Republic of China’s political environment and policies, including changes in export policy
+or the interpretation of China’s export policy and policy on rare earths production or the import of rare earth
+feedstock, may adversely affect the Company’s business prospects, viability, financial condition and the results of
+operations.
+
+Capital and Project Development Risks
+
+The production of rare earth products is a capital-intensive business and will require the commitment of substantial
+resources and if the Company does not have sufficient resources to provide for such production, it could have a
+material adverse effect on the Company’s financial condition or results of operations. The development, construction
+and commissioning of the Louisiana SMC will require the commitment of substantial resources and capital
+expenditures. The Company’s estimated expenses may increase as additional consultants, personnel and
+equipment associated with the Company’s efforts are added, and as a result of inflationary pressures in Canada
+and the United States. The progress of the Louisiana SMC, the amounts and timing of expenditures and the success
+of the project will depend in part on the following: (a) the successful development and installation of the RapidSX™
+equipment in the Louisiana SMC facility; (b) the ability of the new equipment and to separate REO as designed and
+engineered; (c) the Company’s ability to timely procure new equipment and materials, certain of which may involve
+long lead-times, or to repair existing equipment at the Demo Plant; (d) the failure of service providers or vendors to
+meet contractually-negotiated delivery or completion deadlines or meet performance specifications or guarantees;
+(e) maintaining, and procuring, as required, any applicable federal, state and local permits; (f) the handling of project
+change orders, due to engineering, process, health and safety, or other considerations; (g) negotiating contracts for
+equipment, equipment assembly and installation, labor and work related to commissioning the Louisiana SMC; (h)
+impact of planned and unplanned shut-downs and delays in the Company’s development plans; (i) impact of
+stoppages or delays on construction projects; (j) disputes with contractors or other third parties; (k) negotiating sales
+and offtake contracts for the Company’s planned production; (l) the execution of any joint venture agreements or
+similar arrangements with strategic partners; (m) the impact of COVID-19 or similar pandemics on the Company’s
+business, the Company’s strategic partners’ or suppliers’ businesses, logistics or the global economy; and (n) other
+factors, many of which are beyond our control.
+
+
+
+
+                                                                                                             29 | P a g e
+Technology-Specific Risks
+
+IMC’s RapidSX™ mineral processing and purification technology is being demonstrated at the Company’s
+commercialization and demonstration facility, located in Kingston, Ontario. However, it has yet to be proven at a
+commercial scale in a large REE purification and processing facility. Ucore has not yet prepared or released an
+economic assessment or feasibility study that utilizes RapidSX™ for the separation and production of REEs from
+the Bokan Project property or any other potential REE feedstock. The following risks are specific to IMC and
+RapidSX™:
+
+    •    The commercial effectiveness of RapidSX™ is subject to uncertainty and risk, and may be affected by
+         many factors, some of which are beyond the Company’s control, including the emergence of newer, more
+         competitive technologies and processes, the cost of building and operating a commercial-scale RapidSX™
+         facility, regulatory and environmental requirements, unknown profitability performance and financial
+         metrics, the existence, knowledge and cooperation of key individuals, and the ability to attract customers
+         and sources of feedstock.
+
+    •    The long-term success of the Company’s acquisition of IMC will depend upon, among other things, the
+         ability to protect the key intellectual property including any relevant patents, trade secrets, trademarks, and
+         copyright materials and property. There is no assurance that these will remain protected. There is also no
+         assurance that alternate or competing technologies will not get developed that will result in the Company’s
+         existing intellectual property becoming obsolete or less competitive.
+
+    •    The Company may not be able to adequately protect the Company’s and IMC’s intellectual property rights.
+         If the Company fails to adequately enforce or defend these intellectual property rights, then the Company’s
+         business may be harmed. If the Company infringes, or are accused of infringing, the intellectual property
+         rights of third parties, it may increase the Company’s costs or prevent the Company from being able to
+         commercialize RapidSX™ or any other new products or processes.
+
+    •    The specialized scientific nature of RapidSX™ means that the Company’s success depends in a large part
+         on the ability to recruit and retain key management, engineering, scientific, and operating personnel.
+         Recruiting in these fields can be highly competitive and there is no assurance that key employees will be
+         able to be recruited and retained. The loss of one more key individuals, particularly those with specialized
+         knowledge of RapidSX™ of the Company’s strategic relationships, could have a material adverse effect
+         on the Company’s ability to advance its technology, execute its business plan, or maintain its competitive
+         position.
+
+The Louisiana SMC discussed in this MD&A is preliminary, conceptual and aspirational in nature as at the date
+hereof. The continued development of the SMC will require funding and the support of business partners, customers
+and the State government in order to be designed, developed, constructed and become operational, none of which
+is assured.
+
+The Company does not currently have any contractually committed customers for the planned output and delivery
+of REEs from the Company’s prospective Louisiana SMC. Although the Company is in periodic discussions with
+potential customers regarding potential prepayment offtake agreements (whereby the customer would prepay for a
+portion of the expected output from the Louisiana SMC and would pay for remaining ordered portions upon delivery),
+there is no assurance that the parties will be able to reach an agreement or that the Company will be able to produce
+and deliver the required REE products in accordance with the customer’s required specifications and timing
+requirements. The Company’s Demo Plant and then the Louisiana SMC will need to process REE to exacting
+specifications in order to provide future customers with a consistently high-quality product. An inability to process
+REO that meet individual customer specifications may have a material adverse effect on the Company’s financial
+condition or results of operations.
+
+The Company may not be able to convert the current commercial discussions with OEM-automotive and similar
+REE-product customers into contracts, which will have a material adverse effect on the Company’s financial position
+and results of operations.
+
+Resource and Technical Risks
+
+The Company’s PEA (which was filed on SEDAR+ on March 14, 2013) is preliminary in nature. The PEA includes
+indicated and inferred mineral resources only, which are considered too speculative geologically to have the
+economic considerations applied to them that would enable them to be categorized as mineral reserves. There is
+no certainty that the PEA will be realized. Mineral resources that are not mineral reserves do not have demonstrated
+economic viability.
+
+                                                                                                            30 | P a g e
+Most mineral exploration projects do not result in the discovery or development of commercially or profitably
+mineable ore deposits. No assurance can be given that any particular level of recovery of ore reserves or resources
+will be realized or produced from the Company’s Bokan Project. Estimates of reserves and resources, mineral
+deposits and production costs can also be affected by such factors as: property title and tenement defects;
+environmental permitting; mining regulations and regulatory requirements; first nations rights or entitlements; wildlife
+concerns; weather and environmental factors; unforeseen technical difficulties; unusual or unexpected geological
+formations; work interruptions, strikes and/or protests. Material changes in ore reserves and resources, grades,
+stripping ratios, recovery rates or expected vs. realized selling prices of the underlying commodities may also
+significantly affect the economic viability of any project. Certain of the Company’s mineral properties may be subject
+to defects in title not yet known to the Company resulting the risk of loss of ownership. The Company may incur
+significant costs related to defending the title to the Company’s properties.
+
+Exploration and Acquisition Risks
+
+The Company’s future viability may depend, in part, on its ability to identify and acquire new or additional mineral
+rights and/or business opportunities, and on the ability to finance and develop those opportunities. Mineral
+exploration and development is highly speculative in nature, expensive and is frequently non-productive or
+profitable. Substantial expenditures are required to:
+
+    •    locate and establish ore reserves and resources through drilling and metallurgical and other testing
+         techniques;
+    •    determine metal content and metallurgical recovery processes to extract metal from the ore; and
+    •    permit, construct, renovate and/or expand mining and processing facilities.
+
+In addition, the prices of metals fluctuate widely and are affected by many factors outside of the Company’s control.
+The relative prices of metals and future expectations for such prices have a significant impact on the market
+sentiment for investment in mining and mineral exploration companies.
+
+The mining and mineral processing businesses are subject to extensive and costly environmental requirements;
+current and future laws, regulations and permits impose significant costs, liabilities or obligations or could limit or
+prevent the Company’s ability to develop or operate the Louisiana SMC or the development and operations of the
+Bokan Project. Moreover, environmental legislation and regulation are evolving in a manner that may impose stricter
+standards and enforcement, increased fines and penalties for non-compliance, cessation of operations, more
+stringent environmental assessments, and a heightened degree of responsibility for companies and their officers,
+directors and employees.
+
+Financing and Dilution Risks
+
+The Company does not generate any revenue and does not have sufficient funds to put any of its resource’s interests
+(including the Louisiana SMC) into production from its own financial resources. There is no assurance that a future
+significant financing will be available to the Company, or that it will be available on acceptable terms. If an equity or
+convertible securities financing is undertaken and completed by the Company, the Company’s current stockholders
+will suffer immediate dilution to their equity and voting interests as a result of such a financing.
+
+The Company has no history of paying dividends on its common shares, and the Company does not anticipate
+paying any dividends in the foreseeable future.
+
+Government Funding Risks
+
+There is no assurance that the Company will continue to qualify and receive any additional direct funding from any
+US Government (federal, state or municipal) or any Canadian Government (federal, provincial or municipal). There
+is no assurance that the State of Louisiana will provide any funding related to the Louisiana SMC, as contemplated
+in the Letter of Intent dated October 14, 2022.
+
+Information Technology and Cybersecurity Risks
+
+The Company depends upon information technology systems in the conduct of its business. The Company’s
+information technology systems are at risk to disruption, damage or failure from a variety of sources, including,
+without limitation, computer viruses, security breaches, cyber-attacks, natural disasters and defects in design.
+Cybersecurity incidents, in particular, are evolving and include, but are not limited to, malicious software, attempts
+to gain unauthorized access to data and other electronic security breaches that could lead to disruptions in systems,
+unauthorized release of confidential or otherwise protected information or the corruption of data. Various measures
+have been implemented to manage the Company’s risks related to information technology systems and network
+disruptions. However, given the unpredictability of the timing, nature and scope of information technology
+                                                                                                             31 | P a g e
+disruptions, the Company could potentially be subject to downtimes, operational delays, the compromising of
+confidential or otherwise protected information, destruction or corruption of data, security breaches, other
+manipulation or improper use of our systems and networks or financial losses from remedial actions, any of which
+could have a material adverse effect on our business, operating results and financial condition.
+
+Insurance and General Business Risks
+
+The Company’s business activities are inherently risky and the Company is exposed to business and financial risks
+as well as liability. Many of these risks are non-insurable. For the insurable risks, if the Company is unable to
+maintain adequate insurance, or liabilities exceed the limits of the Company’s insurance policies, the Company may
+be unable to continue operations. Because of the unique difficulties and uncertainties inherent in new mineral
+exploration ventures as well as new scientific and technological business ventures, the Company’s activities face a
+high risk of business failure. Due to the Company’s limited capital, this risk poses a significant threat as compared
+to larger companies in our business sector.
+
+Financial Instrument Risks
+
+The Company’s financial instruments consist of cash, restricted cash, short-term deposits, trade and other
+receivables, lease liabilities, accounts payable and accrued liabilities, and loans payable. Management does not
+believe these financial instruments expose the Company to any significant interest, currency or credit risks arising
+from these financial instruments. The fair market values of these financial instruments approximate their carrying
+values, unless otherwise noted.
+
+Climate Change
+
+Recent increased attention regarding the risks of climate change may result in an increase in the stigmatization of
+the Company’s industry (mineral resource development and mineral extraction/separation technologies). This may
+result in reduced interest or investment participation by capital market participants and the Company, thereby
+making it more difficult for the Company to raise funding on terms that are acceptable to the Company. In addition,
+increased concerns about climate change and any negative sentiments about the Company’s industry and sector
+may adversely affect the timing or ability to receive any required environmental permits that may eventually be
+required prior to the potential Louisiana SMC facility going into production, the Bokan property becoming built into
+an operating mine, and/or influencing IMC’s future expected customers and their ability to build and operate their
+mines and generate feedstock for eventual processing in a potential RapidSX™ separation facility.
+
+Trade Relations and Potential Impact of Tariffs
+
+On March 4, 2025, the United States announced additional tariffs targeting Canadian imports 25% on Canadian
+goods that do not qualify for the Canda-United States-Mexico Agreement (“CUSMA”) rules of origin and 10% on
+certain Canadian “energy and energy resources” from Canada became effective. In response, the Government of
+Canada imposed 25% tariffs on $29.8 billion in certain goods imported from the US and non-CUSMA compliant
+vehicles imported from the US. Subsequently, Canada delayed the implementation of Phase 2 retaliatory tariffs,
+imposed further tariffs on US autos in April 2025, and announced temporary remission measures to support
+Canadian industry. Canada also implemented tariff-rate quotas on certain steel products in June 2025, cancelled
+the Digital Services Tax later that month to advance trade negotiations. In August 2025, Canada removed retaliatory
+tariffs on CUSMA-compliant US goods effective September 1, 2025, while maintaining measures on autos, steel
+and aluminum; related remission processes continue to apply.
+
+The full scope, impact and duration of such measures remain uncertain. Additionally, there is a possibility that the
+trade dispute could escalate further, which may increase costs for Canadian exporters and may substantially impact
+the trade relationship between the US and Canada. Additional measures imposed could include, among others,
+increased tariffs on Canadian automobile exports, restrictions on cross-border supply chains or additional regulatory
+barriers that could impact the Company’s ability to access international markets and conduct business efficiently.
+The impact of the Tariffs on the Company’s business, results of operations and financial condition is unknown and
+may be material and adverse. For example, the Tariffs, as well as any other measures or tariffs that may be imposed
+in the future, may lead to increased costs for raw materials (such as feedstock), components and equipment, and
+could impact existing operations of the Company.
+
+Supply Chain Risk
+
+On January 1, 2024, an Act to enact the Fight Against Forced Labour and Child Labour in Supply Chains Act and
+to amend the Customs Tariff ("Supply Chains Act") came into force in Canada. Starting in May 2024, the Supply
+Chains Act introduced a public reporting requirement that was applied to many governmental institutions and private
+sector businesses, including Ucore. While there are no identified instances of the Company using forced labour or
+                                                                                                         32 | P a g e
+child labour in its supply chain, there is a risk that the Company’s supply chain may have actual or alleged forced
+or child labour. Should such an instance arise, the Company would be required to take measures to address such
+a claim or risk of a claim, including disrupting its supply chain operations in pursuit of such a remedy, which could
+result in operational, financial, business or reputational harm. The recent Tariffs and retaliatory measures between
+Canada and the US may result in additional sanctions or other international actions, any of which may have a
+destabilizing effect on commodity prices and, more broadly, supply chains and global economies.
+
+Disclosure Controls and Procedures and Internal Controls over Financial Reporting
+
+Disclosure controls and procedures (“DC&P”) are intended to provide reasonable assurance that material
+information is gathered and reported to senior management to permit timely decisions regarding public disclosure.
+Internal controls over financial reporting (“ICFR”) are intended to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of consolidated financial statements for external purposes in
+accordance with Canadian generally accepted accounting principles.
+
+TSX Venture Exchange listed companies are not required to provide representations in their annual and interim
+filings relating to the establishment and maintenance of DC&P and ICFR, as defined in Multinational Instrument 52-
+109. In particular, the CEO and CFO certifying officers do not make any representations relating to the establishment
+and maintenance of (a) controls and other procedures designed to provide reasonable assurance that information
+required to be disclosed by the issuer in its annual filings, interim filings or other reports filed or submitted under
+securities legislation is recorded, processed, summarized and reported within the time periods specified in securities
+legislation, and (b) processes to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of consolidated financial statements for external purposes in accordance with the Company’s GAAP.
+
+Other Information
+Additional information regarding the Company is available on SEDAR+ at www.sedarplus.ca and on the Company’s
+website at www.ucore.com.
+
+
+
+
+                                                                                                           33 | P a g e
+                                                   Appendix “A”
+
+                                            Ucore Rare Metals Inc.
+                               Corporate Organizational Chart as at March 18, 2026
+
+
+
+
+                                                Ucore Rare Metals Inc.
+                                                      (Alberta)
+
+
+
+                 100%
+                                                                                                              100%
+                                                               100%                     100%
+
+                                        100%
+Innovation Metals                                  Ucore Resources              Ucore Rare Metals (US) Inc.            Landmark Minerals Inc.
+       Corp.                                           LP Inc.                           (Alaska)                        (British Columbia)
+(British Columbia)                                  (Nova Scotia)
+
+
+
+                          Ucore U.S., Inc.
+                            (Delaware)                                                        100%                                  100%
+                                                                50%
+
+
+                        100%                                                                                         Landmark Minerals US Inc.
+                                                                                 5621 NWT Ltd.
+                                                                             (Northwest Territories)                        (Nevada)
+                                                        50%
+                Ucore North America,
+                         LLC
+                     (Louisiana)                                            50%
+
+
+
+                                                              Mineral Solutions LLC
+                                                                    (Alaska)
+
+
+
+                                                                                      50%
+
+                                                                                                       49.95%
+                                       49.95%                  Rare Earth One LLC
+                                                              (formerly Bokan LLC)
+                                                                    (Alaska)
+
+
+                                                                         0.1%
+
+
+                                                              Landmark Alaska LP
+                                                                   (Alaska)
+
+
+
+
+                                                                                                                     34 | P a g e
+                                               Appendix “B”
+                     Ucore’s Mineral Exploration and Evaluation (“E&E”) Expenditures
+
+For the year ended December 31, 2025
+
+Details of Resource Properties and Related Deferred Costs
+
+                                                                                       Bokan Mountain/
+                                                                                        Dotson Ridge
+Mineral Properties
+      Balance, beginning of the year                                                   $    5,096,231
+      Expenditures during the year                                                                -
+      Translation adjustment                                                                 (151,349)
+      Balance, end of the year                                                              4,944,882
+
+Deferred Exploration expenditures:
+         Environmental and permitting                                                         204,282
+         Consulting and reports                                                                30,000
+                                                                                              234,282
+      Balance, beginning of the year                                                       36,399,279
+                                                                                           36,633,561
+
+      Translation adjustment                                                               (1,067,603)
+      Balance, end of the year                                                             35,565,958
+
+Mineral properties and deferred
+  exploration expenditures, end of the year                                            $   40,510,840
+
+
+
+For the year ended December 31, 2024
+
+Details of Resource Properties and Related Deferred Costs
+
+                                                                                       Bokan Mountain/
+                                                                                        Dotson Ridge
+Mineral Properties
+      Balance, beginning of the year                                                   $    4,839,975
+      Expenditures during the year                                                                -
+      Translation adjustment                                                                  256,256
+      Balance, end of the year                                                              5,096,231
+
+Deferred Exploration expenditures:
+         Environmental and permitting                                                         326,188
+         Consulting and reports                                                                45,277
+                                                                                              371,465
+      Balance, beginning of the year                                                       34,220,220
+                                                                                           34,591,685
+
+      Translation adjustment                                                                1,807,594
+      Balance, end of the year                                                             36,399,279
+
+Mineral properties and deferred
+  exploration expenditures, end of the year                                            $   41,495,510
+
+
+
+
+                                                                                           35 | P a g e

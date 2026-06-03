@@ -1,0 +1,1323 @@
+rare earth elements. These are essential    from the Ministry of Power, Department of Atomic
+for the advancement of many sectors, including high-      Energy, Ministry of New and Renewable Energy,
+tech electronics, telecommunications, transport,          Department of Fertilizers, Department of Science
+and defence. They are also vital to power the global      and Technology, Department of Pharmaceuticals,
+transition to a low carbon emissions economy, and the     and NITI Aayog for sharing the list of minerals which
+renewable energy technologies that will be required       are critical to their respective sectors. Thus, a list of
+to meet the ‘Net Zero’ commitments of an increasing       minerals critical for different sectors, based on inter-
+number of countries around the world. Hence, it has       ministerial consultation was arrived at.
+become imperative to identify and develop value
+chains for the minerals which are critical to our         The third stage assessment was to derive an empirical
+country.                                                  formula for identifying the list of critical minerals. In
+                                                          order to derive the criticality index, a meeting was held
+The Ministry of Mines accordingly constituted a           with International Energy Agency (IEA). The Ministry
+seven-member Committee under the chairmanship of          of Mines also had a series of deliberations with CSEP,
+Joint Secretary (Policy), Ministry of Mines vide order    who have adopted the EU methodology to arrive at a list
+No. 11/1/2022-IC dated 01.11.2022 to identify the         of critical minerals. The EU methodology, considers
+list of minerals critical to our country. The Committee   two major factors - economic importance and supply
+had a series of deliberations amongst the members         risk. The formula covered crucial parameters such as
+and decided to have a three-stage assessment to           disruption potential, substitutability, cross cutting
+arrive at a list of critical minerals.                    usages across different sectors, import reliance,
+                                                          recycling rates etc. However, it was observed that
+The first stage of assessment was to study the critical   minerals like limestone, iron ore and bauxite also
+minerals strategies of various countries to determine     came out as critical as per the factors considered
+the parameters for assessing criticality and come up      in the formula used by CSEP. The Committee is of
+with a set of minerals for identification as critical     the view that a detailed statistical exercise needs
+minerals. Accordingly, a total of 69 elements /           to be carried out for precise computation of various
+minerals that were considered critical by major global    factors such as substitutability index, minerals
+economies such as Australia, USA, Canada, UK,             cross-cutting index, import reliance etc. Hence if
+Japan and South Korea were considered for study.          felt necessary, a separate sub-committee may be
+Due importance was given to domestic initiatives          constituted by Ministry of Mines to exclusively work
+also. The key studies carried out in this aspect are      out the formula to develop the criticality index. In
+by Centre for Social and Economic Progress (CSEP)-        the present exercise, the Committee has compared
+a not-for-profit, public policy think tank and Council    the list of critical minerals derived by CSEP (based
+on Energy, Environment and Water (CEEW)- an               on EU methodology) with its own set of minerals
+independent, non-partisan, not-for-profit policy          derived after going through the two-stage assessment
+research institution.                                     process mentioned above. Accordingly, the elements/
+In the second stage of assessment, an inter-              minerals with high Economic Importance, high
+ministerial consultation was carried out to identify      Supply Risk, and both parameters high were selected
+                                                          as critical by the Committee.
+Based on the three-stage assessment process               Strontium, Tantalum, Tellurium, Tin, Titanium,
+mentioned above and also considering important            Tungsten, Vanadium, Zirconium, Selenium and
+parameters such as resource/ reserve position in          Cadmium.
+the country, production, import dependency, use
+for future technology/ clean energy, requirement          The Committee also recommends creation of a
+of fertilizer minerals in an agrarian economy, the        Centre of Excellence for Critical Minerals (CECM)
+Committee has identified a set of 30 critical minerals.   in the Ministry of Mines. The Centre of Excellence
+These are Antimony, Beryllium, Bismuth, Cobalt,           will periodically update the list of critical minerals
+Copper, Gallium, Germanium, Graphite, Hafnium,            for India and notify the critical mineral strategy from
+Indium, Lithium, Molybdenum, Niobium, Nickel,             time to time and will execute a range of functions
+PGE, Phosphorous, Potash, REE, Rhenium, Silicon,          for the development of an effective value chain of
+                                                          critical minerals in the country.
+Critical minerals are the foundation on which              The evolving geo-political situation presents
+modern technology is built. From solar panels to           an opportunity for India to benefit from the
+semiconductors, wind turbines to advanced batteries        diversification of global supply chains. The last few
+for storage and transportation, the world needs critical   years have exposed multinational firms and countries
+minerals to build these products. Simply put, there is     to unprecedented risks due to global trade tensions,
+no energy transition without critical minerals, which      pandemic-induced supply chain disruptions, and the
+is why their supply chain resilience has become an         conflict in Europe. Firms were exposed to the risk
+increasing priority for major economies. India’s future    of concentrating their production in a single country.
+economic prosperity will depend on how well we can         Therefore, given the global policy uncertainty,
+use our vast energy and mineral resources to play to       multinational firms are gradually exploring strategies
+our strengths, and how well we can adapt to follow         to diversify their production bases and supply
+the global market shift towards zero emissions.            chains. The United Nations Conference on Trade
+                                                           and Development (UNCTAD), in one of its reports,
+The Indian economy has undergone a transformative          mentions that ‘reshoring, diversification, and
+process of New Age reforms in the last decade.             regionalization will drive the restructuring of global
+These diverse policies converge toward improving           value chains in the coming years’. With enabling
+the economy’s overall efficiency and realizing its         policy frameworks, India presents itself as a credible
+growth potential. The use of technology, in particular     destination for capital diversifying out of other
+digital technology, underpins the reforms. The future      countries.
+global economy will be powered by technologies that
+depend on minerals such as lithium, graphite, cobalt,      To build competitive value chains in India, the
+titanium and rare earth elements. These are essential      discovery of mineral wealth and identifying areas
+for the advancement of many sectors, including high-       of its potential by use of advanced technologies is
+tech electronics, telecommunications, transport,           essential. Identification of critical minerals will help
+and defence. They are also vital to power the global       the country to plan for the acquisition and preservation
+transition to a low-emission economy, and the              of such mineral assets taking into account the long-
+renewable energy technologies that will be required        term need of the country. This will also in turn reduce
+to meet the ‘Net Zero’ commitments of an increasing        the import dependency as India is 100% import
+number of countries around the world.                      dependent for certain elements (Table.1).
+Sl. No. Critical Mineral      Percentage (2020) Major Import Sources (2020)
+
+1.       Lithium              100%                 Chile, Russia, China, Ireland, Belgium
+
+2.       Cobalt               100%                 China, Belgium, Netherlands, US, Japan
+
+3.       Nickel               100%                 Sweden, China, Indonesia, Japan, Philippines
+
+4.       Vanadium             100%                 Kuwait, Germany, South Africa, Brazil, Thailand
+
+5.       Niobium              100%                 Brazil, Australia, Canada, South Africa, Indonesia
+
+6.       Germanium            100%                 China, South Africa, Australia, France, US
+
+7.       Rhenium              100%                 Russia, UK, Netherlands, South Africa, China
+
+8.       Beryllium            100%                 Russia, UK, Netherlands, South Africa, China
+
+9.       Tantalum             100%                 Australia, Indonesia, South Africa, Malaysia, US
+
+10.      Strontium            100%                 China, US, Russia, Estonia, Slovenia
+
+11.      Zirconium(zircon)    80%                  Australia, Indonesia, South Africa, Malaysia, US
+
+12.      Graphite(natural)    60%                  China, Madagascar, Mozambique, Vietnam, Tanzania
+
+13.      Manganese            50%                  South Africa, Gabon, Australia, Brazil, China
+
+14.      Chromium             2.5%                 South Africa, Mozambique, Oman, Switzerland, Turkey
+
+15.      Silicon              <1%                  China, Malaysia, Norway, Bhutan, Netherlands
+
+
+
+Table.1 The net import reliance for critical minerals of India (2020) (Source: A report on ‘Unlocking Australia-
+India Critical Minerals Partnership Potential’ by Australian Trade and Investment Commission, July 2021)
+2.1 The Ministry of Mines vide order No. 11/1/2022-IC dated 01.11.2022 constituted a Committee for the
+identification of critical and strategic minerals (Annexure I). The composition of this Committee is as follows:
+
+    Dr. Veena Kumari Dermal                     Shri Pradeep Singh                  Shri Pankaj Kulshrestha
+           Chairperson                                Member                               Member
+
+    Joint Secretary, M/o Mines            Director (Technical), M/o Mines                 CCOM, IBM
+
+
+     Shri Hemraj Suryavanshi                     Shri D. V. Ganvir                   Shri Kundan Kumar2
+            Member                                   Member                                Member
+
+          Adviser, KABIL                             DDG, GSI                         Adviser, NITI Aayog
+
+
+       Shri Dheeraj Kumar1               Subsequently, 1Shri Alok Kumar, Deputy Secretary was nominated as
+        Member-Secretary                 Member Secretary of the above Committee. 2Shri R. Saravanabhavan,
+   Deputy Secretary, M/o Mines           Deputy Adviser (Minerals) was nominated as a Member of the Committee
+                                         by NITI Aayog.
+
+
+Ministry of Mines vide email dated 20.11.2022               A presentation was made by Centre for Social and
+requested three institutes namely IIT Bombay, IIT           Economic Progress (CSEP) on their study conducted
+Kanpur and Indian Institute of Science to nominate          for 49 non-fuel minerals including rare-earth for
+an officer to provide academic inputs on the matter.        computing the criticality in India. It emerged that
+In reply, IIT Bombay vide email dated 21.11.2022            categorization of critical mineral depends upon a
+nominated Prof. Santanu Banerjee from Department            number of factors such as availability, monopoly
+of Earth Sciences, IIT Bombay.                              on resources, use for frontier technologies/ clean
+                                                            energy, substitutability, supply risk, recycling etc.
+The Committee had a series of deliberations under           The members were of the view that the studies
+the chairmanship of Dr. Veena Kumari Dermal, Joint          carried out worldwide on the subject provide a good
+Secretary, M/o Mines. The first meeting being held          basis for the Committee to work upon. However, the
+on 18.11.2022. In the meeting, the country-wise             local techno-economic factors of the Indian mineral
+methodology to assess and determine the criticality         sector have to be taken into consideration while
+of minerals was discussed. It came up during the            assessing the criticality of the minerals for India.
+discussion that many of the minerals are common in          It was decided that in the first instance, the list of
+the list of critical minerals for major global economies    minerals critical to major mineral economies of the
+like USA, Australia, Japan, UK etc. It was decided          world and other countries like Japan and South Korea
+to study the critical minerals strategies of various        which are processing/ manufacturing hubs and the
+countries to determine the parameters for assessing         critical minerals identified by Indian organizations
+the criticality and come up with a methodology for          like DST-CEEW and CSEP in their recent studies will
+identifying critical minerals. It was also suggested        be examined based on which, a list of the minerals
+to identify and explore the possibility to include          critical for India will be prepared. Accordingly, the
+minerals from other sectors like fertilizer minerals in     Committee has gone through the critical minerals list
+the list.                                                   of various countries and made a comparative study.
+The second meeting of the Committee was held on             An inter-ministerial consultation was held with
+12.12.2022. Prof. Santanu Banerjee from IIT (B)             different Ministries in the third meeting held on
+was included in this meeting for academic inputs.
+27.12.2022. For this meeting, different ministries         critical minerals for different sectors, based on inter-
+viz. Ministry of Power, Department of Atomic Energy        ministerial consultation. This is discussed separately
+(DAE), Ministry of New and Renewable Energy (MNRE),        in para 8.II of this report.
+Ministry of Chemical & Fertilizers (Department of
+Fertilizers), Department of Science and Technology         Meetings were also held with International Energy
+(DST), Ministry of Heavy Industries, Ministry of           Agency (IEA) and Centre for Social and Economic
+Defence, Department for Promotion of Industry &            Progress (CSEP) to work out an empirical formula.
+Internal Trade (DPIIT) and Ministry of Electronics &       CSEP has adopted the empirical formula based on
+Information Technology (MEiTY) were invited. The           EU methodology and arrived at a certain set of critical
+meeting was attended by representatives from Ministry      minerals. It was observed by the Committee that the
+of Power (Central Electricity Authority), Department of    formula adopted by CSEP has led to the inclusion of
+Atomic Energy (DAE), IREL (India) Limited, Ministry        certain set of minerals such as Limestone, Bauxite,
+of New and Renewable Energy (MNRE), Ministry of            Iron Ore etc. as critical minerals. The Committee was
+Chemicals & Fertilizers (Department of Fertilizers)        of the opinion that the CSEP list of critical minerals
+and Ministry of Electronics & Information Technology       may be compared with the list prepared by the
+(MEiTY). Based on the deliberations of the meeting,        Committee to arrive at the final set of minerals taking
+comments and suggestions were provided by Ministry         into consideration important parameters such as
+of Power, Department of Atomic Energy, Ministry of         resource/ reserve position in the country, production,
+New and Renewable Energy, Department of Fertilizers,       import dependency etc.
+Department of Science and Technology, Department           Therefore, based on different assessments, the
+of Pharmaceuticals and NITI Aayog sharing the list of      Committee has identified a set of 30 critical minerals
+minerals which are critical to their respective sectors.   which are detailed in the later part of this report.
+An exercise has been carried out to compile the list of
+One of the cited definitions suggests that a mineral is    analysis. The European Union (EU) also carried out
+labelled as critical when the risk of supply shortage      a similar exercise and categorized critical minerals
+and associated impact on the economy is (relatively)       along two dimensions viz. supply risk and economic
+higher than the other raw materials. The risk of supply    importance. Australia refers to critical minerals as:
+shortage would ideally capture import dependence,          “metals, non-metals and minerals that are considered
+recycling potential, and substitutability of the mineral   vital for the economic well-being of the world’s major
+in question. In addition, technical difficulties in        and emerging economies, yet whose supply may
+mineral extraction and the concomitant social and          be at risk due to geological scarcity, geopolitical
+environmental impacts could amplify the supply risk        issues, trade policy or other factors”. Hence, an
+in a manner that would be difficult to quantify. This      ideal definition of Critical Minerals may be stated as
+definition of a critical mineral was adopted in the US     follows: -
+and the subsequent legislation that resulted from the
+
+
+
+
+    Critical minerals are
+    those minerals which are
+    essential for economic
+    development and
+    national security, the
+    lack of availability of
+    these minerals or even
+    concentration of existence,
+    extraction or processing
+    of these minerals in few
+    geographical locations
+    may lead to supply chain
+    vulnerability and disruption
+   The United States of America (USA) adopted a two-stage screening methodology to arrive at the list of
+   critical minerals. The early warning screening tool (Stage I) assesses a mineral’s potential criticality using
+   three fundamental indicators: Supply Risk, Production Growth, and Market Dynamics. The indicators use
+   data published annually by USGS, as well as other sources. This is followed by an in-Depth Supply Chain
+   Analyses (Stage II) and Productive Inter-Agency collaboration wherein detailed analysis of the underlying
+   factors have been carried out that resulted in the subset of minerals identified as potentially critical by Stage
+   I of the screening tool.
+
+
+
+
+        Stage 1: Early Warning Screening                               Stage Il: In-Depth Analysis
+
+               New data, updated annually                               Additional data, as needed
+
+
+
+
+                                                                   Critical minerals
+                               Potentially
+                                critical                                                             Criticality
+                                minerals                              Watch list                       report
+
+
+    Non-fuel                                                                                          Material
+    minerals                                                                                            flow
+                                                                                                      analyses
+
+                                All other                              All other                      Special
+                                minerals                               minerals                       projects
+
+
+
+
+                                                               Feedback from various stakeholders
+
+                                                                  and findings of special projects
+
+
+
+
+The United States Geological Survey has released a list of 50 mineral commodities critical to
+the U.S. economy in the year 2022.
+The criticality to the UK economy were determined in terms of their global supply risk (S) and the economic
+vulnerability (V) to such a disruption. Three indicators were used to estimate S for each CM: production
+concentration, companion metal fraction and recycling rate. V was calculated from six indicators: production
+evolution, price volatility, substitutability, global trade concentration, UK import reliance and UK gross
+value-added contribution. A total of 18 minerals were identified as critical to the UK Economy.
+
+
+
+
+The European Commission has been issuing a list of critical raw minerals since 2011 which is updated
+every three years. The most recent list of critical minerals was published in 2023. The main parameters
+used to determine the criticality of the mineral for the EU are Economic importance - in terms of end-use
+applications and the value added (VA) of corresponding EU manufacturing sectors. Supply risk is the other
+parameter and is determined based on the EU import reliance (IR), the global suppliers and the countries
+from which the EU is sourcing the raw materials. Substitution and recycling were also considered as risk-
+reducing measures. A total of 34 raw materials are identified as Critical Raw Materials for 2023.
+
+
+
+
+Japan’s first list of critical minerals was prepared by the Advisory Committee on Mining Industry in 1984,
+under the direction of the Ministry of International Trade and Industry (the predecessor of the current METI).
+The list appears to have stayed constant in the subsequent decades. In March 2020, Japan released its
+latest perspective on how to secure its supply chains for critical minerals and materials as part of the New
+International Resource Strategy. The strategy underscored the growing importance of critical minerals for
+EVs and renewable power generation equipment in the context of the carbon emissions mitigation effort. In
+formulating the strategy, policymakers took into account critical minerals identified by global economies like
+United States and Europe. Japan has identified a set of 31 minerals as critical for their economy.
+
+
+
+
+In 2019, the Australian Government released its inaugural Critical Minerals List and associated national
+strategy. A list of 24 critical minerals was first identified in 2019. Two more elements were added in the
+latest critical mineral strategy released by Australia in 2022, thereby defining a set of 26 minerals as critical
+for Australia. Comparative studies were also made with critical minerals list of USA, EU, Japan and India.
+An early initiative in this direction came from the       Further, Ministry of Mines constituted a steering
+Planning Commission of India report (now NITI             Committee in 2011 to review the status of the
+Aayog) in 2011 which highlighted the need for the         availability of REEs and energy-critical elements,
+assured availability of mineral resources for the         and to investigate the development or adoption
+country’s industrial growth, with a clear focus on the    of exploration, extraction, and mineral processing
+well-planned exploration and management of already        technology for a predetermined list of critical
+discovered resources. The report analyzed 11 groups       (deemed-to-be-critical) minerals. Their study
+of minerals under categories such as metallic, non-       titled “Rare Earths and Energy Critical Minerals: A
+metallic, precious stones and metals, and strategic       Roadmap and Strategy for India” (CSTEP & C-Tempo,
+minerals. A separate group outlining 12 minerals          2012) reviewed India’s production, consumption,
+and metals as strategic minerals included tin, cobalt,    and reserves and suggested policy initiatives.
+lithium, germanium, gallium, indium, niobium,             The supply chain for minerals broadly consists of
+beryllium, tantalum, tungsten, bismuth, and               exploration, mining, processing, and manufacturing.
+selenium. The recommendations indicate the need for       The study also suggested that initiatives be taken in
+expedited exploration, overseas mineral acquisition,      refining, metal / alloy production, and manufacturing
+resource efficiency, recycling of minerals, and finding   components for end-use.
+substitutes through suitable R&D. It also noted the
+great need for an understanding of the economics          A study conducted by the Council on Energy,
+associated with a mineral, in terms of its end-use        Environment and Water (CEEW)-an independent,
+consumption and the quantification of supply risks        non-partisan, not-for-profit policy research institution
+associated with individual minerals.                      (Gupta, Biswas, & Ganesan, 2016), with support
+from the Department of Science and Technology              critical minerals for India. The CSEP adopted EU
+(DST) highlighted the paucity of research in India         methodology to arrive at the set of critical minerals.
+related to ensuring mineral resource security for          The discussion note-6 on “Assessing the Criticality
+the manufacturing sector. A pioneering attempt at          of Non-fuel Minerals in India” (September 2021)
+computing a criticality index for 49 non-fuel minerals,    assesses the criticality of 11 minerals viz. lithium,
+including rare earth minerals was taken up. The            niobium, strontium, light rare-earths (cerium),
+study identified 13 minerals that would become most        copper, heavy rare-earths (yttrium and scandium),
+critical by 2030, of which six were critical even in       silicon, chromium, cobalt, iron ore and limestone.
+the reference year 2011: Rhenium, Beryllium, Rare          This was followed by CSEP Working Paper on – Critical
+Earths (Heavy), Germanium, Graphite, Tantalum,             Minerals for India: Assessing their Criticality and
+Zirconium, Chromium, Limestone, Niobium, Rare              Projecting their Needs for Green Technologies: Policy
+Earths (light), Silicon and Strontium.                     Brief in October 2022 which assessed the criticality
+                                                           level of 23 select minerals for India’s manufacturing
+From 2017-2020, major thrust was given on the              sector and projects their needs for green technologies
+study of exploration and development of Rare Earth         needed for climate change mitigation.
+Elements in the country. The Geological Survey of
+India (GSI) and Atomic Mineral Division (AMD) jointly      Recently, CSEP has released a working paper-49 on
+submitted a report on Potential Rare Earth Element         “Assessing the Criticality of Minerals in India” (2023)
+Deposits of India (May 2017) to NITI Aayog, New            evaluating the criticality of 43 non-fuel minerals in
+Delhi. A strategic plan for enhancing REE Exploration      India based on two dimensions: economic importance
+in India was jointly submitted by GSI and AMD in           for the Indian economy and supply risks. The study
+November 2020. Similarly, the working Paper No: 97         uses the EU methodology (European Commission,
+by India Exim Bank, September 2020 emphasized              2017) with some modifications.
+on securing Rare Earth Elements for India.
+                                                           This report has considered the set of critical minerals
+The Centre for Socio and Economic Progress (CSEP)-         derived after using the EU methodology of CSEP.
+a not for profit, public policy think tank that works on   These minerals have been further analysed as per the
+economic growth & development, energy, resources           resource and reserve position in the country to arrive
+& sustainability and foreign policy & security,            at a final set of critical minerals.
+has worked extensively in identifying the list of
+As stated earlier, each country has its own              Economic Importance (EI) looks in detail at the
+classification of raw materials or critical minerals     allocation of raw materials to end-uses based on
+depending on levels of economic development,             industrial applications, and measures the impact on
+industry requirements, national interests and            that sector when minerals become unavailable in the
+security concerns, technology, market changes and        supply chain. Supply Risk (SR) looks at the country-
+natural resource endowment. While the methodology        level concentration of global production of primary
+in particular for criticality assessment varies across   raw materials and sourcing, the governance of
+studies, the underlying rationale remains similar. For   supplier countries, including environmental aspects,
+most of the countries the criticality is judged by two   the contribution of recycling (i.e., secondary raw
+main parameters, economic importance and supply          materials), substitution, import reliance and trade
+risk. In Indian context also, the same two parameters    restrictions in third countries.
+were taken into consideration.
+
+
+
+
+               Economic                      Supply                  Criticality of
+              Importance
+                                      +       Risk                     Minerals
+
+
+
+
+                  Economic Importance                                   Supply Risk
+
+
+                       Disruption                               Governance-Weighted Mineral
+                       Potential                                       Concentration
+
+                     Substitutability                               End-of-life Recycling
+                       Index (El)                                     Rates (EOL-RR)
+
+                     GVA Multiplier                            Import Reliance (IR) and Self-
+                         Score                                        Sufficiency (SS)
+
+                      Cross-Cutting                                    Substitutability
+                       Index (CCI)                                       Index (SR)
+In order to identify the minerals critical and strategic in different sectors, a meeting with representatives of
+different Ministries / Departments was held on 27.12.2022 at Ministry of Mines, New Delhi. The meeting
+was attended by representatives from various Ministries / Departments such as Ministry of Power, Ministry
+of Electronics, Information and Technology, Ministry of Chemicals and Fertilizers and Department of Atomic
+Energy. After the meeting, a tentative list of critical minerals, based on the exercise made above was shared
+with different ministries. Comments and suggestions were obtained from Ministry of Power, Department of
+Atomic Energy, Ministry of New and Renewable Energy, Department of Fertilizers, Department of Science and
+Technology, Department of Pharmaceuticals and NITI Aayog. A compiled and brief statement on the comments
+of the Ministries along with response of the expert Committee is tabulated below:
+
+
+
+
+S .
+    Comments Received from Ministry / Departments                 Response
+No
+1.     Department of Atomic Energy (IREL)                         1. As the Ministry of Mines has included
+                                                                     all REEs in the list of critical minerals,
+       The following minerals are identified as critical based on    it will cover all types of ores of REE
+       their role in nuclear and defence applications:               including Monazite.
+       1. Titanium minerals                                       2. In Global Economies like USA, Australia
+                                                                     and Canada, the value chain for
+       2. Zircon
+                                                                     processing and beneficiation of REE
+       3. Monazite (source of Rare Earths)                           is much better developed. As a result,
+       4. Rare Earths which include:                                 such countries segregate and select
+                                                                     fewer REE elements from the total
+           1. Neodymium                                              17 REE elements as per their present
+           2. Praseodymium                                           criticality. In India, the value chain of
+                                                                     REE is yet to be fully developed. Hence,
+           3. Dysprosium
+                                                                     in the first instance, all the REEs are
+           4. Europium                                               considered to be critical.
+           5. Yttrium
+           6. Terbium
+2.     Ministry of Power                                          1. Lithium, Nickel, Silicon, Cobalt,
+       (Central Electricity Authority)                               Phosphate, Natural Graphite, Copper,
+                                                                     PGE, REE have been included in the
+       List of Critical Materials / Minerals in Power Sector:        initial list prepared by Ministry of Mines
+       1. Lithium                                                 2. India has sufficient resources of Zinc,
+                                                                     Manganese, Bauxite and Limestone.
+       2. Nickel
+                                                                  3. The Committee agreed          to   include
+       3. Silicon
+                                                                     Cadmium in the list.
+S .
+    Comments Received from Ministry / Departments                Response
+No
+2.   4. Cobalt
+     5. Manganese
+     6. Phosphate
+     7. Natural Graphite
+     8. Copper
+     9. Bauxite
+     10. Zinc
+     11. Cadmium
+     12. Platinum Group of Elements (PGE)
+     13. Rare Earth Elements (REE)
+     14. Limestone
+3.   Ministry of Chemicals & Fertilizers (Department Agreed
+     of Fertilizers)
+                                                              Rock Phosphate and Potash are included in
+     Two fertilizer minerals have been identified as critical the initial list prepared by Ministry of Mines.
+     minerals:
+
+     1. Rock Phosphate
+     2. Potash
+4.   Department of Science & Technology (DST)                    1. The list of critical minerals will be
+                                                                    revised periodically, as per global
+     The identified minerals are very critical and strategic and    practices.
+     essentially required for the defence, mobility, energy,
+     space program and other sectors. The specific comments 2. Supply chain strategy will be elaborated
+     are:                                                           in the Critical Minerals Policy which is
+                                                                    being formulated by Ministry of Mines.
+     1. The list of critical minerals should be revised every
+          three years as technology is changing fast and what is 3. Neodymium and Gadolinium are part
+          not critical mineral today may be critical tomorrow.      of Rare Earth Elements, which are
+                                                                    included in the list of Critical Minerals
+     2. There must be a clear supply chain strategy as they         identified by Ministry of Mines.
+          are mostly imported and prone to supply chain
+          disruption.
+     3. Neodymium and Gadolinium are not included in
+        most critical minerals, first is essential for magnets
+        and required for renewable energy and electronic
+        equipments, second is required for MRI, X-Ray and
+        other medical techniques.
+S .
+    Comments Received from Ministry / Departments                 Response
+No
+4.   4. Availability of primary resources for critical minerals 4 & 5. These suggestions will be part of
+        are being looked after the Ministry of Mines and other     Critical Mineral Policy.
+        bodies. However, varieties of secondary materials are
+                                                                6. (1 & 2) Graphene and Fullerene are
+        available which are potential resource, e.g. urban
+                                                                   allotropes of Carbon. Graphene occurs
+        ores (e-waste, batteries), fly ash, red mud, tailings,
+        etc. There is urgent need to map all the secondary         as sheets of carbon while fullerene
+        resources as source of critical minerals.                  occurs as spheres of carbon. Both can
+                                                                   be obtained from Natural Graphite
+     5. Lot of R&D work has been done at various CSIR and          which is included in the list of minerals
+        other research institutes and many proof of concept        identified as critical by Ministry of
+        and process has been developed for extraction              Mines.
+        of strategic and critical metals. All these can be
+        compiled. A threefold approach may be adopted (a)          (3) Scheelite is an ore of Tungsten(W).
+        technology which has been developed at pilot scale,        Tungsten is included in the list of
+        efforts should be made to transfer it to industry,         minerals identified as critical by the
+        (b) process which has developed at lab scale, but          Ministry of Mines.
+        has potential of upscaling, should be up-scaled in
+                                                                   (4 & 5) REE and PGE are already
+        partnership with industry, and (c) processes which
+                                                                   included in the initial list by Ministry of
+        are not available but needed by the country, should
+                                                                   Mines
+        be developed.
+     6. The following minerals may also be incorporated if
+        not already done.
+         1. Graphene
+         2. Fullerene
+         3. Scheelite
+         4. Rare Earth Elements
+         •     from different sources      like   Carbonatites,
+               Tuffs, Cherts etc.
+         •     from beach sands.
+         5. Platinum     group    of         elements      like
+            Platinum and Palladium etc.
+5.   Ministry of New and Renewable Energy (MNRE) 1. Silicon is included in the list of critical
+                                                                      minerals.
+     Ministry of Mines to consider including:
+                                                                  2, 3 & 4. PGE is included in the list of
+     1. Quartz                                                       critical minerals.
+     2. Platinum                                                  5, 6, 7, 8. India has sufficient resources of
+                                                                      Manganese, Lead, Zinc, Bauxite.
+     3. Palladium
+     4. Iridium
+     5. Manganese
+     6. Lead
+     7. Zinc
+     8. Aluminium
+S .
+    Comments Received from Ministry / Departments                 Response
+No
+5.   9. Cadmium                                                   9. Cadmium is included in the list of
+                                                                     critical minerals
+     10. Lanthanum
+                                                                  10, 12. REE is included in the list of critical
+     11. Silver
+                                                                      minerals
+     12. Yttrium
+                                                                  11. Not critical presently.
+6.   Department of Pharmaceuticals                                 Elements      like     Copper,     Potassium,
+                                                                   Molybdenum,         Cobalt,     Phosphorous,
+     The list of minerals critical to Pharma sector is as follows: Titanium were already included in the list.
+                                                                   Rest of the elements/ minerals, as suggested
+     Pharmaceuticals
+                                                                   by the Department of Pharmaceuticals
+     Metallic Minerals:                                            do not possess any risk of supply chain
+     1. Copper                                                     disruption. The other elements/ minerals
+                                                                   may be considered once the list is updated
+     2. Sodium                                                     after three years, if the need arises.
+     3. Calcium
+     4. Potassium
+     5. Chromium
+     6. Magnesium
+     7. Molybdenum
+     8. Cobalt
+     Other Minerals:
+     1. Oxides (rutiles, zincite,        periclase,   hematite,
+        maghetite, magnetite)
+     2. Phosphates
+     3. Hydroxides (goelithe)
+     4. Carbonates (calcite, magnesite)
+     5. Sulfates (gypsum, anhydrite)
+     6. Chlorides (halite, sylvite)
+     7. Phyllosilicates (clay minerals like talc and kaolinite
+        etc.)
+     Medical Devices
+     1. Zinc Oxide IP Grade – 99.90% (Lead Free) 5 to 10
+        Tons/ Year
+     2. Titanium Dioxide- USP Grade 3-5 Tons/ Year
+     3. Aluminium Foil as Pouches etc. 20-30 Tons/ Year
+     4. Special Alloy Steel for Dyes- Like HCHCr.- 1 Ton/ Year
+S .
+    Comments Received from Ministry / Departments                   Response
+No
+7.   NITI Aayog                                                     (i)   Analysis done by NITI Aayog has been
+                                                                          included as a part of the report.
+     (i)    The report on the whole has discussed for 69 minerals
+            and finally arrived that 29 minerals are critical for
+            India. (Page Nos’.62 to 66) The current position
+            of the 29 critical and strategic minerals provided
+            in Table No.2 (vide Page Nos’.62 to 66 read with
+            Page No.76) has been listed out in a generalized
+            manner without taking into account the availability
+            of these minerals within the country and manner in
+            which the mineral resources can be developed and
+            established. The detailed analysis of the same has
+            been carried out and enclosed as Annexure.
+     (ii)   Data from Ministry of Commerce and Industries (ii)            The inter-ministerial consultation was
+            needs to be collected and correlated to know the              done for finalizing the list of critical
+            exact import of all the 29 minerals discussed above,          minerals. However, the import data for
+            based on which the actual imports coming into the             these minerals will also be collected
+            country along with grade can be ascertained.                  and correlated to know the exact
+                                                                          import of these mineral commodities
+                                                                          in the country.
+     (iii) Based on the data obtained the critical minerals (iii) & (iv) The demand for critical minerals
+           which needs to be perceived through the import route    in the downstream industries, details
+           can be easily identified along with the geography       of import routes, and geographies
+           from which it has to be imported.                       from which critical minerals have to
+     (iv) The demand in the downstream industries of all the       be imported shall be elaborated in the
+           29 minerals discussed above needs to be further         “Critical Mineral Strategy / Policy for
+           accessed, based on which serious thoughts for           India” which is being formulated by
+           importing can be discussed.                             the Ministry of Mines.
+     (v)    Lithium which is crucial for the EV sector has to (v)         Noted.
+            be acquired from Argentina, Bolivia, Chile and
+            Australia due to their widespread occurrences in
+            these countries. However, the private companies
+            including the PSUs have already entered into a
+            business agreement with international lithium
+            producing companies for their unhindered supply.
+            In this condition, the exact requirement of lithium
+            for the EV sector needs to be established for better
+            understanding.
+     (vi) Out of the 29 minerals discussed, Indian has the (vi) The scaling up production of the
+          potential and the technology to produce or to scale   critical minerals is being taken up
+          up the production of at least 10 critical minerals.   through various policy measures like
+          The technical and administrative issues hampering     allowing private sector participation
+          the production of these critical minerals needs to    in mineral exploration, introduction
+          be taken up with the concerned private and public     of incentive schemes for exploration
+          sector companies.                                     of deep seated and critical mineral
+                                                                commodities etc.
+S .
+    Comments Received from Ministry / Departments                   Response
+No
+7.     (vii) Hindustan Copper Limited (HCL) which is a part (vii) Will be taken up with HCL.
+             and parcel of the KABIL Joint Venture has four
+             major copper production units along with significant
+             amount of reserves / resources. Majority of the 23
+             critical minerals occur with copper as an associated
+             mineral or in the processing of the copper
+             concentrate by the copper producing companies. A
+             detailed plan has to be kick started with Hindustan
+             Copper Limited (HCL), Vedanta and Hindalco for
+             utilizing these critical minerals which may be of
+             greater importance.
+       (viii) Indian Rare Earths Limited (IREL), Gujarat Mineral (viii) The inter-ministerial and stake holders
+              Development Corporation (GMDC), Chhattisgarh              consultation is being carried out for
+              Mineral Development Corporation (CMDC) and                finalising the Critical Minerals Policy.
+              Kerala Minerals and Metals Limited (KMML) along
+              with Atomic Minerals Directorate (AMD) has to be
+              involved in the discussion process of the critical
+              minerals which may be of immense value in
+              evaluating the critical minerals.
+       (ix) Further in order to meet the technical financial (ix) The Notified Exploration agencies
+            implications in exploring the critical minerals, it is  including      National     Mineral
+            suggested to rope in NMDC for taking up exploration     Development Corporation (NMDC)
+            of certain critical minerals as it is an extremely cash can take up exploration of mineral
+            rich PSU.                                               commodities      including  critical
+                                                                    minerals through NMET funding.
+       (x)   Since the occurrences and utilizations of the listed (x)    All these aspects will be part of the
+             29 minerals are varied, it is suggested not to have         Critical Mineral Policy.
+             the approach of “One size fits all” and to revisit the
+             minerals according to their occurrences, resources
+             availability, possibility of in-house production,
+             requirements within the country, economies of scale
+             involved in production vs. Indian demand, etc.
+             before arriving at a conclusion.
+       (xi) Finally, it is to submit that the demand for these 29 (xi) This Committee proposes to revisit the
+            minerals should be based on an estimation of future        list of critical minerals at an interval of
+            demand for the next 25 years in order to have a            3 years as per the current international
+            futuristic perspective.                                    practice.
+
+
+
+
+Subsequent to the exercise carried out in para 8.I of this report, a total of 38 minerals came out as most to
+moderately critical for almost all the major economies of the world as well as in India. These 38 elements were
+compared with the suggestions received from different ministries and is provided in Table 4 below. It has been
+observed that elements like PGE, REE, Graphite, Phosphorous, Potash, Silicon, Cadmium etc. were found to
+be most critical for the country. The major critical minerals which came out of this exercise are highlighted in
+color in Table 4.
+                                                      Comments received from Ministries
+
+    List           Ministry of
+                                                                             Ministry     Ministry of
+Sl. prepared by    Chemicals
+                                    Department           Department of       of Power      New and
+No. Ministry of   & Fertilizers                                                                             Dept. of
+                                    of Science &         Atomic Energy       (Central     Renewable
+    Mines         (Department                                                                           Pharmaceuticals
+                                     Technology             (IREL)          Electricity     Energy
+                        of
+                                                                            Authority)     (MNRE)
+                   Fertilizers)
+1    Copper                                                                 Copper                      Copper
+2    Cobalt                                                                 Cobalt                      Cobalt
+3    Nickel                                                                 Nickel
+                                                       1. Rare Earth
+                                                          Elements
+                                                          (REE)-
+                                  Rare Earth
+                                  Elements (REE)-          i.
+                                                           Neodymium
+                                  (i) from
+                                      different            ii.                            Lanthanum
+     Rare Earth
+                                      sources like         Praseodymium Rare Earth        Yttrium
+4    Elements                                                           Elements
+     (REE)                            Carbonatites,        iii.         (REE)
+                                      Tuffs, Cherts        Dysprosium
+                                      etc.
+                                                           iv.   Europium
+                                  (ii) from beach
+                                       sands               v.    Yttrium
+                                                           vi.   Terbium
+                                                       2. Monazite
+
+     Platinum                                                               Platinum      Platinum
+                                  Platinum Group
+     Group of                                                               Group of
+5                                 of Elements                                             Palladium
+     Elements                                                               Elements
+                                  (PGE)
+     (PGE)                                                                  (PGE)         Iridium
+                                  1. Graphene                               Natural
+6    Graphite
+                                  2. Fullerene                              Graphite
+
+7    Lithium                                                                Lithium
+
+8    Titanium                                          Titanium Minerals                                Titanium
+                  Rock
+9    Phosphorus                                                             Phosphate                   Phosphates
+                  Phosphate
+10   Potash       Potash                                                                                Potash
+11   Zirconium                                         Zircon
+12   Silicon                                                                Silicon       Quartz
+
+13   Cadmium                                                                Cadmium       Cadmium
+
+14   Manganese                                                              Manganese     Manganese
+
+15   Tungsten                     Scheelite
+
+16   Tellurium                                                                            Tellurium
+                                                  Comments received from Ministries
+
+    List            Ministry of
+                                                                        Ministry      Ministry of
+Sl. prepared by     Chemicals
+                                   Department        Department of      of Power       New and
+No. Ministry of    & Fertilizers                                                                        Dept. of
+                                   of Science &      Atomic Energy      (Central      Renewable
+    Mines          (Department                                                                      Pharmaceuticals
+                                    Technology          (IREL)         Electricity      Energy
+                         of
+                                                                       Authority)      (MNRE)
+                    Fertilizers)
+17    Tin                                                                             Tin
+
+18    Molybdenum                                                                      Molybdenum Molybdenum
+
+19    Bismuth
+
+20    Beryllium
+
+21    Indium
+
+22    Vanadium
+
+23    Gallium
+
+24    Antimony
+
+25    Hafnium
+
+26    Rhenium
+
+27    Strontium
+
+28    Niobium
+
+29    Germanium
+
+30    Tantalum
+
+31    Chromium                                                                                      Chromium
+32    Magnesium                                                                                     Magnesium
+33    Barite
+
+34    Cesium
+
+35    Zinc                                                             Zinc           Zinc
+
+36    Boron
+
+37    Lead                                                                            Lead
+
+38    Selenium
+
+                                                                       Limestone      Aluminium     Sodium
+                                                                       Bauxite        Silver        Calcium
+
+
+From the above table, out of 38 elements, chromium, lead, zinc, barite and cesium were dropped by the
+Committee. During the inter-ministerial consultation elements such as lead, zinc and chromium were flagged as
+critical by ministries such as MNRE (for lead & zinc), Ministry of Power (zinc) and Department of Pharmaceuticals
+(for chromium). However, India has sufficient resources of these minerals. None of the Ministries identified
+barite & cesium as critical to their sector. Finally, after excluding these 5 elements, a total of 33 elements were
+considered for further assessment by the Committee.
+In order to derive the criticality index, Ministry of Mines had a series of deliberations on the EU methodology to
+arrive at the list of critical minerals. The EU methodology is mainly dependant on two major factors- Economic
+Importance and Supply risk.
+
+
+                                                                                                      {(Sectoral Total
+                                                                                Disruption         Consumption *Sectoral
+                                                                                Potential               GVA)/(Total
+                                                                                                  Consumption*Total GVA)}
+
+                                                                              Substitutabil-
+                                                                              ity Index (EI)            EI
+                                                                                                          =      s s
+                      Economic Im-              AsQs
+                      portance (EI)                        EI
+                                                                                GVA Multi-
+                                                                                plier Score             V= As sQs
+
+                                                                               Cross-Cutting
+  Criticality                                                                   Index (CCI)             HHI= Si2
+ Assessment                                                                     Governance-
+                                                                              Weighted Mineral
+                                                                               Concentration
+                                                                                End-of-life
+                                                                              Recycling Rates
+                                       SRG=[(HHIWGI)GS×IR/2+                    (EOL-RR)
+                      Supply Risk
+                         (SR)          (HIWGI)IS ×(1-IR/2)]                   Import Reliance       IR=M-X/P+M-X
+                                       ×(1- )× SR×                             (IR) and Self-     and e=IR×0.4+0.6
+                                                                              Sufficiency (SS)
+
+                                                                              Substitutability
+                                                                                Index (SR)         SR
+                                                                                                     = ( AS BC)( As p)
+
+
+
+
+     As=   is the share of the mineral’s consumption            HHIwar= is the Herfindahl-Hirschman Index of
+           in sectors to its total consumption;                       mineral concentration, accounting for
+     Qs= is the GVA share of sector s to total                        governance indicators;
+           manufacturing GVA;                                   GS= is the global supply of extracted or
+      EI
+         = is the substitutability index of the mineral;              processed minerals;
+     μ=    is the mineral’s GVA multiplier coefficient;         IS = is the Indian sourcing of extracted or
+      =    is the mineral’s cross-cutting index;                      processed minerals;
+      s
+        =  is the cost-performance score for sectors;            =    is the end-of-life recycling rate of the
+      s
+        =  is the GVA multiplier for sectors;                         mineral;
+     HHI= is the level of industry-wise concentration           IR= is the import reliance of the minerals;
+           of mineral consumption;                               SR
+                                                                   = is substitutability in the supply risk axis;
+     S i=  is the share of mineral extraction in                 =    is the self-sufficiency adjustment factor;
+           industry i.                                          M= is the value of imports;
+     SRG = is the supply risk accounting for                    X=    is the value of exports;
+           governance indicators;                               P=    is the value of domestic production;
+                                                                 BC
+                                                                   =  is the co-/by-production score;
+                                                                 p= is the production substitutability.
+However, it has been observed that minerals like limestone, iron ore and bauxite also came out as critical as per
+the factors considered in the formula. The Committee is of the view that a detailed statistical exercise has to
+be carried out for precise computation of various factors such as substitutability index, minerals cross-cutting
+index, import reliance etc. Hence, if felt necessary, a separate sub-committee may be constituted by Ministry of
+Mines to exclusively work out the formula to develop a criticality index.
+
+However, the Committee had compared the list of critical minerals derived by EU methodology with it’s own set
+of minerals. The comparative study is provided below:
+
+
+Elements identified                           Both       Elements identified
+                      High EI     High SR                                      High EI   High SR     Both High
+by Committee                                  High       by Committee
+1. Copper                                                18. Gallium
+2. Cobalt                                                19. Niobium
+3. Graphite                                              20.Tungsten
+4. Lithium                                               21.Magnesium
+5. Nickel                                                22. Hafnium
+6. PGE                                                   23. Strontium
+7. REE                                                   24. Boron
+8. Silicon                                               25. Manganese
+9. Tellurium                                             26. Bismuth
+10. Tin                                                  27. Germanium
+11. Titanium                                             28. Indium
+12.Phosphorous                                           29. Tantalum
+13. Potash                                               30. Vanadium
+14. Zirconium                                            31. Rhenium
+15.Molybdenum                                            32. Selenium
+16. Antimony                                             33. Cadmium
+17. Beryllium
+
+
+
+     High Economic Importance
+
+     High Supply Risk
+
+     High Economic Importance as well as High Supply Risk
+
+
+From the above table, it emerged that out of the 33 elements, a total of 17 elements i.e. Cobalt, Graphite,
+Lithium, PGE, Nickel, Tin, Phosphorous, Gallium, Niobium, Magnesium, Tungsten, Hafnium, Strontium, Boron,
+Manganese, Antimony and Beryllium have both high supply risks as well as high economic importance for the
+country. A total of 7 elements has high supply risks which are- REE, Bismuth, Germanium, Indium, Tantalum,
+Vanadium and Rhenium. Similarly, a total of 9 elements do have high economic importance which are Copper,
+Silicon, Titanium, Potash, Molybdenum, Tellurium, Zirconium, Selenium and Cadmium.
+
+However, out of the 33 elements, 3 elements namely Manganese, Magnesium and Boron are not considered as
+critical for the country in terms of present supply risk vulnerability as well as economic consideration, as the
+country has adequate resources of Manganese and Magnesium. Further, Boron is mainly used as borax and boric
+acid in Glass & porcelain industries, for which other substitutes are easily available.
+The Committee carried out a three-stage assessment           Department of Pharmaceuticals and NITI Aayog etc.
+for identifying the minerals critical to India. In the
+first stage, the critical mineral strategies of various      The third stage assessment was to derive an empirical
+countries such as Australia, USA, Canada, UK, Japan          formula for evaluating mineral criticality. The EU
+and South Korea were studied. Accordingly, a total of        methodology, considers two major factors - economic
+69 elements/ minerals that were considered critical          importance and supply risk. The Committee is of the
+by major global economies were identified for further        view that a detailed statistical exercise needs to be
+examination. Due importance was given to domestic            carried out for precise computation of various factors
+initiatives also. The key studies carried out in this        such as substitutability index, minerals cross-cutting
+aspect by Centre for Social and Economic Progress            index, import reliance etc. for which a separate sub-
+(CSEP) and Council on Energy, Environment and                committee may be constituted to exclusively work out
+Water (CEEW) were also considered.                           the formula to develop the criticality index.
+
+In the second stage of assessment, an inter-                 Based on the three-stage assessments process
+ministerial consultation was carried out with different      mentioned above, a total of 30 minerals are found to
+ministries to identify minerals critical to their sectors.   be most critical for India out of which two minerals
+Comments and suggestions were received from the              are critical as fertilizer minerals. Depending upon
+Ministry of Power, Department of Atomic Energy,              the three-stage assessment, the net import reliance
+Ministry of New and Renewable Energy, Department             and the resource / reserve position of the country, the
+of Fertilizers, Department of Science and Technology,        final set of minerals critical to India are as follows:
+
+
+
+
+    1.    Antimony               15. Nickel                      iv. Neodymium         20. Rhenium
+    2.    Beryllium              16. PGE                         v. Promethium         21. Selenium
+    3.    Bismuth                      i. Platinum               vi. Samarium          22. Silicon
+    4.    Cadmium                      ii. Palladium             vii. Europium         23. Strontium
+    5.    Cobalt                       iii. Rhodium              viii.Gadolinium       24. Tantalum
+    6.    Copper                       iv. Ruthenium             ix. Terbium           25. Tellurium
+    7.    Gallium                      v. Iridium                x. Dysprosium         26. Tin
+    8.    Germanium                    vi. Osmium                xi. Holmium           27. Titanium
+    9.    Graphite               17. Phosphorous                 xii. Erbium           28. Tungsten
+    10. Hafnium                  18. Potash                      xiii. Thulium         29. Vanadium
+    11. Indium                   19. REE                         xiv. Ytterbium        30. Zirconium
+    12. Lithium                        i. Lanthanum              xv. Lutetium
+    13. Molybdenum                     ii. Cerium                xvi. Scandium
+    14. Niobium                        iii. Praseodymium         xvii. Yttrium
+
+
+
+Usage of these minerals identified above with Indian availability are provided in Annexure II.
+There is a need for establishing a National Institute    the necessary support and coordinate with other
+or Centre of Excellence on critical minerals on the      Ministries/ Departments in framing policies and
+lines of CSIRO which is an Australian Government         incentive schemes, required for creating a complete
+corporate entity and one of the world’s largest          value chain of critical minerals in the country. The
+mission-driven multidisciplinary science and research    Centre may collaborate with international agencies/
+organizations. Though CSIRO has a wider canvass          KABIL for the strategic acquisition of foreign assets
+as it is working with the Government, Universities,      on Critical Minerals. The Centre of Excellence will
+Industry and the Community on challenges like Food       periodically update the list of critical minerals for
+Security and Quality, Health and well-being, Resilient   India, preferably every three years, and notify the
+and Valuable Environments etc., it is also the largest   critical mineral strategy from time to time. The Centre
+minerals research and development organisation in        will also monitor export management with Ministry of
+Australia and one of the largest in the world.           Commerce and Industries and Ministry of External
+                                                         Affairs. The Centre of Excellence will also monitor
+A wing in the Ministry of Mines can be established as    and prepare the exploration strategy under Ministry
+a Centre of Excellence for Critical Minerals (CECM).     of Mines. Financial and administrative support
+The Centre of Excellence for Critical Minerals           to accelerate the development of critical mineral
+will focus on identifying more efficient ways for        mining, processing, manufacturing, and recycling
+discovering next generation critical mineral deposits    may be provided by the Central Government. The
+through geological knowledge, data analytics and         development of this Centre will lead to reduced
+modelling, and machine learning capability. The          dependency on foreign critical mineral inputs across
+Center will support building up of new research and      a range of priority industrial sectors or technologies.
+analytical infrastructure required to support India’s
+critical mineral demand. The Centre will also provide
+S. Critical                                           Examples of Specific    Indian
+                Value Chain     Major Applications                                             Remarks
+No. Minerals                                          Products                Availability
+1   Antimony    Advanced        Flame retardants,     Manufacture of          No proved        1.   The metal is obtained
+                manufacturing   Lead-acid             chemicals and           reserves and          commonly as a
+                                batteries, Lead       chemical products,      only inferred         by-product in lead-
+                                alloys, Plastics      electrical equipment,   reserves are          zinc-silver smelting
+                                (catalysts and        fabricated metal        available in          by Hindustan Zinc
+                                stabilisers), Glass   products, except        Lahul & Spiti         Limited
+                                and ceramics          machinery and           districts of
+                                                                                               2.   The bulk of secondary
+                                                      equipment               Himachal
+                                                                                                    antimony has
+                                                                              Pradesh
+                                                                                                    been recovered
+                                                                                                    at secondary
+                                                                                                    lead smelters as
+                                                                                                    antimonial lead,
+                                                                                                    most of which was
+                                                                                                    generated and then
+                                                                                                    consumed by the
+                                                                                                    Lead- acid Battery
+                                                                                                    Industry
+                                                                                               3.  Possibilities exists
+                                                                                                   to recover antimony
+                                                                                                   from lamp phosphor
+                                                                                                   waste (which is
+                                                                                                   considered as a
+                                                                                                   source of rare-earth
+                                                                                                   elements)
+2   Beryllium   Advanced        Automotive         Manufacture of             Not available    Current requirement is
+                manufacturing   components:        computer, electronic                        made through imports
+                inputs and      Transport          and optical products
+                materials       and Defence-
+                                Manufacturin g
+                                of Machinery.,
+                                Electronic and
+                                telecommunic
+                                ations equipment’s
+3   Bismuth     Advanced        Chemicals,         Manufacture of             Not available    Current requirement is
+                manufacturing   Pharmaceutic als, chemicals and                                made through imports
+                                Casting of Iron    chemical products
+4   Cadmium     Advanced        Batteries,         Manufacture of             Cadmium is recovered as a by-product
+                manufacturing   Pigments, Coatings electrical equipment       during zinc smelting and refining. The total
+                                                   & chemicals and            annual installed capacity for recovering
+                                                   chemical products,         cadmium was 913 tpy of which HZL
+                                                   solar cells,               accounted for 833 tpy capacity
+                                                   electroplating, and
+                                                   silver soldering
+S. Critical                                            Examples of Specific      Indian
+                 Value Chain       Major Applications                                            Remarks
+No. Minerals                                           Products                  Availability
+5   Cobalt       Clean             Electric Vehicle,   Battery electrodes;       Not available   Current requirement is
+                 technologies      Batteries,          metal alloys; turbine                     made through imports
+                                   corrosion resistant engine components,
+                                   alloys, aerospace   automobile airbags;
+                                   applications,       catalysts in the
+                                   Pigments and Dyes petroleum and
+                                                       chemical industries;
+                                                       drying agents for
+                                                       paints, varnishes, and
+                                                       inks; magnets, organic
+                                                       and inorganic chemical
+                                                       compounds, textiles,
+                                                       paper, leather and like
+                                                       industries, high speed
+                                                       specialized cutting
+                                                       tools, glass, and
+                                                       ceramics industry
+6    Copper      Clean             Electrical and      Power transmission        The current production of the Copper
+                 technologies      electronics         lines, electrical         concentrate is able to meet only 4 % of the
+                 and advanced      products,           building wiring,          requirement of Copper Smelter/refineries
+                 manufacturing     Electrical Wiring,  vehicle wiring,           necessitating a huge number of imports.
+                                   Solar Panel,        telecommunication         To fill the gap in demand and supply of
+                                   Automotive          wiring, electronic        Copper, the existing mines have to scale
+                                   industry            components, fabricated    up the production as per the mining plan/
+                                                       metal products            EC limits as well as new mines have to be
+                                                                                 developed
+7    Gallium     Information and Semiconduct ors, Electronic circuit             Gallium is recovered as a by-product while
+                 communications  Integrated Circuits, boards, LED devices,       producing alumina. Two plants, namely,
+                                 LEDs                 semiconductors,            HINDALCO at Renukoot, Uttar Pradesh
+                                                      specialized                and NALCO Damanjodi alumina refinery,
+                                                      thermometers,              Odisha, had recovered gallium in the past.
+                                                      barometric sensors,        Needs to be revisited
+                                                      solar panels, blue-
+                                                      ray technology,
+                                                      pharmaceuticals
+8    Germanium   Information and Optical fibres,      Fibre-optic              Not available     Current requirement is
+                 communications, satellites, solar    communication                              made through imports
+                 clean           cells                networks, camera and
+                 technologies,                        microscope lenses,
+                 and advanced                         infrared night vision
+                 manufacturing                        systems, polymerization
+                                                      catalysts
+9    Graphite    Clean           Batteries,           Metal foundry            9 million         Production reported from
+                 technologies    Lubricants, fuel     lubricants, vehicle      tonnes reserves 12 mines
+                                 cells for EVs,       brake linings, metal     exist
+                                 Electric Vehicle     casting wear, crucibles,
+                                                      rechargeable battery
+                                                      anodes, EV fuel
+                                                      cells, electrical
+                                                      motor components,
+                                                      frictionless materials,
+                                                      pencils
+10   Hafnium     Advanced        Superalloy,          Manufacture of basic     Normally, all zirconium compounds contain
+                 manufacturing   Catalyst precursor, metals, computer,         between 1.4% and3% hafnium. IREL &
+                                 Semiconductors,      electronic and optical   KMML are involved in production of zircon
+                                 Oxide for Optical, products, neutron
+                                 Nuclear reactors     absorption in control
+                                                      rods in nuclear power
+                                                      plants, used in iron,
+                                                      titanium, niobium,
+                                                      tantalum, and other
+                                                      metal alloy, liquid
+                                                      rocket thruster nozzle
+S. Critical                                           Examples of Specific      Indian
+                 Value Chain     Major Applications                                              Remarks
+No. Minerals                                          Products                  Availability
+11 Indium        Advanced        Electronics          Electronics, electrical   Not available    Current requirement is
+                 manufacturing   (Laptops, LED        equipment                                  made through imports
+                                 Monitors/TVs,
+                                 Smartphones), and
+                                 semi
+                                 conductors
+12   Lithium     Clean           Electric Vehicle,    Rechargeable batteries    Not available    Current requirement is
+                 technologies    Batteries,           (phones, computers,                        made through imports
+                 and defence     glassware,           cameras, and EVs);
+                 & security      ceramics, fuel       hydrogen fuel storage;
+                 technologies    manufacturin g,      metal alloys (military
+                                 Lubricant            ballistic armour;
+                                                      aircraft, bicycle, and
+                                                      train components);
+                                                      specialized glass
+                                                      and ceramics; drying
+                                                      and air conditioning
+                                                      systems, steam
+                                                      or other vapour
+                                                      generating boilers,
+                                                      pharmaceuticals,
+                                                      medicinal chemical
+                                                      and botanical products,
+                                                      refined petroleum
+                                                      products
+13   Molybdenum Advanced         Steel alloys,        Engineering steels,       Mineable         Mining Blocks needs to be
+                manufacturing    Pigment and Dyes, Foundries, Nickel            reserves are     auctioned to avoid import
+                                 Catalyst, Electrical alloys, Lubricants,       available in     route
+                                 and Electronic       Field of Medical          Harur of Tamil
+                                                                                Nadu State
+14   Niobium    Clean            Construction,      Metal alloys (steel),       Not available    Current requirement is
+                technologies     transportation     jet engines, rockets,                        made through imports
+                and advanced                        construction beams,
+                manufacturing                       building girders, oil
+                                                    rigs and pipelines,
+                                                    superconducting
+                                                    magnets, MRI
+                                                    scanners, NMR
+                                                    equipment, eyeglasses,
+                                                    titanium niobium
+                                                    oxide anode materials,
+                                                    nuclear power plants,
+                                                    production of electronic
+                                                    components
+15   Nickel     Clean            Stainless steel,   Metal alloys (steel,     Vedanta has
+                technologies     solar panels,      superalloys, non-        a nickel and
+                and advanced     batteries,         ferrous alloys), jet     cobalt plant at
+                manufacturing,   aerospace, defence and combustion           Goa
+                defence          applications and   engine components,       named
+                & security       Electric Vehicle   rechargeable batteries NICOMET.
+                technologies                        (phones, computers,      Nickel
+                                                    EVs), industrial         sulphate
+                                                    manufacturing            and Cobalt
+                                                    machines, construction sulphate
+                                                    beams, anti-             production is
+                                                    corrosive pipes,         7500TPA
+                                                    cookware, medical
+                                                    implants, power plant
+                                                    components
+S. Critical                                           Examples of Specific     Indian
+                  Value Chain       Major Applications                                           Remarks
+No. Minerals                                          Products                 Availability
+16 PGE           Advanced           Auto catalyst,    Used in making optical   About14.2
+                 manufacturing      Jewellery,        fibers, LCDs, turbine    tonnes of
+                                    medicine,         blades, spark plugs,     metal content
+                                    electronic        fabrication of silicon   of PGM are
+                                    equipment used by in aerospace, guided     located in
+                                    military          missile systems,         Niligiri, Boula-
+                                                      catalytic converters     Nuasahi and
+                                                      in reducing toxic        Sukinda areas
+                                                      emissions, hybrid        in Odisha and
+                                                      integrated circuits,     remaining
+                                                      medicine (pacemakers,    1.5 tonnes of
+                                                      chemotherapy) and        metal content
+                                                      jewellery                of PGM in
+                                                                               Hanumalpura
+                                                                               area in
+                                                                               Shivamogga
+                                                                               schist belt of
+                                                                               Karnataka
+17   Phosphorous Advanced          Mineral fertilizer Utility as a nutrient    Huge reserves/resources are available
+                 manufacturing                        provider, Detergents,    in Rajasthan, Jharkhand and Madhya
+                                                      chemicals, food          Pradesh. There are around 7 reporting
+                                                      additives, Animal Feed, mines
+                                                      rust removers, corrosion
+                                                      preventers
+18   Potash      Advanced          Chemical           Industrial chemicals,    Major part of resources are located in
+                 manufacturing     Fertilizers, Water animal feed,             Nagaur district of Rajasthan, followed
+                                   softener           soap making,             by Panna district, Madhya Pradesh and
+                                                      food production,         the balance in Sonbhadra & Chitrakoot
+                                                      water softening,         districts, Uttar Pradesh
+                                                      road de-icing, pH
+                                                      adjustment, explosives,
+                                                      pharmaceuticals, and
+                                                      glassmaking
+19   REE         Zero-emission     Permanent          Laptops, LED Monitors/ Resource            Met through domestic
+                 vehicles, defence magnets for        TVs, Smartphones,        estimate of       production by IREL and
+                 & security        electricity        EV drive trains, wind    monazite from through imports
+                 technologies      generators and     turbines, aircraft       beach sand in
+                                   motors, catalyst,  components, vehicle      India is 11.93
+                                   polishing,         components, speakers, Mt having
+                                   Batteries,         steel manufacturing,     55%-65%
+                                   Electronics,       battery anodes,          of rare earth
+                                   Defence            chemical catalysts,      oxides
+                                   technologies, wind glass manufacturing,
+                                   energy sector,     specialized glass
+                                   aviation, and      lenses, hybrid and
+                                   Space              tactical wheeled
+                                                      vehicles, armoured
+                                                      vehicles, night
+                                                      vision goggles,
+                                                      communication, and
+                                                      navigation systems
+20   Rhenium     Advanced          Super-alloys,      Manufacture of coke      Not available     Current requirement is
+                 manufacturing     aerospace and      and refined petroleum                      made through imports
+                                   machinery uses,    products
+                                   Catalysts in
+                                   petroleum industry
+S. Critical                                         Examples of Specific          Indian
+                 Value Chain      Major Applications                                             Remarks
+No. Minerals                                        Products                      Availability
+21 Selenium      Advanced        Electrolytic,      Pigments for ceramics,        No production.
+                 manufacturing   Manganese, Glass, paint and plastics,
+                 inputs and      pigments           useful in photocells,
+                 materials                          solar cells and
+                                                    photocopiers, used
+                                                    in anti-dandruff
+                                                    shampoos, used as
+                                                    an additive to make
+                                                    stainless steel
+22   Silicon     Information and Semiconductors,    Electronics, computer         India is
+                 communications, electronics,       processors and                reporting
+                 advanced        and transport      photovoltaics, steel          production
+                 manufacturing   equipment, Paints, manufacturing, glass,         of 59000
+                                 Aluminum alloys    and glass products            metric tonnes
+                                                                                  of silicon and
+                                                                                  ranks 12th in
+                                                                                  production as
+                                                                                  per 2022 data
+23   Strontium   Advanced         Alloys of            Casting of non-ferrous     Not available    Current requirement is
+                 Manufacturing    aluminium,           metals,                                     made through imports
+                                  Pigments and         parts and accessories
+                                  Fillers, Glass,      of three
+                                  Magnets,             wheelers and
+                                  Pyrotechnic          motorcycles
+                                  application
+24   Tantalum    Clean            Capacitors,         Manufacture of              Not available    Current requirement is
+                 technologies     Superalloys,        machinery and                                made through imports
+                 and advanced     Carbides, Medical   equipment, used in
+                 manufacturing    technology          Nickel-based super
+                                                      alloys for aircrafts, gas
+                                                      turbine components,
+                                                      missiles and radio
+                                                      communication
+                                                      systems, preparation
+                                                      of advanced airframes
+                                                      in Defence sector,
+                                                      digital camera,
+                                                      mobile phones, high
+                                                      temperature furnace
+                                                      parts, alloys for air and
+                                                      land-based turbines
+25   Tellurium   Clean            Solar power,        Metal alloys (copper        No production
+                 technologies     thermoelectric      and steel), solar cells,
+                                  devices, Rubber     semiconductors, CDs/
+                                  vulcanising         DVDs, vulcanized
+                                                      rubber, chemical
+                                                      catalysts in oil refining
+26   Tin         Advanced         Aerospace,          Lead acid batteries,        Produced in      From domestic production
+                 manufacturing    construction, home Tinplate, Metal              the form of      and through partial
+                                  decor, electronics, Packaging, decorative       concentrates     imports
+                                  jewellery and       elements for homes,         and metal in
+                                  telecommunic        countertops, Solders,       Chhattisgarh
+                                  ations              chemicals                   by CMDC
+                                                                                  & Precision
+                                                                                  Minerals &
+                                                                                  Smelting in
+                                                                                  Dantewada
+S. Critical                                             Examples of Specific       Indian
+                  Value Chain      Major Applications                                                Remarks
+No. Minerals                                            Products                   Availability
+27 Titanium       Clean            Aerospace            Colour pigments in         Titanium          Major resources / reserves
+                  technologies     and defence          paint, plastics, and       Sponge Plant      are available in the coastal
+                  and advanced     applications,        paper; metal alloys        of India is       districts of Tamilnadu,
+                  manufacturing,   chemicals and        (aluminium, steel,         located           Andhra Pradesh, Odisha,
+                  defence          petro- chemicals,    molybdenum); aircraft;     at Kerala         Kerala, Gujarat &
+                  & security       Pigments,            spacecraft; missiles       Minerals and      Maharashtra
+                  technologies     Polymers             and rockets; non-          Metals Ltd
+                                                        corrosive pipes; ship      (KMML),
+                                                        and submarine hulls;       Chavara,
+                                                        medical implants;          Kollam district
+                                                        sunscreen; specialty       of Kerala
+                                                        Li- ion battery anode
+                                                        materials
+28    Tungsten    Advanced         Mill and cutting     Consumed for               Not available     Current requirement is
+                  manufacturing    tools, Mining        production of hard                           made through imports
+                                   and construction     materials like high
+                                   tools, Catalysts     penetration alloy for
+                                   and pigments,        weaponry, rockets,
+                                   Aeronautics and      missiles, cutting tools
+                                   energy uses,         (tungsten carbide),
+                                   tungsten carbide     filament wires,
+                                                        electrodes and super
+                                                        alloys, oil and gas
+                                                        drilling
+29    Vanadium    Clean            Alloys, batteries    Metal alloys (steel),    Total estimated R&D on opportunity for
+                  technologies                          military armour plating, reserves /      production from mine
+                  and advanced                          vehicle axles, piston    resources of    tailings of bauxite has
+                  manufacturing                         rods and crankshafts,    vanadium ore to be strengthened in
+                                                        vanadium redox flow      as on1.4.2015 addition to opening up of
+                                                        batteries, nuclear       are placed at   new mines
+                                                        reactor components,      24.63 million
+                                                        manufacturing of         tones with
+                                                        superconducting          an estimated
+                                                        magnets, pigments for    V2O5 content
+                                                        ceramics and glass       of 64,594
+                                                                                 tonnes
+30    Zircon      Clean            High value           Good nuclear fuel-rod    IREL & KMML Obtained as a by-product
+                  technologies     chemical             cladding metal, useful are involved in during the beneficiation
+                  and advanced     manufacturin g       in nose cones, re- entry production      of heavy mineral sands in
+                  manufacturing    and electronics      vehicles and coatings                    Manavalakurichi in Tamil
+                                   sector,              in jet engines, used in                  Nadu, Chavara
+                                                        heat shield in space
+                                                        shuttles, as catalytic
+                                                        fuel converters as well
+                                                        as refractories
+
+
+
+The following value chains have the highest potential:
+
+•    Clean technologies, which include zero-emission vehicles (ZEV), wind turbines, solar panels, advanced
+     batteries, hydrogen fuel cells, small modular reactors.
+•    Information and communication technologies, including semiconductors.
+•    Advanced manufacturing inputs and materials, such as defence applications, permanent magnets, ceramics,
+     high value-added metals, electronic materials, composites, polymers, and biomaterials.
+www.mines.gov.in

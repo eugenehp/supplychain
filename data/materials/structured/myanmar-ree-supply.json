@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "source": "USGS MCS + IEA GCMO + UN Comtrade estimates",
+  "methodology": "Myanmar ion-adsorption clay heavy REE (Dy/Tb) feedstock to southern China separation. Structured from public commodity reports — not issuer filings.",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "role": "Heavy REE clay feedstock (cross-border trade to China)",
+  "elements": ["Dy", "Tb", "Y", "Gd"],
+  "estimatedShareOfHeavyRee": "Material share of global heavy REE feedstock per USGS MCS and IEA GCMO",
+  "risks": [
+    "Conflict-affected mining districts",
+    "Dependence on Chinese separation plants",
+    "Governance and traceability gaps"
+  ],
+  "sites": [
+    { "name": "Kachin State ionic-clay districts", "status": "operating", "elements": ["Dy", "Tb", "Y"] },
+    { "name": "Shan State clay deposits", "status": "operating", "elements": ["Dy", "Tb"] }
+  ]
+}

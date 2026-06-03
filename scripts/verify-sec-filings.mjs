@@ -5,11 +5,18 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { allSecWatchlistTickers } from './lib/topics/index.mjs';
+import { additionalMaterialsScrapeTickers } from './lib/materials/build-rare-earth-index.mjs';
+
+function allWatchlistTickers() {
+  const set = new Set(allSecWatchlistTickers());
+  for (const t of additionalMaterialsScrapeTickers()) set.add(t);
+  return [...set].sort();
+}
 import { companyRawDir, companyProcessedDir } from './lib/paths.mjs';
 import { validateRawCompany, validateProcessedCompany } from './lib/validator.mjs';
 import { loadRawCompany } from './lib/scrape-store.mjs';
 
-const tickers = allSecWatchlistTickers();
+const tickers = allWatchlistTickers();
 let failed = 0;
 
 console.log(`Verifying ${tickers.length} SEC watchlist tickers…\n`);

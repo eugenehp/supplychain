@@ -1,0 +1,313 @@
+{
+  "ticker": "TMRC",
+  "count": 21,
+  "generatedAt": "2026-06-03T05:52:37.491Z",
+  "entries": [
+    {
+      "id": "TMRC-kw-0",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 10324,
+      "excerpt": "…th County, Texas; ● the 54,990 acre surface lease, known as the West Lease, that provides unrestricted surface access for the potential development and mining of the Round Top Project; ● an option to purchase from the GLO the surface rights covering approximately 5,670 acres over the mining lease and additional acreage adequate to the site to handle potential heap leaching and processing operations as currently anticipated at the Round Top Project; and ● a ground water lease securing the right to develop the ground-water within a 13,120-acre lease area located approximately 4 miles from Round…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "keyword",
+      "range": {
+        "start": 10124,
+        "end": 10783
+      }
+    },
+    {
+      "id": "TMRC-kw-1",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 29804,
+      "excerpt": "…technologies include: ● cell phones; ● computer and television screens; ● battery operated vehicles; ● clean energy technologies, such as hybrid and electric vehicles and wind power turbines; ● fiber optics, lasers and hard disk drives; ● numerous defense applications, such as guidance and control systems and global positioning systems; and ● advanced water treatment technology for use in industrial, military and outdoor recreation applications. Because of these applications, global demand for REE is projected to steadily increase due to continuing growth in existing applications and increased…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "keyword",
+      "range": {
+        "start": 29604,
+        "end": 30264
+      }
+    },
+    {
+      "id": "TMRC-KLA-0",
+      "ticker": "TMRC",
+      "vendor": "KLA",
+      "charOffset": 54943,
+      "excerpt": "…t the preliminary estimate of the Round Top budget will be for the fiscal year ending August 31, 2026. Initial process design work will be carried out at USARE’s facility in Wheat Ridge, Colorado. Pending completion of the initial process development, this facility will either be relocated to or replicated at USARE’s Oklahoma facility where a pilot plant is expected to be established. It is estimated that the Round Top Project will require additional time and further expenditure to complete a bankable feasibility study. The Company lacks sufficient capital to fund any cash calls during the current fiscal year or thereafter and we ex…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "range": {
+        "start": 54623,
+        "end": 55263
+      }
+    },
+    {
+      "id": "TMRC-kw-2",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 63157,
+      "excerpt": "…d emerging applications including: computer hard drives, cell phones, clean energy technologies, such as hybrid and electric vehicles and wind power turbines; multiple high-tech uses, including fiber optics, lasers and hard disk drives; numerous defense applications, such as guidance and control systems and global positioning systems; and advanced water treatment technology for use in industrial, military and outdoor recreation applications. As a result, global demand for REE is projected to steadily increase due to continuing growth in existing applications and increased innovation and develo…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "keyword",
+      "range": {
+        "start": 62957,
+        "end": 63557
+      }
+    },
+    {
+      "id": "TMRC-Arm-0",
+      "ticker": "TMRC",
+      "vendor": "Arm",
+      "charOffset": 70145,
+      "excerpt": "…o remediate the lands affected by a mining facility once commercial mining operations have ceased. Federal legislation in the United States and implementing regulations adopted and administered by the Environmental Protection Agency, the Forest Service, the Bureau of Land Management, the Fish and Wildlife Service, the Army Corps of Engineers and other agencies—in particular, legislation such as the federal Clean Water Act, the Clean Air Act, the National Environmental Policy Act, the Endangered Species Act, the National Forest Management Act, the Wilderness Act, and the Comprehensive Environmental Response, Compensation and Liabilit…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "range": {
+        "start": 69825,
+        "end": 70465
+      }
+    },
+    {
+      "id": "TMRC-Arm-1",
+      "ticker": "TMRC",
+      "vendor": "Arm",
+      "charOffset": 75913,
+      "excerpt": "…o it giving consideration to the following four factors: ● whether the exempted activity constitutes “substantially all” of our business; ○ The Company has owned mineral leases since 2010, substantially all of our business to date has been comprised of owning and developing the mineral leases and, after the May 2021 “farm-down” of its 100% interest in the mineral leases, substantially all of our business continues to be comprised of owning and holding a certificate of interest and a participation in the mineral leases owned by Round Top. The Company’s mineral assets historically, as well as the value of the certificate of interest a…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "range": {
+        "start": 75593,
+        "end": 76233
+      }
+    },
+    {
+      "id": "TMRC-KLA-1",
+      "ticker": "TMRC",
+      "vendor": "KLA",
+      "charOffset": 95144,
+      "excerpt": "…cash position (which will result in dilution to our membership interest in RTMD). Initial process design work will be carried out at USARE’s facility in Wheat Ridge, Colorado. Pending completion of the initial process development, it is expected that this facility will either be relocated to or replicated at USARE’s Oklahoma facility where a pilot plant is expected to be established. It is estimated that the Round Top Project will require additional time and further expenditure to complete a bankable feasibility study, if at all. The Company will likely continue to elect to incur dilution to its Round Top membership interest in lie…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "range": {
+        "start": 94825,
+        "end": 95464
+      }
+    },
+    {
+      "id": "TMRC-kw-3",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 100920,
+      "excerpt": "…on and development involve a high degree of risk and few properties, which are explored, are ultimately developed into producing mines. The commercial viability of an established mineral deposit will depend on a number of factors including, by way of example, the size, grade and other attributes of the mineral deposit, the proximity of the deposit to infrastructure such as a smelter, roads and a point for shipping, government regulation and market prices. Most of these factors will be beyond our control, and any of them could increase costs and make extraction of any identified mineral deposit…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "keyword",
+      "range": {
+        "start": 100720,
+        "end": 101380
+      }
+    },
+    {
+      "id": "TMRC-kw-4",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 127268,
+      "excerpt": "…est groups and the potential impact of climate change. However, legislation and increased regulation regarding climate change could impose significant costs on Round Top, our venture partners and our suppliers, including costs related to increased energy requirements, capital equipment, environmental monitoring and reporting and other costs to comply with such regulations. Any adopted future climate change regulations could also negatively impact the ability to compete with companies situated in areas not subject to such limitations. Given the emotion, political significance and uncertainty ar…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "keyword",
+      "range": {
+        "start": 127068,
+        "end": 127668
+      }
+    },
+    {
+      "id": "TMRC-Arm-2",
+      "ticker": "TMRC",
+      "vendor": "Arm",
+      "charOffset": 128072,
+      "excerpt": "…how legislation and regulation will affect our financial condition, operating performance and ability to compete. Furthermore, even without such regulation, increased awareness and any adverse publicity in the global marketplace about potential impacts on climate change by us or other companies in our industry could harm our reputation. The potential physical impacts of climate change on our operations are highly uncertain, and would be particular to the geographic circumstances in areas in which we operate. These may include changes in rainfall and storm patterns and intensities, water shortages, changing sea levels and changing t…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "range": {
+        "start": 127753,
+        "end": 128392
+      }
+    },
+    {
+      "id": "TMRC-Arm-3",
+      "ticker": "TMRC",
+      "vendor": "Arm",
+      "charOffset": 146820,
+      "excerpt": "…officers or employees. Risks Associated with our Common Stock Investment in our Company has a high degree of risk. Before you invest you should carefully consider the risks and uncertainties described below. If any of the following risks actually occur, our business, operating results and financial condition could be harmed and the value of our stock could go down. We have a history of losses and fluctuating operating results that raises doubt about our ability to continue as a going concern. From inception through August 31, 2025, we have incurred aggregate losses of approximately $45,110,000. There is no assurance that we will ope…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "range": {
+        "start": 146501,
+        "end": 147141
+      }
+    },
+    {
+      "id": "TMRC-kw-5",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 155182,
+      "excerpt": "…present policy is to retain all available funds for use in our operations and the expansion of our business. Payment of future cash dividends, if any, will be at the discretion of our Board and will depend on our financial condition, results of operations, contractual restrictions, capital requirements, business prospects and other factors that our Board considers relevant. Accordingly, investors will only see a return on their investment if the value of our securities appreciates. 31 Control by current stockholders. The current stockholders have elected the directors and the directors have a…",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "keyword",
+      "range": {
+        "start": 154984,
+        "end": 155583
+      }
+    },
+    {
+      "id": "2bbafc089d3d3cf4",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 4018,
+      "excerpt": "O Rare earth oxide(s). Round Top, RTMD or Round Top Mountain Development Round Top Mountain Development, LLC, a Delaware limited liability company, which is the entity that owns the Round Top Project. Round Top Project The Round Top Project is owned by Round Top and includes the following that were assigned by the Company to Round Top in May 2021: ● two leases with the GLO, executed in September 2011 and November 2011, that each expire in 2030, to explore and develop a 950 acre rare earths proje",
+      "sectionId": "item_15_exhibits_and_financial_statement",
+      "sectionHeader": "ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 63 ITEM 16. FORM 10-K SUMMARY 65 SIGNA",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 9604,
+        "end": 10104
+      }
+    },
+    {
+      "id": "3e47fa9a3c8a92e6",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 1521,
+      "excerpt": "n a wide range of technologies, products, and applications and are critical inputs in existing and emerging applications. Without these elements, multiple high-tech technologies would not be possible. These technologies include: ● cell phones; ● computer and television screens; ● battery operated vehicles; ● clean energy technologies, such as hybrid and electric vehicles and wind power turbines; ● fiber optics, lasers and hard disk drives; ● numerous defense applications, such as guidance and co",
+      "sectionId": "item_1_business_narrative_description_of",
+      "sectionHeader": "ITEM 1. BUSINESS Narrative Description of Business We are a mining company engaged in the",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 29397,
+        "end": 29897
+      }
+    },
+    {
+      "id": "a1eb94081f59c37f",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 34167,
+      "excerpt": "o assurance the necessary capital can be procured to proceed with this potential project), will need to be satisfactorily completed by the parties, as well as other customary conditions and approvals. No exploration costs were incurred with respect to this potential project in the fiscal year ended August 31, 2025. We may acquire up to a 50.1% interest in this potential project by contribution of the Carlisle mine and by raising the initial capital needed, in an amount to be determined, to assem",
+      "sectionId": "item_1_business_narrative_description_of",
+      "sectionHeader": "ITEM 1. BUSINESS Narrative Description of Business We are a mining company engaged in the",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 62043,
+        "end": 62543
+      }
+    },
+    {
+      "id": "dab0e3a84979165d",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 35167,
+      "excerpt": "hnologies, such as hybrid and electric vehicles and wind power turbines; multiple high-tech uses, including fiber optics, lasers and hard disk drives; numerous defense applications, such as guidance and control systems and global positioning systems; and advanced water treatment technology for use in industrial, military and outdoor recreation applications. As a result, global demand for REE is projected to steadily increase due to continuing growth in existing applications and increased innovat",
+      "sectionId": "item_1_business_narrative_description_of",
+      "sectionHeader": "ITEM 1. BUSINESS Narrative Description of Business We are a mining company engaged in the",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 63043,
+        "end": 63543
+      }
+    },
+    {
+      "id": "f5bc5007b8d3c034",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 21389,
+      "excerpt": "here be any assurance that we will be able to do so. The probability of the Round Top Project ever having a commercial exploitable mineral reserve that meets the requirements of the SEC may be remote. Even if we do eventually discover commercial exploitable quantities of mineral reserve on the Round Top Project, there can be no assurance that it can be developed into a producing mine and extract those minerals. Both mineral exploration and development involve a high degree of risk and few proper",
+      "sectionId": "item_1a_risk_factors_the_following_sets_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The following sets forth certain risks and uncertainties that could",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 100283,
+        "end": 100783
+      }
+    },
+    {
+      "id": "3c254cd26429f5c5",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 47600,
+      "excerpt": "n companies, or more stringent implementation, could have a material adverse impact on Round Top’s business and cause increases in capital expenditures or require abandonment or delays in exploration. Regulations and pending legislation governing issues involving climate change could result in increased operating costs, which could have a material adverse effect on Round Top as well as any other business in which we engage. A number of governments or governmental bodies have introduced or are co",
+      "sectionId": "item_1a_risk_factors_the_following_sets_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The following sets forth certain risks and uncertainties that could",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 126494,
+        "end": 126994
+      }
+    },
+    {
+      "id": "4d764d6f979a70ec",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 75324,
+      "excerpt": "and the broker-dealer’s presumed control over the market. Such information must be provided to the customer orally or in writing before or with the written confirmation of trade sent to the customer. Monthly statements must be sent disclosing recent price information for the penny stock held in the account and information on the limited market in penny stocks. Since our Common Stock trades at a price of less than $5.00 per share, the additional burdens imposed upon broker-dealers by such require",
+      "sectionId": "item_1a_risk_factors_the_following_sets_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The following sets forth certain risks and uncertainties that could",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 154219,
+        "end": 154719
+      }
+    },
+    {
+      "id": "bc64ce41577e02a2",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 76265,
+      "excerpt": "of our Board and will depend on our financial condition, results of operations, contractual restrictions, capital requirements, business prospects and other factors that our Board considers relevant. Accordingly, investors will only see a return on their investment if the value of our securities appreciates. 31 Control by current stockholders. The current stockholders have elected the directors and the directors have appointed current executive officers to serve our Company. The voting power of",
+      "sectionId": "item_1a_risk_factors_the_following_sets_",
+      "sectionHeader": "ITEM 1A. RISK FACTORS The following sets forth certain risks and uncertainties that could",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 155160,
+        "end": 155719
+      }
+    },
+    {
+      "id": "a0c63e62565f03e3",
+      "ticker": "TMRC",
+      "vendor": null,
+      "charOffset": 1916,
+      "excerpt": "as of the date hereof that any of the properties contain any probable mineral reserves or proven mineral reserves under Item 1300 of Regulation S-K nor can there be any assurance that this will occur. Rare earth elements are a group of chemically similar elements that usually are found together in nature – they are referred to as the “lanthanide series.” These individual elements have a variety of characteristics that are critical in a wide range of technologies, products, and applications and a",
+      "sectionId": "item_6_climate_related_disclosure_not_re",
+      "sectionHeader": "ITEM 6. CLIMATE RELATED DISCLOSURE Not required. ITEM 7. MANAGEMENT’S DISCUSSION AND ANAL",
+      "form": "10-K",
+      "filingDate": "2025-11-28",
+      "type": "chunk",
+      "range": {
+        "start": 175924,
+        "end": 176424
+      }
+    }
+  ]
+}

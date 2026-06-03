@@ -1,0 +1,362 @@
+{
+  "generatedAt": "2026-06-03T06:21:40.073Z",
+  "sources": [
+    {
+      "id": "LYC",
+      "title": "Lynas Rare Earths",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://announcements.asx.com.au/asxpdf/20241011/pdf/068zp9wqw6v5dc.pdf",
+      "textLength": 659504
+    },
+    {
+      "id": "HAS",
+      "title": "Hastings Technology Metals",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://announcements.asx.com.au/asxpdf/20240930/pdf/068hfr3mgzbln7.pdf",
+      "textLength": 670517
+    },
+    {
+      "id": "PEK",
+      "title": "Peak Rare Earths",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://wcsecure.weblink.com.au/pdf/PEK/02872000.pdf",
+      "textLength": 274797
+    },
+    {
+      "id": "ILU",
+      "title": "Iluka Resources",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://www.iluka.com/media/hlbhtwnj/final-iluka-ar24-25225.pdf",
+      "textLength": 702558
+    },
+    {
+      "id": "ARU",
+      "title": "Arafura Rare Earths",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://www.arultd.com/wp-content/uploads/2024/09/20240916-ST28239-Arafura-Annual-Report-2024_DIGITAL.pdf",
+      "textLength": 496319
+    },
+    {
+      "id": "VML",
+      "title": "Vital Metals",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://vitalmetals.com/wp-content/uploads/2024/10/Vital-June-2024-Annual-Report.pdf",
+      "textLength": 307106
+    },
+    {
+      "id": "IXR",
+      "title": "Ionic Rare Earths",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://www.ionicre.com/investors/",
+      "textLength": 257770
+    },
+    {
+      "id": "ASM",
+      "title": "Australian Strategic Materials",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://asm-au.com/asm-2024-annual-report-copy/",
+      "textLength": 3320
+    },
+    {
+      "id": "MKA",
+      "title": "Mkango Resources",
+      "sourceRegime": "AIM",
+      "filingUrl": "https://www.mkango.ca/site/assets/files/5177/mkango_resources_limited_-_financial_statements_q1_2026.pdf",
+      "textLength": 69101
+    },
+    {
+      "id": "GML",
+      "title": "Greenland Minerals (Kvanefjeld)",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://etransmin.com/wp-content/uploads/2026/05/Kvanefjeld-SIA-Dec-2020.pdf",
+      "textLength": 90692
+    },
+    {
+      "id": "NTU",
+      "title": "Northern Minerals",
+      "sourceRegime": "ASX",
+      "filingUrl": "https://company-announcements.afr.com/asx/ntu/894d1458-94de-11ef-8d66-6ae31cb6d2dd.pdf",
+      "textLength": 299323
+    },
+    {
+      "id": "NEO",
+      "title": "Neo Performance Materials",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://www.neomaterials.com/wp-content/uploads/2025/03/Neo-AIF-2025-vF.pdf",
+      "textLength": 279420
+    },
+    {
+      "id": "UCU",
+      "title": "Ucore Rare Metals",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://ucore.com/FinancialStatements/Ucore_MDA_Q4_2025.pdf",
+      "textLength": 154671
+    },
+    {
+      "id": "DEFN",
+      "title": "Defense Metals",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://www.defensemetals.com/_files/ugd/433b25_6e644c94da8e411c9018993f3eaa7058.pdf",
+      "textLength": 53008
+    },
+    {
+      "id": "API",
+      "title": "Appia Rare Earths & Uranium",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://appiareu.com/wp-content/uploads/2024/06/2024-03-31-Appia-Financial-Statements-v1-3.pdf",
+      "textLength": 56694
+    },
+    {
+      "id": "CRE",
+      "title": "Critical Elements Lithium",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://www.cecorp.ca/wp-content/uploads/2024-11-30-Management_Discussion_Analysis-CRE.pdf",
+      "textLength": 176178
+    },
+    {
+      "id": "SMY",
+      "title": "Search Minerals",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://searchminerals.ca/site/assets/files/6504/smy_mda_ye_2023-11-30.pdf",
+      "textLength": 56111
+    },
+    {
+      "id": "AVL",
+      "title": "Avalon Advanced Materials",
+      "sourceRegime": "TSX",
+      "filingUrl": "https://avalonadvancedmaterials.com/wp-content/uploads/2025/12/Avalon-AIF-2025-08-31-v5-Final.pdf",
+      "textLength": 334589
+    },
+    {
+      "id": "PRE",
+      "title": "Pensana",
+      "sourceRegime": "AIM",
+      "filingUrl": "https://pensana.co.uk/wp-content/uploads/2024/10/Pensana_Integrated-Annual-Report-2024.pdf",
+      "textLength": 900085
+    },
+    {
+      "id": "RBW",
+      "title": "Rainbow Rare Earths",
+      "sourceRegime": "AIM",
+      "filingUrl": "https://www.rainbowrareearths.com/wp-content/uploads/2024/10/RRE-2024-Annual-Report_Final-1.pdf",
+      "textLength": 568387
+    },
+    {
+      "id": "SHE",
+      "title": "Shenghe Resources Holding",
+      "sourceRegime": "CN-SSE",
+      "filingUrl": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225258047.PDF",
+      "textLength": 412565
+    },
+    {
+      "id": "CNRE",
+      "title": "China Northern Rare Earth High-Tech",
+      "sourceRegime": "CN-SSE",
+      "filingUrl": "http://static.cninfo.com.cn/finalpage/2026-04-18/1225118607.PDF",
+      "textLength": 482855
+    },
+    {
+      "id": "CRRT",
+      "title": "China Rare Earth Resources and Technology",
+      "sourceRegime": "CN-SZSE",
+      "filingUrl": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225218157.PDF",
+      "textLength": 396579
+    },
+    {
+      "id": "JLMAG",
+      "title": "JL MAG Rare-Earth",
+      "sourceRegime": "CN-SZSE",
+      "filingUrl": "http://static.cninfo.com.cn/finalpage/2026-03-26/1225030339.PDF",
+      "textLength": 365203
+    },
+    {
+      "id": "ZKS",
+      "title": "Zhong Ke San Huan (San Huan)",
+      "sourceRegime": "CN-SZSE",
+      "filingUrl": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225043199.PDF",
+      "textLength": 369497
+    },
+    {
+      "id": "CHINALCO-RE",
+      "title": "China Aluminum Rare Earth (Chinalco group)",
+      "sourceRegime": "CN-SSE",
+      "filingUrl": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225018116.PDF",
+      "textLength": 429958
+    },
+    {
+      "id": "PROTERIAL",
+      "title": "Proterial (Hitachi Metals spin-off)",
+      "sourceRegime": "TSE",
+      "filingUrl": "https://www.proterial.com/e/csr/pdf/Sustainability_r2024.pdf",
+      "textLength": 302501
+    },
+    {
+      "id": "TDK",
+      "title": "TDK Corporation",
+      "sourceRegime": "TSE",
+      "filingUrl": "https://www.tdk.com/system/files/integrated_report_pdf_2024_en.pdf",
+      "textLength": 827793
+    },
+    {
+      "id": "SHINETSU",
+      "title": "Shin-Etsu Chemical",
+      "sourceRegime": "TSE",
+      "filingUrl": "https://www.shinetsu.co.jp/wp-content/uploads/2024/07/Annual-Report-2024-for-printing.pdf",
+      "textLength": 513144
+    },
+    {
+      "id": "SOLUS",
+      "title": "Solus Advanced Materials",
+      "sourceRegime": "KRX",
+      "filingUrl": "https://www.solusadvancedmaterials.com/download/ir/%EC%86%94%EB%A3%A8%EC%8A%A4%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC_4Q.24%20%EC%8B%A4%EC%A0%81%EC%9E%90%EB%A3%8C_20250206_vf_eng.pdf",
+      "textLength": 16059
+    },
+    {
+      "id": "USGS-MCS-2024-REE",
+      "title": "Mineral Commodity Summaries 2024 — Rare Earths",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-rare-earths.pdf",
+      "textLength": 11815
+    },
+    {
+      "id": "USGS-MCS-2024-FULL",
+      "title": "Mineral Commodity Summaries 2024 (full volume)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024.pdf",
+      "textLength": 1135182
+    },
+    {
+      "id": "USGS-MCS-2025-REE",
+      "title": "Mineral Commodity Summaries 2025 — Rare Earths",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-rare-earths.pdf",
+      "textLength": 12717
+    },
+    {
+      "id": "USGS-MCS-2025-FULL",
+      "title": "Mineral Commodity Summaries 2025 (full volume)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025.pdf",
+      "textLength": 1141080
+    },
+    {
+      "id": "EU-CRMA-2024",
+      "title": "EU Critical Raw Materials Act (Regulation EU 2024/1252)",
+      "sourceRegime": "EU",
+      "filingUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32024R1252",
+      "textLength": 316308
+    },
+    {
+      "id": "DOE-CMA-2023",
+      "title": "DOE Critical Materials Assessment 2023",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://www.energy.gov/sites/default/files/2023-07/doe-critical-material-assessment_07312023.pdf",
+      "textLength": 890089
+    },
+    {
+      "id": "IEA-GCMO-2024",
+      "title": "IEA Global Critical Minerals Outlook 2024",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://iea.blob.core.windows.net/assets/ee01701d-1d5c-4ba8-9df6-abeeac9de99a/GlobalCriticalMineralsOutlook2024.pdf",
+      "textLength": 842713
+    },
+    {
+      "id": "EU-CRMA-BRIEF-2024",
+      "title": "Implementing the EU Critical Raw Materials Act (EPRS Briefing)",
+      "sourceRegime": "EU",
+      "filingUrl": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/766253/EPRS_BRI(2024)766253_EN.pdf",
+      "textLength": 48521
+    },
+    {
+      "id": "BGS-UK-CRITICALITY-2024",
+      "title": "UK 2024 Criticality Assessment",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://nora.nerc.ac.uk/id/eprint/538471/1/OR24047_report.pdf",
+      "textLength": 456937
+    },
+    {
+      "id": "EU-CRMA-STRATEGIC-EU-2025",
+      "title": "EU CRMA Strategic Projects — EU (Annex, March 2025)",
+      "sourceRegime": "EU",
+      "filingUrl": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/d307a581-8530-493c-9efa-b2cd179d4677/file.bin",
+      "textLength": 12139
+    },
+    {
+      "id": "EU-CRMA-STRATEGIC-NON-EU-2025",
+      "title": "EU CRMA Strategic Projects — non-EU (Annex, June 2025)",
+      "sourceRegime": "EU",
+      "filingUrl": "https://single-market-economy.ec.europa.eu/document/download/60c576a5-435e-43e6-83de-c81f3652259b_en?filename=C_2025_3491_1_EN_annexe_acte_autonome_part1_v3.pdf",
+      "textLength": 3977
+    },
+    {
+      "id": "NRCAN-CRM-STRATEGY-2022",
+      "title": "Canadian Critical Minerals Strategy (2022)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://www.canada.ca/content/dam/nrcan-rncan/site/critical-minerals/Critical-minerals-strategyDec09.pdf",
+      "textLength": 147921
+    },
+    {
+      "id": "NRCAN-CRM-ANNUAL-2024",
+      "title": "Canadian Critical Minerals Strategy — Annual Report 2024",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://www.canada.ca/en/campaign/critical-minerals-in-canada/canadas-critical-minerals-strategy/canadian-critical-minerals-strategy-annual-report-2024.html",
+      "textLength": 67880
+    },
+    {
+      "id": "GA-AIMR-2024-REE",
+      "title": "Australia's Identified Mineral Resources 2024 — Rare Earth Elements",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://www.ga.gov.au/aimr2024/commodity-summaries",
+      "textLength": 45390
+    },
+    {
+      "id": "GA-CRITICAL-MINERALS-2024",
+      "title": "Critical minerals at Geoscience Australia",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://mines.gov.in/admin/download/649d428b91ca01688027787.pdf",
+      "textLength": 101761
+    },
+    {
+      "id": "EU-JRC-CRM-2023",
+      "title": "Study on Critical Raw Materials for the EU (2023)",
+      "sourceRegime": "EU",
+      "filingUrl": "https://www.eunews.it/wp-content/uploads/2023/10/study-on-the-critical-raw-materials-for-the-eu-2023-ET0723116ENN.pdf",
+      "textLength": 644997
+    },
+    {
+      "id": "USGS-MIS-REE-2024",
+      "title": "USGS Mineral Industry Surveys — Rare Earths (quarterly index)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/mis-2025q1-qprpt.pdf",
+      "textLength": 12713
+    },
+    {
+      "id": "CHINA-MOFcom-EXPORT-2023",
+      "title": "China export controls & REE quota context (MOFCOM/MIIT)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://www.mofcom.gov.cn/",
+      "textLength": 2602
+    },
+    {
+      "id": "MYANMAR-REE-USGS-2024",
+      "title": "Myanmar ionic-clay REE supply (USGS MCS context)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-rare-earths.pdf",
+      "textLength": 11815
+    },
+    {
+      "id": "USGS-PRICE-REFERENCE-2025",
+      "title": "USGS MCS oxide price reference (Ce, Nd, Dy, Tb)",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-rare-earths.pdf",
+      "textLength": 12717
+    },
+    {
+      "id": "IEA-MYANMAR-HEAVY-REE",
+      "title": "IEA GCMO — Myanmar heavy REE supply chain",
+      "sourceRegime": "PUBLIC",
+      "filingUrl": "https://iea.blob.core.windows.net/assets/ee01701d-1d5c-4ba8-9df6-abeeac9de99a/GlobalCriticalMineralsOutlook2024.pdf",
+      "textLength": 842713
+    }
+  ]
+}

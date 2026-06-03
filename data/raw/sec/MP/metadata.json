@@ -1,0 +1,39 @@
+{
+  "ticker": "MP",
+  "cik": "0001801368",
+  "name": "MP Materials Corp. / DE",
+  "scrapedAt": "2026-06-03T05:50:38.537Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 331952000,
+      "end": "2021-12-31",
+      "filed": "2022-02-28",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 224441000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 3864160000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 331952000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-26",
+    "accessionNumber": "0001801368-26-000008",
+    "primaryDocument": "mp-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1801368/000180136826000008/mp-20251231.htm",
+  "htmlLength": 3138568
+}

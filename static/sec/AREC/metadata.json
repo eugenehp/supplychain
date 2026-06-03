@@ -1,0 +1,57 @@
+{
+  "ticker": "AREC",
+  "name": "American Resources Corp",
+  "cik": "0001590715",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-05-20",
+    "accessionNumber": "0001477932-26-003317",
+    "primaryDocument": "arec_10k.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1590715/000147793226003317/arec_10k.htm",
+  "facts": {
+    "Revenues": {
+      "value": 0,
+      "end": "2025-12-31",
+      "filed": "2026-05-20",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 21687656,
+      "end": "2022-12-31",
+      "filed": "2023-03-31",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 66360,
+      "end": "2016-09-30",
+      "filed": "2017-01-13",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 168907706,
+      "end": "2025-12-31",
+      "filed": "2026-05-20",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 147282,
+      "end": "2016-09-30",
+      "filed": "2017-01-13",
+      "form": "10-K"
+    }
+  },
+  "textLength": 206066,
+  "exportedAt": "2026-06-03T05:51:26.683Z",
+  "logoUrl": "/logos/AREC.png",
+  "logoPrimaryUrl": "/logos/AREC.png",
+  "logoFallbackUrl": "/logos/AREC.svg",
+  "localUrls": {
+    "text": "/sec/AREC/filing.txt",
+    "metadata": "/sec/AREC/metadata.json",
+    "sections": "/sec/AREC/sections.json",
+    "evidence": "/sec/AREC/evidence.json",
+    "display": "/sec/AREC/display.json"
+  }
+}

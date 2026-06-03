@@ -63,7 +63,7 @@ async function loadRagIndexMainThread() {
   ]);
 
   if (!manifestRes.ok) {
-    throw new Error('RAG static index missing — run `npm run pipeline`');
+    throw new Error('RAG static index missing — run `npm run rag`');
   }
 
   const manifest = await manifestRes.json();

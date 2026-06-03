@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-05-29T04:56:06.739Z",
+  "scrapedAt": "2026-06-03T05:50:43.005Z",
   "companies": [
     {
       "ticker": "AMAT",
       "cik": "0000006951",
       "name": "APPLIED MATERIALS INC /DE",
-      "scrapedAt": "2026-05-29T04:55:58.549Z",
+      "scrapedAt": "2026-06-03T05:50:32.109Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -62,7 +62,7 @@
       "ticker": "AMD",
       "cik": "0000002488",
       "name": "ADVANCED MICRO DEVICES INC",
-      "scrapedAt": "2026-05-29T04:55:59.052Z",
+      "scrapedAt": "2026-06-03T05:50:32.510Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -113,7 +113,7 @@
       "ticker": "AMKR",
       "cik": "0001047127",
       "name": "AMKOR TECHNOLOGY, INC.",
-      "scrapedAt": "2026-05-29T04:55:59.517Z",
+      "scrapedAt": "2026-06-03T05:50:32.956Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -170,7 +170,7 @@
       "ticker": "AMZN",
       "cik": "0001018724",
       "name": "AMAZON COM INC",
-      "scrapedAt": "2026-05-29T04:55:59.974Z",
+      "scrapedAt": "2026-06-03T05:50:33.437Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -212,10 +212,61 @@
       "htmlLength": 1968342
     },
     {
+      "ticker": "AREC",
+      "cik": "0001590715",
+      "name": "American Resources Corp",
+      "scrapedAt": "2026-06-03T05:50:33.945Z",
+      "hasSubmissions": true,
+      "hasCompanyFacts": true,
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2025-12-31",
+          "filed": "2026-05-20",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 21687656,
+          "end": "2022-12-31",
+          "filed": "2023-03-31",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 66360,
+          "end": "2016-09-30",
+          "filed": "2017-01-13",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 168907706,
+          "end": "2025-12-31",
+          "filed": "2026-05-20",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 147282,
+          "end": "2016-09-30",
+          "filed": "2017-01-13",
+          "form": "10-K"
+        }
+      },
+      "hasRevenue": true,
+      "revenue": 147282,
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-05-20",
+        "accessionNumber": "0001477932-26-003317",
+        "primaryDocument": "arec_10k.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1590715/000147793226003317/arec_10k.htm",
+      "htmlLength": 1605319
+    },
+    {
       "ticker": "ASML",
       "cik": "0000937966",
       "name": "ASML HOLDING NV",
-      "scrapedAt": "2026-05-29T04:56:00.486Z",
+      "scrapedAt": "2026-06-03T05:50:34.428Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -266,7 +317,7 @@
       "ticker": "BIDU",
       "cik": "0001329099",
       "name": "Baidu, Inc.",
-      "scrapedAt": "2026-05-29T04:56:00.994Z",
+      "scrapedAt": "2026-06-03T05:50:35.030Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -317,7 +368,7 @@
       "ticker": "CDNS",
       "cik": "0000813672",
       "name": "CADENCE DESIGN SYSTEMS INC",
-      "scrapedAt": "2026-05-29T04:56:01.427Z",
+      "scrapedAt": "2026-06-03T05:50:35.444Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -356,7 +407,7 @@
       "ticker": "GFS",
       "cik": "0001709048",
       "name": "GLOBALFOUNDRIES Inc.",
-      "scrapedAt": "2026-05-29T04:56:01.836Z",
+      "scrapedAt": "2026-06-03T05:50:35.876Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -407,7 +458,7 @@
       "ticker": "GOOGL",
       "cik": "0001652044",
       "name": "Alphabet Inc.",
-      "scrapedAt": "2026-05-29T04:56:02.204Z",
+      "scrapedAt": "2026-06-03T05:50:36.232Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -458,7 +509,7 @@
       "ticker": "INTC",
       "cik": "0000050863",
       "name": "INTEL CORP",
-      "scrapedAt": "2026-05-29T04:56:02.601Z",
+      "scrapedAt": "2026-06-03T05:50:36.668Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -509,7 +560,7 @@
       "ticker": "KLAC",
       "cik": "0000319201",
       "name": "KLA CORP",
-      "scrapedAt": "2026-05-29T04:56:03.079Z",
+      "scrapedAt": "2026-06-03T05:50:37.124Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -566,7 +617,7 @@
       "ticker": "LRCX",
       "cik": "0000707549",
       "name": "LAM RESEARCH CORP",
-      "scrapedAt": "2026-05-29T04:56:03.561Z",
+      "scrapedAt": "2026-06-03T05:50:37.637Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -629,7 +680,7 @@
       "ticker": "META",
       "cik": "0001326801",
       "name": "Meta Platforms, Inc.",
-      "scrapedAt": "2026-05-29T04:56:04.001Z",
+      "scrapedAt": "2026-06-03T05:50:38.084Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -677,10 +728,49 @@
       "htmlLength": 2371750
     },
     {
+      "ticker": "MP",
+      "cik": "0001801368",
+      "name": "MP Materials Corp. / DE",
+      "scrapedAt": "2026-06-03T05:50:38.537Z",
+      "hasSubmissions": true,
+      "hasCompanyFacts": true,
+      "facts": {
+        "Revenues": {
+          "value": 331952000,
+          "end": "2021-12-31",
+          "filed": "2022-02-28",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 224441000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 3864160000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "hasRevenue": true,
+      "revenue": 331952000,
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001801368-26-000008",
+        "primaryDocument": "mp-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1801368/000180136826000008/mp-20251231.htm",
+      "htmlLength": 3138568
+    },
+    {
       "ticker": "MSFT",
       "cik": "0000789019",
       "name": "MICROSOFT CORP",
-      "scrapedAt": "2026-05-29T04:56:04.426Z",
+      "scrapedAt": "2026-06-03T05:50:38.910Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -743,7 +833,7 @@
       "ticker": "MU",
       "cik": "0000723125",
       "name": "MICRON TECHNOLOGY INC",
-      "scrapedAt": "2026-05-29T04:56:04.912Z",
+      "scrapedAt": "2026-06-03T05:50:39.454Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -800,7 +890,7 @@
       "ticker": "NVDA",
       "cik": "0001045810",
       "name": "NVIDIA CORP",
-      "scrapedAt": "2026-05-29T04:56:05.344Z",
+      "scrapedAt": "2026-06-03T05:50:39.923Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -854,10 +944,42 @@
       "htmlLength": 1967816
     },
     {
+      "ticker": "REEMF",
+      "cik": "0001419806",
+      "name": "RARE ELEMENT RESOURCES LTD",
+      "scrapedAt": "2026-06-03T05:50:40.360Z",
+      "hasSubmissions": true,
+      "hasCompanyFacts": true,
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2025-12-31",
+          "filed": "2026-03-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 24120000,
+          "end": "2025-12-31",
+          "filed": "2026-03-12",
+          "form": "10-K"
+        }
+      },
+      "hasRevenue": false,
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-12",
+        "accessionNumber": "0001419806-26-000004",
+        "primaryDocument": "reemf-20251231x10k.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1419806/000141980626000004/reemf-20251231x10k.htm",
+      "htmlLength": 1731491
+    },
+    {
       "ticker": "SNPS",
       "cik": "0000883241",
       "name": "SYNOPSYS INC",
-      "scrapedAt": "2026-05-29T04:56:05.826Z",
+      "scrapedAt": "2026-06-03T05:50:40.853Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -911,10 +1033,36 @@
       "htmlLength": 3031429
     },
     {
+      "ticker": "TMRC",
+      "cik": "0001445942",
+      "name": "Texas Mineral Resources Corp.",
+      "scrapedAt": "2026-06-03T05:50:41.312Z",
+      "hasSubmissions": true,
+      "hasCompanyFacts": true,
+      "facts": {
+        "Assets": {
+          "value": 1161182,
+          "end": "2025-08-31",
+          "filed": "2025-11-28",
+          "form": "10-K"
+        }
+      },
+      "hasRevenue": false,
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2025-11-28",
+        "accessionNumber": "0001999371-25-018974",
+        "primaryDocument": "tmrc-10k_83125.htm",
+        "reportDate": "2025-08-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1445942/000199937125018974/tmrc-10k_83125.htm",
+      "htmlLength": 1192088
+    },
+    {
       "ticker": "TSM",
       "cik": "0001046179",
       "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-      "scrapedAt": "2026-05-29T04:56:06.319Z",
+      "scrapedAt": "2026-06-03T05:50:41.834Z",
       "hasSubmissions": true,
       "hasCompanyFacts": true,
       "facts": {
@@ -960,6 +1108,108 @@
       },
       "filingUrl": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
       "htmlLength": 10355816
+    },
+    {
+      "ticker": "USAR",
+      "cik": "0001970622",
+      "name": "USA Rare Earth, Inc.",
+      "scrapedAt": "2026-06-03T05:50:42.244Z",
+      "hasSubmissions": true,
+      "hasCompanyFacts": true,
+      "facts": {
+        "Revenues": {
+          "value": 1643000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 15885000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1448000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 195000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 694999000,
+          "end": "2025-12-31",
+          "filed": "2026-03-30",
+          "form": "10-K"
+        }
+      },
+      "hasRevenue": true,
+      "revenue": 1643000,
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-30",
+        "accessionNumber": "0001970622-26-000021",
+        "primaryDocument": "usar-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000021/usar-20251231.htm",
+      "htmlLength": 3448218
+    },
+    {
+      "ticker": "UUUU",
+      "cik": "0001385849",
+      "name": "ENERGY FUELS INC",
+      "scrapedAt": "2026-06-03T05:50:42.598Z",
+      "hasSubmissions": true,
+      "hasCompanyFacts": true,
+      "facts": {
+        "Revenues": {
+          "value": 65922000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 65922000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 52169000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 384000,
+          "end": "2020-12-31",
+          "filed": "2021-03-22",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 1411852000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "hasRevenue": true,
+      "revenue": 65922000,
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001385849-26-000009",
+        "primaryDocument": "efr-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1385849/000138584926000009/efr-20251231.htm",
+      "htmlLength": 5180836
     }
   ]
 }

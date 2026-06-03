@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import * as Tabs from '$lib/components/ui/tabs/index.js';
   import { cn } from '$lib/utils.js';
+  import { mountDebouncedScrollSpy, observeStableHeight } from './scroll-spy-utils.js';
 
   const sections = [
     { id: 'overview', label: 'Overview' },
@@ -19,40 +20,21 @@
   /** Mutable lock — IntersectionObserver callback must read current value (not a stale closure). */
   const scrollLock = { navigating: false };
 
-  onMount(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (scrollLock.navigating) return;
-
-        const visible = entries
-          .filter((e) => e.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
-
-        const nextId = visible[0]?.target?.id;
-        if (nextId) active = nextId;
+  onMount(() =>
+    mountDebouncedScrollSpy({
+      isLocked: () => scrollLock.navigating,
+      getActive: () => active,
+      onActive: (id) => {
+        active = id;
       },
-      { rootMargin: '-12% 0px -55% 0px', threshold: [0, 0.15, 0.4] },
-    );
-
-    for (const section of sections) {
-      const el = document.getElementById(section.id);
-      if (el) observer.observe(el);
-    }
-
-    return () => observer.disconnect();
-  });
+      sections,
+      observerInit: { rootMargin: '-12% 0px -55% 0px', threshold: 0.15 },
+    }),
+  );
 
   $effect(() => {
     if (!navEl) return;
-
-    const syncNavHeight = () => {
-      document.documentElement.style.setProperty('--page-nav-height', `${navEl.offsetHeight}px`);
-    };
-
-    syncNavHeight();
-    const navObserver = new ResizeObserver(syncNavHeight);
-    navObserver.observe(navEl);
-    return () => navObserver.disconnect();
+    return observeStableHeight(navEl, '--page-nav-height');
   });
 
   /** @param {string} id */

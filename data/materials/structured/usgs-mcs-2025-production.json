@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "source": "USGS Mineral Commodity Summaries 2025",
+  "sourceUrl": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-rare-earths.pdf",
+  "unit": "metric tons REO equivalent",
+  "worldTotal": { "production2023Mt": 376000, "production2024Mt": 390000 },
+  "countries": [
+    { "name": "China", "countryCode": "CN", "production2023Mt": 255000, "production2024Mt": 270000, "reservesMt": 44000000 },
+    { "name": "United States", "countryCode": "US", "production2023Mt": 41600, "production2024Mt": 45000, "reservesMt": 1900000 },
+    { "name": "Burma", "countryCode": "MM", "production2023Mt": 43000, "production2024Mt": 31000, "reservesMt": null },
+    { "name": "Australia", "countryCode": "AU", "production2023Mt": 16000, "production2024Mt": 13000, "reservesMt": 5700000 },
+    { "name": "Nigeria", "countryCode": "NG", "production2023Mt": 7200, "production2024Mt": 13000, "reservesMt": null },
+    { "name": "Thailand", "countryCode": "TH", "production2023Mt": 3600, "production2024Mt": 13000, "reservesMt": 4500 },
+    { "name": "India", "countryCode": "IN", "production2023Mt": 2900, "production2024Mt": 2900, "reservesMt": 6900000 },
+    { "name": "Russia", "countryCode": "RU", "production2023Mt": 2500, "production2024Mt": 2500, "reservesMt": 3800000 },
+    { "name": "Madagascar", "countryCode": "MG", "production2023Mt": 2100, "production2024Mt": 2000, "reservesMt": null },
+    { "name": "Other", "countryCode": null, "production2023Mt": 1440, "production2024Mt": 1100, "reservesMt": null },
+    { "name": "Brazil", "countryCode": "BR", "production2023Mt": 140, "production2024Mt": 20, "reservesMt": 21000000 },
+    { "name": "Malaysia", "countryCode": "MY", "production2023Mt": 310, "production2024Mt": 130, "reservesMt": null },
+    { "name": "Vietnam", "countryCode": "VN", "production2023Mt": 300, "production2024Mt": 300, "reservesMt": 3500000 },
+    { "name": "Canada", "countryCode": "CA", "production2023Mt": null, "production2024Mt": null, "reservesMt": 830000 },
+    { "name": "Greenland", "countryCode": "GL", "production2023Mt": null, "production2024Mt": null, "reservesMt": 1500000 },
+    { "name": "South Africa", "countryCode": "ZA", "production2023Mt": null, "production2024Mt": null, "reservesMt": 860000 },
+    { "name": "Tanzania", "countryCode": "TZ", "production2023Mt": null, "production2024Mt": null, "reservesMt": 890000 }
+  ]
+}
