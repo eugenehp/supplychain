@@ -26,6 +26,7 @@
     "materials:index": "node scripts/materials-index.mjs",
     "materials:asx-crawl": "node scripts/asx-crawl.mjs",
     "logos": "node scripts/fetch-logos.mjs",
+    "social:images": "node scripts/render-social-images.mjs",
     "rag:server": "node scripts/rag-server.mjs",
     "benchmark:ui": "node scripts/benchmark-ui.mjs"
   },

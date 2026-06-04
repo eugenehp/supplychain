@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="Supply Chain Research">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f1115"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#76b900"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+    <linearGradient id="die-iris" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="22%" stop-color="#818cf8"/>
+      <stop offset="45%" stop-color="#c084fc"/>
+      <stop offset="68%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="45%">
+      <stop offset="0%" stop-color="#76b900" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#76b900" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <rect width="1200" height="1200" fill="url(#grid)"/>
+  <rect width="1200" height="1200" fill="url(#glow)"/>
+
+  <g transform="translate(420 220) scale(11)">
+    <rect width="32" height="32" rx="8" fill="#0a0a0a"/>
+    <rect x="2.2" y="3.2" width="27.6" height="25.6" rx="1.2" fill="#141414" stroke="#2e2e2e" stroke-width="0.35"/>
+    <g fill="#1f1f1f" stroke="#383838" stroke-width="0.12">
+      <rect x="3.4" y="10.8" width="2.3" height="1.25" rx="0.12"/>
+      <rect x="26.3" y="10.8" width="2.3" height="1.25" rx="0.12"/>
+      <rect x="3.4" y="15.45" width="2.3" height="1.25" rx="0.12"/>
+      <rect x="26.3" y="15.45" width="2.3" height="1.25" rx="0.12"/>
+    </g>
+    <g>
+      <rect x="6.4" y="11.2" width="7.8" height="9" rx="0.35" fill="#6b7280"/>
+      <rect x="7.2" y="12" width="6.2" height="7.4" rx="0.2" fill="#0a0a0a"/>
+      <rect x="8.6" y="13.4" width="3.4" height="3.8" rx="0.15" fill="url(#die-iris)"/>
+    </g>
+    <g>
+      <rect x="17.8" y="11.2" width="7.8" height="9" rx="0.35" fill="#6b7280"/>
+      <rect x="18.6" y="12" width="6.2" height="7.4" rx="0.2" fill="#0a0a0a"/>
+      <rect x="20" y="13.4" width="3.4" height="3.8" rx="0.15" fill="url(#die-iris)"/>
+    </g>
+  </g>
+
+  <rect x="120" y="760" width="8" height="96" rx="4" fill="url(#accent)"/>
+  <text x="144" y="820" fill="#f4f4f5" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-0.02em">Supply Chain</text>
+  <text x="144" y="892" fill="#f4f4f5" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-0.02em">Research</text>
+  <text x="144" y="972" fill="#a1a1aa" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="400">SEC-grounded AI accelerator supply maps</text>
+  <text x="144" y="1040" fill="#71717a" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500">Sankey | Evidence | Rare earth | RAG search</text>
+  <text x="144" y="1092" fill="#76b900" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600">github.com/eugenehp/supplychain</text>
+</svg>
