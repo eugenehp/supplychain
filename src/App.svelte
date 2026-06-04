@@ -7,7 +7,8 @@
   import { loadResearchMode, installResearchModeHashSync, saveResearchMode } from './lib/research-mode.js';
   import ThemeToggle from './lib/ThemeToggle.svelte';
   import SiteLogo from './lib/SiteLogo.svelte';
-  import { SITE_AUTHOR, SITE_AUTHOR_LINKEDIN, copyrightYear } from './lib/site.js';
+  import GithubIcon from './lib/GithubIcon.svelte';
+  import { SITE_AUTHOR, SITE_AUTHOR_LINKEDIN, SITE_GITHUB_URL, copyrightYear } from './lib/site.js';
   import LoadingSpinner from './lib/LoadingSpinner.svelte';
   import { loadTopicData, getTopicMeta, loadTopicId, saveTopicId, installTopicHashSync, topicIdFromHash } from './lib/topics.js';
   import { installBrandThemeSync, applyBrandTheme, brandForTopicMeta } from './lib/brand-theme.js';
@@ -136,6 +137,16 @@
     {#if researchMode === 'accelerators'}
       <TopicSelector bind:topicId />
     {/if}
+    <a
+      href={SITE_GITHUB_URL}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-muted-foreground hover:text-foreground hover:bg-muted/80 inline-flex h-8 w-8 items-center justify-center rounded-lg border transition-colors"
+      aria-label="View source on GitHub"
+      title="View source on GitHub"
+    >
+      <GithubIcon />
+    </a>
     <ThemeToggle />
   </div>
 </header>
