@@ -1,0 +1,45 @@
+{
+  "ticker": "NOC",
+  "cik": "0001133421",
+  "name": "NORTHROP GRUMMAN CORP /DE/",
+  "scrapedAt": "2026-06-04T23:42:17.076Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 41954000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-27",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 1100000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-27",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 51377000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-27",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 25803000000,
+      "end": "2017-12-31",
+      "filed": "2018-01-29",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 41954000000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-27",
+    "accessionNumber": "0001133421-26-000003",
+    "primaryDocument": "noc-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+  "htmlLength": 3035710
+}

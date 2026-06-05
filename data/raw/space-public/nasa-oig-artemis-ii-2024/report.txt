@@ -1,0 +1,1800 @@
+NASA
+Office of Inspector General
+
+NASA’s Readiness for the Artemis II
+Crewed Mission to Lunar Orbit
+
+
+
+
+May 1, 2024                       IG-24-011
+                                         Office of Inspector General
+To report fraud, waste, abuse, or mismanagement, contact the NASA OIG Hotline at 800-424-9183 or 800-535-8134 (TDD) or
+visit https://oig.nasa.gov/hotline.html. You can also write to NASA Inspector General, P.O. Box 23089, L’Enfant Plaza Station,
+Washington, D.C. 20026. The identity of each writer and caller can be kept confidential, upon request, to the extent permitted by law.
+
+To suggest ideas or request future audits, contact the Assistant Inspector General for Audits at https://oig.nasa.gov/aboutAll.html.
+RESULTS IN BRIEF
+NASA's Readiness for the Artemis II Crewed Mission to
+Lunar Orbit
+May 1, 2024                                                      IG-24-011 (A-23-07-00-HED)
+
+
+
+WHY WE PERFORMED THIS AUDIT
+With the Artemis campaign, NASA intends to return humans to the Moon and build a sustainable lunar presence as a
+foundation for human exploration of Mars. The uncrewed Artemis I test flight was completed in December 2022 and
+was a significant achievement for the Agency, providing important data and lessons learned from the testing of hardware,
+software, processes, and teams that will prepare NASA for future Artemis missions. The Artemis II crewed test flight
+aims to return humans to lunar orbit for the first time in more than 50 years and send its four crew members farther
+into space than any human has ever gone. Like Artemis I, the Artemis II mission will utilize the Space Launch System
+(SLS), a two-stage, heavy-lift rocket that will launch the Orion Multi-Purpose Crew Vehicle (Orion) capsule into space
+from the Mobile Launcher 1 (ML-1) at Kennedy Space Center. By September 2025, the planned launch date for Artemis II,
+NASA will have spent more than $55 billion on the SLS, Orion, and Exploration Ground Systems (EGS) programs.
+
+Given the high stakes of the first crewed flight, the Agency is working to identify and mitigate any risks and challenges to
+ensure the safe return of the Artemis II crew and safeguard NASA’s significant investment in Artemis vehicles and systems.
+In particular, the Agency must address the risks identified in the Artemis I Post-Flight Assessment Review, execute planned
+modifications and upgrades required to support the Artemis II astronauts, and complete stacking and testing of the
+integrated SLS and Orion. In light of ongoing work to address issues with the Orion spacecraft, in January 2024, the Agency
+announced that it would push the Artemis II launch date from November 2024 to September 2025.
+
+In this audit, we examined NASA’s readiness for the Artemis II crewed mission to lunar orbit. To complete this work, we
+conducted a site visit at Kennedy Space Center and interviewed officials with the Exploration Systems Development
+Mission Directorate; SLS, Orion, EGS, and Space Communications and Navigation programs; and other technical experts
+and stakeholders. To determine the extent to which Artemis I met its objectives, we reviewed key documents to
+evaluate mission performance as well as NASA’s mission coverage and preliminary flight reviews.
+
+
+
+WHAT WE FOUND
+As a test flight, Artemis I was used to examine how the integrated SLS and Orion and associated systems performed in
+their intended environment, allowing the Agency to confidently mitigate risks, certify system designs, and validate
+mission capabilities for future missions in the Artemis campaign. To this end, the Artemis I test flight revealed critical
+issues that need to be addressed before placing crew on the Artemis II mission. In particular, the test flight revealed
+anomalies with the Orion heat shield, separation bolts, and power distribution that pose significant risks to the safety of
+the crew. Resolution of these anomalies is among the most significant factors impacting NASA’s readiness for Artemis II.
+To its credit, the Agency is taking action to address these issues.
+
+Specifically, NASA identified more than 100 locations where ablative thermal protective material from Orion’s heat
+shield wore away differently than expected during reentry into Earth’s atmosphere. Engineers are concurrently
+investigating ways to mitigate the char loss by modifying the heat shield’s design or altering Orion’s reentry trajectory.
+In addition, post-flight inspections of the Crew Module/Service Module separation bolts revealed unexpected melting
+and erosion that created a gap leading to increased heating inside the bolt. To mitigate the issue for Artemis II, the
+Orion Program made minor modifications to the separation bolt design and added additional thermal protective barrier
+material in the bolt gaps. NASA also recorded 24 instances of power distribution anomalies in Orion’s Electrical Power
+System. While NASA has determined that radiation was the root cause and is making software changes and developing
+operational workarounds for Artemis II, without a permanent hardware fix, there is increased risk that further power
+distribution anomalies could lead to a loss of redundancy, inadequate power, and potential loss of vehicle propulsion and
+pressurization. Moreover, like with any engineering system, without understanding the residual effects of introducing
+design and operational changes, it will be difficult for the Agency to ensure that the mitigations or hardware changes
+adopted will effectively reduce the risks to astronaut safety.
+
+Beyond the Orion anomalies, the Artemis I launch-induced environment caused greater than expected damage to ML-1
+elevators, electrical equipment, enclosure panel doors, and pneumatic tubing, requiring extensive repairs that will cost
+more than $26 million, roughly 5 times more than the $5 million the EGS Program had originally set aside for post-
+Artemis I launch repairs. Additionally, a loss of in-flight communications revealed hardware and process issues with the
+Deep Space Network that can largely be attributed to maintenance deferrals and deterioration of hardware, which have
+been long-standing issues for the network. NASA has begun taking corrective actions to mitigate the issues that
+impacted Artemis I communications. Finally, we identified missed opportunities for data collection as a result of
+imagery issues, failure to recover jettisoned hardware after landing, and inaccessible telemetry data that have impacted
+NASA’s ability to fully evaluate and address certain launch, landing, and recovery risks.
+
+In addition to addressing the technical issues and risks discovered during the Artemis I test flight, NASA has further work
+and testing that it must complete to safely return humans to lunar orbit. NASA’s planned work for Artemis II includes
+upgrades and modifications to the SLS, Orion, and ground facilities. Although NASA is making progress, verification and
+validation testing for some of these upgrades and modifications is taking longer than expected. Furthermore, during recent
+qualification and acceptance testing of Orion’s circuitry and Crew Module batteries, NASA discovered hardware defects
+that increase crew safety risks. Regarding the circuitry issues, NASA is working to make modifications to hardware in
+difficult-to-access locations inside the already assembled Orion spacecraft and perform additional tests. The investigation
+into the battery issues is in the early stages, and NASA has not yet identified a resolution.
+
+While NASA’s decision to push the Artemis II launch date will provide the Agency with more time to prepare for the first
+crewed mission, NASA will need to balance its time frame for corrective actions with the start of stacking the components
+of the SLS and Orion on the ML-1. Once stacking of the integrated systems begins, NASA must carefully monitor and track
+key Artemis II hardware, such as the SLS solid rocket boosters, that have a limited operating life before requiring servicing
+or replacement. Premature stacking could create risk of further cost increases and additional schedule delays.
+
+
+
+WHAT WE RECOMMENDED
+To ensure the safety of the crewed Artemis II mission, we recommended the Associate Administrator for Exploration
+Systems Development Mission Directorate: (1) ensure the root cause of Orion heat shield char liberation is well understood
+prior to launch of the Artemis II mission; (2) conduct analysis of Orion separation bolts using updated models that account
+for char loss, design modifications, and operational changes to Orion prior to launch of the Artemis II mission; (3) require
+EGS conduct additional verification and validation for launch imagery equipment prior to launch attempts should launch
+conditions change; (4) reexamine procedures to better ensure recovery of Orion jettisoned hardware for the Artemis II
+mission; (5) develop a corrective action plan to mitigate or prevent the recurrence of uninterpretable Orion telemetry data
+for the Artemis II mission; and (6) establish a course of action and timeline for individual Artemis system design changes
+before beginning integrated system assembly stacking operations.
+
+We provided a draft of this report to NASA management who concurred
+with our recommendations and described planned actions to address them.
+We consider the proposed actions responsive and will close the                     For more information on the NASA
+                                                                                   Office of Inspector General and to
+recommendations upon completion and verification. While the Agency
+                                                                                   view this and other reports visit
+noted that its planned actions have been completed for Recommendations
+                                                                                   https://oig.nasa.gov/.
+4, 5, and 6, we were not provided evidence of these actions prior to
+issuance of this report.
+TABLE OF CONTENTS
+
+Introduction......................................................................................................................................... 1
+   Background ............................................................................................................................................... 1
+Artemis I Test Flight Revealed Critical Issues That NASA Is Working to Address Before the
+Artemis II Mission ................................................................................................................................ 8
+   Orion Anomalies Pose Significant Safety Risks to the Crew ..................................................................... 8
+   Greater than Expected Launch Damage Necessitates Mobile Launcher 1 Repairs
+   and Improvements .................................................................................................................................. 12
+   In-Flight Communication Losses Underscore the Importance of Maintaining the Deep
+   Space Network ........................................................................................................................................ 16
+   Missed Data Collection Opportunities Extend Known Risks to Future Crewed Missions....................... 18
+Significant Upgrades, Modifications, Testing, and Integration Activities Remain, Delaying the
+Artemis II Launch Date by Almost One Year ....................................................................................... 22
+   NASA Is Making Planned Artemis II Upgrades and Modifications in Support of Adding Crew,
+   but Significant Testing Remains .............................................................................................................. 22
+   Issues Discovered During Qualification and Acceptance Testing of Key Orion Components Led
+   to Decision to Delay Artemis II ................................................................................................................ 24
+   Premature Stacking Could Create Risk of Cost Increases and Additional Schedule Delays.................... 25
+Conclusion ......................................................................................................................................... 27
+Recommendations ............................................................................................................................. 28
+Appendix A: Scope and Methodology ................................................................................................ 30
+Appendix B: Management’s Comments ............................................................................................. 32
+Appendix C: Report Distribution ........................................................................................................ 37
+
+
+
+
+                                                                                      NASA Office of Inspector General                    IG-24-011 i
+Acronyms
+DSN     Deep Space Network
+ECLSS   Environmental Control and Life Support System
+ECS     Environmental Control System
+EGS     Exploration Ground Systems
+ESDMD   Exploration Systems Development Mission Directorate
+Hz      hertz
+ICPS    Interim Cryogenic Propulsion Stage
+LOLI    limited operating life item
+ML-1    Mobile Launcher 1
+NSN     Near Space Network
+OIG     Office of Inspector General
+PCA     Private Cloud Appliance
+PCDU    Power Conditioning and Distribution Unit
+PFAR    Post-Flight Assessment Review
+SCaN    Space Communications and Navigation
+SLS     Space Launch System
+VAB     Vehicle Assembly Building
+
+
+
+
+                                              NASA Office of Inspector General   IG-24-011 ii
+INTRODUCTION
+
+With the Artemis campaign, NASA intends to return humans to the Moon and build a sustainable lunar
+presence as a foundation for human exploration of Mars. After more than a decade of preparation and
+several delays, the first mission—Artemis I—was completed in December 2022 and served as the first
+and only integrated uncrewed test flight of NASA’s deep space exploration systems. Artemis I was a
+significant achievement for NASA, providing important data and lessons learned from the testing of
+hardware, software, processes, and teams that will help prepare the Agency for future Artemis missions.
+
+Currently in preparation, Artemis II aims to return humans to lunar orbit for the first time in more than
+50 years and send its four crew members farther into space than any human has ever gone. Like
+Artemis I, the Artemis II mission will utilize the Space Launch System (SLS), a two-stage, heavy-lift rocket
+that will launch the Orion Multi-Purpose Crew Vehicle (Orion) capsule into space from the Exploration
+Ground Systems’ (EGS) launch facilities. However, before NASA can launch Artemis II, the Agency must
+address the risks identified in the Artemis I Post-Flight Assessment Review, execute planned
+modifications and upgrades required to support the Artemis II astronauts onboard, and complete
+stacking and testing of the integrated SLS and Orion.
+
+By September 2025—NASA’s planned Artemis II launch date—the Agency will have spent more than $55
+billion on SLS, Orion, and the ground systems needed for the Artemis missions. Given the high stakes of
+the first crewed flight, the Agency is working to identify and mitigate any risks and challenges to ensure
+the safe return of the Artemis II crew while safeguarding NASA’s significant investment in Artemis
+vehicles and systems. In this audit, we examined NASA’s readiness for the Artemis II crewed mission to
+lunar orbit.
+
+
+Background
+The Artemis campaign is a series of increasingly complex missions that will build upon each other to
+establish a long-term human presence on the Moon and ultimately Mars. Key to this goal is the success
+of the first two Artemis missions, which are the uncrewed and crewed test flights for NASA’s
+interdependent deep space exploration systems.
+
+Flight testing allows NASA to learn how systems and operations perform both on the ground and in the
+actual flight environment. As such, NASA utilizes flight tests to mitigate risks by collecting data to certify
+its designs and validate mission capabilities by seeing how systems perform in their intended
+environment. Although the Agency conducts extensive system testing pre-flight, there are many
+attributes of space flight that cannot be replicated on the ground or adequately emulated in modeling or
+pre-launch testing. Flight testing also allows NASA to identify and document lessons learned, the
+application of which is essential to the success of future missions.
+
+
+
+
+                                                            NASA Office of Inspector General   IG-24-011 1
+      The Artemis I mission provided significant flight and systems performance data in cislunar space that
+      cannot be replicated on Earth. 1 As an uncrewed test flight, the primary goals of the Artemis I mission
+      were to thoroughly test the integrated systems in the flight environment by launching Orion atop the
+      SLS rocket, operating the spacecraft in a deep space environment, testing Orion’s heat shield, and
+      recovering the Crew Module after reentry, descent, and splashdown. Artemis I successfully completed
+      its mission milestones, including all vehicle separations, an orbit around the Earth, a trans-lunar injection, a
+      lunar orbit that came within 80 miles of the Moon’s surface, a reentry into Earth’s atmosphere, and a
+      landing and recovery of the Orion capsule in the Pacific Ocean.
+
+      In preparation for the Artemis II crewed test flight, NASA is conducting ground tests to demonstrate to
+      the extent possible the hardware, software, processes, and human interfaces necessary to safely fly and
+      sustain astronauts in space. NASA is scheduled to launch Artemis II in September 2025 for a 10-day
+      mission to orbit the Moon (see Figure 1). 2 After conducting a 23.5-hour checkout of the spacecraft’s
+      systems in high Earth orbit, Orion will embark on a trajectory to reach the far side of the Moon and
+      harness the Earth-Moon gravity field to pull the vehicle back to Earth. 3
+
+Figure 1: Artemis II Planned Flight Path
+
+
+
+
+Source: NASA.
+
+
+      1   Cislunar is the space between the Earth and the Moon or the Moon’s orbit.
+      2   In January 2024, NASA announced that the launch date for the Artemis II mission would be delayed from November 2024 to
+          September 2025.
+      3   High Earth orbit sits about 36,000 kilometers above the Earth’s surface.
+
+
+
+                                                                             NASA Office of Inspector General    IG-24-011 2
+         Like Artemis I, Artemis II’s goals include demonstrating the capabilities and performance of the
+         integrated systems, especially the Orion spacecraft. With crew onboard, NASA plans to further evaluate
+         critical survival and life support systems that were not included or fully tested during Artemis I. For
+         example, Artemis II will test the crew interface displays and controls, the emergency and recovery
+         communications equipment, a stowage system with crew support equipment, and the Environmental
+         Control and Life Support System (ECLSS). 4 In addition, Artemis II will feature equipment designed to
+         ensure the safety of the crew in the event of an emergency during ground, launch, and ascent
+         operations. These include a launch pad crew escape system and an active Launch Abort System. See
+         Table 1 for a summary comparison between the Artemis I and II missions.
+
+Table 1: Comparison of Artemis I and Artemis II Missions and Objectives
+                                 Artemis I                                                              Artemis II
+ Uncrewed Test Flight                                                      Crewed Test Flight
+ Deep Space Exploration Systems used: SLS, Orion, and EGS                  Deep Space Exploration Systems used: SLS, Orion, and EGS
+ 25.5-day mission                                                          Less than 10-day mission
+ Objectives:                                                               Objectives:
+    • Demonstrate the performance of Orion’s heat shield at                   • Evaluate crewed system performance for SLS and Orion
+         lunar reentry conditions                                                  in the deep space environment
+    • Operate systems in flight environment                                   • Demonstrate systems and operations essential to a
+    • Retrieve Orion spacecraft                                                    crewed lunar campaign
+    • Accomplish additional test flight objectives                            • Retrieve flight hardware and data
+                                                                              • Demonstrate emergency and off-nominal system
+                                                                                   capabilities and validate associated operations to the
+                                                                                   extent practical
+                                                                              • Accomplish additional test flight objectives
+Source: NASA Office of Inspector General (OIG) presentation of NASA information.
+
+         Artemis II is NASA’s only planned test mission with crew before attempting to land humans on the Moon
+         during the Artemis III mission. With the addition of crew to a mission, NASA must incorporate human
+         rating requirements into mission readiness. Human rating requirements are intended to ensure that
+         space systems carrying crew receive additional rigor and scrutiny in their design, development,
+         certification, and operation. The human rating certification process at NASA focuses on what
+         reasonable steps programs have taken in designing their space systems and translating those design
+         limits into operational plans and procedures to minimize the potential for loss of life or risk of injury. A
+         human-rated system ensures the safety of crew, accommodates human needs, utilizes human
+         capabilities, controls hazards, manages safety risks, and provides capability to safely recover the crew
+         from hazardous situations. In addition to basic human needs such as environment, food, and water, the
+         astronauts must have some control over the space system and its operation. 5 For example, NASA
+         requirements dictate the crew have manual control of Orion’s flight path and attitude, as well as the
+         ability to manually override software control and automation. 6
+
+
+
+         4   ECLSS provides a habitable atmosphere for the crew. NASA did not fully test Orion’s ECLSS on Artemis I because portions of
+             the required hardware were not installed and crew were not present to allow appropriate exercising of life support systems.
+         5   Environment includes cabin temperature, pressure, humidity, oxygen, and carbon dioxide levels.
+         6   Attitude is the direction the vehicle is pointed.
+
+
+
+                                                                               NASA Office of Inspector General         IG-24-011 3
+Artemis II Systems
+
+           Space Launch System
+As directed by the NASA Authorization Act of 2010,
+NASA developed the SLS, which is the first exploration-
+class launch vehicle since the Apollo Program’s
+Saturn V rocket. 7 Its current design—the SLS Block 1
+configuration—will be used for the first three Artemis
+missions and will be able to deliver 27 metric tons to
+lunar orbit. This configuration includes the core stage
+that consists of propellant tanks that hold over
+730,000 gallons of liquid hydrogen and liquid oxygen
+that fuel the rocket’s four RS-25 engines, two solid
+rocket boosters that provide over 75 percent of the
+vehicle’s thrust during the initial minutes of flight, and
+an Interim Cryogenic Propulsion Stage (ICPS)
+responsible for propelling the Orion spacecraft to the
+Moon. 8
+
+
+
+
+7   NASA Authorization Act of 2010, Pub. L. No. 111-267 (2010).
+8   Beginning with the Artemis IV mission, NASA will evolve the SLS to the bigger and more powerful configuration known as
+    SLS Block 1B, which will replace the ICPS with the Exploration Upper Stage. For later missions starting with Artemis IX, NASA
+    will upgrade the SLS for a third time to the SLS Block 2 configuration, which will improve the solid rocket boosters.
+
+
+
+                                                                       NASA Office of Inspector General          IG-24-011 4
+           Orion Multi-Purpose Crew Vehicle
+Orion will serve as the spacecraft to carry and sustain astronauts during their journey to and from lunar
+orbit. Orion consists of a spacecraft adapter, Service Module, Crew Module, and Launch Abort System.
+While the adapter joins the Orion to the SLS’s upper
+stage, the Service Module provides the spacecraft
+with support systems, including electricity, propulsion,
+thermal control, air, and water. The Crew Module is a
+pressurized capsule providing living space for the
+crew. The module can accommodate 4 astronauts for
+up to 21 days and provides life support, avionics,
+power systems, a heat shield for thermal protection,
+and a parachute system in support of a safe reentry to
+Earth. Lastly, Orion includes the Launch Abort System,
+which is designed to protect astronauts if a problem
+arises during launch by pulling the spacecraft away
+from the rocket in the case of an emergency.
+
+           Exploration Ground Systems
+Based at NASA’s Kennedy Space Center in Florida, the
+EGS Program develops and operates the facilities and
+ground support necessary to assemble, transport, and
+launch rockets and spacecraft. These facilities include
+the Vehicle Assembly Building (VAB), where the SLS
+and Orion are stacked and fully integrated; Launch Pad
+39B, from which the integrated SLS and Orion
+launches; and Mobile Launcher 1 (ML-1), which is used
+to assemble the SLS and Orion, transport the
+integrated vehicle to the launch pad, and provide
+power, communications, coolant, fuel, stabilization,
+and crew access prior to launch. 9 The Program is also
+responsible for Artemis launch operations, including
+preparing the launch pad and coordinating launch
+activities from the Launch Control Center. After the
+splashdown of Orion, the EGS Program leads recovery
+operations of the vehicle and crew.
+
+
+
+
+9   To support larger variants of the SLS beginning with the Artemis IV mission, NASA is building a second mobile launcher—
+    Mobile Launcher 2.
+
+
+
+                                                                      NASA Office of Inspector General         IG-24-011 5
+          Space Communications and Navigation
+The Artemis missions also rely on communications and navigation capabilities provided by NASA’s Space
+Communications and Navigation (SCaN) Program. As part of NASA’s Space Operations Mission
+Directorate, SCaN manages both the Agency’s Near Space Network (NSN) and Deep Space Network
+(DSN), which provide flight controllers spacecraft tracking and telemetry data and allows them to send
+and receive spacecraft commands using radio waves. 10
+     •    Near Space Network. NSN relies on a combination of commercial and government-owned,
+          contractor-operated assets, including 22 ground antennas located around the world and a
+          constellation of tracking and data relay satellites, to provide communication and navigation
+          services to launch vehicles, robotics, and crewed space flight missions. For Artemis missions,
+          the NSN Direct-to-Earth service is used to track the mission during launch and early phases of
+          ascent, while the Tracking and Data Relay Satellite system provides tracking data during the
+          mission’s orbital ascent and return to Earth. 11
+     •    Deep Space Network. DSN operates antennas and transmitters at communication complexes in
+          three facilities spaced equidistant from each other around the world: Goldstone, California;
+          Madrid, Spain; and Canberra, Australia. 12 These locations are strategically placed to allow
+          constant communication with spacecraft as the Earth rotates, a model called “Follow the Sun.”
+          Under this model, each site operates the entire network during their day shift, handing off
+          control to the next site as their day ends. The Artemis missions rely on DSN to provide
+          communications with the crew onboard, receive imagery from the Orion capsule, and send
+          commands to the spacecraft while en route to and in orbit around the Moon and when
+          returning to Earth.
+
+Currently, more than 100 missions rely on SCaN’s NSN and DSN services, including uncrewed scientific
+space probe missions from NASA’s Science Mission Directorate, as well as other U.S. government
+agencies and international partners. For the Artemis missions, DSN will need to support a constant flow
+of data with the Orion capsule, which will require complex coordination throughout the Agency. In
+July 2023, we reported that DSN is oversubscribed and overburdened with demands due to the
+increasing number of missions it supports and recommended NASA explore more efficient options for
+DSN scheduling, such as maintaining a list of network users by priority. 13
+
+
+
+
+10 Tracking is the function that allows flight controllers to determine the position and velocity of a spacecraft with great
+
+  precision. Telemetry is the collection, processing, and transmission back to Earth of a spacecraft’s performance data.
+  Command is the function that allows remote control of a spacecraft.
+11 NSN provides two categories of communication services: (1) Direct-to-Earth enables direct communication between a
+
+  spacecraft and antennas on Earth and (2) Tracking Data and Relay Satellites provide communication between a spacecraft
+  and one of many satellites in Earth’s orbit that connects to a ground antenna.
+12 NASA has agreements with the Spanish and Australian governments to manage day-to-day operations at the foreign sites
+
+  together with the Jet Propulsion Laboratory, a federally funded research and development center in Pasadena, California, for
+  the Goldstone site.
+13 NASA Office of Inspector General (OIG), Audit of NASA’s Deep Space Network (IG-23-016, July 12, 2023).
+
+
+
+
+                                                                        NASA Office of Inspector General           IG-24-011 6
+Artemis Campaign Management
+NASA’s Exploration Systems Development Mission Directorate (ESDMD) is responsible for managing
+development of systems and programs critical for the Artemis campaign and for planning the Agency’s
+Moon to Mars exploration approach. As directed by the 2022 NASA Authorization Act, NASA established
+the Moon to Mars Program Office within ESDMD to focus on hardware development, mission
+integration, and risk management functions critical to the Agency’s deep space exploration goals. 14 The
+Moon to Mars Program Office oversees development of the SLS rocket, Orion spacecraft, and supporting
+ground systems, in addition to other systems—such as spacesuits and the human landing system—
+needed for future Artemis missions (see Figure 2).
+
+Figure 2: NASA’s Exploration Systems Development Mission Directorate Organization Chart
+
+
+
+
+Source: NASA OIG presentation of Agency information.
+
+The Moon to Mars Program Office, on behalf of ESDMD, is responsible for overseeing the Post-Flight
+Assessment Review (PFAR)—a standardized review process conducted after each mission. As part of
+this process for the Artemis I mission, each of the mission elements, including the SLS, Orion, and EGS
+programs, conducted their own PFAR that then contributed to the overarching Moon to Mars PFAR. The
+PFAR is designed to evaluate how well Artemis I met its mission objectives, assess system performance,
+and identify any flight and ground system anomalies. The primary focus of this exercise is to assess
+NASA’s readiness to proceed to the next mission—Artemis II. The information gathered informs the
+actions necessary to resolve or mitigate issues for future flights. Furthermore, engineers compare the
+actual vehicle performance to pre-flight modeling predictions to determine any necessary adjustments
+to subsequent missions. The Agency conducted the Artemis I PFAR in July 2023. As of February 2024,
+actions items identified during the PFAR process were still open and in work.
+
+
+
+14 NASA Authorization Act of 2022, Pub. L. No. 117-167 (2022).
+
+
+
+
+                                                                 NASA Office of Inspector General   IG-24-011 7
+ARTEMIS I TEST FLIGHT REVEALED CRITICAL
+ISSUES THAT NASA IS WORKING TO ADDRESS
+BEFORE THE ARTEMIS II MISSION
+
+After more than a decade of development, NASA successfully completed the Artemis I mission, meeting
+all four of its primary objectives. Although the Artemis I test flight is considered by the Agency to be a
+significant achievement and sets the stage for the next missions in the Artemis campaign, the flight
+revealed several unexpected issues that NASA is working to address prior to the Artemis II launch.
+Specifically, anomalies with the Orion heat shield, separation bolts, and power disruptions pose
+potential risks to crew safety. Resolution of these issues is among the most significant factors impacting
+NASA’s readiness for Artemis II and the safety of the crew. Moreover, greater than expected launch
+damage required significant repair to the ML-1 and an in-flight loss of communication event revealed
+hardware and process issues. In addition, we identified missed opportunities to optimize Artemis I data
+collection that could have an impact on the Artemis II mission. Collectively, these issues and the steps
+that NASA is taking to address them will impact the Agency’s readiness for Artemis II and its ability to
+safely return humans to and from lunar orbit.
+
+
+Orion Anomalies Pose Significant Safety Risks
+to the Crew
+
+Heat Shield Char Loss
+NASA identified more than 100 locations where
+ablative thermal protective material from Orion’s heat
+shield chipped away unexpectedly during reentry into
+Earth’s atmosphere. During descent, the spacecraft
+reached speeds of nearly 25,000 miles per hour and
+endured temperatures about half as hot as the
+surface of the Sun—nearly 5,000 degrees Fahrenheit.
+Orion’s heat shield is designed to protect the Crew
+Module, its systems, and the crew from this intense
+heat during reentry. While the heat shield successfully
+protected the Crew Module and its systems during
+the Artemis I mission, upon inspection after Orion’s
+recovery, engineers noted unexpected variations in
+the appearance of the heat shield Avcoat—the
+ablative material that helps protect the capsule from
+
+
+
+
+                                                          NASA Office of Inspector General   IG-24-011 8
+the heat of reentry. 15 Specifically, portions of the char layer wore away differently than NASA engineers
+predicted, cracking and breaking off the spacecraft in fragments that created a trail of debris rather than
+melting away as designed (see Figure 3). The unexpected behavior of the Avcoat creates a risk that the
+heat shield may not sufficiently protect the capsule’s systems and crew from the extreme heat of
+reentry on future missions. Moreover, while there was no evidence of impact with the Crew Module,
+the quantity and size of the debris could have caused enough structural damage to cause one of Orion’s
+parachutes to fail. Should the same issue occur on future Artemis missions, it could lead to the loss of
+the vehicle or crew.
+Figure 3: Orion Heat Shield Char Loss After Artemis I Mission
+
+
+
+
+Source: NASA.
+
+In our judgment, the unexpected behavior of the heat shield poses a significant risk to the safety of
+future crewed missions. Recognizing this threat, NASA formed a Tiger Team to investigate the char loss
+phenomenon. 16 The team’s ability to reproduce and model the char loss conditions will influence
+NASA’s corrective actions going forward. Engineers are conducting ground tests to understand the
+Avcoat material’s thermal response. Although they were able to recreate the char loss, they could not
+reproduce the exact material response or flight environment experienced during Artemis I. Ultimately,
+ground testing cannot replicate the exact temperature and speed conditions the heat shield faces during
+reentry. In comparison, Orion’s velocity is about 40 percent faster than what astronauts face in a
+SpaceX Crew Dragon on its return from the International Space Station due to the greater distance Orion
+must travel to return to Earth. The ongoing investigation is scheduled to conclude in the first half of
+2024 following further ground testing.
+Senior NASA leaders expressed commitment to identifying the root cause of the char loss condition and
+making a data-informed decision on the Artemis II path forward. However, they also acknowledged
+they may not be able to identify a definitive root cause. As such, engineers are concurrently
+investigating ways to mitigate the char loss by modifying the heat shield’s design or altering Orion’s
+reentry trajectory. No matter the path forward, like with any engineering system, changes to the heat
+
+
+
+
+15 The Avcoat char is designed to ablate—that is, evaporate or melt from friction with Earth’s atmosphere upon reentry.
+
+16 Tiger teams are composed of diverse discipline experts called upon to solve difficult or complex technical problems.
+
+
+
+
+                                                                      NASA Office of Inspector General         IG-24-011 9
+         shield design or its operational use can lead to unintended consequences and introduce residual risks. 17
+         For instance, altering Orion’s reentry path can create more stressing conditions that exacerbate the char
+         loss phenomenon or introduce new failures or unknowns into the system. Without understanding the
+         residual effects of introducing design and operational changes, it will be difficult for the Agency to ensure
+         that the mitigations or hardware changes adopted will effectively reduce the risks to astronaut safety.
+
+
+         Bolt Melting and Erosion
+        Post-flight inspections of the Crew Module/Service Module separation bolts revealed unexpected
+        melting and erosion that created a gap leading to increased heating inside the bolt during Orion’s reentry.
+        The Crew Module houses four separation bolts located at specified increments on the capsule to provide
+        structural support for the attachment of the Crew Module to the Service Module. Upon reentry to the
+        Earth’s atmosphere, the bolts receive a separation command releasing the Crew Module from the
+        Service Module. The Service Module burns up in Earth’s atmosphere, while the Crew Module continues
+        its descent and landing under the protection of the heat shield. As shown in Figure 4, the separation
+        bolts are surrounded by blocks of thermal protective Avcoat and sealed with thermal protective filler,
+        while their surface is exposed to the extreme heat of reentry. NASA requires the bolts to remain flush
+        with the thermal protective material following Service Module separation to guard against excessive
+        heating. However, during Artemis I, three out of the four bolts experienced an exposed gap that
+        allowed for increased heating to the bolt interior and greater than expected melting and erosion.
+
+Figure 4: Orion Crew Module/Service Module Separation Bolt Melting and Erosion
+
+
+
+
+Source: NASA.
+
+         Separation bolt melt beyond the thermal barrier during reentry can expose the vehicle to hot gas
+         ingestion behind the heat shield, exceeding Orion’s structural limits and resulting in the breakup of the
+         vehicle and loss of crew. Post-flight inspections determined there was a discrepancy in the thermal
+
+
+         17 Residual risks are the remaining risks that exist after the implementation or exhaustion of all mitigation actions in accordance
+
+           with a risk management process.
+
+
+
+                                                                                NASA Office of Inspector General          IG-24-011 10
+model used to predict the bolts’ performance pre-flight. Current predictions using the correct
+information suggest the bolt melt exceeds the design capability of Orion. While the Agency plans to
+redesign the separation bolt for later Artemis missions, to mitigate this issue for Artemis II, the Orion
+Program made minor modifications to the separation bolt design and added additional thermal
+protective barrier material in the bolt gaps. NASA is also exploring changing the Artemis II mission
+reentry trajectory to limit friction and heating on the bolts.
+
+Installation of the separation bolt mechanism on the Artemis II Orion vehicle occurred in September
+2023. Further testing is ongoing; however, NASA cannot complete final separation bolt assessments
+until it concludes the investigation on the heat shield char loss in the first half of 2024 and updates its
+thermal model to account for the full scope of Artemis II design and operational changes. Ultimately,
+the path forward on the separation bolt melting and erosion condition is dependent on how NASA
+addresses the unexpected heat shield conditions because any changes to the heat shield Avcoat
+performance can also impact the bolts’ performance. Moreover, like with the heat shield, without
+understanding the residual effects of introducing design and operational changes, it will be difficult for
+the Agency to ensure that the mitigations or hardware changes adopted will effectively reduce the risks
+to astronaut safety.
+
+
+Uncommanded Power Disruption
+Throughout the Artemis I mission, NASA recorded 24 instances of the Power Conditioning and
+Distribution Unit (PCDU) Latching Current Limiters in the Service Module opening without a documented
+command. 18 Orion’s two PCDUs are responsible for delivering power to the spacecraft’s systems,
+including vehicle propulsion and pressurization. The uncommanded openings are similar to a circuit
+breaker tripping in a home’s electrical panel and disrupting its power. Based on previous ground testing,
+NASA did not expect to experience any instances of this condition during the mission.
+
+During Artemis I, NASA successfully commanded the opened Latching Current Limiters back to their
+closed position; however, the PCDU anomalies prevented normal voltages and currents, interrupted the
+current flow through Orion’s Electrical Power System, and failed to deliver power to some of Orion’s
+components during one occurrence. Moreover, the uncommanded openings resulted in a loss of
+required redundancy for safety-critical systems because only one of two PCDUs were operational during
+most of the occurrences.
+
+The PCDU investigation team determined radiation was the root cause of the power disruptions. NASA
+engineers have implemented and tested flight software changes and operational workarounds to help
+address these power disruption events should they occur during Artemis II. The crew and flight control
+teams will also receive training on how to respond to these anomalies and return the system to normal
+functioning. However, without a verified permanent hardware fix addressing the root cause prior to the
+Artemis II mission, the risk is increased that these systems may not operate as intended, leading to a loss
+of redundancy, inadequate power, and potential loss of vehicle propulsion and pressurization during the
+first crewed mission. The Orion Program has accepted this increased risk for Artemis II.
+
+
+
+18 The PCDU is responsible for taking power generated by the solar arrays and distributing it to Orion’s systems, including the
+
+  spacecraft’s batteries for periods when the solar arrays are not available due to dark conditions. The Latching Current
+  Limiters are the electronic circuit breakers that control the power from the PCDU to the Service Module components and the
+  rest of the vehicle.
+
+
+
+                                                                      NASA Office of Inspector General          IG-24-011 11
+Greater than Expected Launch Damage Necessitates
+Mobile Launcher 1 Repairs and Improvements
+
+ML-1 Damage
+The ML-1 sustained more damage than NASA expected due to the Artemis I launch-induced
+environment. While NASA anticipated that some materials and equipment would be sacrificial to the
+launch and require replacement, ML-1 elevators, electrical equipment, enclosure panel doors, and
+pneumatic tubing sustained significant unexpected damage. The extensive repairs to address this
+damage will cost more than $26 million, roughly 5 times more than the $5 million the EGS Program
+originally set aside for post-Artemis I launch repairs. 19
+
+During launch, the SLS generates exhaust blast plume pressure, random vibration, vibration from
+acoustics, and heat. These loads—collectively known as the launch-induced environment—can cause
+damage to the launch vehicle, payload, launch pad, and surrounding structures. NASA’s models of how
+it expected the ML-1 to respond to the Artemis I launch-induced environment underpredicted some of
+the launch-induced loads—namely horizontal plume pressure, acoustic vibrations, and heat. Loads can
+have unique and interdependent impacts on a structure. According to NASA officials, acoustics had the
+biggest impact.
+
+To anticipate the impact of the launch-induced environment on the ML-1, NASA used computer
+modeling and historical data. NASA focused its acoustic testing on higher frequencies—above 150 hertz
+(Hz)—and did not record measurements below 20 Hz. As a result, the testing was unable to determine
+the impact lower frequencies would have on the ML-1. NASA instead relied primarily on Space Shuttle
+data for the low frequency acoustic estimates, which proved ineffective in predicting the impact of
+lower frequencies. To this point, according to Agency officials, it was acoustic vibrations at the lower
+frequencies—specifically between 6 and 8 Hz—that caused the enclosures housing the ML-1 electrical
+components to open and SLS booster engine corrosive exhaust to penetrate. NASA is working to update
+all environmental loads analyses with data from the Artemis I launch to refine its predictions for the
+Artemis II launch.
+
+NASA was able to assess the damage to the ML-1 soon after the launch and has taken steps to make
+repairs and harden the ML-1 to improve its performance ahead of the Artemis II mission. Repairs to the
+launch facilities began in January 2023 and are scheduled to continue through May 2024.
+
+         Elevators
+ML-1 elevator doors were blown off during the Artemis I launch, allowing the interior structure to be
+heavily damaged. Specifically, the elevator car tracks were bent, and the counterweight was dislodged
+from the track. 20 It took NASA 6 weeks to bring one elevator back online and roughly 4 months to finish
+repairing the second elevator. According to an Agency official, going into the Artemis I mission it was
+not known that the elevator “blast doors” were not in fact blast doors but rather fiberglass doors
+
+19 While the bulk of the repairs are being made to the ML-1, this amount also includes estimates for post-launch refurbishment
+
+  of Launch Pad 39B to make repairs to the launch pad’s flame trench, chillers, and lighting systems. According to EGS Program
+  officials, the ML-1 repairs have been funded by EGS program reserves.
+20 An elevator counterweight is an added weight that gives balance to the elevator system.
+
+
+
+
+                                                                     NASA Office of Inspector General         IG-24-011 12
+designed to keep wind out. In preparation for Artemis II, the elevator doors will be replaced and frames
+hardened to meet the requirements of updated loads analyses from the Artemis I mission (see Figure 5).
+
+Figure 5: ML-1 Elevator Damage Post-Artemis I Launch
+
+
+
+
+Source: NASA.
+
+
+
+        Electrical Equipment and Enclosures
+In total, 60 enclosures that house ML-1 electrical components sustained damage during the Artemis I
+launch. Specifically, vibrations caused from low frequency acoustics bent and opened panel doors
+exposing internal components to corrosive exhaust expelled by the SLS boosters. According to NASA
+officials, some heritage electrical panels reused on the ML-1 from the Space Shuttle era took heavier
+damage than other panels due to these panels using a different type of steel that was less resistant to
+corrosion. Other ML-1 work priorities and the limited availability of steel precluded NASA from
+replacing these panels prior to the Artemis I launch. In preparation for the Artemis II mission, the
+Agency plans to add metal strapping around the cabinets to keep the doors shut—an effort that worked
+to keep other doors closed on the ML-1 (see Figure 6).
+
+
+
+
+                                                        NASA Office of Inspector General   IG-24-011 13
+Figure 6: ML-1 Panel Door Damage Post-Artemis I Launch
+
+
+
+
+Source: NASA.
+
+
+
+         Pneumatic Systems
+ML-1 base and tower pneumatic systems sustained significant damage during the Artemis I launch
+resulting in bent, broken, and disconnected tubing. 21 According to NASA officials, some tubing was
+penetrated by launch debris. Other tubing became disconnected from base pneumatic control panels
+when welds failed to keep the panel enclosures attached to the launcher base under the acoustics loads
+created during launch. To mitigate the effects of acoustic vibrations during launch, NASA plans to
+modify some permanently welded enclosure attachments to spring isolators and change hardline
+connections to flexhose connections for the base pneumatic panels.
+
+In addition to this damage, nearly all of the 316 stainless steel tubing on the exterior of the ML-1
+sustained accelerated corrosion and impingement due to exposure to highly acidic solid rocket booster
+exhaust, which is expected to continue indefinitely even after cleaning. NASA plans to replace
+thousands of linear feet of tubing with a variety that is more corrosion resistant. As we reported in
+October 2023, due to supply chain issues that would have resulted in a 12-week delay, more than half of
+the tubing being replaced—roughly 10,500 linear feet out of 18,000—has been “borrowed” from the
+Mobile Launcher 2 construction effort, which did not need the tubing at that time. 22 For the tubing that
+is not being replaced, the Agency plans to add a special coating to minimize the impacts of corrosive
+exhaust (see Figure 7).
+
+
+
+
+21 The pneumatic lines supply the launcher and rocket with gaseous nitrogen and helium.
+
+22 NASA OIG, NASA’s Management of the Artemis Supply Chain (IG-24-003, October 19, 2023). The ML-1 project purchased the
+
+  tubing from the Mobile Launcher 2 project for $226,046.
+
+
+
+                                                                    NASA Office of Inspector General    IG-24-011 14
+Figure 7: ML-1 Frame Welds and Pneumatic Tubing Post-Artemis I Launch
+
+
+
+
+Source: NASA.
+
+
+
+        Washdown System
+Damage to the gaseous nitrogen supply panel after the Artemis I launch prevented the ML-1’s
+washdown system from working and further exacerbated the damage to the launcher, allowing
+corrosive exhaust residue from the SLS boosters to coat and slowly corrode ML-1 tubing for days after
+the launch. The washdown cycle is composed of eight stages that flow for 4 minutes each with a small
+delay between each stage. Since the system did not work, manual washdowns for the ML-1 started
+5 days after launch on November 21, 2022, and did not finish until 11 days later on December 1, 2022.
+Had the system worked properly, it would have taken 35 minutes to complete the post-launch
+washdown of the launcher. To correct this problem for the Artemis II mission, NASA is making
+modifications to prevent damage to the gaseous nitrogen supply panel by replacing the hardline
+connections with flexhose connections between the facility supply line, vent line, and the panel.
+
+
+Risk of Debris Strike
+The Artemis I launch generated greater than expected foreign object debris due in large part to the
+significant amount of damage to the ML-1. For example, one elevator door blown off during the
+Artemis I launch was captured by the rails on the perimeter of the launch tower, while the other door
+landed beyond the boundaries of the tower. Debris poses a significant risk of catastrophic damage to
+
+
+
+                                                        NASA Office of Inspector General   IG-24-011 15
+vehicle, spacecraft, and critical ground systems. Consequently, in February 2023 the EGS Program stood
+up a Tiger Team to investigate the issues with launch debris. As of August 2023, the team had identified
+three primary root causes for the debris issues: (1) launch-induced environment, (2) ML-1 design
+deficiencies, and (3) process issues. The Tiger Team is developing recommendations to address these
+issues, including improved models that more accurately reflect the launch-induced environment,
+redesign of design deficiency nonconformances, and process changes.
+
+
+In-Flight Communication Losses Underscore the
+Importance of Maintaining the Deep Space Network
+On flight day 18 of Artemis I, NASA encountered a 4.5-hour loss of communications with the Orion
+spacecraft when one of the three DSN facilities—Goldstone—experienced a site-wide outage. Including
+Artemis I, a total of 17 NASA and international partner missions were affected with thousands of
+minutes of telemetry data lost.
+
+Multiple hard drive failures, in combination with an out-of-date operating system, caused the Goldstone
+outage. The DSN’s virtual hosting hardware called the Private Cloud Appliance (PCA) includes 24 hard
+drives. NASA was relying on the system’s internal redundancy, which is designed to withstand up to
+four hard drives failing. However, the Agency was not aware that two hard drives had already failed
+over the 12 months preceding the Artemis I mission. Bugs in the out-of-date PCA software prevented
+failure indicators from operating, including the display of warning hard drive status lights and the
+automated recovery and system reboot function. Figure 8 depicts a PCA, its 24 hard drives, and where
+the hard drive status lights are located.
+
+Figure 8: Depiction of DSN Private Cloud Appliance
+
+
+
+
+Source: NASA OIG presentation of Agency information.
+
+
+
+                                                        NASA Office of Inspector General   IG-24-011 16
+The Goldstone communication outage encountered during the Artemis I mission can largely be
+attributed to network maintenance deferrals and deterioration of hardware, which have been long-
+standing issues for NASA’s DSN. We previously reported that budget reductions challenged DSN’s ability
+to maintain performance levels and threatened future reliability. 23 Specifically, when SCaN reduced
+DSN’s budget in fiscal year 2013, DSN proposed to delay key components of its project to modernize and
+expand its hardware, reduce personnel at certain locations, and cancel and delay maintenance facility
+tasks. In fact, the PCAs—deployed in 2016—had only had minor hardware upgrades, leaving them
+susceptible to software bugs for extended periods of time.
+
+Further compounding the issue is the difficulty DSN officials face in finding time when they can take
+PCAs offline for maintenance given the increasing demand on the DSN. In July 2023, we reported that
+DSN is currently operating at capacity, with demand exceeding supply by 40 percent at times. 24 We also
+reported that demand for DSN support is projected to increase dramatically—by a factor of 10—in the
+next decade due to the increase in the number of deep space missions and the complexity of human
+exploration missions. Because each DSN complex relies on a single PCA to host its antenna operations,
+performing maintenance procedures typically causes operational downtime. Consequently, to maintain
+network stability prior to and during critical mission phases, such as the months leading up to the
+Artemis I launch, DSN officials defer maintenance and updates on the PCAs.
+
+NASA has begun to take corrective actions to mitigate the DSN issues that impacted Artemis I
+communications. In January 2023, SCaN convened a Failure Review Board to investigate the Goldstone
+outage. Four months later, the Board produced a comprehensive report that included a root cause
+analysis as well as recommendations. The Board identified weaknesses in NASA’s risk assessment and
+prioritization processes, which should have elevated the PCA to near-term action but instead relied on
+the hardware’s internal redundancy. The Board also recommended that DSN and SCaN work to review
+existing risks, determine if new risks should be documented, and push for stronger advocacy at the
+Agency level for additional funding and more frequent operational downtime.
+
+SCaN officials have also taken steps to address the equipment issues and implement process
+improvements. SCaN replaced the four faulty hard drives that caused the Artemis I Goldstone outage,
+upgraded the PCA software and operating systems, and pre-staged on-site replacement drives for a
+quicker recovery should another outage occur. In addition, the Program implemented automated PCA
+monitoring capabilities, improved the recovery and restart processes, and documented the manual
+workaround, which brought the system back online.
+
+Further guarding against the potential for an outage during Artemis II, NASA has several new agreements
+in place with international partners to provide backup coverage should a similar event occur. For example,
+the Japanese Aerospace Exploration Agency has several antennas in its network, and the European Space
+Agency has a similar footprint as the DSN. This backup coverage is especially important for NASA’s first
+crewed Artemis mission because, according to the Failure Review Board, the risk of additional drives failing
+and disrupting communication during the mission is increasingly likely due to the hardware’s age. In fact,
+since the Artemis I mission, two similar failures have occurred at Canberra and Goldstone, requiring the
+replacement of three additional hard drives. Looking forward, it is critical that the Agency continues to
+focus on improving DSN’s maintenance, operations, and reliability to better ensure the network does not
+encounter outages that could put the Artemis II crew and spacecraft at risk.
+
+
+23 NASA OIG, NASA’s Management of the Deep Space Network (IG-15-013, March 26, 2015).
+
+24 IG-23-016.
+
+
+
+
+                                                                NASA Office of Inspector General   IG-24-011 17
+Missed Data Collection Opportunities Extend Known
+Risks to Future Crewed Missions
+Artemis I provided NASA the opportunity to test integrated systems in the actual flight environment that
+Artemis missions will operate. The mission also represented a critical opportunity for known risk
+reduction ahead of Artemis II. However, limited collection of imagery, telemetry, and physical evidence
+impacted NASA’s ability to fully evaluate and address certain launch, landing, and recovery risks.
+
+
+Imagery Issues
+The Artemis I mission experienced numerous imagery issues during launch, limiting the availability of
+quality launch imagery data. These issues were further exacerbated by NASA’s decision to launch at
+night. According to Moon to Mars Program Office officials and the Artemis I technical baseline
+document, daylight launches are highly desired to enhance data collection during key events but are not
+a requirement. 25 After two unsuccessful daylight launch attempts, NASA determined the program cost
+and schedule risk associated with waiting for another daytime launch window outweighed the risk of a
+night launch for Artemis I. The Agency verified and validated camera settings prior to launch as
+required; however, it did not reverify and revalidate that the camera settings were accurately adjusted
+for the conditions of a night launch due to lack of procedures. 26 According to Agency officials, software
+issues caused the cameras to not accept the settings that adjusted for the conditions of the launch
+environment. As a result, the Artemis I launch experienced exposure issues for 32 of 33 cameras,
+including under-exposure that resulted in images that
+were too dark. The mission imagery also saw the
+field of view slightly out of alignment for six cameras,
+camera fogginess, and high-speed digital scan lines in
+images. Should improperly adjusted camera
+equipment recur on Artemis II, the Agency risks
+missing detection of critical events that can impact
+crew and vehicle safety.
+
+Imagery is a key contributor to NASA’s ability to
+identify and collect data necessary to evaluate
+mission performance. Of primary concern is
+collecting imagery data on vehicle integrity, attitude
+and guidance, booster separation, main engine and
+booster plume effects, and ascent debris releases.
+For example, a primary flight test objective for
+Artemis I was to identify liftoff, ascent, and
+separation debris. Debris impacting the launch
+vehicle during liftoff and ascent can cause
+catastrophic damage leading to the loss of mission and ultimately the loss of crew when astronauts are
+on board. During Artemis I, engineers from NASA‘s Joint Engineering Team for Imagery described a
+significant impact to their ability to identify ascent debris due to the dark conditions and improperly
+
+25 The Mission Definition Baseline, the Artemis I technical document, serves as the central repository for key mission specific
+
+  requirements and objectives.
+26 NASA GSDO-PLN-1195, Rev. D, Cross-Program Processes and Agreements for Launch Site Ground Operations (March 3, 2021).
+
+
+
+
+                                                                       NASA Office of Inspector General          IG-24-011 18
+adjusted camera equipment. For example, engineers could not see the upper two-thirds of the SLS or
+the debris shedding events from the forward portion of the integrated vehicle. Since debris
+identification and sizing could not be performed due to the camera issues and the night launch, NASA
+was unable to close an unresolved SLS booster throat plug debris risk that the Agency has been tracking
+for more than 10 years. 27
+
+The EGS Program stood up a Tiger Team in January 2023 to address the technical imagery issues and has
+already taken some corrective actions. For the exposure issue, EGS is implementing software changes,
+updating procedure steps, and conducting training. For the field of view issue, corrective actions include
+making procedural clarifications and updating training. EGS is also adding new verification and
+validation procedures. 28 Any additional work required to implement these changes could impact the
+EGS Program’s schedule for Artemis II.
+
+
+Key Hardware Not Recovered
+NASA was unable to recover jettisoned hardware from the Orion capsule during Artemis I landing and
+recovery operations. Of primary importance were recovery of the three main parachutes, which are
+used to slow the Crew Module for landing to a speed that ensures astronaut safety, and the Forward
+Bay Cover, which protects Orion’s parachutes during the heat of reentry. A failure of any of these
+systems can lead to crew injuries or fatalities. Orion had an Artemis I flight test objective to
+demonstrate nominal end-of-mission main parachute and Forward Bay Cover recovery. 29 The Landing
+and Recovery Team is responsible for recovering the Orion vehicle and crew—along with jettisoned
+hardware—after splashdown and returning them to land. 30 While the Agency had plans, people,
+procedures, and hardware in place, the recovery team was not able to arrive at the splashdown location
+before the jettisoned hardware sank in the Pacific Ocean. Although pre-flight analysis indicated a
+possibility of enough buoyancy to allow for the recovery forces to arrive in time, the hardware sank
+faster than projected.
+
+Post-flight inspections of jettisoned hardware allow the Agency to learn more about how the hardware
+performed, as there is no substitute for the physical assessment of components flown in the actual flight
+environment. Without recovery and physical inspection of the parachutes and Forward Bay Cover,
+certain details of their actual performance remain unclear, requiring the Agency to rely on imagery to
+capture and evaluate as much of the hardware’s performance as possible. According to Agency officials,
+for future missions, the Orion Program is evaluating adding flotation capabilities to the jettisoned
+hardware to allow additional time for the recovery teams to recover or inspect them for post-flight
+analysis.
+
+
+
+27 The SLS booster throat plug is an environmental barrier that prevents heat, dust, and moisture from getting inside the
+
+  booster before it ignites.
+28 Verification and validation is a testing process during which NASA verifies that a system meets its requirements and validates
+
+  that a system works as intended.
+29 Recovery of the parachutes and Forward Bay Cover was a secondary flight test objective that the Agency considered
+
+  desirable but not mandatory. NASA’s rationale for recovering jettisoned flight hardware is that it is critical for post-flight
+  engineering analysis.
+30 The interagency Landing and Recovery Team, led by the EGS Program, consists of personnel and assets from the
+
+  U.S. Department of Defense, including Navy amphibious specialists and Air Force weather specialists, and engineers and
+  technicians from Kennedy Space Center, Johnson Space Center, and the Lockheed Martin Corporation.
+
+
+
+                                                                        NASA Office of Inspector General           IG-24-011 19
+        Parachutes
+NASA could not examine the condition of Orion’s
+three main parachutes because they sank to the
+bottom of the Pacific Ocean before the recovery
+team could reach them. Landing is one of the riskiest
+phases of the mission for astronaut safety. Returning
+to Earth from lunar orbit at speeds that approach
+25,000 miles per hour, the Orion spacecraft relies on
+its parachutes to slow the vehicle to a safe landing
+speed of 20 miles per hour or less. Post-flight
+inspection of parachute hardware can provide
+important information on flight performance and
+anomaly resolution, such as debris impact
+assessments, and can facilitate identification of
+hardware issues otherwise undetected.
+
+NASA performed extensive testing to certify the
+parachutes prior to Artemis I; however, the Agency
+was still discovering new findings towards the end of
+that testing, reinforcing the complexity associated
+with parachute design, testing, and analytical modeling
+that predicts flight parachute deployment and performance. The importance of recovering a parachute
+for analysis was demonstrated in NASA’s Commercial Crew Program, which discovered unexpected
+parachute findings with every crewed mission upon physical inspection of the recovered hardware and
+imagery. These findings—some of which resulted in design changes—would have gone unidentified
+without parachute recovery and inspection. Likewise, recovering the Artemis I parachutes would have
+allowed NASA to inspect and evaluate the potential for debris impact damage as previously discussed.
+
+        Forward Bay Cover
+After Orion reenters Earth’s atmosphere, it jettisons the Forward Bay Cover to allow for the deployment
+of its parachute system. The Forward Bay Cover jettison operation can lead to parachute line
+entanglements or recontact with the vehicle, preventing proper parachute deployment and risking crew
+safety. For Artemis I, predicted jettison loads were higher than the Forward Bay Cover’s joint capability,
+resulting in excessive stress on its fasteners. Overloading the fasteners can potentially lead to their
+failure, causing the Forward Bay Cover to recontact the Orion capsule after being jettisoned and damage
+critical flight safety hardware. Without recovery and post-flight inspection of the Forward Bay Cover,
+details of its actual jettison performance are unclear. Additionally, there was insufficient onboard and
+external imagery to conduct a performance assessment of key Forward Bay Cover deployment
+characteristics to determine whether there were any parachute line entanglements or recontact with
+the spacecraft after jettison.
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-011 20
+Inaccessible Data
+The Orion Program also struggled to process a portion of the vehicle’s telemetry data resulting in a
+degraded assessment of critical events from the Artemis I mission. Engineers estimate that 20 to
+25 percent of Orion’s telemetry data will need additional processing to become usable for analysis. This
+has prevented the Agency from using this data to fully achieve some of its flight test objectives meant to
+reduce risk for the Artemis II mission. Based on preliminary investigations, engineers believe the
+information was recorded on the vehicle and exists in a raw format; however, software designed to
+extract the data from the Orion vehicle and convert it into a usable format is not performing as
+intended. The Orion Program is still determining the root cause of this issue. Although the inaccessible
+data prevents the detailed assessment of some measures of performance related to vehicle
+aerodynamics; mechanisms; and guidance, navigation, and control; Program officials noted that based
+on the system’s overall performance and their review of the available data they are confident the
+vehicle performed as expected in the flight environment. While the Orion Program continues its
+Artemis I data recovery efforts and works towards a data processing solution, without a known root
+cause and implementation of corrective actions, unreadable data may recur on Artemis II, potentially
+impacting NASA’s future risk mitigation efforts as the Artemis missions grow more complex.
+
+
+
+
+                                                          NASA Office of Inspector General   IG-24-011 21
+SIGNIFICANT UPGRADES, MODIFICATIONS,
+TESTING, AND INTEGRATION ACTIVITIES REMAIN,
+DELAYING THE ARTEMIS II LAUNCH DATE BY
+ALMOST ONE YEAR
+
+In addition to addressing the technical issues and risks discovered from the Artemis I test flight, NASA
+has further work and testing that it must complete to safely return humans to lunar orbit. NASA’s
+planned work for Artemis II includes upgrades and modifications to the Orion spacecraft, ground
+facilities, and SLS rocket. Although NASA is making progress on this work, verification and validation
+testing for some of these upgrades and modifications is taking longer than expected. Furthermore,
+qualification and acceptance testing of Orion’s component parts uncovered circuitry and battery issues
+that require additional time to resolve. As a result, in January 2024, NASA announced that it would push
+the Artemis II launch date from November 2024 to September 2025. While NASA works to address
+these issues, the Agency will need to balance the timing of stacking all the various components of the
+SLS and Orion on the ML-1 with the potential for additional delays to correct these and any new issues
+identified during testing.
+
+
+NASA Is Making Planned Artemis II Upgrades and
+Modifications in Support of Adding Crew, but Significant
+Testing Remains
+In support of the Artemis II mission and the addition of crew, NASA is making a variety of planned
+upgrades and modifications to various Orion, EGS, and SLS systems and facilities. Among the more
+costly and significant are adjustments to the Orion spacecraft’s side hatch, addition of a ground-based
+Emergency Egress System, and upgrades to the SLS booster separation motor covers. As of January
+2024, verification and validation testing of some of these efforts was ongoing. During the verification
+and validation testing process, NASA verifies that a system meets its requirements and validates that a
+system works as intended. NASA also identifies and addresses any issues discovered during this process
+and conducts additional testing as needed. Although NASA is making progress on this work, recent
+schedules show that more time is needed to test some of the planned upgrades and modifications to
+the Artemis II systems.
+
+
+
+
+                                                        NASA Office of Inspector General   IG-24-011 22
+    •    Orion Avionics Boxes. The Orion Program successfully refurbished and installed nine avionics
+         boxes recovered from the Artemis I Orion slated for reuse—an activity the Agency had
+         previously thought would take much longer, be more challenging, and represent the longest
+         path to achieving Artemis II readiness. 31 This effort was completed in February 2023.
+    •    Orion ECLSS. Artemis II will be the first flight with the advanced Environmental Control and Life
+         Support System (ECLSS). Key ECLSS components include atmosphere revitalization, pressure
+         control, crew water supply, and crew waste management. NASA previously flew and tested
+         several Orion ECLSS components on the International Space Station. The Artemis II crew will
+         further assess performance of ECLSS capabilities while orbiting Earth to ensure the system is
+         working as expected before committing to the lunar flyby portion of the mission. ECLSS
+         components were installed in multiple stages with the final ECLSS component installed in July
+         2023. As of January 2024, verification and validation testing was in work, but additional tests
+         are required due to a separate issue with Orion’s circuitry that impacts ECLSS functionality.
+    •    Orion Side Hatch. The Orion Program is working to address a 7-year-long concern related to the
+         Orion side hatch—the primary entry and exit vehicle path for the crew and ground support
+         personnel prior to launch and after landing. The hatch does not meet pressure opening
+         requirements because it does not have a valve to perform pressure equalization, making it
+         difficult to open manually. This is especially concerning should an emergency require a rapid
+         extraction of the crew while on the launch pad or after splashdown. While methods exist to
+         equalize pressure across the hatch prior to opening, there are some limitations. The Agency is
+         planning to test its emergency egress procedures with the crew to identify any additional
+         required mitigations to address this issue. The scheduled completion date is spring 2024.
+    •    Ground Environmental Control System. The EGS Program replaced its Environmental Control
+         System (ECS) with a new one that will provide air supply, thermal control, and pressurization to
+         the integrated Artemis systems while in the Vehicle Assembly Building (VAB). The Program is
+         also making modifications to the ECS at Launch Pad 39B. At a total cost of $60 million,
+         construction of the launch pad ECS was completed in October 2023 and construction of the VAB
+         ECS was completed in December 2023; however, construction issues and resource availability
+         constraints have caused delays to system testing at both the VAB and launch pad.
+    •    Liquid Hydrogen Sphere. The EGS Program built a new 1.4-million-gallon liquid hydrogen tank
+         that will supplement the 850,000-gallon tank used during the Artemis I mission. This new, larger
+         tank will enable the Agency to reattempt a launch just 24 hours after a scrub. The EGS Program
+         will complete construction of this project in May 2024 at a cost of $68 million.
+    •    Emergency Egress System. The EGS Program constructed a launch pad escape system for flight
+         crew and ground support personnel to evacuate the pad up to a few seconds before launch.
+         The Emergency Egress System will include three platforms on the ML-1 and four baskets. Each
+         of the baskets will have the capability of holding five people. Similar to a zipline, baskets are
+         connected to a slidewire that can transport crew from the ML-1 to the emergency egress
+         landing pad where an armored vehicle will transport them to one of two medical triage sites.
+         The EGS Program was scheduled to complete construction of this system in February 2024 at a
+         cost of $35 million; however, construction issues have delayed the start of testing.
+
+
+31 The Orion spacecraft houses a number of state-of-the-art avionics units to handle data generated by onboard systems,
+
+  control the various functions of the vehicle, carry out commands sent from the ground or crew, and return telemetry data for
+  insight into system status.
+
+
+
+                                                                    NASA Office of Inspector General         IG-24-011 23
+    •    Emergency Detection System. The SLS Program installed an autonomous monitoring system
+         that uses the existing network of sensors and data-collecting instrumentation on the rocket to
+         monitor the health of the vehicle systems. If the emergency detection system detects an
+         impending anomaly, it is designed to trigger an abort faster than a human could manually
+         perform, making it a critical element for human space flight. The SLS Program completed this
+         system in June 2023 at a cost of $7.5 million.
+    •    Booster Separation Motor Covers. The SLS Program upgraded the booster separation motor
+         covers from aluminum to steel for the Artemis II mission to better protect this vulnerable area
+         against debris impact. Each SLS booster includes 8 booster separation motors—for a total of
+         16 per launch—that are designed to separate the boosters from the SLS core stage about
+         2 minutes into flight. Booster separation allows the core stage to continue propelling the
+         vehicle to orbit without the added mass of the fuel-depleted boosters. The SLS Program is
+         scheduled to complete this upgrade in May 2024 at a cost of $1.4 million.
+
+
+Issues Discovered During Qualification and Acceptance
+Testing of Key Orion Components Led to Decision to
+Delay Artemis II
+NASA is required to test critical system performance prior to assembling and integrating the SLS and
+Orion on the ML-1. 32 During qualification and acceptance testing of Orion’s circuitry and Crew Module
+batteries, NASA uncovered hardware defects that increase crew safety risks. 33 Findings from these
+tests, as well as ongoing work on the heat shield as previously discussed, were in large measure the
+reasons NASA delayed the Artemis II mission to September 2025.
+    •    Orion Circuitry Impacts to ECLSS. In August 2023, the Orion Program uncovered a hardware
+         design deficiency with the circuitry used to command critical components of the Atmosphere
+         Revitalization System, which removes carbon dioxide and trace contaminants from the cabin
+         atmosphere and monitors the composition of the air. Of particular significance, these faulty
+         circuits drive the valves for the removal of carbon dioxide from the crew cabin. The Program
+         deemed this condition unsafe for human space flight because high levels of carbon dioxide can
+         deplete breathable oxygen. As a result, NASA is working to make modifications to the circuitry
+         hardware in difficult-to-access locations inside the assembled Orion spacecraft and perform
+         additional tests to ensure operability.
+    •    Orion Battery Impacts to Launch Abort. During functional testing of the Crew Module battery,
+         the Agency identified electrical system performance deficiencies that could limit the four
+         batteries’ ability to fully power the spacecraft to landing in the event of an abort, increasing the
+         risk of crew loss. The Orion Program needs to complete a series of tests to determine the
+         accuracy of the abort environments. The investigation into this issue is in the early stages, and
+         NASA has not yet developed a path forward.
+
+
+
+
+32 NASA Procedural Requirements 7123.1D, NASA Systems Engineering Processes and Requirements w/Change 1 (2023).
+
+33 Qualification testing is a formal test conducted on flight-configured hardware for the purpose of qualifying the product
+
+  design. Acceptance testing confirms flight hardware performs as qualified and is generally free of defects.
+
+
+
+                                                                      NASA Office of Inspector General          IG-24-011 24
+Premature Stacking Could Create Risk of Cost Increases
+and Additional Schedule Delays
+Occurring at the VAB, stacking is the process in which all the various components of the SLS and Orion
+are integrated on the ML-1. Stacking for the Artemis II mission begins with the SLS boosters, followed
+by the core stage, launch vehicle stage adapter, Interim Cryogenic Propulsion Stage (ICPS), Orion stage
+adapter, and umbilical mates. Once these pieces are integrated on the ML-1, EGS will roll the vehicle to
+the launch pad for integrated testing and a tanking test. 34 After testing, EGS will roll the vehicle back to
+the VAB, integrate the Artemis II Orion, and conduct additional integrated testing. See Figure 9 for a
+depiction of the Artemis stacking process.
+
+Figure 9: Artemis Stacking Process
+
+
+
+
+Source: NASA.
+
+
+
+
+34 During tanking operations, teams will load the SLS rocket with liquid oxygen and liquid hydrogen, beginning with the rocket’s
+
+  core stage and then the ICPS.
+
+
+
+                                                                      NASA Office of Inspector General         IG-24-011 25
+Once stacking of the integrated systems begins, NASA must carefully monitor and track key Artemis II
+hardware that has a limited operating life before it must be serviced or replaced. In particular, the SLS
+solid rocket boosters—the first element in the stacking process—have a life of 12 months once stacked
+in their upright position on the ML-1 in the VAB. 35 However, there are options to extend the stack life of
+the boosters. For the Artemis I mission, although booster stacking began in November 2020, the Agency
+was able to extend the booster stack life to accommodate a November 2022 launch. The ability to
+extend booster stack life is based on actual hardware measurements of each individual booster. As
+such, there is no guarantee that the life of the boosters for the Artemis II mission can be extended the
+same amount of time as the Artemis I mission. Premature stacking of the Artemis II boosters could
+exhaust their usable life requiring their replacement—a costly and time-consuming effort.
+
+Unresolved issues from the Artemis I mission increase
+the risk of delays that could put booster stack life in
+jeopardy if NASA begins stacking before it fully
+understands the extent to which system and
+operational modifications are required for Artemis II.
+For example, NASA has not yet established a course of
+action and schedule to address Orion anomalies that
+must be mitigated before Artemis II. As discussed
+previously, the Artemis I test flight revealed
+unexpected Orion heat shield char loss, separation
+bolt melting and erosion, and power disruptions that
+require mitigation. If the Agency determines it needs
+to make a hardware design change on a system after
+it begins stacking, unstacking could be costly and time
+consuming, especially if the time to complete a
+hardware modification outruns the limited lifespan of
+stacked systems. Moreover, NASA requires complete system-level verification and validation testing
+before assembly and integration with other systems. 36 As components undergo testing to confirm their
+functionality, there is a risk of delays should issues arise, as evidenced by NASA’s decision to delay
+Artemis II to address Orion life support system circuitry and Crew Module battery issues discovered
+during recent testing. While NASA’s decision to push back the Artemis II launch date will provide the
+Agency with more time to prepare for the first crewed mission, NASA will need to appropriately balance
+its time frame for corrective actions with the start of stacking.
+
+
+
+
+35 The SLS, Orion, and EGS programs are responsible for identifying, monitoring, and tracking key Artemis II limited operating
+
+  life items (LOLI). LOLIs are time- or usage-based limitations on hardware that must be carefully monitored to ensure the
+  useful life does not expire and become a threat to processing or mission success. The top three LOLIs that could have the
+  biggest impact on Artemis II are (1) battery life; (2) the number of rollouts of the vehicle to the pad, for which the limit is
+  seven; and (3) booster stack life.
+36 NASA Procedural Requirements 7123.1D.
+
+
+
+
+                                                                        NASA Office of Inspector General           IG-24-011 26
+CONCLUSION
+
+Safely returning humans to and from lunar orbit presents a set of unique challenges and risks that NASA
+has not faced since the Apollo era. The Artemis II mission will serve as NASA’s first crewed test flight of
+the integrated SLS, Orion, and ground systems and will include the first-time use of numerous critical
+elements that will provide support to the crew both during launch and the mission. NASA utilizes flight
+tests to examine how systems perform in their intended environment allowing the Agency to
+confidently mitigate risks, certify system designs, and validate mission capabilities. While NASA officials
+consider Artemis I an overall success, providing important data and lessons learned, the mission also
+revealed significant technical issues that the Agency needs to address ahead of Artemis II. Most
+importantly, identifying and mitigating the root cause of the Orion heat shield and separation bolt
+melting and erosion issues will be crucial for the Agency moving forward.
+
+To its credit, NASA management has expressed a commitment to understanding the root cause of the
+heat shield char loss prior to the Artemis II launch. Moreover, the Agency is taking appropriate action to
+address other issues that impact its launch readiness, including upgrades and modifications required to
+support the addition of crew and testing and integration of the SLS, Orion, and ML-1. Moving the
+Artemis II launch date to September 2025 allows the Agency additional time to investigate the Orion
+heat shield and address newly discovered issues involving Orion’s circuitry and Crew Module batteries.
+As NASA proceeds with preparation and system assembly for the Artemis II launch, any decisions
+regarding how to mitigate Artemis I issues will need to be weighed against the ability to modify, remove,
+or replace at-risk hardware if needed after stacking begins.
+
+Human space flight by its very nature is inherently risky, and the Artemis campaign is no exception. We
+urge NASA leadership to continue balancing the achievement of its mission objectives and schedule with
+prioritizing the safety of its astronauts and to take the time needed to avoid any undue risk.
+
+
+
+
+                                                          NASA Office of Inspector General   IG-24-011 27
+RECOMMENDATIONS
+
+To ensure the safety of the crewed Artemis II mission, we recommended the Associate Administrator for
+Exploration Systems Development Mission Directorate:
+    1. Ensure the root cause of Orion heat shield char liberation is well understood prior to launch of
+       the Artemis II mission.
+    2. Conduct analysis of Orion separation bolts using updated models that account for char loss,
+       design modifications, and operational changes to Orion prior to launch of the Artemis II mission.
+    3. Require EGS conduct additional verification and validation for launch imagery equipment prior
+       to launch attempts should launch conditions change.
+    4. Reexamine procedures to better ensure recovery of Orion jettisoned hardware for the Artemis II
+       mission.
+    5. Develop a corrective action plan to mitigate or prevent the recurrence of uninterpretable Orion
+       telemetry data for the Artemis II mission.
+    6. Establish a course of action and timeline for individual Artemis system design changes before
+       beginning integrated system assembly stacking operations.
+
+We provided a draft of this report to NASA management who concurred with our recommendations and
+described planned actions. We consider the proposed actions responsive and will close the
+recommendations upon completion and verification. While the Agency noted that its planned actions
+have been completed for Recommendations 4, 5 and 6, we were not provided evidence of these actions
+prior to issuance of this report.
+
+In addition to responding to the recommendations, the Agency provided comments on several concerns
+it had with the audit. First, the Agency noted that “the report’s tone might suggest that the OIG [Office
+of Inspector General] identified the risks discussed, when in fact, all recommendations were already
+being addressed by NASA through forward risk-based disposition prior to the audit.” We agree NASA
+had identified most of the risks we discuss in this report, and we noted that the Agency is taking
+appropriate action to support the addition of crew and testing and integration of the SLS, Orion, and
+ML-1. Nonetheless, final and definitive mitigation actions on these risks had not been completed at the
+time of our reporting. In our judgment, completing these recommendations would better ensure the
+safety of the crewed Artemis II mission.
+
+Second, the Agency questioned the OIG’s role and qualifications in making what it characterizes as
+“engineering recommendations.” The Agency further noted that “combining the roles of auditing and
+engineering recommendations could result in conflicts of interest, compromise the integrity of existing
+safety processes, and potentially decouple objective risk management in ongoing engineering
+development.” We disagree. Providing timely recommendations aimed at further ensuring the safety of
+astronauts in the upcoming Artemis II mission is not only well within the oversight role of the OIG but is
+a vital responsibility of our office. We will continue to provide the level of oversight of the Artemis
+campaign that we deem appropriate. That said, it is not our intention, nor have we attempted, to
+replace the technical expertise of qualified individuals within ESDMD or the technical authority
+
+
+
+                                                         NASA Office of Inspector General   IG-24-011 28
+organizations which are staffed with experienced engineering and science professionals. Our analysis
+relies on the documents and testimony of ESDMD officials and those from technical authority
+organizations.
+
+Third, the Agency noted its “objective to cooperate fully and provide OIG with access to information and
+documentation relevant to their audits, evaluations, and investigations” as well as the time and effort
+spent responding to activities associated with this audit. We appreciate ESDMD’s efforts in supporting
+our work, and we were generally provided what we needed to complete the audit. Nonetheless, we
+believe more efficient access to requested information would have significantly reduced the workload
+for both the OIG and the Agency.
+
+The Artemis campaign is NASA’s most high-profile ongoing activity involving both extraordinary costs as
+well as missions that by their very nature put humans at risk. Given the high stakes, NASA OIG will
+continue to exercise its statutory oversight role to increase the transparency of Artemis activities by
+providing independent and objective analysis and information to the Agency, Congress, and the public.
+Looking forward, we will continue to work with NASA in balancing the effort to support our oversight
+role with the Agency’s important work in ensuring the success of the Artemis campaign.
+
+
+
+Major contributors to this report include Ridge Bowman, Human Exploration Audits Director;
+Deanna Lee, Assistant Director; Kelsey Dalton; Antonia Islas; Sarah McGrath; and Dimitra Tsamis.
+Additionally, Amanda Perry provided editorial and graphics support, Cody Bryant provided data analytics
+support, and Shani Dennis provided legal support.
+
+If you have questions about this report or wish to comment on the quality or usefulness of this report,
+contact Laurence Hawkins, Audit Operations and Quality Assurance Director, at 202-358-1543 or
+laurence.b.hawkins@nasa.gov.
+                     Digitally signed by
+                     George Scott
+                     Date: 2024.04.30
+                     13:44:32 -04'00'
+George A. Scott
+Acting Inspector General
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-011 29
+                                                                                              Appendix A
+
+
+
+
+APPENDIX A: SCOPE AND METHODOLOGY
+We performed this audit from February 2023 through February 2024 in accordance with generally
+accepted government auditing standards. Those standards require that we plan and perform the audit
+to obtain sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objective. We believe that the evidence obtained provides a reasonable basis for our
+findings and conclusions based on our audit objective.
+
+In this report we examined NASA’s readiness for the Artemis II mission. To accomplish our objective, we
+conducted interviews and had discussions with officials at NASA Headquarters, Marshall Space Flight
+Center, and Johnson Space Center. Additionally, we conducted a site visit at Kennedy Space Center to
+speak with program officials and observe post-Artemis I damage to ground facilities and preparations in
+place for Artemis II.
+
+To determine the extent to which NASA met its Artemis I objectives, we reviewed key documents to
+evaluate mission performance as well as NASA’s mission coverage and preliminary flight reviews.
+Additionally, we assessed NASA’s progress towards its Artemis I Post-Flight Assessment Review (PFAR)
+and knowledge capture efforts. We did not review the Artemis I PFAR because some information within
+the review was not yet finalized or reviewed by NASA management. As such, there may be other risks
+regarding Artemis II readiness not identified within this report. However, to assess Artemis I mission
+performance, we interviewed officials from ESDMD; the SLS, Orion, EGS, and SCaN programs; and other
+internal and external technical experts and stakeholders from the Office of Safety and Mission
+Assurance, Flight Operations Directorate, and the Aerospace Safety Advisory Panel.
+
+To assess the Agency’s progress towards Artemis II, we examined each of the deep space exploration
+systems’ performance reviews, planned schedules, risk analyses, mission integration reviews, and
+quarterly program reviews. We also visited Kennedy Space Center and observed the impact of Artemis I
+on launch facilities and the status of repairs, modifications, and upgrades to ground systems.
+Additionally, we had discussions and interviewed members of the Office of Safety and Mission
+Assurance, Office of the Chief Medical Officer, and the Aerospace Safety Advisory Panel to gain insight
+into safety risks.
+
+
+Assessment of Data Reliability
+We did not use computer-processed data to perform this audit.
+
+
+Review of Internal Controls
+We assessed internal controls and compliance with requirements related to the Artemis campaign’s first
+two missions. Control weaknesses are identified and discussed in this report. However, because our
+review was limited to these internal control components and underlying principles and further limited
+by our inability to assess the Artemis I PFAR, it may not have captured all internal control deficiencies
+that existed at the time of this audit. Our recommendations, if implemented, will improve the identified
+control weaknesses.
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-011 30
+                                                                                             Appendix A
+
+
+
+Prior Coverage
+During the last 5 years, the NASA OIG and Government Accountability Office have issued 14 reports of
+significant relevance to the subject of this report; they can be accessed at
+https://oig.nasa.gov/audits/auditReports.html and https://www.gao.gov.
+
+       NASA Office of Inspector General
+NASA’s Management of the Artemis Supply Chain (IG-24-003, October 19, 2023)
+
+Audit of NASA’s Deep Space Network (IG-23-016, July 12, 2023)
+
+NASA’s Management of the Space Launch System Booster and Engine Contracts (IG-23-015,
+May 25, 2023)
+
+NASA’s Management of the Mobile Launcher 2 Contract (IG-22-012, June 9, 2022)
+
+NASA’s Management of the Artemis Missions (IG-22-003, November 15, 2021)
+
+Artemis Status Update (IG-21-018, April 19, 2021)
+
+NASA’s Management of the Orion Multi-Purpose Crew Vehicle Program (IG-20-018, July 16, 2020)
+
+Audit of NASA’s Development of Its Mobile Launchers (IG-20-013, March 17, 2020)
+
+NASA's Management of Space Launch System Program Costs and Contracts (IG-20-012, March 10, 2020)
+
+       Government Accountability Office
+Space Launch System: Cost Transparency Needed to Monitor Program Affordability (GAO-23-105609,
+September 7, 2023)
+
+NASA Lunar Programs: Improved Mission Guidance Needed as Artemis Complexity Grows
+(GAO-22-105323, September 8, 2022)
+
+NASA Lunar Programs: Moon Landing Plans Are Advancing but Challenges Remain (GAO-22-105533,
+March 1, 2022)
+
+NASA Human Space Exploration: Significant Investments in Future Capabilities Require Strengthened
+Management Oversight (GAO-21-105, December 15, 2020)
+
+NASA Human Space Exploration: Persistent Delays and Cost Growth Reinforce Concerns over
+Management of Programs (GAO-19-377, June 19, 2019)
+
+
+
+
+                                                        NASA Office of Inspector General   IG-24-011 31
+                                                                                                         Appendix B
+
+
+
+Appendix B: Management’s Comments
+
+                    National Aeronautics and Space Administration
+
+                    Mary W. Jackson NASA Headquarters
+                    Washington, DC 20546-0001
+
+
+
+
+Reply to Attn of:   Exploration Systems Development Mission Directorate
+
+
+                    TO:          Assistant Inspector General for Audits
+
+                    FROM:        Associate Administrator for Exploration Systems Development Mission
+                                 Directorate
+
+                    SUBJECT: Agency Response to OIG Draft Report, “NASA’s Readiness for the Artemis II
+                             Crewed Mission to Lunar Orbit” (A-23-07-00-HED)
+
+
+                    The National Aeronautics and Space Administration (NASA) appreciates the opportunity to
+                    review and comment on the Office of Inspector General (OIG) draft report entitled, “NASA’s
+                    Readiness for the Artemis II Crewed Mission to Lunar Orbit” (A-23-07-00-HED), dated
+                    March 13, 2024.
+
+                    The anticipation surrounding Artemis II reflects the excitement, innovation, and collaborative
+                    spirit driving NASA’s ambitious goals for the future of space exploration. The Artemis II
+                    mission represents a significant milestone in NASA’s Artemis campaign and human space
+                    exploration efforts, bringing us one step closer to returning humans to the Moon and
+                    ultimately sending astronauts to Mars. NASA remains unwaveringly committed to ensuring
+                    safe missions to the Moon, reflecting its dedication to the safety of astronauts, mission
+                    success, and the advancement of human space exploration. The Exploration Systems
+                    Development Mission Directorate (ESDMD) continuously learns from past missions and
+                    incorporates lessons learned into future missions to enhance safety and performance.
+                    Through post-mission analyses, assessments, and feedback mechanisms, ESDMD identifies
+                    areas for improvement and implements corrective actions to optimize mission safety and
+                    effectiveness.
+
+                    ESDMD recognizes the critical role the OIG plays in evaluating whether there are instances
+                    of waste, fraud, or abuse in the Federal Government. ESDMD is fully committed to
+                    transparency and accountability. It is ESDMD’s objective to cooperate fully and provide
+                    OIG with access to information and documentation relevant to their audits, evaluations, and
+                    investigations. During this audit, ESDMD provided 617 products, attended eight requested
+                    meetings, and conducted 17 hours of interviews. Altogether, this activity recorded an
+                    estimated 700-725 hours of work from our ESDMD team. This commitment to transparency
+                    underscores our dedication to upholding the highest standards of integrity and ethics in all
+                    aspects of our work.
+
+                    Being audited in the middle of a development process presents several challenges including
+                    disruptions to ongoing workflow and priorities due to the reallocation of resources and the
+                                                                    NASA Office of Inspector General   IG-24-011 | 32
+                                                                                       Appendix B
+
+
+
+
+coordination challenges associated with audit activities. The dynamic nature of development
+means that changes can occur rapidly, making it challenging to update information for audit
+requirements that are based on a snapshot of the project at a specific point in time.
+
+The Artemis I flight was designed as an uncrewed test to identify issues which might occur in
+the integrated nature of this complex system that modeling or ground testing could not
+predict. NASA expected to discover and resolve issues before Artemis II. This process of
+finding and addressing engineering challenges is a natural part of the design-test-fix process.
+NASA is concerned that the report’s tone might suggest that the OIG identified the risks
+discussed, when in fact, all recommendations were already being addressed by NASA
+through forward risk-based disposition prior to the audit.
+
+NASA will continue to identify, assess, prioritize, and mitigate risks to maximize success.
+While it is ESDMD’s understanding that the primary role of this audit was to assess and
+ensure compliance with established standards, regulations, and best practices, ESDMD
+observes this report and its recommendations to be more engineering focused than having a
+scope of understanding our risk management. ESDMD is focused on ensuring that informed
+engineering recommendations are provided by experienced individuals or teams with
+specialized engineering knowledge and a comprehensive understanding of the development
+context and risk trades. There is a concern that combining the roles of auditing and
+engineering recommendations could result in conflicts of interest, compromise the integrity
+of existing safety processes, and potentially decouple objective risk management in ongoing
+engineering development. Furthermore, the Agency allocates resources to technical authority
+organizations (including the Offices of the Chief Engineer and Safety and Mission
+Assurance) in addition to a Congressionally mandated Aerospace Safety Advisory Panel,
+both of which are staffed with experienced engineering and science professionals.
+
+ESDMD recognizes the importance of the certification process and continues to emphasize
+safety, reliability, and mission success, with a focus on mitigating risks and ensuring the
+well-being of astronauts and personnel involved in spaceflight missions. ESDMD would
+highlight that some of the recommendations listed in this report are considered outside of the
+certification process. ESDMD and NASA are committed to ensuring the balance of risk
+management processes across all programs.
+
+In the draft report, OIG makes six recommendations to NASA designed to ensure the safety
+of its lunar programs, including the Artemis II mission scheduled for September 2025.
+ESDMD would like to emphasize that all these recommendations were already being
+assessed in accordance with expectations documented in Exploration Systems Development
+Mission Integration Implementation Plan, Artemis I Post Flight Analysis Review (PFAR)
+Plan prior to the audit.
+
+Specifically, the OIG recommends the Associate Administrator for ESDMD:
+
+
+
+
+                                                  NASA Office of Inspector General   IG-24-011 | 33
+                                                                                        Appendix B
+
+
+
+Recommendation 1: Ensure the root cause of Orion heat shield char liberation is well
+understood prior to launch of the Artemis II mission.
+
+   Management’s Response: NASA concurs. Testing the heatshield performance was a
+   key goal of the Artemis I flight. Evaluation of the heatshield’s performance, as well as
+   the development of a root cause analysis and a plan for moving forward, had already
+   begun before the start of the audit. NASA continues to make significant progress
+   evaluating the root cause of the heatshield char loss. Ground testing successfully
+   recreated char loss in the arc jet facility using large-scale test panels of full-size Avcoat
+   blocks. The recreated char loss has the same features as observed on the Artemis I heat
+   shield. The team is currently synthesizing the test results together with the leading theory
+   for root cause and are planning formal presentations to the necessary technical forums in
+   preparation for a recommendation to the Orion Program Control Board for Artemis II in
+   April/May timeframe. The recommendation will include Artemis II heat shield
+   operational capabilities based on the latest thermal analysis work. An Independent
+   Review Team effort planned for May 2024 will confirm the team’s recommendations to
+   the program on the root cause, heat shield capability, and corrective actions going
+   forward.
+
+   Estimated Completion Date: June 30, 2024
+
+Recommendation 2: Conduct analysis of Orion separation bolts using updated models that
+account for char loss, design modifications, and operational changes to Orion prior to launch
+of the Artemis II mission.
+
+   Management’s Response: NASA concurs. Evaluation of the separation bolts’
+   performance, along with the development of a root cause analysis and a plan for future
+   actions, had already commenced prior to the audit. The Orion Program is currently
+   conducting analysis using updated models based on the findings of the heat shield char
+   liberation investigation team. This analytical work is on track to be completed before the
+   Artemis II mission.
+
+   Estimated Completion Date: June 30, 2024
+
+Recommendation 3: Require Exploration Ground Systems (EGS) conduct additional
+verification and validation for launch imagery equipment prior to launch attempts should
+launch conditions change.
+
+   Management’s Response: NASA concurs. By conducting the Artemis I test flight,
+   NASA gathered valuable data and experience that will help improve the design and
+   operation of the Artemis II spacecraft and ultimately enhance the success of future
+   missions. Per EGS’s standard requirements and processes, verification and validation
+   activities are conducted prior to an operation to ensure the configuration is understood,
+   that it meets the requirements, and that the system performs as intended by the user. As
+   part of the Artemis I Imagery Deficiency Tiger Team, which was initiated in January
+   2023, prior to this audit, EGS has identified and is implementing corrective actions
+   including camera control software enhancements, procedural updates, testing approaches,
+
+                                                   NASA Office of Inspector General   IG-24-011 | 34
+                                                                                     Appendix B
+
+
+
+
+   and workforce training and certification improvements. The launch imagery software,
+   procedures, and personnel will be exercised and proven through Artemis II preparation
+   events to include Mobile Launcher (ML)/Pad Ignition Overpressure Protection and Sound
+   Suppression and Fire Suppression System Launch Cooling Test Integrated System
+   Verification and Validation (ISVV-2), ML/Pad Imagery Demonstration (ISVV-6), and
+   the Artemis II Tanking Test.
+
+   Estimated Completion Date: September 30, 2024
+
+Recommendation 4: Reexamine procedures to better ensure recovery of Orion jettisoned
+hardware for the Artemis II mission.
+
+   Management’s Response: NASA concurs. NASA conducted the Artemis I test flight to
+   ensure the safety, reliability, and performance of its spacecraft and systems. This test
+   flight allowed NASA to identify and mitigate potential issues that may arise during actual
+   missions. Concurrence is based on the action of utilizing the Agency’s process of
+   conducting a PFAR of Artemis I, which was conducted prior to this audit report. Both
+   the Orion and EGS programs have determined that the plans and procedures of the EGS
+   Recovery Team are accurate and Orion requirements have been revised to clarify the
+   requirements for jettison hardware recovery. If the hardware does not sink before
+   recovery forces arrive on-site, the recovery team will make every effort to recover the
+   hardware. The Orion program will assess whether flotation capability needs to be added
+   for future missions to assist in recovery.
+
+   Estimated Completion Date: Completed
+
+Recommendation 5: Develop a corrective action plan to mitigate or prevent the recurrence
+of uninterpretable Orion telemetry data for the Artemis II mission.
+
+   Management’s Response: NASA concurs. This action has already been implemented.
+   The Orion Program submitted a corrective action plan on February 17, 2024, to the OIG
+   indicating that this recommendation can be closed.
+
+   Estimated Completion Date: Completed
+
+Recommendation 6: Establish a course of action and timeline for individual Artemis
+system design changes before beginning integrated system assembly stacking operations.
+
+   Management’s Response: NASA concurs. This action is already being implemented as
+   part of normal processes and can be closed. The Moon to Mars Program (M2M)
+   routinely monitors the progress of Artemis II hardware and software, including the status
+   of system design changes, verification and validation testing, necessary operational
+   modifications, and resolutions for any anomalies. Each individual system design change
+   for Artemis II will undergo a design certification process, culminating in design
+   certification reviews at the program level (Orion, Space Launch System, EGS).
+
+
+                                                NASA Office of Inspector General   IG-24-011 | 35
+                                                                                      Appendix B
+
+
+   Additionally, M2M will conduct a design certification review for the integrated system.
+   As Artemis II stacking is currently projected to commence before the completion of the
+   design certification reviews, M2M will conduct a checkpoint before the start of Artemis
+   II stacking. This checkpoint will evaluate the status of hardware and software across
+   M2M, including design changes, verification and validation testing, operational changes,
+   anomaly resolutions, and limited life items. It will determine if M2M is prepared to
+   begin stacking operations, considering any ongoing work, and outstanding risks. After
+   the integrated system design certification review, M2M will conduct the Artemis II
+   operational readiness review and proceed with the flight certification process.
+
+   Estimated Completion Date: Completed
+
+
+NASA is dedicated to continuous enhancement of our processes and procedures to ensure
+safety and address potential risks and deficiencies. However, the redundancy in the above
+recommendations does not help to ensure whether NASA’s programs are organized,
+managed, and implemented economically, effectively, and efficiently.
+
+NASA remains committed to flying safely and looks forward to a successful Artemis II
+mission that continues to push the boundaries of human achievement, scientific discovery,
+and the advancement of space exploration.
+
+We have reviewed the draft report for information that should not be publicly released. As a
+result of this review, we have not identified any information that should not be publicly
+released.
+
+Once again, thank you for the opportunity to review and comment on the subject draft report.
+If you have any questions or require additional information regarding this response, please
+contact Christine Solga at (202) 358-1238.
+
+CATHERINE Digitally signed by
+          CATHERINE KOERNER
+
+KOERNER Date:    2024.04.19
+          13:17:27 -05'00'
+
+Catherine Koerner
+Associate Administrator for Exploration Systems Development
+ Mission Directorate
+
+
+
+
+                                                 NASA Office of Inspector General   IG-24-011 | 36
+                                                                                             Appendix C
+
+
+
+
+APPENDIX C: REPORT DISTRIBUTION
+National Aeronautics and Space Administration
+Administrator
+Deputy Administrator
+Associate Administrator
+Chief of Staff
+Associate Administrator for Exploration Systems Development Mission Directorate
+Associate Administrator for Space Operations Mission Directorate
+Moon to Mars Program Manager
+Exploration Ground Systems Program Manager
+Orion Multi-Purpose Crew Vehicle Program Manager
+Space Launch System Program Manager
+Space Communications and Navigation Program Manager
+
+
+Non-NASA Organizations and Individuals
+Office of Management and Budget
+    Deputy Associate Director, Climate, Energy, Environment and Science Division
+Government Accountability Office
+   Director, Contracting and National Security Acquisitions
+
+
+Congressional Committees and Subcommittees, Chairman
+and Ranking Member
+Senate Committee on Appropriations
+   Subcommittee on Commerce, Justice, Science, and Related Agencies
+Senate Committee on Commerce, Science, and Transportation
+   Subcommittee on Space and Science
+Senate Committee on Homeland Security and Governmental Affairs
+House Committee on Appropriations
+   Subcommittee on Commerce, Justice, Science, and Related Agencies
+House Committee on Oversight and Accountability
+   Subcommittee on Government Operations and the Federal Workforce
+House Committee on Science, Space, and Technology
+   Subcommittee on Investigations and Oversight
+   Subcommittee on Space and Aeronautics
+
+
+   (Assignment No. A-23-07-00-HED)
+
+
+
+
+                                                        NASA Office of Inspector General   IG-24-011 37
+

@@ -1,0 +1,207 @@
+{
+  "ticker": "IRDM",
+  "queryVariants": [
+    "Iridium Communications Inc.",
+    "Iridium Communications",
+    "IRIDIUM COMMUNICATIONS INC.",
+    "IRIDIUM SATELLITE LLC"
+  ],
+  "sampleRecipients": [
+    "IRIDIUM SATELLITE LLC"
+  ],
+  "totalAmount": 701476302.08,
+  "awardCount": 29,
+  "byAgency": [
+    {
+      "agency": "Department of Defense",
+      "amount": 699987276.9200001
+    },
+    {
+      "agency": "Department of Transportation",
+      "amount": 1489025.16
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "HC104714C4000",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 484593998.74,
+      "psc": null,
+      "naics": null,
+      "description": "SATELLITE COMMUNICATION SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101319C0003",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 60513482.22,
+      "psc": null,
+      "naics": null,
+      "description": "GATEWAY MAINTENANCE AND SUPPORT SERVICES AGREEMENT (GMSSA)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC104713C4037",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 49481118.95,
+      "psc": null,
+      "naics": null,
+      "description": "GATEWAY MAINTENANCE SUPPORT SERVICES, BASE YEAR EFFORT FUNDED IN THE AMOUNT OF $1,810,278.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA254124CB001",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 35097135.92,
+      "psc": null,
+      "naics": null,
+      "description": "THE ECS3 REQUIREMENT SUPPORTS THE DEVELOPMENT, FIELDING, ONGOING OPERATIONS, AND MAINTENANCE OF THE EMSS SERVICE CENTER AND DEFENSE GROUND STATION (DGS), ASSOCIATED ANCILLARY EQUIPMENT.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101325F0092",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 10045503.08,
+      "psc": null,
+      "naics": null,
+      "description": "ENGINEERING AND MAINTENANCE SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "VC09",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 9891158.54,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF IGF::OT::IGF IDIQ CONTRACT: EMSS GATEWAY MODERNIZATION EFFORT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101322F0205",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 8517129.63,
+      "psc": null,
+      "naics": null,
+      "description": "ERICSSON MSS ORDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "VC10",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 5535469.51,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF IDIQ CONTRACT: EMSS GATEWAY MODERNIZATION EFFORT TECHNOLOGY REFRESH TASK ORDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101324F0168",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 4625142.24,
+      "psc": null,
+      "naics": null,
+      "description": "NI REFRESH FY23 LABOR",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA254125FB026",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 4192445.52,
+      "psc": null,
+      "naics": null,
+      "description": "THIS EFFORT IS TO ESTABLISH A TASK ORDER (TO) #5 ACCESS NETWORK CONTROLLER (ANC) UNDER SYSTEM INFRASTRUCTURE TRANSFORMATION AND HYBRIDIZATION (SITH) IDIQ.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101324F0052",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 3508099.61,
+      "psc": null,
+      "naics": null,
+      "description": "CERTUS BASEBAND ORDER OFF GEC (HC101319D0005)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101324F0139",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 3262577.12,
+      "psc": null,
+      "naics": null,
+      "description": "NI REFRESH FY24 LABOR",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA254125FB022",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 2757283.69,
+      "psc": null,
+      "naics": null,
+      "description": "THIS EFFORT IS TO ESTABLISH A TASK ORDER FOR TASK 2 NETWORK INFRASTRUCTURE TECHNOLOGY REFRESH FY25 (NITR25) UNDER SITH IDIQ.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101324F0112",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 2652768.43,
+      "psc": null,
+      "naics": null,
+      "description": "MA-DNX TASK ORDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA254125FB023",
+      "recipient": "IRIDIUM SATELLITE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 2556779.58,
+      "psc": null,
+      "naics": null,
+      "description": "THIS EFFORT IS TO ESTABLISH TASK ORDER #3 IRIDIUM MESSAGE PROCESSING SYSTEM (IMPS) UNDER SITH IDIQ A SOLE SOURCE SINGLE AWARD IDIQ FOR SYSTEM INFRASTRUCTURE TRANSFORMATION AND HYBRIDIZATION (SITH).",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

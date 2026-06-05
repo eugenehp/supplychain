@@ -1,0 +1,49 @@
+{
+  "ticker": "BKSY",
+  "topicId": "space-economy",
+  "name": "BlackSky Technology Inc.",
+  "cik": "0001753539",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-17",
+    "accessionNumber": "0001753539-26-000032",
+    "primaryDocument": "bksy-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000032/bksy-20251231.htm",
+  "facts": {
+    "Revenues": {
+      "value": 0,
+      "end": "2020-12-31",
+      "filed": "2021-03-31",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 106575000,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 433000,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 386246000,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "form": "10-K"
+    }
+  },
+  "textLength": 469438,
+  "exportedAt": "2026-06-05T04:10:27.886Z",
+  "localUrls": {
+    "text": "/space-economy/sec/BKSY/filing.txt",
+    "metadata": "/space-economy/sec/BKSY/metadata.json",
+    "sections": "/space-economy/sec/BKSY/sections.json",
+    "evidence": "/space-economy/sec/BKSY/evidence.json",
+    "display": "/space-economy/sec/BKSY/display.json"
+  }
+}

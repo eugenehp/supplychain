@@ -1,4 +1,5 @@
 node_modules/
 dist/
+data/.cache/
 data/rag/*.sqlite
 data/rag/*.sqlite-*

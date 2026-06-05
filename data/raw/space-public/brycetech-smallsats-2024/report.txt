@@ -1,0 +1,1320 @@
+Smallsats by the Numbers
+2024
+
+
+
+                                         1
+                           Updated March 2024
+  2023 Smallsat Highlights
+
+
+
+            Technology    Other, 1%                       Smallsats launched in 2023
+       Development, 7%          Scientific, 1%
+
+
+     Remote
+Sensing, 13%
+                                                         97% of all spacecraft (2022: 97%)
+
+                          2,860
+                                                         63% of spacecraft upmass (2022: 58%)
+                        Smallsats
+                      Launched 2023
+                                                         164 of 221 orbital launches (2022: 109)
+                                                         267 different operators (2022: 212)
+                                                                 launched on small or micro
+                                      Communications,
+                                      79%                 5%     launch vehicles (2022: 7%)
+        Smallsats defined by having mass of ≤1,200 kgs
+                                                                                                   2
+Introduction
+
+
+   Smaller satellites have broken records and are transforming
+   in-space architectures                                                            Mass Class Name          Kilograms (kg)
+                                                                                           Femto                0.01 – 0.09
+   Bryce’s Smallsats by the Numbers presents historical
+   information on smaller satellites launched 2014 – 2023                                   Pico                   0.1 – 1
+
+
+                                                                         Smallsats
+    •   Definition used here, 1,200 kg and under, reflects the six                          Nano                  1.1 – 10
+        smallest mass classes defined by the FAA.                                           Micro                 11 – 200
+    •   Updated definition accounts for the greater mass of new                              Mini                201 – 600
+        Starlink satellites
+                                                                                            Small               601 – 1,200
+    •   Report includes all smallsats launched regardless of
+        operational status                                                                Medium               1,201 – 2,500
+    •   Due to the large quantity of LEO broadband                                      Intermediate           2,501 – 4,200
+        telecommunications smallsats launched in 2023 this report                           Large              4,201 – 5,400
+        provides data views that both include and exclude these
+        systems; views excluding LEO broadband telecommunications                          Heavy               5,401 – 7,000
+        smallsat systems provide insight into trends in other types of                  Extra Heavy                > 7,001
+        systems
+                                                                                     From FAA The Annual Compendium of Commercial
+                                                                                     Space Transportation: 2018
+
+
+
+
+                                                                                                                                    3
+Smallsats in Context
+Operator and Mission Type Trends
+Smallsat Mass Trends
+Smallsat Launch Trends
+Looking Forward
+
+
+
+
+                                   4
+Smallsats are Getting Bigger
+
+
+                               Next generation satellites in constellations tend to be larger
+                                •      Starlink v1 (~300 kg) vs v2-mini (~800 kg)
+                                •      Planet Skysat (~110 kg) vs Pelican (~150 kg)
+                                •      Capella Whitney (~100 kg) vs Acadia (~165 kg)
+                                •      Iridium (~670 kg) vs Iridium Next (~860 kg)
+                               This report reflects an increased threshold for smallsats from 600 kg to 1,200 kg
+                                •      Historical data shows 1,200 kg definition, resulting in the inclusion of 298 satellites from systems such as O3b,
+                                       Galileo, and Iridium NEXT from 2014 – 2022
+                                •      Historical data using the 600 kg definition is available in previous reports
+
+
+
+
+Number of Smallsats Launched
+                                    3000
+
+                                    2500
+                                                              Addition from updated smallsat definition (601-1200 kg)
+                                    2000
+                                                              Previous smallsat definition (≤600 kg)
+                                    1500
+
+                                    1000
+
+                                    500
+
+                                      0
+                                            2014       2015         2016           2017            2018           2019   2020   2021   2022      2023
+                                                                                                                                                           5
+        Smallsats in Context
+        Spacecraft Launched and Total Spacecraft Upmass 2014 – 2023
+                            Each 1%                    Femto, Pico, Nano each <0.1%
+ Newley included                                                                           3%
+                           2%                                                                                          Mass Class     Kilograms (kg)
+  as smallsats
+                                      5%                                                                                 Name
+    in 2023
+
+
+
+
+2014 – 2023
+                                                                             24%                                         Femto          0.01 – 0.09
+                      11%                     16%                                                 23%
+
+
+
+
+                                                                                                        Smallsats
+                                                                                                                          Pico            0.1 – 1
+                            10,777                                                                                                       1.1 – 10
+                            Spacecraft
+                                                                               ~6,300 MT                                  Nano
+                                                                                                                          Micro          11 – 200
+                             launched
+                                                 14%                            Total upmass
+                                                                         13%                                              Mini          201 – 600
+                                                                                                  16%
+                       47%                                                                                                Small        601 – 1,200
+                                                                               8%
+                                                                                      8%    6%                           Medium       1,201 – 2,500
+                                                                                                                       Intermediate   2,501 – 4,200
+                             Each ≤1%                    Femto, Pico and Nano <0.1%
+        Newley included                                                                2%                                 Large       4,201 – 5,400
+                                      2%
+         as smallsats in
+                                                                                                                          Heavy       5,401 – 7,000
+             2023
+                                           11%                               24%                 20%                   Extra Heavy        > 7,001
+
+                                                                                                                    Smallsats represent 93% of
+
+     2023
+                                                 14%
+                   31%          2,938                                          ~1,800 MT                            spacecraft launched 2014 – 2023,
+                                                                        4%                                          41% of total upmass
+                            Spacecraft                                             2023
+                                                                        3%
+                             launched                                          Total upmass       41%               Smallsats represent 97% of
+                                                                    2%
+                                                                     3%
+                                                                                                                    spacecraft launched in 2023, 63%
+                                                                                                                    of total upmass
+                                        40%                                                                                                            6
+                                Smallsats in Context
+                                Spacecraft Launched 2014 – 2023, by Mass Class
+
+                                3,000
+                                          Smallsats as a share of spacecraft launched
+
+
+
+
+Number of Spacecraft Launched
+                                          2014: 75%
+                                2,500     2023: 97%
+
+
+                                2,000
+
+
+
+
+                                                                                                                                                                                                      Smallsats (≤ 1200kg)
+                                                                                                                                                                             2116         Starlink
+                                                                                                                                                                                          and
+                                1,500
+                                                                                                                                                              1834                        OneWeb
+                                                                                                                                                                                          smallsats
+
+                                1,000
+                                                                                                                                               1237
+
+                                                                                                                                937
+                                 500
+                                                                                                                126                                                                       All other
+                                                                                                                                                              595               744
+                                                                                                  397                                          503                                        smallsats
+                                                                                   400                          302             283
+                                           221            190            141
+                                   0
+                                          2014            2015          2016       2017           2018          2019           2020            2021           2022           2023
+
+                                                       Smallsats (≤1200 kg)                        Starlink and OneWeb Smallsats                      Medium (1,201-2,500 kg)
+
+
+
+                                        Intermediate (2,501-4,200 kg)          Large (4,201-5,400 kg)                  Heavy (5,401-7000 kg)                    Extra Heavy (7,000+ kg)
+                                                                                                                                                                                                                     7
+                               Smallsats in Context
+                               Smallsats 2014 – 2023, by Mass Class
+                               3,000
+                                                                                                                                                                         2,860
+
+
+
+
+Number of Smallsats Launched
+                               2,500                                                                                                                     2,429
+
+
+                               2,000
+                                                                                                                                               1,776
+
+                               1,500
+                                                                                                                              1,218
+
+                               1,000
+
+
+
+                                500                                                 400            397        422
+                                          221               190             141
+                                  0
+                                          2014              2015            2016    2017           2018       2019            2020              2021     2022              2023
+
+                                       Femto (.01-.09 kg)          Pico (.1-1 kg)    Nano (1.1-10 kg)     Micro (11-200 kg)          Mini (201-600 kg)          Small (601-1200 kg)
+
+
+                                                Increase in mini satellite mass class since 2019 driven by LEO constellations
+                                                                                                                                                                                      8
+                                             Increase in small satellite mass class in 2023 due to Starlink shift to larger satellites
+                               Smallsats in Context
+                               Smallsats 2014 – 2023, by Mass Class, Starlink and OneWeb Breakout
+                               3,000
+                                                                                                                                                                        2,860
+
+
+                               2,500                                                                                                                      2,429
+
+
+
+
+Number of Smallsats Launched
+                               2,000
+                                                                                                                                       1,779
+
+
+                               1,500
+                                                                                                                        1,218
+
+                               1,000
+
+
+
+                                500                                                                  397       422
+                                                                                        400
+                                          221         190          141
+                                  0
+                                           2014       2015         2016                 2017          2018      2019    2020           2021               2022           2023
+                                       Femto           Pico               Nano                 Micro         OneWeb     Mini                   Starlink           Small
+                                       (.01-.09 kg)    (.1-1 kg)          (1.1-10 kg)          (11-200 kg)   (~150kg)   (201-600 kg)           (~260kg,           (601-1200 kg)
+                                                                                                                                               ~800kg)
+
+                                            Most growth in smallsat deployments is attributable to broadband constellations, but
+                                                                                                                                                                                  9
+                                              deployments of non-broadband constellation spacecraft have increased as well
+                               Smallsats in Context
+                               Share of Smallsats 2014 – 2023, by Mass Class, Including Starlink and OneWeb
+                                100%                                                                                   1%         2%             1%                           3,000
+                                                       9%         11%                                   8%
+                                       12%
+                                                                              16%             17%
+                                90%
+                                                       7%
+
+
+
+
+ Share of Smallsats Launched
+                                                                   7%
+
+
+
+
+                                                                                                                                                                                      Number of Smallsats Launched
+                                        6%                                                                                                                       32%
+                                                                              2%                                                                                              2,500
+                                80%                                           8%               7%
+                                                       15%                                              34%
+                                       18%
+                                70%                               23%                                                            57%
+                                                                                              15%                                                                             2,000
+                                                                                                                       71%                       73%
+                                60%
+
+                                50%                                                                     15%                                                                   1,500
+                                                                                                                                                                 41%
+
+                                40%                    59%                    70%
+                                       59%                                                    49%
+                                                                  52%                                                                                                         1,000
+                                30%                                                                                              23%
+                                                                                                        35%
+
+                                20%                                                                                    15%                       13%             14%
+                                                                                                                                                                              500
+                                                                                                                                 11%
+                                10%                                                                                    9%                        8%              11%
+                                                       9%                                     11%       9%
+                                        5%                         8%         4%                                                  7%             5%
+                                                                                                                       4%                                        3%
+                                 0%                                                                                                                                           0
+                                       2014           2015        2016        2017            2018      2019          2020       2021            2022           2023
+
+                                       Femto (.01-.09 kg)    Pico (.1-1 kg)          Nano (1.1-10 kg)   Micro (11-200 kg)    Mini (201-600 kg)          Small (601-1200 kg)
+
+
+
+Mini satellite mass class (which includes Starlink block 1.5) constituted the largest share of smallsats in 2023,
+    SpaceX transition to larger Starlink satellites in mid 2023 drove increase in small satellite mass class 10
+                                        Smallsats in Context
+                                        Share of Smallsats 2014 – 2023, by Mass Class, Excluding Starlink and OneWeb
+                                        100%                                                                                                                                                  800
+                                                                                                                                                                      5%
+
+
+
+
+Share of Smallsats Launched Excluding
+                                                                                                                                           6%               7%                      5%
+
+
+
+
+                                                                                                                                                                                                    Number of Smallsats Launched Excluding
+                                                12%          12%       9%             11%                                     11%
+                                                                                                 16%            17%                                         4%        9%            7%
+                                         90%                                                                                               10%
+                                                                       7%             7%
+                                                                                                                                                                                              700
+                                                              6%                                                              8%
+                                                                                                 2%
+                                         80%    15%
+                                                                                                 8%             7%
+                                                                       15%                                                                                 25%
+                                                             18%
+                                                                                                                                                                                              600
+                                         70%                                          23%                                     19%          27%
+                                                                                                                                                                      34%          36%
+                                                12%                                                             15%
+                                                                                                                                                                                              500
+                                         60%
+
+                                         50%                                                                                                                                                  400
+
+
+
+
+         Starlink and Oneweb
+                                                33%                                                                                                        40%
+
+
+
+
+                                                                                                                                                                                                             Starlink and OneWeb
+                                         40%                           59%                       70%
+                                                                                                                              50%          41%                        33%                     300
+                                                             59%                      52%                       50%
+                                         30%                                                                                                                                       42%
+                                                                                                                                                                                              200
+                                         20%
+                                                29%
+                                                                                                                                                           25%                                100
+                                         10%                                                                                               17%                        20%
+                                                                                      8%                        11%           12%                                                  10%
+                                                                       9%
+                                                              5%                                 4%
+                                          0%                                          1%                                                                                                      0
+                                               2013          2014     2015            2016      2017            2018         2019          2020            2021       2022         2023
+
+                                                Femto (.01-.09 kg)   Pico (.1-1 kg)          Nano (1.1-10 kg)          Micro (11-200 kg)          Mini (201-600 kg)     Small (601-1200 kg)
+
+
+
+ Excluding Starlink and OneWeb, in 2023 nano satellite mass class overtook micro and constituted the largest
+                                                                                                         11
+                           smallsat mass class, with the largest share since 2019
+Smallsats in Context
+Operator and Mission Type Trends
+Smallsat Mass Trends
+Smallsat Launch Trends
+Looking Forward
+
+
+
+
+                                   12
+                              Operator and Mission Type Trends
+                              Smallsats 2014 – 2023, by Application, Including Starlink and OneWeb
+                              100%      2%                                 2%                           3%               1%     1%
+                                                                                                                                1%                  2%          1%
+                                                                                                                                                                1%
+                                                      6%                   1%                                            2%                         1%
+                                                                   8%                          9%       2%                                                      5%
+                                        6%                                                                               5%     7%                  5%
+                               90%                    6%                   11%                          9%
+                                                                   9%                          6%
+                                       13%
+                                                      9%
+                               80%
+                                                                                               16%
+
+
+
+
+Share of Smallsats Launched
+                                                                           26%
+                               70%                                                             1%       30%
+                                       24%                        33%
+
+                               60%                    39%
+                                                                                                                                                               74%
+                                                                                                                                72%                 76%
+                                                                                               34%                       77%
+                               50%
+
+                               40%                                                                      31%
+
+
+                               30%                                         60%
+                                       54%
+                                                                  50%
+                               20%                    39%
+                                                                                               35%                                                              7%
+                                                                                                                         4%     9%                  6%
+                                                                                                        24%
+                               10%
+                                                                                                                         11%                        10%        13%
+                                                                                                                                10%
+                               0%
+                                       2014           2015        2016     2017          2018           2019            2020    2021                2022       2023
+                                                                              Communications
+                                                             Technology                                   Communications
+                                     Remote Sensing                             (Excluding Starlink +                                  Scientific          Other/Unknown
+                                                             Development                                  (Starlink + OneWeb)
+                                                                                OneWeb)
+
+
+Communications satellites constitute the largest share of smallsats in 2023. Relative share of remote sensing
+  and technology development smallsats has decreased due to launch of LEO communication smallsats 13
+                                        Operator and Mission Type Trends
+                                        Smallsats 2014 – 2023, by Application, Excluding OneWeb and Starlink
+                                        100%    2%                                    2%
+                                                                 6%                   1%                     5%    4%                  4%                    4%
+                                                                      8%                     9%                                               8%
+
+
+
+
+Share of Smallsats Launched Excluding
+                                                6%                                                                                     3%                    2%
+                                                                                                             3%
+                                        90%                      6%                   11%                          10%                        4%
+                                                                      9%                     6%
+                                                13%                                                         13%                                              18%
+                                                                 9%
+                                        80%                                                                                            26%
+                                                                                             16%                                              20%
+                                                                                                                   21%
+                                                                                      26%
+                                        70%
+                                                24%                   33%
+                                                                                                                                                             27%
+                                        60%                  39%
+                                                                                                            44%    16%                        25%
+                                                                                             34%                                       31%
+                                        50%
+
+
+
+
+         OneWeb and Starlink
+                                        40%
+
+
+                                        30%                                           60%
+                                                54%
+                                                                      50%                                          48%                                       49%
+                                                                                                                                              43%
+                                        20%                  39%
+                                                                                             35%            34%                        35%
+
+                                        10%
+
+
+                                         0%
+                                               2014          2015     2016            2017   2018           2019   2020                2021   2022          2023
+                                                                        Technology
+                                                Remote Sensing                                    Communications          Scientific                 Other/Unknown
+                                                                        Development
+
+                         Excluding Starlink and OneWeb, remote sensing and technology demonstration smallsats constitute the
+                                                                                                                            14
+                                                 largest share of smallsats launched in the last decade
+                Operator and Mission Type Trends
+                Number of Smallsats 2014 – 2023, by Operator Type
+                               3000
+
+                                                                                                                                                61
+
+
+
+
+Number of Smallsats Launched
+                               2500
+                                                                                                                                                     82 88
+
+                                                                                                                                                                  513
+                               2000
+
+
+
+                               1500
+                                                                                                                                               2,860
+                                                                                                                                                Smallsats
+                                                                                                                                                Launched
+                               1000                                                                                                               2023
+
+                                                                                                                                            2,116
+                               500
+
+
+
+                                 0
+                                      2014       2015     2016      2017   2018     2019      2020    2021        2022   2023
+
+                                             OneWeb + Starlink             Other Commercial
+                                                                                                     Non-Profit          Government Civil   Government Military
+                                             Commercial Smallsats          Smallsats
+
+
+                               Number of commercial smallsats launched increased from 115 smallsats in 2014 to 2,629 in 2023                                            15
+                                   Operator and Mission Type Trends
+                                   Operators Deploying Smallsats 2014 – 2023
+
+                                   300
+
+                                                                                                                                                                  267
+
+
+
+
+   Number of Smallsat Operators
+                                   250
+
+                                                                                                                                                           211
+                                   200                                                                                                      195
+
+                                                                                                164
+                                   150                                                                      138
+                                                                                  118
+                                   100                                                                                       94
+                                           80
+                                                     66            64
+                                    50
+
+
+
+                                     0                                                                                                                               *
+                                          2014      2015          2016            2017          2018        2019            2020            2021           2022   2023
+
+                                                           Operators Deploying First Smallsat          Operators That Have Previously Deployed Smallsats
+
+Includes government and commercial operators
+
+                                  2023 was the first year since 2018 where the number of first-time satellite operators deploying smallsats16
+                                                       exceeded the number of operators with previous deployments
+Operator and Mission Type Trends
+Commercial Smallsat Operators 2014 – 2023
+                                                                        Operators with >15 smallsats
+     87% of smallsats launched 2014 – 2023 are owned by 6
+                                                                            Operator            # of Smallsats
+                           operators
+                                                                            Satellogic               44
+                                                                             ICEYE                   30
+                                                                             Kepler                  23
+                                                                         Guodian Gaoke               21
+                                              302 Other Commercial
+                              2% 2%2%
+                         7%
+                                        13%       Operators                 Astrocast                20
+                    7%
+                                                                             Spacety                 19
+
+                          8,500                                             BlackSky
+                                                                          HawkEye 360
+                                                                                                     18
+                                                                                                     18
+                        Commercial
+                                                                     Xioyong Microelectronics
+                     Smallsats Launched                                                              18
+                                                                              Park
+                       2014 – 2023
+                                                                           ORBCOMM                   17
+                                                                         Fossa Systems               17
+                                                                         BlackSky Global             16
+                              66%
+                                                                          Kleos Space                16
+                                                                           Abla Orbital              15
+                                                                                                                 17
+ Operator and Mission Type Trends
+ Smallsats 2014 – 2023, by Operator Country
+
+                                                                       Operator Country     # of Smallsats
+                               ountries
+Each 1%                                                                USA                7,420 (5,652 Starlink)
+                           67 c
+          2%                                                           China                       719
+                                                          US
+                                7%
+                                                          Operators    UK                  679 (636 OneWeb)
+                                                74%                    Russia                      159
+                7%
+                                                                       Japan                       135
+                    (7%)
+                                                                       Canada                      66
+               7%
+                               10,052                                  Germany                     62
+                                Smallsats
+                                                                       Argentina                   54
+                                Launched
+                                                                       Italy                       49
+                               2014 – 2023
+                                                                       France                      47
+                                                                       Spain                       47
+                                                           Operator
+                                                      countries with   India                       45
+                                             (56%)    25+ smallsats    Finland                     38
+                                                        (of 67 other   South Korea                 37
+                                                          countries)
+                                                                       Israel                      33
+    U.S. operators dominate smallsats, accounting                      Australia                   32
+          for ¾ of those launched since 2014                                                                       18
+                                                                       Netherlands                 31
+                                          Operator and Mission Type Trends
+                                          Number of Government Smallsats 2014 – 2023, by Country
+                                          250
+                                                                                                                     Five or Fewer Government
+                                                        Countries with More than Five Government Smallsats                    Smallsats
+
+
+
+
+Number of Government Smallsats Launched
+                                                                                                                         Italy            Australia
+                                          200
+                                                                                                                      North Korea         Singapore
+                                                                                                                        Turkey                Algeria
+                                                                                                                       Thailand               Brazil
+                                          150
+                                                                                                                       Canada             Vietnam
+                                                                                                                       Indonesia         Kazakhstan
+
+                                          100                                                                          Ethiopia           Colombia
+                                                                                                                       Sweden                 Mexico
+                                                                                                                       Morocco                Poland
+                                          50                                                                           Belgium                Ukraine
+                                                                                                                      Netherlands             Kenya
+                                                                                                                         Peru             Pakistan
+                                            0                                                                          Rwanda             Malaysia
+                                                                                                                                  Venezuela
+
+
+
+
+                                            Between 2014 and 2023, China has deployed 3 more government smallsats than the United States                19
+Operator and Mission Type Trends
+Largest Government Smallsat Operators 2014 – 2023
+
+                              Largest Government Operators                                         # of Smallsats
+    Type                                                                            Country
+                                        Open-Source Data                                             Launched
+                  National Aeronautics and Astronautics and Space Administration       USA              51
+                      Chinese Academy of Aerospace Navigation Technology              China             30
+                           Indian Space Research Organisation (ISRO)                  India             24
+                           Japan Aerospace Exploration Agency (JAXA)                  Japan             16
+                             Los Alamos National Laboratory (LANL)                     USA              13
+    Civil                                  Roscosmos                                 Russia             13
+                                  Chinese Academy of Sciences                         China              11
+                                 Jet Propulsion Laboratory (JPL)                       USA              10
+                                 European Space Agency (ESA)                       Multinational         9
+                      Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)          Germany              8
+                           China National Space Administration (CNSA)                 China              8
+                                     People’s Liberation Army                         China             129
+                                 Russia MoD/Aerospace Forces                         Russia             31
+   National
+                                Space Development Agency (SDA)                         USA              22
+   Security
+                      Defense Advanced Research Projects Agency (DARPA)                USA              20
+                                     United States Air Force                           USA              16
+                                                                                                                    20
+                                             Operator and Mission Type Trends
+                                             Number of Academic Smallsats 2014 – 2023, by Institution
+
+                                        25
+
+                                                                                         Academic Institutions with More than Five Smallsats Launched
+
+
+
+
+Number of Academic Smallsats Launched
+                                        20
+
+                                                                                                                                                                                        200+ academic operators
+                                                                                                                                                                                     launched smallsats 2014 – 2023
+                                        15
+
+
+
+
+                                        10
+
+
+
+
+                                        5
+
+
+
+
+                                        0
+                                                Kyushu        Technical    Southwestern Massachusetts University of    Boston      Nanyang       Lomonosov     Bauman       Tsinghua       California      San Jose       Nanjing        Georgia     Montana State University of     National
+                                              Institute of   University of    State      Institute of Colorado at     University   Technical    Moscow State Moscow State   University    Polytechnic        State      University of   Institute of  University     Toronto       Cheng Kung
+                                              Technology        Berlin      University   Technology     Boulder                    University     University  Technical      (Beijing)       State         University   Aeronautics     Technology                                  University
+                                                                                            (MIT)                                                             University                 University (Cal    (SJSU)          and       (Georgia Tech)                                 (NCKU)
+                                                                                                                                                                                             Poly)                      Astronautics
+
+                                                                                                                                                                                                                                                                                            21
+Smallsats in Context
+Operator and Mission Type Trends
+Smallsat Mass Trends
+Smallsat Launch Trends
+Looking Forward
+
+
+
+
+                                   22
+                                       Smallsat Mass Trends
+                                       Spacecraft Upmass 2014 – 2023, by Spacecraft Mass Class
+                                        1,800,000
+
+
+
+
+Upmass (Spacecraft Mass Launched) by
+                                        1,600,000
+
+
+                                        1,400,000
+
+
+                                        1,200,000
+
+
+
+
+                                                                                                                                                                                    Smallsats (≤ 1200kg)
+                                        1,000,000
+
+
+
+
+       Spacecraft Mass Class
+                                         800,000
+
+
+                                         600,000
+
+
+                                         400,000
+
+
+                                         200,000
+
+
+                                                -
+                                                       2014       2015         2016           2017      2018            2019   2020          2021      2022         2023
+                                        Femto + Pico (.01-1kg)      Nano (1.1-10kg)                  Micro (11-200kg)          Mini (201-600kg)           Small (601-1,200 kg)
+
+
+                                        Medium (1,201-2,500 kg)    Intermediate (2,501-4,200 kg)     Large (4,201-5,400 kg)    Heavy (5,401-7000 kg)      Extra Heavy (7,000+ kg)
+
+
+                                                                                                                                                                                    23
+                               Smallsat Mass Trends
+                               Smallsats as a Share of Total Upmass 2014 – 2023
+                               70%
+
+                                                                                                                               63%
+
+
+
+
+Share of Total Mass Launched
+                               60%                                                                                      58%
+
+                                                      Smallsats as a Share of Total Upmass
+                               50%
+                                                      Smallsats as a Share of Total Upmass (Excluding     46%    47%
+                                                      Starlink + OneWeb)
+
+                               40%
+                                             1,785,900 kg Total spacecraft upmass 2023
+                                             1,133,056 kg Total smallsat upmass 2023
+                               30%
+
+
+                                                                                      21%
+                                                                                                 18%
+                               20%
+                                                                         15%
+                                                                                                  10%
+                               10%    8%
+                                                7%                                                               6%     6%
+                                                             5%                                           5%                   4%
+
+
+                               0%
+                                      2014     2015         2016         2017         2018         2019   2020   2021   2022   2023
+                                                                                                                                      24
+                               Smallsat Mass Trends
+                               Smallsats as a Share of Total Upmass 2014 – 2023
+                               70%
+
+                                                                                                                                63%
+
+                                                                                                                                59%
+                                                      Smallsats as a Share of Total Upmass
+
+
+
+
+Share of Total Mass Launched
+                               60%                                                                                       58%
+
+                                                      Starlink + OneWeb Smallsats as a Share of Total
+                                                                                                                         52%
+                                                      Upmass
+                               50%
+                                                                                                          46%     47%
+                                             1,785,900 kg Total spacecraft upmass 2023
+                                                                                                                  41%
+                                                                                                            40%
+                               40%           1,133,056 kg Total smallsat upmass 2023
+
+                               30%
+
+
+                                                                                      21%
+                                                                                                  18%
+                               20%
+                                                                         15%
+
+
+                               10%    8%
+                                                7%                                                8%
+                                                             5%
+
+
+                               0%
+                                      2014     2015         2016         2017         2018         2019   2020    2021   2022   2023
+
+                                                                                                                                       25
+                             Smallsat Mass Trends
+                             Average Smallsat Mass 2014 – 2023
+                             450
+
+                                                                                                                       396
+                             400
+
+
+
+
+Average Smallsat Mass (kg)
+                             350                             Average Smallsat Mass
+                                                             Average Smallsat Mass
+                             300                             Excluding Starlink + OneWeb
+
+
+                             250
+                                                                                                                241
+
+                                                                                                  208
+                                                                              196                        193
+                             200
+                                                                                           170
+
+                                   136                           142                       141
+                             150                      128
+                                            125
+                                                                                                  105           101    104
+                             100                                                                         87
+
+
+                             50
+
+
+                               0
+                                   2014     2015     2016        2017        2018          2019   2020   2021   2022   2023
+
+                                                                                                                              26
+                                Smallsat Mass Trends
+                                Average Spacecraft Mass (of Spacecraft Launched) 2014 – 2023
+                               1,800
+                                                          1669
+                                                                                                Average Spacecraft Mass
+                               1,600
+                                                                                                Average Spacecraft Mass
+                                                                                                Excluding Starlink + OneWeb
+
+
+
+
+Average Spacecraft Mass (kg)
+                               1,400
+                                               1322
+                                       1224
+                               1,200
+
+                                                                                       1014
+                               1,000                                                            957
+                                                                                                                                     887
+                                                                     815     807       815
+                                800                                                                           759
+                                                                                                                              721
+                                                                                                                                     608
+                                600
+                                                                                                432                           405
+                                                                                                              398
+                                400
+
+
+                                200
+
+
+                                  0
+                                       2014     2015      2016      2017     2018      2019     2020          2021            2022   2023
+
+
+                                Overall smallsats have reduced average spacecraft mass. An increase in Starlink satellites mass and         27
+                                     deployments of several larger GEO satellites led to an increase in 2023 compared to 2022
+Smallsats in Context
+Operator and Mission Type Trends
+Smallsat Mass Trends
+Smallsat Launch Trends
+Looking Forward
+
+
+
+
+                                   28
+                                      Smallsat Launch Trends
+                                      Number of Launches with Smallsats 2014 – 2023
+                                       250
+
+
+
+
+Number of Launches with and without
+                                                            Launches with          Launches without
+                                                            smallsats              smallsats
+                                       200
+                                                                                                                                  57
+
+
+
+                                       150                                                                                 65
+
+
+
+
+            Smallsats
+                                                                                                                    57
+                                       100
+                                                                                          47                 41
+                                                                                                      45                          164
+
+                                              56                            54                                             121
+                                                       53            56
+                                        50
+                                                                                                                    89
+                                                                                          67                 73
+                                                                                                      57
+                                              36       33            29     36
+                                         0
+                                              2014     2015         2016    2017         2018         2019   2020   2021   2022   2023
+
+
+
+                          Number of launches carrying smallsats has generally increased over time. Since 2020, more than half of
+                                                                                                                                 29
+                                                        orbital launches have carried smallsats
+                              Smallsat Launch Trends
+                              Smallsats 2014 – 2023, by Country of Launch Provider
+
+                              100%
+                                                                        2%              2%                                  2%             2%
+                                      9%                                      3%        4%                                  2%
+                                                11%                                                                                        7%
+                                                              13%                                  14%                      7%
+                              90%                                                                                17%                       2%
+                                      5%                                                                                    2%
+
+
+
+
+Share of Smallsats Launched
+                                                4%                            16%       14%
+                                      3%                                                           1%
+                              80%     6%        9%            11%
+                                                                                                   6%            1%
+                                                                       35%                                       5%
+                                                                                                   2%
+                                                                                                                 2%
+                                                                                        14%
+                              70%
+                                               18%                            23%
+                                     27%                      21%
+                              60%                                       6%              10%
+                                                5%
+                              50%                                             12%
+                                                              13%
+                                                                       24%                                                  87%            88%
+                              40%
+                                                              4%                                   77%           74%
+
+                              30%
+                                               53%                                      55%
+                                     50%
+                              20%                                             43%                         U.S. launch providers make up
+                                                              37%
+                                                                       33%                                 dominant share of smallsat
+                              10%
+                                                                                                                   deployments
+                               0%
+                                     2014      2015           2016     2017   2018      2019       2020          2021       2022           2023
+
+
+
+
+                                                                                                                                   Other
+                                     USA             Russia          India      China          France            Japan                            30
+                                    Smallsat Launch Trends
+                                    Number of Launches with Smallsats 2014 – 2023, by Launch Vehicle Category
+                                    180
+                                                                                                                  Launch
+                                                                                                                                  Capacity (kg) to
+                                                                                                                  Vehicle
+                                    160                                                                                               LEO
+                                                                                                                 Category
+
+
+
+
+Number of Launches with Smallsats
+                                    140                                                                            Micro                 ≤500
+                                                                                                                   Small             500 – 2,268
+                                    120
+                                                                                                                  Medium            2,269 – 5,443
+                                    100
+                                                                                                         122    Intermediate       5,444 – 11,340
+                                                                                                                  Heavy           11,341 – 30,000
+                                    80
+                                                                                                   88           Super Heavy            >30,000
+                                    60                                                      59
+
+                                                                                     48                           Launches of Medium – Super Heavy
+                                                                              32                                  Vehicles with Smallsats
+                                    40                                 54
+
+
+                                                                25                                                 Launches of Micro – Small Launch
+                                    20     30     26                                                      42
+                                                         22
+                                                                                            30     33              Vehicles with Smallsats
+                                                                              25     25
+                                                                11     13
+                                           6      7      7
+                                     -
+                                          2014   2015   2016   2017   2018   2019   2020   2021   2022   2023
+
+
+
+
+The number of small launch vehicles carrying smallsats in 2023 increased 27% compared to 2022, while the
+                                                                                                       31
+          number of medium to superheavy vehicles launching with smallsats increased 39%
+                                        Smallsat Launch Trends
+                                        Share of Small Launches with Smallsats 2014 – 2023
+
+                                        100%                                                                         45
+
+
+
+
+Share of Smallsat Launches by Country
+                                                                                                                          Total # of Small Launches with Smallsats
+                                        90%                                                                          40
+
+
+                                        80%
+                                                                                                                     35
+
+                                        70%
+                                                                                                                     30
+
+                                        60%
+                                                                                                                     25
+                                        50%
+                                                                                                                     20
+                                        40%                                                                                                                          Other
+                                                                                                                     15
+                                        30%
+
+                                                                                                                     10
+                                        20%
+
+
+                                        10%                                                                          5
+
+
+                                         0%                                                                          0
+                                               2014   2015   2016   2017   2018   2019   2020   2021   2022   2023
+
+
+
+
+                     Chinese launch providers had the largest share of micro/small launch vehicles carrying smallsats in 2023
+                                                                                                                                                                             32
+                              Smallsat Launch Trends
+                              Smallsats 2014 – 2023, by Launch Vehicle Category
+                              100%
+                                                                                                           Launch Vehicle
+                                                                                                                                  Capacity (kg) to LEO
+                              90%
+                                                                                                              Category
+                                                                                                                                            ≤500
+
+
+
+
+Share of Smallsats Launched
+                                                                                                               Micro
+                              80%
+                                                                                                               Small                    500 – 2,268
+                              70%
+                                                                                                              Medium                   2,269 – 5,443
+                                            76%
+                              60%                                       82%
+                                                   85%
+                                                                 88%           86%                          Intermediate              5,444 – 11,340
+                                     95%                  93%                         94%    93%    95%
+                              50%
+                                                                                                               Heavy                  11,341 – 30,000
+                              40%                                                                           Super Heavy                   >30,000
+                              30%
+                                                                                                             Smallsats on Medium – Super Heavy Vehicles
+                              20%
+
+
+                              10%
+                                            24%                                                              Smallsats on Micro – Small Launch Vehicles
+                                                                        18%
+                                                   15%                         14%
+                                                                 12%
+                                     5%                   7%                          6%     7%     5%
+                               0%
+                                     2014   2015   2016   2017   2018   2019   2020   2021   2022   2023
+
+
+
+
+The proportion of smallsats launched on micro and small vehicles in 2023 was the lowest since 2014, despite
+                                                                                                        33
+                                  a wider variety of small launch options
+                              Smallsat Launch Trends
+                              Smallsats 2014 – 2023, by Launch Vehicle Category, Excluding Starlink and OneWeb
+                              100%
+                                                                                                           Launch Vehicle
+                                                                                                                                  Capacity (kg) to LEO
+                              90%                                                                             Category
+                                                                                                                                             ≤500
+
+
+
+
+Share of Smallsats Launched
+                                                                               38%
+                                                                                                               Micro
+                              80%
+                                                                                                               Small                    500 – 2,268
+                              70%
+
+                                                                        74%                  72%              Medium                   2,269 – 5,443
+                                            76%                                       78%
+                              60%                                                                   82%
+                                                   85%
+                                                                 88%                                        Intermediate               5,444 – 11,340
+                                     95%                  93%
+                              50%
+                                                                                                               Heavy                  11,341 – 30,000
+                              40%
+                                                                                                            Super Heavy                    >30,000
+                              30%                                              62%
+                                                                                                             Smallsats on Medium – Super Heavy Vehicles
+                                                                                                             (Starlink and OneWeb excluded)
+                              20%
+
+                                                                        26%                  28%
+                                            24%
+                              10%                                                     22%
+                                                                                                    18%      Smallsats on Micro – Small Launch Vehicles
+                                                   15%
+                                                                 12%
+                                     5%                   7%
+                               0%
+                                     2014   2015   2016   2017   2018   2019   2020   2021   2022   2023
+
+
+
+
+Excluding LEO broadband constellations, small launch vehicles still launched the lowest share of smallsats
+                                                                                                        34
+                                               since 2019
+Smallsat Launch Trends
+Smallsats 2019 – 2023, by Launch Vehicle
+
+
+
+
+                                                                                                                                                                      Long March 2D                   Long March 2C                 GSLV-OneWeb
+                                                             Starlink & OneWeb
+                                                  Falcon 9                                         Soyuz 2.1a/b
+                                                                                                                             OneWeb          Antares 230
+                                                                                                                                      PSLV
+
+
+                            12%
+
+            8,703
+   64%
+            Smallsats         5%                                                               Medium – Super Heavy Launch Vehicles
+            Launched          2%
+                                                                                                   Micro – Small Launch Vehicles
+           2019 – 2023        2%
+                             2%
+
+
+
+                       6%
+
+
+                                                                                 Kuaizhou 1A
+                                                                                                                                                       Long March 6                   Long March 11                   LauncherOne
+                                    Each 1%
+
+                                                                                                                  Electron
+                                                                                                                                      Vega
+
+                              51 other vehicles
+                              (<45 smallsats each
+                              launched over period)
+                                                                                                                                                                                                                                                  35
+Smallsats in Context
+Operator and Mission Type Trends
+Smallsat Mass Trends
+Smallsat Launch Trends
+Looking Forward
+
+
+
+
+                                   36
+Looking Forward: Areas To Watch
+
+
+
+                                                         Business Outcomes
+  Smallsat ventures continue efforts to prove their business models and generate revenue, with increasing attention on communications
+ megaconstellations. Macroeconomic factors may have outsized impact on early-stage ventures and influence long-term smallsat market
+
+
+                                              Communications Megaconstellations
+Smallsat telecommunications operators dominated smallsat activity in 2023 and are continuing deployments in 2024. Launch of these large
+constellations will influence smallsat activity in the next few years as initial deployments finish and expanded constellations are authorized
+
+
+                                                      Smallsat Launch Options
+Smallsats continue to primarily deploy on medium to heavy launch vehicles. Smallsat operators have other launch options including small
+    launch and rideshare. In addition, dozens of companies continue to develop new small launch vehicles (many <500kg capacity)
+
+
+                                                   Government Use of Smallsats
+  In 2023, the United States conducted the first deployments of national security proliferated architectures. Governments are increasingly
+                   seeking to leverage smallsats or include them in architecture planning to augment existing capabilities
+
+
+                                            Smallsat Driven GEO/NGSO Integration
+  Organizations are likely to continue and expand GEO/NGSO integration, possibly through additional merger and acquisition activity, for
+       optimal routing of traffic based on consumer speed, coverage needs, and unique remote sensing observations/data fusion
+                                                                                                                                                 37
+38
+

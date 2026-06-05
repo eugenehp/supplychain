@@ -1,0 +1,281 @@
+{
+  "ticker": "IRDM",
+  "name": "Iridium Communications Inc.",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 10,
+  "byCategory": [
+    {
+      "category": "governance",
+      "count": 4
+    },
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "contract",
+      "count": 1
+    },
+    {
+      "category": "disclosure",
+      "count": 1
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-06",
+      "count": 1
+    },
+    {
+      "month": "2025-07",
+      "count": 1
+    },
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2025-12",
+      "count": 1
+    },
+    {
+      "month": "2026-02",
+      "count": 2
+    },
+    {
+      "month": "2026-03",
+      "count": 1
+    },
+    {
+      "month": "2026-04",
+      "count": 1
+    },
+    {
+      "month": "2026-05",
+      "count": 2
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001418819-26-000036",
+      "filingDate": "2026-05-20",
+      "reportDate": "2026-05-20",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Submission of matters to vote; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000036/irdm-20260520.htm"
+    },
+    {
+      "accessionNumber": "0001418819-26-000032",
+      "filingDate": "2026-05-14",
+      "reportDate": "2026-05-13",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000032/irdm-20260513.htm"
+    },
+    {
+      "accessionNumber": "0001418819-26-000027",
+      "filingDate": "2026-04-23",
+      "reportDate": "2026-04-23",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000027/irdm-20260423.htm"
+    },
+    {
+      "accessionNumber": "0001418819-26-000016",
+      "filingDate": "2026-03-05",
+      "reportDate": "2026-03-05",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000016/irdm-20260305.htm"
+    },
+    {
+      "accessionNumber": "0001418819-26-000014",
+      "filingDate": "2026-02-27",
+      "reportDate": "2026-02-26",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000014/irdm-20260226.htm"
+    },
+    {
+      "accessionNumber": "0001418819-26-000008",
+      "filingDate": "2026-02-12",
+      "reportDate": "2026-02-12",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000008/irdm-20260212.htm"
+    },
+    {
+      "accessionNumber": "0001418819-25-000012",
+      "filingDate": "2025-12-04",
+      "reportDate": "2025-12-04",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881925000012/irdm-20251204.htm"
+    },
+    {
+      "accessionNumber": "0001418819-25-000008",
+      "filingDate": "2025-10-23",
+      "reportDate": "2025-10-23",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881925000008/irdm-20251023.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-035834",
+      "filingDate": "2025-07-24",
+      "reportDate": "2025-07-24",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000162828025035834/irdm-20250724.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-031719",
+      "filingDate": "2025-06-17",
+      "reportDate": "2025-06-17",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000162828025031719/irdm-20250617.htm"
+    }
+  ]
+}

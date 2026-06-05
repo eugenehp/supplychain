@@ -1,0 +1,45 @@
+{
+  "ticker": "VSAT",
+  "cik": "0000797721",
+  "name": "VIASAT INC",
+  "scrapedAt": "2026-06-04T23:42:19.703Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 4640280000,
+      "end": "2026-03-31",
+      "filed": "2026-05-29",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 164908000,
+      "end": "2026-03-31",
+      "filed": "2026-05-29",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 15226596000,
+      "end": "2026-03-31",
+      "filed": "2026-05-29",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 1594625000,
+      "end": "2018-03-31",
+      "filed": "2018-05-30",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 4640280000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-05-29",
+    "accessionNumber": "0001193125-26-248290",
+    "primaryDocument": "vsat-20260331.htm",
+    "reportDate": "2026-03-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/797721/000119312526248290/vsat-20260331.htm",
+  "htmlLength": 5421212
+}

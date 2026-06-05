@@ -30,6 +30,22 @@ export const COMPANY_DOMAINS = {
   TT: 'tenstorrent.com',
   GQ: 'groq.com',
   CB: 'cerebras.ai',
+  // Space economy watchlist
+  RKLB: 'rocketlabusa.com',
+  ASTS: 'ast-science.com',
+  BA: 'boeing.com',
+  LMT: 'lockheedmartin.com',
+  NOC: 'northropgrumman.com',
+  RTX: 'rtx.com',
+  LHX: 'l3harris.com',
+  IRDM: 'iridium.com',
+  VSAT: 'viasat.com',
+  GSAT: 'globalstar.com',
+  PL: 'planet.com',
+  BKSY: 'blacksky.com',
+  SPIR: 'spire.com',
+  MNTS: 'momentus.space',
+  RDW: 'redwirespace.com',
 };
 
 /** English Wikipedia page titles for Wikidata logo lookup (P154). */
@@ -57,6 +73,22 @@ export const WIKIPEDIA_TITLES = {
   TT: 'Tenstorrent',
   GQ: 'Groq',
   CB: 'Cerebras',
+  // Space economy
+  RKLB: 'Rocket Lab',
+  ASTS: 'AST SpaceMobile',
+  BA: 'Boeing',
+  LMT: 'Lockheed Martin',
+  NOC: 'Northrop Grumman',
+  RTX: 'RTX Corporation',
+  LHX: 'L3Harris',
+  IRDM: 'Iridium Communications',
+  VSAT: 'Viasat, Inc.',
+  GSAT: 'Globalstar',
+  PL: 'Planet Labs',
+  BKSY: 'BlackSky Technology',
+  SPIR: 'Spire Global',
+  MNTS: 'Momentus Inc',
+  RDW: 'Redwire',
 };
 
 const LOGOS = {
@@ -83,6 +115,22 @@ const LOGOS = {
   TT: { label: 'TT', sub: 'Tenstorrent', color: '#1E3A5F', bg: '#1E3A5F', text: '#ffffff' },
   GQ: { label: 'GQ', sub: 'Groq', color: '#F55036', bg: '#1A1A1A', text: '#F55036' },
   CB: { label: 'CB', sub: 'Cerebras', color: '#FF6B00', bg: '#1A1A1A', text: '#FF6B00' },
+  // Space economy watchlist (SVG fallback colors)
+  RKLB: { label: 'RKLB', sub: 'Rocket Lab', color: '#FFFFFF', bg: '#1A1A1A', text: '#FFFFFF' },
+  ASTS: { label: 'ASTS', sub: 'AST', color: '#0066CC', bg: '#0066CC', text: '#FFFFFF' },
+  BA:   { label: 'BA',   sub: 'Boeing', color: '#005EB8', bg: '#005EB8', text: '#FFFFFF' },
+  LMT:  { label: 'LMT',  sub: 'Lockheed', color: '#0E2A47', bg: '#0E2A47', text: '#FFFFFF' },
+  NOC:  { label: 'NOC',  sub: 'Northrop', color: '#005CB9', bg: '#005CB9', text: '#FFFFFF' },
+  RTX:  { label: 'RTX',  sub: 'RTX', color: '#C8102E', bg: '#C8102E', text: '#FFFFFF' },
+  LHX:  { label: 'LHX',  sub: 'L3Harris', color: '#003C7E', bg: '#003C7E', text: '#FFFFFF' },
+  IRDM: { label: 'IRDM', sub: 'Iridium', color: '#5BC2E7', bg: '#0B2E4F', text: '#FFFFFF' },
+  VSAT: { label: 'VSAT', sub: 'Viasat', color: '#005EB8', bg: '#005EB8', text: '#FFFFFF' },
+  GSAT: { label: 'GSAT', sub: 'Globalstar', color: '#F26522', bg: '#F26522', text: '#FFFFFF' },
+  PL:   { label: 'PL',   sub: 'Planet', color: '#0EBC8F', bg: '#0EBC8F', text: '#FFFFFF' },
+  BKSY: { label: 'BKSY', sub: 'BlackSky', color: '#FFFFFF', bg: '#0F172A', text: '#FFFFFF' },
+  SPIR: { label: 'SPIR', sub: 'Spire', color: '#001E62', bg: '#001E62', text: '#FFFFFF' },
+  MNTS: { label: 'MNTS', sub: 'Momentus', color: '#FF5722', bg: '#FF5722', text: '#FFFFFF' },
+  RDW:  { label: 'RDW',  sub: 'Redwire', color: '#E60000', bg: '#E60000', text: '#FFFFFF' },
 };
 
 /** Logo slugs for private / non-SEC anchor companies (topic id → slug). */

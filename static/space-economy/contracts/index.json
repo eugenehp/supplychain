@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2026-06-05T03:07:50.201Z",
+  "topicId": "space-economy",
+  "years": 5,
+  "tickers": [
+    {
+      "ticker": "LMT",
+      "recipientUsed": "LOCKHEED MARTIN CORP",
+      "totalAmount": 591135076088.59,
+      "awardCount": 127,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "BA",
+      "recipientUsed": "THE BOEING COMPANY",
+      "totalAmount": 300881842969.8204,
+      "awardCount": 200,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "RTX",
+      "recipientUsed": "RTX CORPORATION",
+      "totalAmount": 184670788412.15005,
+      "awardCount": 263,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "NOC",
+      "recipientUsed": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "totalAmount": 120907946193.92003,
+      "awardCount": 108,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "LHX",
+      "recipientUsed": "L3HARRIS TECHNOLOGIES, INC.",
+      "totalAmount": 18124761423.670002,
+      "awardCount": 100,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "VSAT",
+      "recipientUsed": "VIASAT INC",
+      "totalAmount": 2100965039.5599997,
+      "awardCount": 101,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "IRDM",
+      "recipientUsed": "IRIDIUM SATELLITE LLC",
+      "totalAmount": 701476302.08,
+      "awardCount": 29,
+      "topAgency": "Department of Defense",
+      "years": 0
+    },
+    {
+      "ticker": "RDW",
+      "recipientUsed": "REDWIRE SPACE INC",
+      "totalAmount": 265105862.48999998,
+      "awardCount": 79,
+      "topAgency": "National Aeronautics and Space Administration",
+      "years": 0
+    },
+    {
+      "ticker": "SPIR",
+      "recipientUsed": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "totalAmount": 99178408.63999999,
+      "awardCount": 35,
+      "topAgency": "Department of Commerce",
+      "years": 0
+    },
+    {
+      "ticker": "RKLB",
+      "recipientUsed": "ROCKET LAB USA INC",
+      "totalAmount": 75081553,
+      "awardCount": 15,
+      "topAgency": "National Aeronautics and Space Administration",
+      "years": 0
+    },
+    {
+      "ticker": "PL",
+      "recipientUsed": "PLANET LABS PBC",
+      "totalAmount": 19561215.48,
+      "awardCount": 15,
+      "topAgency": "National Aeronautics and Space Administration",
+      "years": 0
+    },
+    {
+      "ticker": "MNTS",
+      "recipientUsed": "MOMENTUS SPACE LLC",
+      "totalAmount": 10692353.14,
+      "awardCount": 22,
+      "topAgency": "National Aeronautics and Space Administration",
+      "years": 0
+    },
+    {
+      "ticker": "GSAT",
+      "recipientUsed": "GLOBALSTAR USA LLC",
+      "totalAmount": 1454643.1200000003,
+      "awardCount": 34,
+      "topAgency": "Department of Justice",
+      "years": 0
+    },
+    {
+      "ticker": "ASTS",
+      "recipientUsed": null,
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "years": 0
+    },
+    {
+      "ticker": "BKSY",
+      "recipientUsed": null,
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "years": 0
+    }
+  ]
+}

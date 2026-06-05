@@ -1,0 +1,55 @@
+{
+  "ticker": "PL",
+  "topicId": "space-economy",
+  "name": "Planet Labs PBC",
+  "cik": "0001836833",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-23",
+    "accessionNumber": "0001193125-26-119957",
+    "primaryDocument": "pl-20260131.htm",
+    "reportDate": "2026-01-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526119957/pl-20260131.htm",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 307727000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 106749000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 107746000,
+      "end": "2024-01-31",
+      "filed": "2024-03-29",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 172485000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 1145686000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    }
+  },
+  "textLength": 551747,
+  "exportedAt": "2026-06-05T04:10:36.034Z",
+  "localUrls": {
+    "text": "/space-economy/sec/PL/filing.txt",
+    "metadata": "/space-economy/sec/PL/metadata.json",
+    "sections": "/space-economy/sec/PL/sections.json",
+    "evidence": "/space-economy/sec/PL/evidence.json",
+    "display": "/space-economy/sec/PL/display.json"
+  }
+}

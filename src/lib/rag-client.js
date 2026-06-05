@@ -13,9 +13,16 @@ import {
   searchVendorsViaWorker,
   warmEmbeddingModel,
 } from './rag-worker-client.js';
+import { getRagRoot, onRagNamespaceChange } from './rag-namespace.js';
 
 /** @type {Promise<object> | null} */
 let mainThreadLoadPromise = null;
+
+onRagNamespaceChange(() => {
+  mainThreadLoadPromise = null;
+  loadPromise = null;
+  embedWarmPromise = null;
+});
 
 function buildChunkBm25Index(chunks) {
   const index = new Bm25Index();
@@ -57,17 +64,18 @@ export function highlightSnippet(text, query, radius = 220) {
 }
 
 async function loadRagIndexMainThread() {
+  const ragRoot = getRagRoot();
   const [manifestRes, vendorsRes] = await Promise.all([
-    fetch('/rag/manifest.json'),
-    fetch('/rag/vendors.json'),
+    fetch(`${ragRoot}/manifest.json`),
+    fetch(`${ragRoot}/vendors.json`),
   ]);
 
   if (!manifestRes.ok) {
-    throw new Error('RAG static index missing — run `npm run rag`');
+    throw new Error(`RAG static index missing at ${ragRoot} — run the topic pipeline`);
   }
 
   const manifest = await manifestRes.json();
-  const chunks = await fetchRagChunkEntries(manifest);
+  const chunks = await fetchRagChunkEntries(manifest, { ragRoot });
   const vendorsData = vendorsRes.ok ? await vendorsRes.json() : { vendors: [] };
   const embeddingIndex = chunks[0]?.q
     ? loadEmbeddingIndex({ entries: chunks })

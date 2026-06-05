@@ -1,0 +1,223 @@
+{
+  "ticker": "RDW",
+  "queryVariants": [
+    "Redwire Corp",
+    "Redwire",
+    "REDWIRE CORP",
+    "REDWIRE SPACE INC."
+  ],
+  "sampleRecipients": [
+    "REDWIRE SPACE INC",
+    "LOADPATH, LLC",
+    "REDWIRE SPACE SOLUTIONS, LLC",
+    "REDWIRE SPACE TECHNOLOGIES, INC.",
+    "REDWIRE SPACE MISSIONS LLC"
+  ],
+  "totalAmount": 265105862.48999998,
+  "awardCount": 79,
+  "byAgency": [
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 186840022.12
+    },
+    {
+      "agency": "Department of Defense",
+      "amount": 76518657.66000001
+    },
+    {
+      "agency": "Department of the Interior",
+      "amount": 1581573.09
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "amount": 141659.62
+    },
+    {
+      "agency": "Department of Commerce",
+      "amount": 23950
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "NNM17AA02C",
+      "recipient": "REDWIRE SPACE INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 87627343.03,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF IN-SPACE ROBOTIC MANUFACTURING AND ASSEMBLY SYSTEM (TIPPING POINT TECHNOLOGIES)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA945319C0002",
+      "recipient": "LOADPATH, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 19899683,
+      "psc": null,
+      "naics": null,
+      "description": "CALL 002- ASSIST - SPACE STRUCTURES, INTEGRATED SENSING, THERMAL TECHNOLOGIES, AND AGILE MANUFACTURI",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80MSFC21CA008",
+      "recipient": "REDWIRE SPACE SOLUTIONS, LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 18758726.32,
+      "psc": null,
+      "naics": null,
+      "description": "SOLAR CRUISER: SOLAR SAIL SYSTEM (SSS) AND ACTIVE MASS TRANSLATOR (AMT)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA945324CX039",
+      "recipient": "LOADPATH, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 15367849.73,
+      "psc": null,
+      "naics": null,
+      "description": "STAR - ADVANCED LABORATORIES, ALGORITHMS, COLLABORATIVE RESEARCH AND DEVELOPMENT INNOVATIONS, AND TECHNOLOGY (ALACRITY)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA945320C0003",
+      "recipient": "REDWIRE SPACE SOLUTIONS, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 10645785,
+      "psc": null,
+      "naics": null,
+      "description": "STRUCTURALLY COMBINED APERTURE AND RETICULATED LOCKING EXPANDABLE TRUSS (SCARLET)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA945320C0017",
+      "recipient": "REDWIRE SPACE SOLUTIONS, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 10248703,
+      "psc": null,
+      "naics": null,
+      "description": "EXPERIMENT FOR LONG LIFE INNOVATIVE ENERGY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80JSC018F0115",
+      "recipient": "REDWIRE SPACE TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 7938607.6,
+      "psc": null,
+      "naics": null,
+      "description": "ADVANCED PLANT HABITAT (APH) MISSION INTEGRATION AND OPERATIONS AND SUSTAINING ENGINEERING SERVICES FOR SPACE BIOLOGY TASK ORDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80JSC021F0084",
+      "recipient": "REDWIRE SPACE TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 7758822.45,
+      "psc": null,
+      "naics": null,
+      "description": "TO#18 - FABLAB",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80JSC019F0028",
+      "recipient": "REDWIRE SPACE TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6517397.84,
+      "psc": null,
+      "naics": null,
+      "description": "PORE FORMATION AND MOBILITY INVESTIGATION (PFMI) AND SOLIDIFICATION USING A BAFFLE IN SEALED AMPOULES (SUBSA) TO",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA945317C0426",
+      "recipient": "REDWIRE SPACE SOLUTIONS, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 5925997,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF DEPLOYABLE STRUCTURAL BOOMS FOR SMALLSAT ANTENNAS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA945322C0014",
+      "recipient": "REDWIRE SPACE MISSIONS LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 5818000,
+      "psc": null,
+      "naics": null,
+      "description": "THIS EFFORT WILL DEVELOP SATELLITE COMPONENT MODELS TO BE INTEGRATED INTO A LARGER MODELLING AND SIMULATION SYSTEM UNDER DEVELOPMENT BY AIR FORCE RESEARCH LAB (AFRL).",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR18C0032",
+      "recipient": "REDWIRE SPACE TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 4935458,
+      "psc": null,
+      "naics": null,
+      "description": "THE TECHSHOT FABLAB IS A TWO-PART SYSTEM THAT WILL OCCUPY THE UPPER AND LOWER HALVES OF A FULL EXPRESS RACK ON THE INTERNATIONAL SPACE STATION (ISS).",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "NNJ15GU47T",
+      "recipient": "REDWIRE SPACE TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 3971444.33,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF MULTI-PURPOSE VARIABLE-GRAVITY PLATFORM THE MVP IS DESIGNED PRIMARILY FOR LIFE AND MICROGRAVITY SCIENCES RESEARCH ON THE INTERNATIONAL SPACE STATION (ISS). IT ACCOMMODATES MULTIPLE EXPERIMENT MODULES WHICH PROVIDES 2-LEVELS OF ",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80JSC020F0176",
+      "recipient": "REDWIRE SPACE INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 3687385.77,
+      "psc": null,
+      "naics": null,
+      "description": "TO#16 - MICROGRAVITY HIGH IMPULSE PLASMA SOURCE (HIPIPS) FACILITY FLIGHT DEMONSTRATION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80LARC19C0011",
+      "recipient": "REDWIRE SPACE SENSORS, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 3294385,
+      "psc": null,
+      "naics": null,
+      "description": "DEVELOPMENT AND DESIGN OF LOW EARTH  ORBIT FLIGHT TEST OF AN INFLATABLE DECELERATOR (LOFTID)EJECTABLE DATA RECORDER (EDR).",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

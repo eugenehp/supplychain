@@ -1,0 +1,248 @@
+{
+  "ticker": "VSAT",
+  "topicId": "space-economy",
+  "product": "Viasat satcom network",
+  "segment": "ground",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-05-29",
+    "accessionNumber": "0001193125-26-248290",
+    "primaryDocument": "vsat-20260331.htm",
+    "reportDate": "2026-03-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/797721/000119312526248290/vsat-20260331.htm",
+  "summary": {
+    "nodeCount": 13,
+    "linkCount": 12,
+    "totalFlow": 346,
+    "filingChars": 517166,
+    "mentionDensity": 0.67,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Ground & comms",
+        "score": 321
+      },
+      {
+        "subsystem": "RF & antenna",
+        "score": 19
+      },
+      {
+        "subsystem": "Launch services",
+        "score": 4
+      },
+      {
+        "subsystem": "Avionics & ASIC/FPGA",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "GB",
+        "score": 160
+      },
+      {
+        "country": "US",
+        "score": 154
+      }
+    ],
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "explicitSuppliers": 5,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "Viasat satcom network",
+      "name": "Viasat satcom network",
+      "tier": 0,
+      "group": "product",
+      "description": "VSAT 10-K / 20-F · 10-K 2026-05-29",
+      "country": "US",
+      "mentionScore": 346
+    },
+    {
+      "id": "Avionics & ASIC/FPGA",
+      "name": "Avionics & ASIC/FPGA",
+      "tier": 1,
+      "group": "electronics",
+      "description": "Subsystem category — Avionics & ASIC/FPGA",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "BAE Systems",
+      "name": "BAE Systems",
+      "tier": 2,
+      "group": "electronics",
+      "description": "Avionics & ASIC/FPGA · VSAT 10-K mentions: 2",
+      "country": "GB",
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    },
+    {
+      "id": "Radiation-hardened semiconductor",
+      "name": "Radiation-hardened semiconductor",
+      "tier": 3,
+      "group": "electronics",
+      "description": "Raw input — Radiation-hardened semiconductor",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "RF & antenna",
+      "name": "RF & antenna",
+      "tier": 1,
+      "group": "rf",
+      "description": "Subsystem category — RF & antenna",
+      "country": null,
+      "mentionScore": 19,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Ka / Ku band electronics",
+      "name": "Ka / Ku band electronics",
+      "tier": 2,
+      "group": "rf",
+      "description": "RF & antenna · VSAT 10-K mentions: 19",
+      "country": null,
+      "mentionScore": 19,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "GaN / GaAs RFIC",
+      "name": "GaN / GaAs RFIC",
+      "tier": 3,
+      "group": "rf",
+      "description": "Raw input — GaN / GaAs RFIC",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "SpaceX launch services",
+      "name": "SpaceX launch services",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · VSAT 10-K mentions: 4",
+      "country": "US",
+      "mentionScore": 4,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category — Ground & comms",
+      "country": null,
+      "mentionScore": 321,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · VSAT 10-K mentions: 13",
+      "country": null,
+      "mentionScore": 13,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Viasat global network",
+      "name": "Viasat global network",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · VSAT 10-K mentions: 150",
+      "country": "US",
+      "mentionScore": 150,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Inmarsat ELERA",
+      "name": "Inmarsat ELERA",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · VSAT 10-K mentions: 158",
+      "country": "GB",
+      "mentionScore": 158,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "BAE Systems",
+      "target": "Avionics & ASIC/FPGA",
+      "value": 2
+    },
+    {
+      "source": "Radiation-hardened semiconductor",
+      "target": "BAE Systems",
+      "value": 1
+    },
+    {
+      "source": "Ka / Ku band electronics",
+      "target": "RF & antenna",
+      "value": 19
+    },
+    {
+      "source": "GaN / GaAs RFIC",
+      "target": "Ka / Ku band electronics",
+      "value": 1
+    },
+    {
+      "source": "SpaceX launch services",
+      "target": "Launch services",
+      "value": 4
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 13
+    },
+    {
+      "source": "Viasat global network",
+      "target": "Ground & comms",
+      "value": 150
+    },
+    {
+      "source": "Inmarsat ELERA",
+      "target": "Ground & comms",
+      "value": 158
+    },
+    {
+      "source": "Avionics & ASIC/FPGA",
+      "target": "Viasat satcom network",
+      "value": 2
+    },
+    {
+      "source": "RF & antenna",
+      "target": "Viasat satcom network",
+      "value": 19
+    },
+    {
+      "source": "Launch services",
+      "target": "Viasat satcom network",
+      "value": 4
+    },
+    {
+      "source": "Ground & comms",
+      "target": "Viasat satcom network",
+      "value": 321
+    }
+  ]
+}

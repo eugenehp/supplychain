@@ -1,0 +1,144 @@
+                                                                                                   Updated December 23, 2024
+Defense Primer: U.S. Space Force
+The U.S. Space Force is the sixth branch of the Armed             Base (SFB) in Colorado Springs, CO, provides space forces
+Forces, established under the Department of the Air Force         to combatant commands. STARCOM prepares space forces
+(DAF) with the enactment of the FY2020 National Defense           for operations. The DAF has selected Patrick SFB in
+Authorization Act ([NDAA], P.L. 116-92). According to             Florida as STARCOM’s headquarters. SSC, based at Los
+Title 10, Section 9081, of the U.S. Code, “The Space Force        Angeles Air Force Base, handles acquisition. On February
+shall be organized, trained, and equipped to—(1) provide          12, 2024, Saltzman announced the Space Force’s intent to
+freedom of operation for the United States in, from, and to       stand up a fourth field command, Space Futures Command,
+space; (2) conduct space operations; and (3) protect the          to forecast threats, test concepts based on those forecasts,
+interests of the United States in space.”                         and design missions.
+
+Why the Space Force Was Created                                   Figure 1. U.S. Space Force Within the Department of
+The U.S. military operates 246 satellites, according to the       the Air Force
+Union of Concerned Scientists. This satellite fleet includes
+constellations such as the Global Positioning System (GPS),
+which is widely used by the public and the private sector.
+For decades, U.S. spacecraft operated without threat of
+attack by other nations.
+
+The United States and Soviet Union tested anti-satellite
+(ASAT) missiles in the 1980s. Largely because resulting
+debris could harm spacecraft in orbit, the United States last
+conducted such a test in 1985. China became the third
+nation to test an ASAT weapon in 2007. The event was a            Source: Adapted from U.S. Space Force Headquarters Air Force -
+turning point, military commanders have said, as it revealed      April 19, 2022 (spaceforce.mil).
+the vulnerability created by U.S. reliance on satellites. After
+2007, China and Russia continued to build their military          Underneath field commands, colonels lead units called
+space capabilities. One decade later, advocates for a Space       deltas. Lieutenant colonels lead still-smaller Space Force
+Force in Congress and the Administration proposed                 squadrons. The Space Force assigns space professionals,
+creating a service that could respond to increasing space,        known as Guardians, to U.S. Space Command and the
+cyberspace, and missile threats. They also sought to              Department of Defense’s (DOD’s) 10 other unified
+streamline the process for making decisions about space           combatant commands, each of which has a geographic or
+acquisition. The FY2020 NDAA established the service on           functional mission. Career tracks for Space Force
+December 20, 2019.                                                Guardians include engineering, intelligence, leadership,
+                                                                  logistics, and technology.
+Space Force Organization
+The Chief of Space Operations (CSO) is the highest-               The Space Force manages space launch operations on the
+ranking uniformed space advisor reporting to the Secretary        East Coast at Patrick SFB in Florida and on the West Coast
+of the Air Force. The Space Force and the U.S. Air Force          at Vandenberg SFB in California. The service develops,
+(USAF) are two separate and distinct military uniformed           defends, and operates cybersecurity networks, as well as
+services with the same civilian leader in the DAF. The            satellites that provide secure communications, weather and
+structure is similar to how the Chief of Naval Operations         navigational information, and missile warning. The service
+and the Marine Corps report to the Secretary of the Navy.         uses space surveillance sensors to track satellites and space
+The CSO is General Chance Saltzman.                               debris for its own use and distributes much of that
+                                                                  information publicly. The Space Force mission is to defend
+The Office of the CSO and the Space Force Headquarters            U.S. satellites from hostile attacks and conduct offensive
+are located at the Pentagon. The Space Force has a                counterspace operations to degrade an adversary’s ability to
+command structure with three levels. At the top of the            conduct space-based attacks.
+hierarchy, three-star generals lead mission-focused field         Great Power Competition
+commands. The Space Force’s three field commands are              During the Air Force Association’s Air and Space Warfare
+Space Operations Command (SpOC), Space Training and               Symposium in February 2024, Air Force Secretary Frank
+Readiness Command (STARCOM), and Space Systems                    Kendall directed the Air Force and Space Force to
+Command (SSC). SpOC, based at Peterson Space Force                “Reoptimize for Great Power Competition” with a
+
+                                                 https://crsreports.congress.gov
+                                                                                           Defense Primer: U.S. Space Force
+
+particular focus on China, which has vastly increased its        • Satellite Communications (SATCOM) Projects
+space capabilities in the past 20 years.                            deliver three types of SATCOM. Strategic SATCOM
+                                                                    refers to Nuclear Command, Control, and
+To better enable Guardians to meet the demands of conflict          Communications (NC3); protected SATCOM enables
+with China or Russia, Saltzman said the Space Force would           communications to deployed forces in contested
+redesign career paths and include training for leaders to be        environments; and wideband/narrowband SATCOM
+knowledgeable in operations as well as technology. The              offers large amounts of data transfer in less-contested
+service has also proposed the creation of a Space Futures           environments.
+Command within the year.
+                                                                 • Under the Proliferated Space Warfighter
+FY2025 Budget Request                                               Architecture, the Space Force is soliciting, purchasing,
+The budget request for the Space Force is included within           and launching low-Earth-orbit satellites to create a
+DAF budget materials. The Space Force request was $29.4             constellation that will conduct multiple missions. The
+billion for FY2025, down from its FY2024 request of $30             missions will overlap with the systems conducting PNT,
+billion. The FY2025 request included $18.7 billion for              missile warning, and communications. These satellites
+research, development, testing, and evaluation; $5.2 billion        will fly at lower altitudes and in greater numbers,
+for operations and maintenance; $4.3 billion for                    providing additional capabilities and more resilience.
+procurement; and $1.2 billion for military personnel
+(MILPERS). The FY2025 MILPERS request supports an                Potential Issues for Congress
+end strength of 9,800 military personnel and 5,324
+civilians. The FY2025 budget request included major space        Space National Guard
+investments, as shown in Table 1.                                Some analysts and organizations, including the National
+                                                                 Guard Association of the United States (NGAUS), have
+Table 1. FY2025 U.S. Space Force Request, by                     argued that DOD should establish a Space National Guard.
+Selected Programs                                                They say a Space National Guard would help align Air
+                 Type                          $ in billions     National Guard units conducting space missions at a
+                                                                 reasonable cost. The Biden Administration and others have
+ Space Procurement (Space Force)                    4.3
+                                                                 opposed its creation, citing the cost to establish a new
+ Resilient Missile Warning Missile Tracking         2.6          headquarters. The Congressional Budget Office estimates
+ Space Technology Development and                   1.7          that facilities and equipment for a Space National Guard
+ Prototyping                                                     would range from $400 million to $900 million. The
+ Next-Gen Overhead Persistent Infrared              2.1          FY2024 NDAA requires the Secretary of Defense to
+ Evolved Strategic SATCOM                           1.0          conduct a study to assess the feasibility and advisability of
+                                                                 transferring the space components of the Air National
+ Protected Tactical SATCOM                          0.6          Guard to the Space Force.
+ Space Domain Awareness Systems                     0.5
+Source: Department of the Air Force Budget Overview FY2025.
+                                                                 Space Acquisitions
+                                                                 The FY2023 NDAA directed the Defense Business Board
+Major Space Acquisition Programs                                 (DBB) and the Defense Innovation Board (DIB) to study
+The FY2025 budget request included funding for the               means for DOD to more rapidly acquire space assets. The
+development and procurement of spacecraft, launch                resulting report recommends further empowering the Space
+vehicles, space command and control systems, and                 Acquisition Executive (SAE), who oversees the military’s
+terrestrial satellite terminals and equipment. Major             space architecture, leads the DAF’s purchase of space
+acquisition programs include the following:                      systems, and reports to the Secretary of the Air Force. The
+                                                                 report recommends allowing the SAE to approve
+• The National Security Space Launch (NSSL) program              contracting vehicles (called Other Transaction Agreements)
+   procures commercial launch services for the Space             that exceed $500 million without seeking additional
+   Force, Air Force, Navy, National Reconnaissance               approval. The DBB and DIB report also calls for the SAE
+   Office, Space Development Agency, and other                   to determine the membership and frequency of meetings of
+   government agencies. This program ensures U.S. access         the Space Acquisition Council, which manages DOD space
+   to space.                                                     procurements. The report advises allowing the SAE to hold
+                                                                 funds in reserve for adding technology to existing
+• The GPS Enterprise provides 24-hour-a-day,                     programs, risk reduction, program acceleration, or
+   worldwide coverage, including all-weather three-              corrective actions. Congress may consider these
+   dimensional positioning, navigation, and timing (PNT)         recommendations in its deliberations for FY2025.
+   for military and civilian users.
+                                                                 Hannah D. Dennis, Analyst in U.S. Defense Policy
+• Missile Warning Systems supply warning of strategic
+   missile attacks using the existing Space-Based Infrared                                                             IF12610
+   System. The Space Force is developing the Next
+   Generation Overhead Persistent Infrared and Resilient
+   Missile Warning and Missile Tracking program.
+
+                                                https://crsreports.congress.gov
+                                                                                        Defense Primer: U.S. Space Force
+
+
+
+
+Disclaimer
+This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress.
+Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the
+United States Government, are not subject to copyright protection in the United States. Any CRS Report may be
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include
+copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you
+wish to copy or otherwise use copyrighted material.
+
+
+
+
+                           https://crsreports.congress.gov | IF12610 · VERSION 5 · UPDATED
+

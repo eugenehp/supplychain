@@ -1,0 +1,136 @@
+                                                                                                       December 4, 2024
+Defense Primer: U.S. Space Command
+U.S. Space Command (USSPACECOM) is responsible for            orbits. These capabilities range from offensive cyber and
+U.S. military operations in space. As a geographic            electronic warfare platforms to ground- and space-based
+combatant command (CCMD), USSPACECOM receives                 anti-satellite weapons.
+personnel and equipment from each of the military services
+                                                              Figure 1. USSPACECOM Organizational Structure
+to execute its mission (see Figure 1). USSPACECOM is
+distinct from, and complementary to, the U.S. Space Force
+(USSF), which is an armed service under the Department of
+the Air Force (DAF). For additional background, see CRS
+In Focus IF12610, Defense Primer: The United States
+Space Force.
+Background
+USSPACECOM was initially established in 1985. In 2002,
+Congress approved a broad reorganization of the CCMDs to
+facilitate DOD’s shift in focus to counterterrorism and
+homeland defense. This reorganization included the
+disestablishment of USSPACECOM, and its responsibilities
+and assets were transferred to U.S. Strategic Command
+(USSTRATCOM). Driven by the increase in adversary
+space and counter-space capabilities, Congress, in the John
+S. McCain National Defense Authorization Act for Fiscal
+Year 2019 (FY2019 NDAA; P.L. 115-232 §169),
+reconstituted USSPACECOM as a subordinate unified             Source: DOD Media
+command under USSTRATCOM. In 2019, the Trump                  USSPACECOM officials have raised concerns about
+Administration elevated USSPACECOM to a CCMD,                 adversarial space capabilities. In February 2024, General
+citing space’s importance as a vital warfighting domain.      Whiting testified to the Senate Armed Services Committee
+Mission and Organization                                      (SASC) that the PRC and Russia seek to exploit perceived
+According to USSPACECOM, the command “plans,                  U.S. reliance on space systems through the development of
+executes, and integrates military spacepower into multi-      military counterspace capabilities aimed at severely
+domain global operations in order to deter aggression,        degrading U.S., allied, and partner space and terrestrial
+defend national interests, and when necessary, defeat         systems. In May 2024, the Chairman of the House
+threats.” The command is responsible for conducting space     Intelligence Committee expressed concerns about Russian
+operations, sensor management, satellite communications       development of an on-orbit nuclear anti-satellite weapon.
+management, and trans-regional missile defense.               For additional background, see CRS Insight IN12420, U.S.
+USSPACECOM’s area of responsibility (AOR) begins 62           Counterspace Capabilities, and CRS In Focus IF11895,
+miles above the Earth’s surface (also known as the Kármán     Space as a Warfighting Domain: Issues for Congress.
+line), extending to the Moon and beyond (see Figure 2).       DIA has outlined PRC and Russian pursuit of legally
+USSPACECOM, led by a four-star general or admiral, is         binding international space arms control agreements to curb
+headquartered at Peterson Space Force Base (SFB) in           what Russia “sees as U.S. strength in outer space.”
+Colorado. The current USSPACECOM commander is                 Congress has oversight and accountability mechanisms
+USSF General Stephen Whiting.                                 available to influence such international agreements. For
+USSPACECOM is organized into five subordinate service         more information, see CRS Legal Sidebar LSB11049,
+component commands and two functional component               International Agreements (Part II): Examining Tools for
+commands. Approximately 1,700 personnel are directly          Congressional Influence Over International Instruments.
+assigned to USSPACECOM headquarters. About 18,000             Potential Issues for Congress
+joint force personnel are assigned to the command’s seven
+subcomponents, which are based in six states.                 USSPACECOM Headquarters. Some Members have
+                                                              reportedly stated that President-elect Donald Trump will
+Space Domain Challenges and Threats                           seek to move USSPACECOM’s headquarters from its
+Space is an increasingly contested domain. The People’s       current location of Colorado Springs, CO, to Huntsville,
+Republic of China (PRC), the Russian Federation, and other    AL, perhaps using an executive order. In January 2021, the
+adversaries have, or are developing, offensive space          DAF selected Redstone Arsenal, in Huntsville, AL, to be
+capabilities. In its 2022 report on space security, the       USSPACEOM’s headquarters, moving the new command
+Defense Intelligence Agency (DIA) provided an overview        from its provisional location at Peterson SFB in Colorado
+of such capabilities, some of which are capable of harming
+or interfering with DOD and U.S. commercial assets in all
+                                             https://crsreports.congress.gov
+                                                                                              Defense Primer: U.S. Space Command
+
+Springs. The Biden Administration reversed that decision in
+July 2023.
+Figure 2. USSPACECOM Area of Responsibility
+
+
+
+
+Source: National Aeronautics and Space Administration & Air University
+Both Huntsville and Colorado Springs are hubs for space                  Defense removed some of the classification barriers cited as
+activity. Huntsville is home to Army Space and Missile                   hindering DOD collaboration with other U.S. government
+Defense Command, DOD’s Missile Defense Agency, and                       agencies, allies, and industry. The military services are
+the National Aeronautics and Space Administration’s                      reviewing additional classification changes to allow for
+Marshall Space Flight Center. Colorado Springs is home to                more meaningful cooperation. Congress may consider
+the USSF headquarters at Peterson, Schriever SFB, North                  requesting additional information from the services
+American Aerospace Defense Command, and U.S.                             regarding their proposed policy changes before pursuing
+Northern Command. Congress, in Section 2889 of the                       additional oversight.
+FY2024 NDAA, P.L. 118-31, limited the use of funds for
+headquarters construction in Colorado until June 30, 2024,               Space Launch Infrastructure and Providers. Space
+                                                                         launch capabilities are key to USSPACECOM’s ability to
+when the DOD Inspector General (IG) and the U.S.
+Comptroller General were expected to complete new                        augment, reconstitute, and replenish satellites supporting
+reviews of the decision. These reviews have not been                     military space missions. The CCMD relies on commercial
+                                                                         providers to access space through the National Security
+publicly released at the time of this publication. The IG and
+Government Accountability Office last reviewed the                       Space Launch Program (NSSL), which is conducted by
+headquarters decision in 2022.                                           USSF. These launches largely occur at the federal space
+                                                                         ranges located at Cape Canaveral Space Force Station, FL,
+Should the President-elect propose moving the location of                and Vandenberg SFB, CA; these ranges are also used in an
+the headquarters, or elements thereof, Congress may                      array of purely commercial operations.
+consider whether to support, oppose, or condition such a                 Some Members of Congress have expressed concerns
+relocation. For example, if Congress were to support the                 regarding the ability of federal launch facilities to meet
+move, it could authorize and appropriate funds for such a                projected defense and commercial space launch demands.
+purpose. If Congress were to oppose the move, it could                   The House Armed Services Committee (HASC) has
+prohibit the use of funds. If Congress requires more                     debated a proposal to expand NSSL and payload processing
+information on the topic before making a decision, it may                programs to other federal space ranges for the FY2025
+further limit the use of funding for such a purpose until the            NDAA (see H.Rept. 118-529). The HASC has also directed
+aforementioned reports and/or additional information on the              a briefing on the feasibility of alternative launch sites, the
+matter is provided.                                                      outcome of which Congress may consider in whether to
+                                                                         modify or expand federal launch facilities.
+Security Classification Barriers. Maintaining sufficient
+levels of classification safeguards sensitive national security          The bulk of launch vehicles used for defense space
+data and capabilities from adversaries. However, some                    missions are provided by two companies—United Launch
+Members of Congress and DOD senior leaders have                          Alliance and SpaceX. Some Members of Congress have
+expressed concerns regarding the overclassification of                   expressed concerns that a dominant Pentagon launch
+space-related data and intelligence, and its impact on                   provider might stifle competition in future NSSL bids.
+information sharing and oversight. In Sections 1602 and                  Congress could consider whether or not to adopt or
+7602 of the FY2024 NDAA, P.L. 118-31, Congress                           encourage certain contracting approaches to promote
+introduced reforms to the declassification process, as well              competition among launch providers. See CRS In Focus
+as classification reviews of space defense acquisition                   IF11531, Defense Primer: National Security Space Launch.
+programs. In January 2024, the Deputy Secretary of
+
+                                                   https://crsreports.congress.gov
+                                                                                   Defense Primer: U.S. Space Command
+
+                                                              Jennifer DiMascio, Analyst in U.S. Defense Policy
+Robert Switzer, U.S. Air Force Fellow                                                                             IF12840
+
+
+
+
+Disclaimer
+This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress.
+Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the
+United States Government, are not subject to copyright protection in the United States. Any CRS Report may be
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include
+copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you
+wish to copy or otherwise use copyrighted material.
+
+
+
+
+                              https://crsreports.congress.gov | IF12840 · VERSION 2 · NEW
+

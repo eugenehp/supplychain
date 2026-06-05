@@ -1,0 +1,189 @@
+{
+  "ticker": "GSAT",
+  "topicId": "space-economy",
+  "product": "Globalstar MSS",
+  "segment": "downstream",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-27",
+    "accessionNumber": "0001366868-26-000012",
+    "primaryDocument": "gsat-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1366868/000136686826000012/gsat-20251231.htm",
+  "summary": {
+    "nodeCount": 9,
+    "linkCount": 8,
+    "totalFlow": 83,
+    "filingChars": 370776,
+    "mentionDensity": 0.22,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Ground & comms",
+        "score": 30
+      },
+      {
+        "subsystem": "Optics & imaging",
+        "score": 29
+      },
+      {
+        "subsystem": "Launch services",
+        "score": 24
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 32
+      },
+      {
+        "country": "CA",
+        "score": 29
+      },
+      {
+        "country": "GB",
+        "score": 6
+      }
+    ],
+    "countries": [
+      "CA",
+      "GB",
+      "US"
+    ],
+    "explicitSuppliers": 5,
+    "heuristicSuppliers": 0
+  },
+  "nodes": [
+    {
+      "id": "Globalstar MSS",
+      "name": "Globalstar MSS",
+      "tier": 0,
+      "group": "product",
+      "description": "GSAT 10-K / 20-F · 10-K 2026-02-27",
+      "country": "US",
+      "mentionScore": 83
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 24,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "SpaceX launch services",
+      "name": "SpaceX launch services",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · GSAT 10-K mentions: 24",
+      "country": "US",
+      "mentionScore": 24,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category — Ground & comms",
+      "country": null,
+      "mentionScore": 30,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · GSAT 10-K mentions: 16",
+      "country": null,
+      "mentionScore": 16,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Viasat global network",
+      "name": "Viasat global network",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · GSAT 10-K mentions: 8",
+      "country": "US",
+      "mentionScore": 8,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Inmarsat ELERA",
+      "name": "Inmarsat ELERA",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · GSAT 10-K mentions: 6",
+      "country": "GB",
+      "mentionScore": 6,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 29,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "MDA (Canada)",
+      "name": "MDA (Canada)",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · GSAT 10-K mentions: 29",
+      "country": "CA",
+      "mentionScore": 29,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "SpaceX launch services",
+      "target": "Launch services",
+      "value": 24
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 16
+    },
+    {
+      "source": "Viasat global network",
+      "target": "Ground & comms",
+      "value": 8
+    },
+    {
+      "source": "Inmarsat ELERA",
+      "target": "Ground & comms",
+      "value": 6
+    },
+    {
+      "source": "MDA (Canada)",
+      "target": "Optics & imaging",
+      "value": 29
+    },
+    {
+      "source": "Launch services",
+      "target": "Globalstar MSS",
+      "value": 24
+    },
+    {
+      "source": "Ground & comms",
+      "target": "Globalstar MSS",
+      "value": 30
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "Globalstar MSS",
+      "value": 29
+    }
+  ]
+}

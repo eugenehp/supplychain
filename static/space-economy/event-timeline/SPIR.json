@@ -1,0 +1,389 @@
+{
+  "ticker": "SPIR",
+  "name": "Spire Global, Inc.",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 16,
+  "byCategory": [
+    {
+      "category": "governance",
+      "count": 7
+    },
+    {
+      "category": "earnings",
+      "count": 5
+    },
+    {
+      "category": "contract",
+      "count": 2
+    },
+    {
+      "category": "distress",
+      "count": 2
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-06",
+      "count": 1
+    },
+    {
+      "month": "2025-07",
+      "count": 1
+    },
+    {
+      "month": "2025-08",
+      "count": 2
+    },
+    {
+      "month": "2025-09",
+      "count": 1
+    },
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2025-11",
+      "count": 2
+    },
+    {
+      "month": "2025-12",
+      "count": 1
+    },
+    {
+      "month": "2026-03",
+      "count": 2
+    },
+    {
+      "month": "2026-04",
+      "count": 2
+    },
+    {
+      "month": "2026-05",
+      "count": 3
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001193125-26-248212",
+      "filingDate": "2026-05-29",
+      "reportDate": "2026-05-29",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526248212/spir-20260529.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-245438",
+      "filingDate": "2026-05-28",
+      "reportDate": "2026-05-27",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526245438/spir-20260527.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-221629",
+      "filingDate": "2026-05-13",
+      "reportDate": "2026-05-13",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526221629/spir-20260513.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-177130",
+      "filingDate": "2026-04-24",
+      "reportDate": "2026-04-23",
+      "items": [
+        {
+          "code": "1.02",
+          "label": "Material agreement terminated",
+          "category": "contract"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement terminated",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526177130/spir-20260423.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-151231",
+      "filingDate": "2026-04-10",
+      "reportDate": "2026-04-08",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526151231/spir-20260408.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-112484",
+      "filingDate": "2026-03-18",
+      "reportDate": "2026-03-18",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526112484/spir-20260318.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-102126",
+      "filingDate": "2026-03-11",
+      "reportDate": "2026-03-09",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526102126/spir-20260309.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-321705",
+      "filingDate": "2025-12-17",
+      "reportDate": "2025-12-17",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312525321705/spir-20251217.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-300499",
+      "filingDate": "2025-11-26",
+      "reportDate": "2025-11-25",
+      "items": [
+        {
+          "code": "3.01",
+          "label": "Notice of delisting / non-compliance",
+          "category": "distress"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "distress",
+      "summary": "Notice of delisting / non-compliance; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312525300499/spir-20251125.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-262927",
+      "filingDate": "2025-11-04",
+      "reportDate": "2025-11-03",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312525262927/spir-20251103.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-240281",
+      "filingDate": "2025-10-15",
+      "reportDate": "2025-10-13",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312525240281/spir-20251013.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-203691",
+      "filingDate": "2025-09-15",
+      "reportDate": "2025-09-15",
+      "items": [
+        {
+          "code": "4.01",
+          "label": "Auditor changes",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Auditor changes",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312525203691/spir-20250911.htm"
+    },
+    {
+      "accessionNumber": "0000950170-25-111042",
+      "filingDate": "2025-08-22",
+      "reportDate": "2025-08-20",
+      "items": [
+        {
+          "code": "3.01",
+          "label": "Notice of delisting / non-compliance",
+          "category": "distress"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "distress",
+      "summary": "Notice of delisting / non-compliance; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000095017025111042/spir-20250820.htm"
+    },
+    {
+      "accessionNumber": "0000950170-25-108022",
+      "filingDate": "2025-08-13",
+      "reportDate": "2025-08-13",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000095017025108022/spir-20250813.htm"
+    },
+    {
+      "accessionNumber": "0000950170-25-097234",
+      "filingDate": "2025-07-21",
+      "reportDate": "2025-07-15",
+      "items": [
+        {
+          "code": "4.01",
+          "label": "Auditor changes",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Auditor changes; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000095017025097234/spir-20250715.htm"
+    },
+    {
+      "accessionNumber": "0000950170-25-083696",
+      "filingDate": "2025-06-09",
+      "reportDate": "2025-06-04",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1816017/000095017025083696/spir-20250604.htm"
+    }
+  ]
+}

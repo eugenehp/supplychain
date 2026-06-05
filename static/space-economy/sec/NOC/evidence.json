@@ -1,0 +1,2544 @@
+{
+  "ticker": "NOC",
+  "topicId": "space-economy",
+  "count": 166,
+  "generatedAt": "2026-06-05T04:10:36.017Z",
+  "entries": [
+    {
+      "id": "NOC-kw-0",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 9335,
+      "excerpt": "…vice shipbuilder; • 2001 - Acquired Newport News Shipbuilding Inc., designer and builder of nuclear-powered aircraft carriers and submarines; • 2002 - Acquired TRW Inc., developer of military and civil space systems and payloads, and integrator of complex, mission-enabling systems and services; • 2011 - Completed the spin-off of Huntington Ingalls Industries, Inc., operator of our former shipbuilding business, comprised largely of a part of Litton Industries and Newport News Shipbuilding; • 2018 - Acquired Orbital ATK, Inc. (OATK), developer and producer of satellites and other space systems, launch vehicles and missile products; an…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 9115,
+        "end": 9755
+      }
+    },
+    {
+      "id": "NOC-kw-1",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 9679,
+      "excerpt": "…galls Industries, Inc., operator of our former shipbuilding business, comprised largely of a part of Litton Industries and Newport News Shipbuilding; • 2018 - Acquired Orbital ATK, Inc. (OATK), developer and producer of satellites and other space systems, launch vehicles and missile products; and • 2021 - Completed the sale of our IT and mission support services business to Veritas Capital. Organization From time to time, we acquire or dispose of businesses and realign contracts, programs or businesses among and within our operating segments. Internal realignments are typically designed to leverage existing capabilities more fully a…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 9459,
+        "end": 10099
+      }
+    },
+    {
+      "id": "NOC-kw-2",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 9715,
+      "excerpt": "…our former shipbuilding business, comprised largely of a part of Litton Industries and Newport News Shipbuilding; • 2018 - Acquired Orbital ATK, Inc. (OATK), developer and producer of satellites and other space systems, launch vehicles and missile products; and • 2021 - Completed the sale of our IT and mission support services business to Veritas Capital. Organization From time to time, we acquire or dispose of businesses and realign contracts, programs or businesses among and within our operating segments. Internal realignments are typically designed to leverage existing capabilities more fully and to enhance efficient development…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 9495,
+        "end": 10194
+      }
+    },
+    {
+      "id": "NOC-kw-3",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 12942,
+      "excerpt": "…ons for the U.S. military and a broad range of international customers. Major products and services include strategic missiles; integrated, all-domain command and control (C2) systems; precision strike weapons; advanced propulsion, including tactical solid rocket motors and high speed air-breathing and hypersonic systems; high-performance gun systems, ammunition, precision munitions and advanced fuzes; and weapons integration, modernization, and sustainment. Less than 5 percent of this business is performed through restricted programs. Key programs include: • Sentinel Engineering & Manufacturing Development (EMD) program, initial ph…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 12722,
+        "end": 13362
+      }
+    },
+    {
+      "id": "NOC-kw-4",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 13877,
+      "excerpt": "…rates sensors and effectors to deliver among the most advanced C2 systems for joint and coalition forces; • Medium (30mm and 20mm) and Large (120mm) caliber tactical and training ammunition production; • Guided Multiple Launch Rocket System (GMLRS) propulsion and warhead subsystems for a surface-to-surface system used to defeat targets using indirect precision fires; • U.S. Navy’s Advanced Anti-Radiation Guided Missile (AARGM), a medium-range, air-to-surface missile, and its extended range variant, AARGM-ER; • Medium caliber cannons for air, land, sea and counter unmanned aircraft systems (C-UAS) applications, ranging from 20mm to 5…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 13658,
+        "end": 14298
+      }
+    },
+    {
+      "id": "NOC-kw-5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 13906,
+      "excerpt": "…o deliver among the most advanced C2 systems for joint and coalition forces; • Medium (30mm and 20mm) and Large (120mm) caliber tactical and training ammunition production; • Guided Multiple Launch Rocket System (GMLRS) propulsion and warhead subsystems for a surface-to-surface system used to defeat targets using indirect precision fires; • U.S. Navy’s Advanced Anti-Radiation Guided Missile (AARGM), a medium-range, air-to-surface missile, and its extended range variant, AARGM-ER; • Medium caliber cannons for air, land, sea and counter unmanned aircraft systems (C-UAS) applications, ranging from 20mm to 50mm configurations; • U.S. Ai…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 13686,
+        "end": 14326
+      }
+    },
+    {
+      "id": "NOC-kw-6",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 14502,
+      "excerpt": "…from 20mm to 50mm configurations; • U.S. Air Force’s Stand-In Attack Weapon (SiAW), an advanced capability air-to-surface tactical missile for the F-35; • Hypersonic Attack Cruise Missile (HACM) air-breathing, scramjet propulsion subsystem for the hypersonic air-launched cruise missile to travel at speeds of Mach 5 or greater; • Precision Guidance Kit (PGK), replaces conventional fuzes for artillery and mortar munitions and transforms them into Global Positioning System (GPS) enabled precision guided weapons; and • Production of solid rocket motors for the Precision Strike Missile (PrSM) program and Third Stage Rocket Motor (TSRM)…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 14283,
+        "end": 14981
+      }
+    },
+    {
+      "id": "NOC-kw-7",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 14546,
+      "excerpt": "…r Force’s Stand-In Attack Weapon (SiAW), an advanced capability air-to-surface tactical missile for the F-35; • Hypersonic Attack Cruise Missile (HACM) air-breathing, scramjet propulsion subsystem for the hypersonic air-launched cruise missile to travel at speeds of Mach 5 or greater; • Precision Guidance Kit (PGK), replaces conventional fuzes for artillery and mortar munitions and transforms them into Global Positioning System (GPS) enabled precision guided weapons; and • Production of solid rocket motors for the Precision Strike Missile (PrSM) program and Third Stage Rocket Motor (TSRM) for the Standard Missile (SM-3) program. -2-…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 14326,
+        "end": 15026
+      }
+    },
+    {
+      "id": "NOC-kw-8",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 15564,
+      "excerpt": "…ers, intelligence, surveillance and reconnaissance (C4ISR) systems; electronic warfare systems; advanced communications and network systems; advanced microelectronics; navigation and positioning sensors; maritime power, propulsion and payload launch systems; full spectrum cyber solutions; and intelligence processing systems. Approximately 30 percent of this business is performed through restricted programs. Key programs include: • Large Aircraft and Common Infrared Countermeasures (LAIRCM, DoN LAIRCM, CIRCM) systems, which protect large aircraft as well as rotary wing and medium fixed wing aircraft from infrared missiles using advan…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 15344,
+        "end": 15984
+      }
+    },
+    {
+      "id": "NOC-kw-9",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 15579,
+      "excerpt": "…ce, surveillance and reconnaissance (C4ISR) systems; electronic warfare systems; advanced communications and network systems; advanced microelectronics; navigation and positioning sensors; maritime power, propulsion and payload launch systems; full spectrum cyber solutions; and intelligence processing systems. Approximately 30 percent of this business is performed through restricted programs. Key programs include: • Large Aircraft and Common Infrared Countermeasures (LAIRCM, DoN LAIRCM, CIRCM) systems, which protect large aircraft as well as rotary wing and medium fixed wing aircraft from infrared missiles using advanced laser techn…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 15359,
+        "end": 15999
+      }
+    },
+    {
+      "id": "NOC-kw-10",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 15587,
+      "excerpt": "…eillance and reconnaissance (C4ISR) systems; electronic warfare systems; advanced communications and network systems; advanced microelectronics; navigation and positioning sensors; maritime power, propulsion and payload launch systems; full spectrum cyber solutions; and intelligence processing systems. Approximately 30 percent of this business is performed through restricted programs. Key programs include: • Large Aircraft and Common Infrared Countermeasures (LAIRCM, DoN LAIRCM, CIRCM) systems, which protect large aircraft as well as rotary wing and medium fixed wing aircraft from infrared missiles using advanced laser technology; •…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 15367,
+        "end": 16067
+      }
+    },
+    {
+      "id": "NOC-kw-11",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 16251,
+      "excerpt": "…and Distributed Aperture System (DAS), which provides 360 degree field of view tracking, identifying, missile warning and night vision capabilities; • F-35 Communications, Navigation and Identification (CNI) integrated avionics system, which provides secure communications and interoperability capabilities; • Scalable Agile Beam Radar (SABR), an active electronically scanned array fire control radar system for F-16 aircraft; • Ground/Air Task Oriented Radar (G/ATOR), a mobile multi-mode active electronically scanned array; • Surface Electronic Warfare Improvement Program (SEWIP) Block III, which protects surface ships from anti-ship…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 16032,
+        "end": 16731
+      }
+    },
+    {
+      "id": "NOC-kw-12",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 16767,
+      "excerpt": "…anned array; • Surface Electronic Warfare Improvement Program (SEWIP) Block III, which protects surface ships from anti-ship missiles, provides early detection, signal analysis and threat warning; • Power generation and propulsion systems for Virginia and Columbia class submarines; • Airborne Early Warning & Control (AEW&C). The centerpiece of the E-7 AEW&C aircraft is the Multi-role Electronically Scanned Array (MESA) radar which enables 360 degree long range advanced air moving target indicator (AMTI) capabilities for Battle Management, Command and Control, and Maritime Surveillance; • Battlefield Airborne Communications Node (BAC…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 16547,
+        "end": 17187
+      }
+    },
+    {
+      "id": "NOC-kw-13",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 18354,
+      "excerpt": "…erationally relevant environments. SPACE SYSTEMS Space Systems is a leader in delivering end-to-end mission solutions through the design, development, integration, production and operation of space, missile defense, and launch systems for national security, civil government, commercial and international customers. Major products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Approximately 45 percent of this business is performed through restricted programs. Key programs include: • 63-inch diamet…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 18134,
+        "end": 18774
+      }
+    },
+    {
+      "id": "NOC-kw-14",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 18473,
+      "excerpt": "…hrough the design, development, integration, production and operation of space, missile defense, and launch systems for national security, civil government, commercial and international customers. Major products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Approximately 45 percent of this business is performed through restricted programs. Key programs include: • 63-inch diameter Graphite Epoxy Motor (GEM 63) and the extended length variation (GEM 63XL) solid rocket boosters used to provide lif…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 18254,
+        "end": 18954
+      }
+    },
+    {
+      "id": "NOC-kw-15",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 18532,
+      "excerpt": "…operation of space, missile defense, and launch systems for national security, civil government, commercial and international customers. Major products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Approximately 45 percent of this business is performed through restricted programs. Key programs include: • 63-inch diameter Graphite Epoxy Motor (GEM 63) and the extended length variation (GEM 63XL) solid rocket boosters used to provide lift capability for the ATLAS V and Vulcan launch vehicles; •…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 18314,
+        "end": 18952
+      }
+    },
+    {
+      "id": "NOC-kw-16",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 18604,
+      "excerpt": "…curity, civil government, commercial and international customers. Major products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Approximately 45 percent of this business is performed through restricted programs. Key programs include: • 63-inch diameter Graphite Epoxy Motor (GEM 63) and the extended length variation (GEM 63XL) solid rocket boosters used to provide lift capability for the ATLAS V and Vulcan launch vehicles; • Space Development Agency (SDA) Tracking and Transport layers providing m…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 18384,
+        "end": 19024
+      }
+    },
+    {
+      "id": "NOC-kw-17",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 18632,
+      "excerpt": "…mmercial and international customers. Major products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Approximately 45 percent of this business is performed through restricted programs. Key programs include: • 63-inch diameter Graphite Epoxy Motor (GEM 63) and the extended length variation (GEM 63XL) solid rocket boosters used to provide lift capability for the ATLAS V and Vulcan launch vehicles; • Space Development Agency (SDA) Tracking and Transport layers providing missile warning/tracking and…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 18412,
+        "end": 19111
+      }
+    },
+    {
+      "id": "NOC-kw-18",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 18933,
+      "excerpt": "…h restricted programs. Key programs include: • 63-inch diameter Graphite Epoxy Motor (GEM 63) and the extended length variation (GEM 63XL) solid rocket boosters used to provide lift capability for the ATLAS V and Vulcan launch vehicles; • Space Development Agency (SDA) Tracking and Transport layers providing missile warning/tracking and resilient, low-latency, high-volume data transport communication systems; -3- Table of Contents NORTHROP GRUMMAN CORPORATION • Glide Phase Interceptor (GPI) Cooperative Development producing interceptor capability to defeat hypersonic threats; • Cygnus spacecraft, used in the execution of our Commerc…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 18713,
+        "end": 19353
+      }
+    },
+    {
+      "id": "NOC-kw-19",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 19789,
+      "excerpt": "…cy's (MDA) Ground-based Midcourse Defense Weapon Systems (GWS); • Habitation and Logistics Outpost (HALO) module in support of NASA’s Lunar Gateway; • Next-Generation Overhead Persistent Infrared (Next-Gen OPIR) program satellites and payloads providing resilient and enhanced missile warning over the critical northern polar region; • Development and production of solid rocket motors for NASA’s Space Launch System (SLS) heavy lift vehicle; and • Medium-class solid rocket motors for the U.S. Navy's Trident II Fleet Ballistic Missile program. CUSTOMER CONCENTRATION Our largest customer is the U.S. government. Sales to the U.S. governme…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 19569,
+        "end": 20209
+      }
+    },
+    {
+      "id": "NOC-kw-20",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 19804,
+      "excerpt": "…nd-based Midcourse Defense Weapon Systems (GWS); • Habitation and Logistics Outpost (HALO) module in support of NASA’s Lunar Gateway; • Next-Generation Overhead Persistent Infrared (Next-Gen OPIR) program satellites and payloads providing resilient and enhanced missile warning over the critical northern polar region; • Development and production of solid rocket motors for NASA’s Space Launch System (SLS) heavy lift vehicle; and • Medium-class solid rocket motors for the U.S. Navy's Trident II Fleet Ballistic Missile program. CUSTOMER CONCENTRATION Our largest customer is the U.S. government. Sales to the U.S. government accounted fo…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 19584,
+        "end": 20224
+      }
+    },
+    {
+      "id": "NOC-kw-21",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 19972,
+      "excerpt": "…ent Infrared (Next-Gen OPIR) program satellites and payloads providing resilient and enhanced missile warning over the critical northern polar region; • Development and production of solid rocket motors for NASA’s Space Launch System (SLS) heavy lift vehicle; and • Medium-class solid rocket motors for the U.S. Navy's Trident II Fleet Ballistic Missile program. CUSTOMER CONCENTRATION Our largest customer is the U.S. government. Sales to the U.S. government accounted for 84 percent, 87 percent and 86 percent of sales during the years ended December 31, 2025, 2024 and 2023, respectively. For further information on sales by customer typ…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 19752,
+        "end": 20392
+      }
+    },
+    {
+      "id": "NOC-kw-22",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 21359,
+      "excerpt": "…common in the defense industry for work on major programs to be shared among a number of companies. A company competing to be a prime contractor may, upon ultimate award of the contract to another competitor, serve as a subcontractor to the ultimate prime contracting company. It is not unusual to compete for a contract award with a peer company and, simultaneously, perform as a supplier to or a customer of that same competitor on other contracts, or vice versa. SEASONALITY No material portion of our business is seasonal. BACKLOG At December 31, 2025, total backlog, which is equivalent to the company’s remaining performance obligatio…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 21139,
+        "end": 21779
+      }
+    },
+    {
+      "id": "NOC-kw-23",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 21520,
+      "excerpt": "…te award of the contract to another competitor, serve as a subcontractor to the ultimate prime contracting company. It is not unusual to compete for a contract award with a peer company and, simultaneously, perform as a supplier to or a customer of that same competitor on other contracts, or vice versa. SEASONALITY No material portion of our business is seasonal. BACKLOG At December 31, 2025, total backlog, which is equivalent to the company’s remaining performance obligations, was $95.7 billion as compared with $91.5 billion at December 31, 2024. For further information, see “Backlog” in “Management’s Discussion and Analysis of Fin…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 21300,
+        "end": 21940
+      }
+    },
+    {
+      "id": "NOC-kw-24",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 22763,
+      "excerpt": "…U.S. government contracts and may use or authorize others to use the inventions covered by these patents for certain purposes. See “Risk Factors” for further discussion regarding risks related to intellectual property. RAW MATERIALS We have experienced challenges with access to certain raw materials due to macroeconomic factors and several global events such as inflation, geopolitical conflicts and microelectronics shortages. In some cases, these challenges have significantly increased the cost and/or lead time required to obtain certain raw materials. Nonetheless, these challenges have not, to date, materially impacted our ability…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 22544,
+        "end": 23243
+      }
+    },
+    {
+      "id": "NOC-kw-25",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 22831,
+      "excerpt": "…e inventions covered by these patents for certain purposes. See “Risk Factors” for further discussion regarding risks related to intellectual property. RAW MATERIALS We have experienced challenges with access to certain raw materials due to macroeconomic factors and several global events such as inflation, geopolitical conflicts and microelectronics shortages. In some cases, these challenges have significantly increased the cost and/or lead time required to obtain certain raw materials. Nonetheless, these challenges have not, to date, materially impacted our ability to perform on our contracts. See “Risk Factors” for further discuss…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 22611,
+        "end": 23251
+      }
+    },
+    {
+      "id": "NOC-kw-26",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 23088,
+      "excerpt": "…ctors and several global events such as inflation, geopolitical conflicts and microelectronics shortages. In some cases, these challenges have significantly increased the cost and/or lead time required to obtain certain raw materials. Nonetheless, these challenges have not, to date, materially impacted our ability to perform on our contracts. See “Risk Factors” for further discussion regarding risks related to raw materials. -4- Table of Contents NORTHROP GRUMMAN CORPORATION HUMAN CAPITAL Underpinned by our values and culture, we hire, promote, and pay based on merit and performance to help ensure we have the best team to deliver fo…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 22868,
+        "end": 23508
+      }
+    },
+    {
+      "id": "NOC-kw-27",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 23282,
+      "excerpt": "…equired to obtain certain raw materials. Nonetheless, these challenges have not, to date, materially impacted our ability to perform on our contracts. See “Risk Factors” for further discussion regarding risks related to raw materials. -4- Table of Contents NORTHROP GRUMMAN CORPORATION HUMAN CAPITAL Underpinned by our values and culture, we hire, promote, and pay based on merit and performance to help ensure we have the best team to deliver for our customers. Our focus on technology, innovation and career growth enables us to attract qualified talent, particularly those with security clearances and requisite skills in multiple areas,…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 23062,
+        "end": 23762
+      }
+    },
+    {
+      "id": "NOC-kw-28",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 24437,
+      "excerpt": "…the delivery of results, focused on quality outcomes. • We commit to shared success – we work together to focus on the mission and take accountability for the sustainable success of our people, customers, shareholders, suppliers and communities. • We pioneer – with fierce curiosity, dedication and innovation, we seek to solve the world’s most challenging problems. Our culture and values serve as an enabling force that helps us pioneer, perform and deliver on quality, which results in value for our shareholders, customers, and employees. We actively seek candidates for employment from a wide range of backgrounds and experiences to t…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 24218,
+        "end": 24857
+      }
+    },
+    {
+      "id": "NOC-kw-29",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 26599,
+      "excerpt": "…xpectations, we continue to adapt our ways of working and implement technology that enhances the employee experience. Employee Health and Safety Training and risk/hazard identification, mitigation and prevention are key components of Northrop Grumman’s safety program. Everyone has a responsibility to identify workplace hazards, and employees may raise concerns without fear of reprisal. We evaluate the effectiveness of our health and safety programs by conducting trend analyses of our past performance and externally through benchmarking with industry peers and the U.S. Bureau of Labor Statistics. Collective Agreements Approximately 4…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 26379,
+        "end": 27019
+      }
+    },
+    {
+      "id": "NOC-kw-30",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 32020,
+      "excerpt": "…cts 15,079 5,196 735 21,010 50 % Total sales $ 35,183 $ 5,990 $ 781 $ 41,954 100 % (1) Sales to the U.S. government include sales from contracts for which we are the prime contractor, as well as those for which we are a subcontractor and the ultimate customer is the U.S. government. Each of the company’s segments derives a substantial percentage of its revenue from the U.S. government. (2) International sales include sales from contracts for which we are the prime contractor, as well as those for which we are a subcontractor and the ultimate customer is an international customer. These sales include foreign military sales contracted…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 31800,
+        "end": 32500
+      }
+    },
+    {
+      "id": "NOC-kw-31",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 32317,
+      "excerpt": "…ompany’s segments derives a substantial percentage of its revenue from the U.S. government. (2) International sales include sales from contracts for which we are the prime contractor, as well as those for which we are a subcontractor and the ultimate customer is an international customer. These sales include foreign military sales contracted through the U.S. government. Environmental Our operations are subject to and affected by federal, state, local and foreign laws, regulations and enforcement actions relating to protection of human health and the environment. We have incurred and expect to continue to incur capital and operating…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 32097,
+        "end": 32796
+      }
+    },
+    {
+      "id": "NOC-kw-32",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 41298,
+      "excerpt": "…e program performance period may extend over several years. Programs are often partially funded initially, with additional funds committed incrementally over time as Congress makes further appropriations. When we or our subcontractors incur costs in excess of funds obligated on a contract, we are generally at risk for reimbursement unless and until additional funds are obligated to the contract. We cannot predict what funding will ultimately be approved for individual programs. In addition, certain changes in priorities and defense spending, the timing and substance of the appropriations process, use of continuing resolutions (which…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 41078,
+        "end": 41778
+      }
+    },
+    {
+      "id": "NOC-kw-33",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 42154,
+      "excerpt": "…e amount and timing of funding for individual programs and delay purchasing or payments by our customers. In the event government funding for our significant programs is reduced, delayed or unavailable, our contracts or subcontracts, or competitions for such programs, have at times been, and in the future may be, terminated or changed, including a reduction in orders. The U.S. continues to face a changing geopolitical environment, along with substantial fiscal, economic, political and security challenges, which affect funding and budgetary priorities. The budget and macroeconomic environment, global security environment, political i…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 41934,
+        "end": 42574
+      }
+    },
+    {
+      "id": "NOC-kw-34",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 44296,
+      "excerpt": "…lex and subject to many variables. When there is sufficient information to assess expected future performance, we consider performance-related incentives, awards and penalties, as well as the expected performance of our suppliers and the availability and cost of labor, materials and components in estimating contract revenue and profitability. Our operating income can be adversely affected when estimated contract costs increase, especially without comparable increases in revenue. There are many reasons estimated contract costs can increase, including inflation, labor challenges, supply chain challenges, shortages of raw materials, ma…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 44076,
+        "end": 44716
+      }
+    },
+    {
+      "id": "NOC-kw-35",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 44360,
+      "excerpt": "…rmation to assess expected future performance, we consider performance-related incentives, awards and penalties, as well as the expected performance of our suppliers and the availability and cost of labor, materials and components in estimating contract revenue and profitability. Our operating income can be adversely affected when estimated contract costs increase, especially without comparable increases in revenue. There are many reasons estimated contract costs can increase, including inflation, labor challenges, supply chain challenges, shortages of raw materials, market and exchange rate volatility, delays or limitations in cust…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 44140,
+        "end": 44780
+      }
+    },
+    {
+      "id": "NOC-kw-36",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 44699,
+      "excerpt": "…ted contract costs increase, especially without comparable increases in revenue. There are many reasons estimated contract costs can increase, including inflation, labor challenges, supply chain challenges, shortages of raw materials, market and exchange rate volatility, delays or limitations in customer funding, design or other development challenges, production challenges (including from technical or quality issues and other performance concerns), inability to realize learning curves or expected cost savings, changes in laws or regulations, actions necessary for long-term customer satisfaction, and natural disasters or other envir…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 44479,
+        "end": 45119
+      }
+    },
+    {
+      "id": "NOC-kw-37",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 46801,
+      "excerpt": "…ype. Fixed-price contracts tend to have more financial risk than cost-type contracts, including as a result of inflationary pressures, labor rates and shortages, challenges in estimating contract revenues and costs, and supplier challenges. In 2025, approximately half of our sales were derived from fixed-price contracts. We have entered into fixed-price contracts more often when costs can be more reasonably estimated based on actual experience, such as for mature production programs. However, our customers have sought, and may in the future seek, fixed-price contracts for development programs, combined development and production pro…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 46581,
+        "end": 47221
+      }
+    },
+    {
+      "id": "NOC-kw-38",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 52484,
+      "excerpt": "…tition in the U.S. and outside the U.S. from U.S., foreign and multinational firms, including new entrants, could further increase due to mergers or acquisitions within our industry and could limit our access to certain suppliers, absent appropriate remedies to protect our interests. We are also facing increasing competition for, and more limited access to, various critical products, services and other supplies. Additionally, in some instances, companies both inside and outside the U.S. may receive loans, investments, subsidies, preferential treatment and other assistance from their governments or customers that may not be provided…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 52264,
+        "end": 52963
+      }
+    },
+    {
+      "id": "NOC-kw-39",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 54425,
+      "excerpt": "…ptions in supply chains, workforce challenges, including labor shortages, changes in trade policies, such as tariffs, and market volatility, including exchange rate volatility, all of which may affect material costs and supplier pricing. These and other macroeconomic challenges have led and can lead to increased costs, labor and supply shortages, and delays and disruption in performance, as well as competing demands for scarce resources, which in turn have adversely impacted and may continue to adversely impact our customers, our industry, our company, our suppliers and others with whom we do business. We work proactively to mitigat…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 54205,
+        "end": 54845
+      }
+    },
+    {
+      "id": "NOC-kw-40",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 54768,
+      "excerpt": "…ages, and delays and disruption in performance, as well as competing demands for scarce resources, which in turn have adversely impacted and may continue to adversely impact our customers, our industry, our company, our suppliers and others with whom we do business. We work proactively to mitigate the challenges caused by the macroeconomic environment, including, in some cases, hedging foreign exchange, interest rate and commodity price risk, and seeking the inclusion of economic price adjustment clauses or seeking to recover on REAs, ECPs or other claims, but the impacts of these challenges are uncertain and our efforts to mitigate…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 54548,
+        "end": 55248
+      }
+    },
+    {
+      "id": "NOC-kw-41",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 56699,
+      "excerpt": "…rm our business and our ability to obtain and retain awards. Certain outcomes may lead to suspension or debarment from government contracts or suspension of export/import privileges for the company or one or more of its components. Suspension or debarment or criminal resolutions, in particular, could have a material adverse effect on the company because of our reliance on government contracts and export authorizations. Legal proceedings, even if pending or not ultimately resulting in adverse action, or even if fully indemnified or insured, can negatively impact our reputation among our customers, suppliers and the public, and make i…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 56479,
+        "end": 57119
+      }
+    },
+    {
+      "id": "NOC-kw-42",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 57083,
+      "excerpt": "…t contracts and export authorizations. Legal proceedings, even if pending or not ultimately resulting in adverse action, or even if fully indemnified or insured, can negatively impact our reputation among our customers, suppliers and the public, and make it substantially more difficult for us to compete effectively for business, obtain and retain awards, ensure -11- Table of Contents NORTHROP GRUMMAN CORPORATION adequate funding for our programs or obtain adequate supplies or insurance in the future. See Note 10 to the consolidated financial statements for information regarding the company’s investigations, claims and litigation. •…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 56863,
+        "end": 57562
+      }
+    },
+    {
+      "id": "NOC-kw-43",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 58104,
+      "excerpt": "…tomers’ business practices globally could affect our ability to compete and have a material adverse effect on our financial position, results of operations and/or cash flows. U.S. government contractors (including their subcontractors and others with whom they do business) must comply with various specific procurement laws, regulations, rules and other legal requirements. If we are found to have violated any such requirements, or are found not to have acted responsibly, we may be subject to a wide array of actions, including contract modifications or termination, payment withholds, the loss of export/import privileges, administrativ…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 57884,
+        "end": 58524
+      }
+    },
+    {
+      "id": "NOC-kw-44",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 62671,
+      "excerpt": "…ontinue to pursue policies that could negatively impact our profitability, including those that shift additional responsibility, cost and performance risks to the contractor. • The improper conduct of employees, agents, subcontractors, suppliers, business partners or joint ventures in which we participate can impact our reputation and our ability to do business, which could have a material adverse effect on our financial position, results of operations and/or cash flows. -12- Table of Contents NORTHROP GRUMMAN CORPORATION We face potential liability based on misconduct by employees, agents or others working with us or on our behalf…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 62451,
+        "end": 63150
+      }
+    },
+    {
+      "id": "NOC-kw-45",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 62687,
+      "excerpt": "…e policies that could negatively impact our profitability, including those that shift additional responsibility, cost and performance risks to the contractor. • The improper conduct of employees, agents, subcontractors, suppliers, business partners or joint ventures in which we participate can impact our reputation and our ability to do business, which could have a material adverse effect on our financial position, results of operations and/or cash flows. -12- Table of Contents NORTHROP GRUMMAN CORPORATION We face potential liability based on misconduct by employees, agents or others working with us or on our behalf that could viola…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 62467,
+        "end": 63107
+      }
+    },
+    {
+      "id": "NOC-kw-46",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 63895,
+      "excerpt": "…penalties, liabilities, and the loss of privileges and other sanctions, including suspension and debarment. We have in the past experienced and may in the future experience misconduct committed by our employees, agents, suppliers, partners or others working with us or on our behalf. This risk of improper conduct increases as we continue to expand globally, with greater opportunities and demands to do more business with local and new partners, and in new environments. At the same time, law enforcement agencies are continuing to focus collaboratively on combating global corruption and other misconduct. We form and are members of joint…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 63675,
+        "end": 64375
+      }
+    },
+    {
+      "id": "NOC-kw-47",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 66162,
+      "excerpt": "…our operations. Compliance with these laws and regulations could also require capital investments, could adversely impact our ongoing operations, and could require changes on a more accelerated time frame. We expect our suppliers to face similar challenges and incur additional compliance costs that may be passed on to us. These direct and indirect costs can adversely impact our results of operations and financial condition, and, if we are unable to comply with legislative and regulatory requirements, our reputation and ability to do business could be negatively impacted. Environmental impacts create short and long-term financial ris…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 65942,
+        "end": 66582
+      }
+    },
+    {
+      "id": "NOC-kw-48",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 66808,
+      "excerpt": "…our business globally. We have significant operations located in regions that have been, and may in the future be, exposed to significant weather events and other natural disasters. These events could damage our and our suppliers’ facilities, products, and other assets, and cause disruptions to our business operations and supply chain as well as the operations of our customers, and require an increase in expenditures to improve climate resiliency. The costs of our efforts to develop and implement sustainability initiatives and comply with environmental regulations where we operate may be greater than expected, which could affect our…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 66588,
+        "end": 67288
+      }
+    },
+    {
+      "id": "NOC-kw-49",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 71644,
+      "excerpt": "…dware and networks, and the information on them, insider threats, ransomware, threats to the safety of our directors, officers and employees, threats to our facilities, infrastructure, products (we produce and use), and subcontractors or other suppliers (referred to inclusively as suppliers), and threats from terrorist acts, espionage, civil unrest and other acts of aggression. We are also subject to increasing government, customer and other cyber and security requirements, including disclosure obligations. Cyber threats, both on premises and in the cloud, are complex, continuous and evolving and include, but are not limited to: mal…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 71425,
+        "end": 72065
+      }
+    },
+    {
+      "id": "NOC-kw-50",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 71668,
+      "excerpt": "…the information on them, insider threats, ransomware, threats to the safety of our directors, officers and employees, threats to our facilities, infrastructure, products (we produce and use), and subcontractors or other suppliers (referred to inclusively as suppliers), and threats from terrorist acts, espionage, civil unrest and other acts of aggression. We are also subject to increasing government, customer and other cyber and security requirements, including disclosure obligations. Cyber threats, both on premises and in the cloud, are complex, continuous and evolving and include, but are not limited to: malicious software, destruc…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 71448,
+        "end": 72088
+      }
+    },
+    {
+      "id": "NOC-kw-51",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 71706,
+      "excerpt": "…ts, ransomware, threats to the safety of our directors, officers and employees, threats to our facilities, infrastructure, products (we produce and use), and subcontractors or other suppliers (referred to inclusively as suppliers), and threats from terrorist acts, espionage, civil unrest and other acts of aggression. We are also subject to increasing government, customer and other cyber and security requirements, including disclosure obligations. Cyber threats, both on premises and in the cloud, are complex, continuous and evolving and include, but are not limited to: malicious software, destructive malware, ransomware, targeting by…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 71486,
+        "end": 72186
+      }
+    },
+    {
+      "id": "NOC-kw-52",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 74386,
+      "excerpt": "…d lead to loss of business, regulatory actions, and costs, liabilities or other financial losses for which we may not have adequate sources of recovery. -14- Table of Contents NORTHROP GRUMMAN CORPORATION Our customers, suppliers and partners to whom we entrust confidential data, and on whom we rely to provide products and services, face similar threats and growing requirements. We depend on our customers, suppliers, and other business partners to implement and verify adequate controls and safeguards to protect against and report cyber incidents. When they fail to deter, detect, remediate or report cyber incidents in a timely manner…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 74166,
+        "end": 74806
+      }
+    },
+    {
+      "id": "NOC-kw-53",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 74551,
+      "excerpt": "…f Contents NORTHROP GRUMMAN CORPORATION Our customers, suppliers and partners to whom we entrust confidential data, and on whom we rely to provide products and services, face similar threats and growing requirements. We depend on our customers, suppliers, and other business partners to implement and verify adequate controls and safeguards to protect against and report cyber incidents. When they fail to deter, detect, remediate or report cyber incidents in a timely manner, or fail to implement applicable requirements, we suffer, and may in the future suffer, financial and other harm, including to our information, operations, performa…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 74331,
+        "end": 74971
+      }
+    },
+    {
+      "id": "NOC-kw-54",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 74576,
+      "excerpt": "…AN CORPORATION Our customers, suppliers and partners to whom we entrust confidential data, and on whom we rely to provide products and services, face similar threats and growing requirements. We depend on our customers, suppliers, and other business partners to implement and verify adequate controls and safeguards to protect against and report cyber incidents. When they fail to deter, detect, remediate or report cyber incidents in a timely manner, or fail to implement applicable requirements, we suffer, and may in the future suffer, financial and other harm, including to our information, operations, performance, employees and reputa…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 74356,
+        "end": 74996
+      }
+    },
+    {
+      "id": "NOC-kw-55",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 75954,
+      "excerpt": "…ing senior executives. These threats could involve terrorism, insider threats, targeted threats against senior executives, workplace violence, or civil unrest, which could adversely affect our company. Our customers and suppliers face similar risks that, if realized, could also adversely impact our operations. Such acts could cause delays, manufacturing downtime, or other impacts that could detrimentally impact our ability to perform our operations. We could also incur unanticipated costs to remediate impacts and lost business. • Our earnings and profitability depend, in part, on the performance, financial viability, and compliance…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 75734,
+        "end": 76433
+      }
+    },
+    {
+      "id": "NOC-kw-56",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 76419,
+      "excerpt": "…so incur unanticipated costs to remediate impacts and lost business. • Our earnings and profitability depend, in part, on the performance, financial viability, and compliance with regulatory requirements globally of our subcontractors and suppliers, as well as on the availability and pricing of highly skilled labor, raw materials, chemicals, parts, and components. The disruption of one or more of these factors could have a material adverse effect on our financial position, results of operations and/or cash flows. We rely on subcontractors and other suppliers (referred to collectively as suppliers) to provide raw materials, chemicals…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 76199,
+        "end": 76839
+      }
+    },
+    {
+      "id": "NOC-kw-57",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 76438,
+      "excerpt": "…ted costs to remediate impacts and lost business. • Our earnings and profitability depend, in part, on the performance, financial viability, and compliance with regulatory requirements globally of our subcontractors and suppliers, as well as on the availability and pricing of highly skilled labor, raw materials, chemicals, parts, and components. The disruption of one or more of these factors could have a material adverse effect on our financial position, results of operations and/or cash flows. We rely on subcontractors and other suppliers (referred to collectively as suppliers) to provide raw materials, chemicals, parts, components…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 76219,
+        "end": 76859
+      }
+    },
+    {
+      "id": "NOC-kw-58",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 76517,
+      "excerpt": "…ity depend, in part, on the performance, financial viability, and compliance with regulatory requirements globally of our subcontractors and suppliers, as well as on the availability and pricing of highly skilled labor, raw materials, chemicals, parts, and components. The disruption of one or more of these factors could have a material adverse effect on our financial position, results of operations and/or cash flows. We rely on subcontractors and other suppliers (referred to collectively as suppliers) to provide raw materials, chemicals, parts, components and subsystems for our products, produce hardware elements and sub-assemblies,…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 76297,
+        "end": 76997
+      }
+    },
+    {
+      "id": "NOC-kw-59",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 76554,
+      "excerpt": "…ce, financial viability, and compliance with regulatory requirements globally of our subcontractors and suppliers, as well as on the availability and pricing of highly skilled labor, raw materials, chemicals, parts, and components. The disruption of one or more of these factors could have a material adverse effect on our financial position, results of operations and/or cash flows. We rely on subcontractors and other suppliers (referred to collectively as suppliers) to provide raw materials, chemicals, parts, components and subsystems for our products, produce hardware elements and sub-assemblies, provide software and intellectual pr…",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "keyword",
+      "range": {
+        "start": 76335,
+        "end": 76975
+      }
+    },
+    {
+      "id": "c21c831dd2d65755",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 1704,
+      "excerpt": "anies in the world through organic growth and a series of acquisitions and divestitures, including the following: • 1994 - Acquired Grumman Corporation, a premier military aircraft systems integrator. The combined company was renamed Northrop Grumman Corporation; • 1996 - Acquired the defense and electronics businesses of Westinghouse Electric Corporation, developer of sophisticated radar and other electronics systems; • 2001 - Acquired Litton Industries, Inc., a global electronics and informati",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 8581,
+        "end": 9081
+      }
+    },
+    {
+      "id": "cce4f2cbb8bc3706",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 2567,
+      "excerpt": "f Huntington Ingalls Industries, Inc., operator of our former shipbuilding business, comprised largely of a part of Litton Industries and Newport News Shipbuilding; • 2018 - Acquired Orbital ATK, Inc. (OATK), developer and producer of satellites and other space systems, launch vehicles and missile products; and • 2021 - Completed the sale of our IT and mission support services business to Veritas Capital. Organization From time to time, we acquire or dispose of businesses and realign contracts,",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 9444,
+        "end": 10003
+      }
+    },
+    {
+      "id": "c67e65e59b887e86",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 5180,
+      "excerpt": "stal regions for maritime domain awareness to the U.S. Navy and Australia; • RQ-4 Global Hawk, which provides high resolution imagery of land masses for theater awareness and strategic ISR to the U.S. Air Force, Japan, and the Republic of Korea; and • Global system sustainment and operations support for the F-35, B-2, F/A-18, E-2, E-3, A-10, North Atlantic Treaty Organization (NATO) Alliance Ground Surveillance (AGS), Triton, Global Hawk, and restricted programs. DEFENSE SYSTEMS Defense Systems",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 12057,
+        "end": 12616
+      }
+    },
+    {
+      "id": "317190d409662118",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 6107,
+      "excerpt": "t motors and high speed air-breathing and hypersonic systems; high-performance gun systems, ammunition, precision munitions and advanced fuzes; and weapons integration, modernization, and sustainment. Less than 5 percent of this business is performed through restricted programs. Key programs include: • Sentinel Engineering & Manufacturing Development (EMD) program, initial phase of the modernization of the intercontinental ballistic missile (ICBM) system that will serve as the ground-based strat",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 12984,
+        "end": 13484
+      }
+    },
+    {
+      "id": "ec7605776c598180",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 6956,
+      "excerpt": "ng ammunition production; • Guided Multiple Launch Rocket System (GMLRS) propulsion and warhead subsystems for a surface-to-surface system used to defeat targets using indirect precision fires; • U.S. Navy’s Advanced Anti-Radiation Guided Missile (AARGM), a medium-range, air-to-surface missile, and its extended range variant, AARGM-ER; • Medium caliber cannons for air, land, sea and counter unmanned aircraft systems (C-UAS) applications, ranging from 20mm to 50mm configurations; • U.S. Air Force",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 13833,
+        "end": 14333
+      }
+    },
+    {
+      "id": "820ed7b2c9be1c98",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 7885,
+      "excerpt": ") enabled precision guided weapons; and • Production of solid rocket motors for the Precision Strike Missile (PrSM) program and Third Stage Rocket Motor (TSRM) for the Standard Missile (SM-3) program. -2- Table of Contents NORTHROP GRUMMAN CORPORATION MISSION SYSTEMS Mission Systems is a leader in advanced mission solutions and multifunction systems, primarily for the U.S. defense and intelligence community, and international customers. Major products and services include radar, electro-optical/",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 14762,
+        "end": 15262
+      }
+    },
+    {
+      "id": "d0c590a444b00d91",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 8677,
+      "excerpt": "me power, propulsion and payload launch systems; full spectrum cyber solutions; and intelligence processing systems. Approximately 30 percent of this business is performed through restricted programs. Key programs include: • Large Aircraft and Common Infrared Countermeasures (LAIRCM, DoN LAIRCM, CIRCM) systems, which protect large aircraft as well as rotary wing and medium fixed wing aircraft from infrared missiles using advanced laser technology; • F-35 fire control radar and Distributed Apertu",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 15554,
+        "end": 16054
+      }
+    },
+    {
+      "id": "7ce50acb5f7c9297",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 9677,
+      "excerpt": "rray; • Surface Electronic Warfare Improvement Program (SEWIP) Block III, which protects surface ships from anti-ship missiles, provides early detection, signal analysis and threat warning; • Power generation and propulsion systems for Virginia and Columbia class submarines; • Airborne Early Warning & Control (AEW&C). The centerpiece of the E-7 AEW&C aircraft is the Multi-role Electronically Scanned Array (MESA) radar which enables 360 degree long range advanced air moving target indicator (AMTI",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 16554,
+        "end": 17054
+      }
+    },
+    {
+      "id": "0a50943a851c1236",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 10528,
+      "excerpt": "at enables aircrews to detect, acquire, identify and track targets at long ranges; • APR-39 DV(2) and EV(2) Radar Warning Receiver programs, which provide a digital radar warning receiver for the U.S. Army, Navy and Marines; • Exploitation and cyber programs, which provide cyber and intelligence domain support through unique intelligence and cyber capabilities; • Embedded GPS / Inertial Navigation Systems-Modernization (EGI-M) program, which provides state-of-the-art airborne navigation capabili",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 17405,
+        "end": 17905
+      }
+    },
+    {
+      "id": "15d0b8caf7d4ec2c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 11372,
+      "excerpt": "ns through the design, development, integration, production and operation of space, missile defense, and launch systems for national security, civil government, commercial and international customers. Major products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Approximately 45 percent of this business is performed through restricted programs. Key programs",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 11269,
+        "end": 11408
+      }
+    },
+    {
+      "id": "5e9109fa5f06e4d4",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 12372,
+      "excerpt": "eptor capability to defeat hypersonic threats; • Cygnus spacecraft, used in the execution of our Commercial Resupply Services (CRS) contracts with NASA to resupply and re-boost the International Space Station; • Missile defense systems, interceptors, targets, mission processing and boosters for the Missile Defense Agency's (MDA) Ground-based Midcourse Defense Weapon Systems (GWS); • Habitation and Logistics Outpost (HALO) module in support of NASA’s Lunar Gateway; • Next-Generation Overhead Pers",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 19249,
+        "end": 19749
+      }
+    },
+    {
+      "id": "08d155f588f47fe2",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 14161,
+      "excerpt": "ram opportunities and the number of competitor protests of U.S. government procurement awards. It is common in the defense industry for work on major programs to be shared among a number of companies. A company competing to be a prime contractor may, upon ultimate award of the contract to another competitor, serve as a subcontractor to the ultimate prime contracting company. It is not unusual to compete for a contract award with a peer company and, simultaneously, perform as a supplier to or a c",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 21038,
+        "end": 21538
+      }
+    },
+    {
+      "id": "e12f731a46a5ddda",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 15104,
+      "excerpt": "s” (MD&A) and Note 1 to the consolidated financial statements. INTELLECTUAL PROPERTY We protect our technological innovations using a combination of trade secrets, patents, trademarks, and copyrights. We routinely apply for patents related to the technologies we develop in the U.S. and in certain foreign jurisdictions. We license some intellectual property rights to third parties and we also license or otherwise obtain access to intellectual property from third parties. The U.S. government typic",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 21981,
+        "end": 22481
+      }
+    },
+    {
+      "id": "ff4815cb4db4d6ad",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 16025,
+      "excerpt": "ch as inflation, geopolitical conflicts and microelectronics shortages. In some cases, these challenges have significantly increased the cost and/or lead time required to obtain certain raw materials. Nonetheless, these challenges have not, to date, materially impacted our ability to perform on our contracts. See “Risk Factors” for further discussion regarding risks related to raw materials. -4- Table of Contents NORTHROP GRUMMAN CORPORATION HUMAN CAPITAL Underpinned by our values and culture, w",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 22902,
+        "end": 23402
+      }
+    },
+    {
+      "id": "29f3858e0fbfabd7",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 16867,
+      "excerpt": "g and math. Our differentiated culture and workforce was a factor in our ability to hire approximately 7,500 new employees in 2025, and as of December 31, 2025, we have approximately 95,000 employees. Our Values and Culture Our values reflect our priorities and form the bedrock of our culture: • We do the right thing – we earn trust, act with ethics, integrity and transparency, treat everyone with respect and value diverse perspectives. • We do what we promise – we own the delivery of results, f",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 23744,
+        "end": 24244
+      }
+    },
+    {
+      "id": "ee971afa03eb82f5",
+      "ticker": "NOC",
+      "vendor": "Cadence",
+      "charOffset": 18648,
+      "excerpt": "ide business continuity. We employ a mix of on-the-job training and development, in-person training and virtual curated career-specific resources that allow employees to personalize their development. We encourage all employees, regardless of level, to cultivate leadership skills, enabled by our leadership development platform. Talent review discussions are built into our operational cadence with an emphasis on providing the experience needed to accelerate development. As part of our employee ex",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 25525,
+        "end": 26025
+      }
+    },
+    {
+      "id": "c949168d99358558",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 19570,
+      "excerpt": "technology that enhances the employee experience. Employee Health and Safety Training and risk/hazard identification, mitigation and prevention are key components of Northrop Grumman’s safety program. Everyone has a responsibility to identify workplace hazards, and employees may raise concerns without fear of reprisal. We evaluate the effectiveness of our health and safety programs by conducting trend analyses of our past performance and externally through benchmarking with industry peers and th",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 26447,
+        "end": 26947
+      }
+    },
+    {
+      "id": "dce6506cebe8754c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 24173,
+      "excerpt": "uction or mature production), negotiated fee arrangements, achievement of performance objectives, unexpected macroeconomic factors or other circumstances, and cost, schedule and technical performance. See Note 1 to the consolidated financial statements and “Risk Factors” for further information regarding our contracts and Note 15 to the consolidated financial statements for sales by contract type. -6- Table of Contents NORTHROP GRUMMAN CORPORATION The following table summarizes sales for the yea",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 31050,
+        "end": 31550
+      }
+    },
+    {
+      "id": "a24fd6c89bbab2ef",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 25111,
+      "excerpt": "ell as those for which we are a subcontractor and the ultimate customer is the U.S. government. Each of the company’s segments derives a substantial percentage of its revenue from the U.S. government. (2) International sales include sales from contracts for which we are the prime contractor, as well as those for which we are a subcontractor and the ultimate customer is an international customer. These sales include foreign military sales contracted through the U.S. government. Environmental Our",
+      "sectionId": "item_1_business_history_and_organization",
+      "sectionHeader": "Item 1. Business HISTORY AND ORGANIZATION History Northrop Grumman Corporation (herein re",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 31988,
+        "end": 32547
+      }
+    },
+    {
+      "id": "e9d270575be854c0",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 6210,
+      "excerpt": "ogram performance period may extend over several years. Programs are often partially funded initially, with additional funds committed incrementally over time as Congress makes further appropriations. When we or our subcontractors incur costs in excess of funds obligated on a contract, we are generally at risk for reimbursement unless and until additional funds are obligated to the contract. We cannot predict what funding will ultimately be approved for individual programs. In addition, certain",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 41082,
+        "end": 41641
+      }
+    },
+    {
+      "id": "ec72c2c96ce4c31f",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 6967,
+      "excerpt": "the federal debt ceiling), have adversely affected and could in the future adversely affect the amount and timing of funding for individual programs and delay purchasing or payments by our customers. In the event government funding for our significant programs is reduced, delayed or unavailable, our contracts or subcontracts, or competitions for such programs, have at times been, and in the future may be, terminated or changed, including a reduction in orders. The U.S. continues to face a changi",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 41840,
+        "end": 42340
+      }
+    },
+    {
+      "id": "4059592cc53f8cf5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 8758,
+      "excerpt": "ost growth or changes in estimated contract revenues and costs can affect our profitability and could have a material adverse effect on our financial position, results of operations and/or cash flows. Contract accounting requires judgment, including in assessing risks, estimating contract revenues and costs, and predicting future performance. Given the size and nature of our contracts, estimating total revenues and costs at completion is complex and subject to many variables. When there is suffi",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 43630,
+        "end": 44130
+      }
+    },
+    {
+      "id": "2737c5aa3ca02e40",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 9487,
+      "excerpt": "components in estimating contract revenue and profitability. Our operating income can be adversely affected when estimated contract costs increase, especially without comparable increases in revenue. There are many reasons estimated contract costs can increase, including inflation, labor challenges, supply chain challenges, shortages of raw materials, market and exchange rate volatility, delays or limitations in customer funding, design or other development challenges, production challenges (inc",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 44360,
+        "end": 44860
+      }
+    },
+    {
+      "id": "fc993447db349596",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 11268,
+      "excerpt": "ated with long delays in finalizing contract terms could negatively affect our profitability on those contracts. Certain of our contracts also include options exercisable at the customer’s discretion. The customer may decline to exercise an option, or the customer may exercise an option for which we may incur a loss or perform at a low margin, either of which could adversely affect our results of operations. Our risk varies by contract type. Fixed-price contracts tend to have more financial risk",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 46140,
+        "end": 46700
+      }
+    },
+    {
+      "id": "ac121da7942ed4bf",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 16599,
+      "excerpt": "leverage changes in the customer’s acquisition -10- Table of Contents NORTHROP GRUMMAN CORPORATION strategies (e.g., multiple awardees, short lifecycles) or be more inclined to take on increased risk. In addition, some customers continue to utilize small business contractors or determine to source work internally. Our success in competing depends, in part, on our ability to remain price- and cost-competitive, respond to changes in customer acquisition strategies and preferences, accurately antic",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 51471,
+        "end": 51971
+      }
+    },
+    {
+      "id": "302260d73bbf761d",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 17476,
+      "excerpt": "including new entrants, could further increase due to mergers or acquisitions within our industry and could limit our access to certain suppliers, absent appropriate remedies to protect our interests. We are also facing increasing competition for, and more limited access to, various critical products, services and other supplies. Additionally, in some instances, companies both inside and outside the U.S. may receive loans, investments, subsidies, preferential treatment and other assistance from",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 52348,
+        "end": 52907
+      }
+    },
+    {
+      "id": "80c06c74cd81ebc5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 19328,
+      "excerpt": "disruptions in supply chains, workforce challenges, including labor shortages, changes in trade policies, such as tariffs, and market volatility, including exchange rate volatility, all of which may affect material costs and supplier pricing. These and other macroeconomic challenges have led and can lead to increased costs, labor and supply shortages, and delays and disruption in performance, as well as competing demands for scarce resources, which in turn have adversely impacted and may continu",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 54200,
+        "end": 54700
+      }
+    },
+    {
+      "id": "7312005f303937e3",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 21106,
+      "excerpt": "ut not limited to, government contracts; cost accounting; financial accounting and reporting; false statements or claims; cybersecurity; and pension accounting and other employee benefit plan matters. These matters can divert resources, result in administrative, civil or criminal fines, penalties or other sanctions (including judgments, convictions, consent or other voluntary decrees or agreements), compensatory, treble or other damages, non-monetary relief, or other liabilities, and otherwise h",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 55978,
+        "end": 56478
+      }
+    },
+    {
+      "id": "2a41d1838fe4f3bc",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 21829,
+      "excerpt": "mponents. Suspension or debarment or criminal resolutions, in particular, could have a material adverse effect on the company because of our reliance on government contracts and export authorizations. Legal proceedings, even if pending or not ultimately resulting in adverse action, or even if fully indemnified or insured, can negatively impact our reputation among our customers, suppliers and the public, and make it substantially more difficult for us to compete effectively for business, obtain",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 56701,
+        "end": 57260
+      }
+    },
+    {
+      "id": "29f143e8f043ac7a",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 22729,
+      "excerpt": "laws, regulations and contract terms applicable to our industry, as well as those more broadly applicable to industry, and changes in such laws, regulations or terms, any negative findings by the U.S. government as to our or our partners’ compliance with them, and changes in our customers’ business practices globally could affect our ability to compete and have a material adverse effect on our financial position, results of operations and/or cash flows. U.S. government contractors (including the",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 57601,
+        "end": 58101
+      }
+    },
+    {
+      "id": "cc134b34137a0d15",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 27041,
+      "excerpt": "t of changes in the global security and threat environment and an increased focus on affordability, efficiencies, business systems, recovery of costs and a reprioritization of available defense funds. We have experienced and may continue to experience an increased number of audits and challenges to our claims and our business systems for current and past years, as well as longer periods to close audits, broader requests for information and an increased risk of withholdings of payments. The U.S.",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 61913,
+        "end": 62472
+      }
+    },
+    {
+      "id": "bbf6bde5a2244333",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 28710,
+      "excerpt": "trative, civil or criminal investigations and enforcement actions, monetary and non-monetary penalties, liabilities, and the loss of privileges and other sanctions, including suspension and debarment. We have in the past experienced and may in the future experience misconduct committed by our employees, agents, suppliers, partners or others working with us or on our behalf. This risk of improper conduct increases as we continue to expand globally, with greater opportunities and demands to do mor",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 63582,
+        "end": 64082
+      }
+    },
+    {
+      "id": "9fda26bd8655504a",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 30545,
+      "excerpt": "her substances that are used in our business, which has, in some cases, required us to identify alternate sources, resulting in additional costs and/or otherwise impacting our business and operations. Environmental matters may significantly impact our business and operations and present evolving risks and challenges. New and evolving laws, regulations and rulemakings in different jurisdictions (inside and outside the United States) may impose different and at times more or less restrictive envir",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 65417,
+        "end": 65917
+      }
+    },
+    {
+      "id": "d99104e063299c8b",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 31538,
+      "excerpt": "islative and regulatory requirements, our reputation and ability to do business could be negatively impacted. Environmental impacts create short and long-term financial risks to our business globally. We have significant operations located in regions that have been, and may in the future be, exposed to significant weather events and other natural disasters. These events could damage our and our suppliers’ facilities, products, and other assets, and cause disruptions to our business operations an",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 66410,
+        "end": 66910
+      }
+    },
+    {
+      "id": "a0db0afe4fce5211",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 35902,
+      "excerpt": "egal challenges involving OATK, which we acquired in 2018, or the spinoff of its then subsidiary Vista Outdoor, and we may be unable to obtain indemnification or we may be required to indemnify Vista. Business and Operational Risks • Cyber and other security threats or disruptions could have a material adverse effect on our reputation and our financial position, results of operations and/or cash flows. We face significant cyber and other security threats. They include, among other things, attemp",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 70774,
+        "end": 71274
+      }
+    },
+    {
+      "id": "db1efbee294e7d10",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 38538,
+      "excerpt": "hose that could go undetected for an extended period, which may inhibit our ability to provide prompt, full, and reliable information about such incidents to our customers, regulators, and the public. For further discussion of our cybersecurity risk management, strategy and governance, see “Cybersecurity.” Cyber events have caused and could cause us harm and require us to undertake remedial actions. Successful attacks can lead to losses or misuse of sensitive information or capabilities, theft o",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 73410,
+        "end": 73910
+      }
+    },
+    {
+      "id": "e6b2288e03539116",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 39475,
+      "excerpt": "ROP GRUMMAN CORPORATION Our customers, suppliers and partners to whom we entrust confidential data, and on whom we rely to provide products and services, face similar threats and growing requirements. We depend on our customers, suppliers, and other business partners to implement and verify adequate controls and safeguards to protect against and report cyber incidents. When they fail to deter, detect, remediate or report cyber incidents in a timely manner, or fail to implement applicable require",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 74347,
+        "end": 74847
+      }
+    },
+    {
+      "id": "8e0739acdd7300db",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 40378,
+      "excerpt": "sing and evolving disclosure obligations related to cybersecurity events and the risk of failing to meet all our existing or future disclosure obligations and/or having our disclosures misinterpreted. National security or public safety considerations may also affect, delay or in limited instances prevent, our public disclosure of a cybersecurity incident. We also face threats to our physical security, including to our facilities and the safety and well-being of our people, including senior execu",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 75250,
+        "end": 75750
+      }
+    },
+    {
+      "id": "f1024833dc83019b",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 41195,
+      "excerpt": "delays, manufacturing downtime, or other impacts that could detrimentally impact our ability to perform our operations. We could also incur unanticipated costs to remediate impacts and lost business. • Our earnings and profitability depend, in part, on the performance, financial viability, and compliance with regulatory requirements globally of our subcontractors and suppliers, as well as on the availability and pricing of highly skilled labor, raw materials, chemicals, parts, and components. Th",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 76068,
+        "end": 76568
+      }
+    },
+    {
+      "id": "3fc9d05f2339f6f5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 42145,
+      "excerpt": "need for our operations or provide to our customers, and to do so efficiently and in compliance with all applicable laws, regulations and contract terms, while maintaining strong values and cultures. Disruptions, performance problems or other issues with our suppliers, including unanticipated cost growth, failure to meet regulatory or contractual requirements, and/or unethical or illegal behavior, or a misalignment between our contractual obligations to our customers and our agreements with our",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 77018,
+        "end": 77577
+      }
+    },
+    {
+      "id": "8f6ea120341ccd7a",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 42997,
+      "excerpt": "f one or more of our suppliers is unable to provide the agreed-upon products, materials or intellectual property, or perform the agreed-upon services, in a timely, compliant and cost-effective manner. We have experienced, and may continue to experience, financial or other performance challenges if we are unable to use or obtain certain raw materials, chemicals, parts, components or other substances in a timely and/or cost-efficient manner due to laws or other regulations that restrict or prohibi",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 77869,
+        "end": 78369
+      }
+    },
+    {
+      "id": "21e73021379a536e",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 43536,
+      "excerpt": "ause suppliers to be unwilling or unable to supply them, and we cannot obtain a reasonable substitute on a timely or cost-effective basis, including as a result of tariffs or other trade restrictions. Changes in political or economic conditions, including changes in demand, the macroeconomic environment (including inflation and labor and supply chain challenges), defense budgets and/or priorities, the global security environment, export/import restrictions, tariffs, sanctions and other trade-rel",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 78408,
+        "end": 78908
+      }
+    },
+    {
+      "id": "fc96a178daf547cf",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 44464,
+      "excerpt": "ate suppliers, if available, with additional costs and delays. We expect we will need to continue to provide additional resources to support certain of our suppliers in performing under our contracts. In addition, if we are unable to do that or if our suppliers are no longer able to perform due to financial difficulties, we may face additional losses and liabilities under our current contracts and adversely impact the prospects for certain new ones. In connection with our U.S. government contrac",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 79336,
+        "end": 79836
+      }
+    },
+    {
+      "id": "52f259e23ad8c656",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 45272,
+      "excerpt": "tents NORTHROP GRUMMAN CORPORATION certain products and services can take an extended period of time and can result in additional cost, supplier disruptions can have an adverse impact on our business. For example, we require access to certain microelectronics and our ability to produce and/or deliver products will be significantly impacted if the microelectronics manufacturing supply chain is cut off or significantly limited or delayed. This risk is increased for products and services that are s",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 80144,
+        "end": 80644
+      }
+    },
+    {
+      "id": "c6f208d51c50809d",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 46184,
+      "excerpt": "for our own compliance with legal, contractual and customer requirements, but that of our suppliers, including with respect to counterfeit, unauthorized or otherwise non-compliant parts or materials. • If we are unable to attract and retain a qualified workforce necessary for our business, we may be unable to maintain our competitive position, meet the needs of our customers or achieve our results, which could have a material adverse effect on our financial position, results of operations and/or",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 81057,
+        "end": 81617
+      }
+    },
+    {
+      "id": "6324bbf9636089b6",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 48759,
+      "excerpt": "have been able to renegotiate renewals to expiring agreements without significant disruption of operating activities. However, other companies have experienced challenges in renewing labor agreements. If, for example, we also experience difficulties with renewals and renegotiations of existing collective bargaining agreements, or if our employees pursue new collective representation, we could incur additional expenses and impacts on operating efficiency and may be subject to work stoppages, prod",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 83631,
+        "end": 84131
+      }
+    },
+    {
+      "id": "152d3869ab821bbb",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 49580,
+      "excerpt": "ch could have a material adverse effect on our financial position, results of operations and/or cash flows. Sales to customers outside the U.S. are an important component of our business and strategy. Our international business is subject to numerous political and economic factors, legal requirements, cross-cultural considerations and other risks associated with doing business globally. These risks differ in some respects from those associated with our U.S. business and our exposure to such risk",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 84452,
+        "end": 84952
+      }
+    },
+    {
+      "id": "695f94d403a0e8ac",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 53269,
+      "excerpt": "nificant penalties if we fail to meet our requirements. We have also been required to enter into letters of credit, performance bonds, bank guarantees or other financial arrangements in certain cases. If we are dependent on certain suppliers, as in the U.S., we face risks related to their failure to perform in accordance with legal requirements, particularly where we rely on a sole source supplier. Our ability to sell products globally could be adversely affected if we are unable to design our p",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 88141,
+        "end": 88641
+      }
+    },
+    {
+      "id": "ccdc32583a00d083",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 54191,
+      "excerpt": "cal partners, potential exposure for their actions, and the ability effectively to terminate these arrangements. Such risks are complicated further when we partner with government-affiliated entities. The products and services we provide, including those provided by suppliers and joint ventures, are sometimes in countries with unstable governments, economic or fiscal challenges, military or political conflicts, different business practices and/or developing legal systems. This may increase the r",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 89063,
+        "end": 89563
+      }
+    },
+    {
+      "id": "369d13ac34c7a224",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 55714,
+      "excerpt": "upon our ability to develop technologically advanced, innovative and cost-effective products and services, produce products at scale, and market these products and services to our customers globally. Our ability to develop such products depends on the talent of our workforce, continued funding for, and investment in, research and development, continued access to assured suppliers of important technologies and components, our ability to effectively compete, and our ability to provide the people,",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 90587,
+        "end": 91146
+      }
+    },
+    {
+      "id": "9a9f2863cd670460",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 58320,
+      "excerpt": "o achieve market acceptance and scale production more rapidly than our competitors, we may be unable to maintain our competitive position and our future success could be materially adversely affected. Problems and delays that could limit the successful development and delivery of our solutions, prevent us from meeting requirements and/or create risk and liabilities include issues with design, technology, operations or digital transformation, inability to achieve learning curve assumptions, inabi",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 93192,
+        "end": 93692
+      }
+    },
+    {
+      "id": "781d8c62905075cb",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 59214,
+      "excerpt": "s cannot be tested and proven in all situations and are otherwise subject to unforeseen problems that can negatively affect revenue, schedule and profitability, and result in loss of life or property. They include loss on launch or flight of spacecraft, loss of aviation platforms, premature failure of products that cannot be accessed for repair or replacement, unintended explosions, problems with design, quality and workmanship, country of origin of procured materials, inadequate supplier compon",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 94086,
+        "end": 94586
+      }
+    },
+    {
+      "id": "810ff03411c8fcb1",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 61152,
+      "excerpt": "hazards (e.g., increased fire risk), mean temperature and sea levels, and long-term precipitation patterns (e.g., increased risk of drought, desertification, water scarcity and/or poor water quality). Such natural disasters and other significant disruptions can interrupt our operations, impact our employees, and result in significant costs and adversely affect our performance. Our subcontractors and other suppliers have also been, and may in the future be, subject to natural disasters or other s",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 96024,
+        "end": 96524
+      }
+    },
+    {
+      "id": "63694c455fcd7de5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 61949,
+      "excerpt": "e steps to mitigate these risks, including considering them in determining where to put new businesses, the damage, disruption, delay and other adverse effects of natural disasters may be significant. -18- Table of Contents NORTHROP GRUMMAN CORPORATION • We provide products and services, including related to hazardous and high risk operations, which subjects us to various environmental, regulatory, financial, reputational and other risks, and if any of these risks were to materialize, it could h",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 96821,
+        "end": 97321
+      }
+    },
+    {
+      "id": "fd05f02f4e31353e",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 62843,
+      "excerpt": "s. In addition, certain of our products are provided with space and missile launches. We use and provide energetic materials, including in propulsion systems, which are highly explosive and flammable. We develop missile systems, and counter systems, including strategic deterrents, as well as subsystems and components. These and other activities subject us to various extraordinary risks, including those associated with (1) nuclear-related or non-nuclear launch activities and operations, including",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 97715,
+        "end": 98275
+      }
+    },
+    {
+      "id": "181a020adab5dd36",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 63806,
+      "excerpt": "arising out of such incidents or hazardous activities and operations, whether or not the cause was within our control, and insurance may not be reasonably available. Under some circumstances, the U.S. government and prime contractors may provide for certain indemnification and other protection, including pursuant to, or in connection with, Public Law 85-804, 10 U.S.C. 3861, the Price-Anderson Nuclear Industries Indemnity Act, the NASA Space Act, the Commercial Space Launch Act and the Terrorism",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 98678,
+        "end": 99237
+      }
+    },
+    {
+      "id": "f5d4a1082a3312db",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 65379,
+      "excerpt": "y hazardous or risky, or in ways that are not intended, not authorized or inconsistent with guidance and warnings, which may create potential liabilities for our company, as well as reputational harm. • We may not be able to adequately protect and fully exploit our intellectual property rights or obtain necessary rights to intellectual property of others, which could materially and adversely affect our ability to compete and perform on contracts, and have a material adverse effect on our reputat",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 100251,
+        "end": 100751
+      }
+    },
+    {
+      "id": "60dd2509e2782519",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 66373,
+      "excerpt": "ntellectual property, including trade secrets, U.S. and foreign patents, trademarks, and copyrights, and we license or otherwise obtain access to various intellectual property rights of third parties. The U.S. government and certain foreign governments hold licenses or other rights to certain intellectual property that we develop in performance of government contracts, and at times seek to use or authorize others to use such intellectual property, including in competition with us. Governments co",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 101245,
+        "end": 101745
+      }
+    },
+    {
+      "id": "87cac06c8802787c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 67270,
+      "excerpt": "typically seek to protect this information by entering into confidentiality and intellectual property agreements with our employees and third parties such as consultants, collaborators and suppliers. These agreements and other measures may not provide adequate protection for our trade secrets and other proprietary information. In the event of misuse, theft or misappropriation of such intellectual property rights or breach of confidentiality obligations, we may not have -19- Table of Contents NOR",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 102143,
+        "end": 102643
+      }
+    },
+    {
+      "id": "3869a764227c8378",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 68959,
+      "excerpt": "er liability protections may be unavailable or inadequate to cover our significant risks, which could have a material adverse effect on our financial position, results of operations and/or cash flows. We endeavor to obtain insurance from financially stable, responsible, highly rated counterparties in established markets to cover significant risks and liabilities (including, for example, natural disasters, space launches and on-orbit operations, cybersecurity, hazardous operations, energetics and",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 103831,
+        "end": 104391
+      }
+    },
+    {
+      "id": "ed8e1c583386a074",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 69940,
+      "excerpt": "creasing pricing and some have exited the market. Even if insurance coverage is available, we are not always able to obtain it at a price or on terms acceptable to us or without increasing exclusions. For example, if any of our space missions, including launch and on‑orbit operations, are partially or wholly uninsured, we will bear a portion or all the losses resulting from a mission failure. Disputes with insurance carriers over the availability of coverage, and the insolvency of one or more of",
+      "sectionId": "item_1a_risk_factors_our_consolidated_fi",
+      "sectionHeader": "Item 1A. Risk Factors Our consolidated financial position, results of operations and cash",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 104812,
+        "end": 105372
+      }
+    },
+    {
+      "id": "caa70978790afd58",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 5442,
+      "excerpt": "y. Our insider threat program, which is supported by the cybersecurity program, evaluates potential risks consistent with applicable laws and regulations, customer requirements and industry practices. • Information Sharing and Collaboration – We work with government, customer, industry and/or supplier partners, such as the National Defense Information Sharing and Analysis Center and other government-industry partnerships, to gather and develop best practices and share information to address cybe",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity We recognize the critical",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 116106,
+        "end": 116606
+      }
+    },
+    {
+      "id": "b9ba1bc6db79f90a",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 7059,
+      "excerpt": "on each company network. We also periodically host cybersecurity and ransomware tabletop exercises with management and other company functional stakeholders to practice rapid cyber incident response. • Supplier Engagement – We provide training and other resources to our suppliers to support cybersecurity resiliency and data security principles in our supply chain in addition to any requirements from our customers, as a condition of doing business with us, and require them to complete information",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity We recognize the critical",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 117724,
+        "end": 118284
+      }
+    },
+    {
+      "id": "b472d2c2e5f300e9",
+      "ticker": "NOC",
+      "vendor": "Arm",
+      "charOffset": 0,
+      "excerpt": "Item 3. Legal Proceedings We have provided information about certain legal proceedings in which we are involved in Notes 10 and 11 to the consolidated financial statements. We are a party to various investigations, lawsuits, arbitration, claims, enforcement actions and other legal proceedings, including government investigations and claims, that arise in the ordinary course of our business. These types of matters could result in administrative, civil or criminal fines, penalties or other sanctio",
+      "sectionId": "item_3_legal_proceedings_we_have_provide",
+      "sectionHeader": "Item 3. Legal Proceedings We have provided information about certain legal proceedings in",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 121876,
+        "end": 122376
+      }
+    },
+    {
+      "id": "3d52e170c7419457",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 816,
+      "excerpt": "nment contracts or suspension of export privileges for the company or one or more of its components. The nature of legal proceedings is such that we cannot assure the outcome of any particular matter. For additional information on pending matters, please see Notes 10 and 11 to the consolidated financial statements, and for further information on the risks we face from existing and future investigations, lawsuits, arbitration, claims, enforcement actions and other legal proceedings, please see “R",
+      "sectionId": "item_3_legal_proceedings_we_have_provide",
+      "sectionHeader": "Item 3. Legal Proceedings We have provided information about certain legal proceedings in",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 122692,
+        "end": 123192
+      }
+    },
+    {
+      "id": "c768552311358018",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations” (MD&A) of our Form 10-K for the year ended December 31, 2024 (“2024 Annual Report on Form 10-K”). To the extent the January 1, 2025 SSAS realignment impacted the disclosures in the 2024 Annual Report on Form 10-K, we recast those prior year disclosures herein. Divestiture of Training Services Business On May 24, 2025 (the “Divestiture date”), the company completed its previously announced sale of subst",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 127404,
+        "end": 127904
+      }
+    },
+    {
+      "id": "2719220ceb7298ec",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 795,
+      "excerpt": "ions software for U.S. government customers. Operating results include sales and operating income for the training services business prior to the Divestiture date. Global Security Environment The U.S. and its allies continue to face a global security environment of heightened tensions and instability, threats from state and non-state actors, including in particular major global powers, as well as terrorist organizations, increasing nuclear tensions, diverse regional security concerns and politic",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 128199,
+        "end": 128699
+      }
+    },
+    {
+      "id": "6898528ca064feed",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 1541,
+      "excerpt": "tions and financial performance, as well as demand for our products and services, are impacted by these events, including global unrest. The same is true for our suppliers and other business partners. The ongoing conflict in Ukraine, recent events in Venezuela and threats elsewhere, particularly in the Middle East and the Western Pacific region, have increased global tensions and instability and highlighted security requirements globally, including in Europe, the Middle East, the Pacific region",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 128945,
+        "end": 129504
+      }
+    },
+    {
+      "id": "91a40605f57aabef",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 3371,
+      "excerpt": "ced challenges, including inflationary pressures; widespread delays and disruptions in supply chains; business slowdowns or shutdowns; workforce challenges and labor shortfalls; and market volatility. These macroeconomic factors can and have contributed, and could continue to contribute, to increased costs, delays, disruptions and other performance challenges, as well as increased competing demands for limited resources to address such increased costs and other challenges, for our company, our s",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 130775,
+        "end": 131275
+      }
+    },
+    {
+      "id": "8cc9178fa6b113ba",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 4837,
+      "excerpt": "h as retaliatory tariffs or other trade protectionist measures or the renegotiation of free trade agreements), could also further impact the global market for defense products, services and solutions. The full impact of these governmental actions on macroeconomic conditions and on our business is uncertain, difficult to predict and depends on a number of factors, including the extent and duration of tariffs, any -27- Table of Contents NORTHROP GRUMMAN CORPORATION reversal or temporary suspension",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 132241,
+        "end": 132801
+      }
+    },
+    {
+      "id": "0260a553a63e1134",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 11263,
+      "excerpt": "five LRIP options. During the fourth quarter of 2025, we again reviewed our estimated profitability on the LRIP phase of the program and made no significant changes to the previously recognized loss. The company’s 2025 results reflect our current best estimate of cost to complete the LRIP and NTE aircraft, as well as the outcome of ongoing discussions with our suppliers. If our estimated cost to complete the aircraft changes, if we reach an agreement with the customer regarding an accelerated pr",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 138668,
+        "end": 139168
+      }
+    },
+    {
+      "id": "a6075d1961c61d6d",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 12252,
+      "excerpt": ". Air Force provided congressional notification that the Sentinel program was under a Nunn-McCurdy breach review, which is required when total program cost estimates exceed certain defined thresholds. This notification, which had been driven primarily by increases in cost estimates for the Production and Deployment phases, commenced the process to achieve certification for continuance of the program and update its baseline cost estimates. We are currently executing under a cost-type contract for",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 139656,
+        "end": 140216
+      }
+    },
+    {
+      "id": "883807ac033d8459",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 14119,
+      "excerpt": "our expectations for achieving contract incentives are more or less favorable than what we have estimated, our financial position, results of operations and/or cash flows could be materially affected. Operating Performance Assessment and Reporting We manage and assess our business based on our performance on contracts and programs (typically larger contracts or two or more closely-related contracts). We recognize sales from our portfolio of long-term contracts as control is transferred to the cu",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 141523,
+        "end": 142023
+      }
+    },
+    {
+      "id": "e2285823203747ce",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 15078,
+      "excerpt": "ing and design labor, subcontractor, material, overhead and general and administrative (G&A) costs), as much as we do on total contract cost, which is the key driver of our sales and operating income. In evaluating our operating performance, we primarily focus on changes in sales and operating margin rates. Where applicable, significant fluctuations in operating performance attributable to individual contracts or programs, or changes in a specific cost element across multiple contracts, are desc",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 142482,
+        "end": 142982
+      }
+    },
+    {
+      "id": "961a28773e8fc651",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 21188,
+      "excerpt": "percent reflecting the items above. 2025 G&A costs as a percentage of sales of 9.6 percent were comparable to the prior year. See “Segment Operating Results” below for further information by segment. For further information regarding product and service operating costs and expenses, see “Product and Service Analysis” below. Mark-to-Market Pension and OPB Benefit/Expense The primary components of pre-tax MTM benefit (expense) are presented in the table below: Year Ended December 31 $ in millions",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 148593,
+        "end": 149152
+      }
+    },
+    {
+      "id": "54d4983c17ba14dd",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 31810,
+      "excerpt": "ume on the E-2 and B-21 programs. These increases were partially offset by lower sales on other restricted programs and a $106 million decrease on F/A-18 as final production deliveries were completed. Operating Income 2025 operating income decreased $423 million and operating margin rate decreased to 6.3 percent primarily due to a $477 million loss provision recorded on the LRIP phase of the B-21 program in the first quarter of 2025. This was partially offset by higher net EAC adjustments across",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 159214,
+        "end": 159774
+      }
+    },
+    {
+      "id": "6295e29be29edc26",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 33766,
+      "excerpt": "ction in sales related to the divested training services business. Operating Income 2025 operating income increased $155 million, or 22 percent, due to a higher operating margin rate and higher sales. Operating margin rate increased to 10.9 percent from 9.7 percent primarily due to higher net EAC adjustments, including a $76 million favorable EAC adjustment on the Sentinel program during the second quarter of 2025. MISSION SYSTEMS Mission Systems is a leader in advanced mission solutions and mul",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 161170,
+        "end": 161670
+      }
+    },
+    {
+      "id": "1c5e8475f08ad062",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 34641,
+      "excerpt": "twork systems; advanced microelectronics; navigation and positioning sensors; maritime power, propulsion and payload launch systems; full spectrum cyber solutions; and intelligence processing systems. Year Ended December 31 % Change in $ in millions 2025 2024 2023 2025 2024 Sales $ 12,506 $ 11,399 $ 10,895 10 % 5 % Operating income 1,827 1,598 1,609 14 % (1) % Operating margin rate 14.6 % 14.0 % 14.8 % Sales 2025 sales increased $1.1 billion, or 10 percent, primarily due to continued ramp-up on",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 162045,
+        "end": 162604
+      }
+    },
+    {
+      "id": "0d2253db9b556ca5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 35331,
+      "excerpt": "ations programs, as several programs ramp up following new awards. Operating Income 2025 operating income increased $229 million, or 14 percent, due to higher sales and a higher operating margin rate. Operating margin rate increased to 14.6 percent from 14.0 percent primarily due to higher net EAC adjustments, including a $68 million favorable EAC adjustment recorded in the third quarter of 2025 in the restricted advanced microelectronics portfolio, partially offset by investments made by the se",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 162735,
+        "end": 163235
+      }
+    },
+    {
+      "id": "272bd210b1e60f0c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 36257,
+      "excerpt": "ajor products include satellites and spacecraft systems, subsystems, sensors and payloads; ground systems; missile defense systems and interceptors; and launch vehicles and related propulsion systems. Year Ended December 31 % Change in $ in millions 2025 2024 2023 2025 2024 Sales $ 10,771 $ 11,731 $ 11,873 (8) % (1) % Operating income 1,183 1,254 1,130 (6) % 11 % Operating margin rate 11.0 % 10.7 % 9.5 % Sales 2025 sales decreased $960 million, or 8 percent, primarily due to wind-down of work on",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 163661,
+        "end": 164221
+      }
+    },
+    {
+      "id": "ac26719b0a9693c0",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 39177,
+      "excerpt": "Systems, higher volume on Sentinel, military ammunition programs and the IBCS program portfolio at Defense Systems, and higher sales on the F-35, TACAMO, E-2, and B-21 programs at Aeronautics Systems. These increases were partially offset by wind-down of work on the restricted space and NGI programs and lower volume on SDA satellite programs at Space Systems. 2025 product costs increased $1.2 billion, or 4 percent, reflecting a lower operating margin rate principally due to the $477 million loss",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 166581,
+        "end": 167141
+      }
+    },
+    {
+      "id": "98cfe60ccb85ba65",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 42358,
+      "excerpt": "facilities, commercial paper and/or in the capital markets through our shelf registration with the SEC, if needed, to be sufficient to provide liquidity to the company in the short-term and long-term. The company has a five-year senior unsecured credit facility in an aggregate principal amount of $3.0 billion, and in April 2025, we renewed our one-year $500 million uncommitted credit facility. At December 31, 2025, there were no borrowings outstanding under these credit facilities. In May 2025,",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 169762,
+        "end": 170321
+      }
+    },
+    {
+      "id": "eec343ef9bfa2cb2",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 43309,
+      "excerpt": "rgely comprised of open purchase order commitments to suppliers and subcontractors under U.S. government contracts. In most circumstances, our risk associated with the purchase obligations on our U.S. government contracts is limited by the termination liability provisions within those contracts. As such, we do not believe they represent a material liquidity risk to the company. At December 31, 2025, we had capital expenditure commitments of $1.6 billion, which we expect to satisfy with cash on h",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 170713,
+        "end": 171213
+      }
+    },
+    {
+      "id": "a53901e246f37484",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 44281,
+      "excerpt": "nd long-term debt (Note 9), standby letters of credit and guarantees (Note 11), future minimum contributions for the company’s pension and OPB plans (Note 12), and lease payment obligations (Note 14). -38- Table of Contents NORTHROP GRUMMAN CORPORATION Cash Flow Measures In addition to our cash position, we consider various cash flow measures in capital deployment decision-making, including cash provided by operating activities and free cash flow, a non-GAAP measure described in more detail belo",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 171685,
+        "end": 172185
+      }
+    },
+    {
+      "id": "b766618ef24ec2d5",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 49306,
+      "excerpt": "will not occur when the uncertainty associated with the variable consideration is subsequently resolved. We estimate variable consideration as the most likely amount to which we expect to be entitled. Our cost estimation process is based on the professional knowledge of our engineering, program management and financial professionals, and draws on their significant experience and judgment. We prepare EACs for our contracts and calculate an estimated contract profit based on total estimated contra",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 176710,
+        "end": 177210
+      }
+    },
+    {
+      "id": "278a9e5bf6fac3d6",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 52055,
+      "excerpt": "s typically more variability in those estimates and greater financial risk associated with unanticipated cost growth on fixed-price development contracts and early-stage/low-rate production contracts. Changes in estimates occur for a variety of reasons, including changes in contract scope, the resolution of risk at lower or higher cost than anticipated, unanticipated performance and other risks affecting contract costs, performance issues with subcontractors or suppliers, changes in indirect cos",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 179459,
+        "end": 179959
+      }
+    },
+    {
+      "id": "7a0853270ca4673a",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 922,
+      "excerpt": "efore, we do not have significant exposure to interest rate risk for our fixed-rate debt; however, we do have exposure to fair value risk if we repurchase or exchange long-term debt prior to maturity. Additionally, if we were to refinance our long-term debt, it may be refinanced at higher interest rates. FOREIGN CURRENCY RISK In certain circumstances, we are exposed to foreign currency risk. We enter foreign currency forward contracts to manage a portion of the exchange rate risk related to rece",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk EQUITY RISK We have be",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 200358,
+        "end": 200858
+      }
+    },
+    {
+      "id": "0b113cc327b3badc",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 1908,
+      "excerpt": "lts of operations and/or cash flows. INFLATION RISK The global macroeconomic environment has experienced extraordinary challenges in recent years, including the highest rates of inflation in 40 years. The company, its subcontractors and other suppliers, have experienced, and may in the future experience, pressures from heightened levels of inflation and challenges from the macroeconomic environment. Certain of our fixed-price contracts include economic price adjustment (EPA) clauses to help prot",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk EQUITY RISK We have be",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 201344,
+        "end": 201844
+      }
+    },
+    {
+      "id": "45bdcdde50525b35",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 5684,
+      "excerpt": "o understand the contractual requirements and performance obligations. – Assessing the timing of recognition of any incentive fees or award fees based on contract terms and relevant historical trends. – Evaluating management’s ability to achieve the estimates of remaining revenue and costs by performing inquiries with the Company’s program and business management regarding their basis of estimates including work plans, engineering specifications, program labor and suppliers, challenges or opport",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 207803,
+        "end": 208303
+      }
+    },
+    {
+      "id": "71195ec139e6be0c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 16319,
+      "excerpt": "ed the Strike and Surveillance Aircraft Solutions (SSAS) business unit from Defense Systems to Aeronautics Systems. This realignment is reflected in the financial information contained in this report. On May 24, 2025 (the “Divestiture date”), the company completed its previously announced sale of substantially all of the Immersive Mission Solutions (IMS) operating unit of Defense Systems (the “training services” business or “divestiture”) for $ 333 million in cash and recorded a pre-tax gain on",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 218438,
+        "end": 218997
+      }
+    },
+    {
+      "id": "a56944b5f84854ff",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 26208,
+      "excerpt": "s billed to customers. Unbilled receivables are classified as current assets and include amounts that may be billed and collected beyond one year due to the long-cycle nature of many of our contracts. Accumulated contract costs in unbilled receivables include costs such as direct production costs, factory and engineering overhead, production tooling costs, and allowable G&A. Unbilled receivables also include certain estimates of variable consideration described above. These contract assets are n",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 228327,
+        "end": 228827
+      }
+    },
+    {
+      "id": "71f46decf12ae239",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 27177,
+      "excerpt": "gations on the contract. These amounts are recorded as contract liabilities until such obligations are satisfied, either over time as costs are incurred or at a point in time when deliveries are made. Contract liabilities are not a significant financing component as they are generally utilized to pay for contract costs within a one-year period or are used to ensure the customer meets contractual requirements. -54- Table of Contents NORTHROP GRUMMAN CORPORATION Net contract assets are as follows:",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 229296,
+        "end": 229856
+      }
+    },
+    {
+      "id": "b9a651333fb5a0b7",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 28963,
+      "excerpt": "FAR and CAS requirements, most general management and corporate expenses incurred at the segment and corporate locations are considered allowable and allocable costs to our U.S. government contracts. Allowable and allocable G&A costs, including independent research and development (IR&D) and bid and proposal (B&P) costs, are allocated on a systematic basis to contracts in progress and are included as a component of total estimated contract costs. Research and Development Company-sponsored resear",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 231083,
+        "end": 231583
+      }
+    },
+    {
+      "id": "012aa085043f7929",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 29947,
+      "excerpt": "orted earnings before income taxes based on current tax law and include the cumulative effect of any changes in tax rates from those used previously in determining deferred tax assets and liabilities. Such provisions differ from the amounts currently payable because certain items of income and expense are recognized in different periods for financial reporting purposes than for income tax purposes. The company recognizes federal and foreign interest accrued related to unrecognized tax benefits i",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 232066,
+        "end": 232566
+      }
+    },
+    {
+      "id": "b2b384227282856f",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 33382,
+      "excerpt": "than three months are recorded at amortized cost. Derivative financial instruments are recognized as assets or liabilities in the financial statements and measured at fair value on a recurring basis. Changes in the fair value of derivative financial instruments that are designated as fair value hedges are recorded in Other, net in the consolidated statements of earnings and comprehensive income, while changes in the fair value of derivative financial instruments that are designated as cash flow",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 235502,
+        "end": 236061
+      }
+    },
+    {
+      "id": "7977a85cd6780ff7",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 34278,
+      "excerpt": "ents to manage its exposure to foreign currency exchange risk related to receipts from customers and payments to suppliers denominated in foreign currencies (i.e., foreign currency forward contracts). For foreign currency forward contracts, where model-derived valuations are appropriate, the company utilizes the income approach to determine the fair value using internal models based on observable market inputs such as forward rates, interest rates, our own credit risk and our counterparties’ cre",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 236397,
+        "end": 236897
+      }
+    },
+    {
+      "id": "5f162db46e8e286c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 35214,
+      "excerpt": "arties. Inventoried Costs The company records inventoried costs at the lower of cost or net realizable value. Inventoried costs are categorized into raw materials, work in process, and finished goods. Raw materials are recognized using the average cost method and are generally included in contract cost when allocated to specific contracts. Work in process primarily consists of a) costs associated with specific anticipated contracts or costs incurred in excess of existing contract requirements, w",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 237333,
+        "end": 237833
+      }
+    },
+    {
+      "id": "d8d4a15229277a9c",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 41564,
+      "excerpt": "riate lease classification. Many of our leases include renewal options aligned with our contract terms. We define the initial lease term to include renewal options determined to be reasonably certain. We do not recognize a right-of-use asset and a lease liability for leases with an initial term of 12 months or less; we recognize lease expense for these leases on a straight-line basis over the lease term. We elected the practical expedient to not separate lease components from nonlease components",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 243683,
+        "end": 244243
+      }
+    },
+    {
+      "id": "52817bbf66d382ec",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 45368,
+      "excerpt": "ed prior service credits and annual income or expense of the company’s defined benefit pension and OPB plans are determined using methodologies that involve several actuarial assumptions. Because U.S. government regulations provide for the costs of pension and OPB plans to be charged to our contracts in accordance with applicable FAR and CAS requirements, we calculate retiree benefit plan costs under both FAS and CAS methods. While both FAS and CAS recognize a normal service cost component in me",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 247487,
+        "end": 247987
+      }
+    },
+    {
+      "id": "3dbdba8e64dce41d",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 46320,
+      "excerpt": "pense amounts for FAS are different from the amounts for CAS in any given reporting period even though the ultimate cost of providing benefits over the life of the plans is the same under each method. CAS retiree benefit plan costs are charged to contracts and are included in segment operating income, and the difference between the service cost component of FAS expense and total CAS expense (the “FAS/CAS operating adjustment”) is recorded in operating income at the consolidated company level. No",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 248439,
+        "end": 248939
+      }
+    },
+    {
+      "id": "ace8a2a9f51a72ec",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 47266,
+      "excerpt": "basis as triggering events warrant remeasurement. In general, prior service credits are recognized as a component of Accumulated other comprehensive loss and amortized into earnings in future periods. Stock Compensation The company’s stock compensation plans are classified as equity plans. Compensation expense for stock awards is measured at the grant date based on the fair value of the award and is recognized over the vesting period (generally three years ), net of estimated forfeitures. The co",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 249385,
+        "end": 249885
+      }
+    },
+    {
+      "id": "b2c8ea43b0f845c8",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 48178,
+      "excerpt": "g date based on management’s expectations regarding the relevant performance criteria. The fair value of market-based stock awards is determined at the grant date using a Monte Carlo simulation model. For purposes of measuring compensation expense for market-based awards, the expense is generally based on the fair value as of the grant date with no adjustments for the number of shares ultimately expected to vest. At each reporting date, the number of shares used to calculate compensation expense",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 250297,
+        "end": 250857
+      }
+    },
+    {
+      "id": "613f9ed9d681d261",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 60166,
+      "excerpt": "cipally associated with contracts where the U.S. government is the primary customer, therefore the company does not believe it has significant exposure to recoverability risk related to these amounts. Inventoried costs associated with our commercial businesses, while less significant in total, are subject to a greater level of recoverability risk. Inventoried costs, net consisted of the following: December 31 $ in millions 2025 2024 Raw materials $ 306 $ 293 Work in process 945 1,118 Finished go",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 262285,
+        "end": 262785
+      }
+    },
+    {
+      "id": "d36d10585c337379",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 92437,
+      "excerpt": "to amend or terminate the plans at any time. Certain covered employees and dependents are eligible to participate in plans upon retirement if they meet specified age and years of service requirements. The company provides subsidies to reimburse certain retirees for a portion of the cost of individual coverage purchased directly by the retiree through a private insurance exchange. The company has capped the amount of its contributions for substantially all its remaining postretirement medical and",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 294556,
+        "end": 295116
+      }
+    },
+    {
+      "id": "a8b9041a08cc3f6f",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 115231,
+      "excerpt": "me 1,827 1,598 1,609 Space Systems Sales 10,771 11,731 11,873 Operating costs and expenses: Product 7,827 8,711 8,844 Service 1,309 1,398 1,468 Intersegment 452 368 431 Space Systems operating income 1,183 1,254 1,130 Intersegment profit eliminations ( 317 ) ( 260 ) ( 247 ) Total segment operating income 4,377 4,544 2,760 FAS/CAS operating adjustment 258 40 ( 82 ) Unallocated corporate expense ( 124 ) ( 214 ) ( 141 ) Total operating income $ 4,511 $ 4,370 $ 2,537 Other (expense) income Interest",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 317350,
+        "end": 317909
+      }
+    },
+    {
+      "id": "fd7c1ff8032b0f76",
+      "ticker": "NOC",
+      "vendor": null,
+      "charOffset": 116207,
+      "excerpt": "operating adjustment reflects the difference between CAS pension expense included as cost in segment operating income and the service cost component of FAS expense included in total operating income. -81- Table of Contents NORTHROP GRUMMAN CORPORATION Unallocated Corporate Expense Unallocated corporate expense includes the portion of corporate costs not considered allowable or allocable under applicable FAR and CAS requirements, and therefore not allocated to the segments, such as changes in def",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8. Financial Statements and Supplementary Data REPORT OF INDEPENDENT REGISTERED PUBL",
+      "form": "10-K",
+      "filingDate": "2026-01-27",
+      "type": "chunk",
+      "range": {
+        "start": 318327,
+        "end": 318827
+      }
+    }
+  ]
+}

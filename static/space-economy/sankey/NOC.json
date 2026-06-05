@@ -1,0 +1,125 @@
+{
+  "ticker": "NOC",
+  "topicId": "space-economy",
+  "product": "Northrop Grumman Space Systems",
+  "segment": "satellites",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-27",
+    "accessionNumber": "0001133421-26-000003",
+    "primaryDocument": "noc-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+  "summary": {
+    "nodeCount": 6,
+    "linkCount": 5,
+    "totalFlow": 5,
+    "filingChars": 370611,
+    "mentionDensity": 0.01,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Optics & imaging",
+        "score": 3
+      },
+      {
+        "subsystem": "Ground & comms",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [],
+    "countries": [
+      "US"
+    ],
+    "explicitSuppliers": 1,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "Northrop Grumman Space Systems",
+      "name": "Northrop Grumman Space Systems",
+      "tier": 0,
+      "group": "product",
+      "description": "NOC 10-K / 20-F · 10-K 2026-01-27",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "EO imager",
+      "name": "EO imager",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · NOC 10-K mentions: 3",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Focal-plane array",
+      "name": "Focal-plane array",
+      "tier": 3,
+      "group": "optics",
+      "description": "Raw input — Focal-plane array",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category — Ground & comms",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · NOC 10-K mentions: 2",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    }
+  ],
+  "links": [
+    {
+      "source": "EO imager",
+      "target": "Optics & imaging",
+      "value": 3
+    },
+    {
+      "source": "Focal-plane array",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 2
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "Northrop Grumman Space Systems",
+      "value": 3
+    },
+    {
+      "source": "Ground & comms",
+      "target": "Northrop Grumman Space Systems",
+      "value": 2
+    }
+  ]
+}

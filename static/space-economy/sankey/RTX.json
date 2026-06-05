@@ -1,0 +1,131 @@
+{
+  "ticker": "RTX",
+  "topicId": "space-economy",
+  "product": "RTX Space programs",
+  "segment": "propulsion",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-06",
+    "accessionNumber": "0000101829-26-000006",
+    "primaryDocument": "rtx-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+  "summary": {
+    "nodeCount": 6,
+    "linkCount": 5,
+    "totalFlow": 10,
+    "filingChars": 541597,
+    "mentionDensity": 0.02,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Integration & test",
+        "score": 8
+      },
+      {
+        "subsystem": "Optics & imaging",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "FR",
+        "score": 8
+      }
+    ],
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "explicitSuppliers": 1,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "RTX Space programs",
+      "name": "RTX Space programs",
+      "tier": 0,
+      "group": "product",
+      "description": "RTX 10-K / 20-F · 10-K 2026-02-06",
+      "country": "US",
+      "mentionScore": 10
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "EO imager",
+      "name": "EO imager",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · RTX 10-K mentions: 2",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    },
+    {
+      "id": "Focal-plane array",
+      "name": "Focal-plane array",
+      "tier": 3,
+      "group": "optics",
+      "description": "Raw input — Focal-plane array",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Integration & test",
+      "name": "Integration & test",
+      "tier": 1,
+      "group": "integration",
+      "description": "Subsystem category — Integration & test",
+      "country": null,
+      "mentionScore": 8,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Airbus Defence & Space",
+      "name": "Airbus Defence & Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · RTX 10-K mentions: 8",
+      "country": "FR",
+      "mentionScore": 8,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "EO imager",
+      "target": "Optics & imaging",
+      "value": 2
+    },
+    {
+      "source": "Focal-plane array",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "Airbus Defence & Space",
+      "target": "Integration & test",
+      "value": 8
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "RTX Space programs",
+      "value": 2
+    },
+    {
+      "source": "Integration & test",
+      "target": "RTX Space programs",
+      "value": 8
+    }
+  ]
+}

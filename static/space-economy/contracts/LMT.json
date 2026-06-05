@@ -1,0 +1,215 @@
+{
+  "ticker": "LMT",
+  "queryVariants": [
+    "LOCKHEED MARTIN CORP",
+    "LOCKHEED MARTIN",
+    "LOCKHEED MARTIN CORPORATION",
+    "Lockheed Martin"
+  ],
+  "sampleRecipients": [
+    "LOCKHEED MARTIN CORP",
+    "LOCKHEED MARTIN CORPORATION",
+    "LOCKHEED MARTIN SERVICES, LLC",
+    "LOCKHEED MISSILES & SPACE COMP",
+    "LOCKHEED MARTIN AERONAUTICAL SYSTEMS SUPPORT COMPANY"
+  ],
+  "totalAmount": 591135076088.59,
+  "awardCount": 127,
+  "byAgency": [
+    {
+      "agency": "Department of Defense",
+      "amount": 499841449305.1399
+    },
+    {
+      "agency": "Department of Energy",
+      "amount": 68709877401.41
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 22583749382.04
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "DEAC0494AL85000",
+      "recipient": "LOCKHEED MARTIN CORP",
+      "agency": "Department of Energy",
+      "subAgency": "Department of Energy",
+      "amount": 48063763681.32,
+      "psc": null,
+      "naics": null,
+      "description": "",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001917C0001",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 35135514910.2,
+      "psc": null,
+      "naics": null,
+      "description": "LRIP LOT 12 ADVANCE ACQUISITION CONTRACT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001902C3002",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 34173959111.96,
+      "psc": null,
+      "naics": null,
+      "description": "200204!008532!1700!AF600 !NAVAL AIR SYSTEMS COMMAND       !N0001902C3002  !A!N! !N!                   !20011026!20120430!008016958!008016958!834951691!N!LOCKHEED MARTIN CORPORATION   !LOCKHEED BLVD             !FORT WORTH          !TX!76108",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001920C0009",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 30140182630.06,
+      "psc": null,
+      "naics": null,
+      "description": "THE PURPOSE OF THIS MODIFICATION IS TO AWARD F-35A LRIP 15 USAF  AIRCRAFT* LONG LEAD FUNDING",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001923C0003",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 24499786640,
+      "psc": null,
+      "naics": null,
+      "description": "THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR U.S. SERVICES, NON-DOD PARTNERS, AND FMS CUSTOMERS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "DEAC0584OR21400",
+      "recipient": "LOCKHEED MARTIN SERVICES, LLC",
+      "agency": "Department of Energy",
+      "subAgency": "Department of Energy",
+      "amount": 20646113720.09,
+      "psc": null,
+      "naics": null,
+      "description": "MANAGEMENT AND OPERATION OF Y-12 PLANT AND OTHER PROGRAMS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "NNJ06TA25C",
+      "recipient": "LOCKHEED MARTIN CORP",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 15530973334.93,
+      "psc": null,
+      "naics": null,
+      "description": "TAS::80 0124::TAS DESIGN, DEVELOPMENT, TEST&EVALUATION OF PROJECT ORION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001916C0033",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 12269145508.23,
+      "psc": null,
+      "naics": null,
+      "description": "LRIP 11 AAC",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001915C0003",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 10550927664.07,
+      "psc": null,
+      "naics": null,
+      "description": "LRIP 10 AAC",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "W31P4Q20C0023",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Army",
+      "amount": 10478694385.9,
+      "psc": null,
+      "naics": null,
+      "description": "THE CONTRACT AWARD IS FOR THE FY21/FY22/FY23 BASE AND OPTION PRICING FOR PHASE ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) PRODUCTION REQUIREMENTS FOR THE UNITED STATES (US) AND FOREIGN MILITARY SALES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "F0470195C0017",
+      "recipient": "LOCKHEED MISSILES & SPACE COMP",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 9458382765.59,
+      "psc": null,
+      "naics": null,
+      "description": "200510!000044!5700!FA8810!SMC/ISK                         !F0470195C0017  !A!N! !N!             !P00309!20050324!20100630!196596688!196596688!834951691!N!LOCKHEED MARTIN CORPORATION   !1111 LOCKHEED MARTIN WAY  !SUNNYVALE           !CA!9408",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HQ014717C0032",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Missile Defense Agency",
+      "amount": 9085373926.82,
+      "psc": null,
+      "naics": null,
+      "description": "HQ0147-17-C-0032 UNDEFINITIZED CONTRACT ACTION (UCA) FOR THAAD INTERCEPTOR LOT 9 PRODUCTION - QTY OF 23",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "F0470102C0002",
+      "recipient": "LOCKHEED MARTIN CORP",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 9032712307.12,
+      "psc": null,
+      "naics": null,
+      "description": "200207!000021!5700!CZ62  !SMC/PKJ LOS ANGELES AFB         !F0470102C0002  !A!N! !N!                   !20011116!20070630!872978978!196596688!834951691!N!LOCKHEED MARTIN CORPORATION   !1111 LOCKHEED MARTIN WAY  !SUNNYVALE           !CA!94089",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA861108C2897",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 8821412144.17,
+      "psc": null,
+      "naics": null,
+      "description": "FOLLOW-ON AGILE SUSTAINMENT TO THE RAPTOR (FASTER)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001921C0020",
+      "recipient": "LOCKHEED MARTIN CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 7953264130.5,
+      "psc": null,
+      "naics": null,
+      "description": "FY21-23 GLOBAL F-35 AIR SYSTEM SUSTAINMENT",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

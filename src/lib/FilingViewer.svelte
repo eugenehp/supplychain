@@ -556,7 +556,7 @@
                       onclick={() => jumpToSection(section)}
                     >
                       <span class="text-muted-foreground block text-[0.72rem] font-semibold">
-                        {section.item ? `Item ${section.item}` : section.title}
+                        {section.item ? 'Item ' + section.item : section.title}
                       </span>
                       <span class="block leading-snug">{section.title}</span>
                     </button>
@@ -668,7 +668,7 @@
                 >
                   <header class="section-header mb-5 border-l-3 pl-4">
                     <span class="text-primary mb-1 block text-xs font-semibold tracking-wide uppercase">
-                      {section.item ? `Item ${section.item}` : section.title}
+                      {section.item ? 'Item ' + section.item : section.title}
                     </span>
                     <h2 class="text-foreground m-0 text-xl font-bold">{section.title}</h2>
                   </header>

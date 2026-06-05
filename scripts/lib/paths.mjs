@@ -21,7 +21,26 @@ export const PATHS = {
   rawPublicReports: join(ROOT, 'data/raw/public-reports'),
   materialsStructured: join(ROOT, 'data/materials/structured'),
   logos: join(ROOT, 'data/logos'),
+  spaceEconomy: join(ROOT, 'data/space-economy'),
+  rawPublicSpace: join(ROOT, 'data/raw/space-public'),
 };
+
+/** Per-research-topic static layout: static/<topicId>/{rag,sec,index.json} */
+export function topicStaticDir(topicId) {
+  return join(PATHS.staticRoot, topicId);
+}
+
+export function topicStaticRagDir(topicId) {
+  return join(topicStaticDir(topicId), 'rag');
+}
+
+export function topicStaticSecDir(topicId, ticker) {
+  return join(topicStaticDir(topicId), 'sec', ticker.toUpperCase());
+}
+
+export function topicStaticReportsDir(topicId) {
+  return join(topicStaticDir(topicId), 'reports');
+}
 
 export function internationalRawDir(id) {
   return join(PATHS.rawInternational, String(id).toUpperCase());

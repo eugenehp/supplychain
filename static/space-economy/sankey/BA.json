@@ -1,0 +1,120 @@
+{
+  "ticker": "BA",
+  "topicId": "space-economy",
+  "product": "Boeing Defense, Space & Security",
+  "segment": "satellites",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-30",
+    "accessionNumber": "0001628280-26-004357",
+    "primaryDocument": "ba-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm",
+  "summary": {
+    "nodeCount": 5,
+    "linkCount": 4,
+    "totalFlow": 7,
+    "filingChars": 419592,
+    "mentionDensity": 0.02,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Launch services",
+        "score": 4
+      },
+      {
+        "subsystem": "Integration & test",
+        "score": 3
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 4
+      },
+      {
+        "country": "FR",
+        "score": 3
+      }
+    ],
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "explicitSuppliers": 2,
+    "heuristicSuppliers": 0
+  },
+  "nodes": [
+    {
+      "id": "Boeing Defense, Space & Security",
+      "name": "Boeing Defense, Space & Security",
+      "tier": 0,
+      "group": "product",
+      "description": "BA 10-K / 20-F · 10-K 2026-01-30",
+      "country": "US",
+      "mentionScore": 7
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "ULA (Vulcan / Atlas)",
+      "name": "ULA (Vulcan / Atlas)",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · BA 10-K mentions: 4",
+      "country": "US",
+      "mentionScore": 4,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Integration & test",
+      "name": "Integration & test",
+      "tier": 1,
+      "group": "integration",
+      "description": "Subsystem category — Integration & test",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Airbus Defence & Space",
+      "name": "Airbus Defence & Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · BA 10-K mentions: 3",
+      "country": "FR",
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "ULA (Vulcan / Atlas)",
+      "target": "Launch services",
+      "value": 4
+    },
+    {
+      "source": "Airbus Defence & Space",
+      "target": "Integration & test",
+      "value": 3
+    },
+    {
+      "source": "Launch services",
+      "target": "Boeing Defense, Space & Security",
+      "value": 4
+    },
+    {
+      "source": "Integration & test",
+      "target": "Boeing Defense, Space & Security",
+      "value": 3
+    }
+  ]
+}

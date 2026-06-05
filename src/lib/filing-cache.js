@@ -1,6 +1,12 @@
 /** In-memory cache for SEC filing bundles loaded from static assets. */
 
 import { measureAsync } from './performance.js';
+import { getSecRoot, onRagNamespaceChange } from './rag-namespace.js';
+
+onRagNamespaceChange(() => {
+  pending.clear();
+  cache.clear();
+});
 
 /** @typedef {{
  *   meta: object | null,
@@ -79,7 +85,7 @@ export function prefetchFiling(ticker) {
  */
 async function fetchFilingShell(ticker) {
   return measureAsync(`filing:shell:${ticker}`, async () => {
-    const base = `/sec/${ticker}`;
+    const base = `${getSecRoot()}/${ticker}`;
     const [metaRes, sectionsRes, evidenceRes, displayRes] = await Promise.all([
       fetch(`${base}/metadata.json`),
       fetch(`${base}/sections.json`),
@@ -103,7 +109,7 @@ async function fetchFilingShell(ticker) {
  * @param {string} ticker
  */
 async function fetchFilingText(ticker) {
-  const res = await fetch(`/sec/${ticker}/filing.txt`);
+  const res = await fetch(`${getSecRoot()}/${ticker}/filing.txt`);
   if (!res.ok) throw new Error(`Could not load filing for ${ticker}`);
   return res.text();
 }

@@ -1,0 +1,169 @@
+{
+  "ticker": "PL",
+  "topicId": "space-economy",
+  "product": "Planet EO constellation",
+  "segment": "downstream",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-23",
+    "accessionNumber": "0001193125-26-119957",
+    "primaryDocument": "pl-20260131.htm",
+    "reportDate": "2026-01-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526119957/pl-20260131.htm",
+  "summary": {
+    "nodeCount": 8,
+    "linkCount": 7,
+    "totalFlow": 8,
+    "filingChars": 551747,
+    "mentionDensity": 0.01,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Optics & imaging",
+        "score": 3
+      },
+      {
+        "subsystem": "Launch services",
+        "score": 3
+      },
+      {
+        "subsystem": "Integration & test",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 3
+      },
+      {
+        "country": "FR",
+        "score": 2
+      }
+    ],
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "explicitSuppliers": 2,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "Planet EO constellation",
+      "name": "Planet EO constellation",
+      "tier": 0,
+      "group": "product",
+      "description": "PL 10-K / 20-F · 10-K 2026-03-23",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "EO imager",
+      "name": "EO imager",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · PL 10-K mentions: 3",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Focal-plane array",
+      "name": "Focal-plane array",
+      "tier": 3,
+      "group": "optics",
+      "description": "Raw input — Focal-plane array",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "SpaceX launch services",
+      "name": "SpaceX launch services",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · PL 10-K mentions: 3",
+      "country": "US",
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Integration & test",
+      "name": "Integration & test",
+      "tier": 1,
+      "group": "integration",
+      "description": "Subsystem category — Integration & test",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Airbus Defence & Space",
+      "name": "Airbus Defence & Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · PL 10-K mentions: 2",
+      "country": "FR",
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    }
+  ],
+  "links": [
+    {
+      "source": "EO imager",
+      "target": "Optics & imaging",
+      "value": 3
+    },
+    {
+      "source": "Focal-plane array",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "SpaceX launch services",
+      "target": "Launch services",
+      "value": 3
+    },
+    {
+      "source": "Airbus Defence & Space",
+      "target": "Integration & test",
+      "value": 2
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "Planet EO constellation",
+      "value": 3
+    },
+    {
+      "source": "Launch services",
+      "target": "Planet EO constellation",
+      "value": 3
+    },
+    {
+      "source": "Integration & test",
+      "target": "Planet EO constellation",
+      "value": 2
+    }
+  ]
+}

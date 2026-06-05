@@ -12,6 +12,21 @@ import { fetchRagChunkEntries } from '../rag-chunks-loader.js';
 let embedPipeline = null;
 /** @type {Error | null} */
 let embedLoadError = null;
+/** Current model id loaded — clear pipeline on mismatch so namespace swaps reload. */
+let loadedModelId = null;
+
+/**
+ * Query-time task prefixes for instruction-tuned embedding models. Models the
+ * pipeline doesn't recognize fall back to no prefix and a 512-char cap.
+ */
+const MODEL_PROFILES = {
+  'Xenova/all-MiniLM-L6-v2':            { queryPrefix: '', maxChars: 512 * 4 },
+  'Xenova/nomic-embed-text-v1':         { queryPrefix: 'search_query: ', maxChars: 768 * 4 },
+  'onnx-community/Qwen3-Embedding-0.6B-ONNX': {
+    queryPrefix: 'Represent this query for searching relevant passages: ',
+    maxChars: 1024 * 4,
+  },
+};
 
 /** @type {{
  *   manifest: object,
@@ -21,17 +36,26 @@ let embedLoadError = null;
  *   embeddingMap: Map<string, Float32Array>,
  *   embeddingsReady: boolean,
  *   vendors: object[],
+ *   embeddingModel: string,
  * } | null} */
 let indexState = null;
 
-async function ensureEmbedPipeline() {
+async function ensureEmbedPipeline(modelId) {
+  const wantedModel = modelId ?? indexState?.embeddingModel ?? 'Xenova/all-MiniLM-L6-v2';
+  // If a previous index loaded a different model, drop the pipeline.
+  if (embedPipeline && loadedModelId && loadedModelId !== wantedModel) {
+    embedPipeline = null;
+    loadedModelId = null;
+    embedLoadError = null;
+  }
   if (embedLoadError) throw embedLoadError;
   if (embedPipeline) return embedPipeline;
   try {
     const { pipeline, env } = await import('@xenova/transformers');
     env.allowLocalModels = false;
     env.useBrowserCache = true;
-    embedPipeline = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
+    embedPipeline = await pipeline('feature-extraction', wantedModel);
+    loadedModelId = wantedModel;
     return embedPipeline;
   } catch (err) {
     embedLoadError = err instanceof Error ? err : new Error(String(err));
@@ -42,7 +66,9 @@ async function ensureEmbedPipeline() {
 /** @param {string} text */
 async function embedQueryInWorker(text) {
   const pipe = await ensureEmbedPipeline();
-  const out = await pipe(text.slice(0, 512), { pooling: 'mean', normalize: true });
+  const profile = MODEL_PROFILES[loadedModelId] ?? MODEL_PROFILES['Xenova/all-MiniLM-L6-v2'];
+  const input = (profile.queryPrefix + text).slice(0, profile.maxChars);
+  const out = await pipe(input, { pooling: 'mean', normalize: true });
   return new Float32Array(out.data);
 }
 
@@ -56,18 +82,19 @@ function buildChunkBm25Index(chunks) {
   return index;
 }
 
-async function loadIndex() {
+async function loadIndex(payload = {}) {
+  const ragRoot = typeof payload?.ragRoot === 'string' && payload.ragRoot ? payload.ragRoot : '/rag';
   const [manifestRes, vendorsRes] = await Promise.all([
-    fetch('/rag/manifest.json'),
-    fetch('/rag/vendors.json'),
+    fetch(`${ragRoot}/manifest.json`),
+    fetch(`${ragRoot}/vendors.json`),
   ]);
 
   if (!manifestRes.ok) {
-    throw new Error('RAG static index missing — run `npm run rag`');
+    throw new Error(`RAG static index missing at ${ragRoot} — run the topic pipeline`);
   }
 
   const manifest = await manifestRes.json();
-  const chunks = await fetchRagChunkEntries(manifest);
+  const chunks = await fetchRagChunkEntries(manifest, { ragRoot });
   const vendorsData = vendorsRes.ok ? await vendorsRes.json() : { vendors: [] };
   const embeddingIndex = chunks[0]?.q
     ? loadEmbeddingIndex({ entries: chunks })
@@ -81,11 +108,13 @@ async function loadIndex() {
     embeddingMap: embeddingIndex.map,
     embeddingsReady: embeddingIndex.count > 0,
     vendors: vendorsData.vendors ?? [],
+    embeddingModel: manifest?.embeddingModel ?? 'Xenova/all-MiniLM-L6-v2',
   };
 
   return {
     manifest,
     embeddingsReady: indexState.embeddingsReady,
+    embeddingModel: indexState.embeddingModel,
     chunkCount: chunks.length,
     vendorCount: indexState.vendors.length,
   };
@@ -171,7 +200,7 @@ async function handleMessage(msg) {
     let result;
     switch (type) {
       case 'load-index':
-        result = await loadIndex();
+        result = await loadIndex(payload);
         break;
       case 'search-chunks':
         result = await searchChunks(/** @type {Parameters<typeof searchChunks>[0]} */ (payload));

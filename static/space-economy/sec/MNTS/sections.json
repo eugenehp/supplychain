@@ -1,0 +1,142 @@
+[
+  {
+    "id": "item_16",
+    "item": "16",
+    "title": "Form 10-K Summary",
+    "header": "Item 16. Form 10-K Summary",
+    "charStart": 6173,
+    "charEnd": 18333,
+    "length": 12160,
+    "type": "item"
+  },
+  {
+    "id": "item_1",
+    "item": "1",
+    "title": "Business",
+    "header": "Item 1. Business",
+    "charStart": 18333,
+    "charEnd": 51044,
+    "length": 32711,
+    "type": "item"
+  },
+  {
+    "id": "item_1a",
+    "item": "1A",
+    "title": "Risk Factors",
+    "header": "Item 1A. Risk Factors",
+    "charStart": 51044,
+    "charEnd": 177671,
+    "length": 126627,
+    "type": "item"
+  },
+  {
+    "id": "item_1c",
+    "item": "1C",
+    "title": "Cybersecurity",
+    "header": "Item 1C. Cybersecurity",
+    "charStart": 177712,
+    "charEnd": 180504,
+    "length": 2792,
+    "type": "item"
+  },
+  {
+    "id": "item_2",
+    "item": "2",
+    "title": "Properties",
+    "header": "Item 2. Properties",
+    "charStart": 180504,
+    "charEnd": 180957,
+    "length": 453,
+    "type": "item"
+  },
+  {
+    "id": "item_3",
+    "item": "3",
+    "title": "Legal Proceedings",
+    "header": "Item 3. Legal Proceedings",
+    "charStart": 180957,
+    "charEnd": 181800,
+    "length": 843,
+    "type": "item"
+  },
+  {
+    "id": "item_5",
+    "item": "5",
+    "title": "Market for Registrant's Common Equity",
+    "header": "Item 5. Market for Registrant's Common Equity",
+    "charStart": 181867,
+    "charEnd": 185704,
+    "length": 3837,
+    "type": "item"
+  },
+  {
+    "id": "item_7",
+    "item": "7",
+    "title": "Management's Discussion and Analysis",
+    "header": "Item 7. Management's Discussion and Analysis",
+    "charStart": 185739,
+    "charEnd": 224549,
+    "length": 38810,
+    "type": "item"
+  },
+  {
+    "id": "item_7a",
+    "item": "7A",
+    "title": "Quantitative and Qualitative Disclosures About Market Risk",
+    "header": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "charStart": 224549,
+    "charEnd": 225569,
+    "length": 1020,
+    "type": "item"
+  },
+  {
+    "id": "item_8",
+    "item": "8",
+    "title": "Financial Statements and Supplementary Data",
+    "header": "Item 8. Financial Statements and Supplementary Data",
+    "charStart": 225569,
+    "charEnd": 454446,
+    "length": 228877,
+    "type": "item"
+  },
+  {
+    "id": "item_9a",
+    "item": "9A",
+    "title": "Controls and Procedures",
+    "header": "Item 9A. Controls and Procedures",
+    "charStart": 454545,
+    "charEnd": 460712,
+    "length": 6167,
+    "type": "item"
+  },
+  {
+    "id": "item_10",
+    "item": "10",
+    "title": "Directors, Executive Officers and Corporate Governance",
+    "header": "Item 10. Directors, Executive Officers and Corporate Governance",
+    "charStart": 460871,
+    "charEnd": 462079,
+    "length": 1208,
+    "type": "item"
+  },
+  {
+    "id": "item_12",
+    "item": "12",
+    "title": "Security Ownership of Certain Beneficial Owners",
+    "header": "Item 12. Security Ownership of Certain Beneficial Owners",
+    "charStart": 462308,
+    "charEnd": 462676,
+    "length": 368,
+    "type": "item"
+  },
+  {
+    "id": "item_15",
+    "item": "15",
+    "title": "Exhibits and Financial Statement Schedules",
+    "header": "Item 15. Exhibits and Financial Statement Schedules",
+    "charStart": 463210,
+    "charEnd": 487222,
+    "length": 24012,
+    "type": "item"
+  }
+]

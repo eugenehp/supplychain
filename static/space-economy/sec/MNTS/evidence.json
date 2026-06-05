@@ -1,0 +1,3040 @@
+{
+  "ticker": "MNTS",
+  "topicId": "space-economy",
+  "count": 197,
+  "generatedAt": "2026-06-05T04:10:35.334Z",
+  "entries": [
+    {
+      "id": "MNTS-kw-0",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8399,
+      "excerpt": "…usiness plan; the ability of the Company to obtain licenses and government approvals for its missions, 3 Table of Contents which are essential to its operations; the ability of the Company to effectively market and sell satellites and satellite components; the ability to market and sell transport services and planned in-orbit services; the ability of the Company to protect its intellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology an…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8179,
+        "end": 8819
+      }
+    },
+    {
+      "id": "MNTS-kw-1",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8414,
+      "excerpt": "…he ability of the Company to obtain licenses and government approvals for its missions, 3 Table of Contents which are essential to its operations; the ability of the Company to effectively market and sell satellites and satellite components; the ability to market and sell transport services and planned in-orbit services; the ability of the Company to protect its intellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring S…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8194,
+        "end": 8834
+      }
+    },
+    {
+      "id": "MNTS-kw-2",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8424,
+      "excerpt": "…of the Company to obtain licenses and government approvals for its missions, 3 Table of Contents which are essential to its operations; the ability of the Company to effectively market and sell satellites and satellite components; the ability to market and sell transport services and planned in-orbit services; the ability of the Company to protect its intellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8206,
+        "end": 8905
+      }
+    },
+    {
+      "id": "MNTS-kw-3",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8637,
+      "excerpt": "…ellite components; the ability to market and sell transport services and planned in-orbit services; the ability of the Company to protect its intellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array; delays or impediments that the Company may face in the development, manufacture and deployment of next generation satellite transport systems; the ability of the Company to convert backlog or inbound inquiries i…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8417,
+        "end": 9057
+      }
+    },
+    {
+      "id": "MNTS-kw-4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8652,
+      "excerpt": "…ts; the ability to market and sell transport services and planned in-orbit services; the ability of the Company to protect its intellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array; delays or impediments that the Company may face in the development, manufacture and deployment of next generation satellite transport systems; the ability of the Company to convert backlog or inbound inquiries into revenue; ch…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8432,
+        "end": 9072
+      }
+    },
+    {
+      "id": "MNTS-kw-5",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8795,
+      "excerpt": "…perty and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array; delays or impediments that the Company may face in the development, manufacture and deployment of next generation satellite transport systems; the ability of the Company to convert backlog or inbound inquiries into revenue; changes in applicable laws or regulations and extensive and evolving government regulations that impact operations and business, including export…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8575,
+        "end": 9275
+      }
+    },
+    {
+      "id": "MNTS-kw-6",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8960,
+      "excerpt": "…nd validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array; delays or impediments that the Company may face in the development, manufacture and deployment of next generation satellite transport systems; the ability of the Company to convert backlog or inbound inquiries into revenue; changes in applicable laws or regulations and extensive and evolving government regulations that impact operations and business, including export control license requirements; the ability to attract or maintain a qualified workforce with the required security clearances and requisite skills; level of product…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 8741,
+        "end": 9380
+      }
+    },
+    {
+      "id": "MNTS-kw-7",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 9402,
+      "excerpt": "…ns and business, including export control license requirements; the ability to attract or maintain a qualified workforce with the required security clearances and requisite skills; level of product service or product or launch failures or delays that could lead customers to use competitors’ services; investigations, claims, disputes, enforcement actions, litigation and/or other regulatory or legal proceedings; the possibility that the Company may be adversely affected by other economic, business, and/or competitive factors; and/or other risks and uncertainties described under Item 1A: “ Risk Factors .” Should one or more of these ri…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 9182,
+        "end": 9822
+      }
+    },
+    {
+      "id": "MNTS-kw-8",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 10415,
+      "excerpt": "…able securities laws. These risks and others described under Item 1A: “ Risk Factors ” may not be exhaustive. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and developments in the industry in which we operate may differ materially from those made in or suggested by the forward-looking statements contained in this Annual Report on Form 10-K. Th…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 10196,
+        "end": 10836
+      }
+    },
+    {
+      "id": "MNTS-kw-9",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 11772,
+      "excerpt": "…rred significant losses in the past, we expect to incur losses in the future and we may not be able to achieve or maintain profitability. • We may not be able to continue as a going concern. • We have delivered customer satellites and payloads into orbit using our service vehicles, and setbacks experienced during our future missions could have a material adverse effect on our business, financial condition, and results of operation and could harm our reputation. • We may be unable to raise additional capital needed to execute our business plan. • Our business is subject to the policies, priorities, regulations, mandates and funding l…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 11552,
+        "end": 12192
+      }
+    },
+    {
+      "id": "MNTS-kw-10",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 11787,
+      "excerpt": "…t losses in the past, we expect to incur losses in the future and we may not be able to achieve or maintain profitability. • We may not be able to continue as a going concern. • We have delivered customer satellites and payloads into orbit using our service vehicles, and setbacks experienced during our future missions could have a material adverse effect on our business, financial condition, and results of operation and could harm our reputation. • We may be unable to raise additional capital needed to execute our business plan. • Our business is subject to the policies, priorities, regulations, mandates and funding levels of govern…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 11609,
+        "end": 12168
+      }
+    },
+    {
+      "id": "MNTS-kw-11",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 13460,
+      "excerpt": "…industry could negatively impact our ability to accurately forecast customer demand. We may not be able to achieve or maintain adequate gross margins or profits in these markets. • We may experience a total loss of our satellites and Orbital Service Vehicle and our customers’ payloads during the launch into space, and any insurance we have may not be adequate to cover our loss. • Our business involves significant risks and uncertainties that may not be covered by insurance. • If our spacecraft fail to operate as intended, it could have a material adverse effect on our business, financial condition, and results of operations. • Our…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13241,
+        "end": 13939
+      }
+    },
+    {
+      "id": "MNTS-kw-12",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 13518,
+      "excerpt": "…y forecast customer demand. We may not be able to achieve or maintain adequate gross margins or profits in these markets. • We may experience a total loss of our satellites and Orbital Service Vehicle and our customers’ payloads during the launch into space, and any insurance we have may not be adequate to cover our loss. • Our business involves significant risks and uncertainties that may not be covered by insurance. • If our spacecraft fail to operate as intended, it could have a material adverse effect on our business, financial condition, and results of operations. • Our revenue, results of operations and reputation may be negat…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13298,
+        "end": 13938
+      }
+    },
+    {
+      "id": "MNTS-kw-13",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 13538,
+      "excerpt": "…demand. We may not be able to achieve or maintain adequate gross margins or profits in these markets. • We may experience a total loss of our satellites and Orbital Service Vehicle and our customers’ payloads during the launch into space, and any insurance we have may not be adequate to cover our loss. • Our business involves significant risks and uncertainties that may not be covered by insurance. • If our spacecraft fail to operate as intended, it could have a material adverse effect on our business, financial condition, and results of operations. • Our revenue, results of operations and reputation may be negatively impacted if ou…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13318,
+        "end": 13958
+      }
+    },
+    {
+      "id": "MNTS-kw-14",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14061,
+      "excerpt": "…tion, and results of operations. • Our revenue, results of operations and reputation may be negatively impacted if our products contain defects or fail to operate in the expected manner. • We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense compe…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13841,
+        "end": 14481
+      }
+    },
+    {
+      "id": "MNTS-kw-15",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14083,
+      "excerpt": "…perations. • Our revenue, results of operations and reputation may be negatively impacted if our products contain defects or fail to operate in the expected manner. • We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense competition in satellite pr…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13863,
+        "end": 14503
+      }
+    },
+    {
+      "id": "MNTS-kw-16",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14130,
+      "excerpt": "…and reputation may be negatively impacted if our products contain defects or fail to operate in the expected manner. • We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense competition in satellite production, satellite transport, and related serv…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13912,
+        "end": 14551
+      }
+    },
+    {
+      "id": "MNTS-kw-17",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14182,
+      "excerpt": "…oducts contain defects or fail to operate in the expected manner. • We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense competition in satellite production, satellite transport, and related services and other services which we may develop in the…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 13962,
+        "end": 14661
+      }
+    },
+    {
+      "id": "MNTS-kw-18",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14227,
+      "excerpt": "…the expected manner. • We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense competition in satellite production, satellite transport, and related services and other services which we may develop in the space transportation industry. • If we fail t…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 14007,
+        "end": 14647
+      }
+    },
+    {
+      "id": "MNTS-kw-19",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14491,
+      "excerpt": "…rating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense competition in satellite production, satellite transport, and related services and other services which we may develop in the space transportation industry. • If we fail to adequately protect our intellectual property rights or our intellectual property applications for registration fail to become issued or registered, our competitive position could be impaired. • We may experience warranty claims for failures, schedule delays or o…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 14271,
+        "end": 14911
+      }
+    },
+    {
+      "id": "MNTS-kw-20",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14513,
+      "excerpt": "…such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production. • We expect to face intense competition in satellite production, satellite transport, and related services and other services which we may develop in the space transportation industry. • If we fail to adequately protect our intellectual property rights or our intellectual property applications for registration fail to become issued or registered, our competitive position could be impaired. • We may experience warranty claims for failures, schedule delays or other problems with exi…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 14294,
+        "end": 14933
+      }
+    },
+    {
+      "id": "MNTS-kw-21",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 17062,
+      "excerpt": "…government policy regarding use of commercial data or space infrastructure / mission providers, or material delay or cancellation of certain U.S. government programs, may have a material adverse effect on our customers, suppliers, revenues, operational delays, earnings and cash flow and our ability to achieve our growth objectives. • Contracts with the U.S. government subject us to risks including early termination, audits, investigations, sanctions, and penalties. 5 Table of Contents Risks Related to Ownership of our Class A Common Stock • If we fail to comply with the continued listing requirements of Nasdaq we face possible delis…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 16842,
+        "end": 17482
+      }
+    },
+    {
+      "id": "MNTS-kw-22",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18543,
+      "excerpt": "…ts PART I ITEM 1. Business Unless the context otherwise requires, all references in this section to the “Company,” “we,” “us,” or “our” refer to Momentus. Overview Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs o…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18323,
+        "end": 18963
+      }
+    },
+    {
+      "id": "MNTS-kw-23",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18555,
+      "excerpt": "…EM 1. Business Unless the context otherwise requires, all references in this section to the “Company,” “we,” “us,” or “our” refer to Momentus. Overview Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18335,
+        "end": 19035
+      }
+    },
+    {
+      "id": "MNTS-kw-24",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18582,
+      "excerpt": "…ontext otherwise requires, all references in this section to the “Company,” “we,” “us,” or “our” refer to Momentus. Overview Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers.…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18362,
+        "end": 19061
+      }
+    },
+    {
+      "id": "MNTS-kw-25",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18592,
+      "excerpt": "…erwise requires, all references in this section to the “Company,” “we,” “us,” or “our” refer to Momentus. Overview Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers. Corporate…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18372,
+        "end": 19071
+      }
+    },
+    {
+      "id": "MNTS-kw-26",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18681,
+      "excerpt": "…fer to Momentus. Overview Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers. Corporate History We were incorporated in the State of Delaware as Stable Road Acquisition Corp. on…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18461,
+        "end": 19161
+      }
+    },
+    {
+      "id": "MNTS-kw-27",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18745,
+      "excerpt": "…mpany that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers. Corporate History We were incorporated in the State of Delaware as Stable Road Acquisition Corp. on May 28, 2019. On August 12, 2021, Project Marvel First Merger S…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18525,
+        "end": 19165
+      }
+    },
+    {
+      "id": "MNTS-kw-28",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18880,
+      "excerpt": "…es, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers. Corporate History We were incorporated in the State of Delaware as Stable Road Acquisition Corp. on May 28, 2019. On August 12, 2021, Project Marvel First Merger Sub, Inc., a Delaware corporation and our wholly-owned merger sub (“First Merger Sub”) merged with and into Momentus Inc., a Delaware co…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18660,
+        "end": 19300
+      }
+    },
+    {
+      "id": "MNTS-kw-29",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18895,
+      "excerpt": "…osted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers. Corporate History We were incorporated in the State of Delaware as Stable Road Acquisition Corp. on May 28, 2019. On August 12, 2021, Project Marvel First Merger Sub, Inc., a Delaware corporation and our wholly-owned merger sub (“First Merger Sub”) merged with and into Momentus Inc., a Delaware corporation (“Leg…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 18675,
+        "end": 19315
+      }
+    },
+    {
+      "id": "MNTS-kw-30",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20259,
+      "excerpt": "…tively. On August 13, 2021, the Company’s Class A common stock and public warrants began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20039,
+        "end": 20739
+      }
+    },
+    {
+      "id": "MNTS-kw-31",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20271,
+      "excerpt": "…ugust 13, 2021, the Company’s Class A common stock and public warrants began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape Spring Sola…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20051,
+        "end": 20691
+      }
+    },
+    {
+      "id": "MNTS-kw-32",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20312,
+      "excerpt": "…mon stock and public warrants began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape Spring Solar Array (“TASSA”) that has the potential…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20092,
+        "end": 20791
+      }
+    },
+    {
+      "id": "MNTS-kw-33",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20322,
+      "excerpt": "…and public warrants began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape Spring Solar Array (“TASSA”) that has the potential to produce…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20102,
+        "end": 20802
+      }
+    },
+    {
+      "id": "MNTS-kw-34",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20338,
+      "excerpt": "…nts began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape Spring Solar Array (“TASSA”) that has the potential to produce power at substa…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20118,
+        "end": 20758
+      }
+    },
+    {
+      "id": "MNTS-kw-35",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20353,
+      "excerpt": "…ng on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape Spring Solar Array (“TASSA”) that has the potential to produce power at substantially lower c…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20133,
+        "end": 20773
+      }
+    },
+    {
+      "id": "MNTS-kw-36",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20434,
+      "excerpt": "…s and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the ability to accommodate a range of sensors, communications equipment, and other space instruments, low cost, and speed of delivery. We are developing an innovative Tape Spring Solar Array (“TASSA”) that has the potential to produce power at substantially lower cost than competing solar arrays. TASSA also has important advantages in its abili…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20214,
+        "end": 20854
+      }
+    },
+    {
+      "id": "MNTS-kw-37",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20971,
+      "excerpt": "…substantially lower cost than competing solar arrays. TASSA also has important advantages in its ability to be deployed and retracted to protect the array from in-space collisions with debris and to easily maneuver the satellite to different locations or adjust its characteristics. Over the past several years, Momentus has developed other innovative technologies, such as our Microwave Electrothermal Thruster (“MET”) that uses water as a propellant, designed to efficiently accomplish missions such as transportation of customer payloads and small satellites to custom orbits. The MET’s water propellant is safe, environmentally-friendl…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 20752,
+        "end": 21391
+      }
+    },
+    {
+      "id": "MNTS-kw-38",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21284,
+      "excerpt": "…Momentus has developed other innovative technologies, such as our Microwave Electrothermal Thruster (“MET”) that uses water as a propellant, designed to efficiently accomplish missions such as transportation of customer payloads and small satellites to custom orbits. The MET’s water propellant is safe, environmentally-friendly, and easy to transport and handle, in contrast to the highly-toxic and difficult to handle propellants commonly used in the space industry. The MET has high specific impulse, or ISP, which is a measure of efficiency, making it well-suited for transportation missions with significantly higher thrust than missio…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 21064,
+        "end": 21704
+      }
+    },
+    {
+      "id": "MNTS-kw-39",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21303,
+      "excerpt": "…ped other innovative technologies, such as our Microwave Electrothermal Thruster (“MET”) that uses water as a propellant, designed to efficiently accomplish missions such as transportation of customer payloads and small satellites to custom orbits. The MET’s water propellant is safe, environmentally-friendly, and easy to transport and handle, in contrast to the highly-toxic and difficult to handle propellants commonly used in the space industry. The MET has high specific impulse, or ISP, which is a measure of efficiency, making it well-suited for transportation missions with significantly higher thrust than missions more suitable fo…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 21083,
+        "end": 21723
+      }
+    },
+    {
+      "id": "MNTS-kw-40",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21745,
+      "excerpt": "…dustry. The MET has high specific impulse, or ISP, which is a measure of efficiency, making it well-suited for transportation missions with significantly higher thrust than missions more suitable for low thrust electric propulsion. The MET has been successfully demonstrated on orbit and we have matured this technology to Technology Readiness Level 9, the highest level, with hundreds of successful firings in space during our missions. We have designed our satellite buses and Orbital Service Vehicles to use this innovative technology, while also implementing a modular design that enables Momentus to incorporate high-thrust chemical th…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 21526,
+        "end": 22166
+      }
+    },
+    {
+      "id": "MNTS-kw-41",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21984,
+      "excerpt": "…has been successfully demonstrated on orbit and we have matured this technology to Technology Readiness Level 9, the highest level, with hundreds of successful firings in space during our missions. We have designed our satellite buses and Orbital Service Vehicles to use this innovative technology, while also implementing a modular design that enables Momentus to incorporate high-thrust chemical thrusters or electric thrusters instead of the MET for missions with different requirements. We provide or plan to provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit insp…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 21765,
+        "end": 22404
+      }
+    },
+    {
+      "id": "MNTS-kw-42",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22318,
+      "excerpt": "…design that enables Momentus to incorporate high-thrust chemical thrusters or electric thrusters instead of the MET for missions with different requirements. We provide or plan to provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22098,
+        "end": 22797
+      }
+    },
+    {
+      "id": "MNTS-kw-43",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22344,
+      "excerpt": "…us to incorporate high-thrust chemical thrusters or electric thrusters instead of the MET for missions with different requirements. We provide or plan to provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when utilizing our MET with wat…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22124,
+        "end": 22764
+      }
+    },
+    {
+      "id": "MNTS-kw-44",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22370,
+      "excerpt": "…ust chemical thrusters or electric thrusters instead of the MET for missions with different requirements. We provide or plan to provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when utilizing our MET with water as a propellant. We pla…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22150,
+        "end": 22790
+      }
+    },
+    {
+      "id": "MNTS-kw-45",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22421,
+      "excerpt": "…d of the MET for missions with different requirements. We provide or plan to provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when utilizing our MET with water as a propellant. We plan to provide these services with Orbital Service Ve…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22201,
+        "end": 22841
+      }
+    },
+    {
+      "id": "MNTS-kw-46",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22483,
+      "excerpt": "…ide or plan to provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when utilizing our MET with water as a propellant. We plan to provide these services with Orbital Service Vehicles (“OSVs”) that we design and manufacture. While we plan…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22264,
+        "end": 22903
+      }
+    },
+    {
+      "id": "MNTS-kw-47",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22496,
+      "excerpt": "…o provide services, including “last mile” satellite transportation, payload‑hosting, on-orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when utilizing our MET with water as a propellant. We plan to provide these services with Orbital Service Vehicles (“OSVs”) that we design and manufacture. While we plan to eventually…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22837,
+        "end": 22917
+      }
+    },
+    {
+      "id": "MNTS-kw-48",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22603,
+      "excerpt": "…ueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris removal, and other satellite‑to-satellite service offerings. We believe our planned service offerings will increase deployment options for satellite operators and lower their operating costs relative to traditional approaches while also minimizing environmental impact when utilizing our MET with water as a propellant. We plan to provide these services with Orbital Service Vehicles (“OSVs”) that we design and manufacture. While we plan to eventually operate a family of progressively larger and more capable OSVs, we are currently focused on 7 Table of Con…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 22383,
+        "end": 23023
+      }
+    },
+    {
+      "id": "MNTS-kw-49",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 23482,
+      "excerpt": "…e has the ability to deliver fast, versatile, and cost-effective transportation and infrastructure services to our customers. We conducted our inaugural test and demonstration mission with Vigoride in 2022. Momentus has launched four missions to date, deployed 17 customer satellites, and provided hosted payload services. Three of these missions involved operation of the Vigoride OSV in orbit. During these three Vigoride missions, the system and technology were tested repeatedly. Improvements based on lessons learned during these missions were rapidly incorporated. As a result of these three missions, the Vigoride OSV has been succes…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 23262,
+        "end": 23902
+      }
+    },
+    {
+      "id": "MNTS-kw-50",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 23535,
+      "excerpt": "…t-effective transportation and infrastructure services to our customers. We conducted our inaugural test and demonstration mission with Vigoride in 2022. Momentus has launched four missions to date, deployed 17 customer satellites, and provided hosted payload services. Three of these missions involved operation of the Vigoride OSV in orbit. During these three Vigoride missions, the system and technology were tested repeatedly. Improvements based on lessons learned during these missions were rapidly incorporated. As a result of these three missions, the Vigoride OSV has been successfully demonstrated in space and accumulated signific…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 23315,
+        "end": 23955
+      }
+    },
+    {
+      "id": "MNTS-kw-51",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 23567,
+      "excerpt": "…nfrastructure services to our customers. We conducted our inaugural test and demonstration mission with Vigoride in 2022. Momentus has launched four missions to date, deployed 17 customer satellites, and provided hosted payload services. Three of these missions involved operation of the Vigoride OSV in orbit. During these three Vigoride missions, the system and technology were tested repeatedly. Improvements based on lessons learned during these missions were rapidly incorporated. As a result of these three missions, the Vigoride OSV has been successfully demonstrated in space and accumulated significant flight heritage. Our transpo…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 23347,
+        "end": 23987
+      }
+    },
+    {
+      "id": "MNTS-kw-52",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24049,
+      "excerpt": "…ed. As a result of these three missions, the Vigoride OSV has been successfully demonstrated in space and accumulated significant flight heritage. Our transportation service offering focuses on delivering our customers’ satellites to precision orbits. To accomplish this, we partner with leading launch service providers, such as SpaceX, to “ride share” our customer’s satellites from Earth to space on a midsized or large rocket. Customer satellites can also be carried aboard small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit o…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 23829,
+        "end": 24469
+      }
+    },
+    {
+      "id": "MNTS-kw-53",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24125,
+      "excerpt": "…lly demonstrated in space and accumulated significant flight heritage. Our transportation service offering focuses on delivering our customers’ satellites to precision orbits. To accomplish this, we partner with leading launch service providers, such as SpaceX, to “ride share” our customer’s satellites from Earth to space on a midsized or large rocket. Customer satellites can also be carried aboard small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit of the satellite operator’s choosing. We believe this “hub‑and‑spoke” model h…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 23905,
+        "end": 24545
+      }
+    },
+    {
+      "id": "MNTS-kw-54",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24198,
+      "excerpt": "…r transportation service offering focuses on delivering our customers’ satellites to precision orbits. To accomplish this, we partner with leading launch service providers, such as SpaceX, to “ride share” our customer’s satellites from Earth to space on a midsized or large rocket. Customer satellites can also be carried aboard small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit of the satellite operator’s choosing. We believe this “hub‑and‑spoke” model has the potential to expand our customers’ deployment options relative to…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 23978,
+        "end": 24677
+      }
+    },
+    {
+      "id": "MNTS-kw-55",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24269,
+      "excerpt": "…satellites to precision orbits. To accomplish this, we partner with leading launch service providers, such as SpaceX, to “ride share” our customer’s satellites from Earth to space on a midsized or large rocket. Customer satellites can also be carried aboard small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit of the satellite operator’s choosing. We believe this “hub‑and‑spoke” model has the potential to expand our customers’ deployment options relative to what they would be able to achieve with ride share launch alone, while…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 24049,
+        "end": 24748
+      }
+    },
+    {
+      "id": "MNTS-kw-56",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24313,
+      "excerpt": "…h this, we partner with leading launch service providers, such as SpaceX, to “ride share” our customer’s satellites from Earth to space on a midsized or large rocket. Customer satellites can also be carried aboard small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit of the satellite operator’s choosing. We believe this “hub‑and‑spoke” model has the potential to expand our customers’ deployment options relative to what they would be able to achieve with ride share launch alone, while reducing their costs relative to what they c…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 24093,
+        "end": 24733
+      }
+    },
+    {
+      "id": "MNTS-kw-57",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24475,
+      "excerpt": "…ket. Customer satellites can also be carried aboard small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit of the satellite operator’s choosing. We believe this “hub‑and‑spoke” model has the potential to expand our customers’ deployment options relative to what they would be able to achieve with ride share launch alone, while reducing their costs relative to what they could achieve with a dedicated small launch vehicle. Our OSVs are currently expendable, meaning they are used to perform services before they de-orbit themselves u…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 24255,
+        "end": 24895
+      }
+    },
+    {
+      "id": "MNTS-kw-58",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24669,
+      "excerpt": "…to a custom orbit of the satellite operator’s choosing. We believe this “hub‑and‑spoke” model has the potential to expand our customers’ deployment options relative to what they would be able to achieve with ride share launch alone, while reducing their costs relative to what they could achieve with a dedicated small launch vehicle. Our OSVs are currently expendable, meaning they are used to perform services before they de-orbit themselves upon completion of their mission. However, our goal is to eventually make our OSVs reusable, or capable of remaining in space to conduct follow-on missions, which has the potential to lower our c…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 24450,
+        "end": 25089
+      }
+    },
+    {
+      "id": "MNTS-kw-59",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24769,
+      "excerpt": "…he potential to expand our customers’ deployment options relative to what they would be able to achieve with ride share launch alone, while reducing their costs relative to what they could achieve with a dedicated small launch vehicle. Our OSVs are currently expendable, meaning they are used to perform services before they de-orbit themselves upon completion of their mission. However, our goal is to eventually make our OSVs reusable, or capable of remaining in space to conduct follow-on missions, which has the potential to lower our cost of delivering services to our customers. To achieve reusability, we need to develop additional t…",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "keyword",
+      "range": {
+        "start": 24549,
+        "end": 25189
+      }
+    },
+    {
+      "id": "3de005d4d4797438",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 1440,
+      "excerpt": "orm 10-K are based on our current expectations and beliefs concerning future developments and their potential effects on us. Future developments affecting us may not be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) and other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncerta",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 7560,
+        "end": 8060
+      }
+    },
+    {
+      "id": "e417f7093190ee31",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 2440,
+      "excerpt": "ntellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array; delays or impediments that the Company may face in the development, manufacture and deployment of next generation satellite transport systems; the ability of the Company to convert backlog or inbound inquiries into",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 8560,
+        "end": 9120
+      }
+    },
+    {
+      "id": "f8d4a176affa8ae5",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 3440,
+      "excerpt": "er regulatory or legal proceedings; the possibility that the Company may be adversely affected by other economic, business, and/or competitive factors; and/or other risks and uncertainties described under Item 1A: “ Risk Factors .” Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We undertake no obligation to update or revise any",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 9560,
+        "end": 10119
+      }
+    },
+    {
+      "id": "f810ae097e78d356",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 4159,
+      "excerpt": "” may not be exhaustive. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and developments in the industry in which we operate may differ materially from those made in or suggested by the forward-looking stat",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 10280,
+        "end": 10780
+      }
+    },
+    {
+      "id": "6a50e302bdbbe3cb",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 4959,
+      "excerpt": "e are consistent with the forward-looking statements contained in this Annual Report on Form 10-K, those results or developments may not be indicative of results or developments in subsequent periods. Summary of Risk Factors Risks Related to the Business and Industry of Momentus • We will require substantial additional funding to finance our operations but adequate additional financing may not be available when we need it, on acceptable terms, or at all. • We have incurred significant losses in",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 11079,
+        "end": 11638
+      }
+    },
+    {
+      "id": "059d08c30316a296",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 6634,
+      "excerpt": "r spaceflight and in-space infrastructure services has not been established with precision, and may grow more slowly than expected. • We may not be able to convert our customer contracts into revenue. • Our future revenue and operating results are dependent on our ability to generate a sustainable order rate for our products and services and develop new technologies to meet the needs of our customers or potential new customers. 4 Table of Contents • The cyclical nature of the space industry coul",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 12754,
+        "end": 13254
+      }
+    },
+    {
+      "id": "2964c8cafbdfbc71",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 7553,
+      "excerpt": "tainties that may not be covered by insurance. • If our spacecraft fail to operate as intended, it could have a material adverse effect on our business, financial condition, and results of operations. • Our revenue, results of operations and reputation may be negatively impacted if our products contain defects or fail to operate in the expected manner. • We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain su",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 13673,
+        "end": 14173
+      }
+    },
+    {
+      "id": "3ed6f47526d4a0b7",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 10503,
+      "excerpt": "s subject to a wide variety of additional extensive and evolving government laws and regulations. Failure to comply with such laws and regulations could have a material adverse effect on our business. • Changes in U.S. government policy regarding use of commercial data or space infrastructure / mission providers, or material delay or cancellation of certain U.S. government programs, may have a material adverse effect on our customers, suppliers, revenues, operational delays, earnings and cash fl",
+      "sectionId": "item_15_exhibits_financial_statement_sch",
+      "sectionHeader": "Item 15. Exhibits, Financial Statement Schedules 112 Item 16. Form 10-K Summary 118 Signat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 16623,
+        "end": 17123
+      }
+    },
+    {
+      "id": "c4a1ae480ee3b5d5",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 1. Business Unless the context otherwise requires, all references in this section to the “Company,” “we,” “us,” or “our” refer to Momentus. Overview Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal c",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 18333,
+        "end": 18833
+      }
+    },
+    {
+      "id": "c44bc5d2202f02d6",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 1513,
+      "excerpt": "ts name to Momentus Space, LLC. Prior to the Business Combination, our units, public shares, and public warrants were listed on the Nasdaq under the symbols “SRACU,” “SRAC,” and “SRACW,” respectively. On August 13, 2021, the Company’s Class A common stock and public warrants began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively. Our Products and Services We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellit",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 19846,
+        "end": 20346
+      }
+    },
+    {
+      "id": "d6b51273cad2356d",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 2501,
+      "excerpt": "antages in its ability to be deployed and retracted to protect the array from in-space collisions with debris and to easily maneuver the satellite to different locations or adjust its characteristics. Over the past several years, Momentus has developed other innovative technologies, such as our Microwave Electrothermal Thruster (“MET”) that uses water as a propellant, designed to efficiently accomplish missions such as transportation of customer payloads and small satellites to custom orbits. Th",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 20834,
+        "end": 21334
+      }
+    },
+    {
+      "id": "b4414cff8254b4b8",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 3429,
+      "excerpt": "ET has been successfully demonstrated on orbit and we have matured this technology to Technology Readiness Level 9, the highest level, with hundreds of successful firings in space during our missions. We have designed our satellite buses and Orbital Service Vehicles to use this innovative technology, while also implementing a modular design that enables Momentus to incorporate high-thrust chemical thrusters or electric thrusters instead of the MET for missions with different requirements. We pro",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 21762,
+        "end": 22262
+      }
+    },
+    {
+      "id": "937112a3e51d00d4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 4355,
+      "excerpt": "s while also minimizing environmental impact when utilizing our MET with water as a propellant. We plan to provide these services with Orbital Service Vehicles (“OSVs”) that we design and manufacture. While we plan to eventually operate a family of progressively larger and more capable OSVs, we are currently focused on 7 Table of Contents Vigoride, which was originally designed to operate in low-Earth orbit (“LEO”), but is undergoing enhancements designed to allow it to operate in Geostationary-",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 22688,
+        "end": 23188
+      }
+    },
+    {
+      "id": "edf56a3e62229f5f",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 5299,
+      "excerpt": "he Vigoride OSV in orbit. During these three Vigoride missions, the system and technology were tested repeatedly. Improvements based on lessons learned during these missions were rapidly incorporated. As a result of these three missions, the Vigoride OSV has been successfully demonstrated in space and accumulated significant flight heritage. Our transportation service offering focuses on delivering our customers’ satellites to precision orbits. To accomplish this, we partner with leading launch",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 23632,
+        "end": 24191
+      }
+    },
+    {
+      "id": "fc71eb620ea8703b",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 6251,
+      "excerpt": "s’ deployment options relative to what they would be able to achieve with ride share launch alone, while reducing their costs relative to what they could achieve with a dedicated small launch vehicle. Our OSVs are currently expendable, meaning they are used to perform services before they de-orbit themselves upon completion of their mission. However, our goal is to eventually make our OSVs reusable, or capable of remaining in space to conduct follow-on missions, which has the potential to lower",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 24584,
+        "end": 25143
+      }
+    },
+    {
+      "id": "c2aaaeb0db1a72c8",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 7233,
+      "excerpt": "the U.S. Air Force Research Labs SpaceWERX organization—which is the innovation arm of the U.S. Space Force—awarded Momentus a Direct to Phase II Small Business Innovation Research (“SBIR”) contract. The award supports the in-space flight demonstration of a novel, low-cost multi-spectral sensor suite for RPO, scheduled for early 2026. We are also offering variants of our Vigoride OSV to government and commercial customers as a traditional bus manufacturer and satellite prime contractor. Vigoride",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 25567,
+        "end": 26067
+      }
+    },
+    {
+      "id": "3f6124e626a3c3e2",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8083,
+      "excerpt": "mercial needs such as communications, tracking of missiles, remote sensing, and space domain awareness. There is a growing need for such capabilities for defense, government, and commercial customers. Momentus is offering high-volume production of buses, based on Vigoride’s technologies, for hosted payloads by integrating customer’s unique payloads for a variety of missions and for customer-owned satellites for use in constellations. A hosted payload is a module attached to a satellite that can",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 26416,
+        "end": 26975
+      }
+    },
+    {
+      "id": "be5c97fe8748d145",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8902,
+      "excerpt": "t of building and launching an entire satellite. Using a hosted payload on a commercial satellite can reduce both the expense and time required to get communications and other technologies into space. Our Vigoride OSVs are intended to provide safe, affordable, reliable, and regular in-space services to our customers, including space transportation, payload hosting, and in-orbit servicing. We designed our Vigoride vehicle to deliver small customer payloads anywhere in LEO. However, we also plan t",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 27235,
+        "end": 27735
+      }
+    },
+    {
+      "id": "39589ff75ba09058",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 9816,
+      "excerpt": "of missiles, remote sensing, and space domain awareness. Technologies used to support the Hosted Payload market are directly applicable to offering customer-owned satellites for use in constellations. 8 Table of Contents • Satellite Technologies: Momentus is developing and plans to offer satellite technologies such as our Tape Spring Solar Array, 3D printed propulsion tanks, and other components used on the Vigoride OSV. These technologies and components have been flown in space, or are schedule",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 28149,
+        "end": 28649
+      }
+    },
+    {
+      "id": "59f1b3e66392d46a",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 10782,
+      "excerpt": "hen ship our vehicle, holding the customer payload, to the launch site, where it would be integrated onto the launch vehicle. The launch vehicle would then transport our vehicle to the drop-off orbit. After separation from the launch vehicle, our OSV would transport our customers’ payloads to their chosen final orbit. We believe our transportation service has the potential to expand our customers’ deployment options relative to what they could achieve with ride share launch alone, while reducing",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 29115,
+        "end": 29675
+      }
+    },
+    {
+      "id": "65965bfd1b6f0856",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 11726,
+      "excerpt": "ish to operate technologies such as solar collection and energy transmission systems in space without the expense of developing a full system that includes the satellite bus hosting these instruments. Momentus’ hosted payload service allows customers to operate, test, and validate the performance of the technology or system in space at lower cost and less complexity. Momentus’ service offers the ability to manage the integration and operation of these payloads in space. Additionally, Momentus is",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 30059,
+        "end": 30619
+      }
+    },
+    {
+      "id": "3e0a5326ff1fa31e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 12720,
+      "excerpt": "e capabilities could allow us to offer a suite of different in-orbit services, such as inspection, refueling, life extension, re-positioning, salvage missions, maintenance and repair, and de-orbiting. • Satellite Bus: Technologies used to support the hosted payload market are directly applicable to offering customer-owned satellite buses for use in constellations. Momentus is offering high-volume production of low-cost buses, based on Vigoride’s technologies, and integrating customers’ unique pa",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 31053,
+        "end": 31553
+      }
+    },
+    {
+      "id": "fac2090b90a19db7",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 13677,
+      "excerpt": "ller, lower-cost satellites. This convergence of trends has led to increased access to space, new market entrants and accelerated growth in the number of commercial satellites being placed into orbit. We anticipate considerable growth over the coming years in demand for small satellites and satellite buses. We also anticipate that the space transportation segment will grow as companies continue to seek versatile and low-cost ways to deliver single satellites to specific orbits or deploy their sa",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 32010,
+        "end": 32510
+      }
+    },
+    {
+      "id": "568b4819bdf31f2c",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14625,
+      "excerpt": "gy in space, space manufacturing or space data processing. The advent of these new business models could substantially increase demand for space transportation and other space infrastructure services. Beyond transportation, we anticipate that growth of the satellite constellations market may drive demand for our satellites, satellites buses, and technologies like solar arrays, hosted payload, on‑orbit satellite refueling, on-orbit inspection, on-orbit satellite maintenance, de-orbiting, debris r",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 32958,
+        "end": 33458
+      }
+    },
+    {
+      "id": "19d15f0f2ab99716",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 15290,
+      "excerpt": "able of Contents technology in space. Satellite constellations have relatively low lifespans and, in our view, will require maintenance, de‑orbiting, and other general servicing with higher frequency. We believe our ability to compete successfully as a commercial provider of space transportation, communication, and infrastructure services will depend on several factors including our ability to fully develop, test and validate our technology in space, our ability to establish and maintain a lead",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 33623,
+        "end": 34182
+      }
+    },
+    {
+      "id": "6ad49fca3ec508ce",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 16077,
+      "excerpt": "n and realize the following competitive advantages. We believe that our team’s collective expertise, coupled with the following strengths, will allow us to build our business and compete successfully. • Focus on leveraging common technologies through modular vehicles: Momentus is applying technologies developed on Vigoride to offer both in-space services and traditional satellite production and bus manufacturing to customers. We believe that this approach will allow us to compete across multiple",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 34410,
+        "end": 34970
+      }
+    },
+    {
+      "id": "bd0c40632a7b7433",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 17061,
+      "excerpt": "pace, and we have designed our vehicles and services to incorporate this technology. We have also developed technologies related to space infrastructure system architectures and low-cost solar arrays. We are in the process of creating a patent portfolio and, as of December 31, 2025, we had eight issued patents, four non‑U.S. issued patents, and applications for one additional patent family relating to our water plasma propulsion and other technologies. • Compatibility across launch providers: We",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 35394,
+        "end": 35954
+      }
+    },
+    {
+      "id": "3cbcae1b79023198",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 17996,
+      "excerpt": "s: We have relationships with several launch providers including SpaceX, Relativity Space, Blue Origin, United Launch Alliance (ULA), Rocket Factory Augsburg (RFA), and several other rocket providers. We believe our relationship and launch agreement with SpaceX will help us maximize the flexibility, economics, and optionality we can offer our customers. Additionally, as an aggregator of payloads, we believe we will be able to continue to service customers from around the world who might not othe",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 36329,
+        "end": 36829
+      }
+    },
+    {
+      "id": "531e627b5a2d2fb7",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18750,
+      "excerpt": "thers. Our efficient vertical integration allows for significant cooperation and interactivity between teams. Intellectual Property Below is a summary of our key intellectual property: U.S. Patent No. (Application No.) Expiration Date Title Description 11,414,219 (16/773,880) 10/23/2040 Space Mission Energy Management Architecture A solar-powered propulsion system with a solar concentrator attached to a pivot, capable of powering at least two different thrusters operating according to different",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 37083,
+        "end": 37642
+      }
+    },
+    {
+      "id": "cc00c6545b44b3bc",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 19528,
+      "excerpt": "ntial flow. 11,585,331 (17/163,049) 5/11/2040 Pierced Waveguide Thruster An MET thruster with a waveguide for supplying microwave energy to the propellant chamber. 10 Table of Contents U.S. Patent No. (Application No.) Expiration Date Title Description 11,527,387 (17/163,537) 6/1/2040 Spacecraft Propulsion Devices and Systems with Microwave Excitation A multi-mode thruster system with both MET and chemical propulsion modes of operation. 11,352,150 (16/773,920) 1/27/2040 Spacecraft Structure Conf",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 37861,
+        "end": 38361
+      }
+    },
+    {
+      "id": "9bd71728f9c63b73",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20418,
+      "excerpt": ",381,310 (16/951,191) 11/18/2040 Combined Communication and Ranging Functionality on a Spacecraft A multi-beam laser module that concurrently supports both ground communication and ranging operations. 11,936,335 (17/390,790) 7/30/2041 Rollable Tape Spring Solar Array A rollable solar array panel with a spacer layer and drive mechanism that facilitates uncoiling. n/a (18/508,738) n/a Systems and Methods for Maintenance of a Spacecraft Constellation A spacecraft constellation maintenance system in",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 38751,
+        "end": 39311
+      }
+    },
+    {
+      "id": "46aa20551ae71f9c",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21216,
+      "excerpt": "pellant into the resonant cavity with rotating circumferential flow, and an annular structure that extends into the resonant cavity along the thrust axis (e.g., to improve vorticity). Spain Patent No. 3938653 (20735251.9) (country-specific validation of EP patent above) 3/12/2040 Spacecraft Propulsion Devices and Systems with Microwave Excitation An MET thruster with an injector that injects propellant into the resonant cavity with rotating circumferential flow, and an annular structure that ext",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 39549,
+        "end": 40049
+      }
+    },
+    {
+      "id": "8de2af12840eba02",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22007,
+      "excerpt": "ropellant into the resonant cavity with rotating circumferential flow, and an annular structure that extends into the resonant cavity along the thrust axis (e.g., to improve vorticity). UPC Patent No. 3938653 (20735251.9) (unitary European patent based on EP patent above) 3/12/2040 Spacecraft Propulsion Devices and Systems with Microwave Excitation An MET thruster with an injector that injects propellant into the resonant cavity with rotating circumferential flow, and an annular structure that e",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 40340,
+        "end": 40840
+      }
+    },
+    {
+      "id": "9eb3ab3cf4884e3e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22870,
+      "excerpt": "quirements. Federal Communications Commission The regulations, policies, and guidance issued by the Federal Communications Commission (the “FCC”) apply to the operation of our satellites and vehicles. When we communicate with our satellites and vehicles using any part of the electromagnetic spectrum, we are operating a space station to which FCC regulations apply. Operators of regulated space stations are required to hold and maintain compliance with proper licenses, and the specific conditions",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 41203,
+        "end": 41762
+      }
+    },
+    {
+      "id": "5feaebf1ebdee8c3",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 23845,
+      "excerpt": "et of FCC licensing guidelines for small satellites and related systems that applied to Momentus spacecraft, we applied for and in November 2022 were granted an FCC license for the Vigoride 5 mission. We applied for and in February 2023 were granted an FCC license for the Vigoride 6 mission. Momentus applied for an FCC license for the Vigoride 7 mission planned for the first half of 2026, which was granted by the FCC on January 30, 2026. The FCC continues to consider additional rules which, amon",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 42178,
+        "end": 42678
+      }
+    },
+    {
+      "id": "c72ee87b2a8da65d",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 25655,
+      "excerpt": "t of the licensing process with the aim of obtaining a permanent license prior to the RPO Demonstration. For future missions we will apply for any required NOAA authorizations on a case-by-case basis. Federal Aviation Administration As a participant in launch activities, we are indirectly subject to the license requirements of the Federal Aviation Administration’s (the “FAA”) Office of Commercial Space Transportation (the “AST”). The FAA regulates the airspace of the United States, through which",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 43988,
+        "end": 44548
+      }
+    },
+    {
+      "id": "965f16480416a08e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 30327,
+      "excerpt": "licenses described above in this section for our future missions. Even though Momentus entered into and implemented the National Security Agreement (“NSA”) which is described below and which the U.S. government subsequently ended, there is no guarantee that the FAA and other U.S. government agencies will continue to grant the necessary authorizations. Human Capital People are our most important asset. Since its inception, Momentus has sought to recruit creative, positive people with a diverse se",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 48661,
+        "end": 49161
+      }
+    },
+    {
+      "id": "0534836a4475a8df",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 31322,
+      "excerpt": "r positions working for leading defense primes, satellite manufacturers, other commercial and military aerospace companies, and government agencies. As of March 15, 2026, the Company had 35 employees. Available Information We are subject to the informational requirements of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and file or furnish reports, proxy statements, and other information with the SEC. You can read our SEC filings over the Internet at the SEC’s website at ww",
+      "sectionId": "item_1_business_unless_the_context_other",
+      "sectionHeader": "ITEM 1. Business Unless the context otherwise requires, all references in this section to",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 49655,
+        "end": 50155
+      }
+    },
+    {
+      "id": "7e1b482c2845a897",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 3679,
+      "excerpt": "might result if the Company is unable to continue as a going concern. The Company’s ability to continue as a going concern is dependent on the Company’s ability to generate revenues and raise capital. To date, the Company has not generated sufficient revenues to provide cash flows that enable the Company to finance its operations. Management has concluded that its mitigation plans alleviate the substantial doubt about the Company’s ability to continue as a going concern for at least one year fro",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 54723,
+        "end": 55223
+      }
+    },
+    {
+      "id": "91da86cebf337000",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 4602,
+      "excerpt": "s since 2022, however setbacks experienced during our future missions could have a material adverse effect on our business, financial condition, and results of operation and could harm our reputation. The success of our business depends on our ability to successfully and regularly deliver customer satellites and payloads to custom orbits. Our initial mission, Vigoride 3, in May 2022 was a hybrid commercial-demonstration mission on which our vehicle was scheduled to deliver paying customers’ sate",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 55646,
+        "end": 56146
+      }
+    },
+    {
+      "id": "07afc6785f59b608",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 5448,
+      "excerpt": "with and control the vehicle. After that time, the Vigoride 3 deployed five additional customer satellites, but we have been unable to confirm the deployment of the remaining two customer satellites. These issues also prevented Vigoride 3 from performing orbit change maneuvers and technology demonstrations that were part of our program to validate our technology in space and to demonstrate end-to-end in-space transfer and service operations. We used the Vigoride 5 and Vigoride 6 missions to cond",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 56493,
+        "end": 56993
+      }
+    },
+    {
+      "id": "7fd0532821b1fbfa",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8967,
+      "excerpt": "business, may result in civil penalties or private lawsuits, or the suspension or revocation of licenses, certificates, authorizations, or permits, which would prevent us from operating our business. For example, the operation and launch of our spacecraft in the United States require licenses and permits from the FCC, the FAA, the NOAA, as well as review by other agencies of the U.S. government, including the U.S. Department of Defense, U.S. Department of State, and NASA. Such license approvals",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 60012,
+        "end": 60571
+      }
+    },
+    {
+      "id": "789090442190e945",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 9951,
+      "excerpt": "ess in a timely manner. Moreover, there is no guarantee that the FCC, the FAA and other U.S. government agencies will grant the necessary authorizations to operate our spaceflight business as planned. If 15 Table of Contents we do not receive these approvals in a timely manner, our financial condition, results of operations, backlog and prospects will be materially adversely affected. We are dependent on the successful development of our satellite and related technology. Our current primary rese",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 60995,
+        "end": 61495
+      }
+    },
+    {
+      "id": "bc3b82423395ab1e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 10602,
+      "excerpt": "isting and future OSVs and related technology. If we do not complete development of these vehicles in our anticipated timeframes or at all, our ability to grow our business will be adversely affected. The successful development of our vehicles and related technology involves many uncertainties, some of which are beyond our control, including, but not limited to: • timing in finalizing satellite and Orbital Service Vehicle design and specifications; • successful completion of test programs and de",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 61646,
+        "end": 62146
+      }
+    },
+    {
+      "id": "8be3b2830a99e6a9",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 11602,
+      "excerpt": "vals, licenses or certifications; • our ability to secure slots on our launch providers’ manifests; • performance of our manufacturing facility despite risks that disrupt productions, such as natural disasters; • performance of a limited number of suppliers for certain raw materials and supplied components and their willingness to do business with us; • performance of our third-party contractors that support our research and development activities; • our ability to protect our intellectual prope",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 62646,
+        "end": 63146
+      }
+    },
+    {
+      "id": "27f9b3118e495417",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 13446,
+      "excerpt": "s to have to reduce our prices. Many of our competitors are larger and have substantially greater resources than we have. We may also face competition in the future from emerging low-cost competitors. Competition in the rocket launch, satellite and satellite component businesses is highly diverse, and while our competitors offer different products and services, there is often competition for contracts. In addition, some of our foreign competitors currently benefit from, and others may benefit in",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 64490,
+        "end": 65050
+      }
+    },
+    {
+      "id": "a1fca9336ef5e9af",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14374,
+      "excerpt": "n our pricing and other competitive factors. 16 Table of Contents Momentus’ limited operating history makes it difficult to evaluate its future prospects and the risks and challenges it may encounter. We have been focused on developing satellite technology and space transportation, communication, and infrastructure services since 2017. While we have operated since 2017, we have limited operating history in developing and commercializing these technologies and services, particularly at scale. Thi",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 65418,
+        "end": 65918
+      }
+    },
+    {
+      "id": "7e1dd26ea2278f57",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 15374,
+      "excerpt": "ture vehicles and services, and managing the supply chain and supplier relationships related to current and future vehicles and services; • comply with existing and new or modified laws and regulations applicable to our business, including export control regulations; • anticipate and respond to macroeconomic changes and changes in the markets in which we operate; • maintain and enhance the value of our reputation and brand; • develop and protect intellectual property; and • integrate and retain",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 66418,
+        "end": 66977
+      }
+    },
+    {
+      "id": "20593b0866e2bdd2",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 16291,
+      "excerpt": "in a rapidly evolving market, any predictions about our future revenue and expenses may not be as accurate as they would be if we had a longer operating history or operated in a more developed market. Momentus has encountered in the past, and will encounter in the future, risks and uncertainties frequently experienced by companies with limited operating histories in rapidly changing industries. If Momentus’ assumptions regarding these risks and uncertainties, which we use to plan and operate our",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 67335,
+        "end": 67895
+      }
+    },
+    {
+      "id": "0d1f983caf525691",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 17196,
+      "excerpt": "potential we expect. The markets for satellite buses, orbital service vehicles and related in-space infrastructure services are emerging, difficult to quantify and subject to significant uncertainty. Our growth depends in part on the expansion of customer demand for these products and services, which may develop more slowly than we expect or not at all. Market adoption depends on factors beyond our control, including launch availability and cost, mission success, customer acceptance, government",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 68241,
+        "end": 68800
+      }
+    },
+    {
+      "id": "436b0a6338a8bdeb",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 18122,
+      "excerpt": "and financial condition could be materially adversely affected. We may not be able to convert our customer contracts into revenue. Our customer contracts are cancellable by customers for convenience. If a customer cancels a contract before it is required to pay the last deposit prior to launch, we may not receive all potential revenue from these orders, except for an initial non-refundable deposit which is typically due at the time the contract is signed. In certain situations, Momentus may deci",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 69167,
+        "end": 69667
+      }
+    },
+    {
+      "id": "16554ae458ec27e1",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 19792,
+      "excerpt": "customers and to successfully identify and enter new markets. If we fail to anticipate such changes in demand, our business, results of operations, and financial position could be adversely affected. We have previously experienced, and may experience in the future, delays or other complications in the design, manufacture and commercialization of new rocket launch services, mission services, satellites, satellite components and related technology. If we fail to develop and successfully commercial",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 70837,
+        "end": 71337
+      }
+    },
+    {
+      "id": "1fdfb84fa94eb191",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20713,
+      "excerpt": "ce, and any insurance we have may not be adequate to cover our loss. Although there have been and will continue to be technological advances in spaceflight, it is still an activity with inherent risk. Explosions and other accidents on launch or during flight have occurred and will likely occur in the future. If such incidents should occur, we will likely experience a total loss of our vehicle and our customers’ payloads. The total or partial loss of one or more vehicles or customer payloads coul",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 71757,
+        "end": 72257
+      }
+    },
+    {
+      "id": "abdf1498f3c5e4ca",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21679,
+      "excerpt": "ly expensive, and we cannot assure you that we will be able to acquire it on favorable terms, or at all. Our business involves significant risks and uncertainties that may not be covered by insurance. A significant portion of our business relates to designing, developing, and manufacturing advanced space technology products and services. New technologies may be untested or unproven. Failure of some of these products and services could result in extensive property damage. Accordingly, we may incu",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 72723,
+        "end": 73223
+      }
+    },
+    {
+      "id": "3f6e1012d1505418",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22601,
+      "excerpt": "ities as required by law to the extent that insurance was available on acceptable premiums and other terms. The insurance coverage for third-party damages may not be sufficient to cover the liability. In addition, this insurance will not protect us against our own losses, including to our launch support operations, complex, and satellites. The price and availability of insurance fluctuate significantly. Insurance market conditions or factors outside our control, such as failure of launch vehicle",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 73645,
+        "end": 74145
+      }
+    },
+    {
+      "id": "c582298125239f41",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 23431,
+      "excerpt": "he terms of insurance policies become less favorable than those currently available, there may be limits on the amount of coverage that we can obtain, or we may not be able to obtain insurance at all. In addition, even though we carry business interruption insurance policies, any business interruption losses could exceed the coverage available or be excluded from our insurance policies. Any disruption of our ability to operate 18 Table of Contents our business could result in a material decrease",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 74475,
+        "end": 75035
+      }
+    },
+    {
+      "id": "8ea6dfe4e8470cd4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24311,
+      "excerpt": "oducts in customer or supplier environments are also inherently at risk. We also have risk where we have access to customer and supplier networks and face risks of breach, disruption, or loss as well. Satellites are subject to manufacturing and launch delays, damage, or destruction during pre-launch operations, launch failures and incorrect orbital placement, the occurrence of which can materially and adversely affect our operations. Delays in the manufacturing of satellites, launch delays, dama",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 75355,
+        "end": 75855
+      }
+    },
+    {
+      "id": "dedd1397b0fe9f7e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 25136,
+      "excerpt": "enerated by that satellite. Any significant delay in the commencement of service of a satellite would delay or potentially permanently reduce the revenue anticipated to be generated by that satellite. In addition, if the loss of a satellite were to occur, we may not be able to accommodate affected customers with our other satellites until a replacement satellite is available, and we may not have on hand, or be able to obtain in a timely manner, the necessary funds to cover the cost of any necess",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 76180,
+        "end": 76680
+      }
+    },
+    {
+      "id": "8a8b40b0807d6be6",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 26079,
+      "excerpt": "es complex processes and technology. Our satellites employ advanced technologies and sensors that are exposed to severe environmental stresses that have and could affect the performance of satellites. Hardware component problems and software issues could lead to deterioration in performance or loss of functionality of a spacecraft. In addition, human operators may execute improper commands that may negatively impact a spacecraft’s performance. Exposure of our spacecraft to an unanticipated catas",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 77123,
+        "end": 77623
+      }
+    },
+    {
+      "id": "68902f7b7a40ac9b",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 27006,
+      "excerpt": "a significant loss of revenue. If a spacecraft experiences a significant anomaly such that its type is no longer operational, it would significantly impact our business, prospects, and profitability. Additionally, any satellite failures could damage our reputation and ability to obtain future customers for our launch services, prevent us from receiving any payments contingent on a successful launch and increase our insurance rates, which could have a material adverse effect on our business and p",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 78051,
+        "end": 78551
+      }
+    },
+    {
+      "id": "10455cc6e7991bc4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 27709,
+      "excerpt": "ctions, solar flares and other extreme space weather events and potential collision with space debris or another spacecraft, which could adversely affect our launch vehicle and spacecraft performance. Although we have some ability to actively maneuver our satellites to avoid potential collisions with space debris or other spacecraft, this ability is limited by, among other factors, uncertainties and inaccuracies in the projected orbit location of and predicted conjunctions with debris objects tr",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 78753,
+        "end": 79253
+      }
+    },
+    {
+      "id": "e91b13cf9dae5822",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 28588,
+      "excerpt": "bit constellations could materially increase the risks of potential collision with space debris or another spacecraft and limit or impair our launch flexibility and/or access to our own orbital slots. In recent years, the number of satellites deployed to low-Earth orbits has increased, and publicly announced plans call for many thousands of additional satellite deployments over the next decade. The proliferation of these low-Earth orbit constellations could materially increase the risks of poten",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 79632,
+        "end": 80132
+      }
+    },
+    {
+      "id": "e17ac219820feedc",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 29580,
+      "excerpt": "te components. Sophisticated software used in our products and services, including software developed by us, may contain defects that can unexpectedly interfere with the software’s intended operation. Defects may also occur in components and products that we manufacture or purchase from third parties. Most of the launch vehicles, satellites and satellite components we have developed must function under demanding and unpredictable operating conditions and in harsh and potentially destructive envi",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 80624,
+        "end": 81124
+      }
+    },
+    {
+      "id": "0bf4bfe44f624eed",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 30381,
+      "excerpt": "histicated design and testing processes and practices, which include a range of stringent factory and on-site acceptance tests with criteria and requirements that are jointly developed with customers. Our systems may not be successfully implemented, pass required acceptance criteria, or operate or give the desired output, or we may not be able to detect and fix all defects in the satellites, products, hardware, and software we sell or resolve any delays or availability issues in the launch servi",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 81425,
+        "end": 81925
+      }
+    },
+    {
+      "id": "9b8dd9281e51f961",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 31242,
+      "excerpt": "penses and liabilities are required to be paid in currencies other than the U.S. dollar. We generally maintain our cash and cash equivalents in U.S. dollars or investments denominated in U.S. dollars. Fluctuations in foreign exchange rates, which can be unpredictable, could result in disproportionate increases in our expenses and future liabilities as compared to our revenue and current assets. We do not currently, but may in the future, use hedging strategies or seek to maintain a greater porti",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 82286,
+        "end": 82786
+      }
+    },
+    {
+      "id": "b9323dc056bb9721",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 32041,
+      "excerpt": "to hedge effectively due to lack of experience, unreasonable costs, or illiquid markets. We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials, specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of prod",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 83085,
+        "end": 83585
+      }
+    },
+    {
+      "id": "9a466eaea75a8a32",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 33003,
+      "excerpt": "may not be able to obtain sufficient supplies of raw materials or supplied components on favorable terms or at all, which could result in delays in the manufacture of our vehicles or increased costs. In addition, we have in the past experienced and may in the future experience delays in manufacturing or operation as we go through the requalification process with any replacement third-party supplier, as well as the limitations imposed by the ITAR, the EAR, or other restrictions on transfer of sen",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 84048,
+        "end": 84548
+      }
+    },
+    {
+      "id": "7beea390d6563084",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 34003,
+      "excerpt": "could cause us to experience cancellations or delays of scheduled missions, customer cancellations or reductions in our prices and margins, any of which could harm our business, financial condition and results of operations. Our satellites, vehicles, and related equipment may have shorter useful lives than we anticipate. A number of factors will impact the useful lives of our satellites and vehicles, including, among other things, the quality of their design and construction, the durability of t",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 85047,
+        "end": 85547
+      }
+    },
+    {
+      "id": "f056facb0ece24b1",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 34939,
+      "excerpt": "ently anticipate, this may lead to delays in increasing the rate of our commercial payloads, which would have a material adverse effect on our business, financial condition, and results of operations. We expect to face intense competition in satellite production, satellite transport, and related services and other services which we may develop in the space transportation industry. The space transportation industry is still developing and evolving, but we expect it to be highly competitive. Curre",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 85983,
+        "end": 86483
+      }
+    },
+    {
+      "id": "45586e5e6f7d09b0",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 35918,
+      "excerpt": "chnologies in the same class as those offered by Momentus. Significant competitors for satellites, buses, and related technologies include York Space, Terran Orbital, Raytheon Blue Canyon, and Airbus. Many of our current and potential competitors are larger and may have substantially greater resources than we have or may expect to have in the future. They may also be able to devote greater resources to the development of their current and future technologies or the promotion of their offerings o",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 86962,
+        "end": 87462
+      }
+    },
+    {
+      "id": "919054c9132fa346",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 36882,
+      "excerpt": "ctly with ours in the future. Any such foreign competitor, for example, could benefit from subsidies from more permissive regulatory requirements in, or other protective measures by, its home country. We believe our ability to compete successfully in delivering satellites to custom orbit at significantly reduced cost to customers depends on a number of factors, which may change in the future due to increased competition, our ability to meet our customers’ needs and the frequency and availability",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 87926,
+        "end": 88486
+      }
+    },
+    {
+      "id": "4fa176572328b776",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 37537,
+      "excerpt": "fail to adequately protect our intellectual property rights or our intellectual property applications for registration fail to become issued or registered, our competitive position could be impaired. Our success depends, in significant part, on our ability to protect our intellectual property rights, including our water-based propulsion technology and certain other methodologies, practices, tools, technologies, and technical expertise we utilize in designing, developing, implementing, and mainta",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 88582,
+        "end": 89082
+      }
+    },
+    {
+      "id": "1636531af83c40de",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 40974,
+      "excerpt": "ountries may be inadequate. Momentus’ competitors may also design around Momentus’ issued patents, which may adversely affect Momentus’ business, prospects, financial condition, and operating results. In addition, although we enter into nondisclosure and invention assignment agreements with our employees, enter into non-disclosure agreements with consultants and other parties with whom we have strategic relationships and business alliances and enter into intellectual property assignment agreemen",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 92018,
+        "end": 92518
+      }
+    },
+    {
+      "id": "b465049434db302a",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 44541,
+      "excerpt": "le delays or other problems with existing or new products. Many of the products we develop and manufacture are technologically advanced systems that must function under demanding operating conditions. The sophisticated and rigorous design, manufacturing and testing processes and practices we employ do not entirely prevent the risk that we may not be able to successfully launch or manufacture our products on schedule or that our products may not perform as intended. If our products fail to perfor",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 95585,
+        "end": 96085
+      }
+    },
+    {
+      "id": "f89f58643a825b16",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 46202,
+      "excerpt": "n Corrupt Practices Act, the anti-boycott provisions of the U.S. Antiboycott Act of 2018, Part II of the Export Control Reform 22 Table of Contents Act security restrictions and intellectual property. Failure by us, our employees, affiliates, partners or others with whom we work to comply with applicable laws and regulations could result in administrative, civil, commercial or criminal liabilities, including suspension or debarment from government contracts or suspension of our export/import pri",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 97246,
+        "end": 97746
+      }
+    },
+    {
+      "id": "1e09fe1fa55ac7b8",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 47056,
+      "excerpt": "ory approvals and conduct or continue to conduct business in international markets, including sales to customers and purchases from suppliers outside the United States. We may also be impacted by U.S. and foreign national policies and priorities, political decisions and geopolitical relationships, any of which may be influenced by changes in the threat environment, political leadership, geopolitical uncertainties, world events, bilateral and multi-lateral relationships and economic and political",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 98100,
+        "end": 98660
+      }
+    },
+    {
+      "id": "236d238ff61056c0",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 47796,
+      "excerpt": "including, without limitation, in connection with any government programs. Global economic conditions and fluctuations in foreign currency exchange rates and tariffs could further impact our business. For example, the tightening of credit in financial markets outside of the United States could adversely affect the ability of our customers and suppliers to obtain financing and could result in a decrease in or cancellation of orders for our products and services or impact the ability of our custom",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 98840,
+        "end": 99340
+      }
+    },
+    {
+      "id": "f869a44dd771db17",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 48662,
+      "excerpt": "are dependent on in-country suppliers and we face risks related to their failure to perform in accordance with the contracts and applicable laws, particularly where we rely on a sole source supplier. The services we provide internationally are sometimes in countries with unstable governments, economic or fiscal challenges, military or political conflicts and/or developing legal systems. This may increase the risk to our employees, subcontractors or other third parties, and/or increase the risk o",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 99707,
+        "end": 100207
+      }
+    },
+    {
+      "id": "5295ad55389838f2",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 53886,
+      "excerpt": "ting results may fluctuate significantly, which makes our future operating results difficult to predict and could cause our operating results to fall below expectations or any guidance we may provide. Our quarterly and annual operating results may fluctuate significantly, which makes it difficult for us to predict our future operating results. These fluctuations may occur due to a variety of factors, many of which are outside of our control, including: • our ability to successfully test and vali",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 104930,
+        "end": 105430
+      }
+    },
+    {
+      "id": "ebb5a913b8ff38c3",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 60648,
+      "excerpt": "rously, we cannot assure that the results of these actions, either individually or in the aggregate, will not have a material adverse effect on our business, operating results, or financial condition. Natural disasters, unusual weather conditions, epidemic outbreaks, terrorist acts, and political events could disrupt our business and vehicle launch schedules. The occurrence of one or more natural disasters such as fires, floods and earthquakes, unusual weather conditions, epidemic or pandemic ou",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 111692,
+        "end": 112192
+      }
+    },
+    {
+      "id": "120c1e2799a868a1",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 61452,
+      "excerpt": "arthquakes may damage our facilities, the launch facilities we use or those of our suppliers, which could have a material adverse effect on our business, financial condition and results of operations. Severe weather, such as rainfall, snowfall or extreme temperatures, may impact the ability for launches to occur as planned, resulting in additional expense to reschedule, thereby reducing our sales and profitability. Terrorist attacks, actual or threatened acts of war or the escalation of current",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 112496,
+        "end": 113055
+      }
+    },
+    {
+      "id": "eae0428997235e64",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 62405,
+      "excerpt": "ese events also impact one or more of our suppliers or result in the closure of any of their facilities or our facilities, we may be unable to maintain launch schedules or fulfill our other contracts. Our restructurings and associated organizational changes may not adequately reduce our expenses, may lead to additional workforce attrition, and may cause operational disruptions. We have experienced workforce attrition in various functions across our business. Our efforts to operate our operations",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 113449,
+        "end": 114009
+      }
+    },
+    {
+      "id": "09b9393251e6455d",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 64178,
+      "excerpt": "o obtain additional financing. The diversion of management’s attention may materially adversely affect the conduct of our business, and, as a result, our financial condition and results of operations. The additional expense we accrue in connection with our review of strategic alternatives and pursuit of additional capital may materially adversely impact our financial condition and partially offset the value of any strategic plan we may pursue or additional financing we may be able to obtain. In",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 115222,
+        "end": 115781
+      }
+    },
+    {
+      "id": "c99a6a0acaf21df0",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 65789,
+      "excerpt": "tions, or our failure to comply with these laws and regulations could have a material adverse effect on our business, financial condition and results of operations. We are required to comply with U.S. export control laws and regulations, including the ITAR administered by the U.S. Department of State’s Directorate of Defense Trade Controls (“DDTC”) and the EAR administered by the U.S. Department of Commerce’s Bureau of Industry and Security (“BIS”). Pursuant to these foreign trade control laws a",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 116833,
+        "end": 117333
+      }
+    },
+    {
+      "id": "94f6da078b26092a",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 66786,
+      "excerpt": "enial of export privileges, and debarment, which could have a material adverse impact on our business, including our ability to enter into contracts or subcontracts for U.S. government customers. U.S. export licenses are required to transfer or make accessible certain of the Company’s products, software and technical information to its non-U.S. employees (“deemed exports”). The Company has, from time-to-time, self-reported potential violations of export control laws to the Office of Export Enfor",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 117830,
+        "end": 118330
+      }
+    },
+    {
+      "id": "3124ea8a1ec714a7",
+      "ticker": "MNTS",
+      "vendor": "Arm",
+      "charOffset": 67636,
+      "excerpt": "r reputational harm. The inability to secure and maintain necessary export authorizations could negatively impact our ability to compete successfully or to operate our spaceflight business as planned. For example, if we were unable to obtain or maintain our licenses to export certain spacecraft hardware, we would be effectively prohibited from launching our vehicles from certain non-U.S. locations, which would limit the number of launch providers we could use. In addition, if we were unable to o",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 118680,
+        "end": 119180
+      }
+    },
+    {
+      "id": "2b8564538b202175",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 68337,
+      "excerpt": "integrate our transfer vehicles to non-U.S. launch vehicles. In both cases, these restrictions could lead to higher launch costs, which may have a material adverse impact on our results of operations. Similarly, if we were unable to secure effective export licensure to authorize the full scope of activity with a foreign partner or supplier, we may be required to make design changes to spacecraft or updates to our supplier chain, which may result in increased costs to us or delays in vehicle laun",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 119381,
+        "end": 119881
+      }
+    },
+    {
+      "id": "0f4b8960e65dcb03",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 71705,
+      "excerpt": "stringent legislation that impacts our business could require us to change the way we operate and could have a material adverse effect on our sales, profitability, cash flows, and financial condition. Failure to comply with these laws or regulations or failure to satisfy any criteria or other requirement under such laws or regulations, such as with respect to obtaining and maintaining licenses, certificates, authorizations and permits critical for the operation of our business, may result in civ",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 122749,
+        "end": 123249
+      }
+    },
+    {
+      "id": "811ff8ce72f4786f",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 72683,
+      "excerpt": "erational approval can include an interagency review of safety, operational, national security, and foreign policy and international obligations implications, as well as a review of foreign ownership. The FAA denial of Vigoride-1 payload review unrelated to a launch license was the result of national security concerns related to foreign ownership and control that arose during an interagency review. Future denials of similar licenses or operational approvals may occur and could have a material ad",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 123727,
+        "end": 124227
+      }
+    },
+    {
+      "id": "5da2cafe5477b959",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 73522,
+      "excerpt": "lations could affect our operations, increase direct compliance costs for us or cause any third-party suppliers or contractors to raise the prices they charge us because of increased compliance costs. Application of these laws and regulations to our business may negatively impact our performance in various ways, limiting the collaborations we may pursue, further regulating the export and re-export of our products, services, and technology from the United States and abroad, and increasing our cos",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 124566,
+        "end": 125066
+      }
+    },
+    {
+      "id": "24aa6190e354bbc4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 74494,
+      "excerpt": "complete compliance, a regulatory agency may determine that we are not. Momentus and its customers and suppliers could be materially impacted by disruptions in U.S. government operations and funding. Any disruptions in federal government operations could have a material adverse effect on our revenues, operational delays, earnings, and cash flows. A prolonged failure to maintain significant U.S. government operations for Momentus, its customers and suppliers, particularly those pertaining to our",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 125539,
+        "end": 126098
+      }
+    },
+    {
+      "id": "7e62ad382fc504b4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 75375,
+      "excerpt": "our revenues, earnings and cash flows. Additionally, disruptions in government operations may negatively impact regulatory approvals and guidance that are important to our operations. Changes in U.S. government policy regarding use of commercial data or space infrastructure / mission providers, or material delay or cancellation of certain U.S. government programs, may have a material adverse effect on our customers, suppliers, revenues, operational delays, earnings and cash flow and our ability",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 126420,
+        "end": 126979
+      }
+    },
+    {
+      "id": "45f0bd56d020b8ea",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 86762,
+      "excerpt": "nd on December 27, 2024, the Company’s Class A common stock closed above the minimum bid price for ten consecutive trading days as required to regain compliance with the Minimum Bid Price Requirement. On January 13, 2025, the Company received a letter issued by the Panel granting the Company’s request to continue its listing on Nasdaq until April 15, 2025, while the Company executed its plan to regain compliance with the requirements of the Equity Rule. As disclosed in the Company’s Current Repo",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 137806,
+        "end": 138306
+      }
+    },
+    {
+      "id": "18082a7111c596d2",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 87589,
+      "excerpt": "components. In exchange for the services, the Company issued an aggregate of 26,749 shares of the Company’s Class A common stock and 673,408 shares of non-voting Series A Convertible Preferred Stock. On June 24, 2025, the Company announced that it had received a letter from Nasdaq providing written confirmation that the Company has regained compliance with Nasdaq’s rules. Nasdaq has indicated that if the Company’s stockholder’s equity as of June 30, 2025, included in the Company’s Quarterly Repo",
+      "sectionId": "item_1a_risk_factors_investing_in_our_se",
+      "sectionHeader": "ITEM 1A. Risk Factors Investing in our securities involves risks. You should consider care",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 138634,
+        "end": 139134
+      }
+    },
+    {
+      "id": "5d4ffd59c77df330",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 1662,
+      "excerpt": "ing the same calculations using the figures in our consolidated financial statements or in the associated text. Certain other amounts that appear in this section may similarly not sum due to rounding. Overview Momentus offers or plans to offer satellites, satellite buses, satellite technologies and components, including solar arrays, and transportation, communications and infrastructure services for commercial companies and to support the missions of U.S. and friendly governments. Government and",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 187401,
+        "end": 187961
+      }
+    },
+    {
+      "id": "be395fef601161e4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 2226,
+      "excerpt": "nd organizations are our target commercial customers. Momentus is also seeking business in support of U.S. government missions for departments and agencies like NASA and the U.S Department of Defense. We provide or plan to provide satellites, satellite buses, satellite technologies and components, including solar arrays, 3D printed propulsion tanks, integration of payload instruments, communication, tracking, and other satellite services, “last mile” satellite transportation, payload-hosting, on",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 187965,
+        "end": 188465
+      }
+    },
+    {
+      "id": "1ef5f62745acec39",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 3217,
+      "excerpt": "d small launch vehicles for dedicated missions. Our OSVs would then provide “last mile” transportation services from the rocket’s drop-off orbit to a custom orbit of the satellite operator’s choosing. We believe this “hub-and-spoke” model has the potential to expand our customers’ deployment options relative to what they would be able to achieve with ride share launch alone, while reducing their costs relative to what they could achieve with a dedicated small launch vehicle. Over time, we plan t",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 188956,
+        "end": 189456
+      }
+    },
+    {
+      "id": "9cf3882fcfa35d8a",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 4158,
+      "excerpt": "bility for companies entering the new space economy that aim to offer communication, sensing, data processing and storage, Earth observation and data collection services, and other satellite services. We anticipate potential considerable growth over the coming years in the space transportation segment as companies continue to seek versatile and low-cost ways to deliver single satellites to specific orbits or deploy their satellite constellations. We anticipate that the need for small satellite t",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 189897,
+        "end": 190397
+      }
+    },
+    {
+      "id": "9045c35ec0efec2a",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 6069,
+      "excerpt": "ommercial and U.S. government customers. The market for satellite buses in this class is substantial and growing. The M-1000 satellite bus is based on the Vigoride OSV and has substantial commonality. Momentus has launched four missions to date, deployed 17 customer satellites, and provided hosted payload services. Three of these missions involved operation of the Vigoride OSV in orbit. During these three Vigoride missions, the system and technology were tested repeatedly. Improvements based on",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 191808,
+        "end": 192367
+      }
+    },
+    {
+      "id": "6bdb7ac83d2a6b4e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 8826,
+      "excerpt": "ariable consideration constraint. When a milestone is achieved, the Company updates its estimate of the transaction price to include the milestone payment and records a cumulative catch-up in revenue. Cost of Revenue Cost of revenue consists primarily of expenses associated with third-party launch costs and direct headcount related to the related engineering work. The costs associated with OSVs are deferred to prepaid cost of revenues and amortized to cost of revenues upon release of payload. Th",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 194565,
+        "end": 195065
+      }
+    },
+    {
+      "id": "a1db37643391889e",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 9823,
+      "excerpt": "primarily include equipment and labor hours (both internal and subcontractors). The Company also records launch costs related to the testing of its Vigoride vehicles as research and development costs. As of December 31, 2025, we have expensed all research and development costs associated with developing and building our vehicles. Selling, General and Administrative Selling, general and administrative expenses consist of human capital related expenses for employees involved in general corporate f",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 195562,
+        "end": 196062
+      }
+    },
+    {
+      "id": "c6428842a87993e3",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 14934,
+      "excerpt": "and $2.1 million of revenue recognized during the years ended December 31, 2025 and 2024, respectively, $0.9 million and $1.8 million, respectively, were recognized for engineering services performed. The remaining $0.2 million and $0.3 million of revenue recognized during the years ended December 31, 2025 and 2024, respectively, was due to the forfeiture of customer deposits upon contract expiration. Cost of revenue Cost of revenue for the years ended December 31, 2025 and 2024, consisted prima",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 200673,
+        "end": 201173
+      }
+    },
+    {
+      "id": "48a8c97bdf9e45a9",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 15889,
+      "excerpt": "eadcount, partially offset by a $0.4 million increase in subcontractor costs and a $0.1 million increase in other miscellaneous fees, such as information technology and facilities overhead allocation. Selling, general and administrative expenses Selling, general and administrative expenses decreased from $21.9 million in the year ended December 31, 2024, to $19.2 million in the year ended December 31, 2025. The decrease is primarily due to (i) a $4.1 million decrease in 44 Table of Contents payr",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 201628,
+        "end": 202128
+      }
+    },
+    {
+      "id": "5137901f6401e1d9",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 19633,
+      "excerpt": "collection of amounts as they come due under customer contracts, (ii) monetization of unutilized capacity under the MSA agreement with Velo3D; (iii) reduction of employee headcount and compensation expenses; and (iv) reduction of outside vendor expenses. While the Company believes these actions provide sufficient liquidity for its current operating plans, additional capital will be required in the future to support operations and growth initiatives and achieve profitability, and there can be no",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 205372,
+        "end": 205931
+      }
+    },
+    {
+      "id": "d9cf66ff341c7d23",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 21540,
+      "excerpt": "ended December 31, 2025, was $23.3 million, consisting primarily of headcount costs, research and development activities, legal expenses, and professional fees, as well as net cash changes in operating assets and liabilities. Headcount related payroll costs, excluding stock-based compensation of $3.3 million, were $7.1 million. Professional fees of $7.0 million included $2.3 million in legal fees. Office overheads and other general corporate expenses were $5.5 million, which includes insurance c",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 207279,
+        "end": 207779
+      }
+    },
+    {
+      "id": "e21720619eff2c48",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 22292,
+      "excerpt": "of performance obligations during the year ended December 31, 2025. Additionally, the Company had a change in operating assets and liabilities of $2.7 million during the year ended December 31, 2025. Net cash used in operating activities for the year ended December 31, 2024, was $16.6 million, driven primarily by headcount costs, research and development activities, legal expenses, and professional fees, as well as net cash changes in operating assets and liabilities. Headcount related payroll c",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 208032,
+        "end": 208532
+      }
+    },
+    {
+      "id": "9f3adae08acc3d1b",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 24937,
+      "excerpt": "ember 2024 46 Table of Contents Offering, March 2024 Offering, and January 2024 Offering, (ii) $5.3 million received from the SIV Convertible Notes, and (iii) $2.0 million from the December 2024 Loan. These gross proceeds were partially offset by (i) principal repayments of $4.7 million under the Term Loan, (ii) $2.1 million in issuance costs related to convertible notes, common stock and related warrants, and (iii) principal repayments of $0.6 million under the SIV Convertible Notes. Funding Re",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 210676,
+        "end": 211176
+      }
+    },
+    {
+      "id": "77861a31b0afcef9",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 26780,
+      "excerpt": "imarily for facilities (e.g., office buildings, warehouses, and spaceport) under non‑cancellable operating leases. Refer to Note 6. We enter into purchase obligations in the normal course of business. These obligations include purchase orders and agreements to purchase goods or services that are enforceable, legally binding, and have significant terms and minimum purchases stipulated. Refer to Note 12. In addition, we enter into agreements in the normal course of business with vendors for resear",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 212519,
+        "end": 213019
+      }
+    },
+    {
+      "id": "de2ba03bf129c2ef",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 27646,
+      "excerpt": "s and Estimates Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of our consolidated financial statements and related disclosures requires us to make estimates, assumptions and judgments as of the balance sheet date that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. Our actual results ma",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 213385,
+        "end": 213885
+      }
+    },
+    {
+      "id": "0ef22b42c1f233be",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 28422,
+      "excerpt": "short-term contracts for ‘last-mile’ satellite and cargo delivery (transportation services), payload hosting and in-orbit servicing options with customers that are primarily in the aerospace industry. For its transportation service arrangements, the Company has a performance obligation of delivering the customers’ payload to its designated orbit and recognizes revenue (along with any other fees that have been paid) at a point in 47 Table of Contents time, upon satisfaction of this performance ob",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 214161,
+        "end": 214661
+      }
+    },
+    {
+      "id": "f13da935743fdcdf",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 29397,
+      "excerpt": "ance with ASC Topic 606, which includes the following five‑step model: • Identification of the contract, or contracts, with a customer. • Identification of the performance obligations in the contract. • Determination of the transaction price. • Allocation of the transaction price to the performance obligations in the contract. • Recognition of revenue when, or as, the Company satisfies a performance obligation. The Company estimates variable consideration at the most likely amount, which is incl",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 215136,
+        "end": 215636
+      }
+    },
+    {
+      "id": "0a33bbf2ed7c5d30",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 30391,
+      "excerpt": "omer goodwill. The Company’s satellite and cargo delivery services (transportation services) are considered a performance obligation, to transport the customers’ payload to a specified orbit in space. We recognize revenue for these services at a point in time, when control is transferred, which is considered to be upon the release of the customers’ payload into its specified orbit. We will calculate the weight distribution of each transfer vehicle at the customer level, and we will estimate the",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 216130,
+        "end": 216689
+      }
+    },
+    {
+      "id": "e066c6e16405399c",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 32266,
+      "excerpt": "ng loss contingencies. An estimated loss contingency is accrued when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated. We regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required. Refer to Note 12. Deferred Fulfillment and Prepaid Launch Costs We prepay for certain launch costs to third-party providers that will carry the OSV",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 218005,
+        "end": 218564
+      }
+    },
+    {
+      "id": "ef66c57c79047f7f",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 19237,
+      "excerpt": "eriod $ 12,861 $ 1,572 The accompanying notes are an integral part of these consolidated financial statements 57 Tables of Contents MOMENTUS INC. NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Note 1. Nature of Operations The Company Momentus Inc. (together with its consolidated subsidiaries “Momentus” or the “Company”) is a U.S. commercial space company that offers satellites, satellite buses, satellite technologies and components, and space infrastructure services, including in-space transport",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 244806,
+        "end": 245306
+      }
+    },
+    {
+      "id": "874947cb45cb1954",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20214,
+      "excerpt": "e Vigoride OSV has been successfully demonstrated in space and accumulated significant flight heritage. The Company has produced its next OSV, Vigoride 7, that it intends to utilize on a 2026 mission. In addition to the Vigoride OSV, Momentus is now also offering its M-1000 satellite bus which has substantial commonality with Vigoride. With a growing demand for satellite bus services, Momentus is positioned to advance its hardware and flight-proven technology for this market. The M-1000 bus is a",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 245783,
+        "end": 246343
+      }
+    },
+    {
+      "id": "2b283c9daed8cd62",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 20792,
+      "excerpt": "sensor capability, maneuverability, increased power, and lower costs are integrated into the product. Momentus believes it can manufacture satellite buses like the M-1000 at a rapid and scalable pace. Business Combination On August 12, 2021, the Company consummated a merger pursuant to the terms of the Agreement and Plan of Merger, dated October 7, 2020, and as amended on March 5, 2021, April 6, 2021, and June 29, 2021 (the “Merger Agreement”), by and among Stable Road Acquisition Corp (“SRAC”),",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 246361,
+        "end": 246921
+      }
+    },
+    {
+      "id": "cc289a856b93aa04",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 23482,
+      "excerpt": "regular operations, scaling of commercial production, and maintain its existing services and products as a going concern for one year from the date these consolidated financial statements are issued. Management’s plans in the event the Company is unable to raise additional financing include (i) collection of amounts as they come due under customer contracts, (ii) monetization of unutilized capacity under the MSA agreement with Velo3D; (iii) reduction 58 Tables of Contents MOMENTUS INC. NOTES TO",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 249052,
+        "end": 249611
+      }
+    },
+    {
+      "id": "be48750eac76ec69",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 30337,
+      "excerpt": "in bank with no restrictions, as well as highly liquid investments which are unrestricted as to withdrawal or use, and which have original maturities of three months or less when initially purchased. The Company places its cash in the bank, which may at times be in excess of the Federal Deposit Insurance Corporation (“FDIC”) insurance limits of $250,000 per depositor, with high credit quality financial institutions and attempts to limit the amount of credit exposure with any one institution. Res",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 255907,
+        "end": 256407
+      }
+    },
+    {
+      "id": "3394c2001b645ce0",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 31288,
+      "excerpt": "acturing, Materials, and Mass-efficient Design (“NOM4D”) program, including arranging launch services, payload integration, and in-orbit hosting of the payload for a complex in-space assembly mission. Accounts Receivable are stated at invoice value less estimated allowances for credit losses. Allowances are recorded based on the Company’s assessment of various factors, such as: historical experience, credit quality of its customers, aging of the accounts receivable balances, economic conditions,",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 256857,
+        "end": 257417
+      }
+    },
+    {
+      "id": "3255ab86deda1f0f",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 32207,
+      "excerpt": "repaid costs allocated to our payload are classified as prepaid launch costs. All deferred fulfillment and prepaid launch costs are recognized as cost of revenue upon delivery of the related payloads. As of December 31, 2025 and 2024, the Company had deferred fulfillment and prepaid launch costs of $ 6.3 million and $ 2.6 million, respectively, with $ 5.1 million and zero recorded within prepaids and other current assets, respectively, and $ 1.2 million and $ 2.6 million recorded within other no",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 257776,
+        "end": 258276
+      }
+    },
+    {
+      "id": "a53f094a7602be2c",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 34725,
+      "excerpt": ") the amount of loss can be reasonably estimated. We regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required. Refer to Note 12 for additional information. Revenue Recognition The Company enters into short-term contracts for ‘last-mile’ satellite and cargo delivery (transportation service), payload hosting and in-orbit servicing options with customers that are primarily in the aerospace industry. For its tr",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 260294,
+        "end": 260794
+      }
+    },
+    {
+      "id": "3b17d4d1fd57c8f0",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 36554,
+      "excerpt": "s variable consideration at the most likely amount, which is included in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur. While the Company’s standard contracts do not contain refund or recourse provisions that enable its customers to recover any non-refundable fees that have been paid, the Company may issue full or partial refunds, or concessions on future services to customers on a case-by-case basis as necessary to",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 215571,
+        "end": 216131
+      }
+    },
+    {
+      "id": "6dac084d0cf3ab50",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 37491,
+      "excerpt": "rded $ 0.9 million and $ 1.8 million, respectively, of revenue from the U.S. government. As part of its contracts with customers, the Company collects up-front non-refundable deposits prior to launch. As of December 31, 2025 and 2024, the Company had customer deposit balances of $ 4.2 million and $ 2.2 million, respectively, related to signed contracts with customers, including firm orders and options (some of which have already been exercised by customers). These deposits are recorded as contra",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 263060,
+        "end": 263560
+      }
+    },
+    {
+      "id": "f52b95bda7039385",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 45733,
+      "excerpt": "Warrant Liability Certain of the Company’s private warrants and stock purchase warrants are recorded as derivative liabilities pursuant to ASC Topic 815, including the ELOC Pre-funded Warrants, or liabilities pursuant to ASC Topic 480, including the AIR Warrants, and are classified within Level 3 of the fair value hierarchy as the Company uses significant unobservable inputs is using the BSM option pricing model, or other appropriate valuation techniques, to calculate fair value. See Note 9 for",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 271302,
+        "end": 271861
+      }
+    },
+    {
+      "id": "7341b6e10b82eed5",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 49516,
+      "excerpt": "luding issued stock purchase warrants, to determine if such instruments are derivatives or contain features that qualify as embedded derivatives, pursuant to ASC Topic 815, at the initial recognition. Other than the Public and Private Warrants noted above, the Company also had other warrants issued and outstanding which were recognized as derivative liabilities in accordance with ASC Topic 815 until they were fully exercised. Accordingly, the Company recognized the warrant instruments as liabili",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 275085,
+        "end": 275585
+      }
+    },
+    {
+      "id": "98cfb77374ed291d",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 52106,
+      "excerpt": "al change in fair value of the warrants is accounted for as a debt discount or debt issuance cost. For all other modifications, the incremental change in fair value is recognized as a deemed dividend. Convertible Instruments The Company evaluates its convertible debt issuances to determine if those contracts or embedded components of those contracts qualify as derivatives requiring separate recognition in the Company’s financial statements. Entities 65 Tables of Contents MOMENTUS INC. NOTES TO T",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 277675,
+        "end": 278175
+      }
+    },
+    {
+      "id": "27effc2a4f1db6f4",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 58502,
+      "excerpt": "itures as they occur. 401(k) Plan The Company has a 401(k) plan that it offers to its full-time employees. The Company did not contribute to the plan during the years ended December 31, 2025 and 2024. Research and Development Costs Research and development costs are expensed as incurred. Research and development costs include activities to develop existing and future technologies for the Company’s vehicles. Research and development activities include basic research, applied research, design, dev",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 284071,
+        "end": 284571
+      }
+    },
+    {
+      "id": "3f936a85d5dfc4bb",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 60982,
+      "excerpt": "orresponding operating lease liability adjusted for (i) payments made to the lessor at or before the commencement date, (ii) initial direct costs incurred, and (iii) tenant incentives under the lease. The Company does not assume renewals or early terminations unless it is reasonably certain to exercise these options at commencement. The Company elected the practical expedient which allows the Company to not allocate consideration between lease and non-lease components. Variable lease payments ar",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 286551,
+        "end": 287051
+      }
+    },
+    {
+      "id": "e9aff205b5e682a1",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 63614,
+      "excerpt": "osition. The amount that is ultimately sustained for an individual uncertain tax position or for all uncertain tax positions in the aggregate could differ from the amount that is initially recognized. Concentrations of Risk Financial instruments that are exposed to concentrations of credit risk consist primarily of cash and cash equivalents. The Company places its cash and cash equivalents in banks that management believes are creditworthy, however deposits may exceed federally insured limits. S",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 289183,
+        "end": 289683
+      }
+    },
+    {
+      "id": "74beae6b71e242bc",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 70555,
+      "excerpt": "2025, which did not have a material impact on its consolidated financial statements and related disclosures. 69 Tables of Contents MOMENTUS INC. NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Note 3. Prepaids and Other Current Assets Prepaids and other current assets consisted of the following: (in thousands) December 31, 2025 December 31, 2024 Prepaid launch costs, current $ 5,087 — $ — Prepaid design and production services, current 1,538 — Prepaid insurance and other current assets 2,696 1,66",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 296125,
+        "end": 296625
+      }
+    },
+    {
+      "id": "53cfd758be244f01",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 73808,
+      "excerpt": "executed its option to terminate the lease early on March 31, 2026. In December 2025, the Company commenced another lease in San Jose, California. This lease has an expiration date in September 2032. The components of operating lease expense were as follows: Year Ended December 31, (in thousands) 2025 2024 Operating lease cost $ 1,240 $ 1,470 Variable lease expense 660 600 Short-term lease expense 46 74 Total lease expense $ 1,946 $ 2,144 Variable lease expense consists of the Company’s proporti",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 299378,
+        "end": 299878
+      }
+    },
+    {
+      "id": "a729867c1e24f0ff",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 121914,
+      "excerpt": "SUs issued and issuable under the Company’s equity compensation plan. The Company has retroactively adjusted all periods presented for the effects of the December 2025 1-for-17.85 reverse stock split. Shares issued in settlement of accounts payable and customer deposits During the year ended December 31, 2025, excluding the Baker & McKenzie LLP settlement discussed below, the Company settled $ 0.4 million of accounts payable and one deposit with several vendors and one customer, respectively, th",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 347483,
+        "end": 347983
+      }
+    },
+    {
+      "id": "7f32149c0d019dfb",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 147682,
+      "excerpt": "ompany received an immaterial amount of cash proceeds. Master Services Agreement with Velo3D, Inc. On April 12, 2025, the Company entered into a Master Services Agreement (the “MSA”) with Velo3D, Inc. (“VLD”), a provider of additive manufacturing solutions, also referred to as 3D printing, pursuant to which VLD will provide services to design and produce components and systems that will be utilized by the Company or its customers in its spacecraft, systems, and components. The MSA has a term of",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 373251,
+        "end": 373810
+      }
+    },
+    {
+      "id": "f608328ab7bd3d41",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 214734,
+      "excerpt": "income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of the Company’s deferred tax assets and liabilities are as follows: (in thousands) December 31, 2025 December 31, 2024 Deferred tax assets: Net operating loss carryforwards $ 60,915 $ 47,769 Research and development credits 4,842 4,842 Capitalized research and development cos",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 440304,
+        "end": 440804
+      }
+    },
+    {
+      "id": "4e984870354f20b7",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 218385,
+      "excerpt": "similar state provisions. As of December 31, 2025 and 2024, the total amount of gross unrecognized tax benefits was $ 1.8 million and $ 1.8 million, respectively, including no interest and penalties. As of December 31, 2025, none of the total unrecognized tax benefits, if recognized, would have an impact on the Company’s effective tax rate. The Company’s policy is to 105 Tables of Contents MOMENTUS INC. NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Note 13. Income Taxes (cont.) recognize intere",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 443955,
+        "end": 444455
+      }
+    },
+    {
+      "id": "49fc13b8cf495e0d",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 219296,
+      "excerpt": "for federal purposes and 2020 for state purposes, except in certain limited circumstances. Before Vigoride 3 launch, the Company was in start-up phase and had no revenue recognized as of May 31, 2022. Under Section 195(b), all the expenses other than R&D, taxes and interest income/expense must be capitalized and amortized from the date the Company starts active trade or business. The Company began active trade or business as of June 1, 2022 and amortized Section 195(b) costs for the remainder of",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 444865,
+        "end": 445425
+      }
+    },
+    {
+      "id": "d985a65d43c20eab",
+      "ticker": "MNTS",
+      "vendor": null,
+      "charOffset": 227771,
+      "excerpt": "to increase the aggregate principal amount available to be sold under the Registration Statement in the future, the Company may file additional supplemental prospectuses to the Registration Statement. During January, February, and March of 2026, the Company issued an aggregate of 2,203,615 shares of Class A common stock under the ATM Sales Agreement for gross proceeds of $ 13.3 million, before deducting estimated issuance costs of $ 0.4 million. Up to $ 23.1 million in aggregate principal amount",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATE",
+      "form": "10-K",
+      "filingDate": "2026-03-31",
+      "type": "chunk",
+      "range": {
+        "start": 453340,
+        "end": 453900
+      }
+    }
+  ]
+}

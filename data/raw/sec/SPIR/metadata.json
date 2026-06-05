@@ -1,0 +1,57 @@
+{
+  "ticker": "SPIR",
+  "cik": "0001816017",
+  "name": "Spire Global, Inc.",
+  "scrapedAt": "2026-06-04T23:42:19.199Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 110451000,
+      "end": "2024-12-31",
+      "filed": "2025-03-31",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 71553000,
+      "end": "2025-12-31",
+      "filed": "2026-03-19",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 36672000,
+      "end": "2025-12-31",
+      "filed": "2026-03-19",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 42390000,
+      "end": "2025-12-31",
+      "filed": "2026-03-19",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 29163000,
+      "end": "2025-12-31",
+      "filed": "2026-03-19",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 210992000,
+      "end": "2025-12-31",
+      "filed": "2026-03-19",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 110451000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-19",
+    "accessionNumber": "0001193125-26-116169",
+    "primaryDocument": "spir-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526116169/spir-20251231.htm",
+  "htmlLength": 4494435
+}

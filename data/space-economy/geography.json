@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-04T00:00:00.000Z",
+  "topicId": "space-economy",
+  "title": "Space-industry sites & ITAR jurisdictional overlay",
+  "summary": "Public-company HQs, owned launch sites, and major manufacturing facilities for the SEC watchlist plus selected international partners. Country fill encodes ITAR/EAR jurisdictional class.",
+  "itarLegend": [
+    { "id": "us", "label": "US (ITAR/EAR primary)", "color": "#2563eb", "note": "United States — direct ITAR/EAR jurisdiction; deemed-export rules apply." },
+    { "id": "fvey", "label": "Five Eyes partners", "color": "#22c55e", "note": "AU, CA, NZ, UK — preferential treatment under various US/UK agreements but still subject to ITAR re-export controls." },
+    { "id": "eu", "label": "EU / Schengen", "color": "#a78bfa", "note": "EU dual-use regulation 2021/821 overlays ITAR for reexport; treated as cooperative." },
+    { "id": "ally", "label": "Allied / aligned", "color": "#38bdf8", "note": "Japan, South Korea, Israel, India — cooperative under bilateral export agreements." },
+    { "id": "restricted", "label": "Restricted / sanctioned", "color": "#ef4444", "note": "Russia, China, Iran, North Korea — ITAR §126.1; export prohibited or heavily restricted." },
+    { "id": "neutral", "label": "Other", "color": "#94a3b8", "note": "Not classified — case-by-case licensing." }
+  ],
+  "countries": {
+    "US": "us",
+    "USA": "us",
+    "GB": "fvey", "UK": "fvey",
+    "AU": "fvey", "AUS": "fvey",
+    "CA": "fvey", "CAN": "fvey",
+    "NZ": "fvey", "NZL": "fvey",
+    "FR": "eu", "FRA": "eu",
+    "DE": "eu", "DEU": "eu",
+    "IT": "eu", "ITA": "eu",
+    "ES": "eu", "ESP": "eu",
+    "NL": "eu", "NLD": "eu",
+    "LU": "eu", "LUX": "eu",
+    "JP": "ally", "JPN": "ally",
+    "KR": "ally", "KOR": "ally",
+    "IL": "ally", "ISR": "ally",
+    "IN": "ally", "IND": "ally",
+    "RU": "restricted", "RUS": "restricted",
+    "CN": "restricted", "CHN": "restricted",
+    "IR": "restricted", "IRN": "restricted",
+    "KP": "restricted", "PRK": "restricted",
+    "SY": "restricted", "SYR": "restricted",
+    "CU": "restricted", "CUB": "restricted"
+  },
+  "sites": [
+    { "id": "rklb-hq", "name": "Rocket Lab HQ", "ticker": "RKLB", "type": "hq", "city": "Long Beach", "country": "US", "lat": 33.7701, "lon": -118.1937 },
+    { "id": "rklb-mahia", "name": "Launch Complex 1 (Māhia)", "ticker": "RKLB", "type": "launch", "city": "Māhia Peninsula", "country": "NZ", "lat": -39.2622, "lon": 177.8650 },
+    { "id": "rklb-wallops", "name": "Launch Complex 2 (Wallops)", "ticker": "RKLB", "type": "launch", "city": "Wallops Island", "country": "US", "lat": 37.8336, "lon": -75.4881 },
+    { "id": "rklb-auckland", "name": "Rocket Lab Auckland production", "ticker": "RKLB", "type": "factory", "city": "Auckland", "country": "NZ", "lat": -36.8485, "lon": 174.7633 },
+
+    { "id": "asts-hq", "name": "AST SpaceMobile HQ & factory", "ticker": "ASTS", "type": "factory", "city": "Midland, TX", "country": "US", "lat": 31.9974, "lon": -102.0779 },
+
+    { "id": "boeing-arlington", "name": "Boeing HQ (Defense, Space & Security)", "ticker": "BA", "type": "hq", "city": "Arlington, VA", "country": "US", "lat": 38.8881, "lon": -77.0939 },
+    { "id": "boeing-elsegundo", "name": "Boeing Satellite Systems (El Segundo)", "ticker": "BA", "type": "factory", "city": "El Segundo, CA", "country": "US", "lat": 33.9165, "lon": -118.4023 },
+
+    { "id": "lmt-hq", "name": "Lockheed Martin HQ", "ticker": "LMT", "type": "hq", "city": "Bethesda, MD", "country": "US", "lat": 38.9847, "lon": -77.0947 },
+    { "id": "lmt-sunnyvale", "name": "Lockheed Martin Space (Sunnyvale)", "ticker": "LMT", "type": "factory", "city": "Sunnyvale, CA", "country": "US", "lat": 37.3688, "lon": -122.0363 },
+    { "id": "lmt-denver", "name": "Lockheed Martin Space (Denver)", "ticker": "LMT", "type": "factory", "city": "Littleton, CO", "country": "US", "lat": 39.5837, "lon": -105.1064 },
+
+    { "id": "noc-hq", "name": "Northrop Grumman HQ", "ticker": "NOC", "type": "hq", "city": "Falls Church, VA", "country": "US", "lat": 38.8823, "lon": -77.1711 },
+    { "id": "noc-redondo", "name": "Northrop Grumman Space Park", "ticker": "NOC", "type": "factory", "city": "Redondo Beach, CA", "country": "US", "lat": 33.8617, "lon": -118.3759 },
+
+    { "id": "rtx-arlington", "name": "RTX HQ (Raytheon)", "ticker": "RTX", "type": "hq", "city": "Arlington, VA", "country": "US", "lat": 38.8810, "lon": -77.0941 },
+    { "id": "lhx-melbourne", "name": "L3Harris HQ", "ticker": "LHX", "type": "hq", "city": "Melbourne, FL", "country": "US", "lat": 28.0836, "lon": -80.6081 },
+    { "id": "lhx-aerojet-canoga", "name": "Aerojet Rocketdyne (Canoga Park)", "ticker": "LHX", "type": "factory", "city": "Canoga Park, CA", "country": "US", "lat": 34.2126, "lon": -118.5979 },
+
+    { "id": "irdm-mclean", "name": "Iridium HQ", "ticker": "IRDM", "type": "hq", "city": "McLean, VA", "country": "US", "lat": 38.9339, "lon": -77.1773 },
+    { "id": "irdm-arizona", "name": "Iridium SNOC (Tempe)", "ticker": "IRDM", "type": "ground", "city": "Tempe, AZ", "country": "US", "lat": 33.4255, "lon": -111.9400 },
+
+    { "id": "vsat-carlsbad", "name": "Viasat HQ", "ticker": "VSAT", "type": "hq", "city": "Carlsbad, CA", "country": "US", "lat": 33.1581, "lon": -117.3506 },
+    { "id": "gsat-covington", "name": "Globalstar HQ", "ticker": "GSAT", "type": "hq", "city": "Covington, LA", "country": "US", "lat": 30.4754, "lon": -90.1009 },
+
+    { "id": "pl-sf", "name": "Planet Labs HQ", "ticker": "PL", "type": "hq", "city": "San Francisco, CA", "country": "US", "lat": 37.7749, "lon": -122.4194 },
+    { "id": "bksy-herndon", "name": "BlackSky HQ", "ticker": "BKSY", "type": "hq", "city": "Herndon, VA", "country": "US", "lat": 38.9695, "lon": -77.3861 },
+    { "id": "spir-vienna", "name": "Spire Global HQ", "ticker": "SPIR", "type": "hq", "city": "Vienna, VA", "country": "US", "lat": 38.9012, "lon": -77.2653 },
+    { "id": "rdw-jacksonville", "name": "Redwire HQ", "ticker": "RDW", "type": "hq", "city": "Jacksonville, FL", "country": "US", "lat": 30.3322, "lon": -81.6557 },
+    { "id": "mnts-sanjose", "name": "Momentus HQ", "ticker": "MNTS", "type": "hq", "city": "San Jose, CA", "country": "US", "lat": 37.3382, "lon": -121.8863 },
+
+    { "id": "cape-canaveral", "name": "Cape Canaveral Space Force Station", "ticker": null, "type": "launch", "operator": "Multi-user (SpaceX, ULA, RKLB, BO)", "city": "Cape Canaveral, FL", "country": "US", "lat": 28.4858, "lon": -80.5772 },
+    { "id": "ksc-39a", "name": "Kennedy Space Center LC-39A/B", "ticker": null, "type": "launch", "operator": "NASA, SpaceX", "city": "Merritt Island, FL", "country": "US", "lat": 28.6082, "lon": -80.6041 },
+    { "id": "vandenberg", "name": "Vandenberg Space Force Base", "ticker": null, "type": "launch", "operator": "Multi-user (SpaceX, ULA, RKLB)", "city": "Vandenberg, CA", "country": "US", "lat": 34.7420, "lon": -120.5724 },
+    { "id": "kourou", "name": "Centre Spatial Guyanais (Kourou)", "ticker": null, "type": "launch", "operator": "Arianespace / ESA", "city": "Kourou, French Guiana", "country": "FR", "lat": 5.2389, "lon": -52.7686 },
+    { "id": "baikonur", "name": "Baikonur Cosmodrome", "ticker": null, "type": "launch", "operator": "Roscosmos", "city": "Baikonur", "country": "RU", "lat": 45.9646, "lon": 63.3052 },
+    { "id": "wenchang", "name": "Wenchang Space Launch Site", "ticker": null, "type": "launch", "operator": "CNSA", "city": "Wenchang", "country": "CN", "lat": 19.6144, "lon": 110.9514 },
+    { "id": "jiuquan", "name": "Jiuquan Satellite Launch Center", "ticker": null, "type": "launch", "operator": "CNSA / PLA", "city": "Jiuquan", "country": "CN", "lat": 40.9583, "lon": 100.2917 },
+    { "id": "tanegashima", "name": "Tanegashima Space Center", "ticker": null, "type": "launch", "operator": "JAXA", "city": "Tanegashima", "country": "JP", "lat": 30.4007, "lon": 130.9697 },
+    { "id": "satish-dhawan", "name": "Satish Dhawan Space Centre", "ticker": null, "type": "launch", "operator": "ISRO", "city": "Sriharikota", "country": "IN", "lat": 13.7199, "lon": 80.2304 },
+    { "id": "harwell", "name": "Harwell Space Cluster", "ticker": null, "type": "factory", "operator": "OneWeb / Airbus / UK Space Agency", "city": "Harwell", "country": "GB", "lat": 51.5765, "lon": -1.3163 },
+    { "id": "toulouse", "name": "Toulouse aerospace cluster", "ticker": null, "type": "factory", "operator": "Airbus DS / Thales Alenia", "city": "Toulouse", "country": "FR", "lat": 43.6047, "lon": 1.4442 },
+    { "id": "bremen", "name": "ArianeGroup Bremen", "ticker": null, "type": "factory", "operator": "ArianeGroup", "city": "Bremen", "country": "DE", "lat": 53.0793, "lon": 8.8017 },
+    { "id": "ksat-svalbard", "name": "KSAT Svalbard (SvalSat)", "ticker": null, "type": "ground", "operator": "KSAT", "city": "Longyearbyen", "country": "NO", "lat": 78.2304, "lon": 15.4083 },
+    { "id": "aws-ohio-gs", "name": "AWS Ground Station (Ohio)", "ticker": null, "type": "ground", "operator": "Amazon", "city": "Columbus, OH", "country": "US", "lat": 39.9612, "lon": -82.9988 },
+    { "id": "starbase", "name": "SpaceX Starbase (Boca Chica)", "ticker": null, "type": "launch", "operator": "SpaceX (private)", "city": "Boca Chica, TX", "country": "US", "lat": 25.9971, "lon": -97.1551 }
+  ]
+}

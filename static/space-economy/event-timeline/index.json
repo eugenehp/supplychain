@@ -1,0 +1,465 @@
+{
+  "generatedAt": "2026-06-05T02:28:08.680Z",
+  "topicId": "space-economy",
+  "windowDays": 365,
+  "itemDescriptions": {
+    "1.01": {
+      "label": "Material agreement entered",
+      "category": "contract"
+    },
+    "1.02": {
+      "label": "Material agreement terminated",
+      "category": "contract"
+    },
+    "1.03": {
+      "label": "Bankruptcy / receivership",
+      "category": "distress"
+    },
+    "2.01": {
+      "label": "Acquisition or disposition",
+      "category": "m-and-a"
+    },
+    "2.02": {
+      "label": "Earnings results",
+      "category": "earnings"
+    },
+    "2.03": {
+      "label": "Material direct financial obligation",
+      "category": "financing"
+    },
+    "2.04": {
+      "label": "Triggering events accelerating debt",
+      "category": "distress"
+    },
+    "2.05": {
+      "label": "Costs of exit / disposal",
+      "category": "distress"
+    },
+    "2.06": {
+      "label": "Material impairment",
+      "category": "distress"
+    },
+    "3.01": {
+      "label": "Notice of delisting / non-compliance",
+      "category": "distress"
+    },
+    "3.02": {
+      "label": "Unregistered equity sale",
+      "category": "financing"
+    },
+    "3.03": {
+      "label": "Material modification to security holder rights",
+      "category": "governance"
+    },
+    "4.01": {
+      "label": "Auditor changes",
+      "category": "governance"
+    },
+    "4.02": {
+      "label": "Non-reliance on prior financials",
+      "category": "distress"
+    },
+    "5.01": {
+      "label": "Change in control",
+      "category": "m-and-a"
+    },
+    "5.02": {
+      "label": "Officer / director change",
+      "category": "governance"
+    },
+    "5.03": {
+      "label": "Amendments to charter or bylaws",
+      "category": "governance"
+    },
+    "5.04": {
+      "label": "Trading plans",
+      "category": "governance"
+    },
+    "5.05": {
+      "label": "Code of ethics amendment",
+      "category": "governance"
+    },
+    "5.07": {
+      "label": "Submission of matters to vote",
+      "category": "governance"
+    },
+    "5.08": {
+      "label": "Shareholder director nominations",
+      "category": "governance"
+    },
+    "6.01": {
+      "label": "ABS informational / computational material",
+      "category": "other"
+    },
+    "7.01": {
+      "label": "Regulation FD disclosure",
+      "category": "disclosure"
+    },
+    "8.01": {
+      "label": "Other events",
+      "category": "disclosure"
+    },
+    "9.01": {
+      "label": "Financial statements / exhibits",
+      "category": "disclosure"
+    }
+  },
+  "tickers": [
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "total": 30,
+      "byCategory": [
+        {
+          "category": "disclosure",
+          "count": 10
+        },
+        {
+          "category": "contract",
+          "count": 8
+        },
+        {
+          "category": "earnings",
+          "count": 7
+        },
+        {
+          "category": "governance",
+          "count": 3
+        },
+        {
+          "category": "financing",
+          "count": 2
+        }
+      ],
+      "latestDate": "2026-05-11"
+    },
+    {
+      "ticker": "MNTS",
+      "name": "Momentus Inc.",
+      "total": 30,
+      "byCategory": [
+        {
+          "category": "contract",
+          "count": 17
+        },
+        {
+          "category": "disclosure",
+          "count": 6
+        },
+        {
+          "category": "governance",
+          "count": 5
+        },
+        {
+          "category": "earnings",
+          "count": 1
+        },
+        {
+          "category": "distress",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-29"
+    },
+    {
+      "ticker": "RDW",
+      "name": "Redwire Corp",
+      "total": 18,
+      "byCategory": [
+        {
+          "category": "governance",
+          "count": 6
+        },
+        {
+          "category": "disclosure",
+          "count": 4
+        },
+        {
+          "category": "contract",
+          "count": 4
+        },
+        {
+          "category": "earnings",
+          "count": 3
+        },
+        {
+          "category": "m-and-a",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-20"
+    },
+    {
+      "ticker": "RKLB",
+      "name": "Rocket Lab Corp",
+      "total": 18,
+      "byCategory": [
+        {
+          "category": "disclosure",
+          "count": 7
+        },
+        {
+          "category": "governance",
+          "count": 5
+        },
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "financing",
+          "count": 2
+        }
+      ],
+      "latestDate": "2026-05-21"
+    },
+    {
+      "ticker": "SPIR",
+      "name": "Spire Global, Inc.",
+      "total": 16,
+      "byCategory": [
+        {
+          "category": "governance",
+          "count": 7
+        },
+        {
+          "category": "earnings",
+          "count": 5
+        },
+        {
+          "category": "contract",
+          "count": 2
+        },
+        {
+          "category": "distress",
+          "count": 2
+        }
+      ],
+      "latestDate": "2026-05-29"
+    },
+    {
+      "ticker": "PL",
+      "name": "Planet Labs PBC",
+      "total": 14,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "disclosure",
+          "count": 4
+        },
+        {
+          "category": "financing",
+          "count": 3
+        },
+        {
+          "category": "governance",
+          "count": 2
+        },
+        {
+          "category": "contract",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-06-04"
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "total": 12,
+      "byCategory": [
+        {
+          "category": "governance",
+          "count": 4
+        },
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "disclosure",
+          "count": 4
+        }
+      ],
+      "latestDate": "2026-05-12"
+    },
+    {
+      "ticker": "VSAT",
+      "name": "VIASAT INC",
+      "total": 11,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "governance",
+          "count": 4
+        },
+        {
+          "category": "contract",
+          "count": 2
+        },
+        {
+          "category": "disclosure",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-28"
+    },
+    {
+      "ticker": "BKSY",
+      "name": "BlackSky Technology Inc.",
+      "total": 10,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 5
+        },
+        {
+          "category": "contract",
+          "count": 3
+        },
+        {
+          "category": "governance",
+          "count": 2
+        }
+      ],
+      "latestDate": "2026-05-22"
+    },
+    {
+      "ticker": "IRDM",
+      "name": "Iridium Communications Inc.",
+      "total": 10,
+      "byCategory": [
+        {
+          "category": "governance",
+          "count": 4
+        },
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "contract",
+          "count": 1
+        },
+        {
+          "category": "disclosure",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-20"
+    },
+    {
+      "ticker": "BA",
+      "name": "BOEING CO",
+      "total": 9,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "governance",
+          "count": 3
+        },
+        {
+          "category": "disclosure",
+          "count": 1
+        },
+        {
+          "category": "contract",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-04-22"
+    },
+    {
+      "ticker": "LMT",
+      "name": "LOCKHEED MARTIN CORP",
+      "total": 9,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "disclosure",
+          "count": 2
+        },
+        {
+          "category": "contract",
+          "count": 2
+        },
+        {
+          "category": "governance",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-13"
+    },
+    {
+      "ticker": "NOC",
+      "name": "NORTHROP GRUMMAN CORP /DE/",
+      "total": 8,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "governance",
+          "count": 3
+        },
+        {
+          "category": "contract",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-21"
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corp",
+      "total": 8,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "governance",
+          "count": 2
+        },
+        {
+          "category": "disclosure",
+          "count": 2
+        }
+      ],
+      "latestDate": "2026-05-04"
+    },
+    {
+      "ticker": "GSAT",
+      "name": "Globalstar, Inc.",
+      "total": 6,
+      "byCategory": [
+        {
+          "category": "earnings",
+          "count": 4
+        },
+        {
+          "category": "governance",
+          "count": 1
+        },
+        {
+          "category": "contract",
+          "count": 1
+        }
+      ],
+      "latestDate": "2026-05-15"
+    }
+  ]
+}

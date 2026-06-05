@@ -1,0 +1,6743 @@
+{
+  "generatedAt": "2026-06-05T02:13:59.054Z",
+  "topicId": "space-economy",
+  "chunkCount": 16860,
+  "tokenCount": 984403,
+  "termCount": 250,
+  "terms": [
+    {
+      "term": "Space",
+      "key": "space",
+      "count": 5653,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 793
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 548
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 490
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 475
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 318
+        }
+      ]
+    },
+    {
+      "term": "Services",
+      "key": "services",
+      "count": 3305,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 412
+        },
+        {
+          "shard": "IRDM",
+          "count": 221
+        },
+        {
+          "shard": "VSAT",
+          "count": 214
+        },
+        {
+          "shard": "GSAT",
+          "count": 192
+        },
+        {
+          "shard": "BKSY",
+          "count": 170
+        }
+      ]
+    },
+    {
+      "term": "Financial",
+      "key": "financial",
+      "count": 3042,
+      "byShard": [
+        {
+          "shard": "RDW",
+          "count": 275
+        },
+        {
+          "shard": "PL",
+          "count": 226
+        },
+        {
+          "shard": "SPIR",
+          "count": 226
+        },
+        {
+          "shard": "MNTS",
+          "count": 222
+        },
+        {
+          "shard": "VSAT",
+          "count": 222
+        }
+      ]
+    },
+    {
+      "term": "Impact",
+      "key": "impact",
+      "count": 2606,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 1375
+        },
+        {
+          "shard": "RTX",
+          "count": 112
+        },
+        {
+          "shard": "PL",
+          "count": 89
+        },
+        {
+          "shard": "RDW",
+          "count": 86
+        },
+        {
+          "shard": "BKSY",
+          "count": 84
+        }
+      ]
+    },
+    {
+      "term": "Satellite",
+      "key": "satellite",
+      "count": 2539,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 219
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 204
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 173
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 168
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 153
+        }
+      ]
+    },
+    {
+      "term": "NASA",
+      "key": "nasa",
+      "count": 2357,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 1585
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 135
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 120
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 96
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 68
+        }
+      ]
+    },
+    {
+      "term": "Commercial",
+      "key": "commercial",
+      "count": 2323,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 451
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 346
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 156
+        },
+        {
+          "shard": "BA",
+          "count": 127
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 115
+        }
+      ]
+    },
+    {
+      "term": "Launch",
+      "key": "launch",
+      "count": 2294,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 740
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 202
+        },
+        {
+          "shard": "RKLB",
+          "count": 137
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 104
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 95
+        }
+      ]
+    },
+    {
+      "term": "Government",
+      "key": "government",
+      "count": 2280,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 193
+        },
+        {
+          "shard": "RTX",
+          "count": 145
+        },
+        {
+          "shard": "LMT",
+          "count": 142
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 122
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 117
+        }
+      ]
+    },
+    {
+      "term": "Future",
+      "key": "future",
+      "count": 2232,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 174
+        },
+        {
+          "shard": "PL",
+          "count": 150
+        },
+        {
+          "shard": "BKSY",
+          "count": 143
+        },
+        {
+          "shard": "RDW",
+          "count": 143
+        },
+        {
+          "shard": "LMT",
+          "count": 124
+        }
+      ]
+    },
+    {
+      "term": "Data",
+      "key": "data",
+      "count": 2221,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 218
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 191
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 188
+        },
+        {
+          "shard": "PL",
+          "count": 133
+        },
+        {
+          "shard": "IRDM",
+          "count": 129
+        }
+      ]
+    },
+    {
+      "term": "Information",
+      "key": "information",
+      "count": 2192,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 173
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 134
+        },
+        {
+          "shard": "RDW",
+          "count": 128
+        },
+        {
+          "shard": "LHX",
+          "count": 104
+        },
+        {
+          "shard": "VSAT",
+          "count": 99
+        }
+      ]
+    },
+    {
+      "term": "Technology",
+      "key": "technology",
+      "count": 2069,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 579
+        },
+        {
+          "shard": "BKSY",
+          "count": 114
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 108
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 104
+        },
+        {
+          "shard": "RDW",
+          "count": 86
+        }
+      ]
+    },
+    {
+      "term": "Satellites",
+      "key": "satellites",
+      "count": 2043,
+      "byShard": [
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 222
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 189
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 178
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 139
+        },
+        {
+          "shard": "ASTS",
+          "count": 133
+        }
+      ]
+    },
+    {
+      "term": "Management",
+      "key": "management",
+      "count": 1943,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 297
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 139
+        },
+        {
+          "shard": "RTX",
+          "count": 98
+        },
+        {
+          "shard": "PL",
+          "count": 96
+        },
+        {
+          "shard": "RKLB",
+          "count": 90
+        }
+      ]
+    },
+    {
+      "term": "Research",
+      "key": "research",
+      "count": 1941,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 665
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 191
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 146
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 145
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 82
+        }
+      ]
+    },
+    {
+      "term": "Activities",
+      "key": "activities",
+      "count": 1920,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 431
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 263
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 142
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 132
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 89
+        }
+      ]
+    },
+    {
+      "term": "Development",
+      "key": "development",
+      "count": 1914,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 143
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 131
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 116
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 102
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 100
+        }
+      ]
+    },
+    {
+      "term": "Number",
+      "key": "number",
+      "count": 1913,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 626
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 109
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 86
+        },
+        {
+          "shard": "ASTS",
+          "count": 78
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 74
+        }
+      ]
+    },
+    {
+      "term": "Service",
+      "key": "service",
+      "count": 1865,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 229
+        },
+        {
+          "shard": "ASTS",
+          "count": 170
+        },
+        {
+          "shard": "IRDM",
+          "count": 136
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 133
+        },
+        {
+          "shard": "VSAT",
+          "count": 114
+        }
+      ]
+    },
+    {
+      "term": "Based",
+      "key": "based",
+      "count": 1846,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 221
+        },
+        {
+          "shard": "VSAT",
+          "count": 100
+        },
+        {
+          "shard": "BA",
+          "count": 98
+        },
+        {
+          "shard": "RTX",
+          "count": 94
+        },
+        {
+          "shard": "RDW",
+          "count": 91
+        }
+      ]
+    },
+    {
+      "term": "Systems",
+      "key": "systems",
+      "count": 1816,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 216
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 116
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 109
+        },
+        {
+          "shard": "NOC",
+          "count": 92
+        },
+        {
+          "shard": "RKLB",
+          "count": 90
+        }
+      ]
+    },
+    {
+      "term": "Products",
+      "key": "products",
+      "count": 1625,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 238
+        },
+        {
+          "shard": "RTX",
+          "count": 146
+        },
+        {
+          "shard": "VSAT",
+          "count": 135
+        },
+        {
+          "shard": "BKSY",
+          "count": 117
+        },
+        {
+          "shard": "IRDM",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "term": "Economic",
+      "key": "economic",
+      "count": 1618,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 843
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 151
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 64
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 61
+        },
+        {
+          "shard": "RTX",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "term": "Significant",
+      "key": "significant",
+      "count": 1613,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 118
+        },
+        {
+          "shard": "PL",
+          "count": 106
+        },
+        {
+          "shard": "RTX",
+          "count": 101
+        },
+        {
+          "shard": "RKLB",
+          "count": 99
+        },
+        {
+          "shard": "LMT",
+          "count": 96
+        }
+      ]
+    },
+    {
+      "term": "Customers",
+      "key": "customers",
+      "count": 1602,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 179
+        },
+        {
+          "shard": "BKSY",
+          "count": 135
+        },
+        {
+          "shard": "VSAT",
+          "count": 119
+        },
+        {
+          "shard": "RTX",
+          "count": 111
+        },
+        {
+          "shard": "IRDM",
+          "count": 91
+        }
+      ]
+    },
+    {
+      "term": "Change",
+      "key": "change",
+      "count": 1601,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 591
+        },
+        {
+          "shard": "PL",
+          "count": 105
+        },
+        {
+          "shard": "MNTS",
+          "count": 79
+        },
+        {
+          "shard": "RDW",
+          "count": 69
+        },
+        {
+          "shard": "BKSY",
+          "count": 67
+        }
+      ]
+    },
+    {
+      "term": "Market",
+      "key": "market",
+      "count": 1582,
+      "byShard": [
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 134
+        },
+        {
+          "shard": "PL",
+          "count": 124
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 113
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 98
+        },
+        {
+          "shard": "RDW",
+          "count": 84
+        }
+      ]
+    },
+    {
+      "term": "Impacts",
+      "key": "impacts",
+      "count": 1576,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 1212
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 83
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 35
+        },
+        {
+          "shard": "RTX",
+          "count": 31
+        },
+        {
+          "shard": "BA",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "term": "CONSOLIDATED",
+      "key": "consolidated",
+      "count": 1566,
+      "byShard": [
+        {
+          "shard": "RDW",
+          "count": 162
+        },
+        {
+          "shard": "MNTS",
+          "count": 152
+        },
+        {
+          "shard": "VSAT",
+          "count": 137
+        },
+        {
+          "shard": "SPIR",
+          "count": 135
+        },
+        {
+          "shard": "LMT",
+          "count": 117
+        }
+      ]
+    },
+    {
+      "term": "Provide",
+      "key": "provide",
+      "count": 1553,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 117
+        },
+        {
+          "shard": "IRDM",
+          "count": 104
+        },
+        {
+          "shard": "GSAT",
+          "count": 91
+        },
+        {
+          "shard": "PL",
+          "count": 84
+        },
+        {
+          "shard": "BKSY",
+          "count": 83
+        }
+      ]
+    },
+    {
+      "term": "Industry",
+      "key": "industry",
+      "count": 1544,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 192
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 189
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 169
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 157
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 105
+        }
+      ]
+    },
+    {
+      "term": "Contract",
+      "key": "contract",
+      "count": 1510,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 255
+        },
+        {
+          "shard": "RTX",
+          "count": 140
+        },
+        {
+          "shard": "LMT",
+          "count": 119
+        },
+        {
+          "shard": "NOC",
+          "count": 79
+        },
+        {
+          "shard": "VSAT",
+          "count": 79
+        }
+      ]
+    },
+    {
+      "term": "Agency",
+      "key": "agency",
+      "count": 1466,
+      "byShard": [
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 369
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 213
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 132
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 104
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 76
+        }
+      ]
+    },
+    {
+      "term": "Contracts",
+      "key": "contracts",
+      "count": 1446,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 165
+        },
+        {
+          "shard": "LMT",
+          "count": 158
+        },
+        {
+          "shard": "VSAT",
+          "count": 111
+        },
+        {
+          "shard": "BA",
+          "count": 104
+        },
+        {
+          "shard": "NOC",
+          "count": 99
+        }
+      ]
+    },
+    {
+      "term": "Employees",
+      "key": "employees",
+      "count": 1438,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 823
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 54
+        },
+        {
+          "shard": "PL",
+          "count": 48
+        },
+        {
+          "shard": "BKSY",
+          "count": 40
+        },
+        {
+          "shard": "RKLB",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "term": "National",
+      "key": "national",
+      "count": 1420,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 212
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 138
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 128
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 87
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 66
+        }
+      ]
+    },
+    {
+      "term": "Employment",
+      "key": "employment",
+      "count": 1416,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 1182
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 44
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 33
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 30
+        },
+        {
+          "shard": "RDW",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "term": "Changes",
+      "key": "changes",
+      "count": 1401,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 117
+        },
+        {
+          "shard": "LMT",
+          "count": 105
+        },
+        {
+          "shard": "BKSY",
+          "count": 99
+        },
+        {
+          "shard": "BA",
+          "count": 97
+        },
+        {
+          "shard": "RDW",
+          "count": 96
+        }
+      ]
+    },
+    {
+      "term": "State",
+      "key": "state",
+      "count": 1383,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 822
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 69
+        },
+        {
+          "shard": "PL",
+          "count": 36
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 34
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "term": "Performance",
+      "key": "performance",
+      "count": 1372,
+      "byShard": [
+        {
+          "shard": "LMT",
+          "count": 122
+        },
+        {
+          "shard": "RTX",
+          "count": 117
+        },
+        {
+          "shard": "RDW",
+          "count": 99
+        },
+        {
+          "shard": "VSAT",
+          "count": 98
+        },
+        {
+          "shard": "PL",
+          "count": 93
+        }
+      ]
+    },
+    {
+      "term": "Output",
+      "key": "output",
+      "count": 1306,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 1217
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 28
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 21
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 8
+        },
+        {
+          "shard": "SPIR",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "term": "United",
+      "key": "united",
+      "count": 1302,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 234
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 117
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 80
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 76
+        },
+        {
+          "shard": "ASTS",
+          "count": 65
+        }
+      ]
+    },
+    {
+      "term": "Security",
+      "key": "security",
+      "count": 1285,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 196
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 87
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 73
+        },
+        {
+          "shard": "BA",
+          "count": 71
+        },
+        {
+          "shard": "RDW",
+          "count": 66
+        }
+      ]
+    },
+    {
+      "term": "Using",
+      "key": "using",
+      "count": 1285,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 167
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 78
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 68
+        },
+        {
+          "shard": "IRDM",
+          "count": 67
+        },
+        {
+          "shard": "MNTS",
+          "count": 64
+        }
+      ]
+    },
+    {
+      "term": "Used",
+      "key": "used",
+      "count": 1280,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 140
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 89
+        },
+        {
+          "shard": "BA",
+          "count": 60
+        },
+        {
+          "shard": "RTX",
+          "count": 57
+        },
+        {
+          "shard": "SPIR",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "term": "Following",
+      "key": "following",
+      "count": 1277,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 233
+        },
+        {
+          "shard": "BA",
+          "count": 72
+        },
+        {
+          "shard": "RDW",
+          "count": 72
+        },
+        {
+          "shard": "LHX",
+          "count": 59
+        },
+        {
+          "shard": "MNTS",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "term": "International",
+      "key": "international",
+      "count": 1271,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 175
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 112
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 105
+        },
+        {
+          "shard": "LMT",
+          "count": 56
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 56
+        }
+      ]
+    },
+    {
+      "term": "WELL",
+      "key": "well",
+      "count": 1252,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 84
+        },
+        {
+          "shard": "PL",
+          "count": 82
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 72
+        },
+        {
+          "shard": "RTX",
+          "count": 69
+        },
+        {
+          "shard": "GSAT",
+          "count": 67
+        }
+      ]
+    },
+    {
+      "term": "Global",
+      "key": "global",
+      "count": 1250,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 125
+        },
+        {
+          "shard": "SPIR",
+          "count": 103
+        },
+        {
+          "shard": "IRDM",
+          "count": 78
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 74
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 69
+        }
+      ]
+    },
+    {
+      "term": "States",
+      "key": "states",
+      "count": 1244,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 252
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 100
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 85
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 85
+        },
+        {
+          "shard": "ASTS",
+          "count": 64
+        }
+      ]
+    },
+    {
+      "term": "Support",
+      "key": "support",
+      "count": 1227,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 133
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 79
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 53
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 52
+        },
+        {
+          "shard": "IRDM",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Ability",
+      "key": "ability",
+      "count": 1214,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 118
+        },
+        {
+          "shard": "BKSY",
+          "count": 108
+        },
+        {
+          "shard": "MNTS",
+          "count": 84
+        },
+        {
+          "shard": "VSAT",
+          "count": 83
+        },
+        {
+          "shard": "ASTS",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "term": "Annual",
+      "key": "annual",
+      "count": 1204,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 275
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 99
+        },
+        {
+          "shard": "SPIR",
+          "count": 79
+        },
+        {
+          "shard": "RDW",
+          "count": 61
+        },
+        {
+          "shard": "ASTS",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "term": "Defense",
+      "key": "defense",
+      "count": 1196,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 194
+        },
+        {
+          "shard": "RDW",
+          "count": 107
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 93
+        },
+        {
+          "shard": "RTX",
+          "count": 89
+        },
+        {
+          "shard": "NOC",
+          "count": 79
+        }
+      ]
+    },
+    {
+      "term": "There",
+      "key": "there",
+      "count": 1190,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 120
+        },
+        {
+          "shard": "ASTS",
+          "count": 69
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 67
+        },
+        {
+          "shard": "RDW",
+          "count": 65
+        },
+        {
+          "shard": "PL",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "term": "Program",
+      "key": "program",
+      "count": 1174,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 214
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 88
+        },
+        {
+          "shard": "BA",
+          "count": 85
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 80
+        },
+        {
+          "shard": "LMT",
+          "count": 76
+        }
+      ]
+    },
+    {
+      "term": "Customer",
+      "key": "customer",
+      "count": 1166,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 117
+        },
+        {
+          "shard": "PL",
+          "count": 111
+        },
+        {
+          "shard": "RTX",
+          "count": 107
+        },
+        {
+          "shard": "BA",
+          "count": 83
+        },
+        {
+          "shard": "BKSY",
+          "count": 83
+        }
+      ]
+    },
+    {
+      "term": "Material",
+      "key": "material",
+      "count": 1152,
+      "byShard": [
+        {
+          "shard": "RDW",
+          "count": 115
+        },
+        {
+          "shard": "VSAT",
+          "count": 89
+        },
+        {
+          "shard": "PL",
+          "count": 86
+        },
+        {
+          "shard": "RTX",
+          "count": 85
+        },
+        {
+          "shard": "MNTS",
+          "count": 82
+        }
+      ]
+    },
+    {
+      "term": "Direct",
+      "key": "direct",
+      "count": 1137,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 837
+        },
+        {
+          "shard": "ASTS",
+          "count": 30
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 29
+        },
+        {
+          "shard": "IRDM",
+          "count": 21
+        },
+        {
+          "shard": "VSAT",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "term": "Interest",
+      "key": "interest",
+      "count": 1136,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 122
+        },
+        {
+          "shard": "ASTS",
+          "count": 111
+        },
+        {
+          "shard": "BKSY",
+          "count": 71
+        },
+        {
+          "shard": "RTX",
+          "count": 71
+        },
+        {
+          "shard": "PL",
+          "count": 67
+        }
+      ]
+    },
+    {
+      "term": "Risk",
+      "key": "risk",
+      "count": 1135,
+      "byShard": [
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 81
+        },
+        {
+          "shard": "NOC",
+          "count": 78
+        },
+        {
+          "shard": "RTX",
+          "count": 75
+        },
+        {
+          "shard": "LHX",
+          "count": 65
+        },
+        {
+          "shard": "BA",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "term": "Price",
+      "key": "price",
+      "count": 1124,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 158
+        },
+        {
+          "shard": "PL",
+          "count": 114
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 97
+        },
+        {
+          "shard": "BKSY",
+          "count": 82
+        },
+        {
+          "shard": "RDW",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "term": "Control",
+      "key": "control",
+      "count": 1111,
+      "byShard": [
+        {
+          "shard": "LMT",
+          "count": 76
+        },
+        {
+          "shard": "ASTS",
+          "count": 75
+        },
+        {
+          "shard": "RDW",
+          "count": 74
+        },
+        {
+          "shard": "VSAT",
+          "count": 69
+        },
+        {
+          "shard": "BKSY",
+          "count": 64
+        }
+      ]
+    },
+    {
+      "term": "Economy",
+      "key": "economy",
+      "count": 1103,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 384
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 327
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 244
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 57
+        },
+        {
+          "shard": "report__esa-space-economy-2024",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "term": "Investments",
+      "key": "investments",
+      "count": 1099,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 561
+        },
+        {
+          "shard": "BA",
+          "count": 44
+        },
+        {
+          "shard": "LMT",
+          "count": 40
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 40
+        },
+        {
+          "shard": "RTX",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Supply",
+      "key": "supply",
+      "count": 1086,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 473
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 102
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 61
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 56
+        },
+        {
+          "shard": "BA",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "term": "Associated",
+      "key": "associated",
+      "count": 1083,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 274
+        },
+        {
+          "shard": "GSAT",
+          "count": 84
+        },
+        {
+          "shard": "RTX",
+          "count": 66
+        },
+        {
+          "shard": "PL",
+          "count": 53
+        },
+        {
+          "shard": "VSAT",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Figure",
+      "key": "figure",
+      "count": 1077,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 623
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 151
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 55
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 53
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Estimated",
+      "key": "estimated",
+      "count": 1076,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 236
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 94
+        },
+        {
+          "shard": "BA",
+          "count": 76
+        },
+        {
+          "shard": "VSAT",
+          "count": 66
+        },
+        {
+          "shard": "RTX",
+          "count": 57
+        }
+      ]
+    },
+    {
+      "term": "Procurement",
+      "key": "procurement",
+      "count": 1064,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 729
+        },
+        {
+          "shard": "LMT",
+          "count": 28
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 24
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 22
+        },
+        {
+          "shard": "PL",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "term": "Policy",
+      "key": "policy",
+      "count": 1060,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 348
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 66
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 63
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 60
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Capabilities",
+      "key": "capabilities",
+      "count": 1053,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 157
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 101
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 93
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 78
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Labor",
+      "key": "labor",
+      "count": 1049,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 827
+        },
+        {
+          "shard": "BA",
+          "count": 23
+        },
+        {
+          "shard": "RTX",
+          "count": 23
+        },
+        {
+          "shard": "BKSY",
+          "count": 21
+        },
+        {
+          "shard": "RKLB",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "term": "Public",
+      "key": "public",
+      "count": 1039,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 109
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 102
+        },
+        {
+          "shard": "PL",
+          "count": 85
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 59
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Required",
+      "key": "required",
+      "count": 1036,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 75
+        },
+        {
+          "shard": "PL",
+          "count": 74
+        },
+        {
+          "shard": "MNTS",
+          "count": 73
+        },
+        {
+          "shard": "RTX",
+          "count": 68
+        },
+        {
+          "shard": "VSAT",
+          "count": 63
+        }
+      ]
+    },
+    {
+      "term": "Sales",
+      "key": "sales",
+      "count": 1030,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 136
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 117
+        },
+        {
+          "shard": "LMT",
+          "count": 98
+        },
+        {
+          "shard": "PL",
+          "count": 72
+        },
+        {
+          "shard": "BA",
+          "count": 63
+        }
+      ]
+    },
+    {
+      "term": "Technologies",
+      "key": "technologies",
+      "count": 1024,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 99
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 83
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 69
+        },
+        {
+          "shard": "RTX",
+          "count": 61
+        },
+        {
+          "shard": "LHX",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "term": "PART",
+      "key": "part",
+      "count": 1020,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 82
+        },
+        {
+          "shard": "SPIR",
+          "count": 72
+        },
+        {
+          "shard": "VSAT",
+          "count": 59
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 51
+        },
+        {
+          "shard": "LMT",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "term": "Available",
+      "key": "available",
+      "count": 1009,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 67
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 66
+        },
+        {
+          "shard": "PL",
+          "count": 58
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 57
+        },
+        {
+          "shard": "MNTS",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "term": "Risks",
+      "key": "risks",
+      "count": 1003,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 72
+        },
+        {
+          "shard": "PL",
+          "count": 66
+        },
+        {
+          "shard": "RDW",
+          "count": 64
+        },
+        {
+          "shard": "LMT",
+          "count": 61
+        },
+        {
+          "shard": "ASTS",
+          "count": 57
+        }
+      ]
+    },
+    {
+      "term": "Plan",
+      "key": "plan",
+      "count": 990,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 105
+        },
+        {
+          "shard": "RTX",
+          "count": 67
+        },
+        {
+          "shard": "LMT",
+          "count": 60
+        },
+        {
+          "shard": "LHX",
+          "count": 54
+        },
+        {
+          "shard": "RDW",
+          "count": 54
+        }
+      ]
+    },
+    {
+      "term": "Contents",
+      "key": "contents",
+      "count": 984,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 180
+        },
+        {
+          "shard": "MNTS",
+          "count": 146
+        },
+        {
+          "shard": "RTX",
+          "count": 132
+        },
+        {
+          "shard": "RKLB",
+          "count": 114
+        },
+        {
+          "shard": "LMT",
+          "count": 109
+        }
+      ]
+    },
+    {
+      "term": "System",
+      "key": "system",
+      "count": 983,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 106
+        },
+        {
+          "shard": "GSAT",
+          "count": 67
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 65
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 65
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 62
+        }
+      ]
+    },
+    {
+      "term": "Accounting",
+      "key": "accounting",
+      "count": 981,
+      "byShard": [
+        {
+          "shard": "BA",
+          "count": 87
+        },
+        {
+          "shard": "RTX",
+          "count": 75
+        },
+        {
+          "shard": "LMT",
+          "count": 74
+        },
+        {
+          "shard": "RDW",
+          "count": 74
+        },
+        {
+          "shard": "VSAT",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "term": "Vehicle",
+      "key": "vehicle",
+      "count": 979,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 470
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 163
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 59
+        },
+        {
+          "shard": "RKLB",
+          "count": 57
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "term": "Center",
+      "key": "center",
+      "count": 970,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 405
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 283
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 80
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 33
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "term": "Affect",
+      "key": "affect",
+      "count": 957,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 91
+        },
+        {
+          "shard": "BKSY",
+          "count": 87
+        },
+        {
+          "shard": "LMT",
+          "count": 80
+        },
+        {
+          "shard": "SPIR",
+          "count": 79
+        },
+        {
+          "shard": "RDW",
+          "count": 70
+        }
+      ]
+    },
+    {
+      "term": "Requirements",
+      "key": "requirements",
+      "count": 950,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 67
+        },
+        {
+          "shard": "NOC",
+          "count": 64
+        },
+        {
+          "shard": "PL",
+          "count": 63
+        },
+        {
+          "shard": "VSAT",
+          "count": 63
+        },
+        {
+          "shard": "LMT",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "term": "Mission",
+      "key": "mission",
+      "count": 943,
+      "byShard": [
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 86
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 77
+        },
+        {
+          "shard": "BKSY",
+          "count": 61
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 49
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Foreign",
+      "key": "foreign",
+      "count": 940,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 107
+        },
+        {
+          "shard": "PL",
+          "count": 61
+        },
+        {
+          "shard": "RDW",
+          "count": 59
+        },
+        {
+          "shard": "SPIR",
+          "count": 56
+        },
+        {
+          "shard": "LMT",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "term": "Both",
+      "key": "both",
+      "count": 938,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 102
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 58
+        },
+        {
+          "shard": "VSAT",
+          "count": 50
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 48
+        },
+        {
+          "shard": "RTX",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "term": "Potential",
+      "key": "potential",
+      "count": 933,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 100
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 76
+        },
+        {
+          "shard": "PL",
+          "count": 69
+        },
+        {
+          "shard": "RTX",
+          "count": 56
+        },
+        {
+          "shard": "MNTS",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "Fair",
+      "key": "fair",
+      "count": 929,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 104
+        },
+        {
+          "shard": "RDW",
+          "count": 91
+        },
+        {
+          "shard": "PL",
+          "count": 75
+        },
+        {
+          "shard": "VSAT",
+          "count": 61
+        },
+        {
+          "shard": "RTX",
+          "count": 58
+        }
+      ]
+    },
+    {
+      "term": "Condition",
+      "key": "condition",
+      "count": 925,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 110
+        },
+        {
+          "shard": "RDW",
+          "count": 86
+        },
+        {
+          "shard": "BKSY",
+          "count": 83
+        },
+        {
+          "shard": "RKLB",
+          "count": 82
+        },
+        {
+          "shard": "RTX",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "term": "Earth",
+      "key": "earth",
+      "count": 907,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 149
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 94
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 86
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 62
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "term": "Force",
+      "key": "force",
+      "count": 900,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 283
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 114
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 99
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 51
+        },
+        {
+          "shard": "report__ussf-commercial-strategy-2024",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Basis",
+      "key": "basis",
+      "count": 893,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 73
+        },
+        {
+          "shard": "BKSY",
+          "count": 66
+        },
+        {
+          "shard": "RDW",
+          "count": 64
+        },
+        {
+          "shard": "PL",
+          "count": 61
+        },
+        {
+          "shard": "VSAT",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "term": "Orbit",
+      "key": "orbit",
+      "count": 890,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 158
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 118
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 97
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 67
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Primarily",
+      "key": "primarily",
+      "count": 883,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 117
+        },
+        {
+          "shard": "BA",
+          "count": 100
+        },
+        {
+          "shard": "LMT",
+          "count": 64
+        },
+        {
+          "shard": "VSAT",
+          "count": 60
+        },
+        {
+          "shard": "NOC",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Analysis",
+      "key": "analysis",
+      "count": 880,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 152
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 97
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 93
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 48
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "term": "Effect",
+      "key": "effect",
+      "count": 866,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 78
+        },
+        {
+          "shard": "RDW",
+          "count": 73
+        },
+        {
+          "shard": "RKLB",
+          "count": 71
+        },
+        {
+          "shard": "BKSY",
+          "count": 61
+        },
+        {
+          "shard": "PL",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "term": "Strategy",
+      "key": "strategy",
+      "count": 864,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 341
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 51
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 39
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 37
+        },
+        {
+          "shard": "report__ussf-commercial-strategy-2024",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Terms",
+      "key": "terms",
+      "count": 861,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 69
+        },
+        {
+          "shard": "ASTS",
+          "count": 60
+        },
+        {
+          "shard": "MNTS",
+          "count": 59
+        },
+        {
+          "shard": "RTX",
+          "count": 58
+        },
+        {
+          "shard": "BKSY",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "term": "Chain",
+      "key": "chain",
+      "count": 858,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 460
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 96
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 43
+        },
+        {
+          "shard": "BA",
+          "count": 33
+        },
+        {
+          "shard": "RTX",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "term": "Recognized",
+      "key": "recognized",
+      "count": 850,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 85
+        },
+        {
+          "shard": "LMT",
+          "count": 70
+        },
+        {
+          "shard": "RTX",
+          "count": 69
+        },
+        {
+          "shard": "RDW",
+          "count": 68
+        },
+        {
+          "shard": "PL",
+          "count": 67
+        }
+      ]
+    },
+    {
+      "term": "Agreement",
+      "key": "agreement",
+      "count": 848,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 117
+        },
+        {
+          "shard": "MNTS",
+          "count": 83
+        },
+        {
+          "shard": "GSAT",
+          "count": 79
+        },
+        {
+          "shard": "RDW",
+          "count": 62
+        },
+        {
+          "shard": "IRDM",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "term": "Portion",
+      "key": "portion",
+      "count": 830,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 354
+        },
+        {
+          "shard": "VSAT",
+          "count": 47
+        },
+        {
+          "shard": "BA",
+          "count": 42
+        },
+        {
+          "shard": "LMT",
+          "count": 40
+        },
+        {
+          "shard": "LHX",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "term": "Production",
+      "key": "production",
+      "count": 825,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 229
+        },
+        {
+          "shard": "BA",
+          "count": 92
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 57
+        },
+        {
+          "shard": "RTX",
+          "count": 42
+        },
+        {
+          "shard": "LMT",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "term": "Whole",
+      "key": "whole",
+      "count": 824,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 675
+        },
+        {
+          "shard": "MNTS",
+          "count": 14
+        },
+        {
+          "shard": "VSAT",
+          "count": 11
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 11
+        },
+        {
+          "shard": "ASTS",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "term": "Sector",
+      "key": "sector",
+      "count": 822,
+      "byShard": [
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 154
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 121
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 104
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 79
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "term": "Thousands",
+      "key": "thousands",
+      "count": 821,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 315
+        },
+        {
+          "shard": "RDW",
+          "count": 76
+        },
+        {
+          "shard": "RKLB",
+          "count": 63
+        },
+        {
+          "shard": "BKSY",
+          "count": 52
+        },
+        {
+          "shard": "SPIR",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "term": "Upon",
+      "key": "upon",
+      "count": 819,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 87
+        },
+        {
+          "shard": "ASTS",
+          "count": 64
+        },
+        {
+          "shard": "BKSY",
+          "count": 64
+        },
+        {
+          "shard": "RTX",
+          "count": 56
+        },
+        {
+          "shard": "RKLB",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "term": "Different",
+      "key": "different",
+      "count": 816,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 352
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 64
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 48
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 37
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Manufacturing",
+      "key": "manufacturing",
+      "count": 804,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 179
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 73
+        },
+        {
+          "shard": "RKLB",
+          "count": 64
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 45
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "term": "Communications",
+      "key": "communications",
+      "count": 799,
+      "byShard": [
+        {
+          "shard": "IRDM",
+          "count": 116
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 106
+        },
+        {
+          "shard": "VSAT",
+          "count": 59
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 44
+        },
+        {
+          "shard": "GSAT",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "term": "Values",
+      "key": "values",
+      "count": 797,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 550
+        },
+        {
+          "shard": "BA",
+          "count": 22
+        },
+        {
+          "shard": "LMT",
+          "count": 21
+        },
+        {
+          "shard": "NOC",
+          "count": 18
+        },
+        {
+          "shard": "BKSY",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "term": "Existing",
+      "key": "existing",
+      "count": 796,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 72
+        },
+        {
+          "shard": "PL",
+          "count": 70
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 52
+        },
+        {
+          "shard": "RDW",
+          "count": 48
+        },
+        {
+          "shard": "VSAT",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Climate",
+      "key": "climate",
+      "count": 794,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 576
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 43
+        },
+        {
+          "shard": "PL",
+          "count": 22
+        },
+        {
+          "shard": "report__cnes-annual-2024",
+          "count": 22
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "term": "Sources",
+      "key": "sources",
+      "count": 787,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 464
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 34
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 32
+        },
+        {
+          "shard": "RTX",
+          "count": 28
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "term": "Generally",
+      "key": "generally",
+      "count": 770,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 72
+        },
+        {
+          "shard": "LMT",
+          "count": 57
+        },
+        {
+          "shard": "NOC",
+          "count": 57
+        },
+        {
+          "shard": "PL",
+          "count": 50
+        },
+        {
+          "shard": "GSAT",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "term": "Recorded",
+      "key": "recorded",
+      "count": 767,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 78
+        },
+        {
+          "shard": "BA",
+          "count": 76
+        },
+        {
+          "shard": "GSAT",
+          "count": 71
+        },
+        {
+          "shard": "RTX",
+          "count": 69
+        },
+        {
+          "shard": "VSAT",
+          "count": 65
+        }
+      ]
+    },
+    {
+      "term": "Office",
+      "key": "office",
+      "count": 766,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 234
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 71
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 58
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 56
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Federal",
+      "key": "federal",
+      "count": 764,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 92
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 47
+        },
+        {
+          "shard": "PL",
+          "count": 39
+        },
+        {
+          "shard": "NOC",
+          "count": 38
+        },
+        {
+          "shard": "BKSY",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "term": "Regulations",
+      "key": "regulations",
+      "count": 763,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 68
+        },
+        {
+          "shard": "PL",
+          "count": 67
+        },
+        {
+          "shard": "VSAT",
+          "count": 56
+        },
+        {
+          "shard": "BKSY",
+          "count": 53
+        },
+        {
+          "shard": "RTX",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Obligations",
+      "key": "obligations",
+      "count": 760,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 83
+        },
+        {
+          "shard": "PL",
+          "count": 75
+        },
+        {
+          "shard": "LMT",
+          "count": 66
+        },
+        {
+          "shard": "VSAT",
+          "count": 60
+        },
+        {
+          "shard": "BKSY",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "term": "Equipment",
+      "key": "equipment",
+      "count": 759,
+      "byShard": [
+        {
+          "shard": "GSAT",
+          "count": 84
+        },
+        {
+          "shard": "IRDM",
+          "count": 68
+        },
+        {
+          "shard": "ASTS",
+          "count": 66
+        },
+        {
+          "shard": "VSAT",
+          "count": 61
+        },
+        {
+          "shard": "PL",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Approximately",
+      "key": "approximately",
+      "count": 759,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 105
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 88
+        },
+        {
+          "shard": "LMT",
+          "count": 61
+        },
+        {
+          "shard": "VSAT",
+          "count": 56
+        },
+        {
+          "shard": "IRDM",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "Adversely",
+      "key": "adversely",
+      "count": 748,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 94
+        },
+        {
+          "shard": "BKSY",
+          "count": 81
+        },
+        {
+          "shard": "RKLB",
+          "count": 68
+        },
+        {
+          "shard": "SPIR",
+          "count": 67
+        },
+        {
+          "shard": "RDW",
+          "count": 64
+        }
+      ]
+    },
+    {
+      "term": "Programs",
+      "key": "programs",
+      "count": 740,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 88
+        },
+        {
+          "shard": "LMT",
+          "count": 81
+        },
+        {
+          "shard": "BA",
+          "count": 80
+        },
+        {
+          "shard": "NOC",
+          "count": 65
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 64
+        }
+      ]
+    },
+    {
+      "term": "Various",
+      "key": "various",
+      "count": 738,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 63
+        },
+        {
+          "shard": "RTX",
+          "count": 57
+        },
+        {
+          "shard": "ASTS",
+          "count": 47
+        },
+        {
+          "shard": "RKLB",
+          "count": 44
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "term": "Across",
+      "key": "across",
+      "count": 737,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 104
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 67
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 60
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 40
+        },
+        {
+          "shard": "RDW",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "term": "Factors",
+      "key": "factors",
+      "count": 736,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 73
+        },
+        {
+          "shard": "PL",
+          "count": 55
+        },
+        {
+          "shard": "RDW",
+          "count": 53
+        },
+        {
+          "shard": "VSAT",
+          "count": 53
+        },
+        {
+          "shard": "LMT",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "Work",
+      "key": "work",
+      "count": 735,
+      "byShard": [
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 82
+        },
+        {
+          "shard": "LMT",
+          "count": 55
+        },
+        {
+          "shard": "RTX",
+          "count": 46
+        },
+        {
+          "shard": "BA",
+          "count": 45
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Orbital",
+      "key": "orbital",
+      "count": 735,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 258
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 89
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 78
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 51
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "term": "Type",
+      "key": "type",
+      "count": 734,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 483
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 33
+        },
+        {
+          "shard": "report__brycetech-smallsats-2024",
+          "count": 18
+        },
+        {
+          "shard": "LMT",
+          "count": 14
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "term": "Operational",
+      "key": "operational",
+      "count": 730,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 45
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 45
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 41
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 40
+        },
+        {
+          "shard": "VSAT",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Aerospace",
+      "key": "aerospace",
+      "count": 730,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 147
+        },
+        {
+          "shard": "RTX",
+          "count": 93
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 74
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 50
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Acquisition",
+      "key": "acquisition",
+      "count": 721,
+      "byShard": [
+        {
+          "shard": "RDW",
+          "count": 103
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 70
+        },
+        {
+          "shard": "BKSY",
+          "count": 53
+        },
+        {
+          "shard": "VSAT",
+          "count": 50
+        },
+        {
+          "shard": "BA",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Limited",
+      "key": "limited",
+      "count": 721,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 73
+        },
+        {
+          "shard": "BKSY",
+          "count": 50
+        },
+        {
+          "shard": "VSAT",
+          "count": 47
+        },
+        {
+          "shard": "RKLB",
+          "count": 44
+        },
+        {
+          "shard": "PL",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "term": "Form",
+      "key": "form",
+      "count": 713,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 101
+        },
+        {
+          "shard": "SPIR",
+          "count": 65
+        },
+        {
+          "shard": "RDW",
+          "count": 56
+        },
+        {
+          "shard": "MNTS",
+          "count": 54
+        },
+        {
+          "shard": "LMT",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Military",
+      "key": "military",
+      "count": 709,
+      "byShard": [
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 95
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 89
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 75
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 53
+        },
+        {
+          "shard": "RTX",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Jobs",
+      "key": "jobs",
+      "count": 709,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 666
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 10
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 6
+        },
+        {
+          "shard": "ASTS",
+          "count": 2
+        },
+        {
+          "shard": "BKSY",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "term": "Access",
+      "key": "access",
+      "count": 702,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 64
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 64
+        },
+        {
+          "shard": "ASTS",
+          "count": 48
+        },
+        {
+          "shard": "BKSY",
+          "count": 42
+        },
+        {
+          "shard": "PL",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "term": "https",
+      "key": "https",
+      "count": 699,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 168
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 132
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 99
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 99
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 62
+        }
+      ]
+    },
+    {
+      "term": "Agreements",
+      "key": "agreements",
+      "count": 696,
+      "byShard": [
+        {
+          "shard": "GSAT",
+          "count": 104
+        },
+        {
+          "shard": "ASTS",
+          "count": 96
+        },
+        {
+          "shard": "LMT",
+          "count": 46
+        },
+        {
+          "shard": "RTX",
+          "count": 43
+        },
+        {
+          "shard": "PL",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "term": "Issued",
+      "key": "issued",
+      "count": 694,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 99
+        },
+        {
+          "shard": "ASTS",
+          "count": 64
+        },
+        {
+          "shard": "RDW",
+          "count": 52
+        },
+        {
+          "shard": "VSAT",
+          "count": 45
+        },
+        {
+          "shard": "GSAT",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "Balance",
+      "key": "balance",
+      "count": 694,
+      "byShard": [
+        {
+          "shard": "LHX",
+          "count": 55
+        },
+        {
+          "shard": "RDW",
+          "count": 55
+        },
+        {
+          "shard": "RTX",
+          "count": 53
+        },
+        {
+          "shard": "LMT",
+          "count": 52
+        },
+        {
+          "shard": "GSAT",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "Prior",
+      "key": "prior",
+      "count": 693,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 52
+        },
+        {
+          "shard": "BA",
+          "count": 48
+        },
+        {
+          "shard": "RDW",
+          "count": 43
+        },
+        {
+          "shard": "PL",
+          "count": 42
+        },
+        {
+          "shard": "RTX",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "term": "Payments",
+      "key": "payments",
+      "count": 692,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 82
+        },
+        {
+          "shard": "ASTS",
+          "count": 70
+        },
+        {
+          "shard": "VSAT",
+          "count": 69
+        },
+        {
+          "shard": "BA",
+          "count": 54
+        },
+        {
+          "shard": "GSAT",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "term": "Conditions",
+      "key": "conditions",
+      "count": 689,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 84
+        },
+        {
+          "shard": "PL",
+          "count": 55
+        },
+        {
+          "shard": "BKSY",
+          "count": 49
+        },
+        {
+          "shard": "VSAT",
+          "count": 48
+        },
+        {
+          "shard": "RDW",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "term": "Indirect",
+      "key": "indirect",
+      "count": 688,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 623
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 13
+        },
+        {
+          "shard": "ASTS",
+          "count": 7
+        },
+        {
+          "shard": "LMT",
+          "count": 6
+        },
+        {
+          "shard": "NOC",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "term": "Plans",
+      "key": "plans",
+      "count": 687,
+      "byShard": [
+        {
+          "shard": "LMT",
+          "count": 65
+        },
+        {
+          "shard": "BA",
+          "count": 58
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 58
+        },
+        {
+          "shard": "RTX",
+          "count": 53
+        },
+        {
+          "shard": "NOC",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Contractors",
+      "key": "contractors",
+      "count": 687,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 440
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 66
+        },
+        {
+          "shard": "LHX",
+          "count": 25
+        },
+        {
+          "shard": "ASTS",
+          "count": 18
+        },
+        {
+          "shard": "VSAT",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "term": "Missions",
+      "key": "missions",
+      "count": 681,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 108
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 106
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 64
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 40
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "term": "Securities",
+      "key": "securities",
+      "count": 678,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 86
+        },
+        {
+          "shard": "PL",
+          "count": 69
+        },
+        {
+          "shard": "SPIR",
+          "count": 64
+        },
+        {
+          "shard": "RKLB",
+          "count": 57
+        },
+        {
+          "shard": "ASTS",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Provided",
+      "key": "provided",
+      "count": 677,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 46
+        },
+        {
+          "shard": "VSAT",
+          "count": 43
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 40
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 38
+        },
+        {
+          "shard": "GSAT",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "term": "Design",
+      "key": "design",
+      "count": 677,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 56
+        },
+        {
+          "shard": "ASTS",
+          "count": 38
+        },
+        {
+          "shard": "RKLB",
+          "count": 38
+        },
+        {
+          "shard": "BKSY",
+          "count": 35
+        },
+        {
+          "shard": "PL",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "term": "Private",
+      "key": "private",
+      "count": 676,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 94
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 79
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 49
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 40
+        },
+        {
+          "shard": "BKSY",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "term": "Benefits",
+      "key": "benefits",
+      "count": 675,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 53
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 53
+        },
+        {
+          "shard": "LHX",
+          "count": 49
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 47
+        },
+        {
+          "shard": "RTX",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "Campaign",
+      "key": "campaign",
+      "count": 675,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 548
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 43
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 16
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 12
+        },
+        {
+          "shard": "report__nasa-oig-launch-services-2023",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "term": "Property",
+      "key": "property",
+      "count": 674,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 51
+        },
+        {
+          "shard": "RKLB",
+          "count": 48
+        },
+        {
+          "shard": "VSAT",
+          "count": 47
+        },
+        {
+          "shard": "PL",
+          "count": 45
+        },
+        {
+          "shard": "RDW",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "Civil",
+      "key": "civil",
+      "count": 674,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 245
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 59
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 44
+        },
+        {
+          "shard": "RTX",
+          "count": 34
+        },
+        {
+          "shard": "PL",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "term": "Growth",
+      "key": "growth",
+      "count": 672,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 79
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 70
+        },
+        {
+          "shard": "PL",
+          "count": 44
+        },
+        {
+          "shard": "BKSY",
+          "count": 40
+        },
+        {
+          "shard": "RKLB",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "term": "COUNTRIES",
+      "key": "countries",
+      "count": 672,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 116
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 80
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 69
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 41
+        },
+        {
+          "shard": "IRDM",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "term": "Estimates",
+      "key": "estimates",
+      "count": 669,
+      "byShard": [
+        {
+          "shard": "BA",
+          "count": 60
+        },
+        {
+          "shard": "LMT",
+          "count": 52
+        },
+        {
+          "shard": "RTX",
+          "count": 52
+        },
+        {
+          "shard": "RKLB",
+          "count": 47
+        },
+        {
+          "shard": "RDW",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "European",
+      "key": "european",
+      "count": 669,
+      "byShard": [
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 169
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 107
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 95
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 47
+        },
+        {
+          "shard": "report__esa-space-economy-2024",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "term": "Several",
+      "key": "several",
+      "count": 664,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 111
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 97
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 48
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 33
+        },
+        {
+          "shard": "IRDM",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "term": "Term",
+      "key": "term",
+      "count": 662,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 72
+        },
+        {
+          "shard": "MNTS",
+          "count": 66
+        },
+        {
+          "shard": "ASTS",
+          "count": 65
+        },
+        {
+          "shard": "IRDM",
+          "count": 55
+        },
+        {
+          "shard": "RTX",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "term": "Among",
+      "key": "among",
+      "count": 659,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 50
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 47
+        },
+        {
+          "shard": "VSAT",
+          "count": 46
+        },
+        {
+          "shard": "ASTS",
+          "count": 45
+        },
+        {
+          "shard": "RDW",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "Debt",
+      "key": "debt",
+      "count": 657,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 80
+        },
+        {
+          "shard": "MNTS",
+          "count": 60
+        },
+        {
+          "shard": "ASTS",
+          "count": 53
+        },
+        {
+          "shard": "BKSY",
+          "count": 52
+        },
+        {
+          "shard": "GSAT",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "term": "Require",
+      "key": "require",
+      "count": 655,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 57
+        },
+        {
+          "shard": "VSAT",
+          "count": 47
+        },
+        {
+          "shard": "BKSY",
+          "count": 44
+        },
+        {
+          "shard": "RDW",
+          "count": 41
+        },
+        {
+          "shard": "RTX",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "term": "Effective",
+      "key": "effective",
+      "count": 655,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 54
+        },
+        {
+          "shard": "VSAT",
+          "count": 47
+        },
+        {
+          "shard": "RDW",
+          "count": 45
+        },
+        {
+          "shard": "LMT",
+          "count": 41
+        },
+        {
+          "shard": "LHX",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "term": "Ground",
+      "key": "ground",
+      "count": 654,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 63
+        },
+        {
+          "shard": "GSAT",
+          "count": 45
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 44
+        },
+        {
+          "shard": "PL",
+          "count": 43
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "term": "Less",
+      "key": "less",
+      "count": 643,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 51
+        },
+        {
+          "shard": "RDW",
+          "count": 48
+        },
+        {
+          "shard": "PL",
+          "count": 44
+        },
+        {
+          "shard": "BA",
+          "count": 36
+        },
+        {
+          "shard": "ASTS",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "term": "Infrastructure",
+      "key": "infrastructure",
+      "count": 636,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 78
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 51
+        },
+        {
+          "shard": "PL",
+          "count": 43
+        },
+        {
+          "shard": "GSAT",
+          "count": 38
+        },
+        {
+          "shard": "IRDM",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Solutions",
+      "key": "solutions",
+      "count": 636,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 75
+        },
+        {
+          "shard": "PL",
+          "count": 73
+        },
+        {
+          "shard": "VSAT",
+          "count": 42
+        },
+        {
+          "shard": "IRDM",
+          "count": 41
+        },
+        {
+          "shard": "SPIR",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "term": "Funding",
+      "key": "funding",
+      "count": 633,
+      "byShard": [
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 72
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 62
+        },
+        {
+          "shard": "GSAT",
+          "count": 45
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 35
+        },
+        {
+          "shard": "LMT",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "term": "Applicable",
+      "key": "applicable",
+      "count": 632,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 56
+        },
+        {
+          "shard": "PL",
+          "count": 55
+        },
+        {
+          "shard": "VSAT",
+          "count": 50
+        },
+        {
+          "shard": "RTX",
+          "count": 47
+        },
+        {
+          "shard": "GSAT",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "term": "Study",
+      "key": "study",
+      "count": 632,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 440
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 50
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 40
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 16
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "term": "nearest",
+      "key": "nearest",
+      "count": 632,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 612
+        },
+        {
+          "shard": "MNTS",
+          "count": 6
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 5
+        },
+        {
+          "shard": "LHX",
+          "count": 2
+        },
+        {
+          "shard": "RKLB",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "term": "Adverse",
+      "key": "adverse",
+      "count": 629,
+      "byShard": [
+        {
+          "shard": "RDW",
+          "count": 69
+        },
+        {
+          "shard": "BKSY",
+          "count": 62
+        },
+        {
+          "shard": "PL",
+          "count": 61
+        },
+        {
+          "shard": "RKLB",
+          "count": 56
+        },
+        {
+          "shard": "MNTS",
+          "count": 54
+        }
+      ]
+    },
+    {
+      "term": "Example",
+      "key": "example",
+      "count": 628,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 77
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 59
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 55
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 37
+        },
+        {
+          "shard": "PL",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Purchase",
+      "key": "purchase",
+      "count": 626,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 85
+        },
+        {
+          "shard": "VSAT",
+          "count": 72
+        },
+        {
+          "shard": "RDW",
+          "count": 59
+        },
+        {
+          "shard": "ASTS",
+          "count": 49
+        },
+        {
+          "shard": "PL",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Figures",
+      "key": "figures",
+      "count": 625,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 220
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 186
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 87
+        },
+        {
+          "shard": "report__eurospace-ff-2025-press",
+          "count": 35
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Compensation",
+      "key": "compensation",
+      "count": 623,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 60
+        },
+        {
+          "shard": "RDW",
+          "count": 53
+        },
+        {
+          "shard": "ASTS",
+          "count": 50
+        },
+        {
+          "shard": "MNTS",
+          "count": 44
+        },
+        {
+          "shard": "LHX",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "term": "Rounding",
+      "key": "rounding",
+      "count": 623,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 612
+        },
+        {
+          "shard": "MNTS",
+          "count": 4
+        },
+        {
+          "shard": "report__crs-nasa-primer-2024",
+          "count": 4
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 2
+        },
+        {
+          "shard": "RKLB",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "term": "Industries",
+      "key": "industries",
+      "count": 622,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 371
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 37
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 25
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 17
+        },
+        {
+          "shard": "RDW",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "term": "Capacity",
+      "key": "capacity",
+      "count": 621,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 159
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 50
+        },
+        {
+          "shard": "GSAT",
+          "count": 47
+        },
+        {
+          "shard": "ASTS",
+          "count": 43
+        },
+        {
+          "shard": "VSAT",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "term": "OECD",
+      "key": "oecd",
+      "count": 620,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 334
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 268
+        },
+        {
+          "shard": "report__esa-space-economy-2024",
+          "count": 7
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 3
+        },
+        {
+          "shard": "BA",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "term": "Policies",
+      "key": "policies",
+      "count": 619,
+      "byShard": [
+        {
+          "shard": "LMT",
+          "count": 58
+        },
+        {
+          "shard": "VSAT",
+          "count": 46
+        },
+        {
+          "shard": "BKSY",
+          "count": 40
+        },
+        {
+          "shard": "RTX",
+          "count": 38
+        },
+        {
+          "shard": "LHX",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "term": "Launched",
+      "key": "launched",
+      "count": 617,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 178
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 56
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 45
+        },
+        {
+          "shard": "report__brycetech-smallsats-2024",
+          "count": 40
+        },
+        {
+          "shard": "ASTS",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Science",
+      "key": "science",
+      "count": 614,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 137
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 92
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 75
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 74
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "term": "Launches",
+      "key": "launches",
+      "count": 612,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 198
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 106
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 45
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 42
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "term": "Resources",
+      "key": "resources",
+      "count": 610,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 46
+        },
+        {
+          "shard": "PL",
+          "count": 45
+        },
+        {
+          "shard": "RDW",
+          "count": 45
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 35
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "term": "Events",
+      "key": "events",
+      "count": 608,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 50
+        },
+        {
+          "shard": "ASTS",
+          "count": 41
+        },
+        {
+          "shard": "PL",
+          "count": 39
+        },
+        {
+          "shard": "MNTS",
+          "count": 37
+        },
+        {
+          "shard": "RDW",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "term": "Outstanding",
+      "key": "outstanding",
+      "count": 607,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 67
+        },
+        {
+          "shard": "ASTS",
+          "count": 66
+        },
+        {
+          "shard": "RDW",
+          "count": 53
+        },
+        {
+          "shard": "VSAT",
+          "count": 49
+        },
+        {
+          "shard": "GSAT",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Contractor",
+      "key": "contractor",
+      "count": 604,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 428
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 34
+        },
+        {
+          "shard": "LMT",
+          "count": 19
+        },
+        {
+          "shard": "PL",
+          "count": 14
+        },
+        {
+          "shard": "VSAT",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "term": "Environment",
+      "key": "environment",
+      "count": 603,
+      "byShard": [
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 84
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 73
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 53
+        },
+        {
+          "shard": "NOC",
+          "count": 30
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Assessment",
+      "key": "assessment",
+      "count": 598,
+      "byShard": [
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 76
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 69
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 54
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 48
+        },
+        {
+          "shard": "RDW",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "term": "Segment",
+      "key": "segment",
+      "count": 593,
+      "byShard": [
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 78
+        },
+        {
+          "shard": "VSAT",
+          "count": 68
+        },
+        {
+          "shard": "RTX",
+          "count": 65
+        },
+        {
+          "shard": "LMT",
+          "count": 64
+        },
+        {
+          "shard": "LHX",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "term": "Induced",
+      "key": "induced",
+      "count": 590,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 570
+        },
+        {
+          "shard": "ASTS",
+          "count": 9
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 9
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "term": "Level",
+      "key": "level",
+      "count": 586,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 47
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 34
+        },
+        {
+          "shard": "BKSY",
+          "count": 31
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 31
+        },
+        {
+          "shard": "LHX",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Community",
+      "key": "community",
+      "count": 585,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 401
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 34
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 31
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 22
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "term": "Rocket",
+      "key": "rocket",
+      "count": 585,
+      "byShard": [
+        {
+          "shard": "RKLB",
+          "count": 132
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 110
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 59
+        },
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 56
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "term": "Laws",
+      "key": "laws",
+      "count": 584,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 58
+        },
+        {
+          "shard": "BKSY",
+          "count": 53
+        },
+        {
+          "shard": "VSAT",
+          "count": 49
+        },
+        {
+          "shard": "MNTS",
+          "count": 47
+        },
+        {
+          "shard": "RTX",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "term": "Components",
+      "key": "components",
+      "count": 584,
+      "byShard": [
+        {
+          "shard": "RKLB",
+          "count": 75
+        },
+        {
+          "shard": "RDW",
+          "count": 41
+        },
+        {
+          "shard": "RTX",
+          "count": 36
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 34
+        },
+        {
+          "shard": "ASTS",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "term": "Types",
+      "key": "types",
+      "count": 582,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 278
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 34
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 28
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 24
+        },
+        {
+          "shard": "ASTS",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "term": "Provides",
+      "key": "provides",
+      "count": 580,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 44
+        },
+        {
+          "shard": "IRDM",
+          "count": 42
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 33
+        },
+        {
+          "shard": "ASTS",
+          "count": 29
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "term": "Demand",
+      "key": "demand",
+      "count": 579,
+      "byShard": [
+        {
+          "shard": "report__rand-nssl-2023",
+          "count": 83
+        },
+        {
+          "shard": "report__rand-commercial-space-2022",
+          "count": 46
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 42
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 38
+        },
+        {
+          "shard": "VSAT",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Investment",
+      "key": "investment",
+      "count": 578,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 68
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 58
+        },
+        {
+          "shard": "RTX",
+          "count": 34
+        },
+        {
+          "shard": "BA",
+          "count": 32
+        },
+        {
+          "shard": "BKSY",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Regulatory",
+      "key": "regulatory",
+      "count": 578,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 76
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 47
+        },
+        {
+          "shard": "RTX",
+          "count": 44
+        },
+        {
+          "shard": "PL",
+          "count": 40
+        },
+        {
+          "shard": "VSAT",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "term": "Applications",
+      "key": "applications",
+      "count": 578,
+      "byShard": [
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 100
+        },
+        {
+          "shard": "IRDM",
+          "count": 63
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 47
+        },
+        {
+          "shard": "ASTS",
+          "count": 43
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "term": "Critical",
+      "key": "critical",
+      "count": 578,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 99
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 50
+        },
+        {
+          "shard": "RDW",
+          "count": 34
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 34
+        },
+        {
+          "shard": "BKSY",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "term": "Exchange",
+      "key": "exchange",
+      "count": 576,
+      "byShard": [
+        {
+          "shard": "RKLB",
+          "count": 55
+        },
+        {
+          "shard": "RTX",
+          "count": 55
+        },
+        {
+          "shard": "PL",
+          "count": 41
+        },
+        {
+          "shard": "SPIR",
+          "count": 37
+        },
+        {
+          "shard": "MNTS",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "term": "Liability",
+      "key": "liability",
+      "count": 575,
+      "byShard": [
+        {
+          "shard": "MNTS",
+          "count": 62
+        },
+        {
+          "shard": "PL",
+          "count": 49
+        },
+        {
+          "shard": "BKSY",
+          "count": 48
+        },
+        {
+          "shard": "SPIR",
+          "count": 48
+        },
+        {
+          "shard": "RDW",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "term": "Markets",
+      "key": "markets",
+      "count": 574,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 62
+        },
+        {
+          "shard": "VSAT",
+          "count": 56
+        },
+        {
+          "shard": "IRDM",
+          "count": 47
+        },
+        {
+          "shard": "PL",
+          "count": 42
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "term": "Internal",
+      "key": "internal",
+      "count": 574,
+      "byShard": [
+        {
+          "shard": "RDW",
+          "count": 47
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 42
+        },
+        {
+          "shard": "BKSY",
+          "count": 38
+        },
+        {
+          "shard": "PL",
+          "count": 38
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "term": "Department",
+      "key": "department",
+      "count": 573,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 105
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 58
+        },
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 43
+        },
+        {
+          "shard": "report__dod-space-policy-2023",
+          "count": 31
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "term": "Operate",
+      "key": "operate",
+      "count": 571,
+      "byShard": [
+        {
+          "shard": "ASTS",
+          "count": 51
+        },
+        {
+          "shard": "PL",
+          "count": 48
+        },
+        {
+          "shard": "BKSY",
+          "count": 44
+        },
+        {
+          "shard": "MNTS",
+          "count": 37
+        },
+        {
+          "shard": "GSAT",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "term": "Exactly",
+      "key": "exactly",
+      "count": 570,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 563
+        },
+        {
+          "shard": "VSAT",
+          "count": 2
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 2
+        },
+        {
+          "shard": "BKSY",
+          "count": 1
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "term": "Nathalie",
+      "key": "nathalie",
+      "count": 570,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 569
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "term": "Around",
+      "key": "around",
+      "count": 567,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 236
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 54
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 35
+        },
+        {
+          "shard": "IRDM",
+          "count": 21
+        },
+        {
+          "shard": "report__gao-megaconstellations-2022",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "term": "Partners",
+      "key": "partners",
+      "count": 564,
+      "byShard": [
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 131
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 63
+        },
+        {
+          "shard": "PL",
+          "count": 41
+        },
+        {
+          "shard": "ASTS",
+          "count": 32
+        },
+        {
+          "shard": "IRDM",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "term": "Efforts",
+      "key": "efforts",
+      "count": 562,
+      "byShard": [
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 64
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 59
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 38
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 34
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "term": "Product",
+      "key": "product",
+      "count": 562,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 57
+        },
+        {
+          "shard": "VSAT",
+          "count": 56
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 40
+        },
+        {
+          "shard": "BKSY",
+          "count": 39
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "term": "Strategic",
+      "key": "strategic",
+      "count": 560,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 100
+        },
+        {
+          "shard": "ASTS",
+          "count": 35
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 29
+        },
+        {
+          "shard": "BKSY",
+          "count": 28
+        },
+        {
+          "shard": "LHX",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Develop",
+      "key": "develop",
+      "count": 558,
+      "byShard": [
+        {
+          "shard": "PL",
+          "count": 43
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 35
+        },
+        {
+          "shard": "IRDM",
+          "count": 34
+        },
+        {
+          "shard": "ASTS",
+          "count": 32
+        },
+        {
+          "shard": "BKSY",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "term": "Since",
+      "key": "since",
+      "count": 555,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 64
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 46
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 41
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 33
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "term": "Network",
+      "key": "network",
+      "count": 551,
+      "byShard": [
+        {
+          "shard": "GSAT",
+          "count": 119
+        },
+        {
+          "shard": "IRDM",
+          "count": 91
+        },
+        {
+          "shard": "VSAT",
+          "count": 53
+        },
+        {
+          "shard": "ASTS",
+          "count": 45
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "term": "Spacecraft",
+      "key": "spacecraft",
+      "count": 550,
+      "byShard": [
+        {
+          "shard": "RKLB",
+          "count": 103
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 63
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 39
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 36
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "term": "Challenges",
+      "key": "challenges",
+      "count": 549,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 87
+        },
+        {
+          "shard": "report__gao-dod-space-ops-2025",
+          "count": 46
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 41
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 38
+        },
+        {
+          "shard": "NOC",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "term": "Credit",
+      "key": "credit",
+      "count": 548,
+      "byShard": [
+        {
+          "shard": "VSAT",
+          "count": 75
+        },
+        {
+          "shard": "ASTS",
+          "count": 49
+        },
+        {
+          "shard": "RTX",
+          "count": 49
+        },
+        {
+          "shard": "RDW",
+          "count": 43
+        },
+        {
+          "shard": "SPIR",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "term": "Meet",
+      "key": "meet",
+      "count": 546,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 44
+        },
+        {
+          "shard": "MNTS",
+          "count": 40
+        },
+        {
+          "shard": "RDW",
+          "count": 39
+        },
+        {
+          "shard": "ASTS",
+          "count": 37
+        },
+        {
+          "shard": "RKLB",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "term": "Transportation",
+      "key": "transportation",
+      "count": 546,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 341
+        },
+        {
+          "shard": "MNTS",
+          "count": 28
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 18
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 18
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "term": "Summary",
+      "key": "summary",
+      "count": 545,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 260
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 30
+        },
+        {
+          "shard": "RTX",
+          "count": 23
+        },
+        {
+          "shard": "BKSY",
+          "count": 20
+        },
+        {
+          "shard": "MNTS",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "term": "Position",
+      "key": "position",
+      "count": 543,
+      "byShard": [
+        {
+          "shard": "NOC",
+          "count": 77
+        },
+        {
+          "shard": "BA",
+          "count": 69
+        },
+        {
+          "shard": "RKLB",
+          "count": 33
+        },
+        {
+          "shard": "PL",
+          "count": 32
+        },
+        {
+          "shard": "RTX",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "term": "Group",
+      "key": "group",
+      "count": 542,
+      "byShard": [
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 219
+        },
+        {
+          "shard": "LHX",
+          "count": 46
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 26
+        },
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 22
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "term": "Regarding",
+      "key": "regarding",
+      "count": 536,
+      "byShard": [
+        {
+          "shard": "NOC",
+          "count": 42
+        },
+        {
+          "shard": "LHX",
+          "count": 41
+        },
+        {
+          "shard": "PL",
+          "count": 40
+        },
+        {
+          "shard": "SPIR",
+          "count": 40
+        },
+        {
+          "shard": "LMT",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "term": "Benefit",
+      "key": "benefit",
+      "count": 536,
+      "byShard": [
+        {
+          "shard": "RTX",
+          "count": 71
+        },
+        {
+          "shard": "LHX",
+          "count": 55
+        },
+        {
+          "shard": "LMT",
+          "count": 55
+        },
+        {
+          "shard": "BA",
+          "count": 50
+        },
+        {
+          "shard": "NOC",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Units",
+      "key": "units",
+      "count": 532,
+      "byShard": [
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 159
+        },
+        {
+          "shard": "ASTS",
+          "count": 44
+        },
+        {
+          "shard": "BA",
+          "count": 40
+        },
+        {
+          "shard": "RDW",
+          "count": 34
+        },
+        {
+          "shard": "BKSY",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "term": "Process",
+      "key": "process",
+      "count": 530,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 41
+        },
+        {
+          "shard": "BKSY",
+          "count": 34
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 33
+        },
+        {
+          "shard": "BA",
+          "count": 30
+        },
+        {
+          "shard": "PL",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "term": "Agencies",
+      "key": "agencies",
+      "count": 525,
+      "byShard": [
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 70
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 37
+        },
+        {
+          "shard": "report__eurospace-ff-2022",
+          "count": 36
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 34
+        },
+        {
+          "shard": "BKSY",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Technical",
+      "key": "technical",
+      "count": 522,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 40
+        },
+        {
+          "shard": "LMT",
+          "count": 35
+        },
+        {
+          "shard": "VSAT",
+          "count": 33
+        },
+        {
+          "shard": "PL",
+          "count": 30
+        },
+        {
+          "shard": "report__oecd-handbook-space-economy-2022",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "China",
+      "key": "china",
+      "count": 519,
+      "byShard": [
+        {
+          "shard": "report__csis-space-threat-2024",
+          "count": 108
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 97
+        },
+        {
+          "shard": "report__csis-space-threat-2025",
+          "count": 69
+        },
+        {
+          "shard": "report__faa-ast-compendium-2018",
+          "count": 69
+        },
+        {
+          "shard": "report__oecd-space-economy-figures-2023",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "term": "Issues",
+      "key": "issues",
+      "count": 516,
+      "byShard": [
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 62
+        },
+        {
+          "shard": "report__nasa-oig-artemis-supply-chain-2023",
+          "count": 47
+        },
+        {
+          "shard": "report__nasa-oig-artemis-ii-2024",
+          "count": 39
+        },
+        {
+          "shard": "report__jaxa-sustainability-2024",
+          "count": 34
+        },
+        {
+          "shard": "RTX",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Software",
+      "key": "software",
+      "count": 513,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 83
+        },
+        {
+          "shard": "PL",
+          "count": 63
+        },
+        {
+          "shard": "VSAT",
+          "count": 32
+        },
+        {
+          "shard": "report__nasa-economic-impact-fy23",
+          "count": 32
+        },
+        {
+          "shard": "ASTS",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Accounts",
+      "key": "accounts",
+      "count": 511,
+      "byShard": [
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 99
+        },
+        {
+          "shard": "VSAT",
+          "count": 32
+        },
+        {
+          "shard": "PL",
+          "count": 31
+        },
+        {
+          "shard": "RKLB",
+          "count": 31
+        },
+        {
+          "shard": "BKSY",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "term": "Executive",
+      "key": "executive",
+      "count": 508,
+      "byShard": [
+        {
+          "shard": "report__uksa-annual-2023-24",
+          "count": 62
+        },
+        {
+          "shard": "report__aerospace-corp-space-agenda-2025",
+          "count": 50
+        },
+        {
+          "shard": "BA",
+          "count": 32
+        },
+        {
+          "shard": "RTX",
+          "count": 30
+        },
+        {
+          "shard": "VSAT",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "term": "Able",
+      "key": "able",
+      "count": 507,
+      "byShard": [
+        {
+          "shard": "BKSY",
+          "count": 48
+        },
+        {
+          "shard": "PL",
+          "count": 46
+        },
+        {
+          "shard": "MNTS",
+          "count": 38
+        },
+        {
+          "shard": "ASTS",
+          "count": 37
+        },
+        {
+          "shard": "RKLB",
+          "count": 35
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1555 @@
+{
+  "generatedAt": "2026-06-05T02:28:08.672Z",
+  "topicId": "space-economy",
+  "summary": {
+    "filerCount": 15,
+    "supplierCount": 22,
+    "filerLinkCount": 73,
+    "sharedSuppliers": 17,
+    "topShared": [
+      {
+        "supplier": "Gateway / teleport",
+        "subsystem": "Ground & comms",
+        "filers": 9,
+        "mentions": 109
+      },
+      {
+        "supplier": "SpaceX launch services",
+        "subsystem": "Launch services",
+        "filers": 8,
+        "mentions": 44
+      },
+      {
+        "supplier": "EO imager",
+        "subsystem": "Optics & imaging",
+        "filers": 7,
+        "mentions": 27
+      },
+      {
+        "supplier": "Viasat global network",
+        "subsystem": "Ground & comms",
+        "filers": 5,
+        "mentions": 172
+      },
+      {
+        "supplier": "MDA (Canada)",
+        "subsystem": "Optics & imaging",
+        "filers": 5,
+        "mentions": 37
+      },
+      {
+        "supplier": "ULA (Vulcan / Atlas)",
+        "subsystem": "Launch services",
+        "filers": 5,
+        "mentions": 17
+      },
+      {
+        "supplier": "Inmarsat ELERA",
+        "subsystem": "Ground & comms",
+        "filers": 4,
+        "mentions": 207
+      },
+      {
+        "supplier": "Ka / Ku band electronics",
+        "subsystem": "RF & antenna",
+        "filers": 3,
+        "mentions": 22
+      },
+      {
+        "supplier": "Airbus Defence & Space",
+        "subsystem": "Integration & test",
+        "filers": 3,
+        "mentions": 13
+      },
+      {
+        "supplier": "Eutelsat OneWeb",
+        "subsystem": "Ground & comms",
+        "filers": 3,
+        "mentions": 5
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "id": "Space supply chain",
+      "name": "Space supply chain",
+      "tier": 0,
+      "group": "product",
+      "description": "Aggregate vendor citations across 15 SEC filers",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Propulsion",
+      "name": "Propulsion",
+      "tier": 1,
+      "group": "rocket",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Rutherford engine",
+      "name": "Rutherford engine",
+      "tier": 2,
+      "group": "rocket",
+      "description": "Propulsion · 1 filer cite this supplier",
+      "country": "US",
+      "mentionScore": 7
+    },
+    {
+      "id": "Rutherford engine · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "rocket",
+      "description": "RKLB cites Rutherford engine 7× in 10-K",
+      "country": "US",
+      "mentionScore": 7
+    },
+    {
+      "id": "Avionics & ASIC/FPGA",
+      "name": "Avionics & ASIC/FPGA",
+      "tier": 1,
+      "group": "electronics",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "BAE Systems",
+      "name": "BAE Systems",
+      "tier": 2,
+      "group": "electronics",
+      "description": "Avionics & ASIC/FPGA · 3 filers cite this supplier",
+      "country": "GB",
+      "mentionScore": 4
+    },
+    {
+      "id": "BAE Systems · BA",
+      "name": "BA",
+      "tier": 3,
+      "group": "electronics",
+      "description": "BA cites BAE Systems 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "BAE Systems · LHX",
+      "name": "LHX",
+      "tier": 3,
+      "group": "electronics",
+      "description": "LHX cites BAE Systems 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "BAE Systems · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "electronics",
+      "description": "VSAT cites BAE Systems 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "RF & antenna",
+      "name": "RF & antenna",
+      "tier": 1,
+      "group": "rf",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Phased-array antenna",
+      "name": "Phased-array antenna",
+      "tier": 2,
+      "group": "rf",
+      "description": "RF & antenna · 1 filer cite this supplier",
+      "country": null,
+      "mentionScore": 31
+    },
+    {
+      "id": "Phased-array antenna · ASTS",
+      "name": "ASTS",
+      "tier": 3,
+      "group": "rf",
+      "description": "ASTS cites Phased-array antenna 31× in 10-K",
+      "country": "US",
+      "mentionScore": 31
+    },
+    {
+      "id": "Ka / Ku band electronics",
+      "name": "Ka / Ku band electronics",
+      "tier": 2,
+      "group": "rf",
+      "description": "RF & antenna · 3 filers cite this supplier",
+      "country": null,
+      "mentionScore": 22
+    },
+    {
+      "id": "Ka / Ku band electronics · ASTS",
+      "name": "ASTS",
+      "tier": 3,
+      "group": "rf",
+      "description": "ASTS cites Ka / Ku band electronics 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Ka / Ku band electronics · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "rf",
+      "description": "IRDM cites Ka / Ku band electronics 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Ka / Ku band electronics · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "rf",
+      "description": "VSAT cites Ka / Ku band electronics 19× in 10-K",
+      "country": "US",
+      "mentionScore": 19
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "EO imager",
+      "name": "EO imager",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · 7 filers cite this supplier",
+      "country": null,
+      "mentionScore": 27
+    },
+    {
+      "id": "EO imager · BKSY",
+      "name": "BKSY",
+      "tier": 3,
+      "group": "optics",
+      "description": "BKSY cites EO imager 9× in 10-K",
+      "country": "US",
+      "mentionScore": 9
+    },
+    {
+      "id": "EO imager · LHX",
+      "name": "LHX",
+      "tier": 3,
+      "group": "optics",
+      "description": "LHX cites EO imager 8× in 10-K",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "EO imager · NOC",
+      "name": "NOC",
+      "tier": 3,
+      "group": "optics",
+      "description": "NOC cites EO imager 3× in 10-K",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "EO imager · PL",
+      "name": "PL",
+      "tier": 3,
+      "group": "optics",
+      "description": "PL cites EO imager 3× in 10-K",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "EO imager · RDW",
+      "name": "RDW",
+      "tier": 3,
+      "group": "optics",
+      "description": "RDW cites EO imager 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "EO imager · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "optics",
+      "description": "RKLB cites EO imager 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "EO imager · RTX",
+      "name": "RTX",
+      "tier": 3,
+      "group": "optics",
+      "description": "RTX cites EO imager 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Power & solar",
+      "name": "Power & solar",
+      "tier": 1,
+      "group": "power",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Rocket Lab SolAero",
+      "name": "Rocket Lab SolAero",
+      "tier": 2,
+      "group": "power",
+      "description": "Power & solar · 1 filer cite this supplier",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "Rocket Lab SolAero · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "power",
+      "description": "RKLB cites Rocket Lab SolAero 5× in 10-K",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "GN&C / star trackers",
+      "name": "GN&C / star trackers",
+      "tier": 1,
+      "group": "gnc",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Sinclair Interplanetary",
+      "name": "Sinclair Interplanetary",
+      "tier": 2,
+      "group": "gnc",
+      "description": "GN&C / star trackers · 1 filer cite this supplier",
+      "country": "CA",
+      "mentionScore": 4
+    },
+    {
+      "id": "Sinclair Interplanetary · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "gnc",
+      "description": "RKLB cites Sinclair Interplanetary 4× in 10-K",
+      "country": "US",
+      "mentionScore": 4
+    },
+    {
+      "id": "Structures & TPS",
+      "name": "Structures & TPS",
+      "tier": 1,
+      "group": "structures",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Carbon-fiber composite",
+      "name": "Carbon-fiber composite",
+      "tier": 2,
+      "group": "structures",
+      "description": "Structures & TPS · 2 filers cite this supplier",
+      "country": null,
+      "mentionScore": 5
+    },
+    {
+      "id": "Carbon-fiber composite · LMT",
+      "name": "LMT",
+      "tier": 3,
+      "group": "structures",
+      "description": "LMT cites Carbon-fiber composite 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Carbon-fiber composite · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "structures",
+      "description": "RKLB cites Carbon-fiber composite 4× in 10-K",
+      "country": "US",
+      "mentionScore": 4
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "SpaceX launch services",
+      "name": "SpaceX launch services",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · 8 filers cite this supplier",
+      "country": "US",
+      "mentionScore": 44
+    },
+    {
+      "id": "SpaceX launch services · ASTS",
+      "name": "ASTS",
+      "tier": 3,
+      "group": "launch",
+      "description": "ASTS cites SpaceX launch services 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "SpaceX launch services · BA",
+      "name": "BA",
+      "tier": 3,
+      "group": "launch",
+      "description": "BA cites SpaceX launch services 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "SpaceX launch services · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "launch",
+      "description": "GSAT cites SpaceX launch services 24× in 10-K",
+      "country": "US",
+      "mentionScore": 24
+    },
+    {
+      "id": "SpaceX launch services · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "launch",
+      "description": "IRDM cites SpaceX launch services 4× in 10-K",
+      "country": "US",
+      "mentionScore": 4
+    },
+    {
+      "id": "SpaceX launch services · MNTS",
+      "name": "MNTS",
+      "tier": 3,
+      "group": "launch",
+      "description": "MNTS cites SpaceX launch services 5× in 10-K",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "SpaceX launch services · PL",
+      "name": "PL",
+      "tier": 3,
+      "group": "launch",
+      "description": "PL cites SpaceX launch services 3× in 10-K",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "SpaceX launch services · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "launch",
+      "description": "RKLB cites SpaceX launch services 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "SpaceX launch services · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "launch",
+      "description": "VSAT cites SpaceX launch services 4× in 10-K",
+      "country": "US",
+      "mentionScore": 4
+    },
+    {
+      "id": "ULA (Vulcan / Atlas)",
+      "name": "ULA (Vulcan / Atlas)",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · 5 filers cite this supplier",
+      "country": "US",
+      "mentionScore": 17
+    },
+    {
+      "id": "ULA (Vulcan / Atlas) · BA",
+      "name": "BA",
+      "tier": 3,
+      "group": "launch",
+      "description": "BA cites ULA (Vulcan / Atlas) 4× in 10-K",
+      "country": "US",
+      "mentionScore": 4
+    },
+    {
+      "id": "ULA (Vulcan / Atlas) · LMT",
+      "name": "LMT",
+      "tier": 3,
+      "group": "launch",
+      "description": "LMT cites ULA (Vulcan / Atlas) 8× in 10-K",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "ULA (Vulcan / Atlas) · MNTS",
+      "name": "MNTS",
+      "tier": 3,
+      "group": "launch",
+      "description": "MNTS cites ULA (Vulcan / Atlas) 3× in 10-K",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "ULA (Vulcan / Atlas) · NOC",
+      "name": "NOC",
+      "tier": 3,
+      "group": "launch",
+      "description": "NOC cites ULA (Vulcan / Atlas) 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "ULA (Vulcan / Atlas) · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "launch",
+      "description": "RKLB cites ULA (Vulcan / Atlas) 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · 9 filers cite this supplier",
+      "country": null,
+      "mentionScore": 109
+    },
+    {
+      "id": "Gateway / teleport · ASTS",
+      "name": "ASTS",
+      "tier": 3,
+      "group": "ground",
+      "description": "ASTS cites Gateway / teleport 15× in 10-K",
+      "country": "US",
+      "mentionScore": 15
+    },
+    {
+      "id": "Gateway / teleport · BKSY",
+      "name": "BKSY",
+      "tier": 3,
+      "group": "ground",
+      "description": "BKSY cites Gateway / teleport 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Gateway / teleport · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "GSAT cites Gateway / teleport 16× in 10-K",
+      "country": "US",
+      "mentionScore": 16
+    },
+    {
+      "id": "Gateway / teleport · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "ground",
+      "description": "IRDM cites Gateway / teleport 57× in 10-K",
+      "country": "US",
+      "mentionScore": 57
+    },
+    {
+      "id": "Gateway / teleport · NOC",
+      "name": "NOC",
+      "tier": 3,
+      "group": "ground",
+      "description": "NOC cites Gateway / teleport 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Gateway / teleport · PL",
+      "name": "PL",
+      "tier": 3,
+      "group": "ground",
+      "description": "PL cites Gateway / teleport 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Gateway / teleport · RDW",
+      "name": "RDW",
+      "tier": 3,
+      "group": "ground",
+      "description": "RDW cites Gateway / teleport 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Gateway / teleport · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "ground",
+      "description": "RKLB cites Gateway / teleport 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Gateway / teleport · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "VSAT cites Gateway / teleport 13× in 10-K",
+      "country": "US",
+      "mentionScore": 13
+    },
+    {
+      "id": "Viasat global network",
+      "name": "Viasat global network",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · 5 filers cite this supplier",
+      "country": "US",
+      "mentionScore": 172
+    },
+    {
+      "id": "Viasat global network · ASTS",
+      "name": "ASTS",
+      "tier": 3,
+      "group": "ground",
+      "description": "ASTS cites Viasat global network 5× in 10-K",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "Viasat global network · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "GSAT cites Viasat global network 8× in 10-K",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "Viasat global network · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "ground",
+      "description": "IRDM cites Viasat global network 8× in 10-K",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "Viasat global network · LHX",
+      "name": "LHX",
+      "tier": 3,
+      "group": "ground",
+      "description": "LHX cites Viasat global network 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Viasat global network · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "VSAT cites Viasat global network 150× in 10-K",
+      "country": "US",
+      "mentionScore": 150
+    },
+    {
+      "id": "Inmarsat ELERA",
+      "name": "Inmarsat ELERA",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · 4 filers cite this supplier",
+      "country": "GB",
+      "mentionScore": 207
+    },
+    {
+      "id": "Inmarsat ELERA · ASTS",
+      "name": "ASTS",
+      "tier": 3,
+      "group": "ground",
+      "description": "ASTS cites Inmarsat ELERA 38× in 10-K",
+      "country": "US",
+      "mentionScore": 38
+    },
+    {
+      "id": "Inmarsat ELERA · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "GSAT cites Inmarsat ELERA 6× in 10-K",
+      "country": "US",
+      "mentionScore": 6
+    },
+    {
+      "id": "Inmarsat ELERA · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "ground",
+      "description": "IRDM cites Inmarsat ELERA 5× in 10-K",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "Inmarsat ELERA · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "VSAT cites Inmarsat ELERA 158× in 10-K",
+      "country": "US",
+      "mentionScore": 158
+    },
+    {
+      "id": "Integration & test",
+      "name": "Integration & test",
+      "tier": 1,
+      "group": "integration",
+      "description": "Subsystem category",
+      "country": null,
+      "mentionScore": 0
+    },
+    {
+      "id": "Airbus Defence & Space",
+      "name": "Airbus Defence & Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · 3 filers cite this supplier",
+      "country": "FR",
+      "mentionScore": 13
+    },
+    {
+      "id": "Airbus Defence & Space · BA",
+      "name": "BA",
+      "tier": 3,
+      "group": "integration",
+      "description": "BA cites Airbus Defence & Space 3× in 10-K",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "Airbus Defence & Space · PL",
+      "name": "PL",
+      "tier": 3,
+      "group": "integration",
+      "description": "PL cites Airbus Defence & Space 2× in 10-K",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Airbus Defence & Space · RTX",
+      "name": "RTX",
+      "tier": 3,
+      "group": "integration",
+      "description": "RTX cites Airbus Defence & Space 8× in 10-K",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "Thales Alenia Space",
+      "name": "Thales Alenia Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · 2 filers cite this supplier",
+      "country": "FR",
+      "mentionScore": 5
+    },
+    {
+      "id": "Thales Alenia Space · BKSY",
+      "name": "BKSY",
+      "tier": 3,
+      "group": "integration",
+      "description": "BKSY cites Thales Alenia Space 4× in 10-K",
+      "country": "US",
+      "mentionScore": 4
+    },
+    {
+      "id": "Thales Alenia Space · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "integration",
+      "description": "RKLB cites Thales Alenia Space 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Eutelsat OneWeb",
+      "name": "Eutelsat OneWeb",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · 3 filers cite this supplier",
+      "country": "FR",
+      "mentionScore": 5
+    },
+    {
+      "id": "Eutelsat OneWeb · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "GSAT cites Eutelsat OneWeb 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Eutelsat OneWeb · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "ground",
+      "description": "IRDM cites Eutelsat OneWeb 3× in 10-K",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "Eutelsat OneWeb · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "VSAT cites Eutelsat OneWeb 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "SES network",
+      "name": "SES network",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · 2 filers cite this supplier",
+      "country": "LU",
+      "mentionScore": 2
+    },
+    {
+      "id": "SES network · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "ground",
+      "description": "GSAT cites SES network 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "SES network · IRDM",
+      "name": "IRDM",
+      "tier": 3,
+      "group": "ground",
+      "description": "IRDM cites SES network 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Firefly Aerospace",
+      "name": "Firefly Aerospace",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · 2 filers cite this supplier",
+      "country": "US",
+      "mentionScore": 2
+    },
+    {
+      "id": "Firefly Aerospace · MNTS",
+      "name": "MNTS",
+      "tier": 3,
+      "group": "launch",
+      "description": "MNTS cites Firefly Aerospace 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Firefly Aerospace · PL",
+      "name": "PL",
+      "tier": 3,
+      "group": "launch",
+      "description": "PL cites Firefly Aerospace 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Maxar Intelligence",
+      "name": "Maxar Intelligence",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · 3 filers cite this supplier",
+      "country": "US",
+      "mentionScore": 3
+    },
+    {
+      "id": "Maxar Intelligence · MNTS",
+      "name": "MNTS",
+      "tier": 3,
+      "group": "optics",
+      "description": "MNTS cites Maxar Intelligence 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Maxar Intelligence · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "optics",
+      "description": "RKLB cites Maxar Intelligence 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Maxar Intelligence · VSAT",
+      "name": "VSAT",
+      "tier": 3,
+      "group": "optics",
+      "description": "VSAT cites Maxar Intelligence 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "MDA (Canada)",
+      "name": "MDA (Canada)",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · 5 filers cite this supplier",
+      "country": "CA",
+      "mentionScore": 37
+    },
+    {
+      "id": "MDA (Canada) · GSAT",
+      "name": "GSAT",
+      "tier": 3,
+      "group": "optics",
+      "description": "GSAT cites MDA (Canada) 29× in 10-K",
+      "country": "US",
+      "mentionScore": 29
+    },
+    {
+      "id": "MDA (Canada) · LMT",
+      "name": "LMT",
+      "tier": 3,
+      "group": "optics",
+      "description": "LMT cites MDA (Canada) 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "MDA (Canada) · NOC",
+      "name": "NOC",
+      "tier": 3,
+      "group": "optics",
+      "description": "NOC cites MDA (Canada) 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "MDA (Canada) · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "optics",
+      "description": "RKLB cites MDA (Canada) 5× in 10-K",
+      "country": "US",
+      "mentionScore": 5
+    },
+    {
+      "id": "MDA (Canada) · RTX",
+      "name": "RTX",
+      "tier": 3,
+      "group": "optics",
+      "description": "RTX cites MDA (Canada) 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Redwire Space",
+      "name": "Redwire Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · 2 filers cite this supplier",
+      "country": "US",
+      "mentionScore": 201
+    },
+    {
+      "id": "Redwire Space · RDW",
+      "name": "RDW",
+      "tier": 3,
+      "group": "integration",
+      "description": "RDW cites Redwire Space 200× in 10-K",
+      "country": "US",
+      "mentionScore": 200
+    },
+    {
+      "id": "Redwire Space · RKLB",
+      "name": "RKLB",
+      "tier": 3,
+      "group": "integration",
+      "description": "RKLB cites Redwire Space 1× in 10-K",
+      "country": "US",
+      "mentionScore": 1
+    },
+    {
+      "id": "Momentus Vigoride",
+      "name": "Momentus Vigoride",
+      "tier": 2,
+      "group": "rocket",
+      "description": "Propulsion · 1 filer cite this supplier",
+      "country": "US",
+      "mentionScore": 41
+    },
+    {
+      "id": "Momentus Vigoride · MNTS",
+      "name": "MNTS",
+      "tier": 3,
+      "group": "rocket",
+      "description": "MNTS cites Momentus Vigoride 41× in 10-K",
+      "country": "US",
+      "mentionScore": 41
+    }
+  ],
+  "links": [
+    {
+      "source": "Rutherford engine",
+      "target": "Propulsion",
+      "value": 7
+    },
+    {
+      "source": "Rutherford engine · RKLB",
+      "target": "Rutherford engine",
+      "value": 7
+    },
+    {
+      "source": "BAE Systems",
+      "target": "Avionics & ASIC/FPGA",
+      "value": 4
+    },
+    {
+      "source": "BAE Systems · BA",
+      "target": "BAE Systems",
+      "value": 1
+    },
+    {
+      "source": "BAE Systems · LHX",
+      "target": "BAE Systems",
+      "value": 1
+    },
+    {
+      "source": "BAE Systems · VSAT",
+      "target": "BAE Systems",
+      "value": 2
+    },
+    {
+      "source": "Phased-array antenna",
+      "target": "RF & antenna",
+      "value": 31
+    },
+    {
+      "source": "Phased-array antenna · ASTS",
+      "target": "Phased-array antenna",
+      "value": 31
+    },
+    {
+      "source": "Ka / Ku band electronics",
+      "target": "RF & antenna",
+      "value": 22
+    },
+    {
+      "source": "Ka / Ku band electronics · ASTS",
+      "target": "Ka / Ku band electronics",
+      "value": 1
+    },
+    {
+      "source": "Ka / Ku band electronics · IRDM",
+      "target": "Ka / Ku band electronics",
+      "value": 2
+    },
+    {
+      "source": "Ka / Ku band electronics · VSAT",
+      "target": "Ka / Ku band electronics",
+      "value": 19
+    },
+    {
+      "source": "EO imager",
+      "target": "Optics & imaging",
+      "value": 27
+    },
+    {
+      "source": "EO imager · BKSY",
+      "target": "EO imager",
+      "value": 9
+    },
+    {
+      "source": "EO imager · LHX",
+      "target": "EO imager",
+      "value": 8
+    },
+    {
+      "source": "EO imager · NOC",
+      "target": "EO imager",
+      "value": 3
+    },
+    {
+      "source": "EO imager · PL",
+      "target": "EO imager",
+      "value": 3
+    },
+    {
+      "source": "EO imager · RDW",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "EO imager · RKLB",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "EO imager · RTX",
+      "target": "EO imager",
+      "value": 2
+    },
+    {
+      "source": "Rocket Lab SolAero",
+      "target": "Power & solar",
+      "value": 5
+    },
+    {
+      "source": "Rocket Lab SolAero · RKLB",
+      "target": "Rocket Lab SolAero",
+      "value": 5
+    },
+    {
+      "source": "Sinclair Interplanetary",
+      "target": "GN&C / star trackers",
+      "value": 4
+    },
+    {
+      "source": "Sinclair Interplanetary · RKLB",
+      "target": "Sinclair Interplanetary",
+      "value": 4
+    },
+    {
+      "source": "Carbon-fiber composite",
+      "target": "Structures & TPS",
+      "value": 5
+    },
+    {
+      "source": "Carbon-fiber composite · LMT",
+      "target": "Carbon-fiber composite",
+      "value": 1
+    },
+    {
+      "source": "Carbon-fiber composite · RKLB",
+      "target": "Carbon-fiber composite",
+      "value": 4
+    },
+    {
+      "source": "SpaceX launch services",
+      "target": "Launch services",
+      "value": 44
+    },
+    {
+      "source": "SpaceX launch services · ASTS",
+      "target": "SpaceX launch services",
+      "value": 2
+    },
+    {
+      "source": "SpaceX launch services · BA",
+      "target": "SpaceX launch services",
+      "value": 1
+    },
+    {
+      "source": "SpaceX launch services · GSAT",
+      "target": "SpaceX launch services",
+      "value": 24
+    },
+    {
+      "source": "SpaceX launch services · IRDM",
+      "target": "SpaceX launch services",
+      "value": 4
+    },
+    {
+      "source": "SpaceX launch services · MNTS",
+      "target": "SpaceX launch services",
+      "value": 5
+    },
+    {
+      "source": "SpaceX launch services · PL",
+      "target": "SpaceX launch services",
+      "value": 3
+    },
+    {
+      "source": "SpaceX launch services · RKLB",
+      "target": "SpaceX launch services",
+      "value": 1
+    },
+    {
+      "source": "SpaceX launch services · VSAT",
+      "target": "SpaceX launch services",
+      "value": 4
+    },
+    {
+      "source": "ULA (Vulcan / Atlas)",
+      "target": "Launch services",
+      "value": 17
+    },
+    {
+      "source": "ULA (Vulcan / Atlas) · BA",
+      "target": "ULA (Vulcan / Atlas)",
+      "value": 4
+    },
+    {
+      "source": "ULA (Vulcan / Atlas) · LMT",
+      "target": "ULA (Vulcan / Atlas)",
+      "value": 8
+    },
+    {
+      "source": "ULA (Vulcan / Atlas) · MNTS",
+      "target": "ULA (Vulcan / Atlas)",
+      "value": 3
+    },
+    {
+      "source": "ULA (Vulcan / Atlas) · NOC",
+      "target": "ULA (Vulcan / Atlas)",
+      "value": 1
+    },
+    {
+      "source": "ULA (Vulcan / Atlas) · RKLB",
+      "target": "ULA (Vulcan / Atlas)",
+      "value": 1
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 109
+    },
+    {
+      "source": "Gateway / teleport · ASTS",
+      "target": "Gateway / teleport",
+      "value": 15
+    },
+    {
+      "source": "Gateway / teleport · BKSY",
+      "target": "Gateway / teleport",
+      "value": 2
+    },
+    {
+      "source": "Gateway / teleport · GSAT",
+      "target": "Gateway / teleport",
+      "value": 16
+    },
+    {
+      "source": "Gateway / teleport · IRDM",
+      "target": "Gateway / teleport",
+      "value": 57
+    },
+    {
+      "source": "Gateway / teleport · NOC",
+      "target": "Gateway / teleport",
+      "value": 2
+    },
+    {
+      "source": "Gateway / teleport · PL",
+      "target": "Gateway / teleport",
+      "value": 1
+    },
+    {
+      "source": "Gateway / teleport · RDW",
+      "target": "Gateway / teleport",
+      "value": 2
+    },
+    {
+      "source": "Gateway / teleport · RKLB",
+      "target": "Gateway / teleport",
+      "value": 1
+    },
+    {
+      "source": "Gateway / teleport · VSAT",
+      "target": "Gateway / teleport",
+      "value": 13
+    },
+    {
+      "source": "Viasat global network",
+      "target": "Ground & comms",
+      "value": 172
+    },
+    {
+      "source": "Viasat global network · ASTS",
+      "target": "Viasat global network",
+      "value": 5
+    },
+    {
+      "source": "Viasat global network · GSAT",
+      "target": "Viasat global network",
+      "value": 8
+    },
+    {
+      "source": "Viasat global network · IRDM",
+      "target": "Viasat global network",
+      "value": 8
+    },
+    {
+      "source": "Viasat global network · LHX",
+      "target": "Viasat global network",
+      "value": 1
+    },
+    {
+      "source": "Viasat global network · VSAT",
+      "target": "Viasat global network",
+      "value": 150
+    },
+    {
+      "source": "Inmarsat ELERA",
+      "target": "Ground & comms",
+      "value": 207
+    },
+    {
+      "source": "Inmarsat ELERA · ASTS",
+      "target": "Inmarsat ELERA",
+      "value": 38
+    },
+    {
+      "source": "Inmarsat ELERA · GSAT",
+      "target": "Inmarsat ELERA",
+      "value": 6
+    },
+    {
+      "source": "Inmarsat ELERA · IRDM",
+      "target": "Inmarsat ELERA",
+      "value": 5
+    },
+    {
+      "source": "Inmarsat ELERA · VSAT",
+      "target": "Inmarsat ELERA",
+      "value": 158
+    },
+    {
+      "source": "Airbus Defence & Space",
+      "target": "Integration & test",
+      "value": 13
+    },
+    {
+      "source": "Airbus Defence & Space · BA",
+      "target": "Airbus Defence & Space",
+      "value": 3
+    },
+    {
+      "source": "Airbus Defence & Space · PL",
+      "target": "Airbus Defence & Space",
+      "value": 2
+    },
+    {
+      "source": "Airbus Defence & Space · RTX",
+      "target": "Airbus Defence & Space",
+      "value": 8
+    },
+    {
+      "source": "Thales Alenia Space",
+      "target": "Integration & test",
+      "value": 5
+    },
+    {
+      "source": "Thales Alenia Space · BKSY",
+      "target": "Thales Alenia Space",
+      "value": 4
+    },
+    {
+      "source": "Thales Alenia Space · RKLB",
+      "target": "Thales Alenia Space",
+      "value": 1
+    },
+    {
+      "source": "Eutelsat OneWeb",
+      "target": "Ground & comms",
+      "value": 5
+    },
+    {
+      "source": "Eutelsat OneWeb · GSAT",
+      "target": "Eutelsat OneWeb",
+      "value": 1
+    },
+    {
+      "source": "Eutelsat OneWeb · IRDM",
+      "target": "Eutelsat OneWeb",
+      "value": 3
+    },
+    {
+      "source": "Eutelsat OneWeb · VSAT",
+      "target": "Eutelsat OneWeb",
+      "value": 1
+    },
+    {
+      "source": "SES network",
+      "target": "Ground & comms",
+      "value": 2
+    },
+    {
+      "source": "SES network · GSAT",
+      "target": "SES network",
+      "value": 1
+    },
+    {
+      "source": "SES network · IRDM",
+      "target": "SES network",
+      "value": 1
+    },
+    {
+      "source": "Firefly Aerospace",
+      "target": "Launch services",
+      "value": 2
+    },
+    {
+      "source": "Firefly Aerospace · MNTS",
+      "target": "Firefly Aerospace",
+      "value": 1
+    },
+    {
+      "source": "Firefly Aerospace · PL",
+      "target": "Firefly Aerospace",
+      "value": 1
+    },
+    {
+      "source": "Maxar Intelligence",
+      "target": "Optics & imaging",
+      "value": 3
+    },
+    {
+      "source": "Maxar Intelligence · MNTS",
+      "target": "Maxar Intelligence",
+      "value": 1
+    },
+    {
+      "source": "Maxar Intelligence · RKLB",
+      "target": "Maxar Intelligence",
+      "value": 1
+    },
+    {
+      "source": "Maxar Intelligence · VSAT",
+      "target": "Maxar Intelligence",
+      "value": 1
+    },
+    {
+      "source": "MDA (Canada)",
+      "target": "Optics & imaging",
+      "value": 37
+    },
+    {
+      "source": "MDA (Canada) · GSAT",
+      "target": "MDA (Canada)",
+      "value": 29
+    },
+    {
+      "source": "MDA (Canada) · LMT",
+      "target": "MDA (Canada)",
+      "value": 1
+    },
+    {
+      "source": "MDA (Canada) · NOC",
+      "target": "MDA (Canada)",
+      "value": 1
+    },
+    {
+      "source": "MDA (Canada) · RKLB",
+      "target": "MDA (Canada)",
+      "value": 5
+    },
+    {
+      "source": "MDA (Canada) · RTX",
+      "target": "MDA (Canada)",
+      "value": 1
+    },
+    {
+      "source": "Redwire Space",
+      "target": "Integration & test",
+      "value": 201
+    },
+    {
+      "source": "Redwire Space · RDW",
+      "target": "Redwire Space",
+      "value": 200
+    },
+    {
+      "source": "Redwire Space · RKLB",
+      "target": "Redwire Space",
+      "value": 1
+    },
+    {
+      "source": "Momentus Vigoride",
+      "target": "Propulsion",
+      "value": 41
+    },
+    {
+      "source": "Momentus Vigoride · MNTS",
+      "target": "Momentus Vigoride",
+      "value": 41
+    },
+    {
+      "source": "Propulsion",
+      "target": "Space supply chain",
+      "value": 48
+    },
+    {
+      "source": "Avionics & ASIC/FPGA",
+      "target": "Space supply chain",
+      "value": 4
+    },
+    {
+      "source": "RF & antenna",
+      "target": "Space supply chain",
+      "value": 53
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "Space supply chain",
+      "value": 67
+    },
+    {
+      "source": "Power & solar",
+      "target": "Space supply chain",
+      "value": 5
+    },
+    {
+      "source": "GN&C / star trackers",
+      "target": "Space supply chain",
+      "value": 4
+    },
+    {
+      "source": "Structures & TPS",
+      "target": "Space supply chain",
+      "value": 5
+    },
+    {
+      "source": "Launch services",
+      "target": "Space supply chain",
+      "value": 63
+    },
+    {
+      "source": "Ground & comms",
+      "target": "Space supply chain",
+      "value": 495
+    },
+    {
+      "source": "Integration & test",
+      "target": "Space supply chain",
+      "value": 219
+    }
+  ]
+}

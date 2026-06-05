@@ -1,0 +1,165 @@
+{
+  "ticker": "BKSY",
+  "topicId": "space-economy",
+  "product": "BlackSky EO constellation",
+  "segment": "downstream",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-17",
+    "accessionNumber": "0001753539-26-000032",
+    "primaryDocument": "bksy-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000032/bksy-20251231.htm",
+  "summary": {
+    "nodeCount": 8,
+    "linkCount": 7,
+    "totalFlow": 15,
+    "filingChars": 469438,
+    "mentionDensity": 0.03,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Optics & imaging",
+        "score": 9
+      },
+      {
+        "subsystem": "Integration & test",
+        "score": 4
+      },
+      {
+        "subsystem": "Ground & comms",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "FR",
+        "score": 4
+      }
+    ],
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "explicitSuppliers": 2,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "BlackSky EO constellation",
+      "name": "BlackSky EO constellation",
+      "tier": 0,
+      "group": "product",
+      "description": "BKSY 10-K / 20-F · 10-K 2026-03-17",
+      "country": "US",
+      "mentionScore": 15
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 9,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "EO imager",
+      "name": "EO imager",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · BKSY 10-K mentions: 9",
+      "country": null,
+      "mentionScore": 9,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Focal-plane array",
+      "name": "Focal-plane array",
+      "tier": 3,
+      "group": "optics",
+      "description": "Raw input — Focal-plane array",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category — Ground & comms",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · BKSY 10-K mentions: 2",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    },
+    {
+      "id": "Integration & test",
+      "name": "Integration & test",
+      "tier": 1,
+      "group": "integration",
+      "description": "Subsystem category — Integration & test",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Thales Alenia Space",
+      "name": "Thales Alenia Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · BKSY 10-K mentions: 4",
+      "country": "FR",
+      "mentionScore": 4,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "EO imager",
+      "target": "Optics & imaging",
+      "value": 9
+    },
+    {
+      "source": "Focal-plane array",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 2
+    },
+    {
+      "source": "Thales Alenia Space",
+      "target": "Integration & test",
+      "value": 4
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "BlackSky EO constellation",
+      "value": 9
+    },
+    {
+      "source": "Ground & comms",
+      "target": "BlackSky EO constellation",
+      "value": 2
+    },
+    {
+      "source": "Integration & test",
+      "target": "BlackSky EO constellation",
+      "value": 4
+    }
+  ]
+}

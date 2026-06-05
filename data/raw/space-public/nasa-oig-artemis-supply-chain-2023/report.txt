@@ -1,0 +1,1850 @@
+NASA
+Office of Inspector General
+
+NASA’s Management of the Artemis
+Supply Chain
+
+
+
+
+October 19, 2023               IG-24-003
+                                         Office of Inspector General
+To report fraud, waste, abuse, or mismanagement, contact the NASA OIG Hotline at 800-424-9183 or 800-535-8134 (TDD) or
+visit https://oig.nasa.gov/hotline.html. You can also write to NASA Inspector General, P.O. Box 23089, L’Enfant Plaza Station,
+Washington, D.C. 20026. The identity of each writer and caller can be kept confidential, upon request, to the extent permitted by law.
+
+To suggest ideas or request future audits, contact the Assistant Inspector General for Audits at https://oig.nasa.gov/aboutAll.html.
+
+                                                                NOTICE:
+
+Pursuant to PL 117-263, section 5274, non-governmental organizations and business entities identified in this report have the
+opportunity to submit a written response for the purpose of clarifying or providing additional context to any specific reference.
+Comments must be submitted to HQ-Section5274Submissions@nasa.gov within 30 days of the report issuance date and
+we request that comments not exceed 2 pages. The comments will be appended by link to this report and posted on our
+public website. We request that submissions be Section 508 compliant and free from any proprietary or otherwise
+sensitive information.
+RESULTS IN BRIEF
+NASA’s Management of the Artemis Supply Chain
+
+October 19, 2023                                                   IG-24-003 (A-22-014-00-HED)
+
+
+WHY WE PERFORMED THIS AUDIT
+The Artemis campaign is NASA’s signature space flight endeavor, aiming to return humans to the Moon and send crewed
+missions to Mars. This complex effort involves multiple programs and projects across many NASA Centers, including the
+Space Launch System (SLS) heavy-lift rocket; the Orion Crew Vehicle; Exploration Ground Systems that support launch
+and recovery; Extravehicular Spacesuits for the crew; a Human Landing System to take crew to and from the lunar
+surface; and the Gateway, a space station in orbit around the Moon. The first mission, Artemis I, was a 25.5 day
+uncrewed test flight around the Moon that returned to Earth in December 2022. Artemis II, the first crewed mission, is
+scheduled to launch in the fall of 2024, with Artemis III—a lunar landing involving two astronauts—planned for 2025.
+
+Each of these Artemis-related programs rely on specialized parts supplied by contractors and subcontractors from across
+the United States and around the world. To support the Artemis campaign, NASA obligated approximately $40 billion to
+860 contractors from fiscal years 2012 to 2022. NASA’s contractors employ a network of subcontractors and suppliers
+to provide the hardware, raw materials, electronic parts, and other resources needed to fulfill their contracts. However,
+numerous challenges to these supply chains—from the COVID-19 pandemic to workforce retention—have resulted in
+limited supplies and materials that, in turn, have affected the Artemis campaign’s schedule and costs.
+
+Proper supply chain management is essential to ensuring the Artemis campaign can meet its exploration goals. In this
+audit, we assessed NASA’s management of the Artemis campaign’s supply chain, including reviewing supply chain
+challenges and risks, as well as how supply chain issues are identified and mitigated. To understand NASA’s visibility into
+the Artemis campaign’s supply chain, we interviewed officials from NASA’s supply chain management and logistics
+groups, and staff from the Office of the Chief Engineer, Office of Procurement, and Artemis campaign. We also sent
+detailed questionnaires to Artemis-related program and procurement officials and prime contractors, reviewed federal
+and NASA requirements, examined supplier data, and researched best practices from other government agencies and
+private sector industries.
+
+
+WHAT WE FOUND
+NASA and its prime contractors continue to experience challenges obtaining key components and necessary supplies to
+meet Artemis goals. The inability to obtain critical components and resources, such as space-grade valves and helium, in
+a timely manner has resulted in program cost increases and schedule delays. For example, program officials identified
+$18.5 million in increased costs for the SLS Core Stage 2 attributable to supply chain impacts as well as $41 million in
+projected cost increases for the Orion capsule due to component shortages. Worse yet, given the difficulty in identifying
+and quantifying supply chain impacts, these numbers do not represent the total effect of supply chain disruptions on the
+Artemis campaign.
+
+Supply chain delays and disruptions over the past several years have resulted from a variety of factors, many of which
+are outside the Agency’s control, including the COVID-19 pandemic, inflation of wages and material costs, the
+Russia-Ukraine conflict, and difficulties in maintaining a qualified workforce. NASA’s supplies can also be delayed when
+higher-priority national security projects require parts and materials from the same contractors. That said, we found
+several factors related to managing Artemis supply chain issues that are within NASA’s purview. Most importantly, the
+Agency lacks visibility into its critical suppliers with many Artemis programs and projects not tracking their prime
+contractors’ supply chain impacts. Even when issues with subcontractors and suppliers are identified, performance
+challenges are not shared across Artemis teams to enable effective procurement decisions. Moreover, we found that
+NASA’s Logistics Management Division (LMD)—which could be a useful resource to help plan for supply chain issues—is
+not utilized by Artemis programs and projects.
+
+In contrast, we found that other government agencies and private industry use more proactive supply chain monitoring
+and management practices than NASA. For example, several government agencies maintain advanced supplier
+databases, require supplier information from contractors, and incorporate logistics experts into contracts from their
+inception. In addition, private industries’ ability to identify “bottleneck” suppliers is a particularly critical capability in
+supply chain oversight.
+
+NASA is undertaking efforts to better understand supply chain issues and manage them more proactively, but these
+initiatives are still in the early stages. Two internal Agency databases—Insight Central and PrimeE—could provide
+increased awareness of NASA’s supply chains, but only if the databases are used consistently. At this time, program
+personnel across the Agency are not regularly inputting data into or consistently using Insight Central. PrimeE, managed
+by the LMD, is designed to visualize supply chain data and identify sole- and alternate-source suppliers. LMD hopes
+PrimeE will become a complement to Insight Central and other supply chain tools.
+
+Two internal collaborative efforts at NASA—the Supply Chain Resiliency Forum and the Holistic Agency Study—were
+designed to improve NASA’s understanding of its supply chain issues. The Forum convenes representatives from across
+the Agency to coordinate supply chain-related activities, but the group has not yet finalized an official charter. The
+Holistic Agency Study, conducted by the Office of Technology, Policy and Strategy and the Office of the Chief Engineer,
+took place from late 2021 to 2023. The group used a broad survey of NASA stakeholders to examine supply chain issues
+and related management issues across the Agency. Initial results of the study show that supply chain issues at NASA are
+usually a surprise to the Agency, with mitigation therefore reactive rather than proactive. However, none of these
+collaborative efforts to date have significantly improved NASA’s visibility into its Artemis supply chain.
+
+
+WHAT WE RECOMMENDED
+
+To improve NASA’s management and visibility into its supply chain, we recommended the Executive for the Supply Chain
+Resiliency Forum (1) establish a charter for the existing Supply Chain Resiliency Forum; (2) complete the Supply Chain
+Visibility Data Requirement Description effort; and (3) provide training to ensure contracting officers will utilize available
+supplier data. Further, to improve NASA’s management of the Artemis supply chain, we recommended the Associate
+Administrator for Exploration Systems Development Mission Directorate (4) centralize supply chain management for the
+Artemis campaign within the Moon to Mars Program Office; (5) ensure data is regularly entered into a supplier
+database; (6) incorporate a representative from the LMD into each Artemis-related program; and (7) ensure an Artemis-
+specific industrial base and supply chain study is completed on a recurring basis.
+
+We provided a draft of this report to NASA management who concurred with recommendations 1, 2, 3, 4, 5, and 7 and
+partially concurred with recommendation 6. We consider management’s comments responsive to recommendations 1,
+3, 4, 5, and 7 and therefore those recommendations are resolved and will be closed upon completion and verification of
+the proposed corrective actions. However, we found the Agency’s response to recommendations 2 and 6 unresponsive.
+Consequently, those recommendations will remain unresolved pending further discussions with the Agency.
+
+
+
+
+                                                                                  For more information on the NASA
+                                                                                  Office of Inspector General and to
+                                                                                  view this and other reports visit
+                                                                                  https://oig.nasa.gov/.
+TABLE OF CONTENTS
+
+Introduction ......................................................................................................................................1
+   Background ............................................................................................................................................... 1
+Artemis Supply Chain Challenges Persist as NASA’s Efforts to Improve Management of its Suppliers
+Are Evolving ................................................................................................................................................ 10
+   Challenges Obtaining Key Components Have Resulted in Cost Increases and Schedule Disruptions to
+   Artemis Programs ................................................................................................................................... 10
+   Challenges in NASA’s Artemis Supply Chain Are Caused by a Variety of Factors ................................... 12
+   NASA’s Strategic Oversight of its Supply Chain Is Evolving as Efforts to Manage Disruptions Are
+   Focused on Immediate Needs ................................................................................................................ 15
+   Other Agencies and Industries Offer Best Practices and Benchmarking Opportunities for NASA ......... 20
+Conclusion .................................................................................................................................................. 23
+Recommendations, Management’s Response, and Our Evaluation ........................................................ 24
+Appendix A: Scope and Methodology ....................................................................................................... 26
+Appendix B: Management’s Comments .................................................................................................... 29
+Appendix C: Report Distribution................................................................................................................ 34
+
+
+
+
+                                                                                       NASA Office of Inspector General                   IG-24-003          i
+Acronyms
+CARITL     Critical At-Risk Industrial Technology List
+CLPS       Commercial Lunar Payload Services
+COVID-19   Coronavirus Disease 2019
+DCMA       Defense Contract Management Agency
+DoD        Department of Defense
+DPAS       Defense Priorities and Allocations System
+DRD        Data Requirement Description
+EEE        Electrical, Electronic, and Electromechanical
+EGS        Exploration Ground Systems
+ESA        European Space Agency
+ESDMD      Exploration Systems Development Mission Directorate
+FAR        Federal Acquisition Regulation
+FY         fiscal year
+GFP        government furnished property
+HLS        Human Landing System
+LMD        Logistics Management Division
+ML-1       Mobile Launcher 1
+ML-2       Mobile Launcher 2
+MOU        Memorandum of Understanding
+OIG        Office of Inspector General
+PDREP      Product Data Reporting and Evaluation Program
+SCRF       Supply Chain Resiliency Forum
+SCRM       Supply Chain Risk Management
+SLS        Space Launch System
+
+
+
+
+                                                 NASA Office of Inspector General   IG-24-003   ii
+INTRODUCTION
+
+The Artemis campaign is NASA’s signature space flight endeavor and an ambitious and costly effort that
+aims to return humans to the Moon and eventually send crewed missions to Mars. To accomplish these
+goals, NASA relies heavily on contractors to build key systems such as the Space Launch System (SLS), a
+two-stage, heavy-lift rocket that will launch the Orion Multi-Purpose Crew Vehicle (Orion) into space. In
+addition, mobile launchers will serve as ground platform structures that will launch the integrated
+SLS/Orion system under the Exploration Ground Systems (EGS) Program. To conduct a lunar landing, the
+Agency must develop advanced spacesuits to protect astronauts on the Moon’s surface; a Human
+Landing System (HLS) to transport crew from Orion in lunar orbit to and from the Moon’s surface; and
+the Gateway to provide a staging location for lunar missions and future deep space operations. Each of
+these complex systems requires numerous specialized parts supplied by contractors and subcontractors
+from around the world.
+
+From fiscal years (FY) 2012 to 2022, NASA obligated approximately $40 billion to 860 contractors in
+support of the Artemis campaign, with nearly $6 billion obligated in FY 2022 alone. 1 Fifty-nine
+contractors support the five major human space flight Artemis programs—SLS, Orion, EGS, HLS, and
+Gateway. 2 In turn, NASA’s contractors employ a network of subcontractors and suppliers to provide
+necessary hardware and services, such as raw materials, electronic parts, and fuel. However, numerous
+challenges to these supply chains—from a narrow space industrial base to workforce challenges—have
+resulted in several cases of limited supplies and materials. In any event, proper management of its
+supply chain for Artemis is essential to ensuring the Agency can meet its significant exploration goals. In
+this audit, we examined NASA’s management of the Artemis campaign’s supply chain. Details of the
+audit’s scope and methodology are outlined in Appendix A.
+
+Background
+The Artemis campaign seeks to return humans to the Moon by 2025 and ultimately send crewed
+missions to Mars by the 2030s. The first flight—Artemis I—was an uncrewed mission that successfully
+launched the SLS and Orion from the Mobile Launcher 1 (ML-1) in November 2022 and returned to Earth
+after spending 25.5 days in space and circling the Moon. Artemis II is scheduled to launch in the fall of
+2024 as the first crewed Artemis mission and will remain in Earth’s orbit for several days to test
+numerous systems, such as the Orion’s maneuverability and its life support and habitation equipment,
+before proceeding to an orbit around the Moon. Artemis III, planned for 2025, will take two astronauts
+to the Moon’s surface on the first crewed demonstration of the HLS. 3 NASA’s plans for future Artemis
+missions, beginning in 2028 with Artemis IV, will incorporate the Gateway—a lunar outpost—and a
+bigger, more powerful SLS configuration known as Block 1B. This larger configuration enables the rocket
+
+1   The $40 billion includes funds obligated for the following five programs: SLS, Orion, EGS, HLS, and Gateway. The
+    860 contractors include any vendor paid directly by NASA in support of any of the five programs. The 860-contractor count
+    does not include the subcontractors and suppliers employed by NASA’s contractors.
+2   The Extravehicular Activity and Human Surface Mobility Program was not included in our analysis, as there was not yet
+    relevant data within NASA’s accounting system at the time of our analysis.
+3   Even though the planned Artemis III launch date is 2025, in June 2023 a NASA official publicly stated that this date will
+    probably slip to 2026.
+
+
+
+                                                                         NASA Office of Inspector General          IG-24-003    1
+        to launch 40 percent more payload to the Moon than the SLS Block 1 used for the first three Artemis
+        missions. Figure 1 provides a more detailed description of the programs and projects necessary to the
+        Artemis campaign.
+
+Figure 1: Artemis Systems in Development (as of July 2023)
+
+
+
+
+Source: Spacesuit photo credit: Axiom Space. Other photos: NASA.
+
+
+
+        Artemis Organizational Structure
+        NASA’s Exploration Systems Development Mission Directorate (ESDMD) manages the human
+        exploration system development for lunar orbital, lunar surface, and Mars exploration. 4 In April 2023,
+        NASA established the Moon to Mars Program Office within ESDMD to focus on hardware development,
+        mission integration, and risk management functions for programs critical to the agency’s exploration
+        goals. The Moon to Mars Program Office oversees the development of the programs and projects
+
+
+        4   While other NASA Mission Directorates are also involved in the science and technology development necessary to the
+            Artemis campaign, this audit focused on the programs and projects managed by ESDMD.
+
+
+
+                                                                             NASA Office of Inspector General        IG-24-003   2
+critical to the Artemis campaign—SLS, Orion, supporting ground systems, HLS, spacesuits, and Gateway.
+Figure 2 provides the current ESDMD organizational structure.
+
+Figure 2: NASA’s ESDMD Organizational Chart (as of May 2023)
+
+
+
+
+Source: NASA OIG presentation of Agency information.
+
+
+
+Supply Chain Flow
+The programs that make up the Artemis campaign—as illustrated in Figure 2—each rely on multiple
+contractors responsible for products and services related to their portion of the mission. Generally, a
+program will award a contract to a company to act as the “prime contractor.” The prime contractor is
+ultimately responsible for delivering the final product, as well as managing any companies that it in turn
+contracts with; these second-tier companies are known as “subcontractors.” 5 Subcontractors often turn
+to additional suppliers for parts and raw materials, further expanding the web of companies involved in
+a program. The network of companies involved in the production of each piece of hardware—from the
+raw materials all the way through final processing—is known as the “supply chain.” A generalized
+supply chain is illustrated in Figure 3 below.
+
+
+
+
+5   Subcontractors enter into a subcontract to furnish supplies or services for performance of a prime contract or another
+    subcontract.
+
+
+
+                                                                       NASA Office of Inspector General         IG-24-003    3
+Figure 3: Representation of a NASA Supply Chain
+
+
+
+
+    Represents any NASA       A direct contract with a   A company hired by a         A company that provides
+     program or project.          NASA program.            prime contractor.            a product or service.
+
+
+
+Source: NASA OIG summary.
+
+However, a program’s supply chain is not always linear. NASA programs will sometimes provide a prime
+contractor with “government-furnished property” (GFP), which refers to any equipment, software, or
+other materials that the government owns. Contracting officers can choose to provide GFP to a prime
+contractor if that is in the government’s interest and the requirements of the contract cannot otherwise
+be met.
+
+While often confused with supply chain, the “industrial base” refers
+                                                                            Supply Chain
+to the available companies that make up a worldwide industry. For
+                                                                            The network between a company and its
+example, when NASA purchases a piece of hardware from a specific
+                                                                            suppliers to produce a specific product.
+company, all suppliers that company uses to produce the hardware
+comprise the supply chain for that item. However, all other                 Industrial Base
+companies capable of producing that hardware—including those                The wider network of all companies and
+that were not chosen—comprise the industrial base.                          suppliers with the capacity to produce a
+                                                                            specific product.
+
+NASA Supply Chain Management
+There is no formal office assigned to manage the Artemis campaign’s supply chain and related risks; the
+Artemis programs and projects are individually responsible for monitoring and tracking risks, to include
+any supply chain concerns. The programs rely on the prime contractors to identify, communicate,
+mitigate, and forecast any supply chain challenges. The method and level of detail in which the primes
+communicate supply chain issues to NASA can vary by contractor and by NASA program. Over the last
+few years, NASA has begun to recognize the need for increased visibility into its supply chain and has
+several internal efforts underway to identify and mitigate supply chain risks Agency wide. In 2021, NASA
+partnered with The Aerospace Corporation to develop the Critical At-Risk Industrial Technology List
+(CARITL), which includes 63 items such as valves, helium, and liquid hydrogen, that are vital to NASA
+
+
+
+
+                                                         NASA Office of Inspector General        IG-24-003      4
+       projects but may have only one source, a limited market, or require specialized workers or equipment. 6
+       After the conclusion of The Aerospace Corporation effort, NASA established the Holistic Agency Study
+       group to provide recommendations to Agency officials to improve management and oversight of NASA’s
+       supply chain. In addition, NASA implemented the Supply Chain Forum Working Group in early 2022 to
+       better coordinate across the Agency and benchmark with other government agencies and industries.
+       During the audit, the group was renamed the Supply Chain Resiliency Forum (SCRF) and, as of August
+       2023, was in the process of establishing a formal charter.
+       One of NASA’s primary supply chain efforts is implementing a database, known as Supply Chain Insight
+       Central (Insight Central), to track and communicate supply chain issues. The Supply Chain Risk
+       Management (SCRM) Program, within NASA’s Office of Safety and Mission Assurance, is leading this
+       effort. To improve oversight and gain visibility, Insight Central combines information from NASA and
+       contractors to develop a repository of prime contractors, subcontractors, and suppliers that provide
+       mission hardware.
+
+       Prime Contractors and Critical Suppliers for the Artemis Campaign
+       While NASA has directly contracted with 860 contractors since 2012 in support of the Artemis campaign,
+       17 of those are major prime contractors with 23 separate contracts. As shown in Table 1, these
+       23 contracts alone are valued at over $63 billion and procure services and hardware for each of the
+       Artemis systems. Eleven of the 23 contracts are cost-reimbursement contracts under which NASA pays
+       all allowable contractor expenses, and the remaining 12 are fixed-price contracts under which NASA
+       pays a predetermined value for the goods or services and any overruns are the responsibility of the
+       contractor. 7
+Table 1: Major Prime Contractors for Artemis Systems and Total Contract Value (as of April 2023)
+     Artemis Component                 Prime Contractors                Part and Contract                  Contract Type            Contract Valuea
+                                                                                                        Cost-
+                                       Lockheed Martin           Orion development                                                       $15.0 billion
+                                                                                                        reimbursement
+                        Orion
+                                                                 Orion Production and                   Cost-
+                                       Lockheed Martin                                                                                    $4.9 billion
+                                                                 Operations Contract                    reimbursement
+                                                                 Core stages and Exploration            Cost-
+                                       Boeing                                                                                             $9.7 billion
+                                                                 Upper Stage                            reimbursement
+                                                                 Interim Cryogenic Propulsion
+                                       Boeing                                                           Fixed-price                       $1.0 billion
+                                                                 Stage
+                   Space Launch                                                                         Cost-
+                                       Aerojet Rocketdyne        RS-25 engines adaptation                                             $580.9 million
+                      System                                                                            reimbursement
+                                                                 RS-25 engines restart                  Cost-
+                                       Aerojet Rocketdyne                                                                                 $3.6 billion
+                                                                 production                             reimbursement
+                                                                                                        Cost-
+                                       Northrop Grumman          Boosters                                                                 $4.4 billion
+                                                                                                        reimbursement
+
+
+       6   The CARITL identifies NASA space industrial base at-risk items used for NASA’s launch vehicles and spacecraft systems. It includes
+           items such as raw materials, parts, components, and subsystems.
+       7   Using a cost-reimbursement approach, NASA approves all designs, manages all development and schedules, and owns the vehicle
+           after delivery by the contractor. While this process gives NASA maximum control over the contractor’s design and final product, the
+           majority of the cost, schedule, and outcome risks are borne by the federal government. A fixed-price contract provides a set price
+           that does not change if the contractor’s costs increase during the period of performance due to inflation or supply chain issues,
+           resulting in less risk to the government from subcontractors and suppliers.
+
+
+
+                                                                                 NASA Office of Inspector General           IG-24-003       5
+Table 1: Major Prime Contractors for Artemis Systems and Total Contract Value (as of April 2023)
+        Artemis Component                Prime Contractors               Part and Contract                  Contract Type           Contract Valuea
+                                         Teledyne Brown                                                  Cost-
+                                                                  Launch Vehicle Stage Adapter                                         $350.0 million
+                                         Engineering                                                     reimbursement
+                                                                                                         Cost-
+                                         Dynetics                 Universal Stage Adapter                                              $273.2 million
+                                                                                                         reimbursement
+                                         Hensel Phelps            Structure construction                 Fixed-price                   $144.1 million
+                                                                  Structure modifications and
+                                         JP Donovan               ground support equipment
+                                                                                                         Fixed-price                   $217.9 million
+                                         Construction             installation and construction
+                                                                  (two different contracts)
+                         Mobile          Vencore Services         Kennedy Space Center                   Cost-
+                                                                                                                                       $228.0 million
+                       Launcher-1        and Solutions            engineering services                   reimbursement
+                                                                  Developed designs for
+                                         Reynolds, Smith &
+                                                                  structural modifications (two          Fixed-price                    $55.6 million
+                                         Hills
+                                                                  different contracts)
+                                                                  Kennedy Space Center test              Cost-
+                                         Jacobs Technology                                                                                $2.1 billionb
+                                                                  and operations support                 reimbursement
+                                         Maxar                    Power and Propulsion
+                                                                                                         Fixed-price                   $730.9 million
+                                         Technologies             Element
+                                                                  Habitation and Logistics
+                        Gateway          Northrop Grumman                                                Fixed-price                       $1.5 billion
+                                                                  Outpost Module
+                                                                  Launch services                        Fixed-price                   $331.8 million
+                                         SpaceX
+                                                                  Logistics services                     Fixed-price                      $7.0 billionc
+
+
+                         Mobile-                                                                         Cost-
+                                         Bechtel                  Mobile Launcher-2                                                        $1.0 billion
+                       Launcher 2                                                                        reimbursement
+
+
+                                         SpaceX                   Landing system                         Fixed-price                       $3.5 billion
+                         Human
+                         Landing
+                         System          Blue Origind             Landing system                         Fixed-price                       $3.4 billion
+
+
+                                         Axiom Space              Extravehicular spacesuits              Fixed-price
+                     Extravehicular
+                                                                                                                                           $3.5 billion
+                       Spacesuits        Collins Aerospace        Extravehicular spacesuits              Fixed-price
+
+
+Source: OIG summary of NASA data.
+a Contract values are current as of April 18, 2023. The contract value is the total amount of the base contract and any options that have been
+  exercised.
+b The Jacobs Technology test and operations support contract includes other EGS support and services for other programs, including the Launch
+
+  Services Program and the International Space Station.
+c The Gateway Logistics Services contract has a maximum contract value of $7 billion to deliver cargo, experiments, and other supplies to the
+
+  Gateway in lunar orbit over a 15-year period.
+d   NASA awarded this contract to Blue Origin after our analysis was complete, so Blue Origin's suppliers were not included in the critical
+    supplier analysis.
+
+
+
+                                                                                  NASA Office of Inspector General           IG-24-003        6
+NASA has limited insight into its subcontractors and sub-tier suppliers when using cost-reimbursement
+contracts and even less insight under fixed-price contracts. If prime contractors do not have a
+purchasing system approved by NASA, they are required by federal law to report their subcontractors
+for both contract types, known as the consent to subcontract clause. 8 The report is also required if the
+contracting officer determines there is a risk that requires special surveillance, such as major systems
+acquisitions and high risk, critical subsystems, components, or services. 9 In addition, NASA can gain
+further visibility into fixed-price subcontracts if the subcontract or unpriced action is: (1) greater than
+the simplified acquisition threshold of $250,000 or (2) greater than 5 percent of the total estimated cost
+of the contract. 10 However, even when the above conditions are met, the prime contractor is only
+required to submit the names of its subcontractors, not its sub-tier suppliers—that is, the suppliers used
+by the subcontractors. For example, NASA provided the OIG with approximately 1,000 subcontractor
+names from the 17 major prime contractors supporting the Artemis campaign. However, five prime
+contractors—Aerojet Rocketdyne, Boeing, Jacobs, Lockheed Martin, and Northrop Grumman—together
+have reported using over 3,200 subcontractors and suppliers for the Artemis I launch.
+
+Further, of the 860 contractors NASA pays directly in support of the Artemis campaign, we identified
+59 separate contractors or suppliers that support five major Artemis programs—SLS, Orion, EGS, HLS,
+and Gateway—making them critical to the success of the Artemis missions. 11 These 59 critical suppliers
+provide essential components and services such as valves, fuel, electronic parts, and engines necessary
+to develop the Artemis systems. Figure 4 provides a breakdown of the total number of Artemis
+suppliers and the obligations by Artemis program.
+
+
+
+
+8   Purchasing system refers to the contractor's system or systems for purchasing and subcontracting, including make-or-buy
+    decisions, the selection of vendors, analysis of quoted prices, negotiation of prices with vendors, placing and administering of
+    orders, and expediting delivery of materials. Federal Acquisition Regulation (FAR) Subpart 44.2, Consent to Subcontracts.
+    According to the NASA FAR supplement, a contractor’s purchasing system can be approved by NASA or the Defense Contract
+    Management Agency, depending on the cognizant administrative contracting officer. NASA FAR Supplement: Subpart
+    1844.3, Contractors' Purchasing Systems Reviews.
+9   FAR Subpart 42.202, Assignment of contract administration. Further, FAR Part 34, Major System Acquisition, defines major
+    systems acquisitions as those that, as determined by the agency head, (1) are directed at and critical to fulfilling an agency
+    mission need, (2) entail allocating relatively large resources for the particular agency, and (3) warrant special management
+    attention, including specific agency-head decisions.
+10 The simplified acquisition threshold is $250,000, except for conditions specified within FAR 2.101, Definitions. An unpriced
+
+    order is an order for supplies or services, the price of which is not established at the time the order is issued.
+11 Some companies—whether as a prime or subcontractor—provide products or services to several Artemis programs and are
+
+    thus considered “critical” for the purpose of this report.
+
+
+
+                                                                          NASA Office of Inspector General               IG-24-003   7
+Figure 4: Total Artemis Suppliers and Obligations by Artemis Program (FY 2012 through FY
+2022)
+
+
+
+
+Source: NASA OIG summary of NASA accounting system data.
+Note: The term “suppliers” is used as a generic term to indicate any contractor. The supplier count and obligations are derived
+from NASA’s accounting system. The total Artemis obligations indicates any action that legally binds NASA to pay funds
+immediately or in the future.
+
+We further identified 11 suppliers that support at least two key Artemis programs and are classified as
+critical according to NASA’s Critical At-Risk Industrial Technology List (CARITL). NASA has obligated
+nearly $15 billion to these 11 suppliers over the last decade—nearly 40 percent of the total amount
+NASA has obligated to all 860 suppliers supporting the Artemis campaign. Further, 6 of these 11
+suppliers are also subcontractors to NASA’s prime contractors.
+
+
+Federal Supply Chain Activities
+Since 2017, federal policymakers have taken an increased interest in strengthening America’s supply
+chains and industrial base, which have experienced longstanding challenges exacerbated by recent
+global events like the COVID-19 pandemic and the Russia-Ukraine conflict. Five major initiatives—three
+government-wide Executive Orders and two NASA-specific efforts—are described below.
+
+    •    On July 21, 2017, President Trump signed Executive Order 13806, Assessing and Strengthening
+         the Manufacturing and Defense Industrial Base and Supply Chain Resiliency of the United States,
+         to focus on assessing manufacturing capacity; supply chains with single points of failure,
+         especially third-tier suppliers and lower; and the availability of alternative sources.
+    •    On January 25, 2021, President Biden signed Executive Order 14005, Ensuring the Future is
+         Made in All of America by All of America’s Workers, a government-wide initiative to strengthen
+         the use of federal procurement to support American manufacturing.
+    •    On February 24, 2021, in response to the COVID-19 pandemic, President Biden signed Executive
+         Order 14017, America’s Supply Chains, to focus on the United States’ need for a more resilient,
+         diverse, and secure supply chain, particularly in the face of pandemics and geopolitical issues.
+
+
+
+
+                                                                     NASA Office of Inspector General         IG-24-003      8
+    •   On August 9, 2022, President Biden signed into law the 2022 NASA Authorization Act, which
+        states, “Not later than 1 year after the enactment of this Act, and from time to time thereafter,
+        the Administrator shall submit to the appropriate committees of Congress a report on the
+        United States industrial base for NASA civil space missions and operations.” The report must
+        provide, but is not limited to, a description of the status of NASA’s industrial base, a description
+        of weaknesses in the supply chain, and a description of mechanisms and steps to mitigate supply
+        chain weaknesses. The SCRF is currently tasked with meeting the reporting requirement.
+    •   Most recently, on March 6, 2023, the Commerce Department’s Bureau of Industry and Security
+        announced a joint effort with NASA and the National Oceanic and Atmospheric Administration
+        to collect data from the civil space industrial base. The goal of this effort is to better understand
+        the civil space supply chain network. The data will cover diminishing manufacturing sources and
+        material shortages, foreign sourcing and dependencies, cybersecurity incidents, critical minerals
+        and materials, COVID-19 pandemic impacts, and other challenges.
+
+
+Prior NASA Study on Supply Chain Issues
+In 2011, NASA contracted with the consultancy group Logistics Management Institute to assess NASA’s
+supply chain management and risks. While not specific to any individual program at the Agency, the
+study was based on research of industry best practices, surveys of relevant NASA personnel, and
+interviews with industry professionals involved in supply chain management. In December 2011, the
+Institute released a report titled Strategies for Mitigating NASA’s Supplier Viability Risk, which discussed
+several risk-identification techniques, including using all available data to identify risks before a supplier
+is selected, identifying and closely monitoring critical suppliers, using metrics to anticipate supplier
+warning signs, and utilizing reviews to continuously collect information on suppliers. The report also
+identified multiple proactive risk mitigation strategies that could be used to avoid certain risks before
+they occur. The report included several recommendations for NASA to implement these mitigation
+strategies, some of which include:
+
+    •   Establish an enterprise-level supplier risk team with a formal charter: This group would be
+        responsible for Mission Directorate-level supplier program management.
+    •   Integrate risk mitigation into NASA’s sourcing process: Contractually require prime contractors
+        to provide a description of their supplier risk management processes.
+    •   Use a supplier profile database for analysis and evaluation: Enable program managers to
+        evaluate potential suppliers during source selection and afterwards to track trends.
+    •   Incorporate contract language that requires reporting metrics: Contractually require prime
+        contractors to provide data regarding their subcontractors and suppliers.
+
+Though the report was issued over a decade ago, as of May 2023 NASA has not fully implemented any of
+the recommendations. Some of the recommendations may be addressed as part of ongoing efforts
+within the SCRF and through development of the Insight Central database. In our view, because of
+continued supply chain issues with the Artemis programs and the long lead times needed to build
+certain components, these recommendations remain valid.
+
+
+
+
+                                                            NASA Office of Inspector General    IG-24-003   9
+ARTEMIS SUPPLY CHAIN CHALLENGES PERSIST AS
+NASA’S EFFORTS TO IMPROVE MANAGEMENT OF ITS
+SUPPLIERS ARE EVOLVING
+
+NASA and its prime contractors are experiencing challenges with availability of key components and
+other necessary supplies to meet Artemis goals, resulting in program cost increases and schedule delays.
+These challenges can be attributed to several factors including the Agency’s limited visibility into the
+suppliers that support its major Artemis programs, geopolitical issues, workforce challenges, and
+competition with the Department of Defense (DoD) over a limited number of suppliers. Even though
+the Artemis programs and contractors use numerous techniques to mitigate supply chain issues, these
+methods are largely reactive and have resulted in varying degrees of success. As lessons learned from
+other agencies and industries have shown, proactive management could decrease costs and delays by
+allowing the Agency to make critical supply chain decisions earlier in the acquisition process.
+
+Challenges Obtaining Key Components Have Resulted in
+Cost Increases and Schedule Disruptions to Artemis
+Programs
+Ongoing supply chain challenges are affecting NASA and its prime contractors, leading to cost increases
+and schedule delays to the Artemis campaign goals. Specifically, critical components such as valves and
+EEE (electrical, electronic, and electromechanical) parts, and critical resources such as helium, are not
+consistently available when needed. For the SLS Program, program officials have identified $18.5 million
+in increased costs because of supply chain impacts for Core Stage 2 related delays in obtaining materials
+such as helium, valves, and feedlines. For the Orion capsule being developed for Artemis III, issues with
+hardware suppliers and obtaining components in a timely manner have resulted in a projected cost
+increase of at least $41 million. According to an Orion Program official, this represents about 50 percent
+of the total projected growth in direct costs for the Artemis III crew capsule. Furthermore, as of April
+2023, the Artemis III Orion delivery has been delayed by 11
+months due to the hardware suppliers’ schedule
+performance. However, these cost and schedule increases
+do not reflect the total supply chain impact to the Artemis
+campaign. Many Artemis programs and projects do not
+separately track their prime contractors’ supply chain
+impacts. Nonetheless, the majority of the Artemis prime
+contractors we interviewed stated that long-lead times and
+increased costs for raw materials and resources are major
+challenges in procuring critical parts.
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003   10
+Valves
+Valves are a critical component to the Artemis campaign, supporting several different systems. They are
+highly specialized pieces of equipment that must withstand high pressure and temperatures. As such,
+only a few valve suppliers have the expertise to meet NASA’s stringent requirements, leading to the
+longer lead times Artemis programs are experiencing in procuring valves. For example, Lockheed
+Martin, the prime contractor for the Orion Program, reported that the few suppliers it uses to obtain
+valves are also used by other NASA programs. Representatives from the SLS Program also indicated they
+are waiting for pre-valves from suppliers, and the delay in getting them could take months. 12 Without
+these pre-valves, further development of the core stage will be halted as they wait for the parts,
+resulting in continued schedule slips.
+
+
+EEE Parts
+EEE parts are mostly small components—such as microcircuits,
+capacitors, diodes, and transistors—that are the building blocks of
+a spacecraft. These components are critical to the Artemis
+campaign programs and projects and are subjected to harsh
+environmental and application stress. However, the suppliers for
+EEE parts are experiencing issues obtaining raw materials,
+challenges with their workforce, and technical failures during
+production. These challenges are creating longer than expected
+lead times and price increases of up to 300 percent. Further, as
+NASA relies on regions outside of the U.S. for these parts—such as
+Asia—U.S. government regulations and restrictions impact NASA’s
+ability to procure these resources in a timely and cost-effective
+manner. Officials from both the Gateway Program and the
+Habitation and Logistics Outpost project mentioned difficulty
+obtaining EEE parts, stating that electronic parts may not be available to support their project milestone
+dates, which in turn could lead to significant schedule delays. Specifically, the Gateway Program
+reported lead times in obtaining EEE parts of at least 7 to 12 months. In addition, Habitation and
+Logistics Outpost project representatives stated they were having issues obtaining semiconductors, and
+their suppliers have been affected by supply and demand issues in obtaining the necessary raw
+materials and components.
+
+
+
+
+12 A pre-valve is a type of valve used in the SLS core stage main propulsion system that controls the supply of liquid oxygen and
+
+  hydrogen to RS-25 engines.
+
+
+
+                                                                      NASA Office of Inspector General          IG-24-003      11
+Helium
+Helium is a critical resource that has multiple aerospace purposes, such as cooling fiber-optic cables and
+semiconductor magnets, transferring heat away from computer chips during production, and as a
+                                                  pressurizing agent for liquid fuel rockets. NASA also uses
+                                                  helium to keep hot gases and ultra-cold liquid fuel
+                                                  separated during a rocket launch. Over the past nearly
+                                                  20 years, the helium market has experienced periods of
+                                                  global shortages, resulting in rising costs and long lead
+                                                  times. The helium shortage was exacerbated in
+                                                  September 2022 when the U.S. Bureau of Land
+                                                  Management ended the Federal Helium Program, which
+                                                  maintained a national helium reserve, enrichment plan,
+                                                  and pipeline. This resulted in federal users turning to
+                                                  the open market for helium. Due to its scarcity, the
+                                                  nationwide costs for liquid helium have more than
+                                                  doubled. As such, both NASA and Artemis prime
+                                                  contractors expressed concerns about obtaining helium
+at reasonable costs and in a timely manner. Specifically, SLS Program officials stated they had a helium
+shortage for testing their thermal-protection foam on Core Stage 2, which impacted their schedule.
+
+The difficulty in obtaining critical components and resources like valves, EEE parts, and helium highlights
+an ongoing challenge for the Artemis campaign. Both NASA programs and the prime contractors have
+expressed concerns about the supply chain that are impacting both cost and schedule across multiple
+programs and projects.
+
+Challenges in NASA’s Artemis Supply Chain Are Caused
+by a Variety of Factors
+
+NASA Lacks Visibility into its Critical Suppliers for the Artemis
+Campaign
+NASA lacks the data necessary to comprehensively identify all subcontractors and sub-tier suppliers
+supporting the Artemis campaign. Despite ongoing efforts, NASA currently does not maintain a single
+database that houses all known suppliers and any known performance challenges. During the audit we
+attempted to identify the universe of subcontractors for the Artemis campaign. This effort proved to be
+complex, and despite the aggregation and analysis of multiple data sources across NASA, we were
+unable to develop a complete list of subcontractors. However, we found that through the Agency’s
+accounting system, the Agency tracks all contractors and suppliers that are directly funded by NASA,
+specifically those that are using a cost-reimbursement contract. Beyond those, the Agency has some
+insight into the subcontractors that the contracting officer has specifically identified through the
+consent to subcontract clause. However, this clause is only required in limited fixed-price situations,
+and we ultimately found NASA’s insight into the subcontractors of the Artemis-related fixed-price
+contracts to be minimal. As the Agency attempts to move toward fixed-price and service-type contracts
+to mitigate cost and schedule risk, NASA’s visibility into those primes' supplier chains will continue to
+diminish. This incomplete visibility into the supply chain leaves NASA further exposed to schedule risk
+and hinders NASA’s strategic management of its supply chain.
+
+
+                                                          NASA Office of Inspector General   IG-24-003    12
+Even when subcontractors and suppliers are known, their performance challenges are not broadly
+communicated across Artemis programs and projects to enable NASA to be better informed when
+making procurement decisions for other programs and projects. For example, according to Orion
+Program officials, one of Orion’s subcontractors has ongoing performance issues that may impact the
+Orion vehicles for future Artemis launches. However, these performance challenges were not shared
+across the Agency, and NASA ultimately selected the same subcontractor as a prime contractor for
+another Artemis-related system. According to Orion Program officials, if they had known this company
+was being considered for another NASA award, they would have shared their concerns with the
+appropriate officials. Over the past year, the subcontractor’s management, schedule, and performance
+for the Orion Program continues to decline, as does its performance as a prime contractor for the other
+system.
+
+According to federal contracting guidance, prime contractors are responsible for managing their
+subcontractors. 13 As such, the Artemis programs and projects rely on their prime contractors to track
+supplier challenges and mitigate issues as needed. The prime contractors are under no obligation to
+communicate known issues with their subcontractors or suppliers to NASA until there is a risk that the
+program’s schedule or costs will be impacted. However, this leaves NASA to address risks reactively
+rather than proactively. For example, both the Gateway and Orion Programs are experiencing schedule
+delays related to obtaining EEE parts that may impact launch dates. While NASA is developing
+mitigation plans with the contractor to address these issues, increased visibility of its subcontractors
+may allow the Agency to identify and address these challenges sooner and minimize potential schedule
+impact.
+
+
+Space Industrial Base Hindered by Recent and Ongoing Global
+Events
+Over the past several years, suppliers have been negatively impacted by COVID-19, inflation, and the
+Russia-Ukraine conflict, which in turn have affected the space industrial base—the total number of
+suppliers available to meet NASA’s needs. Overall, these major global events have caused significant
+fluctuations in the U.S. space market that are affecting the Artemis campaign. For example, the Mobile
+Launcher 2 (ML-2) project office reported a significant cost and schedule risk concerning volatile market
+pricing due to supply chain issues related and unrelated to COVID-19 and global labor shortages.
+
+COVID-19 Impact. Several prime contractors for Artemis systems reported negative impacts of
+COVID-19. Lockheed Martin reported that its supply base was impacted by COVID-19 between 2020 and
+2021, contributing to increased lead times. Some of its sub-tier suppliers shut down their facilities due
+to local restrictions, and employee exposure/sickness affected program plans as well. Lockheed Martin
+also noted that some suppliers requested equitable adjustments due to impacts from COVID-19.
+Bechtel, the prime contractor for the ML-2, cited staff attrition following the onset of COVID-19, with
+more people leaving the workforce or opting for positions that offer telework or remote work.
+
+Inflation. According to the SLS Program, prime contractors have been affected by wage and material
+cost increases. Projected inflation in prices for labor and materials represent a risk to the program’s
+purchasing power, resulting in funding inefficiencies and cost and schedule growth. NASA’s Office of the
+Chief Financial Officer is tracking how global and U.S. inflation adversely impact NASA’s purchasing
+power and may jeopardize the Agency’s ability to complete all planned missions within current cost and
+
+13 FAR 42.202(e)(2), Assignment of Contract Administration.
+
+
+
+
+                                                              NASA Office of Inspector General   IG-24-003   13
+schedule estimates. Officials from Boeing, the SLS Program’s Stages prime contractor, also expressed
+concerns regarding inflation and its impact on procuring materials and parts at previously agreed-upon
+rates.
+
+Russia-Ukraine Conflict. The conflict in Ukraine has exacerbated supply chain disruptions by impacting
+the movement of raw materials and industrial parts. Russia and Ukraine are responsible for
+approximately 25 to 30 percent of the global supply of the noble gases xenon and krypton and
+approximately 40 to 50 percent of the global supply of neon. Boeing officials explained that it has had
+difficulty procuring neon, which is used for the semiconductor wafer “printing” process. Similarly, the
+Power and Propulsion Element project under the Gateway Program reported slight impacts in efforts to
+obtain xenon, which is necessary for propulsion systems. However, according to NASA officials, as of
+August 2023, NASA’s primary contractor for the Power and Propulsion Element—Maxar—has
+successfully mitigated the risk and procured the xenon needed for this system.
+
+
+Contractor Workforce Challenges Exacerbate Schedule Delays
+Workforce challenges have been a long-standing issue for NASA that can result in major impacts on the
+supply chain for both prime contractors and their suppliers within the space industry. Several of NASA’s
+prime contractors reported that they are struggling to hire and retain a qualified workforce, an issue
+that can extend the time suppliers need to fulfill orders. As more contractors have entered the space
+industry, the competition for qualified engineers has grown. For government contractors, this has led to
+issues such as meeting the higher salary demands of the engineering workforce, resulting in difficulties
+hiring and retaining experienced engineers. Furthermore, during the COVID-19 pandemic many
+suppliers were forced to lay off workers and have since experienced trouble rebuilding their workforce
+with knowledgeable and trained employees. As the space industrial base struggles to hire and retain a
+qualified workforce, prolonged periods of understaffing contribute to parts delays and long lead times.
+
+
+Underutilizing the Agency’s Logistics Management Division
+Hinders Mitigation of Supply Chain Risks
+While NASA’s Logistics Management Division (LMD) is a useful resource for the Artemis programs and
+projects, we found it is not consistently utilized. LMD is composed of trained logisticians that analyze
+life-cycle management and supply chains by working jointly with suppliers and NASA programs.
+Logisticians work with the program and project officials to estimate material and supply requirements,
+along with funding needs, as the project progresses from formulation through completion. Using their
+expertise in logistics management, LMD logisticians can help the programs better understand their
+component and resource needs earlier in the purchasing process, thereby assisting them to acquire
+necessary supplies within a reasonable amount of time. In addition, they can provide support
+throughout a project’s life cycle, including supply sourcing, maintenance strategies, obsolescence
+planning for components, and diminishing manufacturing capabilities.
+
+However, LMD officials stated that many of these logistician duties are assigned to others within the
+Artemis programs and projects, such as program engineers, program managers, and contractors, who
+may lack logistics expertise. Though NASA directives state the importance of having life-cycle support
+management from the start of a program, historically LMD officials are only included when there is an
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003      14
+identified issue, at which point it can be difficult to bring a program back on track. 14 In contrast to
+NASA, internal DoD policy directs programs to embed life-cycle logisticians into their major programs. 15
+Looking forward, in our judgment, to help identify and mitigate some of the supply chain risks more
+quickly, LMD personnel should be embedded more fully into the Artemis programs. The logisticians
+have access to deficiency reporting systems and can forecast parts that may be outdated or becoming
+obsolete. With this level of supply chain detail, Artemis program officials, in conjunction with LMD,
+could make better informed decisions from the requirements establishment process through project
+completion to ensure project success.
+
+
+National Security Projects Receive a Higher Priority than NASA
+in the Supplier Queue
+NASA’s Artemis programs and projects have encountered numerous schedule delays because they rank
+lower in the priority order compared to the DoD’s national security projects for obtaining necessary
+parts and materials from suppliers. The priority rating system, known as the Defense Priorities and
+Allocations System (DPAS), is administered by the Department of Commerce and prioritizes national
+defense-related contracts and orders throughout the U.S. supply chain to support military, energy,
+homeland security, emergency preparedness, and critical infrastructure requirements. The DPAS
+regulation establishes two priority levels, DX and DO. 16 A DX rating takes precedence over DO, is
+assigned to those programs of the highest national priority, and must be approved by the Secretary of
+Defense. While not all NASA contracts are assigned a DPAS rating, some Artemis contracts have
+received the second level rating of DO. Despite having this rating, order fulfillment is delayed if a
+supplier receives a DX-rated order, as all work on NASA and other DO-rated contracts stops until the
+DX-rated contract needs are met. Several Artemis prime contractors and Artemis-related programs
+expressed concerns about the schedule delays that result from this priority ratings system. For example,
+the SLS Program reported that work on Core Stage 2 will be delayed by 3 months because the supplier
+for feedlines needs to fulfill DX-rated contracts before SLS contracts.
+
+NASA’s Strategic Oversight of its Supply Chain Is
+Evolving as Efforts to Manage Disruptions Are Focused
+on Immediate Needs
+
+NASA’s Efforts to Strategically Oversee Its Supply Chain are
+Evolving
+NASA has initiated several efforts to gain a more comprehensive understanding and improve
+cross-program visibility into its supply chain. NASA officials stated that improving visibility will better
+
+14 NASA Policy Directive 7500.1D, Program and Project Life-Cycle Logistics Support Policy (March 2, 2015) states “Program
+
+  Managers and Project Managers or their designated Life-Cycle Logistics Support Managers shall: (1) Integrate life-cycle
+  logistics support considerations beginning with program/project conception, including: (a) Participation in the design process
+  beginning at program/project conception to ensure that systems are supportable.”
+15 DoD guidance outlines the various life-cycle logistics responsibilities and procedures for product support managers, such as
+
+  developing a Life Cycle Logistics Plan and providing input to design and contract development.
+16 A DX rating is used for contracts and orders of highest national defense urgency. A DO rating is used for contracts and orders
+
+  critical to national defense.
+
+
+
+                                                                      NASA Office of Inspector General          IG-24-003         15
+position them to strategically manage the array of supply chain challenges. Two internal databases—
+Insight Central and PrimeE—are attempting to provide increased awareness of the past, present, and
+future of NASA’s supply chains. Meanwhile, two collaboration efforts—the Supply Chain Resiliency
+Forum and Holistic Agency Study—seek to improve NASA’s understanding of and intra-agency
+communication about supply chain issues. While we commend NASA on its efforts to improve visibility
+into its supply chain, these efforts remain early in their implementation with no discernible results yet.
+Additionally, individual Artemis program and project offices are not yet directly involved in these efforts,
+raising the possibility that efforts to improve strategic oversight of the Agency’s supply chain may not be
+fully leveraged by the Artemis campaign.
+
+Insight Central
+Insight Central provides users with information about individual suppliers, such as the NASA programs
+and projects they serve, current contracts, and any detailed supplier reports performed by the Agency. 17
+The database has been operational since March 2021, less than 2 years after creation of the SCRM
+Program in October 2019. Currently, the database requires manual input from program personnel to
+remain up to date. However, program personnel across the Agency are not regularly inputting data,
+either by choice or because they are not aware the database exists. As a result, while some suppliers
+are in the database, there is little information about products they provide or if they have encountered
+past performance issues. The lack of complete and up-to-date data is particularly noticeable for Artemis
+programs and projects, with much of the existing information focused on smaller, uncrewed systems.
+
+In addition, even when relevant information on Artemis suppliers is present, Artemis program officials
+do not consult the database. For example, Masten Space Systems, an aerospace manufacturer that was
+awarded a $75.9 million Commercial Lunar Payload Services (CLPS) contract by NASA in 2020, filed for
+bankruptcy in July 2022. 18 In 2021, a report uploaded to Insight Central noted Masten’s “vulnerability to
+economic conditions and risks as a small, privately held enterprise” and “lack of available information on
+the management of suppliers and overall supply chain.” Prior to announcing bankruptcy, Masten’s
+inaugural mission was delayed by a year due to supply chain issues. A more enterprise-wide and
+consistent use of Insight Central could have alerted NASA to this risk and enabled more proactive
+schedule management rather than noting it after it already occurred. Further, improved Agency insight
+prior to awarding the contract would have revealed the company’s financial risk, which could have been
+considered during the acquisition process.
+
+In addition to NASA program personnel, we also found that the Agency’s contracting officials are not
+regularly utilizing this database to identify supplier issues or industrial base challenges before approving
+subcontract requests. Per federal guidance, the contracting officers are required to review proposals
+and provide their formal written consent or non-consent to the prime contractor to use a
+
+
+
+
+17 The detailed supplier reports are Supplier Research and Analysis Reports, which provide a detailed view of a supplier’s
+
+  business management; design, production, and technical risks; security issues; and any other concerns.
+18 Initiated in 2018, NASA’s CLPS initiative is intended to allow rapid acquisition of lunar delivery services from American
+
+  companies for payloads that advance science, exploration, and commercial development of the Moon. As part of the Lunar
+  Discovery and Exploration Program in the Science Mission Directorate, CLPS awards cover end-to-end delivery services
+  including integration, launch and landing, and mission operations. NASA OIG initiated an audit of the CLPS initiative in May
+  2023.
+
+
+
+                                                                        NASA Office of Inspector General          IG-24-003    16
+subcontractor. 19 However, many NASA program officials noted that they do not provide input on who
+the prime contractors should select as subcontractors.
+
+Insight Central is a key piece of NASA’s efforts to increase supply chain visibility throughout the Agency.
+In general, the SCRM Program hopes the database will enable more proactive supply chain management
+across NASA through the identification of domestic sourcing challenges and associated alternatives or
+mitigations. Specific upcoming Insight Central developments include incorporation of data from several
+sources, including a database from the Defense Contract Management Agency (DCMA) that includes
+quality and delivery information; an extensive civil space industrial base survey; and a Supply Chain
+Visibility Data Requirement Description (DRD) document to obtain supplier data from prime contractors.
+
+PrimeE
+A similar but separate supply chain database is PrimeE, managed by NASA’s LMD. PrimeE—drawing
+primarily from the System for Award Management and the Federal Procurement Data System—has
+multiple capabilities, including overlaying supply chain visualizations onto maps that display various
+types of risks. 20 An early version of PrimeE was developed 15 years ago to help simulate the economic
+impact from the retirement of the Space Shuttle Program. At the time, program officials were
+interested in learning more about the lower tiers of their supply chains: who the most critical suppliers
+were, which suppliers would be needed for the follow-on program, and who were the sole-source
+suppliers (i.e., companies that were the only ones manufacturing a particular product). After helping
+answer those questions, the database was shelved for the next several years.
+
+Currently, PrimeE has several focus areas for its analysis and modeling capabilities, such as identifying
+sole- and alternate-source suppliers and mapping relationships between suppliers and NASA programs—
+visualizing a program’s supply chain for multiple tiers. As a test case, LMD partially mapped the supply
+chain for RS-25 engines—four of which are used on each SLS flight—with overlaid risks. The tool can
+also run different economic resiliency simulations based on different scenarios (e.g., variability in
+demand, financial liquidity of a supplier) to measure the health of a segment of the industrial base. In
+this sense, PrimeE shows promise because it can identify future supply chain issues rather than only
+reporting issues that have already occurred. Moving forward, LMD plans for PrimeE to complement—
+not replace—existing supply chain tools such as Insight Central. While LMD officials stated they would
+be interested in ensuring PrimeE and Insight Central interact with one another, the SCRM Program has
+not currently agreed to this type of interface.
+
+Supply Chain Resiliency Forum
+Formed in March 2022, the SCRF serves as a discussion forum for representatives from across the
+Agency to coordinate, communicate, and gather information about supply chain-related activities. As of
+July 2023, the SCRF continues to develop its mission and goals and plans to establish a charter by the
+end of FY 2023. The group is composed of members with other full-time duties and therefore is often a
+secondary priority. Further, not all Centers or Mission Directorates are represented in the group (nor is
+anyone from the aerospace industry), though there have been a notable number of external
+
+19 FAR Subpart 44.2, Consent to Subcontracts. Further, the NASA FAR Supplement 1844.202-1(b), Consent to Subcontracts,
+
+  Responsibilities, requires contracting officers to document subcontract consent reviews using the Subcontract Consent
+  Review template.
+20 The System for Award Management is a government-wide registry for vendors doing business with the federal government.
+
+  The Federal Procurement Data System is the real-time database that serves the government acquisition community as the
+  authoritative source of contract information.
+
+
+
+                                                                    NASA Office of Inspector General         IG-24-003    17
+engagements with other agencies and organizations to discuss supply chain efforts. 21 In addition to
+sharing ongoing efforts and benchmarking supply chain management techniques against other federal
+agencies, the SCRF is working with NASA’s Office of Procurement to develop the Supply Chain Visibility
+DRD for inclusion into prime contracts.
+
+The Supply Chain Visibility DRD will contractually mandate that NASA’s prime contractors provide supply
+chain information on the top three levels of a program’s supply chain—the prime, the prime’s
+subcontractors, and the subcontractors’ suppliers. As of July 2023, the DRD was not yet finalized,
+though NASA plans to have this in place by the beginning of FY 2024. Contractors will submit the data to
+NASA, which will then house it within Insight Central. Once the data from the DRD is incorporated into
+Insight Central, anyone at NASA will be able to share issues they might have with a supplier, further
+increasing information sharing across programs and the Agency overall. The requirement will apply to
+procuring products and services for programs and projects on NASA’s Agency Mission Program and
+Project List, which includes Artemis projects like the SLS Block 1B Development, ML-2, and the
+Gateway’s Power and Propulsion Element. NASA will implement the DRD on new procurements that
+meet certain requirements, with the option to incorporate it into existing contracts.
+
+The goal is for prime contractors to provide this information freely to NASA, though several Agency
+officials told us that major primes have indicated they are unwilling to do so, citing costs associated with
+gathering the information. While this data collection is a crucial first step, the database will only be
+helpful if NASA personnel use it. To that point, several program officials we interviewed doubted the
+usefulness of a comprehensive supply chain database, instead preferring that NASA’s prime contractors
+manage the issue.
+
+Holistic Agency Study
+Another ongoing Agency effort to better understand its supply chains is the Holistic Agency Study. Led
+by representatives from NASA’s Office of Technology, Policy and Strategy and Office of the Chief
+Engineer, the study was conducted from late 2021 to 2023. The study used a broad survey of NASA
+stakeholders to learn how supply chain management is handled across the Agency—in addition to
+specific issues they face—and will ultimately provide recommendations to NASA upon its release,
+expected during summer 2023. As of June 2023, preliminary results highlight NASA’s siloed supply chain
+structure, with various groups working on their own issues, and the lack of a cohesive approach or
+awareness across Centers, programs, and projects. Further, initial results from the study show that
+supply chain issues are almost always a surprise to NASA, resulting in reactive “crisis management” by
+programs and projects. While solutions are usually found, NASA lacks an integrated approach or
+cross-project resolution to the problem. As of July 2023, the final report has not been released.
+
+NASA and Contractor Efforts to Mitigate Supply Chain
+Disruptions Focus on Specific and Immediate Challenges
+In addition to taking steps to increase visibility into the supply chain, the Artemis programs and their
+prime contractors are taking some measures to mitigate the numerous supply chain disruptions. While
+these efforts vary between NASA and its contractors, NASA’s actions are primarily reactive whereas the
+
+21 As of January 2023, SCRF membership included representatives from the following groups: Office of the Administrator;
+
+  Common Exploration Systems Development Division; Science Mission Directorate; Space Technology Mission Directorate;
+  Office of the Chief Engineer; Office of Technology, Policy and Strategy; Office of International and Interagency Relations;
+  Office of Procurement; Office of the Chief Financial Officer; and Office of Safety and Mission Assurance. All representatives
+  are located at NASA Headquarters.
+
+
+
+                                                                      NASA Office of Inspector General          IG-24-003         18
+contractors’ actions include proactive strategies. Both of these approaches have experienced varying
+degrees of success.
+
+When faced with supply chain challenges, NASA has taken action to rearrange resources from one
+project to another, authorized advance procurements, and coordinated with DoD for critical
+components:
+
+    •    The Orion, SLS, and EGS programs have coordinated with other programs and projects to
+         procure and share resources to mitigate schedule disruptions. When the Orion Program needed
+         two valves, it coordinated with the SLS Program to purchase the valves on the existing SLS
+         contract, eliminating a lengthy procurement process. Similarly, within the SLS Program, the
+         Boosters project office provided batteries to the Stages project to be used for qualification
+         testing purposes. Additionally, the ML-1 and ML-2 project offices, within the EGS Program,
+         worked together to ensure tubing necessary for ML-1 repairs after the Artemis I launch would
+         be available to meet Artemis II launch goals. The ML-2 project, which did not need the tubing at
+         that time, was able to provide the tubing to ML-1, thereby avoiding a 12-week delay.
+    •    Another step NASA is taking is to authorize the purchase of parts earlier in a project. After the
+         Stages project office experienced schedule delays for propulsion parts with Core Stages 3 and 4,
+         the office authorized the contractor to start purchasing the propulsion parts earlier than planned
+         to mitigate those issues for Core Stages 5 and 6. This advanced purchasing is intended to
+         prevent schedule slips resulting from late deliveries.
+    •    Finally, NASA has developed partnerships through the Space Industrial Base Working Group, a
+         multi-agency partnership focused on establishing and sustaining the U.S. space industrial base, to
+         assist with supply chain issues.22 On one occasion, NASA noticed that a major supplier for
+         reaction wheels was de-prioritizing Agency orders.23 The Space Industrial Base Working Group
+         provided NASA with funding to assist another supplier with producing reaction wheels, which
+         alleviated some of the order backlog.
+
+In contrast, NASA’s prime contractors utilize a variety of tools, including bulk-buys, in-house
+manufacturing, and maintaining supplier databases, to proactively mitigate supply chain disruptions. For
+example, bulk ordering allows a contractor to build an internal inventory of common items instead of
+making an order for a component as needed. Similarly, in-house manufacturing allows the contractor to
+avoid long lead times from their suppliers. Another technique contractors use is managing supply chain
+dashboards and databases to maintain insight into their supply chains. These databases can store
+information about suppliers and be used to provide a supplier rating, which is determined by assessing
+supplier deliveries, technical performance, and adherence to deadlines. Table 2 outlines several other
+mitigation measures used by Artemis prime contractors.
+
+
+
+
+22 The Space Industrial Base Working Group is composed of NASA and other U.S. spacefaring agencies and includes members
+
+  from the Missile Defense Agency, Office of the Secretary of Defense, Defense Logistics Agency, and Air Force Research
+  Laboratory. Part of the working group’s focus is to establish and sustain sufficient demand in the U.S. market to support the
+  U.S. space industrial base.
+23 Reaction wheels are used to provide attitude control—or orientation while in orbit—and stability on a spacecraft.
+
+
+
+
+                                                                     NASA Office of Inspector General          IG-24-003      19
+Table 2: Artemis Contractor Supply Chain Mitigation Techniques
+                    Techniques                                          Description/Intended Benefits
+
+ Bulk-buys for common parts                              Saves money and increases stock of parts on hand to
+                                                         use across programs
+ Ongoing and direct communication with                   Facilitates discussions of supply chain issues
+ suppliers
+ Leverage company’s own financial                        Allows for earlier ordering of parts and materials to
+ resources                                               lessen the risk of schedule slippage from delivery delays
+
+ In-house manufacturing                                  Streamlines acquisition processes and vertically
+                                                         integrates supply chain
+ Involving NASA to promote the mission                   Spotlights supplier’s role in unique and exciting space
+ directly to suppliers                                   flight missions direct from the Agency
+ Seeking products internationally                        Widens the industrial base when domestic suppliers
+                                                         cannot meet schedule/requirements
+ Internal dashboard/database                             Tracks subcontractor and supplier performance
+Source: NASA OIG summary of interviews with Artemis contractors.
+
+
+Other Agencies and Industries Offer Best Practices and
+Benchmarking Opportunities for NASA
+As part of our review, we identified a variety of supply chain management best practices and
+benchmarking opportunities from other federal agencies, an international partner, and private sector
+companies. Specifically, we found that the Navy, Army, Air Force, and DCMA are each, to varying
+degrees, refining their insight into their supply chains. In addition, the European Space Agency (ESA)—
+one of NASA’s main international partners for the Artemis campaign—illustrates how NASA can improve
+its management of unique supply chains. Further, we researched best practices from private sector
+companies outside of the space flight sector—the automobile industry, in particular—that face similar
+supply chain difficulties to NASA.
+
+Department of the Navy
+In 2014, the Department of the Navy began developing a supply chain database that now allows it to
+identify its most critical suppliers based on several factors, including parts with long lead times, high
+dollar values, and those from single or sole sources. The main data sources for the database include
+shipyard purchase orders—which outline individual parts purchased, the cost of the part, and
+information about the supplier—as well as supplier quality and delivery data from the Navy’s Product
+Data Reporting and Evaluation Program (PDREP) database. 24 In recent years, the Navy began
+implementing Contract Data Requirement Lists (a required data submission from the contractor similar
+to NASA’s DRDs) into contracts to require shipbuilders to continue to provide this information.
+Codifying these requirements into major contracts allows the Navy to receive vast quantities of data it
+
+24 PDREP enables the reporting, collection, and use of supplier performance information. It supports the Navy’s oversight and
+
+  management of the supply chain, ensuring first time quality and on-time delivery of materials. Information housed in the
+  database includes material deficiencies, engineering reports, supplier audits, and surveys.
+
+
+
+                                                                     NASA Office of Inspector General         IG-24-003      20
+can use to maintain visibility into its supply chains. NASA is currently developing the Supply Chain
+Visibility DRD that would provide the Agency with similar supply chain information from its prime
+contractors.
+
+Department of the Army
+One office we spoke to within the Department of the Army gains extensive insight into its supply chains
+by utilizing an existing contract vehicle with a third-party service. While the service is costly, the
+capabilities are robust, and Army officials told us it is extremely useful. 25 Dashboards are populated
+with supplier data from bills of material from several Army programs and supplemented with open-
+source data and reports created using artificial intelligence. These dashboards, as well as specialized
+reports, provide more transparency and traceability of the Army’s critical suppliers compared to NASA.
+For example, recent reports include one that provides a detailed assessment of a particular raw material
+and an evaluation of a key supplier based on several risk factors, including foreign influence, hardware,
+and financial solvency. Overall, this service allows for easier identification of, for example, program
+bottlenecks or suppliers with foreign ownership. In contrast, NASA has no such capability and must rely
+heavily on its prime contractors to maintain lower tier visibility into supply chains. As a result, NASA
+lacks early visibility into any challenges with or concerns about suppliers that may ultimately impact
+program costs and schedule.
+
+Department of the Air Force
+The Department of the Air Force is collaborating with NASA’s Aeronautics Research Institute to lead a
+supply chain working group for NASA’s Advanced Air Mobility mission. While the group is mostly an
+educational forum given the nascency of the drone market its members are studying, the working group
+actively engages with industry to establish relationships and discuss ideas. According to working group
+leadership, suppliers embraced the opportunity to meet with the Air Force and NASA to engage on
+these issues.
+
+In comparison, NASA’s SCRF does not have representation from each Agency Mission Directorate or any
+program-level personnel, let alone anyone from industry. Based on the amount of insight gleaned from
+our discussions with Artemis prime contractors, a fuller and more holistic membership for the SCRF
+would provide additional perspectives on important supply chain issues.
+
+Defense Contract Management Agency
+DCMA is taking several actions to improve its supply chain management. The agency is transitioning
+from two separate internal databases to the Navy’s PDREP database to oversee its supply chain
+management and increase the fidelity of data on its suppliers. 26 Additionally, as a best practice, DCMA
+ensures a logistician or quality assurance individual is integrated on a contract from start to finish for
+better oversight and proactive resolution. As noted earlier, NASA does not fully utilize its logistics
+personnel for Artemis programs.
+
+Separately, NASA could better utilize DCMA’s contract administration capability to improve its overall
+supply chain management. Contract administration is an important component of supply chain
+
+25 According to General Service Administration representatives, the fee for the system is about $90,000 per year, with the cost
+
+  of individualized reports ranging from a few thousand to several hundred thousand dollars.
+26 NASA’s SCRM Program is also working to leverage PDREP by connecting data from the PDREP into the Agency’s Insight
+
+  Central database.
+
+
+
+                                                                      NASA Office of Inspector General         IG-24-003      21
+management, given that supply chain management should occur throughout a program’s life cycle.
+Effective contract administration can improve supply chain management by mitigating risks and
+improving relationships with suppliers. To this end, DCMA has extensive experience administering
+complex contracts on behalf of other agencies with defense suppliers, many of whom also supply to
+NASA. While both DCMA and NASA officials are often physically located in a contractor’s facility, DCMA
+officials told us that the biggest advantage that DCMA has over NASA when it comes to contract
+administration is that, unlike NASA, DCMA is not the buying authority (e.g., Navy, Army, Air Force).
+According to DCMA officials, this lack of buying authority allows for a more independent assessment of a
+contractor’s progress and performance, including its management of its subcontractors and suppliers.
+
+Despite DCMA offering to perform full or partial contract management for NASA at a minimal cost,
+according to DCMA representatives, NASA does not utilize DCMA expertise as often as it could. To its
+credit, NASA has been working with DCMA since 2021 to develop a Memorandum of Understanding
+(MOU) to better align expectations and responsibilities between the two agencies with respect to
+contract administration services. The MOU is expected to be signed later this calendar year and would
+create an Executive Steering Group, co-led by representatives of each agency, with an aim to improve
+communication, planning, and resource-sharing between the agencies. One priority of the MOU is to
+increase leveraging of DCMA’s capabilities, specifically in identifying supply chain risks. Overall, the
+agreement will allow NASA to take better advantage of what is currently an underutilized resource for
+its supply chain management.
+
+European Space Agency
+The European Space Agency (ESA) has several supply chain management methods from which NASA
+could learn. These include centralized Artemis project management support, periodic assessment of key
+suppliers, and contractual requirements for primes to report suppliers. ESA officials specifically noted
+that the close physical proximity of its Artemis program and project management personnel is beneficial
+for information sharing about supplier issues and a stark contrast to NASA’s approach, in which Artemis
+programs are spread across multiple Centers.
+
+Automobile Manufacturing Industry
+U.S. automobile manufacturers use various techniques to proactively manage their supply chains. In
+response to the global microchip shortage and other pandemic-related disruptions, one automaker
+emphasized improved monitoring systems. This involved identifying the most important links in the
+supply chain, flagging issues in real time, and investing in digital tools to track signals, all of which was
+overseen by a newly created team with a codified governance structure and process. In the industry as
+a whole, enhanced visibility into lower tiers of supply chains to identify “bottleneck suppliers” was
+identified as a critical capability.
+
+
+
+
+                                                            NASA Office of Inspector General    IG-24-003   22
+CONCLUSION
+
+NASA relies on contractors to build key components of the ambitious Artemis campaign, such as the SLS,
+Orion, two mobile launchers, HLS, Gateway, and extravehicular spacesuits. As of March 2023, NASA has
+obligated approximately $40 billion to 860 contractors in support of the Artemis campaign, and 59 of
+those contractors support five Artemis programs—SLS, Orion, EGS, HLS, and Gateway. Further, NASA’s
+contractors employ a network of subcontractors and suppliers to provide necessary hardware and
+services.
+
+Numerous challenges to these supply chains have resulted in limited supplies and materials. These
+challenges are affecting both NASA and its prime contractors, leading to cost increases and schedule
+delays to meet the Artemis program and project goals. Critical components and resources, such as
+valves, EEE parts, and helium, are often not available when needed. Further, delivery of the Orion
+vehicle for Artemis III has been delayed by 11 months because of supply chain issues. Nonetheless,
+these cost and schedule increases do not reflect the total supply chain-related impact for the Artemis
+campaign as NASA does not track supply chain effects separately on its prime contracts. Currently, the
+Artemis program and project officials rely on the prime contractors to understand and track their supply
+chain issues, leaving NASA in a reactive mode to mitigate the effects.
+
+NASA does not have comprehensive visibility into the Artemis campaign’s subcontractors or sub-tier
+suppliers, preventing NASA from strategically managing the numerous and ongoing challenges affecting
+the Artemis supply chain. Further, factors such as geopolitical issues, workforce challenges, failure to
+incorporate NASA’s logisticians throughout the contracts’ lifecycle, and competition with DoD over
+products from a limited number of suppliers all contribute to the Agency’s supply chain issues. NASA’s
+efforts to improve internal databases and encourage greater collaboration are ongoing and still evolving
+and have not yet produced the necessary visibility to increase NASA’s strategic management of the
+Artemis supply chain.
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003   23
+RECOMMENDATIONS, MANAGEMENT’S RESPONSE,
+AND OUR EVALUATION
+
+
+To improve NASA’s management and visibility into its supply chain, we recommended the Executive for
+the Supply Chain Resiliency Forum:
+
+   1. Establish a charter for the existing Supply Chain Resiliency Forum, to include representation
+      from the Moon to Mars Program Office and major Artemis prime contractors.
+   2. Complete the Supply Chain Visibility Data Requirement Description effort to gain supplier data
+      from contractors.
+   3. Provide training to contracting officers on FAR Subpart 44.2 - Consent to Subcontracts, so that
+      the contracting officers will utilize available supplier data to determine whether the contractor
+      should enter a contract with a particular subcontractor.
+
+To improve NASA’s management of the Artemis supply chain, we recommended the Associate
+Administrator for Exploration Systems Development Mission Directorate:
+
+   4. Centralize supply chain management for the Artemis campaign within the Moon to Mars
+      Program Office.
+   5. Ensure data is regularly entered into a supplier database (e.g., Insight Central) to track supplier
+      data and ongoing challenges.
+   6. Incorporate a representative from the Logistics Management Division into each Artemis-related
+      program and project at appropriate milestones, including at the onset of a contract and each
+      life-cycle milestone.
+   7. Ensure an Artemis-specific study of the Agency’s industrial base and supply chain is completed
+      on a recurring basis.
+
+We provided a draft of this report to NASA management who concurred with recommendations 1, 2, 3,
+4, 5, and 7, and partially concurred with recommendation 6. We consider management’s comments
+responsive to recommendations 1, 3, 4, 5, and 7, and therefore those recommendations are resolved
+and will be closed upon completion and verification of the proposed corrective actions. However, we
+found the Agency’s response to recommendations 2 and 6 unresponsive. Consequently, those
+recommendations will remain unresolved pending further discussions with the Agency.
+
+NASA concurred with recommendation 2 to complete the Supply Chain Visibility Reporting DRD, which
+will provide the Agency with data for three tiers of suppliers to better understand its supply
+chains. While the Agency notes the DRD will be applied to new procurements under certain criteria, it
+does not mention if it will be applicable to NASA’s many existing Artemis-related contracts. In our
+judgment, without including existing Artemis-related contracts in its reporting, the Agency will be
+missing key data necessary to comprehensively identify subcontractors and sub-tier suppliers supporting
+the Artemis campaign.
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003     24
+NASA partially concurred with recommendation 6 to incorporate a representative from the Logistics
+Management Division (LMD) into Artemis programs and projects at appropriate milestones, stating that
+the Agency will consider utilizing a representative for key program life-cycle reviews and assessments
+conducted at the Moon to Mars Program Office level. While we are encouraged that NASA will
+“consider utilizing” an LMD representative, in our judgment, embedding LMD personnel more fully into
+the Artemis programs will improve identification and mitigation of supply chain risks. As we note in our
+report, LMD personnel have access to deficiency reporting systems and can forecast parts that may be
+outdated or becoming obsolete. With this level of supply chain detail, Artemis campaign officials, in
+conjunction with LMD, could make better informed decisions from the requirements establishment
+process through project completion to ensure project success.
+
+Management’s comments are reproduced in Appendix B. Technical comments provided by
+management and revisions to address them have been incorporated as appropriate.
+
+
+
+Major contributors to this report include Ridge Bowman, Human Exploration Directorate Audits
+Director; Susan Bachle, Assistant Director; Victoria Adams; Areeba Hasan; Tyler Martin; Sarah McGrath;
+Courtney Daniels; Shari Bergstein; Jeremy Brown; Cody Bryant; Daniel Mills; Carlyle Webb; and Shani
+Dennis.
+
+If you have questions about this report or wish to comment on the quality or usefulness of this report,
+contact Laurence Hawkins, Audit Operations and Quality Assurance Director, at 202-358-1543 or
+laurence.b.hawkins@nasa.gov.
+                    Digitally signed by PAUL
+PAUL                MARTIN
+                    Date: 2023.10.18 13:33:43
+MARTIN              -04'00'
+
+Paul K. Martin
+Inspector General
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003     25
+                                                                                              Appendix B
+
+
+
+
+APPENDIX A: SCOPE AND METHODOLOGY
+We performed this audit from August 2022 through September 2023 in accordance with generally
+accepted government auditing standards. Those standards require that we plan and perform the audit
+to obtain sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis for
+our findings and conclusions based on our audit objectives.
+
+In this audit, we assessed NASA’s management of the Artemis campaign's supply chain to meet its
+human exploration goals, to include reviewing supply chain challenges and risks and processes to
+identify and mitigate supply chain issues. To assess NASA’s supply chain management processes and
+NASA’s visibility into the Artemis campaign supply chain, we conducted interviews with representatives
+from the SCRF, SCRM Program, LMD, Holistic Agency Study, Office of the Chief Engineer, and Artemis
+campaign program, project, and procurement officials. We also received access to the Insight Central
+database and independently analyzed the information included in the database.
+
+To understand the challenges facing both NASA and the prime contractors we developed and sent
+detailed questionnaires to NASA program, project, and procurement representatives as well as the
+Artemis prime contractors. We sent detailed questionnaires to each of the Artemis programs and
+projects—EGS, Extravehicular Activity and Human Surface Mobility, Gateway, HLS, Orion, and SLS
+programs—to include 69 individuals. We received responses from 25 individuals, providing
+representation from each of the Artemis programs and projects. We also sent detailed questionnaires
+to nine Artemis prime contractors and received responses from all nine: Axiom, Bechtel, Boeing, Collins,
+Dynetics, Lockheed Martin, Maxar, Northrop Grumman, and SpaceX. The prime contractors that did not
+agree to a follow-up interview to discuss their responses included Bechtel and Boeing. All responses
+were received electronically. The results of these surveys, including follow-on interviews with select
+respondents, were incorporated throughout the report. We also reviewed federal and NASA
+requirements, including regulations on quality assurance and Executive Orders.
+
+To identify critical suppliers to the Artemis campaign, we reviewed the NASA and prime contractor
+survey responses and conducted interviews with select Artemis program and project representatives,
+SCRM Program officials, and select prime contractors. We reviewed the CARITL, presentations
+concerning critical parts and suppliers, and supply chain risks affecting program costs and schedule. We
+also obtained a list of the subcontractors and suppliers from NASA for the Artemis campaign prime
+contracts, although the list was not comprehensive. We further obtained known subcontractor and
+supplier data from NASA’s accounting system and from USA Spending. Utilizing Power BI, we developed
+an Artemis Supply Chain Dashboard of subcontractors and suppliers that NASA contracts with directly
+and are used by the prime contractors using those three data sources. We identified critical suppliers
+that are utilized by multiple Artemis programs and projects and by their prime contractors.
+
+For benchmarking purposes, we conducted interviews with representatives from other government
+agencies, including the departments of the Navy, Air Force, and Army and DCMA. We also reviewed
+best practices from automobile manufacturing industries. We further developed and sent
+questionnaires to both the European Space Agency and Japanese Aerospace Exploration Agency.
+However, only the European Space Agency responded to the questionnaire.
+
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003   26
+                                                                                              Appendix B
+
+
+
+Assessment of Data Reliability
+We used computer-generated data while performing this audit. We reviewed and analyzed NASA
+obligation and funding data for FYs 2012 through 2022 in NASA’s financial accounting system. The
+obligation and funding data were mainly derived from Artemis mission costs: EGS, SLS, Orion, HLS, and
+Gateway. We assessed the reliability of the financial data by (1) verifying the data with the NASA OIG’s
+Office of Data Analytics, Artemis Supply Chain Dashboard, and Government Spending Open Data
+(https://usaspending.gov); (2) reviewing data provided by NASA’s directorates and divisions, and the
+prime (if furnished); and (3) interviewing Agency officials knowledgeable about this data. We
+determined that the data was sufficiently reliable for the purposes of this report. As mentioned
+previously in the report, we concluded that the Insight Central database is a work in progress and
+incomplete. As a result, we did not use data from Insight Central for this report.
+
+
+Review of Internal Controls
+We reviewed and evaluated the internal controls associated with NASA’s supply chain management of
+the Artemis campaign. We also reviewed appropriate policies, procedures, and regulations, and
+conducted interviews with responsible personnel. We concluded that the internal controls were
+adequate, but because our review was limited to these internal control components and underlying
+principles, it may not have captured all internal control deficiencies at the time of this audit. Our
+recommendations, if implemented, will correct the identified control weaknesses.
+
+
+Prior Coverage
+The NASA OIG and the Government Accountability Office have issued 23 reports containing significant
+relevance to the subject of this report. Unrestricted reports can be accessed at
+https://oig.nasa.gov/audits/auditReports.html and https://www.gao.gov respectively.
+
+NASA Office of Inspector General
+NASA’s Management of the Space Launch System Booster and Engine Contracts (IG-23-015, May 25,
+2023)
+
+NASA’s Partnerships with International Space Agencies for the Artemis Campaign (IG-23-004, January 17,
+2023)
+
+NASA’s Management of the Mobile Launcher 2 Contract (IG-22-012, June 9, 2022)
+
+NASA’s Management of the Artemis Missions (IG-22-003, November 15, 2021)
+
+NASA’s Development of Next-Generation Spacesuits (IG-21-025, August 10, 2021)
+
+Artemis Status Update (IG-21-018, April 19, 2021)
+
+COVID-19 Impacts on NASA’s Major Programs and Projects (IG-21-016, March 31, 2021)
+
+NASA’s Management of the Gateway Program for Artemis Missions (IG-21-004, November 10, 2020)
+
+NASA’s Management of the Orion Multi-Purpose Crew Vehicle Program (IG-20-018, July 16, 2020)
+
+
+
+                                                         NASA Office of Inspector General   IG-24-003   27
+                                                                                             Appendix B
+
+
+NASA’s Development of Ground and Flight Application Software for the Artemis Program (IG-20-014,
+March 19, 2020)
+
+Audit of NASA’s Development of its Mobile Launchers (IG-20-013, March 17, 2020)
+
+NASA’s Management of Space Launch System Program Costs and Contracts (IG-20-012, March 10, 2020)
+
+NASA’s Management of the Space Launch System Stages Contract (IG-19-001, October 10, 2018)
+
+Audit of NASA’s Information Technology Supply Chain Risk Management Efforts (IG-18-019,
+May 24, 2018)
+
+NASA’s Management of Spare Parts for its Flight Projects (IG-18-001, October 5, 2017)
+
+NASA’s Management and Development of Spacesuits (IG-17-018, April 26, 2017)
+
+NASA’s Plans for Human Exploration Beyond Low Earth Orbit (IG-17-017, April 13, 2017)
+
+NASA’s Parts Quality Control Process (IG-17-016, March 29, 2017)
+
+NASA’s Management of the Orion Multi-Purpose Crew Vehicle Program (IG-16-029, September 6, 2016)
+
+Government Accountability Office
+Space Launch System: Cost Transparency Needed to Monitor Program Affordability (GAO-23-105609,
+September 7, 2023)
+
+NASA: Assessments of Major Projects (GAO-23-106021, May 31, 2023)
+
+Supply Chain Resilience: Agencies Are Taking Steps to Expand Diplomatic Engagement and Coordinate
+with International Partners (GAO-23-105534, February 2, 2023)
+
+NASA: Assessments of Major Projects (GAO-22-105212, June 23, 2022)
+
+NASA Lunar Programs: Significant Work Remains, Underscoring Challenges to Achieving Moon Landing in
+2024 (GAO-21-330, May 26, 2021)
+
+NASA Human Space Exploration: Significant Investments in Future Capabilities Require Strengthened
+Management (GAO-21-105, December 15, 2020)
+
+NASA Lunar Programs: Opportunities Exist to Strengthen Analyses and Plans for Moon Landing
+(GAO-20-68, December 19, 2019)
+
+
+
+
+                                                        NASA Office of Inspector General   IG-24-003   28
+                                                                                                             Appendix B
+
+
+
+          Appendix B: Management’s Comments
+                    National Aeronautics and Space Administration
+
+                    Mary W. Jackson NASA Headquarters
+                    Washington, DC 20546-0001
+
+
+
+
+Reply to Attn of:   Exploration Systems Development Mission Directorate
+
+
+                    TO:         Assistant Inspector General for Audits
+
+                    FROM:       Associate Administrator for Exploration Systems Development Mission
+                                  Directorate and Assistant Administrator for Procurement
+
+                    SUBJECT: Agency Response to OIG Draft Report, “NASA’s Management of the Artemis
+                             Supply Chain” (A-22-14-00-HED)
+
+
+                    The National Aeronautics and Space Administration (NASA) appreciates the opportunity to
+                    review and comment on the Office of Inspector General (OIG) draft report entitled, “NASA’s
+                    Management of the Artemis Supply Chain” (A-22-14-00-HED), dated September 6, 2023.
+
+                     In the report, the OIG determined numerous challenges to these supply chains have resulted
+                    in limited supplies and materials. These challenges affected both NASA and its prime
+                    contractors, leading to cost increases and schedule delays to meet the Artemis program and
+                    project goals. The OIG opined that NASA does not have comprehensive visibility into the
+                    Artemis Campaign’s subcontractors or sub-tier suppliers, preventing NASA from
+                    strategically managing the numerous and ongoing challenges affecting the Artemis supply
+                    chain.
+
+                    Specifically, the OIG recommends the following:
+
+                    Recommendation 1: Establish a charter for the existing Supply Chain Resiliency Forum, to
+                    include representation from the Moon to Mars Program Office and major Artemis prime
+                    contractors.
+
+                       Management’s Response: NASA concurs. The Agency-level Supply Chain Resiliency
+                       Board (SCRB) will be established in September 2023, in accordance with NASA policy
+                       and guidance. As set forth in the board’s charter, “the SCRB supports the Acquisition
+                       Strategy Council (ASC) and the Chief Acquisition Officer (CAO) in advancing Agency
+                       strategy, policy, processes, capabilities, and organizational culture for (1) the pro-active
+                       assessment and management of supply chain and industrial base risks and opportunities
+                       to assure resilient NASA mission performance, and (2) the fulfillment of applicable U.S.
+                       Government policy and statutory requirements.” The SCRB is a substantive evolution of
+                       the Supply Chain Resiliency Forum cited in the OIG report. The SCRB is designed to
+                       recommend courses of action and sustainable solutions to surmount the dynamic array of
+                       risks that threaten the provisioning of products and services required for NASA mission
+
+
+                                                                       NASA Office of Inspector General   IG-24-003 | 29
+                                                                                        Appendix B
+
+
+
+   success. SCRB membership consists of senior-level representatives of the member
+   organizations, as follows:
+
+   •   Office of the Administrator.
+   •   Office of Technology, Policy, and Strategy.
+   •   Office of International and Interagency Relations.
+   •   Office of the Chief Engineer.
+   •   Office of Procurement.
+   •   Office of the Chief Financial Officer.
+   •   Office of the Chief Information Officer.
+   •   Office of Safety and Mission Assurance.
+   •   Office of the General Counsel.
+   •   Aeronautics Research Mission Directorate.
+   •   Exploration Systems Development Mission Directorate.
+   •   Science Mission Directorate.
+   •   Space Operations Mission Directorate.
+   •   Space Technology Mission Directorate.
+   •   Mission Support Directorate.
+   •   Other NASA organizations and/or subject-matter experts on a permanent or ad hoc
+       basis as determined by the SCRB Chair in consultation with the ASC Chair as
+       warranted.
+
+   NASA’s engagement with prime contractors and suppliers under contract for Artemis
+   programs and projects and other NASA programs and projects will continue in
+   accordance with established programmatic responsibilities in conjunction with applicable
+   procurement and contract management policies; thus, the SCRB charter does not provide
+   for the representation of NASA prime contractors in the SCRB.
+
+   Estimated Completion Date: October 31, 2023.
+
+Recommendation 2: Complete the Supply Chain Visibility Data Requirement Description
+effort to gain supplier data from contractors.
+
+   Management’s Response: NASA concurs. It is planned to complete the Agency’s
+   review and approval of the proposed Data Requirements Description (DRD) for Supply
+   Chain Visibility Reporting by prime contractors and an accompanying implementation
+   plan via the Supply Chain Resiliency Board and the ASC and/or the CAO within the first
+   quarter of fiscal year 2024. As currently formulated, the DRD will be applicable to new
+   NASA procurements of products and services for programs and projects on the approved
+   Agency Mission Program and Project List. The application and scope of the proposed
+   DRD are further limited to supplier entities within the top three contractual tiers of
+   NASA procurements (i.e., Tier 1: prime contractor to NASA; Tier 2: direct
+   subcontractors to the prime contractor; Tier 3: direct suppliers to the direct
+   subcontractors). The configuration of a secure application of the NASA Supply Chain
+   Insight Central (SCIC) information services and analysis platform is under way to
+   support the planned Supply Chain Visibility Reporting process and to provide integrated
+   management of reported data and information for internal NASA planning, analysis, and
+
+                                                   NASA Office of Inspector General   IG-24-003 | 30
+                                                                                          Appendix B
+
+
+
+   decision-making purposes. Initial and incremental implementation of the DRD for
+   Supply Chain Visibility Reporting, as approved, is targeted for the second quarter of
+   fiscal year 2024.
+
+   Estimated Completion Date: March 31, 2024.
+
+Recommendation 3: Provide training to Contracting Officers on FAR Subpart 44.2 -
+Consent to Subcontracts, so that the Contracting Officers will utilize available supplier data
+to determine whether the contractor should enter a contract with a particular subcontractor.
+
+   Management’s Response: NASA concurs. The Office of Procurement will provide
+   refresher training to its contracting professionals on FAR Subpart 44.2, “Consent to
+   Subcontracts.” This training will include how to appropriately utilize supplier data when
+   making consent to subcontract decisions.
+
+   Estimated Completion Date: September 30, 2024.
+
+To improve NASA’s management of the Artemis supply chain, we recommend the Associate
+Administrator for Exploration Systems Development Mission Directorate:
+
+Recommendation 4: Centralize supply chain management for the Artemis campaign within
+the Moon to Mars Program Office.
+
+   Management’s Response: NASA concurs. NASA recently incorporated a supply chain
+   integration function within the Moon to Mars Program Office. The Artemis Integration
+   Manager coordinates with Artemis programs and projects within the Moon to Mars
+   Program Office to identify enterprise-wide supply chain issues and threats and works
+   with the programs and other stakeholders on mitigation strategies. The Artemis
+   Integration Manager also coordinates with other NASA organizations and internal
+   stakeholders on supply chain assessments of Artemis programs and projects and Agency-
+   level supply chain risk management initiatives. The Artemis Integration Manager is also
+   responsible for providing regular status updates to Exploration Systems Development
+   Mission Directorate (ESDMD) and Moon to Mars Program Office leadership on the
+   Artemis supply chain, including issues, threats, and efforts under way, and serves as the
+   ESDMD representative to the Supply Chain Resiliency Forum.
+
+   Estimated Completion Date: October 31, 2023.
+
+Recommendation 5: Ensure data is regularly entered into a supplier database (e.g., Insight
+Central) to track supplier data and ongoing challenges.
+
+   Management’s Response: NASA concurs. The NASA Supply Chain Insight Central
+   (SCIC) information services and analysis platform, which was launched for Agency-
+   wide, operational use in March 2021, serves as a key element of the Agency’s evolving
+   capabilities to build visibility and insight into the supply chains for NASA mission
+   programs and projects and support the pro-active identification, analysis, and
+   management of risks threatening the provisioning of products and services as required for
+   mission performance. SCIC is managed and operated by the Office of Safety and
+
+
+                                                     NASA Office of Inspector General   IG-24-003 | 31
+                                                                                        Appendix B
+
+
+   Mission Assurance (OSMA) Supply Chain Risk Management (SCRM) program in
+   collaboration with other NASA organizations as a secure information system for internal
+   NASA use. At present, SCIC contains records on 5,411 suppliers, including related
+   supplier audit and assessment information and reports on 3,989 suppliers, and 184
+   supplier research and analysis reports.
+
+   Section 5.5 of the NASA Procedural Requirements (NPR) 8735.2C, Hardware Quality
+   Assurance Program Requirements for Programs and Projects, includes a requirement for
+   entering information on the scope and results of supplier audits and assessments into
+   SCIC. Additional orientation and engagement activities are planned for FY 2024 to
+   strengthen compliance with this requirement; however, ongoing fulfillment of this
+   requirement alone is not sufficient for building and maintaining the supply chain
+   visibility and insight necessary for proactive SCRM across the Agency. Accordingly,
+   NASA, as described in the response to Recommendation #3, is planning to implement the
+   DRD for Supply Chain Visibility Reporting by prime contractors using a new, SCIC
+   application which will result in a robust flow of supplier information into SCIC for
+   internal NASA planning and analysis purposes. In addition, in order to further boost
+   visibility and insight into NASA supply chains, information, and data resulting from the
+   U.S. Civil Space Industrial Base Survey currently under way will be incorporated into
+   SCIC for use across the Agency. This ongoing survey, which is conducted by the
+   Department of Commerce’s Bureau of Industry and Security on behalf of NASA, will
+   yield substantial data and information on about 2,000 current and potential suppliers of
+   interest to NASA Mission Directorates, programs, and projects. Lastly, the OSMA
+   SCRM program in conjunction with the Supply Chain Resiliency Board will continue to
+   manage and assess the fulfillment of the activities described in this response and
+   recommend follow-on actions as warranted to achieve the supply chain visibility and
+   situational awareness necessary for the Agency’s proactive mitigation of risks threatening
+   NASA supply chains and the provisioning of products and services for NASA mission
+   performance.
+
+   Estimated Completion Date: September 30, 2024.
+
+Recommendation 6: Incorporate a representative from the Logistics Management Division
+into each Artemis-related program and project at appropriate milestones, including at the
+onset of a contract and each life-cycle milestone.
+
+   Management’s Response: NASA partially concurs. The Moon to Mars Program Office
+   acknowledges the benefit of logistics management expertise to large and complex
+   programs and projects. NASA will consider utilizing a logistician from the Logistics
+   Management Division for key program life-cycle reviews and assessments conducted at
+   the Moon to Mars Program Office level.
+
+   Estimated Completion Date: June 30, 2024.
+
+Recommendation 7: Ensure an Artemis-specific study of the Agency’s industrial base and
+supply chain is completed on a recurring basis.
+
+
+
+                                                   NASA Office of Inspector General   IG-24-003 | 32
+                                                                                               Appendix B
+
+
+   Management’s Response: NASA concurs. Artemis programs and projects participated
+   in the Agency’s Holistic Supply Chain/Space Industrial Base Survey conducted in 2022.
+   The Moon to Mars Program Office also engaged with the Aerospace Corporation in 2023
+   and obtained several reports reflecting recent Aerospace Corporation assessments that
+   provide insight into trends and issues within the space industrial base that are relevant to
+   the Artemis campaign. Artemis suppliers also participated in Wave 1 of the U.S. Civil
+   Space Industrial Base Assessment conducted by the Department of Commerce in
+   coordination with NASA, the National Oceanic and Atmospheric Administration, and the
+   National Environmental Satellite, Data, and Information Service. Wave 1 surveys were
+   issued by the Department of Commerce/Bureau of Industry and Security to suppliers in
+   March 2023. The Moon to Mars Program Office is currently working with the Office of
+   Technology, Policy, and Strategy (OTPS) and Artemis programs and projects to identify
+   additional Artemis suppliers for participation in the next wave of surveys. The list of
+   suppliers for participation in Wave 2 surveys will be provided to OTPS in September
+   2023. This action will be considered closed when the list of Artemis suppliers for
+   inclusion in Wave 2 of the U.S. Civil Space Industrial Base Assessment is provided.
+
+   Estimated Completion Date: September 30, 2023.
+
+We have reviewed the draft report for information that should not be publicly released. As a
+result of this review, we have not identified any information that should not be publicly
+released.
+
+Once again, thank you for the opportunity to review and comment on the draft report. If you
+have any questions or require additional information regarding this response, please contact
+Ruth Siboni at (202) 358-4555.
+               Digitally signed by James
+                                                             Karla            Digitally signed by Karla
+
+James Free     Free
+               Date: 2023.10.10
+                                                             Jackson
+                                                                              Jackson
+                                                                              Date: 2023.09.27
+               11:44:49 -04'00'                                               12:18:51 -04'00'
+
+
+James Free                                                   Karla Smith Jackson
+Associate Administrator for                                  Assistant Administrator for
+ Exploration Systems Development                              Procurement
+ Mission Directorate
+
+
+
+
+                                                    NASA Office of Inspector General      IG-24-003 | 33
+                                                                                             Appendix C
+
+
+
+
+APPENDIX C: REPORT DISTRIBUTION
+National Aeronautics and Space Administration
+Administrator
+Deputy Administrator
+Associate Administrator
+Chief of Staff
+Director, Logistics Management Division
+Assistant Administrator, Office of Procurement
+Program Manager, Office of Safety and Mission Assurance Supply Chain Risk Management
+Director, Kennedy Space Center
+Director, Marshall Space Flight Center
+
+
+Non-NASA Organizations and Individuals
+Office of Management and Budget
+    Deputy Associate Director, Climate, Energy, Environment and Science Division
+Government Accountability Office
+   Director, Contracting and National Security Acquisitions
+European Space Agency (ESA)
+    Director General of ESA
+Aerojet Rocketdyne
+   President
+Axiom Space
+    Chief Executive Officer
+Bechtel Corporation
+   Chief Executive Officer
+Collins Aerospace
+    Chief Executive Officer
+Dynetics
+   Chief Executive Officer
+Lockheed Martin Corporation
+    Chief Executive Officer
+Maxar Technologies Inc.
+   Chief Executive Officer
+Northrop Grumman Corporation
+   Chief Executive Officer
+Space Explorations Technology Corporation
+   Chief Executive Officer
+
+
+
+                                                        NASA Office of Inspector General   IG-24-003   34
+                                                                                         Appendix C
+
+
+The Boeing Company
+    Chief Executive Officer
+
+
+Congressional Committees and Subcommittees, Chairman and
+Ranking Member
+Senate Committee on Appropriations
+   Subcommittee on Commerce, Justice, Science, and Related Agencies
+Senate Committee on Commerce, Science, and Transportation
+   Subcommittee on Space and Science
+Senate Committee on Homeland Security and Governmental Affairs
+House Committee on Appropriations
+   Subcommittee on Commerce, Justice, Science, and Related Agencies
+House Committee on Oversight and Accountability
+   Subcommittee on Government Operations and the Federal Workforce
+House Committee on Science, Space, and Technology
+   Subcommittee on Investigations and Oversight
+   Subcommittee on Space and Aeronautics
+
+
+
+     (Assignment No. A-22-014-00-HED)
+
+
+
+
+                                                    NASA Office of Inspector General   IG-24-003   35
+

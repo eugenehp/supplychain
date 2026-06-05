@@ -1,0 +1,764 @@
+    Space Policy Review and Strategy on Protection
+                     of Satellites
+
+
+    This report provides a review of space policy and describes the
+Department of Defense’s approach to protecting and defending space
+ systems and protecting the Joint Force from adversary hostile use of
+                                space.
+
+
+
+
+                                     September 2023
+
+Submitted in compliance with the reporting requirements contained in Section 1611 of the
+National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2022 & Section 1602 of the
+                                   NDAA for FY 2023.
+
+
+
+
+                            The estimated cost of this report or study for the
+                            Department of Defense is approximately $19,000
+                              for the 2023 Fiscal Year. This includes $0 in
+                                  expenses and $19,000 in DoD labor.
+                           Generated on 2023Sep12              RefID: 6-1C58328
+                          Department of Defense (DoD) Report
+                                           in response to
+         Section 1611 of the National Defense Authorization Act (NDAA)
+                                 for Fiscal Year (FY) 2022
+                                                 &
+                         Section 1602 of the NDAA for FY 2023
+
+Section 1611 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2022
+provides that the Secretary of Defense (SecDef), in consultation with the Director of National
+Intelligence (DNI), shall carry out a review of the space policy of the Department of Defense and
+submit a report on the results of that review to the congressional defense committees; the
+Committee on Science, Space, and Technology; and the Permanent Select Committee on
+Intelligence of the House of Representatives; and the Committee on Commerce, Science, and
+Transportation; and the Select Committee on Intelligence of the Senate.
+
+Section 1602 of the NDAA for FY 2023 provides that the SecDef, in coordination with the DNI,
+“shall make publicly available a strategy containing the actions that will be taken to defend and
+protect on-orbit satellites of the Department of Defense and the intelligence community from the
+capabilities of adversaries to target, degrade, or destroy satellites.”
+
+This report serves as response to both requirements and will be made publicly available. Section
+III, Deterring, Responding to, and Countering Threats to the Space Operations of the United
+States and its Allies and Partners, serves as the response to Section 1602 of the NDAA for FY
+2023.
+
+This report contains a classified annex.
+
+The reporting requirements are as follows:
+SECTION 1611 OF THE NDAA FOR FY 2022, SPACE POLICY REVIEW
+
+Section 1611 of the NDAA for FY 2022 provides that the SecDef, in consultation with the DNI,
+shall carry out a review of the space policy of the Department of Defense, which shall include:
+
+   ➢ “[w]ith respect to the five-year period following the date of the review, an assessment of
+     the threat to the space operations of the United States and the allies of the United States”;
+     an “assessment of the national security objectives of the Department relating to space”;
+   ➢ an “evaluation of the policy changes and funding necessary to accomplish such objectives
+     during such five-year period”;
+
+
+
+
+                                                                                                  1
+   ➢ an assessment of the policy of the Department with respect to deterring, responding to,
+     and countering threats to the space operations of the United States and the allies of the
+     United States”;
+   ➢ an “analysis of such policy with respect to normative behaviors in space, including the
+     commercial use of space”;
+   ➢ an “analysis of the extent to which such policy is coordinated with other ongoing policy
+     reviews, including reviews regarding nuclear, missile defense, and cyber operations”;
+   ➢ a “description of the organization and space doctrine of the Department to carry out the
+     space policy of the Department”;
+   ➢ an “assessment of the space systems and architectures to implement such space policy”;
+     and
+   ➢ “[a]ny other matters the Secretary considers appropriate.”
+
+SECTION 1602 OF THE NDAA FOR FY 2023, STRATEGY ON PROTECTION OF
+SATELLITES
+
+Section 1602 of the NDAA for FY 2023 provides that the Secretary of Defense, in coordination
+with the Director of National Intelligence, shall make publicly available a strategy containing the
+actions that will be taken to defend and protect on-orbit satellites of the Department of Defense
+and the intelligence community from the capabilities of adversaries to target, degrade, or destroy
+satellites.”
+
+
+
+I. SECURITY ENVIRONMENT
+This section provides an assessment of the threat to the space operations of the United States and
+the allies of the Unitd States, at present and with respect to the five-year period following the
+date of this review.
+
+People’s Republic of China
+
+The People’s Republic of China (PRC), as part of its military reforms, established the People's
+Liberation Army (PLA) Strategic Support Force in 2015 to approach space as a warfighting
+domain more effectively. The PRC is also building a space architecture to enhance its ability to
+fight and win a modern military conflict. The PLA owns and operates roughly half of the world’s
+space-based intelligence, surveillance, and reconnaissance (ISR) satellites. Recent
+improvements to the PLA’s ISR fleet enhance its ability to monitor forces across the globe,
+including U.S. expeditionary forces, increasing the PLA’s ability to conduct long-range strikes
+against U.S. and allied forces. The PRC likely intends to leverage these advancements to
+challenge the U.S. military’s ability to conduct joint operations in the Indo-Pacific region.
+
+The PRC views counterspace systems as a means to deter and counter outside intervention
+during a regional conflict. The PLA is developing, testing, and fielding capabilities intended to
+target U.S. and allied satellites, including electronic warfare to suppress or deceive enemy
+
+                                                                                                    2
+equipment, ground-based laser systems that can disrupt, degrade, and damage satellite sensors,
+offensive cyberwarfare capabilities, and direct-ascent anti-satellite (DA-ASAT) missiles that can
+target satellites in low Earth orbit (LEO). The PRC has launched multiple experimental satellites
+to research space maintenance and debris cleanup with advanced capabilities, such as robotic
+arm technologies that could be used for grappling other satellites. In 2022, the PRC’s Shijian-21
+satellite moved a derelict satellite to a graveyard orbit above geosynchronous Earth orbit (GEO).
+The PRC continues to seek new methods to hold U.S. satellites at risk, probably intending to
+pursue DA-ASAT weapons capable of destroying satellites up to GEO.
+
+As the PRC has developed and fielded these counterspace weapons, it has simultaneously
+promoted false claims that it will not place weapons in space and, along with Russia, has
+proposed at the United Nations a draft of a flawed, legally-binding treaty on the non-
+weaponization of space that is inherently unverifiable and unenforceable.
+
+The Russian Federation
+
+The Russian Federation (Russia) reorganized its military in 2015 to create a separate space force
+because Russia sees achieving supremacy in space as a decisive factor in winning conflicts.
+Although Russia has a smaller fleet of satellites than China, Russia operates some of the world's
+most capable individual ISR satellites for optical imagery, radar imagery, signals intelligence,
+and missile warning. Russia increasingly integrates space services into its military, though it
+wants to avoid becoming overly dependent on space for its national defense missions because it
+views that as a potential vulnerability.
+
+Russia is developing, testing, and fielding a suite of reversible and irreversible counterspace
+systems to degrade or deny U.S. space-based services as a means of offsetting a perceived U.S.
+military advantage and deterring the United States from entering a regional conflict. These
+systems include jamming and cyberspace capabilities, directed energy weapons, on-orbit
+capabilities, and ground-based DA-ASAT missile capabilities.
+
+In November 2021, Russia tested a DA-ASAT missile against a defunct Russian satellite, which
+created more than 1,500 pieces of trackable space debris and tens of thousands of pieces of
+potentially lethal but non-trackable debris. The resulting debris continues to threaten spacecraft
+of all nations in LEO, astronauts and cosmonauts on the International Space Station, and
+taikonauts on China’s Tiangong space station.1
+
+
+
+
+1
+ "2022 Challenges to Security in Space: Space Reliance in an Era of Competition and Expansion," Defense
+Intelligence Agency, March 2022.
+
+
+
+                                                                                                          3
+II. NATIONAL SECURITY OBJECTIVES OF THE DEPARTMENT
+RELATING TO SPACE
+Space plays a critical role in American security, prosperity, and way of life. Space-based
+services support the world’s financial, information, and communications systems, scientific
+discoveries, and environmental monitoring. Americans benefit from space-based services every
+day. Increasingly, national and Department-level guidance and strategy reflect the centrality of
+space to U.S. national security and to the U.S. economy, as well as the growing threats to the
+domain.
+
+2022 National Security Strategy
+In the 2022 National Security Strategy (NSS), the Administration articulated its goal of a free,
+open, prosperous, and secure international order. The most serious threat to this order is the
+PRC, which possesses both the intention and increasingly the economic and military capability to
+challenge the free and open order, leveraging coercive and other means that seek to overturn
+longstanding international rules and norms to reshape the international order to favor its
+authoritarianism. Russia remains an acute threat, as demonstrated by its unlawful and
+unprovoked further invasion of Ukraine.
+The 2022 NSS outlines three lines of effort to protect the free and open international order, in
+which the United States will:
+       ➢ Invest in the underlying sources and tools of American power and influence;
+
+       ➢ Build the strongest possible coalition of nations to enhance our collective influence to
+         shape the global strategic environment and to solve shared challenges; and
+
+       ➢ Modernize and strengthen our military so it is equipped for the era of strategic
+         competition with major powers.
+Space plays a direct and indirect role in each of these lines of effort. The 2022 NSS directs the
+United States to maintain its position as the world’s leader in space, from which the nation
+derives substantial economic benefit, technological innovation, and critical services that are
+shared broadly with the international community. In cooperation with allies and partners, the
+United States will lead in strengthening global governance of space activities, which includes
+developing norms of responsible behaviors, in order to preserve the safety, stability, security, and
+long-term stability of the domain.
+Space has also played a vital role in galvanizing collective action in response to international
+crises. The Administration made extensive use of space-based intelligence to demonstrate
+Russia’s intent to invade Ukraine in advance of attacks, expose and frustrate false flag
+operations, and generate a unified response from the international community, which rapidly
+enacted sanctions and other punitive measures.
+
+
+
+                                                                                                   4
+The 2022 NSS acknowledges the criticality of space-based services to national and homeland
+security, necessitating increased resilience of new and existing U.S. space architectures – a
+modernization objective that is vital to the overall combat credibility of the Joint Force. At the
+same time, the 2022 NSS directs that the United States act as a responsible steward of the
+domain and avoid destabilizing arms races.
+2022 National Defense Strategy
+The DoD’s priorities, as articulated in the 2022 National Defense Strategy (NDS), are:
+
+       ➢ Defending the homeland, paced to the growing multi-domain threat posed by the
+         PRC;
+
+       ➢ Deterring strategic attacks against the United States, its Allies, and partners;
+
+       ➢ Deterring aggression – while being prepared to prevail in conflict when necessary –
+         prioritizing the PRC challenge in the Indo-Pacific region, then the Russia challenge in
+         Europe; and
+
+       ➢ Building a resilient Joint Force and defense ecosystem.
+Each of the four NDS priorities requires and relies on the ability of the United States to operate
+in space through competition, crisis, and conflict. Space is therefore a key node for integrated
+deterrence – the cornerstone of the NDS – as deterrence strategies rely on combat credible
+forces, which are underwritten by space-based capabilities.
+U.S. space-based capabilities – including positioning, navigation, and timing, satellite
+communications, missile warning and missile tracking (MW/MT), and other missions – are
+critical to overall military effectiveness across all domains and therefore to successful homeland
+defense, deterrence, and countering aggression. Likewise, the ISR support provided by space
+capabilities is vital to identifying and exposing aggressive activity, deterring escalation, and
+catalyzing international responses to crises.
+The NDS also highlights the importance of partnering with the commercial sector as part of
+integrated deterrence efforts. The Department is assessing how to increasingly leverage
+commercial space services as one element of its broader approach to building resilience,
+improving performance, and maintaining affordability. Commercial services and providers offer
+innovative solutions across many mission areas, potentially at lower cost and with more rapid
+development cycles.
+2021 U.S. Space Priorities Framework
+The U.S. Space Priorities Framework preceded both the 2022 NSS and NDS and was the Biden
+Administration’s first key document to define national security space objectives for the
+Department.
+The U.S. Space Priorities Framework calls for the United States to:
+
+                                                                                                     5
+       ➢ Defend its national security interests from the growing scope and scale of space and
+         counterspace threats, including through transitioning to a more resilient national
+         security space posture and strengthening the ability to detect and attribute hostile acts
+         in space.
+       ➢ Take steps to protect and defend U.S. military forces from space-enabled threats.
+       ➢ Leverage new commercial space capabilities and services and deepen integration of
+         U.S. national security space capabilities and activities with allies and partners as part
+         of the U.S. national security approach to mission assurance.
+       ➢ Demonstrate leadership in the responsible use of space and stewardship of the space
+         environment.
+2020 Defense Space Strategy
+Although the 2020 Defense Space Strategy (DSS) preceded the current NDS, it remains an
+important element of the Department’s policy framework for national security space activities.
+The 2020 DSS lays out four prioritized lines of effort:
+       ➢ Build a comprehensive military advantage in space.
+
+       ➢ Integrate military space power into national, joint, and combined operations.
+
+       ➢ Shape the strategic environment.
+
+       ➢ Cooperate with allies, partners, industry, and other U.S. Government departments and
+         agencies.
+
+These four lines of effort continue to guide the Department’s national security space initiatives.
+Space is at the heart of integrating U.S. strategic and conventional capabilities, and U.S. space
+capabilities are critical to overall military effectiveness across the entire Joint Force. The
+Department is focused on shifting to a resilient-by-design architecture to assure space support to
+the Joint Force.
+
+U.S. Space Command (USSPACECOM) is leading integrated planning with other Combatant
+Commands, allies, and partners; integrating joint and combined space scenarios and training
+across the Joint Force; and developing joint warfighting requirements to overcome capability
+gaps across the Military Services.
+
+The Department is shaping the strategic environment to enhance domain stability, reduce the
+potential for miscalculations, and ensure continued access to the domain for the United States
+and its allies and partners. In coordination with the Department of State, DoD engages with
+allies and partners to promote the responsible use of space.
+Allies and partners are also key to U.S. mission assurance, and they provide an enduring strength
+and asymmetric advantage that U.S. competitors cannot match. They are essential to integrated
+
+                                                                                                     6
+deterrence strategy, and the United States therefore must be able to share information, integrate,
+plan, and operate with our most capable allies in the space domain.
+The Department is reviewing the classification and disclosure policies of space-related
+information to overcome barriers to integration with allies and partners, as well as to create
+benefits across all four lines of effort. Appropriate updating of classification and disclosure
+policies will allow for increased integration and synchronization across the Joint Force; reduce
+barriers and costs of duplicative classification; enable more informed policy and budgetary
+decisions; and facilitate more effective and transparent strategic communications.
+
+
+
+III. DETERRING, RESPONDING TO, AND COUNTERING THREATS TO
+THE SPACE OPERATIONS OF THE UNITED STATES AND ITS ALLIES
+AND PARTNERS
+The Joint Force depends on the availability of space-provided services to execute its missions
+across the spectrum of competition, crisis, and conflict. U.S. Military Service force structures
+assume continued access to space-based services. Space provides the U.S. military with
+indications and warnings of threats or attacks, command and control of forces across the globe,
+and monitoring of adversary activities. Competitors have seen U.S. military advantages
+enhanced and enabled by space capabilities for more than three decades. Competitors therefore
+seek to deny the U.S. ability to leverage space in crisis and conflict and are developing a range of
+capabilities to do so.
+
+DoD will defend our national security interests from the growing scope and scale of
+counterspace threats. We will:
+
+   ➢ Assure critical space-based missions by accelerating the transition to more resilient
+     architectures and by protecting and defending critical systems against counterspace
+     threats;
+
+   ➢ Strengthen the ability to detect and attribute hostile acts in, from, and to space; and
+
+   ➢ Protect the Joint Force from adversary hostile uses of space.
+
+To do so, DoD will leverage a breadth of options across all operational domains to deter
+aggression and, if deterrence fails, to prevail in conflict. As the complexity of the domain grows,
+DoD must provide the President and SecDef with options to deliver operational and strategic
+effects to achieve national objectives. DoD will balance the development, testing, and
+employment of these capabilities with our need to maintain a stable and sustainable space
+environment.
+
+
+
+
+                                                                                                     7
+Mission Assurance by Accelerating the Transition to More Resilient Architectures
+The Department is prioritizing resilience as the primary means of denying adversaries the
+benefits of attack in space and assuring the availability of U.S. space missions in competition,
+crisis, and conflict. The significance of space-based capabilities to the conduct of modern
+warfare, together with existing and emerging counterspace threats, demands a DoD space
+architecture shift, where possible, from dependence on high-value, specialized satellites to
+resilient-by-design architectures. Prioritizing the ability of space-based services to withstand,
+fight through, and recover quickly from disruption ensures DoD can continue to support the Joint
+Force and deny adversaries the information advantage that is critical to success in modern
+warfare.
+DoD can achieve resilience of space-based services through a range of approaches, including
+disaggregation, distribution, diversification, proliferation, protection, and deception. The Joint
+Force can employ these approaches individually or in combination for greater effect, dependent
+on the specific architecture and mission.
+    ➢ Disaggregation separates dissimilar capabilities into distinct platforms or payloads, such
+      as separating tactical and strategic communications.
+
+    ➢ Distribution uses multiple nodes, working together, to perform the same mission or
+      functions to ensure no individual satellite or ground node is fundamental to the success of
+      that mission.
+
+    ➢ Diversification leverages alternative means to contribute to the same mission in multiple
+      ways, using different platforms, different orbits, or systems and capabilities of civil,
+      commercial, or international partners. An example would be the U.S. Joint Force
+      leveraging both government and commercial satellite communications systems.
+
+    ➢ Protection comprises active and passive measures to ensure space systems are able to
+      provide a service in support of any operating environment or condition, such on-board
+      jam protection and nuclear hardening.
+
+    ➢ Proliferation deploys large numbers of the same platform, payload, or systems of the
+      same types to perform the same mission.
+
+    ➢ Deception comprises measures taken to confuse or mislead an adversary with respect to
+      the location, capability, operational status, mission type, and/or robustness of a national
+      security system or payload.2
+
+The Department is developing strategies, concepts, and tactics necessary to conduct sustained
+operations in a crisis or conflict and continues development of force designs in key functional
+
+2
+ “Space Domain Mission Assurance: A Resilience Taxonomy,” Office of the Assistant Secretary of Defense for
+Homeland Defense & Global Security, September 2015,
+https://policy.defense.gov/Portals/11/Space%20Policy/ResilienceTaxonomyWhitePaperFinal.pdf?ver=2016-12-27-
+131828-623.
+
+                                                                                                             8
+areas. In accordance with Section 1602(b)(4) of the NDAA for FY 2022, the SecDef designated
+the Chief of Space Operations (CSO) as the Force Design Architect for Space Systems of the
+Armed Forces. Under this new construct, the CSO is the singular authority responsible for
+presenting coordinated recommendations to the SecDef regarding force design options to satisfy
+the space mission requirements of the entire Joint Force. In this role, the CSO is establishing
+rigorous analytical processes for space system force designs that pursue resilience from the
+ground up.
+Resilience solutions vary by mission and are refined using high-fidelity modeling and
+simulation, wargaming, and experimentation that capture current and future Joint Force needs,
+concepts, threats, technological opportunities, and costing methods to ensure future space
+capabilities outpace those of our adversaries. Space system force designs account for future
+modernization plans and for key trade-offs that balance performance to meet warfighting needs,
+resilience against counterspace threats, and affordability. The transition to resilient architectures
+– both through new “resilient-by-design” architectures and additive solutions to existing
+architectures – is underway.
+The first capability area to be redeveloped through a resilient-by-design approach is MW/MT.
+This effort assessed architectures designed to meet future warfighting performance needs,
+establish resilience against modern military threats, and ensure cost parameters, resulting in
+recommendations on numbers of satellites and diversifying capabilities across orbital regimes.
+Ongoing force design studies include: fire control to address long-range threats; tactical ISR to
+enable forward operations; a space data network to ensure data throughput for decision making
+and battle management; and protect and defend operations to protect vital infrastructure and
+space-based capabilities.
+Cooperation with like-minded nations also contributes to the resilience of our architectures and
+to our ability to deter aggression in space by broadening the systems upon which we rely for
+space operations. The NDS calls on the Department to incorporate allies and partners at every
+stage of defense planning in all domains – including space. DoD will cooperate with allies and
+partners to develop and maintain a robust, interoperable space infrastructure to enable joint and
+combined operations in all domains. We therefore must be able to integrate, plan, and operate
+with our most capable allies in the space domain.
+The Department must continue to remove barriers to collaboration, including classification and
+disclosure policies, to ensure effective integration of combined space activities. DoD will ensure
+interoperability with allied and partner systems is considered in all stages of system design,
+acquisition, procurement, and use.
+Mission Assurance by Protecting and Defending Critical Systems Against Counterspace
+Threats
+As in any domain, DoD will protect and defend U.S. national security interests in space. The
+Department is developing a range of solutions across all domains that counter hostile uses of
+space and protect and defend U.S. and, as directed, allied, partner, and commercial space
+capabilities. The Department is focused on protecting the whole space architecture, including
+ground nodes and networks, in addition to assets on orbit.
+
+                                                                                                    9
+Protection includes all measures taken to ensure friendly space systems perform as designed by
+overcoming attempts to deny or manipulate them and by mitigating environmental hazards,
+including terrestrial and space weather.3 Protection measures include electromagnetic spectrum
+operations, movement and maneuver, and hardening. Cybersecurity also plays a key role in
+improving the resilience of U.S. space architectures, and hardening networks against hostile
+cyber operations is a priority effort.
+
+Defensive space operations contribute to deterrence in space – thereby supporting deterrence
+across all domains – by improving the mission assurance of critical space services that support
+U.S. national security interests. Operations to protect and defend space systems can consist of all
+active and passive measures taken to secure friendly space capabilities from attack, interference,
+or hazards, and can apply to defense of any segment of a space system – space, link, or ground.
+Active space defense can consist of actions taken to neutralize imminent counterspace threats to
+friendly space forces and space capabilities. Passive space defense minimizes the effectiveness
+of on-orbit and terrestrial threats.4
+
+Detecting and Attributing Hostile Acts in, from, and to Space
+Space domain awareness (SDA) encompasses the effective identification, characterization, and
+understanding of any factor associated with the space domain that could affect space operations
+and thereby affect the security, safety, economy, or environment of the Nation.5 The number of
+satellites on orbit is rapidly growing. In 2022, space launch providers around the world
+conducted a record 177 launches, a 31 percent increase from 2021. DoD currently tracks
+approximately 47,900 objects in space, a 16 percent growth in objects from 2021 to 2022. Of
+those objects, 7,100 are active payloads, a 37 percent increase from 2021 to 2022. Expended
+rocket bodies, inactive satellites, and debris further congest the space environment.
+The Department must be able to accurately and rapidly detect, track, and characterize space
+assets and other space objects to safely conduct space operations and to effectively deter, and, if
+necessary, counter and respond to hostile acts in space. In an increasingly dynamic and
+congested space domain, SDA requires an integrated sensor system that leverages DoD, other
+U.S. Government, and international and commercial partner services. Providing space operators
+with relevant, timely data can help to prevent operational surprise and support efforts to protect
+and defend space assets.
+Protecting the Joint Force from Adversary Hostile Uses of Space
+In addition to developing counterspace weapons to threaten U.S. use of space, China is
+developing and rapidly growing its ability to leverage space to enhance its own combat power to
+fight and win a modern military conflict. As described in the 2022 NDS, increasingly
+sophisticated and proliferated space-based ISR networks and improved command and control
+
+
+3
+  Joint Publication 3-14, Space Operations, Change 1, October 2020, xii.
+4
+  Ibid, II-2 – II-3.
+5
+  Space Doctrine Note, Operations, January 2022, p. 15, https://media.defense.gov/2022/Feb/02/2002931717/-1/-
+1/0/SDN%20OPERATIONS%2025%20JANUARY%202022.PDF, 21.
+
+                                                                                                                10
+systems increase the precision and accuracy of missile systems the PRC would employ to deter
+and counter U.S. forward presence and operations, especially in the Western Pacific.
+To preserve U.S. freedom of operations and support deterrence, the United States must be
+prepared to deny adversaries the ability to utilize space capabilities and services to attack the
+Joint Force and prevent the United States from advancing critical national security objectives.
+The Department will leverage a breadth of options across all operational domains to do so.
+As potential adversaries increase their use of space-based services to support their combat
+capability, operations to deny hostile use of space could reduce an adversary’s ability to conduct
+attacks against the United States and its allies and partners. Joint Force space operations could
+deny an adversary’s space and counterspace capabilities and services using a variety of
+reversible and irreversible means, reducing the effectiveness and lethality of adversary forces
+across all domains. Operations to deny adversary hostile use of space could originate in any
+domain and target on-orbit, ground, cyber, and/or link segments to reduce the full spectrum of an
+adversary’s ability to exploit the space domain.6
+
+
+
+IV. POLICY CHANGES AND FUNDING NECESSARY TO ACCOMPLISH
+THE DEPARTMENT’S OBJECTIVES
+POLICY
+National Security Space Strategic Guidance
+More than a decade has passed since the shift in the U.S. national security space posture from
+considering space to be a support function to recognizing space as a distinct operational domain
+of national military power. This transformation demanded enterprise-wide changes and new
+guidance to adapt to the evolving strategic environment.
+The 2011 National Security Space Strategy established the foundation for the path the national
+security space community pursued through a decade of increased actors and activity in the
+domain, and the 2018 National Strategy for Space affirmed the path forward that helped spur
+reestablishment of the USSPACECOM in August 2019 and establishment of the USSF in
+December 2019.
+The National Space Policy released in December 2020 underscores the U.S. commitment to
+leading in the responsible and constructive use of space for economic prosperity, scientific
+achievement, and national security, including defending U.S. and allied and parnter interests in
+space.
+
+
+
+
+6
+ Joint Publication 3-14, Space Operations, Change 1, October 2020, II-2; Space Capstone Publication, Spacepower,
+June 2020, https://www.spaceforce.mil/Portals/1/Space%20Capstone%20Publication_10%20Aug%202020.pdf, 36;
+Operations, 15.
+
+                                                                                                             11
+Leveraging existing and past national- and Department-level guidance, including the 2021 U.S.
+Space Priorities Framework objectives captured in section II of this report, the Department has
+conducted recent policy and funding analysis based on the following ends:
+
+   ➢ Maintain the benefits derived by all from space by preserving stability in, access to, and
+     freedom to operate in, from, and through the space domain.
+
+   ➢ Deter hostile uses of space that threaten the national security interests of the United States
+     and its allies and partners; if deterrence fails, be prepared to prevail in conflict.
+DoD Directive 3100.10 Space Policy
+Drawing from national-level guidance, DoD updated and reissued DoD Directive (DoDD)
+3100.10, “Space Policy,” on August 30, 2022, establishing policy and assigning responsibilities
+for space-related activities.
+In recognition of the role space plays in underpinning multi-domain joint and combined military
+operations to advance national security, DoDD 3100.10 directs the Department to preserve
+access to and freedom to operate in the space domain. Preserving access to space means
+protecting and defending U.S. use of space while ensuring the safety, stability, security, and
+sustainability of the space domain.
+Among the necessary means to ensure a safe, stable, sustainable, and accessible space domain is
+upholding norms of safe and responsible behavior to reduce the potential for mishaps,
+miscommunications, and misunderstandings. DoDD 3100.10 includes the SecDef’s Tenets of
+Responsible Behavior in Space, issued in July 2021:
+   ➢ Operate in, from, to, and through space with due regard to others and in a professional
+     manner.
+
+   ➢ Limit the creation of long-lived debris.
+
+   ➢ Avoid creating harmful interference.
+
+   ➢ Maintain safe separation and safe trajectory.
+
+   ➢ Communicate and make notifications to enhance the safety and stability of the domain.
+In February 2023, the SecDef approved USSPACECOM’s specific behaviors derived from these
+tenets that provide more guidance to all DoD space operators on more specific ways to operate
+responsibly in the space domain.
+In addition to advancing and promoting responsible behavior in the space domain, ensuring
+continued space support to the Joint Force necessitates that the Department increase mission
+assurance through enhanced resilience, in particular for the most vulnerable critical space
+architectures; conduct operations in, from, and to space; and deliver advanced space capabilities
+to deter conflict and, if deterrence fails, to counter and defeat aggression.
+                                                                                                12
+FUNDING
+The DoD FY 2024 budget requests the largest space budget ever of $33.3 billion, reflecting an
+approximately 13 percent increase in space funding over the FY 2023 budget request as the
+Department works to increasingly integrate space-based services across the Joint Force and
+manage growing threats to and from the space domain, consistent with the guidance of the 2022
+NDS. The FY 2024 budget request funds capabilities to accomplish the approach laid out in
+section III of this report to:
+
+   ➢ Assure our critical space-based missions;
+
+   ➢ Strengthen our ability to detect and attribute hostile acts in, from, and to space; and,
+
+   ➢ Protect the U.S. Joint Force from adversary hostile uses of space.
+
+To increase the mission assurance of U.S. national security space, the FY 2024 budget request
+supports the first resilient-by-design approach to space architectures. The budget request invests
+$5.0 billion to develop new proliferated resilient MW/MT architectures, including next-
+generation overhead persistent infrared space capabilities, and associated ground architectures
+that will track an increased range of threats, including hypersonic and maneuverable weapons.
+The FY 2024 budget request seeks to enhance the ability to preserve access to space and ensure
+the Department can continue to provide critical space-based services to the Joint Force in crisis
+and conflict.
+
+To advance and expand the architectures of space-based sensors that provide indications and
+warning of threats to space systems, the FY 2024 budget requests $481 million in ground and
+space-based sensors, deep space radar, and ground-based optical system projects to improve the
+capability and resilience of DoD SDA. The budget requests an additional $131 million to
+produce highly accurate, rapidly available detection, tracking, and characterization of space
+objects, regardless of their origin.
+To protect the U.S. Joint Force from adversary hostile uses of space, the FY 2024 budget also
+prioritizes research, development, test, and evaluation to ensure DoD can sharpen the edge of
+national security space through future years and meet emerging threats while simultaneously
+continuing to invest in near-term readiness.
+
+V. NORMATIVE BEHAVIORS IN SPACE
+Upholding norms of safe and responsible behavior reduces the potential for mishaps and
+inadvertent escalation. In collaboration with the Department of State, the Department of Defense
+is committed to promoting standards and norms that ensure the domain remains secure, stable,
+and accessible. Steps such as sharing DoD’s Tenets of Responsible Behavior in Space contribute
+to developing a shared understanding among nations of what constitutes safe and responsible
+behaviors for all military space operators. The Department will continue to demonstrate
+leadership in both the responsible use of space and stewardship of the space environment.
+
+
+                                                                                                13
+The existing space legal framework – which includes the four core space treaties, as well as the
+United Nations Charter – has served the international community and U.S. national interests well
+over many decades. However, as space activities evolve, the norms, rules, and principles that
+guide outer space activities must also evolve. Therefore, voluntary, non-legally binding
+guidelines and standards based on operational best practices can supplement these legal
+obligations. For example, in April 2022, the United States committed to not conduct destructive,
+DA-ASAT missile testing. A resolution calling on nations to adopt similar commitments was
+adopted in the U.N. General Assembly in December 2022 with 155 nations voting in favor.
+Additionally, to date, 13 states have made similar unilateral pledges not to conduct destructive
+direct-ascent ASAT missile tests.
+All actors in space should commit to responsible behavior to prevent potential mishaps,
+including commercial entities and operators, many of which are playing an increasing role in
+national security. For the United States, ensuring safe, responsible commercial activity in space
+can and should be addressed through national regulatory means.
+
+
+
+VI. COORDINATION WITH OTHER POLICY REVIEWS
+The portfolio of the Assistant Secretary of Defense for Space Policy (ASD Space Policy)
+contains the Department’s strategic capabilities for integrated deterrence, including nuclear
+weapons, cyber, and missile defense. Each of these areas are subject to periodic policy review
+by the Department. Space-based missions are critical to nuclear deterrence and missile defense,
+providing MW/MT, nuclear detonation detection, and secure strategic communications for
+nuclear command and control. All analysis of space policies and posture are conducted within
+the context of this broader portfolio and within the guidance provided by the 2022 NDS.
+
+
+
+
+                                                                                               14
+VII. ORGANIZATION AND SPACE DOCTRINE OF THE DEPARTMENT
+OF DEFENSE
+ORGANIZATION
+DoDD 3100.10, updated in August 2022, provides a full compendium of DoD’s organization for
+space, including the Department’s intelligence agencies. This report defers to that directive on
+specific stakeholder roles and responsibilities.
+A variety of mechanisms enable collaboration and coordination among space stakeholders across
+the Department:
+Space Acquisition Council
+Congress established the Space Acquisition Council (SAC) to oversee, direct, and manage the
+acquisition and integration of space systems and programs of the Armed Forces to ensure
+integration across the national security space enterprise. The Assistant Secretary of the Air Force
+for Space Acquisition and Integration, in addition to other responsibilities, chairs the SAC.
+Other statutory members of the SAC are the Under Secretary of the Air Force, ASD Space
+Policy, the Director of the National Reconnaissance Office, the CSO, and the Commander of
+USSPACECOM.
+Space Warfighting Activities Group
+ASD Space Policy chairs the Space Warfighting Activities Group, a body of DoD and
+intelligence community entities that convenes to review upcoming sensitive space activities to
+ensure a common operating picture and alignment on space warfighting policy and strategy.
+Force Design Architect
+The CSO, as the Force Design Architect for Space Systems of the Armed Forces, provides
+capability area designs, including government reference architectures and transition plans to
+facilitate DoD-wide space development, acquisition, and budget decisions. Associated studies
+are inclusive of key stakeholders, including: the Joint Staff; Military Departments and Services;
+Combatant Commands; the Office of the Director, Cost Assessment and Program Evaluation; the
+Office of the Under Secretary of Defense for Policy; the Office of the Under Secretary of
+Defense for Research & Engineering; and the Intelligence Community.
+Acquisition and Integration
+The Assistant Secretary of the Air Force for Space Acquisition and Integration has the statutory
+responsibility to oversee all architecture and integration with respect to the acquisition of the
+space systems and programs of the armed forces, including in support of the Chief of Space
+Operations.
+Joint Staff
+As for all Military Services and domains, the Joint Staff establishes and approves joint
+performance requirements for space capabilities that ensure interoperability, where appropriate,
+
+                                                                                                 15
+between and among joint military space capabilities, allies, and partners and that are necessary to
+fulfill performance requirements for any existing or proposed space capability that the Chairman
+of the Joint Chiefs of Staff determines is needed. In addition to other responsibilities as
+described in DoDD 3100.10, the Joint Staff identifies new joint military space capabilities based
+on advances in technology and concepts of operation, and, in coordination with the Combatant
+Commanders and the Secretaries of the Military Departments, ensures space-related objectives
+are incorporated in joint force training.
+Integrated Acquisition Portfolio Review
+Established in May 2021, the Integrated Acquisition Portfolio Review (IAPR) is chaired by the
+Under Secretary of Defense for Acquisition and Sustainment to enable visibility of risks,
+dependencies, and opportunities utilizing an integrated, portfolio and systems-based process.
+This tool identifies interdependencies and critical strengths in order to strengthen
+synchronization of warfighting concepts, technologies, requirements, and program execution to
+inform enterprise decisions and enable end-to-end mission capability. The IAPR process ensures
+space acquisition decisions are assessed at the enterprise level and with an all-domain operations
+perspective. The IAPRs occur on an annual basis and leverage the work the Joint Staff
+accomplishes in the complementary Capability Portfolio Management Review process.
+DOCTRINE
+Joint Space Doctrine
+Joint space doctrine primarily takes the form of JP 3-14, Joint Space Operations. JP 3-14
+explains the joint space role in planning and operations in addition to providing an understanding
+of space terminology.
+Service Doctrine
+Space Service doctrine provides Military Services with approaches to conduct space planning
+and operations within their respective Military Services. USSF Delta 10 is rapidly developing a
+comprehensive library of Space Force Service Doctrine. Other Military Services develop and
+maintain Military Service-level space doctrine, for example: The Air Force’s AFDP 3-14
+(Counterspace Operations), the Army’s FM 3-14 (Army Space Operations), and the Navy’s
+NTTP 3.14 (Navy Space Tactics).
+
+
+
+VIII. SPACE SYSTEMS AND ARCHITECTURES TO IMPLEMENT THE
+DEPARTMENT’S POLICY
+To achieve objectives described in this report and to contribute to integrated deterrence in
+accordance with the 2022 NDS, Commander, USSPACECOM identified five capability
+priorities:
+
+
+
+
+                                                                                                16
+➢ Resilient, Timely Space Command and Control
+
+      ➢ An increasingly dynamic space environment requires a resilient command and
+          control (C2) architecture to synchronize space effects for operations in the
+          contested space environment and as a critical enabler to terrestrial maneuver
+          forces. Rapid and robust communication among space assets, space operators,
+          and partner combatant commands enables decisive action and is therefore key
+          to deterring and defeating hostile action in space and terrestrially.
+
+➢ Integrated Space Fires and Protection Capabilities
+
+      ➢ DoD must have the infrastructure to deter aggression and protect U.S. space
+          capabilities from attack. Resilience is fundamental, but resilience is not
+          sufficient alone to deter all attacks or assure U.S. space-based services relative
+          to the impact of their loss or degradation. DoD requires joint military space
+          capabilities to protect and defend U.S., and as directed, allied, partner, and
+          commercial space assets and to protect the Joint Force, allies, and partners
+          from adversary hostile uses of space.
+
+➢ Modernized, Agile Electronic Warfare Architecture
+
+      ➢ Denial of adversary freedom of action in the Electromagnetic Spectrum
+          (EMS) requires an integrated and distributed capability to support the EMS
+          Superiority strategy. Disparate, mobile U.S. and partner systems, with
+          minimal reliance on manpower, will ensure architectural resilience and
+          maximize effectiveness against cunning adversaries.
+
+➢ Enhanced Battlespace Awareness for Space Warfare
+
+      ➢ Near-real time, comprehensive understanding of the congested and complex
+          space operational environment requires more accurate, robust, resilient, and
+          timely space domain awareness and operational intelligence data from all
+          interoperable sensors to produce highly accurate, rapidly available detection,
+          tracking, and characterization of space objects, regardless of their origin.
+          Current space domain awareness systems are stovepiped and disaggregated.
+          USSPACECOM, the Missile Defense Agency, and the USSF are partnering to
+          enhance sensor integration into a C2 program.
+
+➢ Space Systems Cyber Defense
+
+      ➢ Effective response to cyber attacks against space and space support
+          mission systems demands a robust ability to detect, track, and defend.
+          USSPACECOM must maintain the ability to provide critical space
+
+                                                                                         17
+capabilities globally in all phases of conflict and therefore requires
+persistent detection and monitoring of threat activity. USSPACECOM is
+partnering with Services and Agencies to provide that robust defense and
+ensure future capability development efforts remain secure.
+
+
+
+
+                                                                           18
+

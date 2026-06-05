@@ -1,0 +1,216 @@
+{
+  "ticker": "LHX",
+  "queryVariants": [
+    "L3HARRIS TECHNOLOGIES, INC. /DE/",
+    "L3HARRIS TECHNOLOGIES, INC.",
+    "AEROJET ROCKETDYNE INC.",
+    "AEROJET ROCKETDYNE HOLDINGS, INC."
+  ],
+  "sampleRecipients": [
+    "L3HARRIS TECHNOLOGIES, INC.",
+    "L3HARRIS NEXGEN COMMUNICATIONS LLC"
+  ],
+  "totalAmount": 18124761423.670002,
+  "awardCount": 100,
+  "byAgency": [
+    {
+      "agency": "Department of Defense",
+      "amount": 12315967768.03
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 2807503608.57
+    },
+    {
+      "agency": "Department of Commerce",
+      "amount": 2446500792.97
+    },
+    {
+      "agency": "Department of Transportation",
+      "amount": 554789254.1
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "F1962802C0010",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 2226709932.96,
+      "psc": null,
+      "naics": null,
+      "description": "200204!000024!5700!GV59 !ESC/NDK !F1962802C0010 !A!N! !N! !20020130!20020930!052819732!052819732!001216845!N!ITT INDUSTRIES, INC , SYSTEMS !4410 E FOUNTAIN BLVD !COLORADO SPRIN !CO!80916!16000!041!08!COLORADO SPRINGS !EL PASO !COLORADO !+00",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "DOCDG133E09CN0094",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 1826088581.86,
+      "psc": null,
+      "naics": null,
+      "description": "THE PURPOSE OF THIS CONTRACT IS TO DEVELOP THE GROUND SYSTEM THAT WILL SUPPORT NOAA S NEXT GENERATION GEOSTATIONARY SATELLITE SERIES, GOES-R. THIS NEW SERIES OF SPACECRAFT, SET TO BEGIN LAUNCHING IN 2015, IS EXPECTED TO DOUBLE THE CLARITY O",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA882320C0004",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1283631354.76,
+      "psc": null,
+      "naics": null,
+      "description": "AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "NNG04HZ07C",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 1035791035,
+      "psc": null,
+      "naics": null,
+      "description": "TAS::80 0122::TAS DEVELOPMENT, MANUFACTURING AND SUPPORT TO WEATHER OBSERVING INSTRUMENT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "NNG10XA06C",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 814435946,
+      "psc": null,
+      "naics": null,
+      "description": "ENGINEERING SERVICES AND DEVELOPMENT LEADING TO THE DELIVERY OF THE CROSS TRACK INFRARED SOUNDER (CRIS) INSTRUMENT AND SUPPORT.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881919C0002",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 656902776.97,
+      "psc": null,
+      "naics": null,
+      "description": "COMBAT MISSION SYSTEMS SUPPORT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001917C0090",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 542172679.04,
+      "psc": null,
+      "naics": null,
+      "description": "AN/ALQ-214 A(V)4 SYSTEM",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881908C0001",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 517105629.62,
+      "psc": null,
+      "naics": null,
+      "description": "SPACE CONTROL DEPOT SUPPORT (SCDS) PROGRAM",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80GSFC19C0021",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 372589497,
+      "psc": null,
+      "naics": null,
+      "description": "OPTICAL TELESCOPE ASSEMBLY (OTA) THIS CONTRACT PROVIDES FOR ALL EFFORTS AND RESPONSIBILITIES FOR THE PERSONNEL, SERVICES, MATERIALS, EQUIPMENT, AND FACILITIES NECESSARY TO BUILD, REFURBISH, OR MODIFY THE OTA AS REQUIRED TO MEET THE WIDE FIE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80GSFC23CA044",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 343955638,
+      "psc": null,
+      "naics": null,
+      "description": "GEOXO IMAGER (GXI) INSTRUMENT IMPLEMENTATION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "DTFAWA07C00014CALL0001",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Transportation",
+      "subAgency": "Federal Aviation Administration",
+      "amount": 331889319.29,
+      "psc": null,
+      "naics": null,
+      "description": "VOICE SWITCHING AND CONTROL SYSTEMS (VSCS)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881917C0004",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 268740964.13,
+      "psc": null,
+      "naics": null,
+      "description": "COUNTER COMMUNICATION SYSTEMS BLOCK 10.2 PRODUCTION (CCS BLOCK 10.2)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "W15P7T23F0040",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Army",
+      "amount": 265478576,
+      "psc": null,
+      "naics": null,
+      "description": "MANPACK FULL RATE PRODUCTION (FRP) 3 COMPETITIVE PROCUREMENT AWARD OF RADIO TRANSMITTERS, WARRANTIES, RELATED ANCILLARY EQUIPMENT, AND SERVICES INCLUDING KEY PERSONNEL TRAINING, SECURITY, SOFTWARE AND TOOLS FOR LOADING RADIOS, CONFIGURATION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "W52P1J20C0014",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Army",
+      "amount": 262091579.63,
+      "psc": null,
+      "naics": null,
+      "description": "MET SUSTAINMENT SUPPORT UCA",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "W15P7T24F0061",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Army",
+      "amount": 251108341.97,
+      "psc": null,
+      "naics": null,
+      "description": "MANPACK FULL RATE PRODUCTION (FRP)4 COMPETITIVE PROCUREMENT AWARD OF RADIO TRANSMITTERS, WARRANTIES, RELATED ANCILLARY EQUIPMENT, AND SERVICES INCLUDING KEY PERSONNEL TRAINING, SECURITY, SOFTWARE AND TOOLS FOR LOADING RADIOS, CONFIGURATION ",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2026-06-05T03:12:02.604Z",
+  "topicId": "space-economy",
+  "range": "2y",
+  "tickers": [
+    {
+      "ticker": "ASTS",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BA",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BKSY",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GSAT",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "IRDM",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "LHX",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "LMT",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MNTS",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NOC",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PL",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RDW",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RKLB",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RTX",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SPIR",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "VSAT",
+      "error": "Yahoo chart fetch failed: Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    }
+  ]
+}

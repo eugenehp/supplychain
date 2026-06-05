@@ -1,0 +1,197 @@
+{
+  "ticker": "RTX",
+  "name": "RTX Corp",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 8,
+  "byCategory": [
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "governance",
+      "count": 2
+    },
+    {
+      "category": "disclosure",
+      "count": 2
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-07",
+      "count": 1
+    },
+    {
+      "month": "2025-09",
+      "count": 1
+    },
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2025-11",
+      "count": 1
+    },
+    {
+      "month": "2026-01",
+      "count": 1
+    },
+    {
+      "month": "2026-03",
+      "count": 1
+    },
+    {
+      "month": "2026-04",
+      "count": 1
+    },
+    {
+      "month": "2026-05",
+      "count": 1
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001140361-26-018932",
+      "filingDate": "2026-05-04",
+      "reportDate": "2026-04-30",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000114036126018932/ef20072402_8k.htm"
+    },
+    {
+      "accessionNumber": "0000101829-26-000009",
+      "filingDate": "2026-04-21",
+      "reportDate": "2026-04-21",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000009/rtx-20260421.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-008070",
+      "filingDate": "2026-03-05",
+      "reportDate": "2026-03-05",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000114036126008070/ef20067286_8k.htm"
+    },
+    {
+      "accessionNumber": "0000101829-26-000003",
+      "filingDate": "2026-01-27",
+      "reportDate": "2026-01-27",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000003/rtx-20260127.htm"
+    },
+    {
+      "accessionNumber": "0000101829-25-000044",
+      "filingDate": "2025-11-13",
+      "reportDate": "2025-11-13",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000044/rtx-20251113.htm"
+    },
+    {
+      "accessionNumber": "0000101829-25-000040",
+      "filingDate": "2025-10-21",
+      "reportDate": "2025-10-21",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000040/rtx-20251021.htm"
+    },
+    {
+      "accessionNumber": "0000101829-25-000036",
+      "filingDate": "2025-09-24",
+      "reportDate": "2025-09-19",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000036/rtx-20250919.htm"
+    },
+    {
+      "accessionNumber": "0000101829-25-000030",
+      "filingDate": "2025-07-22",
+      "reportDate": "2025-07-22",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000030/rtx-20250722.htm"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "generatedAt": "2026-06-04T00:00:00.000Z",
+  "title": "Space economy supply chain",
+  "subtitle": "Reverse-traced supply chains for launch vehicles, satellites, ground systems, and in-space services — anchored on SEC 10-K / 20-F filings.",
+  "status": "preview",
+  "scope": {
+    "summary": "Map the commercial space stack from launch through on-orbit services, using the same SEC-grounded methodology applied to AI accelerators.",
+    "segments": [
+      {
+        "id": "launch",
+        "label": "Launch services",
+        "description": "Orbital and suborbital launch providers, reusable boosters, upper stages, and ride-share brokers.",
+        "anchorCompanies": ["SpaceX", "Rocket Lab", "Blue Origin", "ULA", "Arianespace"]
+      },
+      {
+        "id": "satellites",
+        "label": "Satellite manufacturing",
+        "description": "Bus and payload OEMs across GEO, LEO constellations, EO imaging, and small-sat platforms.",
+        "anchorCompanies": ["Lockheed Martin", "Northrop Grumman", "Maxar", "Airbus DS", "Thales Alenia", "Planet"]
+      },
+      {
+        "id": "ground",
+        "label": "Ground systems",
+        "description": "Antennas, gateways, ground stations as a service, and user terminals.",
+        "anchorCompanies": ["Viasat", "Iridium", "Comtech", "KSAT", "AWS Ground Station"]
+      },
+      {
+        "id": "propulsion",
+        "label": "Propulsion & power",
+        "description": "Liquid, hybrid, and electric propulsion; solar arrays; batteries; thermal subsystems.",
+        "anchorCompanies": ["Aerojet Rocketdyne (L3Harris)", "Busek", "Phase Four", "Sierra Space"]
+      },
+      {
+        "id": "isam",
+        "label": "In-space services (ISAM)",
+        "description": "Servicing, assembly, manufacturing, debris removal, and orbital logistics.",
+        "anchorCompanies": ["Astroscale", "Northrop Grumman SpaceLogistics", "Redwire", "Voyager Space"]
+      },
+      {
+        "id": "downstream",
+        "label": "Downstream applications",
+        "description": "EO/SAR analytics, satcom service, PNT, IoT, and direct-to-device.",
+        "anchorCompanies": ["Planet", "BlackSky", "Spire", "Globalstar", "AST SpaceMobile"]
+      }
+    ]
+  },
+  "watchlist": [
+    { "ticker": "RKLB", "name": "Rocket Lab USA", "flag": "🇺🇸", "segment": "launch", "filingType": "10-K" },
+    { "ticker": "LMT",  "name": "Lockheed Martin", "flag": "🇺🇸", "segment": "satellites", "filingType": "10-K" },
+    { "ticker": "NOC",  "name": "Northrop Grumman", "flag": "🇺🇸", "segment": "satellites", "filingType": "10-K" },
+    { "ticker": "BA",   "name": "Boeing", "flag": "🇺🇸", "segment": "satellites", "filingType": "10-K" },
+    { "ticker": "RTX",  "name": "RTX (Raytheon)", "flag": "🇺🇸", "segment": "propulsion", "filingType": "10-K" },
+    { "ticker": "LHX",  "name": "L3Harris (Aerojet Rocketdyne)", "flag": "🇺🇸", "segment": "propulsion", "filingType": "10-K" },
+    { "ticker": "IRDM", "name": "Iridium Communications", "flag": "🇺🇸", "segment": "ground", "filingType": "10-K" },
+    { "ticker": "VSAT", "name": "Viasat", "flag": "🇺🇸", "segment": "ground", "filingType": "10-K" },
+    { "ticker": "GSAT", "name": "Globalstar", "flag": "🇺🇸", "segment": "downstream", "filingType": "10-K" },
+    { "ticker": "PL",   "name": "Planet Labs PBC", "flag": "🇺🇸", "segment": "downstream", "filingType": "10-K" },
+    { "ticker": "BKSY", "name": "BlackSky", "flag": "🇺🇸", "segment": "downstream", "filingType": "10-K" },
+    { "ticker": "SPIR", "name": "Spire Global", "flag": "🇺🇸", "segment": "downstream", "filingType": "10-K" },
+    { "ticker": "ASTS", "name": "AST SpaceMobile", "flag": "🇺🇸", "segment": "downstream", "filingType": "10-K" },
+    { "ticker": "MNTS", "name": "Momentus", "flag": "🇺🇸", "segment": "isam", "filingType": "10-K" },
+    { "ticker": "RDW",  "name": "Redwire", "flag": "🇺🇸", "segment": "isam", "filingType": "10-K" },
+    { "ticker": "INTU.AS", "name": "Airbus", "flag": "🇪🇺", "segment": "satellites", "filingType": "Annual report" },
+    { "ticker": "AIR.PA", "name": "Arianespace (Airbus/Safran JV)", "flag": "🇫🇷", "segment": "launch", "filingType": "Annual report" }
+  ],
+  "publicReports": [
+    {
+      "id": "faa-aerospace-forecast-2025",
+      "agency": "FAA",
+      "title": "FAA Aerospace Forecast FY 2025–2045 — Commercial Space",
+      "year": 2025,
+      "url": "https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-commercial-space.pdf",
+      "topics": ["launch", "forecasts", "regulation"]
+    },
+    {
+      "id": "faa-ast-compendium-2018",
+      "agency": "FAA",
+      "title": "Annual Compendium of Commercial Space Transportation (2018, last edition)",
+      "year": 2018,
+      "url": "http://www.faa.gov/about/office_org/headquarters_offices/ast/media/2018_ast_compendium.pdf",
+      "referer": "https://www.faa.gov/space/additional_information",
+      "topics": ["launch", "regulation", "economics"]
+    },
+    {
+      "id": "nasa-economic-impact-fy23",
+      "agency": "NASA",
+      "title": "NASA Economic Impact Report — FY 2023 (full)",
+      "year": 2024,
+      "url": "https://www.nasa.gov/wp-content/uploads/2024/10/final-fy23-nasa-ecomomic-impact-report.pdf",
+      "topics": ["economics", "downstream", "supply-chain"]
+    },
+    {
+      "id": "nasa-oig-launch-services-2023",
+      "agency": "NASA OIG",
+      "title": "NASA's Management of the Launch Services Program (IG-24-007)",
+      "year": 2023,
+      "url": "https://oig.nasa.gov/wp-content/uploads/2024/02/ig-24-007.pdf",
+      "topics": ["launch", "suppliers"]
+    },
+    {
+      "id": "nasa-oig-artemis-supply-chain-2023",
+      "agency": "NASA OIG",
+      "title": "NASA's Management of the Artemis Supply Chain (IG-24-003)",
+      "year": 2023,
+      "url": "https://oig.nasa.gov/wp-content/uploads/2023/10/ig-24-003.pdf",
+      "topics": ["artemis", "suppliers", "supply-chain"]
+    },
+    {
+      "id": "nasa-oig-artemis-ii-2024",
+      "agency": "NASA OIG",
+      "title": "NASA's Readiness for the Artemis II Crewed Mission (IG-24-011)",
+      "year": 2024,
+      "url": "https://oig.nasa.gov/wp-content/uploads/2024/05/ig-24-011.pdf",
+      "topics": ["artemis", "launch", "human-spaceflight"]
+    },
+    {
+      "id": "gao-megaconstellations-2022",
+      "agency": "GAO",
+      "title": "Large Constellations of Satellites — Mitigating Environmental and Other Effects (GAO-22-105166)",
+      "year": 2022,
+      "url": "https://www.gao.gov/assets/gao-22-105166.pdf",
+      "referer": "https://www.gao.gov/products/gao-22-105166",
+      "topics": ["satellites", "constellations", "policy", "debris"]
+    },
+    {
+      "id": "csis-space-threat-2024",
+      "agency": "CSIS",
+      "title": "Space Threat Assessment 2024",
+      "year": 2024,
+      "url": "https://aerospace.csis.org/wp-content/uploads/2024/04/240417_Swope_SpaceThreatAssessment_2024.pdf",
+      "topics": ["counterspace", "geopolitics", "risk"]
+    },
+    {
+      "id": "csis-space-threat-2025",
+      "agency": "CSIS",
+      "title": "Space Threat Assessment 2025",
+      "year": 2025,
+      "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-04/250425_Swope_Space_Threat.pdf",
+      "topics": ["counterspace", "geopolitics", "risk"]
+    },
+    {
+      "id": "oecd-space-economy-figures-2023",
+      "agency": "OECD",
+      "title": "The Space Economy in Figures — Responding to Global Challenges",
+      "year": 2023,
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/12/the-space-economy-in-figures_4c52ae39/fa5494aa-en.pdf",
+      "topics": ["economics", "global-market", "downstream"]
+    },
+    {
+      "id": "oecd-handbook-space-economy-2022",
+      "agency": "OECD",
+      "title": "OECD Handbook on Measuring the Space Economy (2nd Edition)",
+      "year": 2022,
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/07/oecd-handbook-on-measuring-the-space-economy-2nd-edition_041ea015/8bfef437-en.pdf",
+      "topics": ["economics", "methodology"]
+    },
+    {
+      "id": "esa-space-economy-2024",
+      "agency": "ESA",
+      "title": "ESA Report on the Space Economy 2024",
+      "year": 2024,
+      "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+      "topics": ["economics", "europe", "downstream"]
+    },
+    {
+      "id": "eurospace-ff-2022",
+      "agency": "Eurospace",
+      "title": "European Space Industry — Facts & Figures 2022 (covering 2021)",
+      "year": 2022,
+      "url": "https://eurospace.org/wp-content/uploads/2023/07/facts-figures-report-2022-web-release.pdf",
+      "topics": ["economics", "europe", "manufacturing"]
+    },
+    {
+      "id": "eurospace-ff-2025-press",
+      "agency": "Eurospace",
+      "title": "European Space Industry — Facts & Figures 2025 Press Release",
+      "year": 2025,
+      "url": "https://eurospace.org/wp-content/uploads/2025/06/ff-2025-press-release.pdf",
+      "topics": ["economics", "europe", "manufacturing"]
+    },
+    {
+      "id": "rand-commercial-space-2022",
+      "agency": "RAND",
+      "title": "Commercial Space Capabilities and Market Overview (RRA578-2)",
+      "year": 2022,
+      "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA500/RRA578-2/RAND_RRA578-2.pdf",
+      "topics": ["economics", "dod", "commercial"]
+    },
+    {
+      "id": "rand-nssl-2023",
+      "agency": "RAND",
+      "title": "Assessing the Impact of US Air Force NSSL Acquisition Decisions: 2023 Update (RRA2843-1)",
+      "year": 2024,
+      "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2800/RRA2843-1/RAND_RRA2843-1.pdf",
+      "topics": ["launch", "dod", "nssl"]
+    },
+    {
+      "id": "jaxa-sustainability-2024",
+      "agency": "JAXA",
+      "title": "JAXA Sustainability Report 2024 (English)",
+      "year": 2024,
+      "url": "https://global.jaxa.jp/about/iso/pdf/JAXA_2024_e.pdf",
+      "topics": ["japan", "agency", "sustainability"]
+    },
+    {
+      "id": "uksa-annual-2023-24",
+      "agency": "UK Space Agency",
+      "title": "UK Space Agency Annual Report and Accounts 2023–24",
+      "year": 2024,
+      "url": "https://assets.publishing.service.gov.uk/media/66a778870808eaf43b50d896/UKSA_Annual_Report___Accounts_23-24__Final_.pdf",
+      "topics": ["uk", "agency", "economics"]
+    },
+    {
+      "id": "cnes-annual-2024",
+      "agency": "CNES",
+      "title": "CNES Annual Report 2024 (English)",
+      "year": 2024,
+      "url": "https://cnes.fr/sites/default/files/2025-10/annual-report-cnes-2024.pdf",
+      "topics": ["france", "agency", "europe"]
+    },
+    {
+      "id": "dod-commercial-space-2024",
+      "agency": "DoD",
+      "title": "DoD Commercial Space Integration Strategy 2024",
+      "year": 2024,
+      "url": "https://media.defense.gov/2024/Apr/02/2003427610/-1/-1/1/2024-DOD-COMMERCIAL-SPACE-INTEGRATION-STRATEGY.PDF",
+      "topics": ["dod", "commercial", "policy"]
+    },
+    {
+      "id": "ussf-commercial-strategy-2024",
+      "agency": "USSF",
+      "title": "US Space Force Commercial Space Strategy",
+      "year": 2024,
+      "url": "https://www.spaceforce.mil/Portals/2/Documents/Space%20Policy/USSF_Commercial_Space_Strategy.pdf",
+      "topics": ["dod", "ussf", "commercial"]
+    },
+    {
+      "id": "dod-space-policy-2023",
+      "agency": "DoD",
+      "title": "DoD Space Policy Review and Strategy on Protection of Satellites (Unclassified)",
+      "year": 2023,
+      "url": "https://media.defense.gov/2023/Sep/14/2003301146/-1/-1/0/COMPREHENSIVE-REPORT-FOR-RELEASE.PDF",
+      "topics": ["dod", "policy", "satellites"]
+    },
+    {
+      "id": "aerospace-corp-space-agenda-2025",
+      "agency": "Aerospace Corp",
+      "title": "Space Agenda 2025 — Informing the Future of Space",
+      "year": 2024,
+      "url": "https://csps.aerospace.org/sites/default/files/2024-11/SpaceAgenda2025_Compilation_Web_1.pdf",
+      "topics": ["policy", "economics", "future"]
+    },
+    {
+      "id": "brycetech-launch-2024",
+      "agency": "BryceTech",
+      "title": "Global Space Launch Activity 2024",
+      "year": 2024,
+      "url": "https://brycetech.com/reports/report-documents/global-space-launch-activity-2024/Bryce_Global_Space_Launch_Activity_2024.pdf",
+      "topics": ["launch", "global"]
+    },
+    {
+      "id": "brycetech-smallsats-2024",
+      "agency": "BryceTech",
+      "title": "Smallsats by the Numbers 2024",
+      "year": 2024,
+      "url": "https://brycetech.com/reports/report-documents/Bryce_Smallsats_2024.pdf",
+      "topics": ["smallsats", "constellations"]
+    },
+    {
+      "id": "brycetech-launch-sites-2024",
+      "agency": "BryceTech",
+      "title": "Orbital and Suborbital Launch Sites of the World",
+      "year": 2024,
+      "url": "https://brycetech.com/reports/report-documents/Bryce_Launch_Sites_2024.pdf",
+      "topics": ["launch", "sites", "global"]
+    },
+    {
+      "id": "crs-nasa-primer-2024",
+      "agency": "CRS",
+      "title": "National Aeronautics and Space Administration (NASA): A Primer (Updated 2024)",
+      "year": 2024,
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.107.pdf",
+      "topics": ["nasa", "policy"]
+    },
+    {
+      "id": "crs-artemis-2024",
+      "agency": "CRS",
+      "title": "Artemis: NASA's Program to Return Humans to the Moon (CRS, 2024)",
+      "year": 2024,
+      "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12610/IF12610.5.pdf",
+      "topics": ["artemis", "nasa", "human-spaceflight"]
+    },
+    {
+      "id": "crs-commercial-spaceflight-2024",
+      "agency": "CRS",
+      "title": "Commercial Human Spaceflight Safety Regulations (CRS, 2024)",
+      "year": 2024,
+      "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12840/IF12840.2.pdf",
+      "topics": ["regulation", "commercial", "human-spaceflight"]
+    },
+    {
+      "id": "gao-dod-space-ops-2025",
+      "agency": "GAO",
+      "title": "Space Operations: DoD Is Pursuing Efforts to Collaborate with Allies (GAO-25-108043)",
+      "year": 2025,
+      "url": "https://www.gao.gov/assets/gao-25-108043.pdf",
+      "referer": "https://www.gao.gov/products/gao-25-108043",
+      "topics": ["dod", "allies", "policy"]
+    }
+  ],
+  "methodology": {
+    "approach": "Identify SEC-anchored prime contractors and pure-play space companies, then reverse-trace propulsion, avionics, optics, RF, and structures suppliers from 10-K / 20-F risk and supplier-concentration disclosures.",
+    "evidence": "Same filing-evidence panel and BM25/hybrid search used for AI accelerators; ITAR/EAR redactions will limit Tier 2–3 visibility for defense-adjacent primes.",
+    "disclaimer": "Preview — segments and watchlist are seeded for scoping. No Sankey BOMs or per-company supply graphs are published yet."
+  },
+  "milestones": [
+    { "label": "Scope segments & anchor companies", "status": "done" },
+    { "label": "Watchlist tickers indexed in RAG", "status": "done" },
+    { "label": "First topic: Rocket Lab Electron / Neutron", "status": "done" },
+    { "label": "Constellation case study (Starlink, OneWeb, Kuiper)", "status": "done" },
+    { "label": "Geo distribution + ITAR overlay", "status": "done" }
+  ]
+}

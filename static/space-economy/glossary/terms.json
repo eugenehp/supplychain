@@ -1,0 +1,1446 @@
+{
+  "generatedAt": "2026-06-05T02:37:53.268Z",
+  "topicId": "space-economy",
+  "chunksScanned": 16860,
+  "termCount": 142,
+  "categories": [
+    "Auto-discovered",
+    "Capital",
+    "Company",
+    "Component",
+    "Finance",
+    "Funding",
+    "Government",
+    "Government program",
+    "Material",
+    "Orbit",
+    "Regulation",
+    "Sensor",
+    "Service",
+    "Spectrum",
+    "Subsystem",
+    "Threat"
+  ],
+  "entries": [
+    {
+      "acronym": "ULA",
+      "expansion": "United Launch Alliance",
+      "definition": "Boeing/Lockheed Martin JV that operates Atlas V and Vulcan launch vehicles. Historical NSSL workhorse.",
+      "category": "Company",
+      "source": "curated",
+      "corpusCount": 17,
+      "filerCount": 5,
+      "sampleExcerpt": "…our Space business segment includes our share of earnings for our investment in United Launch Alliance (ULA), which provides expendable launch services to the U.S. Government and commercial customers. Space’s operating results included the following (in millions): 2025 2024 2023 Sales $ 13,029 $ 12,…"
+    },
+    {
+      "acronym": "LEO",
+      "expansion": "Low Earth Orbit",
+      "definition": "Altitude roughly 160–2,000 km. Hosts most modern constellations; low latency but requires many satellites for global coverage.",
+      "category": "Orbit",
+      "source": "curated",
+      "corpusCount": 14,
+      "filerCount": 9,
+      "sampleExcerpt": "…her Services\" within the service revenue category of our results of operations. Globalstar System Our constellation of Low Earth Orbit (\"LEO\") satellites is designed to maximize the probability that at least one satellite is visible from any point on the Earth's surface between the latitudes 70° nor…"
+    },
+    {
+      "acronym": "SDA",
+      "expansion": "Space Development Agency",
+      "definition": "DoD agency procuring the Proliferated Warfighter Space Architecture — a tranche-based LEO constellation. Major customer for new-space integrators.",
+      "category": "Government",
+      "source": "curated",
+      "corpusCount": 12,
+      "filerCount": 8,
+      "sampleExcerpt": "…ing and support services to the U.S. government under a contract awarded by the Space Development Agency (SDA) in May 2022 to General Dynamics Mission Systems, with Iridium as a subcontractor, which we refer to as the SDA contract. Under this contract, General Dynamics Mission Systems and Iridium ar…"
+    },
+    {
+      "acronym": "EAR",
+      "expansion": "Export Administration Regulations",
+      "definition": "US Commerce Department export-control regime covering dual-use items not on the Munitions List. Many space components moved from ITAR to EAR after 2014 reform.",
+      "category": "Regulation",
+      "source": "curated",
+      "corpusCount": 10,
+      "filerCount": 6,
+      "sampleExcerpt": "…g, but not limited to the International Traffic in Arms Regulations (ITAR), the Export Administration Regulations (EAR) and OFAC sanctions, may limit certain business opportunities or delay or restrict our ability to contract with potential foreign customers or suppliers. To the extent that our non-…"
+    },
+    {
+      "acronym": "FCC",
+      "expansion": "Federal Communications Commission",
+      "definition": "US spectrum and orbital-slot regulator. Adopted the 5-year deorbit rule (2022) constraining LEO operators.",
+      "category": "Regulation",
+      "source": "curated",
+      "corpusCount": 10,
+      "filerCount": 7,
+      "sampleExcerpt": "…s are issued for only a fixed time, such licenses are subject to renewal by the Federal Communications Commission (\"FCC\") or equivalent international regulatory authorities. These license renewals are expected to occur routinely and at nominal cost. Moreover, the Company has determined that there ar…"
+    },
+    {
+      "acronym": "EO",
+      "expansion": "Electro-Optical (imaging)",
+      "definition": "Passive visible/near-IR imaging. Operators include Planet, BlackSky, Maxar.",
+      "category": "Sensor",
+      "source": "curated",
+      "corpusCount": 9,
+      "filerCount": 5,
+      "sampleExcerpt": "…ownstream space market value covers revenues across three application segments: Earth observation (EO), satellite communications (satcom) and satellite navigation (GNSS). 2.6.1."
+    },
+    {
+      "acronym": "NSSL",
+      "expansion": "National Security Space Launch",
+      "definition": "US Space Force program providing assured access to space for national security payloads. Currently served by SpaceX (Falcon 9/Heavy) and ULA (Vulcan); Blue Origin (New Glenn) and Rocket Lab (Neutron) are entering.",
+      "category": "Government program",
+      "source": "curated",
+      "corpusCount": 9,
+      "filerCount": 3,
+      "sampleExcerpt": "…report recommends allowing the SAE to approve • The National Security Space Launch (NSSL) program contracting vehicles (called Other Transaction Agreements) procures commercial launch services for the Space that exceed $500 million without…"
+    },
+    {
+      "acronym": "MSS",
+      "expansion": "Mobile Satellite Services",
+      "definition": "L/S-band spectrum allocations for direct connection to mobile/handheld terminals. Iridium, Globalstar, Inmarsat hold MSS rights; ASTS and Starlink-direct contest the boundaries.",
+      "category": "Spectrum",
+      "source": "curated",
+      "corpusCount": 4,
+      "filerCount": 3,
+      "sampleExcerpt": "…ned with the global footprint of our satellites, distinguishes us from regional LEO mobile satellite services (MSS) operators such as Globalstar and ORBCOMM by allowing us to route voice and data transmissions to and from anywhere on the earth’s surface without the need for local ground infrastructu…"
+    },
+    {
+      "acronym": "NRO",
+      "expansion": "National Reconnaissance Office",
+      "definition": "US intelligence satellite operator. Increasingly buys commercial imagery alongside government-owned platforms.",
+      "category": "Government",
+      "source": "curated",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…iod in 2024, as a result of a reduction in imagery revenue from one of our U.S. Government contracts with the National Reconnaissance Office (\"NRO\"). This decrease was partially offset by new imagery and analytics subscription orders and renewals from other existing customers."
+    },
+    {
+      "acronym": "GSO",
+      "expansion": "Geostationary Satellite Orbit",
+      "definition": "Satellites at ~35,786 km altitude, orbital period matching Earth's rotation. Traditional satcom and broadcast — high-power, fewer satellites, served by Viasat, SES, Intelsat, Eutelsat.",
+      "category": "Orbit",
+      "source": "curated",
+      "corpusCount": 2,
+      "filerCount": 1,
+      "sampleExcerpt": "…R) 2021 Annual Space Services Report to the STSC 2022 Session on the use of the Geostationary-Satellite Orbit (GSO) and other orbits”, https://www.itu.int/en/ITU-R/space/snl/SNLReport/SNS-ref-list-2021_e.pdf. Fears of interference and terrestrial competition for spectrum There is also the risk of…"
+    },
+    {
+      "acronym": "SAR",
+      "expansion": "Synthetic Aperture Radar",
+      "definition": "Active microwave imaging that produces high-resolution radar images regardless of weather or daylight. Capella, ICEYE, BlackSky operate SAR constellations.",
+      "category": "Sensor",
+      "source": "curated",
+      "corpusCount": 2,
+      "filerCount": 2,
+      "sampleExcerpt": "…ch history and projected launch plans. Optical and Synthetic Aperture Radar (SAR) Systems Airbus Defense and Space Airbus Defense and Space owns and operates Satellite Pour l’Obser…"
+    },
+    {
+      "acronym": "ASIC",
+      "expansion": "Application-Specific Integrated Circuit",
+      "definition": "Custom chip. Rad-hard ASICs are a concentrated supply-chain chokepoint with few qualified vendors (BAE, Cobham/Frontgrade, Microchip).",
+      "category": "Component",
+      "source": "curated",
+      "corpusCount": 2,
+      "filerCount": 1,
+      "sampleExcerpt": "…ns, cybersecurity, shipping, and transportation. In 2026, we are introducing an Application Specific Integrated Chip (ASIC) to allow partners to more cost effectively integrate our PNT services into their diverse applications using less power and space."
+    },
+    {
+      "acronym": "MEO",
+      "expansion": "Medium Earth Orbit",
+      "definition": "Altitude ~2,000–35,786 km. GPS / Galileo / GLONASS PNT constellations live here.",
+      "category": "Orbit",
+      "source": "curated",
+      "corpusCount": 1,
+      "filerCount": 1,
+      "sampleExcerpt": "…450 450 98.2 15,500–37,500 Medium Earth orbit (MEO) direct inject 1 9,815 9,815 50 11,750 MEO direct inject 2 10,988 10,988 55 9,000 MEO transfer or…"
+    },
+    {
+      "acronym": "CR",
+      "expansion": "Continuing Resolution",
+      "definition": "Stopgap appropriations measure when Congress doesn't pass a full budget. Constrains new-start programs — disclosed by every defense prime.",
+      "category": "Funding",
+      "source": "curated",
+      "corpusCount": 1,
+      "filerCount": 1,
+      "sampleExcerpt": "…with defense committees prior to the president’s budget submission. 14  Mitigate Problems Caused by Continuing Resolutions (CR): Unfortunately, CRs have become a regular way of life for the DOD and the rest of the federal government. The Office of the Under Secretary of Defense…"
+    },
+    {
+      "acronym": "ITAR",
+      "expansion": "International Traffic in Arms Regulations",
+      "definition": "US regime governing export of defense articles, services, and technical data. Most space hardware is on the US Munitions List; deemed-export rules constrain foreign-national hires.",
+      "category": "Regulation",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "Part 450",
+      "expansion": "14 CFR Part 450 — Launch and Reentry Licensing",
+      "definition": "FAA rule consolidating launch and reentry licensing requirements (2021). Aims to streamline commercial launch licensing but transition has been slower than industry expected.",
+      "category": "Regulation",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "NGSO",
+      "expansion": "Non-Geostationary Satellite Orbit",
+      "definition": "Satellites in LEO, MEO, or HEO. NGSO constellations (Starlink, OneWeb, Kuiper) drive most current launch demand and are subject to FCC spectrum coordination + 5-year deorbit rule.",
+      "category": "Orbit",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "D2D",
+      "expansion": "Direct-to-Device",
+      "definition": "Satellites communicating directly with unmodified phones, typically over MSS or supplemental-coverage spectrum. Major regulatory and competitive fights between AST SpaceMobile, Starlink, Globalstar, Iridium.",
+      "category": "Spectrum",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "NASA OIG",
+      "expansion": "NASA Office of Inspector General",
+      "definition": "Independent audit/oversight body. Publishes detailed reports on Artemis, commercial crew, launch services — often the most concrete public disclosure of program supply-chain risk.",
+      "category": "Government",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "FAA AST",
+      "expansion": "FAA Office of Commercial Space Transportation",
+      "definition": "Issues launch and reentry licenses, publishes the Annual Compendium and quarterly forecasts.",
+      "category": "Regulation",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "NOAA CRSRA",
+      "expansion": "NOAA Commercial Remote Sensing Regulatory Affairs",
+      "definition": "Licenses commercial remote-sensing systems; tiered licensing post-2020 reform eased many resolution restrictions.",
+      "category": "Regulation",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "HBM",
+      "expansion": "High Bandwidth Memory",
+      "definition": "Stacked DRAM used in AI accelerators. Not space-specific but appears in advanced satellite ASIC modules sourced from same primes.",
+      "category": "Component",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "FPGA",
+      "expansion": "Field-Programmable Gate Array",
+      "definition": "Reconfigurable logic chip. Space-grade FPGAs (Xilinx Versal, BAE RAD-tolerant) are heavily used in satellite payloads.",
+      "category": "Component",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "GaN",
+      "expansion": "Gallium Nitride",
+      "definition": "Wide-bandgap semiconductor for high-power RF; dominant in modern phased-array antennas. Wolfspeed, MACOM are key suppliers.",
+      "category": "Material",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "GaAs",
+      "expansion": "Gallium Arsenide",
+      "definition": "III-V semiconductor used for solar cells (triple-junction GaAs) and RF amplifiers. Spectrolab (Boeing) and Azur Space are dominant photovoltaic suppliers.",
+      "category": "Material",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "TPS",
+      "expansion": "Thermal Protection System",
+      "definition": "Heat shielding for reentry vehicles. Mix of ablative materials (PICA, AVCOAT) and reusable tiles.",
+      "category": "Subsystem",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "GN&C",
+      "expansion": "Guidance, Navigation & Control",
+      "definition": "Onboard control subsystem combining IMU, star trackers, sun sensors, reaction wheels, and propulsion to maintain attitude and trajectory.",
+      "category": "Subsystem",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "IMU",
+      "expansion": "Inertial Measurement Unit",
+      "definition": "Sensor that measures specific force and angular rate. Honeywell, Northrop Grumman LITEF, Safran are major space-grade IMU suppliers.",
+      "category": "Subsystem",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "PNT",
+      "expansion": "Positioning, Navigation, Timing",
+      "definition": "Service provided by GPS / Galileo / GLONASS / BeiDou. Strategic dependency for everything from civilian aviation to munitions.",
+      "category": "Service",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "CoWoS",
+      "expansion": "Chip-on-Wafer-on-Substrate",
+      "definition": "TSMC advanced packaging used in HBM accelerators. Bleeds into space-grade compute as inference moves on-orbit.",
+      "category": "Component",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "SBIRS",
+      "expansion": "Space-Based Infrared System",
+      "definition": "US missile-warning constellation. Lockheed Martin prime; transitioning to Next-Gen OPIR.",
+      "category": "Government program",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "OPIR",
+      "expansion": "Overhead Persistent Infrared",
+      "definition": "Next-Gen OPIR is the SBIRS successor — provides earlier missile detection. LMT and NOC lead segments.",
+      "category": "Government program",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "ASAT",
+      "expansion": "Anti-Satellite (weapon)",
+      "definition": "Kinetic, RF, or directed-energy weapon targeting satellites. Russia's 2021 ASAT test created a major debris field.",
+      "category": "Threat",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "PIPE",
+      "expansion": "Private Investment in Public Equity",
+      "definition": "Used heavily in SPAC mergers — institutional investors buy shares at deal close. Many space SPACs disclose warrant + PIPE math as dilution risk.",
+      "category": "Capital",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "IRR",
+      "expansion": "Internal Rate of Return",
+      "definition": "Used in space-economy market reports to assess constellation business cases.",
+      "category": "Finance",
+      "source": "curated",
+      "corpusCount": 0,
+      "filerCount": 0,
+      "sampleExcerpt": null
+    },
+    {
+      "acronym": "CRS",
+      "expansion": "Commercial Resupply Services",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 37,
+      "filerCount": 6,
+      "sampleExcerpt": "…to defeat hypersonic threats; • Cygnus spacecraft, used in the execution of our Commercial Resupply Services (CRS) contracts with NASA to resupply and re-boost the International Space"
+    },
+    {
+      "acronym": "ESA",
+      "expansion": "European Space Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 33,
+      "filerCount": 9,
+      "sampleExcerpt": "…ce Programme (EUSPA), established in 2021 and with its headquarters in Prague. EUSPA is separate and distinct from the European Space Agency (ESA) and its space activities, which reside at the IGO level. † Importantly, the subject of this chapter is EU space ambitions as manifested in the European…"
+    },
+    {
+      "acronym": "DOD",
+      "expansion": "Department of Defense",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 30,
+      "filerCount": 4,
+      "sampleExcerpt": "…OCTOBER 2024 2 Introduction The Department of Defense (DOD) plans to field multiple proliferated satellite constellations to improve resilience and more quickly field new technologies. These systems will employ dozens to hundreds of relatively smal…"
+    },
+    {
+      "acronym": "CAS",
+      "expansion": "Cost Accounting Standards",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 16,
+      "filerCount": 6,
+      "sampleExcerpt": "…businesses supporting government customers are computed in accordance with U.S. Government Cost Accounting Standards (CAS), which employ different actuarial assumptions and accounting conventions than GAAP. CAS costs are allocable to government contracts. Other postretirement benefit costs are alloc…"
+    },
+    {
+      "acronym": "ISS",
+      "expansion": "International Space Station",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 16,
+      "filerCount": 7,
+      "sampleExcerpt": "…Aeronautics and Space Administration has contracted us to design and build the CST-100 Starliner spacecraft to transport crews to the International Space Station (ISS) and in the second quarter of 2022, we successfully completed the uncrewed Orbital Flight Test. The Crewed Flight Test launched on J…"
+    },
+    {
+      "acronym": "GPS",
+      "expansion": "Global Positioning System",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 14,
+      "filerCount": 7,
+      "sampleExcerpt": "…cquired Satelles, Inc. (Satelles), a provider of highly secure, satellite-based PNT services that complement and protect Global Positioning System (GPS) and other Global Navigation Satellite System (GNSS) reliant systems. Time synchronization and location data play an important role in the global ec…"
+    },
+    {
+      "acronym": "FAA",
+      "expansion": "Federal Aviation Administration",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 12,
+      "filerCount": 5,
+      "sampleExcerpt": "…he U.S. military, the National Aeronautics and Space Administration (NASA), the Federal Aviation Administration (FAA) and the Department of Homeland Security. Similar government authorities exist in our non-U.S. markets. Government Contracts. The U.S."
+    },
+    {
+      "acronym": "COSO",
+      "expansion": "Committee of Sponsoring Organizations",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 12,
+      "filerCount": 8,
+      "sampleExcerpt": "…ia established in Internal Control — Integrated Framework (2013 ) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, base…"
+    },
+    {
+      "acronym": "FAR",
+      "expansion": "Federal Acquisition Regulation",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 12,
+      "filerCount": 5,
+      "sampleExcerpt": "…iness. In addition, we license intellectual property to and from third parties. The Federal Acquisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS) provide the U.S. Government certain rights in intellectual property, including patents, developed by us and our subco…"
+    },
+    {
+      "acronym": "CSA",
+      "expansion": "Canadian Space Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 12,
+      "filerCount": 4,
+      "sampleExcerpt": "…s, space cooperation was also embraced by other nations. Beginning in 1988, the United States partnered with the Canadian Space Agency (CSA), European Space Agency (ESA), and National Space Development Agency of Japan (NASDA) to establish an international coalition supporting Space Station Freedom."
+    },
+    {
+      "acronym": "FAS",
+      "expansion": "Financial Accounting Standards",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 11,
+      "filerCount": 3,
+      "sampleExcerpt": "…ment. The FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments."
+    },
+    {
+      "acronym": "FY",
+      "expansion": "fiscal year",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 11,
+      "filerCount": 6,
+      "sampleExcerpt": "…e conditioned upon the continuing availability of Congressional appropriations. Congress usually appropriates funds on a fiscal year (FY) basis even though contract performance may extend over many years. Consequently, contracts are often partially funded initially, and additional funds are committe…"
+    },
+    {
+      "acronym": "NATO",
+      "expansion": "North Atlantic Treaty Organization",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 9,
+      "filerCount": 5,
+      "sampleExcerpt": "…m sustainment and operations support for the F-35, B-2, F/A-18, E-2, E-3, A-10, North Atlantic Treaty Organization (NATO) Alliance Ground Surveillance (AGS), Triton, Global Hawk, and restricted programs. DEFENSE SYSTEMS Defense Systems is a leader in the design, engineering, development, integration…"
+    },
+    {
+      "acronym": "SLS",
+      "expansion": "Space Launch System",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 9,
+      "filerCount": 4,
+      "sampleExcerpt": "…rn polar region; • Development and production of solid rocket motors for NASA’s Space Launch System (SLS) heavy lift vehicle; and • Medium-class solid rocket motors for the U.S. Navy's Trident II Fleet Ballistic Missile program. CUSTOMER CONCENTRATION Our largest customer is the U.S. government. Sal…"
+    },
+    {
+      "acronym": "ITU",
+      "expansion": "International Telecommunications Union",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 8,
+      "filerCount": 4,
+      "sampleExcerpt": "…devices. Satellite based L- and S-band frequencies were fully allocated by the International Telecommunications Union (ITU) in the early 1990s and are utilized by a limited number of mobile satellite operators like Iridium."
+    },
+    {
+      "acronym": "NOAA",
+      "expansion": "National Oceanic and Atmospheric",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 8,
+      "filerCount": 4,
+      "sampleExcerpt": "…ur network supports many scientific data collection applications, including the Argo float program of the National Oceanic and Atmospheric Administration (NOAA), the Global Ocean Observation project Challenger, operated by Rutgers University, and anti-poaching programs run by the Smithsonian Nationa…"
+    },
+    {
+      "acronym": "IRS",
+      "expansion": "Internal Revenue Service",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 8,
+      "filerCount": 3,
+      "sampleExcerpt": "…by the favorable resolution of certain federal income tax audit items with the Internal Revenue Service (IRS)."
+    },
+    {
+      "acronym": "DCMA",
+      "expansion": "Defense Contract Management Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 8,
+      "filerCount": 4,
+      "sampleExcerpt": "…audited and reviewed by the U.S. government and its agencies, such as the DCAA, Defense Contract Management Agency (DCMA) and the DoW Inspector General. These agencies review performance under our contracts, our cost structure and accounting, our compliance, and the adequacy of our systems in meetin…"
+    },
+    {
+      "acronym": "FTE",
+      "expansion": "Full Time Equivalent",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 8,
+      "filerCount": 3,
+      "sampleExcerpt": "…Europe for more than 20 years. In 2023, it is estimated to have reached 62,659 Full Time Equivalent (FTE) in 2023."
+    },
+    {
+      "acronym": "CEO",
+      "expansion": "Chief Executive Officer",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 7,
+      "filerCount": 4,
+      "sampleExcerpt": "…ime) as costs are incurred. Our chief operating decision maker is currently our President and Chief Executive Officer (CEO)."
+    },
+    {
+      "acronym": "SM-3",
+      "expansion": "Standard Missile",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 7,
+      "filerCount": 2,
+      "sampleExcerpt": "…ision Strike Missile (PrSM) program and Third Stage Rocket Motor (TSRM) for the Standard Missile (SM-3) program."
+    },
+    {
+      "acronym": "ISRO",
+      "expansion": "Indian Space Research Organization",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 7,
+      "filerCount": 4,
+      "sampleExcerpt": "…e Chandrayaan lunar robotic exploration missions and the Aditya L1 mission, the Indian Space Research Organization (ISRO) initiated a crewed spaceflight program in November 2022."
+    },
+    {
+      "acronym": "ASU",
+      "expansion": "Accounting Standards Update",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 5,
+      "sampleExcerpt": "…ents In November 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (\"ASU\") 2024-03, Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures . This ASU requires public companies to disclose, on an annual and interim basis, disagg…"
+    },
+    {
+      "acronym": "SSA",
+      "expansion": "Support Services Agreement",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 4,
+      "sampleExcerpt": "…urchase certain intellectual property assets pursuant to the License Agreement. The Company and XCOM also had a Support Services Agreement (\"SSA\"), which was terminated during the second quarter of 2025. Under the SSA, XCOM was required to provide certain services to the Company. In August 2023 and…"
+    },
+    {
+      "acronym": "TRS",
+      "expansion": "Thales Raytheon Systems",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 1,
+      "sampleExcerpt": "…nt investigations into payments made by Raytheon Company and its joint venture, Thales-Raytheon Systems (TRS), since 2012 in connection with certain Middle East contracts."
+    },
+    {
+      "acronym": "SCO",
+      "expansion": "Special Compliance Officer",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 1,
+      "sampleExcerpt": "…and to conduct an external audit of the Company’s ITAR compliance program. The CA also requires appointment of an external independent Special Compliance Officer (SCO). The Company appointed its SCO on September 27, 2024. If the Company is unable to satisfy the requirements of the CA within three y…"
+    },
+    {
+      "acronym": "DTH",
+      "expansion": "Direct to Home",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 2,
+      "sampleExcerpt": "…satellites providing Fixed Satellite Service (FSS) as well as Direct-to-Home (DTH) and Digital Radio (DARS) broadcast service."
+    },
+    {
+      "acronym": "KARI",
+      "expansion": "Korea Aerospace Research Institute",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 3,
+      "sampleExcerpt": "…rice per Launch by Korea Aerospace Research Institute Undisclosed (KARI)."
+    },
+    {
+      "acronym": "OSP",
+      "expansion": "Orbital Suborbital Program",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 1,
+      "sampleExcerpt": "…are provided under the Orbital/Suborbital Program (OSP) managed LEO Capacity, kg (lb) by the U.S."
+    },
+    {
+      "acronym": "GPA",
+      "expansion": "Government Property Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 6,
+      "filerCount": 1,
+      "sampleExcerpt": "…liam Morgan House, Cardiff and 10 Victoria Street, London In February 2024, the Agency entered into a lease agreement with the Government Property Agency (GPA) for office accommodation at TY William Morgan House, Cardiff. The lease commenced on 19 February 2024 for a term of 21 years. In August 201…"
+    },
+    {
+      "acronym": "DOT",
+      "expansion": "Department of Transportation",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 3,
+      "sampleExcerpt": "…of War (DoW), the National Aeronautics and Space Administration (NASA), and the Department of Transportation (DOT), including the FAA, had lapsed."
+    },
+    {
+      "acronym": "ASC",
+      "expansion": "Accounting Standards Codification",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 3,
+      "sampleExcerpt": "…agreed to with customers and is reported in accordance with the requirements of Accounting Standards Codification (ASC) 606."
+    },
+    {
+      "acronym": "GILTI",
+      "expansion": "global intangible low taxed income",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 4,
+      "sampleExcerpt": "…olidated balance sheet associated with potential taxes, penalties and interest. Other The tax related to global intangible low-taxed income (\"GILTI\") is a tax on foreign income in excess of a deemed return on tangible assets of foreign corporations. The Company records GILTI tax in the period in whi…"
+    },
+    {
+      "acronym": "LRASM",
+      "expansion": "Long Range Anti Ship Missile",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 1,
+      "sampleExcerpt": "…Precision Strike Missile (PrSM), Joint Air-to-Surface Standoff Missile (JASSM), Long Range Anti-Ship Missile (LRASM), Hellfire and Joint Air-to-Ground Missile (JAGM) tactical and strike missile programs."
+    },
+    {
+      "acronym": "CMHP",
+      "expansion": "Canadian Maritime Helicopter Program",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 1,
+      "sampleExcerpt": "…vice costs at RMS were due to the impact of recognizing a reach-forward loss on Canadian Maritime Helicopter Program (CMHP) as previously described. Impairment and Other Charges We recorded charges totaling $66 million ($52 million, or $0.22 per share, after-tax) in 2025 and $87 million ($69 million…"
+    },
+    {
+      "acronym": "FASB",
+      "expansion": "Financial Accounting Standards Board",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 4,
+      "sampleExcerpt": "…recognized in earnings. Recent Accounting Pronouncements In December 2025, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities . The ASU establishes guidan…"
+    },
+    {
+      "acronym": "DOJ",
+      "expansion": "Department of Justice",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 2,
+      "sampleExcerpt": "…sible liability of the Bethpage EDNY cases . The company received from the U.S. Department of Justice (DOJ) a criminal subpoena on December 9, 2022, and a civil investigative demand (CID) on February 2, 2023, both seeking information regarding financial and cost accounting and controls focused on th…"
+    },
+    {
+      "acronym": "ASBM",
+      "expansion": "Arctic Satellite Broadband Mission",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 1,
+      "sampleExcerpt": "…30 CENTER FOR SPACE POLICY AND STRATEGY Arctic Satellite Broadband Mission (ASBM). Space Norway’s ** new HEO 2 satellite constellation launched in August 2024."
+    },
+    {
+      "acronym": "GDP",
+      "expansion": "Gross Domestic Product",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 3,
+      "sampleExcerpt": "…5 2.2.1. Public Space Budgets as Share of GDP The ratio of public space budget to the Gross Domestic Product (GDP) provides a view on public space funding intensity. As presented in Figure 6, the share for Europe (EU27, Norway, Switzerland and the UK) was 0.06% in 2…"
+    },
+    {
+      "acronym": "ML-1",
+      "expansion": "Mobile Launcher",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 2,
+      "sampleExcerpt": "…launch the Orion Multi-Purpose Crew Vehicle (Orion) capsule into space from the Mobile Launcher 1 (ML-1) at Kennedy Space Center."
+    },
+    {
+      "acronym": "OIG",
+      "expansion": "of Inspector General",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 3,
+      "sampleExcerpt": "…• Accomplish additional test flight objectives Source: NASA Office of Inspector General (OIG) presentation of NASA information. Artemis II is NASA’s only planned test mission with crew before attempting to land humans on the Moon during the Artemis III mis…"
+    },
+    {
+      "acronym": "GIAA",
+      "expansion": "Government Internal Audit Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 5,
+      "filerCount": 1,
+      "sampleExcerpt": "…m the financial experience. This will be strengthened in 2024-25 Government Internal Audit Agency (GIAA) and the NAO. with the appointment of additional members who will Meetings are open to other Board members to attend. receive full induction…"
+    },
+    {
+      "acronym": "AI",
+      "expansion": "Artificial Intelligence",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…estments in expanding our capability, capacity, and automation including use of Artificial Intelligence (AI) in component manufacturing and assembly, installation and testing of satellites."
+    },
+    {
+      "acronym": "FCPA",
+      "expansion": "Foreign Corrupt Practices Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…affecting trade and investment in other jurisdictions; • noncompliance with the Foreign Corrupt Practices Act (\"FCPA\"), UK Bribery Act, sanctions laws and export controls; • violation by employees or suppliers in regards to our code of conduct and business ethics; • exposure to varying legal standar…"
+    },
+    {
+      "acronym": "NGI",
+      "expansion": "Next Generation Interceptor",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…es the U.S. Space Force with enhanced worldwide missile warning capabilities. • Next Generation Interceptor (NGI), a program with the Missile Defense Agency (MDA) utilizing next generation propulsion and sensors to provide homeland missile defense. • The Orion Multi-Purpose Crew Vehicle (Orion), NAS…"
+    },
+    {
+      "acronym": "CMMC",
+      "expansion": "Cybersecurity Maturity Model Certification",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 3,
+      "sampleExcerpt": "…ther members of the defense industrial base to support DoW’s development of the Cybersecurity Maturity Model Certification (CMMC) program, DoW’s program to ensure members of the defense industrial base meet cybersecurity requirements for handling CUI and federal contract information. In November 202…"
+    },
+    {
+      "acronym": "CISO",
+      "expansion": "Chief Information Security Officer",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 4,
+      "sampleExcerpt": "…r risk exposure with our strategic objectives. Senior leadership, including our Chief Information Security Officer (CISO), report to the Board of Directors on our cybersecurity and information security posture at least annually and the Board of Directors is apprised of cybersecurity incidents deemed…"
+    },
+    {
+      "acronym": "NDAA",
+      "expansion": "National Defense Authorization Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…billion reconciliation funding) for the DoW available until September 30, 2029. The National Defense Authorization Act (NDAA) for FY2026 was signed into law on December 18, 2025. This legislation authorizes $901 billion for Defense which includes an $8 billion increase over the President’s DoW Budge…"
+    },
+    {
+      "acronym": "ESOP",
+      "expansion": "Employee Stock Ownership Plan",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…g contribution. Company matching contributions are automatically invested in an Employee Stock Ownership Plan (ESOP) fund, which primarily invests in shares of our common stock. Plan participants can transfer from the ESOP fund into any investment option provided by the respective plan. Our contribu…"
+    },
+    {
+      "acronym": "RFA",
+      "expansion": "Rocket Factory Augsburg",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…including SpaceX, Relativity Space, Blue Origin, United Launch Alliance (ULA), Rocket Factory Augsburg (RFA), and several other rocket providers."
+    },
+    {
+      "acronym": "DCAA",
+      "expansion": "Defense Contract Audit Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 3,
+      "sampleExcerpt": "…nd allocated to contracts with the U.S. government are routinely audited by the Defense Contract Audit Agency (DCAA). Our long-term contracts typically fall into one of two contract types: Cost-type contracts – Cost-type contracts include cost plus fixed fee, cost plus award fee and cost plus incent…"
+    },
+    {
+      "acronym": "EPA",
+      "expansion": "economic price adjustment",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…ightened levels of inflation and challenges from the macroeconomic environment. Certain of our fixed-price contracts include economic price adjustment (EPA) clauses to help protect the company against inflationary pressures. However, these EPA clauses may not be able to fully mitigate adverse impact…"
+    },
+    {
+      "acronym": "SM-6",
+      "expansion": "Standard Missile",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…aval radars, the Next Generation Jammer (NGJ), shipboard missiles including the Tomahawk and Standard Missile 6 (SM-6), air-to-air missiles such as the AIM-9X SIDEWINDER missile, and integrated systems such as the SPY-6 radar."
+    },
+    {
+      "acronym": "AECA",
+      "expansion": "Arms Export Control Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…tment of Commerce, the International Traffic in Arms Regulations (ITAR) and the Arms Export Control Act (AECA) provisions administered by the U.S."
+    },
+    {
+      "acronym": "DOS",
+      "expansion": "Department of State",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…TAR) and the Arms Export Control Act (AECA) provisions administered by the U.S. Department of State (DOS), embargoes and sanctions regulations administered by the U.S. Department of the Treasury, and import regulations administered by the U.S. Department of Homeland Security and the U.S. Department…"
+    },
+    {
+      "acronym": "DPA",
+      "expansion": "deferred prosecution agreement",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…isk Factors”. Compliance Matters. As previously disclosed, on October 15, 2024, Raytheon Company entered into a deferred prosecution agreement (DPA) (DPA-1) with the DOJ and on October 16, 2024, the Company became subject to an administrative order issued by the Securities and Exchange Commission (S…"
+    },
+    {
+      "acronym": "CA",
+      "expansion": "Consent Agreement",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…ditional adverse impacts. Also as previously disclosed, on August 29, 2024, the Company entered into a Consent Agreement (CA) with the DOS to resolve alleged civil violations of the AECA and the ITAR. The CA, which has a three-year term, requires the Company to implement remedial compliance measures…"
+    },
+    {
+      "acronym": "ILRS",
+      "expansion": "International Lunar Research Station",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…hina, joined by 13 nations (including Russia), is leading the development of an International Lunar Research Station (ILRS)."
+    },
+    {
+      "acronym": "SSC",
+      "expansion": "Space Systems Command",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 3,
+      "sampleExcerpt": "…will need to be regularly replenished with satellites to maintain coverage. 5 Space Systems Command (SSC), another Space Force acquisition organization, is also pursuing a proliferated medium Earth orbit (MEO) constellation. The Resilient Missile Warning/Missile Tracking/Missile Defense program pl…"
+    },
+    {
+      "acronym": "HVP",
+      "expansion": "High Volume Production",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…rity-FINAL.pdf. 11 David S. Eccles, Susan E. Hastings, and Jeff B. Juranek, “Effects of High-Volume Production (HVP) on Space Systems,” The Aerospace Corporation, June 2020. https://csps.aerospace.org/papers/impacts-high-volume-production-hvp-space-systems. 12 David S. Eccles, Susan E. Hast…"
+    },
+    {
+      "acronym": "DMA",
+      "expansion": "Digital Markets Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…newer companies may struggle to absorb the additional costs. 11 The GDPR, the Digital Markets Act (DMA), and the 2024 EU Artificial Intelligence Act (AI Act) serve as useful case studies for what U.S. commercial space companies, large or small, may expect.  General Data Protection Regulati…"
+    },
+    {
+      "acronym": "FSS",
+      "expansion": "Fixed Satellite Service",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 3,
+      "sampleExcerpt": "…nder specified conditions. The X-band includes communications satellites in the Fixed-Satellite Service (FSS), Mobile-Satellite Service (MSS), and Maritime-Mobile-Satellite Service, and science services such Meteorological-Satellite Service (MetSat), Space Research Service (SRS) (including some desi…"
+    },
+    {
+      "acronym": "UAE",
+      "expansion": "United Arab Emirates",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…ionally, the People’s Republic of China (China), India, Japan, South Korea, the United Arab Emirates (UAE), Israel, and Russia have plans for lunar robotic missions. The United States, China, and India are planning human landing missions with the United States and China aiming to establish crewed lu…"
+    },
+    {
+      "acronym": "PSLV",
+      "expansion": "Polar Satellite Launch Vehicle",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…ehicles such payload adapter). As a result, the customer as the Indian Polar Satellite Launch Vehicle interface is increasingly shifting towards (PSLV), the decision by US institutional operators of Orbital Transfer Vehicles customers to fund the development and…"
+    },
+    {
+      "acronym": "TAS",
+      "expansion": "Thales Alenia Space",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…the LEO-PNT mission. The projects are led by GMV Aerospace and Defense and Thales Alenia Space (TAS) France and involve a consortium of more than 50 entities from 14 countries."
+    },
+    {
+      "acronym": "CCAFS",
+      "expansion": "Cape Canaveral Air Force Station",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…nd reentry sites are often co-located with federal locations, including Cape Canaveral Air Force Station (CCAFS) in Florida, Vandenberg Air Force Base (VAFB) in California, and WFF in Virginia.…"
+    },
+    {
+      "acronym": "SSO",
+      "expansion": "Sun synchronous orbits",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…2 Sun-synchronous orbits (SSO). Reliability"
+    },
+    {
+      "acronym": "EGS",
+      "expansion": "Exploration Ground Systems",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…r Artemis II, NASA will have spent more than $55 billion on the SLS, Orion, and Exploration Ground Systems (EGS) programs. Given the high stakes of the first crewed flight, the Agency is working to identify and mitigate any risks and challenges to ensure the safe return of the Artemis II crew and s…"
+    },
+    {
+      "acronym": "NAICS",
+      "expansion": "North American Industry Classification System",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…d categories suitable for European users of the classification at lower levels. The North American Industry Classification System (NAICS) also partially relates to ISIC Rev.4 and is almost entirely concordant up to the two-digit level of detail."
+    },
+    {
+      "acronym": "SESA",
+      "expansion": "Space Economy Satellite Account",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 2,
+      "sampleExcerpt": "…ribution of the space economy to the national gross domestic product (GDP), the US Space Economy Satellite Account (SESA) provides data on gross output, OECD HANDBOOK ON MEASURING THE SPACE ECONOMY, 2ND EDITION © OECD 2022 PROGRESS IN CONCEP…"
+    },
+    {
+      "acronym": "RFP",
+      "expansion": "Request for Proposal",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 4,
+      "filerCount": 1,
+      "sampleExcerpt": "…epartment of the Air Force (DAF), National Security Space Launch Phase 3 Lane 1 Request for Proposal (RFP), Solicitation FA8811-24-R-0001, October 4, 2023a; DAF, National Security Space Launch (NSSL) Phase 3 Lane 2 Request for Proposal (RFP), Solicitation# FA8811-24-R-0002, October 4, 2023, amended…"
+    },
+    {
+      "acronym": "OBBBA",
+      "expansion": "One Big Beautiful Bill Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 3,
+      "sampleExcerpt": "…ackage, to assess any potential impacts on our operations. On July 4, 2025, the President signed into law the One Big Beautiful Bill Act (OBBBA). The OBBBA maintains the 21 percent corporate tax rate and makes permanent many of the beneficial expired and expiring tax provisions originally enacted in…"
+    },
+    {
+      "acronym": "OFAC",
+      "expansion": "of Foreign Assets Control",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 3,
+      "sampleExcerpt": "…and other federal statutes and regulations, including those established by the Office of Foreign Assets Control (\"OFAC\"). Further, various government agencies require export licenses, which could impact our sales of Commercial IoT, SPOT and Duplex products, and the importation of equipment into var…"
+    },
+    {
+      "acronym": "CODM",
+      "expansion": "Chief Operating Decision Maker",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 3,
+      "sampleExcerpt": "…has discrete financial information that is evaluated regularly by the Company’s Chief Operating Decision Maker (\"CODM\") to decide how to allocate resources and assess performance. In accordance with ASC 280, Segment Reporting , the Company’s only reportable segment is its MSS business."
+    },
+    {
+      "acronym": "EMSS",
+      "expansion": "Enhanced Mobile Satellite Services",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…i-year, fixed-price contract with the U.S. government, which we refer to as our Enhanced Mobile Satellite Services (EMSS) contract to provide specified satellite airtime services for an unlimited number of U.S. Department of War (DoW) (previously referred to as the Department of Defense) and other f…"
+    },
+    {
+      "acronym": "PWSA",
+      "expansion": "Proliferated Warfighter Space Architecture",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 3,
+      "sampleExcerpt": "…d Iridium are building ground entry points and operations centers for the DoW’s Proliferated Warfighter Space Architecture (PWSA) and will provide network operations and systems integration services for the SDA’s next tranche of proliferated low-Earth orbit satellites. 3 At December 31, 2025, we had…"
+    },
+    {
+      "acronym": "GDPR",
+      "expansion": "General Data Protection Regulation",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…rs new ways to opt out of certain sales of personal information. In the EU, the European Commission enacted the General Data Protection Regulation (GDPR), which since 2018 has imposed more stringent EU data protection requirements and provided for greater penalties for noncompliance. In addition, th…"
+    },
+    {
+      "acronym": "THAAD",
+      "expansion": "Terminal High Altitude Area Defense",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…. MFC’s major programs include: • The Patriot Advanced Capability-3 (PAC-3) and Terminal High Altitude Area Defense (THAAD) air and missile defense programs. PAC-3 is an advanced defensive missile for the U.S. Army and international customers designed to intercept and eliminate incoming airborne thr…"
+    },
+    {
+      "acronym": "CRH",
+      "expansion": "Combat Rescue Helicopter",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…ft helicopters, which are in service with U.S. and foreign governments, and the Combat Rescue Helicopter (CRH) utilized by the U.S. Air Force. • Integrated warfare systems and sensors (IWSS) programs such as Aegis Combat System (Aegis) programs that serve as an air and missile defense system for the…"
+    },
+    {
+      "acronym": "MMSC",
+      "expansion": "Multi Mission Surface Combatant",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…element of the U.S. missile defense system, and the Littoral Combat Ship (LCS), Multi-Mission Surface Combatant (MMSC), and River-Class Destroyer (RCD) (formerly known as Canadian Surface Combatant) programs to provide surface combatant ships for the U.S. Navy and international customers that are de…"
+    },
+    {
+      "acronym": "FBM",
+      "expansion": "Fleet Ballistic Missile",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…n support of vital national security systems. Space’s major programs include: • The Trident II D5 Fleet Ballistic Missile (FBM), a program with the U.S. Navy for the only submarine-launched intercontinental ballistic missile currently in production in the U.S. • The Next Generation Overhead Persiste…"
+    },
+    {
+      "acronym": "MDA",
+      "expansion": "Missile Defense Agency",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 3,
+      "sampleExcerpt": "…e warning capabilities. • Next Generation Interceptor (NGI), a program with the Missile Defense Agency (MDA) utilizing next generation propulsion and sensors to provide homeland missile defense. • The Orion Multi-Purpose Crew Vehicle (Orion), NASA’s next generation exploration-class crewed vehicle f…"
+    },
+    {
+      "acronym": "DFARS",
+      "expansion": "Defense Federal Acquisition Regulation Supplement",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…roperty to and from third parties. The Federal Acquisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS) provide the U.S. Government certain rights in intellectual property, including patents, developed by us and our subcontractors and suppliers in performance of gov…"
+    },
+    {
+      "acronym": "DCS",
+      "expansion": "direct commercial sales",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…Our international business is conducted through FMS contracted through the U.S. Government and by direct commercial sales (DCS) to international customers. FMS contracts with the U.S. Government are subject to the FAR and the DFARS. Because the U.S. Government functions as an intermediary in FMS sal…"
+    },
+    {
+      "acronym": "NOPA",
+      "expansion": "Notice of Proposed Adjustment",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…reevaluation of uncertain tax positions. During the second quarter of 2025, the IRS issued a Notice of Proposed Adjustment (NOPA) for 2018‑2020. The proposed adjustments stemmed from a tax‑accounting method change that was adopted in 2018 in connection with our ASC 606 implementation and the 2017 Ta…"
+    },
+    {
+      "acronym": "GMLRS",
+      "expansion": "Guided Multiple Launch Rocket System",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…al and strike missile programs due to increased volume (primarily JASSM, LRASM, Guided Multiple Launch Rocket System (GMLRS) and PrSM); and about $450 million for integrated air and missile defense programs due to increased volume (primarily existing PAC-3 contracts). MFC’s operating profit in 2025…"
+    },
+    {
+      "acronym": "A&D",
+      "expansion": "Aerospace Defense",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…n December 31, 2020, in Northrop Grumman Stock, the Standard & Poor’s (S&P) 500 Index and the S&P Aerospace & Defense (A&D) Index."
+    },
+    {
+      "acronym": "IRC",
+      "expansion": "Internal Revenue Code",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…peal of mandatory capitalization of research and development expenditures under Internal Revenue Code (IRC) Section 174 (reinstating full expensing beginning in 2025), extension of bonus depreciation, and revisions to international tax regimes. The company recognized the income tax effects of the OB…"
+    },
+    {
+      "acronym": "ECU",
+      "expansion": "Engine Core Upgrade",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…itney continued design maturation and aircraft integration efforts for the F135 Engine Core Upgrade (ECU). Significant activity continued on Pratt & Whitney’s military engine development programs, including the Next Generation Adaptive Propulsion (NGAP) program. In early 2025, Pratt & Whitney comple…"
+    },
+    {
+      "acronym": "FCA",
+      "expansion": "False Claims Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…ts. On October 16, 2024, Raytheon Company also entered into a DPA (DPA-2) and a False Claims Act (FCA) settlement agreement with the DOJ to resolve previously disclosed criminal and civil government investigations into defective pricing claims for certain legacy Raytheon Company contracts entered in…"
+    },
+    {
+      "acronym": "GAO",
+      "expansion": "Government Accountability Office",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…to as the U.S. Department of Defense), and other departments and agencies, the Government Accountability Office (GAO), the Department of Justice (DOJ), and Congressional Committees. Other areas of our business operations may also be subject to audit and investigation by these and other agencies. Fr…"
+    },
+    {
+      "acronym": "UN",
+      "expansion": "United Nations",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…security norm effort. This chapter summarizes the norms discussions in various United Nations (UN) bodies and proposes a set of criteria that are then applied to a series of potential norm options that the United States and like-minded nations could champion. The selected criteria (comprising the…"
+    },
+    {
+      "acronym": "STM",
+      "expansion": "space traffic management",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…rope (and implicitly around the globe). ‡ The second program is to establish an EU space traffic management (STM) approach with the ambition to “be at the forefront of the development of STM guidelines and standards.” Foundations of EU Space Law The 2022 EU Approach for Space Traffic Management § a…"
+    },
+    {
+      "acronym": "EESS",
+      "expansion": "Earth Exploration Satellite Service",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…ng, illegal fishing, sustainable agriculture, climate, and disaster management. These systems operate in the Earth Exploration Satellite Service (EESS) recently allocated by WRC-15. 23 This negotiation reflected the oft-repeated theme of whether to protect largely noncommercial spectrum uses that ar…"
+    },
+    {
+      "acronym": "CLPS",
+      "expansion": "Commercial Lunar Payloads Services",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…hat could be used for lunar communications systems. 22 NASA has established the Commercial Lunar Payloads Services (CLPS) Program, leveraging commercial landers to deliver both governmental and commercial science and technology payloads on or in orbit around the Moon. 23 Not until a solid business c…"
+    },
+    {
+      "acronym": "AFRL",
+      "expansion": "Air Force Research Laboratory",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…d the Moon. In the United States, consistent with Objective 3 of the NCSTS, the Air Force Research Laboratory (AFRL) is developing the Oracle family of systems comprising two programs, Oracle- Mobility (Oracle-M) and Oracle-Prime (Oracle-P), which are designed for cislunar SSA to provide the foundat…"
+    },
+    {
+      "acronym": "FSOA",
+      "expansion": "French Space Operations Act",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…his context, it is also evolving the French Space Operations Act (FSOA), for which it is the sovereign operator. SOVEREIGNTY ASSURING ACCESS TO SPACE DATA…"
+    },
+    {
+      "acronym": "IAC",
+      "expansion": "International Astronautical Congress",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…y Tumbling Assessment Through Radar, Optical Telescope, and Imaging,” 75th International Astronautical Congress (IAC), October 14–18, 2024, https://ccd.aiub. unibe.ch/publist/data/2024/artproc/SF_IAC2024.pdf. 42 Jim Garamone, “Iran Shoots Down U.S. Global Hawk Operating in International…"
+    },
+    {
+      "acronym": "DAC",
+      "expansion": "Danish Aerospace Company",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…amec Research Proxy Danish Aerospace Company (DAC) Proxy Rovsing"
+    },
+    {
+      "acronym": "ILS",
+      "expansion": "International Launch Services",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "….S. when compared to international providers like Arianespace, International Launch Services (ILS), and others, with the greatest market share being recorded in 2017 at 54 percent (13 launches)."
+    },
+    {
+      "acronym": "SRB",
+      "expansion": "Solid Rocket Boosters",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…r use on vehicles under development. ATK) •• Five-Segment Solid Rocket Boosters (SRB): The five-segment SRB is derived from the four-segment SRBs used for STS from 1981 to 2011. The booster…"
+    },
+    {
+      "acronym": "KSC",
+      "expansion": "Kennedy Space Center",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…Kennedy Space Center Kennedy Space Center (KSC) is NASA’s Launch Operations Center. KSC supports Launch Complex 39 (LC-39), originally built for the…"
+    },
+    {
+      "acronym": "SNC",
+      "expansion": "Sierra Nevada Corporation",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…irport System (HAS). In April 2014, Sierra Nevada Corporation (SNC) ratified an agreement with HAS officials to research Ellington’s potential as a commercial Spaceport…"
+    },
+    {
+      "acronym": "NSF",
+      "expansion": "National Science Foundation",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 2,
+      "sampleExcerpt": "…ated several times Atmospheric Administration (NOAA), and each year. The database is an open source of National Science Foundation (NSF)."
+    },
+    {
+      "acronym": "ICPS",
+      "expansion": "Interim Cryogenic Propulsion Stage",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…75 percent of the vehicle’s thrust during the initial minutes of flight, and an Interim Cryogenic Propulsion Stage (ICPS) responsible for propelling the Orion spacecraft to the Moon. 8 7 NASA Authorization Act of 2010, Pub. L. No."
+    },
+    {
+      "acronym": "LMD",
+      "expansion": "Logistics Management Division",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…teams to enable effective procurement decisions. Moreover, we found that NASA’s Logistics Management Division (LMD)—which could be a useful resource to help plan for supply chain issues—is not utilized by Artemis programs and projects. In contrast, we found that other government agencies and privat…"
+    },
+    {
+      "acronym": "GAW",
+      "expansion": "Global Atmosphere Watch",
+      "definition": null,
+      "category": "Auto-discovered",
+      "source": "corpus",
+      "corpusCount": 3,
+      "filerCount": 1,
+      "sampleExcerpt": "…rom ground-based sensors, but as noted in the introduction to this Chapter, the WMO Global Atmosphere Watch (GAW) plans to increase the role of THE SPACE ECONOMY IN FIGURES © OECD 2023 46  2."
+    }
+  ]
+}

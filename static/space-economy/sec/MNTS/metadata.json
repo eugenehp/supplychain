@@ -1,0 +1,55 @@
+{
+  "ticker": "MNTS",
+  "topicId": "space-economy",
+  "name": "Momentus Inc.",
+  "cik": "0001781162",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-31",
+    "accessionNumber": "0001628280-26-022291",
+    "primaryDocument": "mnts-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1781162/000162828026022291/mnts-20251231.htm",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 1110000,
+      "end": "2025-12-31",
+      "filed": "2026-03-31",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 9190000,
+      "end": "2025-12-31",
+      "filed": "2026-03-31",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 1200000,
+      "end": "2022-05-31",
+      "filed": "2023-03-08",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 1108000,
+      "end": "2025-12-31",
+      "filed": "2026-03-31",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 40319000,
+      "end": "2025-12-31",
+      "filed": "2026-03-31",
+      "form": "10-K"
+    }
+  },
+  "textLength": 489036,
+  "exportedAt": "2026-06-05T04:10:34.209Z",
+  "localUrls": {
+    "text": "/space-economy/sec/MNTS/filing.txt",
+    "metadata": "/space-economy/sec/MNTS/metadata.json",
+    "sections": "/space-economy/sec/MNTS/sections.json",
+    "evidence": "/space-economy/sec/MNTS/evidence.json",
+    "display": "/space-economy/sec/MNTS/display.json"
+  }
+}

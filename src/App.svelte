@@ -3,6 +3,7 @@
   import TopicSelector from './lib/TopicSelector.svelte';
   import TopicView from './lib/TopicView.svelte';
   import RareEarthView from './lib/materials/RareEarthView.svelte';
+  import SpaceEconomyView from './lib/space/SpaceEconomyView.svelte';
   import ResearchModeSelector from './lib/ResearchModeSelector.svelte';
   import { loadResearchMode, installResearchModeHashSync, saveResearchMode } from './lib/research-mode.js';
   import ThemeToggle from './lib/ThemeToggle.svelte';
@@ -12,6 +13,7 @@
   import LoadingSpinner from './lib/LoadingSpinner.svelte';
   import { loadTopicData, getTopicMeta, loadTopicId, saveTopicId, installTopicHashSync, topicIdFromHash } from './lib/topics.js';
   import { installBrandThemeSync, applyBrandTheme, brandForTopicMeta } from './lib/brand-theme.js';
+  import { setRagNamespace } from './lib/rag-namespace.js';
 
   const year = copyrightYear();
 
@@ -39,9 +41,11 @@
     document.title =
       researchMode === 'materials'
         ? 'Rare Earth Elements — Supply Chain Research'
-        : topicMeta?.label
-          ? `${topicMeta.label} — Supply Chain Research`
-          : 'Supply Chain Research';
+        : researchMode === 'space-economy'
+          ? 'Space Economy — Supply Chain Research'
+          : topicMeta?.label
+            ? `${topicMeta.label} — Supply Chain Research`
+            : 'Supply Chain Research';
   });
 
   /** @type {(() => void) | null} */
@@ -51,6 +55,10 @@
     if (typeof document === 'undefined') return;
     topicMeta?.id;
     applyBrandTheme(brandForTopicMeta(topicMeta));
+  });
+
+  $effect(() => {
+    setRagNamespace(researchMode === 'space-economy' ? 'space-economy' : 'accelerators');
   });
 
   /** @type {HTMLElement | undefined} */
@@ -77,6 +85,8 @@
 
     if (window.location.hash.startsWith('#materials')) {
       researchMode = 'materials';
+    } else if (window.location.hash.startsWith('#space-economy')) {
+      researchMode = 'space-economy';
     }
 
     let disconnectResize = () => {};
@@ -131,7 +141,7 @@
     <ResearchModeSelector
       bind:mode={researchMode}
       onchange={(m) => {
-        if (m === 'materials') saveResearchMode('materials');
+        if (m === 'materials' || m === 'space-economy') saveResearchMode(m);
       }}
     />
     {#if researchMode === 'accelerators'}
@@ -154,6 +164,8 @@
 <main class="mx-auto max-w-[1400px] px-[var(--page-gutter)] py-4 pb-[var(--scroll-bottom-offset)] sm:py-6">
   {#if researchMode === 'materials'}
     <RareEarthView />
+  {:else if researchMode === 'space-economy'}
+    <SpaceEconomyView />
   {:else if topicLoading && !topicData}
     <div
       class="text-muted-foreground flex min-h-[40vh] flex-col items-center justify-center gap-3"

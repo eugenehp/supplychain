@@ -1,0 +1,220 @@
+{
+  "ticker": "MNTS",
+  "queryVariants": [
+    "Momentus Inc.",
+    "Momentus",
+    "MOMENTUS INC."
+  ],
+  "sampleRecipients": [
+    "MOMENTUS SPACE LLC",
+    "MOMENTUS TECHNOLOGIES, LLC",
+    "MOMENTUS SOLUTIONS LLC"
+  ],
+  "totalAmount": 10692353.14,
+  "awardCount": 22,
+  "byAgency": [
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 8174835.83
+    },
+    {
+      "agency": "Department of Defense",
+      "amount": 2317075.19
+    },
+    {
+      "agency": "Smithsonian Institution",
+      "amount": 126832.12000000001
+    },
+    {
+      "agency": "U.S. International Development Finance Corporation",
+      "amount": 55800
+    },
+    {
+      "agency": "National Gallery of Art",
+      "amount": 17810
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "80AFRC25FA053",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 5146134,
+      "psc": null,
+      "naics": null,
+      "description": "INTEGRATION AND FLIGHT OF THE T0426 COMMERCIAL ORBITAL SYSTEM FOR MICROGRAVITY IN-SPACE CRYSTALLIZATION (COSMIC) PAYLOAD.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC25FA063",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 2095384,
+      "psc": null,
+      "naics": null,
+      "description": "INTEGRATION AND FLIGHT OF THE T0428 JUNO ROTATING DETONATION ROCKET ENGINE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA254125CB052",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1860934,
+      "psc": null,
+      "naics": null,
+      "description": "THE END STATE OF THIS PROJECT IS TO ESTABLISH A ROBUST AND SUSTAINABLE FRAMEWORK FOR SPACE SUSTAINMENT AND MANEUVER, ENABLING COMPANIES TO FACILITATE MOVEMENT WITHIN THE SPACE DOMAIN ACROSS ALL ORBITAL REGIMES, INCLUDING TRAVEL TO AND FROM ",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC25FA059",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 395798,
+      "psc": null,
+      "naics": null,
+      "description": "THE CONTRACTOR SHALL DEVELOP GEN 1 SOLAR SAIL MISSION CONCEPTS THAT WILL ADDRESS THE OBJECTIVES OF A FUTURE IMPLEMENTATION PLAN IN ACCORDANCE WITH THE MANIFEST REQUIREMENTS DOCUMENT (MRD) TITLED T0412 GEN1 SOLAR SAIL DEMONSTRATION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC24FA021",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 340891,
+      "psc": null,
+      "naics": null,
+      "description": "MINIMUM GUARANTEED",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0018922P0171",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 206020,
+      "psc": null,
+      "naics": null,
+      "description": "UNGERBOECK ANNUAL RENEWAL SUBSCRIPTION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA700020C0022",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 141000,
+      "psc": null,
+      "naics": null,
+      "description": "CCLS - NCLS ENTERPRISE EVENT HOSTING REQUIREMENT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC25FA041",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 107628.83,
+      "psc": null,
+      "naics": null,
+      "description": "THE CONTRACTOR SHALL DEVELOP FLY FOUNDATIONAL ROBOTS MISSION CONCEPTS THAT WILL ADDRESS THE OBJECTIVES OF A FUTURE IMPLEMENTATION PLAN IN ACCORDANCE WITH THE MANIFEST REQUIREMENTS DOCUMENT (MRD) TITLED T0416 FLY FOUNDATIONAL ROBOTS (FFR)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80KSC020P0022",
+      "recipient": "MOMENTUS SPACE LLC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 84000,
+      "psc": null,
+      "naics": null,
+      "description": "TROPICS PATHFINDER MISSION SUPPORT&LAUNCH SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0018925P0153",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 78021.19,
+      "psc": null,
+      "naics": null,
+      "description": "UNGERBOECK SOFTWARE RENEWAL",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "77344426P0022",
+      "recipient": "MOMENTUS SOLUTIONS LLC",
+      "agency": "U.S. International Development Finance Corporation",
+      "subAgency": "U.S. International Development Finance Corporation",
+      "amount": 55800,
+      "psc": null,
+      "naics": null,
+      "description": "ECFAX MANAGED CLOUD FAX SERVICE AND API SUPPORT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA700021P0005",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 30600,
+      "psc": null,
+      "naics": null,
+      "description": "CCLD VIRTUAL PLATFORM FOR NCLS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "33317925P00521731",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Smithsonian Institution",
+      "subAgency": "Smithsonian Institution",
+      "amount": 22384.22,
+      "psc": null,
+      "naics": null,
+      "description": "ANNUAL SOFTWARE SUBSCRIPTION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "33317925P00515805",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Smithsonian Institution",
+      "subAgency": "Smithsonian Institution",
+      "amount": 20919.83,
+      "psc": null,
+      "naics": null,
+      "description": "ANNUAL SOFTWARE SUBSCRIPTION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "33317924P00513565",
+      "recipient": "MOMENTUS TECHNOLOGIES, LLC",
+      "agency": "Smithsonian Institution",
+      "subAgency": "Smithsonian Institution",
+      "amount": 20919.83,
+      "psc": null,
+      "naics": null,
+      "description": "ANNUAL SOFTWARE SUBSCRIPTION",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

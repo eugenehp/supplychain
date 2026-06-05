@@ -1,0 +1,312 @@
+{
+  "ticker": "LHX",
+  "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 12,
+  "byCategory": [
+    {
+      "category": "governance",
+      "count": 4
+    },
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "disclosure",
+      "count": 4
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-06",
+      "count": 1
+    },
+    {
+      "month": "2025-07",
+      "count": 2
+    },
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2026-01",
+      "count": 2
+    },
+    {
+      "month": "2026-02",
+      "count": 1
+    },
+    {
+      "month": "2026-03",
+      "count": 2
+    },
+    {
+      "month": "2026-04",
+      "count": 2
+    },
+    {
+      "month": "2026-05",
+      "count": 1
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0000202058-26-000037",
+      "filingDate": "2026-05-12",
+      "reportDate": "2026-05-11",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000037/hrs-20260511.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000032",
+      "filingDate": "2026-04-30",
+      "reportDate": "2026-04-30",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000032/hrs-20260430.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000024",
+      "filingDate": "2026-04-23",
+      "reportDate": "2026-04-16",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000024/hrs-20260416.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000022",
+      "filingDate": "2026-03-12",
+      "reportDate": "2026-03-06",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000022/hrs-20260306.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000020",
+      "filingDate": "2026-03-02",
+      "reportDate": "2026-02-26",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000020/hrs-20260226.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000010",
+      "filingDate": "2026-02-06",
+      "reportDate": "2026-02-04",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000010/hrs-20260204.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000008",
+      "filingDate": "2026-01-29",
+      "reportDate": "2026-01-29",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000008/hrs-20260129.htm"
+    },
+    {
+      "accessionNumber": "0000202058-26-000002",
+      "filingDate": "2026-01-05",
+      "reportDate": "2026-01-02",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000002/hrs-20260102.htm"
+    },
+    {
+      "accessionNumber": "0000202058-25-000169",
+      "filingDate": "2025-10-30",
+      "reportDate": "2025-10-30",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000169/hrs-20251030.htm"
+    },
+    {
+      "accessionNumber": "0000202058-25-000147",
+      "filingDate": "2025-07-24",
+      "reportDate": "2025-07-24",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000147/hrs-20250724.htm"
+    },
+    {
+      "accessionNumber": "0000202058-25-000139",
+      "filingDate": "2025-07-18",
+      "reportDate": "2025-07-17",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000139/hrs-20250717.htm"
+    },
+    {
+      "accessionNumber": "0000202058-25-000126",
+      "filingDate": "2025-06-13",
+      "reportDate": "2025-06-13",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000126/hrs-20250613.htm"
+    }
+  ]
+}

@@ -65,8 +65,16 @@
     return transition().duration(ms).ease(easeCubicInOut);
   };
 
-  function tierNodeAlign(tierCap) {
-    return (node) => Math.max(0, Math.min(tierCap, tierCap - (node.tier ?? 0)));
+  /** Map present tiers to contiguous columns — avoids empty columns when maxTier > data depth. */
+  function buildTierNodeAlign(nodes) {
+    const tiers = [...new Set(nodes.map((n) => n.tier ?? 0))].sort((a, b) => a - b);
+    const minTier = tiers[0] ?? 0;
+    const maxTier = tiers[tiers.length - 1] ?? 0;
+    const span = Math.max(1, maxTier - minTier);
+    return (node, n) => {
+      const col = Math.round((1 - ((node.tier ?? 0) - minTier) / span) * (n - 1));
+      return Math.max(0, Math.min(n - 1, col));
+    };
   }
 
   /** Filled ribbon — edges stay vertical at node faces (thick stroke on curves looks misaligned). */
@@ -111,7 +119,7 @@
 
     const sankeyGen = sankey()
       .nodeId((d) => d.id)
-      .nodeAlign(tierNodeAlign(tierCap))
+      .nodeAlign(buildTierNodeAlign(nodes))
       .nodeWidth(20)
       .nodePadding(nodePadding)
       .iterations(96)

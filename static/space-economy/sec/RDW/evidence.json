@@ -1,0 +1,2928 @@
+{
+  "ticker": "RDW",
+  "topicId": "space-economy",
+  "count": 190,
+  "generatedAt": "2026-06-05T04:10:39.470Z",
+  "entries": [
+    {
+      "id": "RDW-kw-0",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 12621,
+      "excerpt": "…For a discussion of risks associated with our operations, refer to Item 1A. “Risk Factors.” Redwire’s strategy to accelerate growth includes bundled sales and increased levels of offering integrations, such as systems, payloads, space and airborne platforms and full mission solutions. Our strategy also includes strategic acquisitions to complement and expand the Company’s space and defense technologies. Our scale, reputation for quality and relationships allow us to be agile and innovative in our approach to pursuing growth through business models, partnerships and acquisitions. Effective December 1, 2025, the Company operated in t…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 12402,
+        "end": 13041
+      }
+    },
+    {
+      "id": "RDW-kw-1",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 13991,
+      "excerpt": "…ce Agency’s (“ESA”) Project for On-Board Autonomy (“PROBA”) missions, National Aeronautics and Space Administration’s (“NASA”) Double Asteroid Redirection Test (“DART”) and Artemis I lunar mission, and Space Force’s GPS Satellite program. Next-Generation Spacecraft Redwire’s spacecraft portfolio features a lineup of five platforms - SabreSat, Phantom, Hammerhead, Thresher, and Mako - designed to operate across multiple orbits ranging from Very Low Earth Orbit (“VLEO”), Low Earth Orbit (“LEO”), Medium Earth Orbit (“MEO”), Geostationary Orbit (“GEO”) and beyond GEO (“X-GEO”). For VLEO, Redwire offers two spacecraft: U.S.-built SaberSa…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 13771,
+        "end": 14411
+      }
+    },
+    {
+      "id": "RDW-kw-2",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 14818,
+      "excerpt": "…antages. Redwire is the prime mission integrator on the Defense Advanced Research Projects Agency’s (“DARPA”) Otter program in the U.S., which is leveraging the SabreSat platform to develop a revolutionary air-breathing satellite system and will demonstrate the use of novel electric propulsion in VLEO. Additionally, Redwire’s Phantom spacecraft is being used on ESA’s Skimsat VLEO program. In LEO, Redwire offers its U.S.-built Thresher spacecraft. In MEO and GEO, Redwire offers its U.S.-built Mako spacecraft. Both platforms are designed for challenging missions that address dynamic space operations where maneuverability, precision ac…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 14598,
+        "end": 15238
+      }
+    },
+    {
+      "id": "RDW-kw-3",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 14882,
+      "excerpt": "…Advanced Research Projects Agency’s (“DARPA”) Otter program in the U.S., which is leveraging the SabreSat platform to develop a revolutionary air-breathing satellite system and will demonstrate the use of novel electric propulsion in VLEO. Additionally, Redwire’s Phantom spacecraft is being used on ESA’s Skimsat VLEO program. In LEO, Redwire offers its U.S.-built Thresher spacecraft. In MEO and GEO, Redwire offers its U.S.-built Mako spacecraft. Both platforms are designed for challenging missions that address dynamic space operations where maneuverability, precision accuracy, and autonomous operation are critical. Mako is designed…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 14662,
+        "end": 15361
+      }
+    },
+    {
+      "id": "RDW-kw-4",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 15503,
+      "excerpt": "…. Mako is designed for high precision rendezvous proximity operations (“RPO”), docking, and in-space refueling. It has the capability to support dynamic space operations and the adaptability to host a variety of mission payloads. Additionally, Mako serves space situational awareness and scientific missions at GEO and X-GEO orbits. Thresher is also highly maneuverable and is designed for rapid response, having demonstrated the capability to deliver within one year after contract award. Redwire also provides the EU-based LEO Hammerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets space…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15283,
+        "end": 15923
+      }
+    },
+    {
+      "id": "RDW-kw-5",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 15832,
+      "excerpt": "…ts. Thresher is also highly maneuverable and is designed for rapid response, having demonstrated the capability to deliver within one year after contract award. Redwire also provides the EU-based LEO Hammerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We a…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15612,
+        "end": 16252
+      }
+    },
+    {
+      "id": "RDW-kw-6",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 15882,
+      "excerpt": "…signed for rapid response, having demonstrated the capability to deliver within one year after contract award. Redwire also provides the EU-based LEO Hammerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research mis…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15662,
+        "end": 16302
+      }
+    },
+    {
+      "id": "RDW-kw-7",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16003,
+      "excerpt": "…so provides the EU-based LEO Hammerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15784,
+        "end": 16423
+      }
+    },
+    {
+      "id": "RDW-kw-8",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16034,
+      "excerpt": "…mmerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15815,
+        "end": 16455
+      }
+    },
+    {
+      "id": "RDW-kw-9",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16044,
+      "excerpt": "…a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a smal…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 15824,
+        "end": 16464
+      }
+    },
+    {
+      "id": "RDW-kw-10",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16227,
+      "excerpt": "…ch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16008,
+        "end": 16647
+      }
+    },
+    {
+      "id": "RDW-kw-11",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16236,
+      "excerpt": "…unities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16017,
+        "end": 16656
+      }
+    },
+    {
+      "id": "RDW-kw-12",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16269,
+      "excerpt": "…hers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software that supports mission assessments…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16049,
+        "end": 16749
+      }
+    },
+    {
+      "id": "RDW-kw-13",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16346,
+      "excerpt": "…s accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software that supports mission assessments and design of new missions such as operation in VLEO and dynamic space opera…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16126,
+        "end": 16766
+      }
+    },
+    {
+      "id": "RDW-kw-14",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16466,
+      "excerpt": "…. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software that supports mission assessments and design of new missions such as operation in VLEO and dynamic space operations in GEO. Redwire’s digital engineering facilitates the modeling and simulation of prospective space architectures t…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16246,
+        "end": 16886
+      }
+    },
+    {
+      "id": "RDW-kw-15",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16489,
+      "excerpt": "…satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software that supports mission assessments and design of new missions such as operation in VLEO and dynamic space operations in GEO. Redwire’s digital engineering facilitates the modeling and simulation of prospective space architectures to support trade analysi…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16270,
+        "end": 16910
+      }
+    },
+    {
+      "id": "RDW-kw-16",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16605,
+      "excerpt": "…ities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software that supports mission assessments and design of new missions such as operation in VLEO and dynamic space operations in GEO. Redwire’s digital engineering facilitates the modeling and simulation of prospective space architectures to support trade analysis, operational concepts, and testing. Redwire leverages high-fidelity digital engineering tools and Page 4 model-bas…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 16386,
+        "end": 17026
+      }
+    },
+    {
+      "id": "RDW-kw-17",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 17339,
+      "excerpt": "…speed to market, and enable mission optimization. Redwire has a proprietary enterprise software suite that enables digital engineering and generation of high-fidelity, interactive modeling and simulations of individual components, as well as entire spacecraft and full constellations in a cloud-based environment. Large Space Infrastructure Redwire is a leading innovator in space infrastructure, enabling space mission providers with the foundational building blocks and integrated solutions needed for complex space missions in areas including power generation and spacecraft docking. Redwire is developing critical space infrastructure…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 17121,
+        "end": 17759
+      }
+    },
+    {
+      "id": "RDW-kw-18",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 17389,
+      "excerpt": "…Redwire has a proprietary enterprise software suite that enables digital engineering and generation of high-fidelity, interactive modeling and simulations of individual components, as well as entire spacecraft and full constellations in a cloud-based environment. Large Space Infrastructure Redwire is a leading innovator in space infrastructure, enabling space mission providers with the foundational building blocks and integrated solutions needed for complex space missions in areas including power generation and spacecraft docking. Redwire is developing critical space infrastructure that is impacting our terrestrial economy in areas…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 17170,
+        "end": 17809
+      }
+    },
+    {
+      "id": "RDW-kw-19",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 18668,
+      "excerpt": "…ite booms to serve as both the primary structural elements and the deployment actuator, and a modular photovoltaic blanket assembly that can be configured into a variety of solar array architectures. When configured for launch, ROSA stows into a compact cylindrical volume yielding efficient space utilization, which allows extremely large solar arrays to be stowed compactly within launch vehicles. Redwire’s power systems have successfully deployed on several flight missions in LEO, GEO, and deep space, including on the ISS, NASA’s Imaging X-ray Polarimetry Explorer (“IXPE”) mission, and NASA’s DART mission. Additionally, to enable so…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 18449,
+        "end": 19089
+      }
+    },
+    {
+      "id": "RDW-kw-20",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 18831,
+      "excerpt": "…ariety of solar array architectures. When configured for launch, ROSA stows into a compact cylindrical volume yielding efficient space utilization, which allows extremely large solar arrays to be stowed compactly within launch vehicles. Redwire’s power systems have successfully deployed on several flight missions in LEO, GEO, and deep space, including on the ISS, NASA’s Imaging X-ray Polarimetry Explorer (“IXPE”) mission, and NASA’s DART mission. Additionally, to enable some of humanity’s most advanced missions in LEO and deep space, Redwire has developed a state-of-the-art docking system, the International Berthing and Docking Mech…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 18612,
+        "end": 19252
+      }
+    },
+    {
+      "id": "RDW-kw-21",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 19842,
+      "excerpt": "…es as well as resource transfer through automated umbilical mating. Microgravity Development Microgravity provides unique conditions for scientific exploration which cannot be replicated on Earth. Redwire’s microgravity payloads are enabling next-generation capabilities and services, including space-based biotechnology applications, plant and animal science, in-space additive manufacturing, in-space advanced material manufacturing and support of human exploration and habitation. There are currently eleven active payload facilities built by Redwire on the ISS as of December 31, 2025. The microgravity environment enables certain produ…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 19622,
+        "end": 20262
+      }
+    },
+    {
+      "id": "RDW-kw-22",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 20140,
+      "excerpt": "…ce-based biotechnology applications, plant and animal science, in-space additive manufacturing, in-space advanced material manufacturing and support of human exploration and habitation. There are currently eleven active payload facilities built by Redwire on the ISS as of December 31, 2025. The microgravity environment enables certain products and materials to be manufactured with enhanced and/or differentiated properties that are not comparable to products manufactured on Earth. These products and materials include the production of pharmaceutical seed crystals used for drug development processes as pharmaceutical companies look to…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 19920,
+        "end": 20620
+      }
+    },
+    {
+      "id": "RDW-kw-23",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 20715,
+      "excerpt": "…or drug development processes as pharmaceutical companies look to deliver new, optimized treatments for patients on Earth. The Redwire Pharmaceutical In-space Laboratory – Bio-crystal Optimization eXperiment (“PIL-BOX”) payload offers pharmaceutical companies and researchers access to leverage the microgravity environment to grow crystals of protein-based pharmaceuticals and other key molecules. Redwire has launched 42 PIL-BOXes through December 31, 2025, for our partners including, but not limited to, Bristol Myers Squibb and Eli Lilly. Additionally, during 2025, Redwire entered into a licensing agreement with ExesaLibero Pharma, I…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 20495,
+        "end": 21135
+      }
+    },
+    {
+      "id": "RDW-kw-24",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 20906,
+      "excerpt": "…ation eXperiment (“PIL-BOX”) payload offers pharmaceutical companies and researchers access to leverage the microgravity environment to grow crystals of protein-based pharmaceuticals and other key molecules. Redwire has launched 42 PIL-BOXes through December 31, 2025, for our partners including, but not limited to, Bristol Myers Squibb and Eli Lilly. Additionally, during 2025, Redwire entered into a licensing agreement with ExesaLibero Pharma, Inc., which provides for Redwire to receive royalties from any commercial sales of resulting pharmaceutical products. In support of NASA’s Artemis program, we are also engaged in lunar researc…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 20686,
+        "end": 21326
+      }
+    },
+    {
+      "id": "RDW-kw-25",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 21891,
+      "excerpt": "…erm infrastructure to sustain humans on the moon, Mars, and beyond. Defense Tech Segment Business Strategy Redwire’s Defense Tech segment focuses on delivering combat-proven autonomous systems, optical sensors, advanced optics, resilient energy solutions and radio frequency payloads that provide intelligence, surveillance, and reconnaissance capabilities for customers including the U.S. Department of War (“DoW”, formerly known as the Department of Defense), U.S. Federal Civilian Agencies and allied governments across multiple domains. The Defense Tech segment has its origins in aeronautical pioneering, with a legacy of producing inn…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 21672,
+        "end": 22312
+      }
+    },
+    {
+      "id": "RDW-kw-26",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 21946,
+      "excerpt": "…and beyond. Defense Tech Segment Business Strategy Redwire’s Defense Tech segment focuses on delivering combat-proven autonomous systems, optical sensors, advanced optics, resilient energy solutions and radio frequency payloads that provide intelligence, surveillance, and reconnaissance capabilities for customers including the U.S. Department of War (“DoW”, formerly known as the Department of Defense), U.S. Federal Civilian Agencies and allied governments across multiple domains. The Defense Tech segment has its origins in aeronautical pioneering, with a legacy of producing innovative solutions that have advanced missions in countr…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 21727,
+        "end": 22366
+      }
+    },
+    {
+      "id": "RDW-kw-27",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 22939,
+      "excerpt": "…p means that our customers benefit from decades of inventive engineering and customized mission support. As the original equipment manufacturer (“OEM”) of the Stalker UAS, Penguin UAS, and Octopus line of optical gimbal payloads, Defense Tech offers a diverse ecosystem of products with global reach that includes manufacturing and flight test facilities in the U.S. and EU. On July 14, 2025, the Stalker UAS was granted an Authority to Operate by the Defense Innovation Unit and is now on the Defense Innovation Unit Blue UAS List, enabling streamlined deployment across U.S. government agencies. Combat-Proven UAS Redwire Defense Tech off…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 22719,
+        "end": 23359
+      }
+    },
+    {
+      "id": "RDW-kw-28",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 24139,
+      "excerpt": "…not limited to, the U.S. Marine Corps, U.S. Army, and Five Eyes partners. An adaptable small UAS (“sUAS”), the Stalker provides long-endurance, long-range mission support in a wide variety of environments. Network-based avionics support multiple payloads simultaneously, rapid payload integration, and allow for configuration flexibility. The Stalker Block 30 performs fully autonomous Vertical Take Off and Landing (“VTOL”) with no operator input required. Using either a solid oxide fuel cell (“SOFC”) or a rechargeable battery, the Stalker provides the endurance needed to complete complex aerial operations. As a leading provider of UAS…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 23919,
+        "end": 24559
+      }
+    },
+    {
+      "id": "RDW-kw-29",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 24165,
+      "excerpt": "…arine Corps, U.S. Army, and Five Eyes partners. An adaptable small UAS (“sUAS”), the Stalker provides long-endurance, long-range mission support in a wide variety of environments. Network-based avionics support multiple payloads simultaneously, rapid payload integration, and allow for configuration flexibility. The Stalker Block 30 performs fully autonomous Vertical Take Off and Landing (“VTOL”) with no operator input required. Using either a solid oxide fuel cell (“SOFC”) or a rechargeable battery, the Stalker provides the endurance needed to complete complex aerial operations. As a leading provider of UAS, Redwire Defense Tech con…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 23945,
+        "end": 24585
+      }
+    },
+    {
+      "id": "RDW-kw-30",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 24196,
+      "excerpt": "…e Eyes partners. An adaptable small UAS (“sUAS”), the Stalker provides long-endurance, long-range mission support in a wide variety of environments. Network-based avionics support multiple payloads simultaneously, rapid payload integration, and allow for configuration flexibility. The Stalker Block 30 performs fully autonomous Vertical Take Off and Landing (“VTOL”) with no operator input required. Using either a solid oxide fuel cell (“SOFC”) or a rechargeable battery, the Stalker provides the endurance needed to complete complex aerial operations. As a leading provider of UAS, Redwire Defense Tech continuously enhances the performa…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 23976,
+        "end": 24616
+      }
+    },
+    {
+      "id": "RDW-kw-31",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 25041,
+      "excerpt": "…rational deployment. The Stalker Block 40 is expected to provide a major performance enhancement to the field-proven Stalker Block 30. Through a series of subsystem upgrades, Redwire has doubled the flight endurance and payload capacity of the base Stalker system, closing the gap between the capabilities of sUAS and large UAS. With the flexibility and adaptability to host a wide variety of configurations, the Stalker Block 40 should not only meet the demanding mission challenges currently faced by today’s UAS but anticipates potential issues facing the battlefields of the future. The Penguin C Mk2 is a long-endurance, long-range UAS…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 24821,
+        "end": 25521
+      }
+    },
+    {
+      "id": "RDW-kw-32",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 25531,
+      "excerpt": "…tly faced by today’s UAS but anticipates potential issues facing the battlefields of the future. The Penguin C Mk2 is a long-endurance, long-range UAS designed for demanding operations, with endurance of up to 25 hours (payload dependent) and a line-of-sight range of 180km. The Penguin C Mk2 is designed to be modular, and can be adapted to meet multiple mission needs with a wide variety of payloads (e.g., when equipped with advanced Electro-Optical/Infrared (“EO/IR”) payloads, the Penguin C Mk2 delivers long-rang surveillance solutions under even the most challenging of circumstances). Real-time or near real-time visual communicatio…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 25311,
+        "end": 25951
+      }
+    },
+    {
+      "id": "RDW-kw-33",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 25704,
+      "excerpt": "…operations, with endurance of up to 25 hours (payload dependent) and a line-of-sight range of 180km. The Penguin C Mk2 is designed to be modular, and can be adapted to meet multiple mission needs with a wide variety of payloads (e.g., when equipped with advanced Electro-Optical/Infrared (“EO/IR”) payloads, the Penguin C Mk2 delivers long-rang surveillance solutions under even the most challenging of circumstances). Real-time or near real-time visual communications allow decision-makers a situational awareness advantage while keeping operators out of harm’s way. Selected heritage for the Penguin C Mk2 includes the Ukraine Armed Forc…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 25485,
+        "end": 26124
+      }
+    },
+    {
+      "id": "RDW-kw-34",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 25783,
+      "excerpt": "…-sight range of 180km. The Penguin C Mk2 is designed to be modular, and can be adapted to meet multiple mission needs with a wide variety of payloads (e.g., when equipped with advanced Electro-Optical/Infrared (“EO/IR”) payloads, the Penguin C Mk2 delivers long-rang surveillance solutions under even the most challenging of circumstances). Real-time or near real-time visual communications allow decision-makers a situational awareness advantage while keeping operators out of harm’s way. Selected heritage for the Penguin C Mk2 includes the Ukraine Armed Forces, Latvia Ministry of Defense, and commercial operations, among others. As a f…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 25563,
+        "end": 26203
+      }
+    },
+    {
+      "id": "RDW-kw-35",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 26511,
+      "excerpt": "…and anywhere, which enables rapid deployment to support critical missions, even when the environment is harsh or contested. Modular and adaptable, the Penguin C VTOL meets a variety of mission needs with a wide range of payload options (e.g., when equipped with advanced EO/IR payloads, the Penguin C VTOL is well-equipped to perform observation, inspection, and surveillance tasks such as day and nighttime object tracking and small moving target indication). Selected heritage for the Penguin C VTOL includes the Latvia Ministry of Defense, Lithuania Ministry of Defense, and Royal Saudi Air Force, among others. Sensors and Payloads Our…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 26291,
+        "end": 26990
+      }
+    },
+    {
+      "id": "RDW-kw-36",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 26568,
+      "excerpt": "…ritical missions, even when the environment is harsh or contested. Modular and adaptable, the Penguin C VTOL meets a variety of mission needs with a wide range of payload options (e.g., when equipped with advanced EO/IR payloads, the Penguin C VTOL is well-equipped to perform observation, inspection, and surveillance tasks such as day and nighttime object tracking and small moving target indication). Selected heritage for the Penguin C VTOL includes the Latvia Ministry of Defense, Lithuania Ministry of Defense, and Royal Saudi Air Force, among others. Sensors and Payloads Our sensor and payload offerings support multi-domain mission…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 26349,
+        "end": 27049
+      }
+    },
+    {
+      "id": "RDW-kw-37",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 26918,
+      "excerpt": "…object tracking and small moving target indication). Selected heritage for the Penguin C VTOL includes the Latvia Ministry of Defense, Lithuania Ministry of Defense, and Royal Saudi Air Force, among others. Sensors and Payloads Our sensor and payload offerings support multi-domain missions ranging from airborne intelligence, surveillance, and reconnaissance (“ISR”) to space-based guidance, navigation, and control (“GN&C”) systems. Redwire is the OEM for the Octopus line of ISR and optical gimbal camera payloads for airborne applications. These optronic surveillance systems are developed for either crewed or uncrewed systems and off…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 26699,
+        "end": 27338
+      }
+    },
+    {
+      "id": "RDW-kw-38",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 26942,
+      "excerpt": "…ll moving target indication). Selected heritage for the Penguin C VTOL includes the Latvia Ministry of Defense, Lithuania Ministry of Defense, and Royal Saudi Air Force, among others. Sensors and Payloads Our sensor and payload offerings support multi-domain missions ranging from airborne intelligence, surveillance, and reconnaissance (“ISR”) to space-based guidance, navigation, and control (“GN&C”) systems. Redwire is the OEM for the Octopus line of ISR and optical gimbal camera payloads for airborne applications. These optronic surveillance systems are developed for either crewed or uncrewed systems and offer robust capabilities a…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 26722,
+        "end": 27362
+      }
+    },
+    {
+      "id": "RDW-kw-39",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 27207,
+      "excerpt": "…ns ranging from airborne intelligence, surveillance, and reconnaissance (“ISR”) to space-based guidance, navigation, and control (“GN&C”) systems. Redwire is the OEM for the Octopus line of ISR and optical gimbal camera payloads for airborne applications. These optronic surveillance systems are developed for either crewed or uncrewed systems and offer robust capabilities across missions and vehicles. Designed to face harsh conditions, Octopus payloads are ruggedized with an advanced magnesium structure assembled in a protected, fully sealed, dry gas environment. Operators using Octopus payloads receive accurate information through o…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 26987,
+        "end": 27627
+      }
+    },
+    {
+      "id": "RDW-kw-40",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 27434,
+      "excerpt": "…s for airborne applications. These optronic surveillance systems are developed for either crewed or uncrewed systems and offer robust capabilities across missions and vehicles. Designed to face harsh conditions, Octopus payloads are ruggedized with an advanced magnesium structure assembled in a protected, fully sealed, dry gas environment. Operators using Octopus payloads receive accurate information through onboard data enhancement including overlays, digital zoom, and recording. A stabilized picture is crucial to providing accurate data, and our systems come pre-installed with software stabilization and roll correction, ensuring h…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 27214,
+        "end": 27854
+      }
+    },
+    {
+      "id": "RDW-kw-41",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 27580,
+      "excerpt": "…across missions and vehicles. Designed to face harsh conditions, Octopus payloads are ruggedized with an advanced magnesium structure assembled in a protected, fully sealed, dry gas environment. Operators using Octopus payloads receive accurate information through onboard data enhancement including overlays, digital zoom, and recording. A stabilized picture is crucial to providing accurate data, and our systems come pre-installed with software stabilization and roll correction, ensuring high-definition imagery that is normally reserved for much larger, heavier, and more expensive gimbals requiring a larger and more expensive aircra…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 27361,
+        "end": 28000
+      }
+    },
+    {
+      "id": "RDW-kw-42",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28011,
+      "excerpt": "…led with software stabilization and roll correction, ensuring high-definition imagery that is normally reserved for much larger, heavier, and more expensive gimbals requiring a larger and more expensive aircraft. Page 6 Satellites that go into orbit generally require sensors and avionics systems. Redwire has developed advanced capabilities in these critical subsectors of the space supply chain with more than 50 years of on-orbit heritage. We provide a variety of space-qualified sensors and avionics systems, including a comprehensive range of sensors, such as star trackers and sun sensors that are critical for accurate navigation and…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 27791,
+        "end": 28491
+      }
+    },
+    {
+      "id": "RDW-kw-43",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28071,
+      "excerpt": "…g high-definition imagery that is normally reserved for much larger, heavier, and more expensive gimbals requiring a larger and more expensive aircraft. Page 6 Satellites that go into orbit generally require sensors and avionics systems. Redwire has developed advanced capabilities in these critical subsectors of the space supply chain with more than 50 years of on-orbit heritage. We provide a variety of space-qualified sensors and avionics systems, including a comprehensive range of sensors, such as star trackers and sun sensors that are critical for accurate navigation and control of spacecraft and camera systems. We specialize in…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 27851,
+        "end": 28550
+      }
+    },
+    {
+      "id": "RDW-kw-44",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28286,
+      "excerpt": "…and avionics systems. Redwire has developed advanced capabilities in these critical subsectors of the space supply chain with more than 50 years of on-orbit heritage. We provide a variety of space-qualified sensors and avionics systems, including a comprehensive range of sensors, such as star trackers and sun sensors that are critical for accurate navigation and control of spacecraft and camera systems. We specialize in core avionics, such as scalable power distribution, radio frequency front ends, and on-board computing capabilities, with an emphasis on reliability, quality, and radiation tolerance. These specialized avionics and…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28067,
+        "end": 28765
+      }
+    },
+    {
+      "id": "RDW-kw-45",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28496,
+      "excerpt": "…nsors and avionics systems, including a comprehensive range of sensors, such as star trackers and sun sensors that are critical for accurate navigation and control of spacecraft and camera systems. We specialize in core avionics, such as scalable power distribution, radio frequency front ends, and on-board computing capabilities, with an emphasis on reliability, quality, and radiation tolerance. These specialized avionics and sensors can be applied across multiple space environments, including LEO, GEO, Cis-lunar, and deep space missions. Spacecraft payloads are the set of instruments that perform the satellite’s primary mission suc…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28277,
+        "end": 28977
+      }
+    },
+    {
+      "id": "RDW-kw-46",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28693,
+      "excerpt": "…We specialize in core avionics, such as scalable power distribution, radio frequency front ends, and on-board computing capabilities, with an emphasis on reliability, quality, and radiation tolerance. These specialized avionics and sensors can be applied across multiple space environments, including LEO, GEO, Cis-lunar, and deep space missions. Spacecraft payloads are the set of instruments that perform the satellite’s primary mission such as sensing, imaging, and communication. Redwire is engaged in payloads for infrared imaging, space situational awareness, positioning, navigation and timing (“PNT”), and radio frequency (“RF”) co…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28474,
+        "end": 29113
+      }
+    },
+    {
+      "id": "RDW-kw-47",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28832,
+      "excerpt": "…an emphasis on reliability, quality, and radiation tolerance. These specialized avionics and sensors can be applied across multiple space environments, including LEO, GEO, Cis-lunar, and deep space missions. Spacecraft payloads are the set of instruments that perform the satellite’s primary mission such as sensing, imaging, and communication. Redwire is engaged in payloads for infrared imaging, space situational awareness, positioning, navigation and timing (“PNT”), and radio frequency (“RF”) communications. RF communications systems are used as a primary payload, such as a link in a communications chain; to transport data to groun…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28613,
+        "end": 29252
+      }
+    },
+    {
+      "id": "RDW-kw-48",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28885,
+      "excerpt": "…olerance. These specialized avionics and sensors can be applied across multiple space environments, including LEO, GEO, Cis-lunar, and deep space missions. Spacecraft payloads are the set of instruments that perform the satellite’s primary mission such as sensing, imaging, and communication. Redwire is engaged in payloads for infrared imaging, space situational awareness, positioning, navigation and timing (“PNT”), and radio frequency (“RF”) communications. RF communications systems are used as a primary payload, such as a link in a communications chain; to transport data to ground from other key sensor payloads; a primary sensor by…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28665,
+        "end": 29365
+      }
+    },
+    {
+      "id": "RDW-kw-49",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 28980,
+      "excerpt": "…nts, including LEO, GEO, Cis-lunar, and deep space missions. Spacecraft payloads are the set of instruments that perform the satellite’s primary mission such as sensing, imaging, and communication. Redwire is engaged in payloads for infrared imaging, space situational awareness, positioning, navigation and timing (“PNT”), and radio frequency (“RF”) communications. RF communications systems are used as a primary payload, such as a link in a communications chain; to transport data to ground from other key sensor payloads; a primary sensor by sensing the emissions from other users; or as a secondary payload in order to transmit and rec…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28761,
+        "end": 29401
+      }
+    },
+    {
+      "id": "RDW-kw-50",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29175,
+      "excerpt": "…n. Redwire is engaged in payloads for infrared imaging, space situational awareness, positioning, navigation and timing (“PNT”), and radio frequency (“RF”) communications. RF communications systems are used as a primary payload, such as a link in a communications chain; to transport data to ground from other key sensor payloads; a primary sensor by sensing the emissions from other users; or as a secondary payload in order to transmit and receive key spacecraft telemetry and control signals. These systems support a variety of satellite applications, including encrypted tactical communications, signal detection and positioning. We hav…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 28955,
+        "end": 29595
+      }
+    },
+    {
+      "id": "RDW-kw-51",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29276,
+      "excerpt": "…igation and timing (“PNT”), and radio frequency (“RF”) communications. RF communications systems are used as a primary payload, such as a link in a communications chain; to transport data to ground from other key sensor payloads; a primary sensor by sensing the emissions from other users; or as a secondary payload in order to transmit and receive key spacecraft telemetry and control signals. These systems support a variety of satellite applications, including encrypted tactical communications, signal detection and positioning. We have also invested in an RF testing capability that was custom tailored to the specific needs of small s…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29056,
+        "end": 29696
+      }
+    },
+    {
+      "id": "RDW-kw-52",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29364,
+      "excerpt": "…systems are used as a primary payload, such as a link in a communications chain; to transport data to ground from other key sensor payloads; a primary sensor by sensing the emissions from other users; or as a secondary payload in order to transmit and receive key spacecraft telemetry and control signals. These systems support a variety of satellite applications, including encrypted tactical communications, signal detection and positioning. We have also invested in an RF testing capability that was custom tailored to the specific needs of small satellite communications and sensor payloads in proliferated LEO. One example of an opera…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29146,
+        "end": 29785
+      }
+    },
+    {
+      "id": "RDW-kw-53",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29486,
+      "excerpt": "…ey sensor payloads; a primary sensor by sensing the emissions from other users; or as a secondary payload in order to transmit and receive key spacecraft telemetry and control signals. These systems support a variety of satellite applications, including encrypted tactical communications, signal detection and positioning. We have also invested in an RF testing capability that was custom tailored to the specific needs of small satellite communications and sensor payloads in proliferated LEO. One example of an operationally-fielded Redwire payload is a Link-16 compatible RF system which successfully demonstrated the first-ever transmis…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29266,
+        "end": 29906
+      }
+    },
+    {
+      "id": "RDW-kw-54",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29695,
+      "excerpt": "…variety of satellite applications, including encrypted tactical communications, signal detection and positioning. We have also invested in an RF testing capability that was custom tailored to the specific needs of small satellite communications and sensor payloads in proliferated LEO. One example of an operationally-fielded Redwire payload is a Link-16 compatible RF system which successfully demonstrated the first-ever transmission of a Link-16 signal from space to ground. Such antennas are used as part of a multi-domain network employed by the North Atlantic Treaty Organization (“NATO”) members and other nations, which can be used…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29476,
+        "end": 30115
+      }
+    },
+    {
+      "id": "RDW-kw-55",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29731,
+      "excerpt": "…ncluding encrypted tactical communications, signal detection and positioning. We have also invested in an RF testing capability that was custom tailored to the specific needs of small satellite communications and sensor payloads in proliferated LEO. One example of an operationally-fielded Redwire payload is a Link-16 compatible RF system which successfully demonstrated the first-ever transmission of a Link-16 signal from space to ground. Such antennas are used as part of a multi-domain network employed by the North Atlantic Treaty Organization (“NATO”) members and other nations, which can be used to facilitate the exchange of jam-re…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29511,
+        "end": 30151
+      }
+    },
+    {
+      "id": "RDW-kw-56",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29809,
+      "excerpt": "…We have also invested in an RF testing capability that was custom tailored to the specific needs of small satellite communications and sensor payloads in proliferated LEO. One example of an operationally-fielded Redwire payload is a Link-16 compatible RF system which successfully demonstrated the first-ever transmission of a Link-16 signal from space to ground. Such antennas are used as part of a multi-domain network employed by the North Atlantic Treaty Organization (“NATO”) members and other nations, which can be used to facilitate the exchange of jam-resistant, encrypted tactical data from space in near-real time between military…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29589,
+        "end": 30289
+      }
+    },
+    {
+      "id": "RDW-kw-57",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29958,
+      "excerpt": "…s in proliferated LEO. One example of an operationally-fielded Redwire payload is a Link-16 compatible RF system which successfully demonstrated the first-ever transmission of a Link-16 signal from space to ground. Such antennas are used as part of a multi-domain network employed by the North Atlantic Treaty Organization (“NATO”) members and other nations, which can be used to facilitate the exchange of jam-resistant, encrypted tactical data from space in near-real time between military aircraft, ships and ground forces. Link-16 antennas, including ours, are critical to U.S. commercial and defense applications with specialized appli…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 29738,
+        "end": 30378
+      }
+    },
+    {
+      "id": "RDW-kw-58",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 30273,
+      "excerpt": "…ization (“NATO”) members and other nations, which can be used to facilitate the exchange of jam-resistant, encrypted tactical data from space in near-real time between military aircraft, ships and ground forces. Link-16 antennas, including ours, are critical to U.S. commercial and defense applications with specialized applications focused on serving environments that have historically been difficult to close beyond line-of-sight links. Redwire is also delivering multiple advanced RF payloads for a constellation of satellites for a national security satellite constellation in LEO. Backlog We view growth in backlog as a key measure of…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 30053,
+        "end": 30753
+      }
+    },
+    {
+      "id": "RDW-kw-59",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 30541,
+      "excerpt": "…ommercial and defense applications with specialized applications focused on serving environments that have historically been difficult to close beyond line-of-sight links. Redwire is also delivering multiple advanced RF payloads for a constellation of satellites for a national security satellite constellation in LEO. Backlog We view growth in backlog as a key measure of our business development. As of December 31, 2025, our total contracted backlog was $411.2 million of which $299.8 million related to the Space segment and $111.4 million related to the Defense Tech segment. Contracted backlog represents the estimated dollar value of…",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "keyword",
+      "range": {
+        "start": 30321,
+        "end": 31021
+      }
+    },
+    {
+      "id": "62b17eff5329c5e5",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 914,
+      "excerpt": "ating out of 28 locations in North America and Europe, Redwire serves a diverse set of domestic and international customers. For a discussion of risks associated with our operations, refer to Item 1A. “Risk Factors.” Redwire’s strategy to accelerate growth includes bundled sales and increased levels of offering integrations, such as systems, payloads, space and airborne platforms and full mission solutions. Our strategy also includes strategic acquisitions to complement and expand the Company’s",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 12277,
+        "end": 12836
+      }
+    },
+    {
+      "id": "a4336898cd77512a",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 1765,
+      "excerpt": "e B – Summary of Significant Accounting Policies and Note U – Segment Reporting of the accompanying notes to the consolidated financial statements for additional information regarding this conclusion. Space Segment Business Strategy Redwire’s Space segment focuses on delivering next-generation spacecraft, large space infrastructure, and microgravity capabilities to serve civil, national security, and commercial space customers globally. Redwire’s core space offerings are flight-proven and have s",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 13128,
+        "end": 13628
+      }
+    },
+    {
+      "id": "4dcee4ab2539c87e",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 2446,
+      "excerpt": "rd Autonomy (“PROBA”) missions, National Aeronautics and Space Administration’s (“NASA”) Double Asteroid Redirection Test (“DART”) and Artemis I lunar mission, and Space Force’s GPS Satellite program. Next-Generation Spacecraft Redwire’s spacecraft portfolio features a lineup of five platforms - SabreSat, Phantom, Hammerhead, Thresher, and Mako - designed to operate across multiple orbits ranging from Very Low Earth Orbit (“VLEO”), Low Earth Orbit (“LEO”), Medium Earth Orbit (“MEO”), Geostationa",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 13809,
+        "end": 14309
+      }
+    },
+    {
+      "id": "80a27a0a374e73e5",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 3426,
+      "excerpt": "revolutionary air-breathing satellite system and will demonstrate the use of novel electric propulsion in VLEO. Additionally, Redwire’s Phantom spacecraft is being used on ESA’s Skimsat VLEO program. In LEO, Redwire offers its U.S.-built Thresher spacecraft. In MEO and GEO, Redwire offers its U.S.-built Mako spacecraft. Both platforms are designed for challenging missions that address dynamic space operations where maneuverability, precision accuracy, and autonomous operation are critical. Mako",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 14790,
+        "end": 15349
+      }
+    },
+    {
+      "id": "b7580fbd0224bb97",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 4209,
+      "excerpt": "cientific missions at GEO and X-GEO orbits. Thresher is also highly maneuverable and is designed for rapid response, having demonstrated the capability to deliver within one year after contract award. Redwire also provides the EU-based LEO Hammerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead pl",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 15572,
+        "end": 16072
+      }
+    },
+    {
+      "id": "930f48cbcc9a461d",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 5061,
+      "excerpt": "arth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions. Redwire also provides software that supports mission assessments and design of new missions such as operation in VLEO and dynamic space operations in GEO. Redwire’s digital engineering facilitates the modeling and simulation of prospective space architectures to support trade analysis, operational",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 16424,
+        "end": 16983
+      }
+    },
+    {
+      "id": "ec00943a4be71410",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 5870,
+      "excerpt": "s digital engineering and generation of high-fidelity, interactive modeling and simulations of individual components, as well as entire spacecraft and full constellations in a cloud-based environment. Large Space Infrastructure Redwire is a leading innovator in space infrastructure, enabling space mission providers with the foundational building blocks and integrated solutions needed for complex space missions in areas including power generation and spacecraft docking. Redwire is developing crit",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 17233,
+        "end": 17733
+      }
+    },
+    {
+      "id": "f417c7bf516dfe77",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 6749,
+      "excerpt": "roprietary technologies, technical experience, and large-scale production facilities enable the Company to design, build, and deliver competitive power generation solutions tailored to customer needs. Redwire’s patented and award-winning Roll-Out Solar Array (“ROSA”) technology features an innovative “roll-out” design that uses composite booms to serve as both the primary structural elements and the deployment actuator, and a modular photovoltaic blanket assembly that can be configured into a va",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 18112,
+        "end": 18612
+      }
+    },
+    {
+      "id": "283082e8574183bc",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 8255,
+      "excerpt": "odules as well as resource transfer through automated umbilical mating. Microgravity Development Microgravity provides unique conditions for scientific exploration which cannot be replicated on Earth. Redwire’s microgravity payloads are enabling next-generation capabilities and services, including space-based biotechnology applications, plant and animal science, in-space additive manufacturing, in-space advanced material manufacturing and support of human exploration and habitation. There are cu",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 19618,
+        "end": 20118
+      }
+    },
+    {
+      "id": "553f7668f2b6d89a",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 9054,
+      "excerpt": "ts and materials include the production of pharmaceutical seed crystals used for drug development processes as pharmaceutical companies look to deliver new, optimized treatments for patients on Earth. The Redwire Pharmaceutical In-space Laboratory – Bio-crystal Optimization eXperiment (“PIL-BOX”) payload offers pharmaceutical companies and researchers access to leverage the microgravity environment to grow crystals of protein-based pharmaceuticals and other key molecules. Redwire has launched 42",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 20417,
+        "end": 20977
+      }
+    },
+    {
+      "id": "68aa1dde4b564bdf",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 10055,
+      "excerpt": ". Redwire is developing Mason, which seeks to build critical infrastructure on the surface of the Moon, including shielding structures (e.g., berms), landing pads, roads, and foundations for habitats. These developments aim to aid in establishing long-term infrastructure to sustain humans on the moon, Mars, and beyond. Defense Tech Segment Business Strategy Redwire’s Defense Tech segment focuses on delivering combat-proven autonomous systems, optical sensors, advanced optics, resilient energy so",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 21418,
+        "end": 21918
+      }
+    },
+    {
+      "id": "4e0cb10bd84896dd",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 10888,
+      "excerpt": "s in aeronautical pioneering, with a legacy of producing innovative solutions that have advanced missions in countries around the world, with products currently deployed in approximately 80 countries. With nearly three decades of experience helping customers gain a critical advantage by harnessing the latest Uncrewed Aerial System (“UAS”) Page 5 technology for the military, first responders, commercial, and academia, Defense Tech’s rich history of proven leadership means that our customers benef",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 22251,
+        "end": 22751
+      }
+    },
+    {
+      "id": "fdc6e7e75c53ea4a",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 11861,
+      "excerpt": "ovation Unit Blue UAS List, enabling streamlined deployment across U.S. government agencies. Combat-Proven UAS Redwire Defense Tech offers UASs that are purpose built to meet real-world mission needs. The Stalker series and Penguin series feature mission-driven technology and multi-mission flexibility that have been proven successful in even the most austere environments. With low logistics footprints, these aircraft can be deployed quickly and easily to provide rapid response for time-critical",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 23224,
+        "end": 23783
+      }
+    },
+    {
+      "id": "4ca0391203488acd",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 12813,
+      "excerpt": "multaneously, rapid payload integration, and allow for configuration flexibility. The Stalker Block 30 performs fully autonomous Vertical Take Off and Landing (“VTOL”) with no operator input required. Using either a solid oxide fuel cell (“SOFC”) or a rechargeable battery, the Stalker provides the endurance needed to complete complex aerial operations. As a leading provider of UAS, Redwire Defense Tech continuously enhances the performance of its products based on direct user feedback and years",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 24176,
+        "end": 24735
+      }
+    },
+    {
+      "id": "0a1939bf9d63d7db",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 13586,
+      "excerpt": "ck 30. Through a series of subsystem upgrades, Redwire has doubled the flight endurance and payload capacity of the base Stalker system, closing the gap between the capabilities of sUAS and large UAS. With the flexibility and adaptability to host a wide variety of configurations, the Stalker Block 40 should not only meet the demanding mission challenges currently faced by today’s UAS but anticipates potential issues facing the battlefields of the future. The Penguin C Mk2 is a long-endurance, lo",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 24949,
+        "end": 25449
+      }
+    },
+    {
+      "id": "17d61614bd6e9a78",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 14489,
+      "excerpt": "under even the most challenging of circumstances). Real-time or near real-time visual communications allow decision-makers a situational awareness advantage while keeping operators out of harm’s way. Selected heritage for the Penguin C Mk2 includes the Ukraine Armed Forces, Latvia Ministry of Defense, and commercial operations, among others. As a fully-automated, long-endurance UAS, the Penguin C VTOL has the ability to take off and land anywhere, which enables rapid deployment to support critic",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 25853,
+        "end": 26353
+      }
+    },
+    {
+      "id": "23cbc180db6fd2f4",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 15342,
+      "excerpt": "tracking and small moving target indication). Selected heritage for the Penguin C VTOL includes the Latvia Ministry of Defense, Lithuania Ministry of Defense, and Royal Saudi Air Force, among others. Sensors and Payloads Our sensor and payload offerings support multi-domain missions ranging from airborne intelligence, surveillance, and reconnaissance (“ISR”) to space-based guidance, navigation, and control (“GN&C”) systems. Redwire is the OEM for the Octopus line of ISR and optical gimbal camera",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 26706,
+        "end": 27266
+      }
+    },
+    {
+      "id": "76ea067e9ddbe8f8",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 16136,
+      "excerpt": "mbled in a protected, fully sealed, dry gas environment. Operators using Octopus payloads receive accurate information through onboard data enhancement including overlays, digital zoom, and recording. A stabilized picture is crucial to providing accurate data, and our systems come pre-installed with software stabilization and roll correction, ensuring high-definition imagery that is normally reserved for much larger, heavier, and more expensive gimbals requiring a larger and more expensive aircr",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 27499,
+        "end": 27999
+      }
+    },
+    {
+      "id": "8c5707b376f0bd8d",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 17111,
+      "excerpt": "We specialize in core avionics, such as scalable power distribution, radio frequency front ends, and on-board computing capabilities, with an emphasis on reliability, quality, and radiation tolerance. These specialized avionics and sensors can be applied across multiple space environments, including LEO, GEO, Cis-lunar, and deep space missions. Spacecraft payloads are the set of instruments that perform the satellite’s primary mission such as sensing, imaging, and communication. Redwire is engag",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 28474,
+        "end": 28974
+      }
+    },
+    {
+      "id": "469ede4979c8dbb8",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 18025,
+      "excerpt": "smit and receive key spacecraft telemetry and control signals. These systems support a variety of satellite applications, including encrypted tactical communications, signal detection and positioning. We have also invested in an RF testing capability that was custom tailored to the specific needs of small satellite communications and sensor payloads in proliferated LEO. One example of an operationally-fielded Redwire payload is a Link-16 compatible RF system which successfully demonstrated the f",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 29388,
+        "end": 29888
+      }
+    },
+    {
+      "id": "0e84ef0bbad24180",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 18929,
+      "excerpt": "ours, are critical to U.S. commercial and defense applications with specialized applications focused on serving environments that have historically been difficult to close beyond line-of-sight links. Redwire is also delivering multiple advanced RF payloads for a constellation of satellites for a national security satellite constellation in LEO. Backlog We view growth in backlog as a key measure of our business development. As of December 31, 2025, our total contracted backlog was $411.2 million",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 30293,
+        "end": 30852
+      }
+    },
+    {
+      "id": "5bd80b568341eb89",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 20668,
+      "excerpt": "ty agencies, including but not limited to, the U.S. Army, U.S. Marine Corps, U.S. Air Force, U.S. Space Force, DARPA, the National Reconnaissance Office (“NRO”), and allied national security agencies. Civil customers are generally governmental entities that are not funded by defense budgets. Redwire performs either directly or through large prime contractors for civil agencies, including but not limited to NASA, ESA, and European national space agencies. Finally, we deliver capabilities to vario",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 32031,
+        "end": 32531
+      }
+    },
+    {
+      "id": "03ca9f71149db3c2",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 22502,
+      "excerpt": "igher levels of expenditures for research and development. As such, we concentrate on the opportunities we believe are compatible with our resources, overall technological capabilities and objectives. Principal competitive factors in these market segments are product quality and reliability; technological capabilities, including reliable, resilient and innovative multi-domain offerings; service; past performance; ability to develop and implement complex, integrated solutions; ability to meet del",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 33865,
+        "end": 34365
+      }
+    },
+    {
+      "id": "5b534cb7946a966c",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 23415,
+      "excerpt": "of Rocket Labs), UAS providers, including AeroVironment, Inc., Insitu, A Boeing Company, and Shield AI; and in some instances against larger companies such as Anduril Industries and Northrop Grumman. As a result of our M&A strategy, the Company’s total accessible market has evolved over time and changed our competitive platform, which has historically included non-traditional aerospace and defense contractors and occasionally large aerospace and defense companies. Our customers could decide to p",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 34779,
+        "end": 35279
+      }
+    },
+    {
+      "id": "b315a48090b34e72",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 26139,
+      "excerpt": "r trade secret, patent, trademark, copyright, license, or other intellectual property right is of such importance that its loss, expiration or termination would have a material effect on our business. Raw Materials and Suppliers In manufacturing our products, we use our own production capabilities as well as a base of third-party suppliers and subcontractors. Certain aspects of our manufacturing activities require relatively scarce raw materials; occasionally, we have experienced difficulty in o",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 37502,
+        "end": 38002
+      }
+    },
+    {
+      "id": "c8aa715ffa2080f6",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 27057,
+      "excerpt": ", we are operating a space station to which FCC regulations apply. Similarly, certain of our sUAS operations require FCC authorization for radio frequency communications and command and control links. Operators of regulated space stations and sUAS platforms are required to hold and maintain compliance with proper licenses throughout the duration of any given mission. Page 8 In late 2025, the FCC issued a Notice of Proposed Rulemaking, titled \"Space Modernization for the 21st Century,\" which prop",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 38420,
+        "end": 38920
+      }
+    },
+    {
+      "id": "051d59323b30d045",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 27882,
+      "excerpt": "ancial requirements such as updated surety bond structures and space situational awareness data sharing for all commercial space operators and sUAS communications systems subject to U.S. jurisdiction. If finalized, these rules could require changes to our system designs and increase compliance costs in order to secure or maintain spectrum licensure for both spacecraft and sUAS platforms. National Oceanic and Atmospheric Administration Redwire spacecraft operate with space-qualified photographic",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 39245,
+        "end": 39804
+      }
+    },
+    {
+      "id": "a982bed4216af082",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 28779,
+      "excerpt": "tration As a participant in launch activities, we are indirectly subject to the license requirements of the Federal Aviation Administration’s (“FAA”) Office of Commercial Space Transportation (“AST”). The FAA regulates the airspace of the United States, through which launch vehicles must fly during launch to orbit. The AST office predominantly processes launch license requests submitted by launch vehicle operators, which include information on the constituent payloads flying on any given mission",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 40142,
+        "end": 40642
+      }
+    },
+    {
+      "id": "b2633047064c5523",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 32609,
+      "excerpt": "and business combinations with Genesis Park Acquisition Corp. (“GPAC”). For accounting purposes, the transaction was treated as a reverse recapitalization and GPAC was treated as the acquired company. GPAC was renamed Redwire Corporation and became the surviving public company. The Company has grown organically while also continuing to integrate several acquisitions from a fragmented landscape of space and defense focused technology companies with innovative capabilities and deep flight heritage",
+      "sectionId": "item_1_business_general_redwire_is_an_in",
+      "sectionHeader": "Item 1. Business General Redwire is an integrated space and defense technology company fo",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 43972,
+        "end": 44472
+      }
+    },
+    {
+      "id": "a84d8b2fa1486d06",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 3573,
+      "excerpt": "tory performance of our core offerings could have a material adverse effect on our business, financial condition and results of operations; • our results of operations and cash flows are substantially affected by our mix of fixed-price, cost-plus and time-and-material type contracts; • our cash flow and profitability could be reduced if expenditures are incurred prior to the final receipt of a contract; • we may in the future invest significant resources in developing new offerings and exploring",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 50944,
+        "end": 51504
+      }
+    },
+    {
+      "id": "4ba9cb02dbff943d",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 4573,
+      "excerpt": "cecraft and customer payloads into space; • we may experience a total loss of our technology and products and our customers’ payloads, if there is an accident on launch or during the journey into space; • our operating results may fluctuate significantly, which makes our future operating results difficult to predict and could cause our operating results to fall below expectations or any guidance that we may provide; • our margins and operating results may suffer if we experience unfavorable chan",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 51944,
+        "end": 52444
+      }
+    },
+    {
+      "id": "c0d59fc3dc198cdd",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 6153,
+      "excerpt": "government to complete its budget process for any government fiscal year and any resulting future government shutdowns, could have an adverse impact on our business; • we depend significantly on U.S. government contracts, which often are only partially funded, subject to immediate termination, and heavily regulated and audited; • disputes with our subcontractors or the inability of our subcontractors to perform, or our key suppliers to timely deliver our components, parts or services, could caus",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 53525,
+        "end": 54025
+      }
+    },
+    {
+      "id": "4497f641921201d9",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 10542,
+      "excerpt": "he accuracy and completeness of our financial reports. Risks Relating to the Company’s Business and Industry Our results could be affected by economic uncertainty, an economic slowdown or a recession. Heightened levels of inflation, market volatility and the potential worsening of macro-economic conditions, including slower growth or recession, changes to fiscal and monetary policy, high unemployment, tighter credit, higher interest rates and currency fluctuations, present a risk for us, our sup",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 57913,
+        "end": 58413
+      }
+    },
+    {
+      "id": "c8c5b98ba0f627eb",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 11315,
+      "excerpt": "onomy and abroad and may continue to do so in the future. The foregoing factors have affected, and may continue to affect, the Company’s cost of capital, financial condition and results of operations. Decreases in the availability and cost of supplies have caused, and may continue to cause, stress in our domestic and foreign supplier base and have resulted, and may continue to result, in shortages and delays for the procurement of materials, components and other supplies required for the Company",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 58686,
+        "end": 59186
+      }
+    },
+    {
+      "id": "5b57ae7e3ba527f0",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 13262,
+      "excerpt": "political and macroeconomic events and conditions could adversely affect our business, financial condition and operating results. Our international business is affected by changes in U.S. and non-U.S. national policies and priorities, and geopolitical relationships, any of which may be influenced by changes in the global threat environment, political leadership, geopolitical and economic uncertainties, war and terrorist events, the escalation or continuation of armed conflict, government budgets",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 60633,
+        "end": 61133
+      }
+    },
+    {
+      "id": "e3c2375828524aac",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 15719,
+      "excerpt": "tion and results of operations. The current U.S. administration issued tariff actions on imports from a broad set of countries, including Canada, Mexico, European Union member states, Japan and China. The effects of these tariffs cannot be predicted with certainty but there is a likelihood that they will create increased supply chain costs for certain inputs to the manufacture of our products and potentially cause shortages of certain raw materials or supplied components. In response to these ta",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 63090,
+        "end": 63590
+      }
+    },
+    {
+      "id": "835ce6b2f3b65a56",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 17469,
+      "excerpt": "current and projected business operations and our financial condition and results of operations. We regularly maintain cash balances with financial institutions in excess of the FDIC insurance limit. A failure of a depository institution to return deposits could impact access to our invested cash or cash equivalents and could adversely impact our operating liquidity and financial performance. Similarly, if our customers or suppliers experience liquidity issues as a result of financial institutio",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 64841,
+        "end": 65341
+      }
+    },
+    {
+      "id": "1193e94f01067438",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 18345,
+      "excerpt": "nancial services industry may lead to market-wide liquidity shortages, impair the ability of companies to access near-term working capital needs, and create additional market and economic uncertainty. There can be no assurance that future credit and financial market instability and a deterioration in confidence in economic conditions will not occur. Our general business strategy, including our ability to access existing debt under the terms of our Adams Street and JPMorgan credit agreements, may",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 65716,
+        "end": 66276
+      }
+    },
+    {
+      "id": "4fa88356f919a047",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 19118,
+      "excerpt": "ty of our customers and suppliers to obtain financing and could result in a decrease in or cancellation of orders for our products and services or impact the ability of our customers to make payments. If the current equity and credit markets deteriorate, or if adverse developments are experienced by financial institutions, it may cause short-term liquidity risk and also make any necessary debt or equity financing more difficult, more costly, and more dilutive. Failure to secure any necessary fin",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 66489,
+        "end": 66989
+      }
+    },
+    {
+      "id": "9402a58037ea7573",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 19877,
+      "excerpt": "history since our acquisition of Edge Autonomy and have a history of losses to date, which makes it difficult to forecast our revenue, plan our expenses and evaluate our business and future prospects. We operate in rapidly evolving industries that may not develop in a manner favorable to our business and we have operated for a limited period of time since our significant acquisition of Edge Autonomy and entry into the uncrewed aircraft systems (“UAS”) and autonomous technology solutions sector.",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 67248,
+        "end": 67807
+      }
+    },
+    {
+      "id": "4cb4bc5e991a61df",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 23409,
+      "excerpt": "hich in turn could have an adverse effect on our operations. The acquisition of Edge Autonomy or any other assets or businesses acquired in the future may not generate the financial results we expect. Acquisitions could result in the use of substantial amounts of cash, potentially dilutive issuances of equity securities and potential exposure to unknown liabilities of the acquired business. Moreover, the costs of identifying and consummating acquisitions may be significant. We may be unable to s",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 70780,
+        "end": 71280
+      }
+    },
+    {
+      "id": "68e9ecb555417dad",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 25293,
+      "excerpt": "t being realized in the timeframe currently anticipated or at all; • the inability to integrate product lines and capitalize on cross-selling opportunities; • the inability to resolve potential conflicts that may arise relating to customer, supplier and other important relationships of our businesses; • potential unknown liabilities and unforeseen increased expenses, delays or regulatory conditions associated with the acquisition; • failure to retain key management and other key employees of the",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 72664,
+        "end": 73224
+      }
+    },
+    {
+      "id": "3e091b17247bd3eb",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 26293,
+      "excerpt": "• the challenge of managing the expanded operations of a significantly larger and more complex company and coordinating geographically separate organizations; and • additional complexities of combining two companies with different histories, organizations, systems, operating procedures, compliance programs, products, markets, customers, technology, networks and other assets. For the foregoing reasons, it is possible that the integration process, including our integration of Edge Autonomy, could",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 73664,
+        "end": 74223
+      }
+    },
+    {
+      "id": "2772cd3ec676173e",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 38270,
+      "excerpt": "ct to competition based upon product design, performance, pricing, quality, and services. Our product performance, engineering expertise, and product quality have been important factors in our growth. While we try to maintain competitive pricing on those products that are directly comparable to products manufactured by others, in many instances our products will conform to more exacting specifications and carry a higher price than analogous products. Many of our customers and potential customers",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 85641,
+        "end": 86201
+      }
+    },
+    {
+      "id": "0334cfafc14a5993",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 39229,
+      "excerpt": "y and insource that technology development and production rather than purchase that capability from us as a supplier. This competition could result in fewer customer orders and a loss of market share. We compete domestically and internationally against space systems components providers and in some cases against large aerospace and defense companies. We may also face competition in the future from emerging low-cost competitors in Europe, India, Russia and China. Competition in our guidance, navi",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 86600,
+        "end": 87100
+      }
+    },
+    {
+      "id": "68f7350f1ecb1784",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 41060,
+      "excerpt": "e development of new technologies. Government support of this nature greatly reduces the commercial risks associated with space and UAS technology Page 17 development activities for these competitors. This market environment may result in increased pressures on our pricing and other competitive factors. We believe our ability to compete successfully in designing, engineering and manufacturing our core offerings at significantly reduced cost to customers does and will depend on a number of factor",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 88431,
+        "end": 88931
+      }
+    },
+    {
+      "id": "b5f0534ac3e4c68e",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 47127,
+      "excerpt": "cified exclusions, deductibles and material change limitations and it may be difficult to insure against certain risks, including on-orbit performance of an overall system or portion of such a system. In addition, problems and delays in development or delivery as a result of issues with respect to design, technology, licensing and patent rights, labor, learning curve assumptions or materials and components could prevent us from achieving contractual requirements. In many circumstances, we may re",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 94498,
+        "end": 94998
+      }
+    },
+    {
+      "id": "97780d186cf059a3",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 47956,
+      "excerpt": "nation we make as to whether to obtain insurance coverage will depend on a variety of factors, including the availability of insurance in the market, the cost of available insurance and other factors. Insurance market conditions or factors outside our control at the time we are in the market for the required insurance, such as unrelated launch failures and on-orbit failures, could cause premiums to be significantly higher than current estimates and could reduce amounts of available coverage. The",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 95327,
+        "end": 95887
+      }
+    },
+    {
+      "id": "bd35e21a08c1f1db",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 52376,
+      "excerpt": "changes do not continue to be successful or if we experience issues with planned manufacturing improvements or design and safety, we could experience issues or delays in increasing production further. If we encounter difficulties in scaling our delivery or servicing capabilities, if we fail to develop and successfully commercialize our core offerings, if we fail to develop such technologies before our competitors, or if such technologies fail to perform as expected, are inferior to those of our",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 99747,
+        "end": 100306
+      }
+    },
+    {
+      "id": "35fdfff5e70a5973",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 53278,
+      "excerpt": "sign and operating needs, or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of design and production. Our ability to produce our current and future space and defense technology offerings and other components of operation is dependent upon sufficient availability of raw materials and supplied components, which we secure from a limited number of suppliers. Our reliance on suppliers to secure raw mate",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 100649,
+        "end": 101149
+      }
+    },
+    {
+      "id": "92c713f50304d960",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 54204,
+      "excerpt": "go through the requalification process with any replacement third-party supplier, as well as the limitations imposed by the ITAR, the EAR, or other restrictions on transfer of sensitive technologies. Moreover, the imposition of tariffs on such raw materials or supplied components could have a material adverse effect on our operations. Prolonged disruptions in the supply of any of our key raw materials or components, difficulty qualifying new sources of supply, implementing use of replacement mat",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 101576,
+        "end": 102076
+      }
+    },
+    {
+      "id": "61e4d3f36146efcc",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 55171,
+      "excerpt": "effect on our business, financial condition and results of operation. We manufacture, design and engineer highly sophisticated space and defense technology offerings that depend on complex technology. While we have built operational processes to ensure that the design, manufacture, performance and servicing meet rigorous performance goals, there can be no assurance that we will not experience operational or process failures and other problems, including through manufacturing or design defects, o",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 102542,
+        "end": 103042
+      }
+    },
+    {
+      "id": "1d52f1762b5140ec",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 55984,
+      "excerpt": "other costs that may arise. While we are committed to producing safe products, there can be no assurance that our safety technology will be effective in preventing incidents related to product safety. Failure to ensure the safe operation of our products may affect our reputation and the sale of our products, which may ultimately have a materially adverse effect on our business operation and financial results. Further, the uncertainty of harsh space environmental risks, such as satellite ingestio",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 103355,
+        "end": 103855
+      }
+    },
+    {
+      "id": "b368e4ed85d16cca",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 56902,
+      "excerpt": "us other market and technological factors may cause the demand for our products and technologies to decline or be subject to variation and may cause variations in the market price of our common stock. Such issues with our core offerings could also result in our customers’ delaying or cancelling planned missions, increased regulation or other systemic consequences. Our inability to meet our mission assurance standards or adverse publicity affecting our reputation as a result of accidents, mechani",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 104273,
+        "end": 104773
+      }
+    },
+    {
+      "id": "1515534a685f1d24",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 61373,
+      "excerpt": "ject or, in certain circumstances, paying the entire cost of its replacement by another provider regardless of the size or foreseeability of any cost overruns that occur over the life of the contract. Because many of these contracts involve new technologies and applications and can last for years, unforeseen events, such as technological difficulties, fluctuations in the price of raw materials, a significant increase in inflation in the U.S. or other countries, problems with our suppliers and co",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 108744,
+        "end": 109244
+      }
+    },
+    {
+      "id": "40b675147927b090",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 70442,
+      "excerpt": "ges that could affect its further development, adoption, and use, and therefore our business. AI algorithms may be flawed. Datasets may be insufficient, of poor quality, or contain biased information. Inappropriate or controversial data practices by data scientists, engineers, and end-users of our systems could impair the acceptance of AI solutions. If the recommendations, forecasts, or analyses that AI applications assist in producing are deficient or inaccurate, we could be subjected to compet",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 117813,
+        "end": 118313
+      }
+    },
+    {
+      "id": "64d00184ccd9a24b",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 71220,
+      "excerpt": "s, privacy, employment, or other social issues, we may experience brand or reputational harm. We are dependent on third-party launch vehicles to launch our spacecraft and customer payloads into space. Currently there are only a handful of companies who offer launch services, and if this sector of the space industry does not grow or there is consolidation among these companies, this could result in a shortage of space on these launch vehicles and we may not be able to secure space on a launch veh",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 118591,
+        "end": 119091
+      }
+    },
+    {
+      "id": "2ee5e0d633fc8070",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 72156,
+      "excerpt": "f there is an accident on launch or during the journey into space. Although there have been and will continue to be technological advances in spaceflight, it is still an inherently dangerous activity. Explosions and other accidents on launch or during the flight have occurred and will likely occur in the future. If such incidents should occur, we will likely experience a total loss of our systems, products, technologies and services and our customers’ payloads. The total or partial loss of one o",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 119527,
+        "end": 120027
+      }
+    },
+    {
+      "id": "421fd851f2e44ea3",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 74822,
+      "excerpt": "would serve to increase our third or fourth quarter revenue, but will generally decrease profit margins for that quarter, as these activities generally are not as profitable as our typical offerings. Additional factors that may cause our financial results to fluctuate from quarter to quarter include those addressed elsewhere in this “Risk Factors” section and the following factors, among others: • the terms of customer contracts that affect the timing of revenue recognition; • variability in dem",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 122194,
+        "end": 122694
+      }
+    },
+    {
+      "id": "f597115f801e97e7",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 75822,
+      "excerpt": "cost of raw materials or supplied components critical for the manufacture and operation of our space and defense technology offerings; • variable purchasing patterns under blanket purchase agreements and other indefinite delivery/indefinite quantity (“IDIQ”) contracts; • restrictions on and delays related to the export of defense articles and services; • costs related to government inquiries, changes in governmental regulations or in the status of our regulatory approvals or applications; • stra",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 123193,
+        "end": 123693
+      }
+    },
+    {
+      "id": "f814086335d2fbfe",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 79612,
+      "excerpt": "strategy depends in part on developing reusable space and defense technology offerings. These reusable offerings and other space-related and UAS technology and systems will have a limited useful life. While we intend to design our core offerings for a certain lifespan, which corresponds to a number of cycles, there can be no assurance as to the actual operational life of a product or that the operational life of individual components will be consistent with its design life. A number of factors w",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 126983,
+        "end": 127483
+      }
+    },
+    {
+      "id": "5c727038419b3b7a",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 80421,
+      "excerpt": "ogy during launch, flight or in orbit. In addition, any improvements in technology may make our existing products, designs or any component of our core offerings prior to the end of its life obsolete. If our space and defense technology offerings and related equipment have shorter useful lives than we currently anticipate, this may lead to delays in increasing the rate of our follow-on work and new business, which would have a material adverse effect on our business, financial condition and resu",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 80600,
+        "end": 80680
+      }
+    },
+    {
+      "id": "163f18afb6590e4e",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 81236,
+      "excerpt": "ntory obsolete. Any continued improvements in spaceflight technology and space-related technology may make our existing products or any component of our products obsolete prior to the end of its life. If our equipment and materials have shorter useful lives than we currently anticipate, this may lead to delays in the manufacturing and design of UAS, space and spaceflight components and may also lead to a delay in commencing additional operations or increasing the rate of our operations, or great",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 128607,
+        "end": 129107
+      }
+    },
+    {
+      "id": "6ed7b05c88f489e0",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 82925,
+      "excerpt": "oper conduct of our employees or others working on behalf of us who have access to export controlled, classified or other sensitive information could also adversely affect our business and reputation. Page 24 If we are unable to protect sensitive information, including complying with evolving information security, data protection and privacy regulations, our customers or governmental authorities could investigate the adequacy of our threat mitigation and detection processes and procedures, and c",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 130296,
+        "end": 130796
+      }
+    },
+    {
+      "id": "e26df744cb9aa57d",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 83648,
+      "excerpt": "secrets and research, development and engineering know-how), and other third-party data (such as subcontractors, suppliers and vendors) could be compromised, which could adversely affect our business. Products and services provided to customers also carry cybersecurity risks, including risks that our products and services could be breached or fail to detect, prevent or combat attacks, the realization of which could result in losses to our customers and claims against us, and could harm our custo",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 131019,
+        "end": 131519
+      }
+    },
+    {
+      "id": "6e29631647d5d8fd",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 84531,
+      "excerpt": "on technology and infrastructure are vulnerable to cyber-attacks, malicious intrusions, breakdowns, destruction, loss of data privacy, breaches due to employee error, malfeasance or other disruptions. Given the persistence, sophistication, volume and novelty of threats we face, we may not be successful in preventing or mitigating an attack that could have a material adverse effect on us and the costs related to cyber or other security threats or disruptions may not be fully insured or indemnifie",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 131902,
+        "end": 132402
+      }
+    },
+    {
+      "id": "2a665a94df81b832",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 85503,
+      "excerpt": "r business. These entities are typically outside our control and may have access to our information with varying levels of security and cybersecurity resources, expertise, safeguards and capabilities. Their relationships with government contractors, including us, may increase the risk that they are targeted by the same threats we face, and such entities may not be adequately prepared to detect, mitigate and respond to such threats. Adversaries actively seek to exploit security and cybersecurity",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 132874,
+        "end": 133433
+      }
+    },
+    {
+      "id": "dbcef285853484eb",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 86391,
+      "excerpt": "ecurity incidents effectively or in a timely manner. We use proprietary software which we have developed in our space and defense technology offerings, which we seek to continually update and improve. This software supports UAS, autonomous technology, spacecraft and constellation developers in the design, development, deployment, management, maintenance and cyber protection of their assets. Replacing such systems is often time-consuming and expensive and can also be intrusive to daily business o",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 133762,
+        "end": 134262
+      }
+    },
+    {
+      "id": "5bdcb4f312693d5d",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 89288,
+      "excerpt": "ws and regulations could result in administrative, civil, commercial or criminal liabilities, including suspension or debarment from government contracts or suspension of our export/import privileges. New regulations and requirements, or changes to existing ones in the various countries in which we operate can significantly increase our costs and risks of doing business internationally. Changes in laws, regulations, political leadership and environment, and/or security risks may dramatically aff",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 136659,
+        "end": 137159
+      }
+    },
+    {
+      "id": "54c3e0365d156a8a",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 93629,
+      "excerpt": "S. DoW and certain other agencies of the U.S. government. As a cleared entity, we must comply with the requirements of NISPOM, and any other applicable U.S. government industrial security regulations. Certain of our facilities maintain a facility security clearance and many of our employees maintain a personal security clearance in order to access sensitive information necessary to the performance of our work on certain U.S. government contracts and subcontracts. Failure to comply with the NISPO",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 141000,
+        "end": 141500
+      }
+    },
+    {
+      "id": "28f0428cb3503e6f",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 98363,
+      "excerpt": "rly allocated to a specific contract will not be reimbursed, and such costs already reimbursed must be refunded. We have recorded contract revenue based on costs we expect to realize upon final audit. However, we do not know the outcome of any future audits and adjustments, and we may be required to materially reduce our revenue or profits upon completion and final negotiation of audits. Negative audit findings could also result in termination of a contract, forfeiture of profits, suspension of",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 145734,
+        "end": 146293
+      }
+    },
+    {
+      "id": "99211a51959a4768",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 99312,
+      "excerpt": "hose arrangements, the U.S. government could terminate the prime contractor for convenience without regard for our performance as a subcontractor. We can give no assurance that one or more of our U.S. government contracts will not be terminated under those circumstances. Also, we can give no assurance that we would be able to procure new contracts to offset the revenue or backlog lost as a result of any termination of our U.S. government contracts. Because a significant portion of our revenue is",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 146683,
+        "end": 147243
+      }
+    },
+    {
+      "id": "f24d04998f103aea",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 101213,
+      "excerpt": "cost-sharing and may not follow, or may follow only in part, standard U.S. government contracting practices and terms, such as the Federal Acquisition Regulation (“FAR”) and Cost Accounting Standards. Failure to comply with applicable regulations and requirements could lead to fines, penalties, repayments, or compensatory or treble damages, or suspension or debarment from U.S. government contracting or subcontracting for a period of time. Among the causes for debarment are violations of various",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 148584,
+        "end": 149143
+      }
+    },
+    {
+      "id": "64761e53efc79f4f",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 102977,
+      "excerpt": "issues, or war or civil unrest. In those locations where we have employees or operations, we may incur substantial costs to maintain the safety of our personnel, our remote assets and our information. As such international locations and the risks associated with them change rapidly, such precautions may be insufficient to avoid such risks including possible possession of our remote assets and related access to our intellectual property by unintended third parties and the possible loss of our per",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 150348,
+        "end": 150848
+      }
+    },
+    {
+      "id": "15035e3258d5e7f5",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 103665,
+      "excerpt": "timely deliver our components, parts or services, could cause our core offerings to be produced or delivered in an untimely or unsatisfactory manner. We engage subcontractors on many of our contracts. We may have disputes with our subcontractors, including regarding the quality and timeliness of work performed by the subcontractor, customer concerns about the subcontract or subcontractor, our failure to extend existing task orders or issue new task orders under a subcontract, our hiring of the p",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 151036,
+        "end": 151536
+      }
+    },
+    {
+      "id": "1e3643c2d38b391c",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 104641,
+      "excerpt": "ariffs recently imposed or applied in the future on certain materials and other trade issues may create or exacerbate existing materials shortages and may result in further supplier business closures. Our supply chain could also be disrupted by external events, such as natural disasters or other significant disruptions (including extreme weather conditions, medical epidemics, acts of terrorism, cyber-attacks and labor disputes), governmental actions and legislative or regulatory changes, includi",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 152012,
+        "end": 152512
+      }
+    },
+    {
+      "id": "906440144c749a40",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 105512,
+      "excerpt": "o develop alternative sources of supply on a cost-effective and timely basis could materially impair our ability to manufacture and deliver our space and defense technology offerings to our customers. We can give no assurances that we will be free from disputes with our subcontractors; material supply constraints or problems; or component, subsystems or services problems in the future. Also, our subcontractors and other suppliers may not be able to acquire or maintain the quality of the material",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 152883,
+        "end": 153383
+      }
+    },
+    {
+      "id": "6a82bf0f4dc85da7",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 106199,
+      "excerpt": "ults of operations and cash flows. In addition, in connection with our government contracts, we are required to procure certain materials, components and parts from supply sources approved by the U.S. government and we rely on our subcontractors and suppliers to comply with applicable laws, regulations and other requirements regarding procurement of counterfeit, unauthorized or otherwise non-compliant parts or materials, including parts or materials they supply to us, and in some circumstances,",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 153570,
+        "end": 154129
+      }
+    },
+    {
+      "id": "4e7a1b8e94b84ee0",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 109839,
+      "excerpt": "Bureau of Industry and Security, and economic sanctions administered by the Treasury Department’s Office of Foreign Assets Control. Similar laws that impact our business exist in other jurisdictions. These foreign trade controls prohibit, restrict, or regulate our ability to, directly or indirectly, export, deemed export, re-export, deemed re-export or transfer certain hardware, technical data, technology, software, or services to certain countries and territories, entities, and individuals, and",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 157211,
+        "end": 157771
+      }
+    },
+    {
+      "id": "9eb46092623908cd",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 113637,
+      "excerpt": "stringent legislation that impacts our business could require us to change the way we operate and could have a material adverse effect on our sales, profitability, cash flows and financial condition. Failure to comply with these laws, such as with respect to obtaining and maintaining licenses, certificates, authorizations and permits critical for the operation of our business, may result in civil penalties or private lawsuits, or the suspension or revocation of licenses, certificates, authorizat",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 161009,
+        "end": 161509
+      }
+    },
+    {
+      "id": "dfef30f0f315e42a",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 114435,
+      "excerpt": ". License approval can include an interagency review of safety, operational, national security, and foreign policy and international obligations implications, as well as a review of foreign ownership. Similarly, the UAS industry is subject to several complex regulatory frameworks including National Defense Authorization Act compliance requirements, Federal Aviation Regulations, Defense Federal Acquisition Regulations, International Traffic in Arms Regulations and Export Administration Regulation",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 161806,
+        "end": 162306
+      }
+    },
+    {
+      "id": "3c34ba2370e6e31b",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 128860,
+      "excerpt": "’s attention and resources, could delay future sales and introductions of new capabilities, result in our substituting inferior or more costly technologies into our business, or injure our reputation. In addition, we may be required to license additional technology from third parties to develop and market new capabilities, and we cannot assure you that we could license that technology on commercially reasonable terms or at all, and our inability to license this technology could harm our ability",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 176231,
+        "end": 176790
+      }
+    },
+    {
+      "id": "0895f97553adc6bf",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 129800,
+      "excerpt": "components are developed by third parties over whom we have no control. Any claims brought against us may result in limitations on our ability to use the intellectual property subject to these claims. We may be required to redesign our offerings or services or to obtain licenses from third parties to continue our offerings without substantially re-engineering such products or systems. Our intellectual property rights may be invalidated, circumvented, challenged, infringed or required to be licen",
+      "sectionId": "item_1a_risk_factors_readers_should_care",
+      "sectionHeader": "Item 1A. Risk Factors Readers should carefully consider the following risk factors, togeth",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 177171,
+        "end": 177671
+      }
+    },
+    {
+      "id": "be4f003e158892ff",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Risk Management and Strategy Redwire is committed to maintaining the trust and confidence of our stakeholders, which includes taking appropriate technical and organizational measures for maintaining information security and data privacy. Cybersecurity is critical to advancing our “Heritage plus Innovation” strategy and enabling our digital transformation efforts. We face a multitude of cybersecurity threats that range from attacks c",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "Item 1B. Unresolved Staff Comments None. Item 1C. Cybersecurity Risk Management and Strate",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 214905,
+        "end": 215405
+      }
+    },
+    {
+      "id": "79ec99669b3a674f",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 4. Mine Safety Disclosures Not Applicable. Page 41 PART II Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our common stock is listed on the NYSE and trades under the symbol “RDW”. As of February 23, 2026, there were 191,975,804 shares of common stock outstanding. Holders As of February 23, 2026, there were 15 holders of our common stock. These numbers do not include an estimate of the indeterminate numb",
+      "sectionId": "item_4_mine_safety_disclosures_not_appli",
+      "sectionHeader": "Item 4. Mine Safety Disclosures Not Applicable. Page 41 PART II Item 5. Market for Regist",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 226615,
+        "end": 227115
+      }
+    },
+    {
+      "id": "bd4ac21801510a6d",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 826,
+      "excerpt": "ion of our Board and will depend on, among other things, our results of operations, financial condition, cash requirements, contractual restrictions and other factors that our Board may deem relevant. Recent Sales of Unregistered Securities; Use of Proceeds from Registered Offerings During 2025, in accordance with the Convertible Preferred Stock Certificate of Designation, the Company issued 8,068.27 and 3,311.52 shares of Convertible Preferred Stock to holders of record as of April 15, 2025 and",
+      "sectionId": "item_4_mine_safety_disclosures_not_appli",
+      "sectionHeader": "Item 4. Mine Safety Disclosures Not Applicable. Page 41 PART II Item 5. Market for Regist",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 227441,
+        "end": 228001
+      }
+    },
+    {
+      "id": "23f637adbdbc86bd",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 1688,
+      "excerpt": "echnology company focused on advanced technologies including space infrastructure, autonomous systems and multi-domain operations leveraging digital engineering and artificial intelligence automation. Redwire’s proven and reliable space and defense technology capabilities include our space and defense technology and platform offerings of Page 42 Table of Contents avionics, sensors, and payloads; power generation; structures and mechanisms; radio frequency systems; airborne and spacecraft platfor",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 229985,
+        "end": 230485
+      }
+    },
+    {
+      "id": "f531d3b89fd270ec",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 3321,
+      "excerpt": "d the Space Force’s GPS. We are also a provider of innovative technologies with the potential to help transform the economics of space and create new markets for its exploration and commercialization. Redwire’s Defense Tech segment focuses on delivering combat-proven autonomous systems, optical sensors, advanced optics, resilient energy solutions and radio frequency payloads that provide intelligence, surveillance, and reconnaissance capabilities for customers including the U.S. Department of Wa",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 231618,
+        "end": 232118
+      }
+    },
+    {
+      "id": "0c1d28ea8e0c844b",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 4282,
+      "excerpt": "logistics, reconnaissance, border security, and emergency response. Redwire is committed to delivering innovative space and airborne platforms to help transform the future of multi-domain operations. Recent Developments Selected operational developments for the year ended December 31, 2025 are described below. • Strengthened leadership in Very Low Earth Orbit (“VLEO”) with the award of a $44 million phase 2 contract to advance the Defense Advanced Research Projects Agency’s Otter mission, which",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 232580,
+        "end": 233139
+      }
+    },
+    {
+      "id": "4b720f36d607d53d",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 5152,
+      "excerpt": "cember 31, 2025, Redwire had eleven active payload facilities on the ISS. • Completed acquisition of Edge Autonomy, a leading provider of field-proven uncrewed aerial systems (“UAS”) on June 13, 2025. • Delivered more than 100 Stalker/Penguin UAS to customers in 7 countries around the world subsequent to the Edge Autonomy acquisition , including the U.S. Army (directly and via the Long Range Reconnaissance (“LRR”) program), U.S. Marine Corps, NATO and other allied nations. • Opened a new 85,000",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 233449,
+        "end": 234008
+      }
+    },
+    {
+      "id": "e48b01666b28276d",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 8620,
+      "excerpt": "ing research and development funding. The bill includes $13.4 billion in funding for missile defense and space programs to augment and integrate in support of the “Golden Dome for America” initiative. International Developments In March 2025, the European Commission introduced the Readiness 2030 package (previously dubbed “ReArm Europe”), to deploy nearly €800 billion over four years for collective defense, including drone systems, missile defense, cyber and autonomous platforms. The package inc",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 236917,
+        "end": 237417
+      }
+    },
+    {
+      "id": "9e8c861350296ce3",
+      "ticker": "RDW",
+      "vendor": "Arm",
+      "charOffset": 10472,
+      "excerpt": "or 2% target. The European Space Agency’s 2025 budget is approximately €7.7 billion, with continued investment in human and robotic missions, Earth observation, navigation, and telecom infrastructure. The European Commission formally introduced the EU Space Act in June 2025 as a proposed regulation to harmonize legal frameworks across the EU for space activities. It establishes a single market for space service providers and applies to EU and non-EU operators whose activities impact the EU inter",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 238769,
+        "end": 239269
+      }
+    },
+    {
+      "id": "d714229c718c3ba0",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 11462,
+      "excerpt": "proposed EU Space Act has continued, including circulation of updated compromise text. The proposal remains subject to negotiation and may be modified, delayed, or otherwise revised prior to adoption. In October 2025, the European Commission and European External Action Service announced additional details of the Readiness 2030 package mentioned above with the release of the “Preserving Peace - Defence Readiness Roadmap 2030”, which is a European Union plan to strengthen Europe's defense capabil",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 239759,
+        "end": 240259
+      }
+    },
+    {
+      "id": "c99aa95a7f4ae288",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 14994,
+      "excerpt": "005) (29,758) (15,327) Total net EAC adjustments $ (54,453) $ (17,696) $ (3,522) The Company evaluates the contract value and cost estimates at completion for performance obligations no less frequently than quarterly, and more frequently when circumstances significantly change. Changes in contract estimates occur for a variety of reasons including, but not limited to, changes in contract scope, labor productivity, the nature and technical complexity of the work to be performed, availability and",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 243291,
+        "end": 243850
+      }
+    },
+    {
+      "id": "542c00714f20e8c6",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 27238,
+      "excerpt": "rporate charges 65,848 57,725 52,324 Transaction expenses 21,121 9,123 13 Total unallocated, net 86,969 66,848 52,337 Total consolidated operating income (loss) $ (229,677) $ (42,200) $ (15,548) Corporate charges mainly consists of corporate overhead costs maintained at the corporate level. These expenses include costs relating to treasury, accounting, consulting, advisory, legal, tax and audit, insurance, financial reporting services and various administrative expenses related to the corporate",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 255535,
+        "end": 256094
+      }
+    },
+    {
+      "id": "f8205525bc4ca072",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29071,
+      "excerpt": "AC adjustments recognized during the year ended December 31, 2025 and $34.4 million of impairment expense recognized related to the Space Europe reporting unit during the year ended December 31, 2025. Please refer to Note F, Note G, and Note H of the accompanying notes to the consolidated financial statements for additional information related to impairment. Defense Tech Redwire’s Defense Tech segment focuses on delivering combat-proven autonomous systems, optical sensors and radio frequency pay",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 257368,
+        "end": 257868
+      }
+    },
+    {
+      "id": "d343b1decad40160",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 54910,
+      "excerpt": "s goodwill and indefinite-lived intangible assets for impairment annually for impairment as of October 1 st , or more frequently if events or circumstances indicate the carrying value may be impaired. Such events or circumstances may include, but are not limited to: • deterioration in overall economic conditions; • failure to reach our internal forecasts could impact our ability to achieve our forecasted levels of cash flows; • adverse technological events that could impact our performance; • vo",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 283207,
+        "end": 283707
+      }
+    },
+    {
+      "id": "40e408fe5f26bdd1",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 56866,
+      "excerpt": "proach based on a discounted cash flow (“DCF”) model as well as a market approach based on guideline public company revenues and earnings before interest, tax, depreciation and amortization multiples. Determining the fair value requires the exercise of significant judgments, including the amount and timing of expected future cash flows, long-term growth rates, discount rates and relevant comparable public company earnings multiples and relevant transaction multiples. The cash flows employed in t",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 285163,
+        "end": 285663
+      }
+    },
+    {
+      "id": "2c095f9f363bbe3c",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 57742,
+      "excerpt": "ess plans and historical operating performance. These estimates and judgments are based upon information available at the time and have been deemed reasonable by management as of the measurement date. The discount rates utilized in the DCF model are based on the respective reporting unit’s weighted average cost of capital (“WACC”), which takes into account the relative weights of debt and equity components within the Company’s existing capital structure and represents the expected cost of new ca",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 286039,
+        "end": 286539
+      }
+    },
+    {
+      "id": "fb5f4e706860219e",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 61079,
+      "excerpt": "production and service activities. Revenue from T&M contracts is recognized based on the number of direct labor hours expended in the performance of a contract multiplied by the contract billing rate. The Company recognizes revenue for performance obligations satisfied at shipment or delivery at a point-in-time and for performance obligations satisfied over time using the cost-to-cost method. Substantially all of the Company’s contracts in the Space segment and a portion of its contracts in the",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 289376,
+        "end": 289935
+      }
+    },
+    {
+      "id": "3a49cf23f31d9e05",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 63024,
+      "excerpt": "l knowledge and experience of its engineers, program managers and other personnel, who review each long-term contract monthly to assess the contract’s schedule, performance, technical matters and EAC. Factors considered in these estimates include our historical performance, the availability, productivity and cost of labor, the nature and complexity of work to be performed, availability and cost of materials, components and subcontracts, the risk and impact of delayed performance and the level of",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 291321,
+        "end": 291881
+      }
+    },
+    {
+      "id": "a04178de7bb6fcdb",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 29661,
+      "excerpt": "logy company focused on advanced technologies including aerospace infrastructure, autonomous systems and multi-domain operations, leveraging digital engineering and artificial intelligence automation. The Company develops and provides mission critical solutions based on space and defense technology platform offerings for government, commercial and civil customers through both short- and long-duration projects. These include technologies and production capability for next-generation spacecraft, l",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 322124,
+        "end": 322624
+      }
+    },
+    {
+      "id": "b37fefc274dec346",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 39853,
+      "excerpt": "ed at cost, net of an allowance for credit losses. The Company performs ongoing credit evaluations of its customers’ financial condition and limits the amount of credit extended when deemed necessary. The Company maintains an allowance for credit losses to provide for the estimated amount of accounts receivable that will not be fully collected. The allowance is based on the assessment of the following factors: customer creditworthiness, historical payment experience, age of outstanding accounts",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 332316,
+        "end": 332875
+      }
+    },
+    {
+      "id": "2c02d25e58146ef4",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 40844,
+      "excerpt": "ventory is stated at the lower of cost or net realizable value. Cost is calculated on a first-in, first-out (“FIFO”) basis. Inventory may consist of raw materials, work-in-process, and finished goods. Net realizable value is the estimated selling price in the ordinary course of business, less the estimated costs of completion and selling expense. Inventory is impaired when it is probable that inventory values exceed their net realizable value. Changes in these estimates are included in cost of s",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 333307,
+        "end": 333807
+      }
+    },
+    {
+      "id": "e6cfd0fcfc13c502",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 45860,
+      "excerpt": "separately in interest expense, net on the consolidated statements of operations and comprehensive income (loss). The lease term includes renewal options which are reasonably certain to be exercised. Lease and non-lease related components, such as common area maintenance costs, obligations to return the underlying asset to its original condition, or costs to dismantle and remove the underlying asset at the end of the term, are accounted for separately. Certain leasing arrangements contain predet",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 338324,
+        "end": 338824
+      }
+    },
+    {
+      "id": "f284bcd290c5b6a5",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 47735,
+      "excerpt": "tangible Assets, including Goodwill The assets and liabilities of acquired businesses are recorded under the acquisition method of accounting at their estimated fair values at the date of acquisition. Intangible assets include those acquired from the Company’s various business combinations as well as licensed software for internal-use. Licensed software is acquired solely to meet the Company’s internal needs which provides the right to take possession of the software and is hosted on the Company",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 340198,
+        "end": 340698
+      }
+    },
+    {
+      "id": "04723c8bb319f63c",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 49476,
+      "excerpt": "e-lived intangibles whenever events or changes in circumstances indicate their carrying value may be impaired, consistent with the methodologies previously disclosed for Property, plant and equipment. Goodwill is the amount by which the purchase price exceeded the fair value of the net identifiable assets acquired and liabilities assumed in a business combination on the date of acquisition. The Company’s goodwill has been allocated to and is tested for impairment at a level referred to as the re",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 341939,
+        "end": 342439
+      }
+    },
+    {
+      "id": "26dc61b8493a9f11",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 51966,
+      "excerpt": "pace Europe reporting unit was below its carrying value. Therefore, the Company recognized $ 20.9 million of goodwill impairment during 2025. Please refer to Note H – Goodwill for further information. The Company estimates the fair value of each reporting unit using a combination of a discounted cash flow (“DCF”) analysis and market-based valuation methodologies such as comparable public company trading values and values observed in recent business acquisitions. Determining fair value requires t",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 344429,
+        "end": 344929
+      }
+    },
+    {
+      "id": "b2f2c5cd9b535fb1",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 52916,
+      "excerpt": "U.S. and foreign government budgets, existing contracted and uncontracted backlog, subcontractor agreements, changes in working capital, long-term business plans and historical operating performance. The discount rates utilized in the DCF analysis are based on the respective reporting unit’s weighted average cost of capital, which takes into account the relative weights of debt and equity components within the Company’s existing capital structure and represents the expected cost of new capital,",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 345380,
+        "end": 345939
+      }
+    },
+    {
+      "id": "91202df80c670099",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 53732,
+      "excerpt": "compares the fair value of a reporting unit to its carrying value, including goodwill. If the fair value of a reporting unit exceeds its carrying value, goodwill of the reporting unit is not impaired. If the carrying value of the reporting unit, including goodwill, exceeds Page 71 Table of Contents REDWIRE CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Tabular amounts in thousands of U.S. dollars, except percentages, unit, share, and warrant amounts) its fair value, a goodwill impairmen",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 346195,
+        "end": 346695
+      }
+    },
+    {
+      "id": "3e6927fa51555810",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 54637,
+      "excerpt": "l Instruments The Company evaluates its convertible instruments, options, warrants and other contracts to determine if those contracts or embedded components of those contracts qualify as derivatives. The classification of derivative instruments, including whether such instruments should be recorded as assets, liabilities, or equity, is reassessed at the end of each reporting period. For equity-linked financial instruments, the Company must determine whether the underlying instrument is indexed",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 347100,
+        "end": 347659
+      }
+    },
+    {
+      "id": "604301b07eb2a135",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 61296,
+      "excerpt": "of the good or service. These options do not provide the customer with a material right and are accounted for only when the customer exercises the option to purchase the additional goods or services. If the option on the customer contract was not indicative of the standalone selling price of the good or service, the material right would be accounted for as a separate performance obligation. The Company’s revenues are derived from the design and sales of components for spacecraft and satellites a",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 353760,
+        "end": 354260
+      }
+    },
+    {
+      "id": "2344c2843423b2a4",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 63193,
+      "excerpt": "t contain penalties, credits, price concessions, or other types of potential variable consideration. Prices are fixed at contract inception and are not contingent on performance or any other criteria. The Company engages in long-term contracts for production and service activities and recognizes revenue for performance obligations over time primarily in its Space segment. The Company considers the nature of these contracts and the types of products and services provided when determining the prop",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 355656,
+        "end": 356156
+      }
+    },
+    {
+      "id": "cd65648319ba0bbc",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 63883,
+      "excerpt": "st-plus fixed fee (“CPFF”) and time-and-material (“T&M”) contracts. These long-term contracts involve the design, development, manufacture, or modification of components for spacecraft and satellites. For FFP and CPFF contracts, revenue is recognized over time (versus point in time recognition), as the Company’s performance creates an asset with no alternative use to the Company and the Company has an enforceable right to payment for performance completed to date, and the customer receives the b",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 356346,
+        "end": 356846
+      }
+    },
+    {
+      "id": "e25db2ab89dc8cd7",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 64804,
+      "excerpt": "t-to-cost measure of progress. The Company believes that this method represents the most faithful depiction of the Company’s performance because it directly measures value transferred to the customer. Contract estimates are based on various assumptions to project the outcome of future events that may span several years. These assumptions include, but are not limited to, the amount of time to complete the contract, including the assessment of the nature and complexity of the work to be performed;",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 357267,
+        "end": 357827
+      }
+    },
+    {
+      "id": "30de4b7c2159428d",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 66439,
+      "excerpt": "otal contract revenues and costs, in particular, assumptions relative to the amount of time to complete the contract, including the assessment of the nature and complexity of the work to be performed. The Company’s estimates are based upon the professional knowledge and experience of its engineers, program managers and other personnel, who review each long-term contract monthly to assess the contract’s schedule, performance, technical matters and estimated cost at completion. Changes in estimate",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 358902,
+        "end": 359402
+      }
+    },
+    {
+      "id": "b9d04e8223740e8b",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 67316,
+      "excerpt": "expects that the lag period between the transfer of a promised good or service to a customer and when the customer pays for that good or service will not constitute a significant financing component. Many of the Company’s long-term contracts have milestone payments, which align the payment schedule with the progress towards completion on the performance obligation. On some contracts, the Company may be entitled to receive an advance payment, which is not considered a significant financing compon",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 359780,
+        "end": 360280
+      }
+    },
+    {
+      "id": "c509c2217f9eb4bb",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 72683,
+      "excerpt": "liabilities using enacted tax rates for the year in which the differences are expected to reverse. All deferred income taxes are classified as non-current in the Company’s consolidated balance sheets. The Company records a valuation allowance against net deferred tax assets if, based upon the available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. The Company assesses the deferred tax assets for recoverability on a quarterly basis. The Com",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 365146,
+        "end": 365646
+      }
+    },
+    {
+      "id": "e61c7b48d6eac89a",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 73651,
+      "excerpt": "fits as a component of income tax expense. Recently Adopted Accounting Pronouncements In December 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”). This ASU requires a public business entity (“PBE”) to disclose, on an annual basis, a tabular rate reconciliation using both percentages and currency amounts, broken out into specified categories with certain",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 366114,
+        "end": 366674
+      }
+    },
+    {
+      "id": "4b3d79a3febaae1a",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 83694,
+      "excerpt": "ons On August 30, 2024, the Company acquired 100 % of the equity interests of Hera Systems, Inc. (“Hera”), a spacecraft developer focused on specialized missions for national security space customers. Hera’s primary operations include developing high-performance spacecraft to support the evolving requirements for national security missions operating in contested space. Hera’s advanced platform incorporates cyber-secure communications, resilient power systems, highly accurate pointing, extensive",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 376157,
+        "end": 376716
+      }
+    },
+    {
+      "id": "e872808f8da70b47",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 88998,
+      "excerpt": "of return 3.52 % 4.05 % 4.18 % Expected annual dividend yield — % — % — % Page 78 Table of Contents REDWIRE CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Tabular amounts in thousands of U.S. dollars, except percentages, unit, share, and warrant amounts) The table below presents the Company’s financial instruments measured at fair value on a recurring basis: December 31, 2025 Balance Sheet Location Level 1 Level 2 Level 3 Total Liabilities: Private warrants Warrant liabilities $ — $ — $",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 381461,
+        "end": 382021
+      }
+    },
+    {
+      "id": "136081c289953b6b",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 89998,
+      "excerpt": ",109 ) ( 16,109 ) Settlements ( 34,963 ) ( 34,963 ) December 31, 2025 $ 4,213 $ 4,213 Note E – Inventory, net The inventory balance was as follows: December 31, 2025 December 31, 2024 Raw materials $ 32,634 $ 1,812 Work in process 20,193 427 Finished goods 3,020 — Inventory, net $ 55,847 $ 2,239 The Company records a reserve for slow-moving inventory as a charge against earnings for all products identified as surplus, slow-moving, or discontinued. The amounts presented above are shown net of inv",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 382461,
+        "end": 382961
+      }
+    },
+    {
+      "id": "b8faeb33c7be396d",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 124307,
+      "excerpt": "ontents REDWIRE CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Tabular amounts in thousands of U.S. dollars, except percentages, unit, share, and warrant amounts) A reconciliation of the U.S. federal statutory income tax expense to actual income tax expense is as follows: Year Ended December 31, 2024 December 31, 2023 Amount Rate Amount Rate Income (loss) before income taxes $ ( 116,331 ) $ ( 27,750 ) Federal statutory income tax rate 21.0 % 21.0 % Expected federal provision (benefit) f",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 416770,
+        "end": 417270
+      }
+    },
+    {
+      "id": "92d7000e539ccc78",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 125307,
+      "excerpt": "% Other ( 1,393 ) 1.2 % 182 ( 0.7 ) % Total income tax expense (benefit) $ ( 2,020 ) 1.7 % $ ( 486 ) 1.8 % Effective tax rate 1.7 % 1.8 % The table below presents the components of deferred tax assets, net and deferred tax liabilities: December 31, 2025 December 31, 2024 Deferred tax assets: Accrued expenses and reserves $ 7,287 $ 456 Capitalized research and development expenses 8,722 4,528 Tax credit carryforwards 618 243 Deferred revenue 3,652 1,367 Net operating loss carryforwards 80,436 38,",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 417770,
+        "end": 418270
+      }
+    },
+    {
+      "id": "def4638a02957a23",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 155520,
+      "excerpt": "2025, as well as decreased bookings during 2025. Revenue recognized in the year ended December 31, 2025 that was included in the contract liability balance as of December 31, 2024 was $ 61.5 million. Revenue recognized in the year ended December 31, 2024 that was included in the contract liability balance as of December 31, 2023 was $ 49.4 million. For revenue recognized over time, the Company evaluates the contract value and cost estimates at completion (“EAC”) for performance obligations at le",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 447984,
+        "end": 448484
+      }
+    },
+    {
+      "id": "5eb555b4258cbd09",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 156507,
+      "excerpt": "mplexity of the work to be performed, availability and cost volatility of materials, subcontractor and vendor performance, volume assumptions, inflationary trends, and schedule and performance delays. When the Company’s estimate of total costs to be incurred to satisfy a performance obligation exceeds the expected revenue, the Company recognizes the loss immediately by recording a loss reserve which is included in other current liabilities on the consolidated balance sheets. When the Company det",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 448970,
+        "end": 449470
+      }
+    },
+    {
+      "id": "a2fe9e4db8b71e15",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 176840,
+      "excerpt": "ompany’s Board, also serves on the board of directors for this customer. Page 103 Table of Contents REDWIRE CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Tabular amounts in thousands of U.S. dollars, except percentages, unit, share, and warrant amounts) The table below presents details of the Company’s related party transactions included in the consolidated balance sheets and the consolidated statements of operations and comprehensive income (loss) for the following periods: As of Dece",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 469303,
+        "end": 469803
+      }
+    },
+    {
+      "id": "04b44b3137cf2fbf",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 177679,
+      "excerpt": "ipates in related party transactions with certain vendors and customers where AEI maintains a significant ownership interest and/or can exhibit significant influence on the operations of such parties. For the years ended December 31, 2025, 2024 and 2023, respectively, transactions with other companies in AEI’s investment portfolio, not separately disclosed, did not have a material impact on the Company’s consolidated financial statements. Please refer to Note I – Debt and Note N – Convertible Pr",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 470142,
+        "end": 470642
+      }
+    },
+    {
+      "id": "8342b325d76f684c",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 178646,
+      "excerpt": "of 2025, the Company reorganized its segment structure to align with the strategic offerings of each business segment and the way the CODM assesses performance and makes capital allocation decisions. The Company previously operated in one operating segment and one reportable segment. Prior period segment information has been revised to reflect the reorganized segment structure. As of December 31, 2025, the Company began operating in two operating segments and two reportable segments, Space and D",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 471110,
+        "end": 471610
+      }
+    },
+    {
+      "id": "639d791f1bb74951",
+      "ticker": "RDW",
+      "vendor": null,
+      "charOffset": 179398,
+      "excerpt": "at proven autonomous systems, optical sensors and radio frequency payloads that provide intelligence, surveillance, and reconnaissance capabilities for U.S. and allied nations across multiple domains. Effective December 2025, the CODM assesses segment performance and decides how to allocate resources based on Segment Adjusted EBITDA, a non-GAAP measure, defined as income (loss) before taxes, excluding, depreciation and amortization, impairment expense, transaction expenses, acquisition integrati",
+      "sectionId": "item_7a_page_57_table_of_contents_item_8",
+      "sectionHeader": "Item 7A. Page 57 Table of Contents Item 8. Financial Statements and Supplementary Data IND",
+      "form": "10-K",
+      "filingDate": "2026-02-27",
+      "type": "chunk",
+      "range": {
+        "start": 471861,
+        "end": 472361
+      }
+    }
+  ]
+}

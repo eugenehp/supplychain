@@ -1,0 +1,344 @@
+NASA Appropriations and Authorizations:
+Fact Sheet
+
+Updated July 24, 2024
+
+
+
+
+                             Congressional Research Service
+                              https://crsreports.congress.gov
+                                                     R43419
+                                                                           NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+Contents
+Overview ......................................................................................................................................... 1
+
+
+Figures
+Figure 1. NASA Funding, FY1958-FY2024 ................................................................................... 6
+
+
+Tables
+Table 1. NASA Budget Authority, FY2019-FY2024....................................................................... 2
+Table 2. NASA Appropriations, FY2024......................................................................................... 3
+Table 3. NASA Appropriations, FY2025, and Proposed FY2025 Authorization ............................ 4
+
+
+Contacts
+Author Information.......................................................................................................................... 7
+
+
+
+
+Congressional Research Service
+                                                             NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+Overview
+Congressional deliberations about the National Aeronautics and Space Administration (NASA)
+often focus on the availability of funding. This fact sheet provides data on past and current NASA
+appropriations, as well as the President’s FY2025 budget request and congressional action on
+FY2025 appropriations and authorization of appropriations.
+Table 1 shows budget authority for NASA for FY2019-FY2024. Except where noted, the
+amounts shown include regular appropriations, supplemental appropriations, rescissions,
+transfers, and reprogramming. They are taken from NASA’s congressional budget justifications
+for FY2021-FY2025;1 the Consolidated Appropriations Act, 2024 (P.L. 118-42); and the
+explanatory statement for that act, Congressional Record, March 5, 2024, pp. S1141-S1142.
+Congressional budget justifications are available on the NASA budget website,
+https://www.nasa.gov/budgets-plans-and-reports/, for the current year and for past years back to
+FY2010.
+Table 2 shows FY2024 appropriations provided by the Consolidated Appropriations Act, 2024
+(P.L. 118-42), compared with FY2023 regular appropriations as enacted; the Administration’s
+request for FY2024; FY2024 appropriations as recommended in the bill introduced by the chair
+of the House Appropriations Committee, Subcommittee on Commerce, Justice, Science, and
+Related Agencies (H.R. 5893 as introduced and explanatory material on the committee website at
+https://appropriations.house.gov/sites/republicans.appropriations.house.gov/files/FY24-CJS-
+Explanatory-Materials.pdf); and FY2024 appropriations recommended by the Senate Committee
+on Appropriations (S. 2321 as reported and S.Rept. 118-62). Note that the NASA Authorization
+Act of 2022 (P.L. 117-167, Title VII), which is the most recently enacted authorization, did not
+include authorizations of appropriations for NASA for FY2024.
+Table 3 compares FY2024 regular appropriations as enacted with the Administration’s request for
+FY2025; FY2025 amounts contained in H.R. 9026 as introduced and H.Rept. 118-582; and the
+FY2025 amounts that would be authorized by H.R. 8958, referred to herein as the NASA
+Reauthorization Act of 2024, as ordered reported by the House Committee on Science, Space, and
+Technology on July 10, 2024.2 Additional columns will be added to this table as Congress acts to
+complete FY2025 authorization and appropriations legislation for NASA.
+A note on name changes: Since the FY2019 budget request, the Trump and Biden Administrations
+have proposed renaming the Exploration account as Deep Space Exploration Systems; enacted
+appropriations have so far retained the name Exploration. Starting with the FY2023 budget,
+NASA renamed Exploration Systems Development as Common Exploration Systems
+Development and Exploration R&D as Artemis Campaign Development. In the FY2025 budget,
+NASA renamed the latter two items as Moon to Mars Transportation System and Moon to Mars
+Lunar Systems Development.
+Figure 1 shows NASA’s total annual budget authority from the agency’s establishment in
+FY1958 to FY2024, in both current dollars and inflation-adjusted FY2024 dollars.
+
+1 FY2019 STEM Engagement amounts are not shown in the FY2021 congressional budget justification and are instead
+
+taken from the explanatory statement for the Consolidated Appropriations Act, 2020 (P.L. 116-93), Congressional
+Record, December 17, 2019, pp. H10969-H10971.
+2 H.R. 8958 was ordered to be reported, but had not been reported as of July 24, 2024. While the official reported text
+
+of H.R. 8958 is not yet available, the amendments adopted during the markup did not appear to change the introduced
+bill provisions regarding FY2025 authorization amounts. (House Committee on Science, Space, and Technology, “Full
+Committee Markup of the NASA Reauthorization Act of 2024,” July 10, 2024, https://science.house.gov/2024/7/full-
+committee-markup-of-the-nasa-reauthorization-act-of-2024.)
+
+
+
+Congressional Research Service                                                                                        1
+                                                         NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+                         Table 1. NASA Budget Authority, FY2019-FY2024
+                                                 (in $ millions)
+                                          FY2019      FY2020       FY2021     FY2022      FY2023      FY2024
+   Science                                 $6,887     $7,143a       $7,291     $7,611      $7,792      $7,334
+   Earth Science                            1,931       1,972        1,997      2,061       2,175       2,195
+   Planetary Science                         2,747       2,713       2,693       3,120       3,217       2,717
+   Astrophysics                              1,191       1,306       1,356       1,394       1,510       1,530
+   James Webb Space Telescope                  305         423         415         175         —b          —b
+   Heliophysics                                713         725         751         778         805         805
+   Biological and Physical Sciencesc            —            5          79          83          85          88
+   Aeronautics                                 725         784         829        881         935         935
+   Space Technology                            927       1,100       1,100      1,100       1,193       1,100
+   Exploration                               5,045       5,960       6,397      6,855       7,448       7,666
+   Exploration Systems Development           4,087       4,513       4,539       4,591       4,717       4,533
+        Orion                                1,350       1,407       1,404       1,402       1,315       1,139
+        Space Launch System                  2,144       2,528       2,555       2,600       2,567       2,600
+        Exploration Ground Systems             593         578         580         589         835         794
+   Expl. R&D / Artemis Campaign Dev.           958       1,447       1,858       2,077       2,631          n/s
+   Other                                        —           —           —          187         101          n/s
+   Space Operations                          4,640       4,135       4,102      3,975       4,267       4,220
+   International Space Station               1,490       1,516       1,322       1,262       1,286          n/s
+   Space Transportation                      2,110       1,746       1,872       1,717       1,760          n/s
+           Crew and Cargo Program            1,896       1,511       1,573       1,570       1,642       1,856
+   Space and Flight Support                  1,000         857         890         889         983          n/s
+   Commercial LEO Development                   40          15          18         102         224         228
+   Exploration Operations                       —           —           —            5          13          n/s
+   STEM Engagement                             110         120         127        137         144         143
+   Space Grant                                  44          48          51          55          58          58
+   EPSCoR                                       21          24          26          26          26          26
+   MUREP                                        33          36          38          43          46          46
+   Other                                        12          12          12          14          14          14
+   Safety, Security, & Mission Svcs.         2,755      2,913d       2,937      3,021       3,137       3,129
+   Construction and EC&R                       372         433         446        417         612e        300
+   Inspector General                            39          42          44          45          48          48
+   Total                                   21,500    22,629a,d     23,271      24,041     25,573e      24,875
+
+    Sources: FY2019-FY2023 from NASA FY2021-FY2025 congressional budget justifications. FY2024 from P.L.
+    118-42 and explanatory statement, Congressional Record, March 5, 2024, pp. S1141-S1142.
+    Notes: Except where noted, amounts include regular appropriations, supplemental appropriations, rescissions,
+    transfers, and reprogramming. Some totals may not add because of rounding. R&D = Research and
+    Development. LEO = Low Earth Orbit. STEM = Science, Technology, Engineering, and Mathematics. EPSCoR =
+    Established Program to Stimulate Competitive Research. MUREP = Minority University Research and Education
+    Program. EC&R = Environmental Compliance and Remediation. n/s = not specified.
+    a. Not adjusted to reflect rescission of $70 million from prior year unobligated balances (Section 521(c)).
+    b. Included in Astrophysics.
+    c. Included in International Space Station before FY2020.
+    d. Does not include additional $60 million appropriated by the CARES Act (P.L. 116-136).
+    e. Includes $556.4 million in emergency supplemental funding provided in Division N of P.L. 117-328.
+
+
+
+
+Congressional Research Service                                                                                     2
+                                                         NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+                                 Table 2. NASA Appropriations, FY2024
+                                       (budget authority in $ millions)
+                                                                            FY2024 Appropriations
+                                                        FY2023                  House     Senate
+                                                        Enacted     Request     Intro.    Cmte.      Enacted
+
+  Science                                                $7,795      $8,261     $7,380    $7,341      $7,334
+  Earth Science                                            2,195       2,473      2,000     2,219       2,195
+  Planetary Science                                        3,200       3,383      3,100     2,683       2,717
+  Astrophysics                                             1,510       1,557      1,485     1,544       1,530
+  Heliophysics                                               805          751      710        805         805
+  Biological and Physical Sciences                            85           97        85        90          88
+  Aeronautics                                                935          996      946        935        935
+  Space Technology                                         1,200       1,392     1,205      1,118       1,100
+  Exploration / Deep Space Exploration Systems             7,469       7,971     7,971      7,736       7,666
+  Common Exploration Systems Development                   4,738       4,525      4,525     4,525       4,733
+        Orion                                              1,339       1,225      1,225     1,225       1,139
+        Space Launch System                                2,600       2,506      2,506     2,506       2,600
+        Exploration Ground Systems                           799          794      794        794         794
+  Artemis Campaign Development                             2,600       3,235      3,235        n/s         n/s
+  Human Exploration Requirements and Architecture             n/s          49       n/s        n/s         n/s
+  Mars Campaign Development                                   n/s         162       n/s        n/s         n/s
+  Space Operations                                         4,250       4,535     4,345      4,200       4,220
+  International Space Station                                 n/s      1,303        n/s        n/s         n/s
+  Space Transportation                                        n/s      1,957        n/s        n/s         n/s
+        Crew and Cargo Program                                n/s      1,856        n/s     1,856       1,856
+  Space and Flight Support                                    n/s      1,047        n/s        n/s         n/s
+  Commercial LEO Development                                 224          228       n/s       228         228
+  STEM Engagement                                            144          158       89        144        143
+  Space Grant                                                 58           58        60        58          58
+  EPSCoR                                                      26           26        29        26          26
+  MUREP                                                       46           48         0        46          46
+  Other                                                       14           26         0        14          14
+  Safety, Security, and Mission Services                   3,129       3,369     3,136      3,100       3,129
+  Construction and EC&R                                     604a          454      248        379        300
+  Inspector General                                           48          50        48         48          48
+  Total                                                  25,573a     27,185     25,367    25,000      24,875
+
+    Sources: FY2023 Enacted: P.L. 117-328 and explanatory statement, Congressional Record, December 20, 2022,
+    pp. S7945-S7950. FY2024 Request: FY2024 NASA congressional budget justification. FY2024 House Introduced:
+    H.R. 5893 as introduced and explanatory material on the House Appropriations Committee website at
+    https://appropriations.house.gov/sites/republicans.appropriations.house.gov/files/FY24-CJS-Explanatory-
+    Materials.pdf. FY2024 Senate Committee: S. 2321 as reported and S.Rept. 118-62. FY2024 Enacted: P.L. 118-42
+    and explanatory statement, Congressional Record, March 5, 2024, pp. S1141-S1142.
+    Notes: Some totals may not add up due to rounding. LEO = Low Earth Orbit. STEM = Science, Technology,
+    Engineering, and Mathematics. EPSCoR = Established Program to Stimulate Competitive Research. MUREP =
+    Minority University Research and Education Program. EC&R = Environmental Compliance and Remediation. n/s
+    = not specified.
+
+
+
+Congressional Research Service                                                                                    3
+                                                                     NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+              a.   Includes $556.4 million in emergency supplemental funding provided in Division N of P.L. 117-328.
+
+               Table 3. NASA Appropriations, FY2025, and Proposed FY2025 Authorization
+                                                  (budget authority in $ millions)
+                                                                                                                          FY2025
+                                                                                    FY2025 Appropriations                  Auth.
+
+
+                                                               FY2024                     House                            House
+                                                               Enacted      Request       Cmte.      Senate     Enacted    Cmte.a
+
+Science                                                          $7,334       $7,566       $7,334                          $7,334
+Earth Science                                                      2,195        2,379        2,000                               n/s
+                                                                   2,717        2,732        2,930
+                                                                                             2,930                               n/s
+Planetary Science
+Astrophysics                                                       1,530        1,578        1,532                               n/s
+Heliophysics                                                         805          787         787                                n/s
+Biological and Physical Sciences                                      88           91           85                               n/s
+Aeronautics                                                         935           966         966                               966
+Space Technology                                                  1,100         1,182       1,182                              1,182
+Exploration / Deep Space Exploration Systems                      7,666         7,618       7,618                              7,618
+Common Exploration Systems Developmentb                            4,733        4,213        4,738                               n/s
+      Orion                                                        1,139        1,031       1,339                                n/s
+      Space Launch System                                          2,600        2,423       2,600                                n/s
+      Exploration Ground Systems                                     794          759         799                                n/s
+Artemis Campaign Developmentc                                         n/s       3,288          n/s                               n/s
+Human Exploration Requirements and Architecture                       n/s         117          n/s                               n/s
+Mars Campaign Developmentd                                            n/s          —           n/s                               n/s
+Space Operations                                                  4,220         4,390       4,474                              4,474
+International Space Station                                           n/s       1,270          n/s                               n/s
+Space Transportation                                                  n/s       1,862          n/s                               n/s
+      Crew and Cargo Program                                       1,856        1,762       1,890                                n/s
+Space and Flight Support                                              n/s       1,088          n/s                               n/s
+                                                                     228          170      n/sn/sn
+                                                                                               n/s                               n/s
+Commercial LEO Development
+STEM Engagement                                                     143           144        89.0                               135
+Space Grant                                                           58           57         60.0                               n/s
+EPSCoR                                                                26           25         29.0                               n/s
+MUREP                                                                 46           46          n/s                               n/s
+Other                                                                 14           15          n/s                               n/s
+Safety, Security, and Mission Services                            3,129         3,044       3,044                              3,044
+Construction and EC&R                                               300           424         424                                424
+Inspector General                                                     48           51          48                                48
+Total                                                            24,875       25,384       25,179                          25,225
+
+              Sources: FY2024 Enacted: P.L. 118-42 and explanatory statement, Congressional Record, March 5, 2024, pp.
+              S1141-S1142. FY2025 Request: FY2025 NASA congressional budget justification. FY2025 House: H.R. 9026 as
+              introduced and H.Rept. 118-582. FY2025 House Authorization: NASA Authorization Act of 2024 (H.R. 8958), as
+              ordered reported by the House Committee on Science, Space, and Technology on July 10, 2025,
+              https://science.house.gov/markups?ContentRecord_id=F6543C82-0980-435B-BFDF-4DC3EF41EFD5.
+
+
+
+        Congressional Research Service                                                                                     4
+                                                          NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+    Notes: Some totals may not add because of rounding. LEO = Low Earth Orbit. STEM = Science, Technology,
+    Engineering, and Mathematics. EPSCoR = Established Program to Stimulate Competitive Research. MUREP =
+    Minority University Research and Education Program. EC&R = Environmental Compliance and Remediation. n/s
+    = not specified.
+    a. H.R. 8958 was ordered to be reported but had not been reported as of July 24, 2024. While the official
+         reported text of H.R. 8958 is not yet available, the amendments adopted during the markup did not appear
+         to change the introduced bill provisions regarding FY2025 authorization amounts.
+    b. Referred to in the FY2025 request as “Moon to Mars Transportation System.”
+    c. Referred to in the FY2025 request as “Moon to Mars Lunar Systems Development.”
+    d. As noted in the FY2025 request, NASA intends to retire its Mars Campaign Development theme and will
+         reallocate its content elsewhere in the Exploration Systems Development Mission Directorate (p. DEXP-
+         69).
+
+
+
+
+Congressional Research Service                                                                                      5
+                                                              NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+                              Figure 1. NASA Funding, FY1958-FY2024
+
+
+
+
+    Sources: Compiled by CRS. FY1958-FY2008 from National Aeronautics and Space Administration, Aeronautics
+    and Space Report of the President: Fiscal Year 2008 Activities, https://ntrs.nasa.gov/citations/20110012306, Table D-
+    1A. FY2009-FY2023 from NASA congressional budget justifications, FY2011-FY2025, adjusted for supplemental
+    appropriations, rescissions, and sequestration not shown in the justifications. FY2024 from P.L. 118-42. Current
+    dollars deflated to FY2024 dollars using GDP (chained) price index from President’s budget for FY2025,
+    Historical Table 10.1, https://www.whitehouse.gov/omb/historical-tables/.
+    Note: Transition quarter between FY1976 and FY1977 not shown.
+
+
+
+
+Congressional Research Service                                                                                              6
+                                                      NASA Appropriations and Authorizations: Fact Sheet
+
+
+
+
+Author Information
+
+Rachel Lindbergh
+Analyst in Science and Technology Policy
+
+
+
+
+Disclaimer
+This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permission of the copyright holder if you wish to
+copy or otherwise use copyrighted material.
+
+
+
+
+Congressional Research Service        R43419 · VERSION 107 · UPDATED                                    7
+

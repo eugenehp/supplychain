@@ -1,0 +1,132 @@
+[
+  {
+    "id": "item_1",
+    "item": "1",
+    "title": "Business",
+    "header": "Item 1. Business",
+    "charStart": 15068,
+    "charEnd": 74669,
+    "length": 59601,
+    "type": "item"
+  },
+  {
+    "id": "item_1a",
+    "item": "1A",
+    "title": "Risk Factors",
+    "header": "Item 1A. Risk Factors",
+    "charStart": 74669,
+    "charEnd": 190978,
+    "length": 116309,
+    "type": "item"
+  },
+  {
+    "id": "item_1c",
+    "item": "1C",
+    "title": "Cybersecurity",
+    "header": "Item 1C. Cybersecurity",
+    "charStart": 191040,
+    "charEnd": 196941,
+    "length": 5901,
+    "type": "item"
+  },
+  {
+    "id": "item_2",
+    "item": "2",
+    "title": "Properties",
+    "header": "Item 2. Properties",
+    "charStart": 196941,
+    "charEnd": 200660,
+    "length": 3719,
+    "type": "item"
+  },
+  {
+    "id": "item_3",
+    "item": "3",
+    "title": "Legal Proceedings",
+    "header": "Item 3. Legal Proceedings",
+    "charStart": 200660,
+    "charEnd": 202330,
+    "length": 1670,
+    "type": "item"
+  },
+  {
+    "id": "item_5",
+    "item": "5",
+    "title": "Market for Registrant's Common Equity",
+    "header": "Item 5. Market for Registrant's Common Equity",
+    "charStart": 202407,
+    "charEnd": 205243,
+    "length": 2836,
+    "type": "item"
+  },
+  {
+    "id": "item_7",
+    "item": "7",
+    "title": "Management's Discussion and Analysis",
+    "header": "Item 7. Management's Discussion and Analysis",
+    "charStart": 205283,
+    "charEnd": 257962,
+    "length": 52679,
+    "type": "item"
+  },
+  {
+    "id": "item_7a",
+    "item": "7A",
+    "title": "Quantitative and Qualitative Disclosures About Market Risk",
+    "header": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "charStart": 257962,
+    "charEnd": 260845,
+    "length": 2883,
+    "type": "item"
+  },
+  {
+    "id": "item_8",
+    "item": "8",
+    "title": "Financial Statements and Supplementary Data",
+    "header": "Item 8. Financial Statements and Supplementary Data",
+    "charStart": 260845,
+    "charEnd": 261174,
+    "length": 329,
+    "type": "item"
+  },
+  {
+    "id": "item_9a",
+    "item": "9A",
+    "title": "Controls and Procedures",
+    "header": "Item 9A. Controls and Procedures",
+    "charStart": 261294,
+    "charEnd": 265562,
+    "length": 4268,
+    "type": "item"
+  },
+  {
+    "id": "item_9b",
+    "item": "9B",
+    "title": "Other Information",
+    "header": "Item 9B. Other Information",
+    "charStart": 265562,
+    "charEnd": 266766,
+    "length": 1204,
+    "type": "item"
+  },
+  {
+    "id": "item_10",
+    "item": "10",
+    "title": "Directors, Executive Officers and Corporate Governance",
+    "header": "Item 10. Directors, Executive Officers and Corporate Governance",
+    "charStart": 267372,
+    "charEnd": 268373,
+    "length": 1001,
+    "type": "item"
+  },
+  {
+    "id": "item_15",
+    "item": "15",
+    "title": "Exhibits and Financial Statement Schedules",
+    "header": "Item 15. Exhibits and Financial Statement Schedules",
+    "charStart": 269233,
+    "charEnd": 280116,
+    "length": 10883,
+    "type": "item"
+  }
+]

@@ -1,0 +1,149 @@
+{
+  "ticker": "MNTS",
+  "topicId": "space-economy",
+  "product": "Momentus Vigoride orbital transfer",
+  "segment": "isam",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-31",
+    "accessionNumber": "0001628280-26-022291",
+    "primaryDocument": "mnts-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1781162/000162828026022291/mnts-20251231.htm",
+  "summary": {
+    "nodeCount": 7,
+    "linkCount": 6,
+    "totalFlow": 62,
+    "filingChars": 489036,
+    "mentionDensity": 0.13,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Propulsion",
+        "score": 41
+      },
+      {
+        "subsystem": "Power & solar",
+        "score": 13
+      },
+      {
+        "subsystem": "Launch services",
+        "score": 8
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 49
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "explicitSuppliers": 3,
+    "heuristicSuppliers": 0
+  },
+  "nodes": [
+    {
+      "id": "Momentus Vigoride orbital transfer",
+      "name": "Momentus Vigoride orbital transfer",
+      "tier": 0,
+      "group": "product",
+      "description": "MNTS 10-K / 20-F · 10-K 2026-03-31",
+      "country": "US",
+      "mentionScore": 62
+    },
+    {
+      "id": "Power & solar",
+      "name": "Power & solar",
+      "tier": 1,
+      "group": "power",
+      "description": "Subsystem category — Power & solar",
+      "country": null,
+      "mentionScore": 13,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 8,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "SpaceX launch services",
+      "name": "SpaceX launch services",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · MNTS 10-K mentions: 5",
+      "country": "US",
+      "mentionScore": 5,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "ULA (Vulcan / Atlas)",
+      "name": "ULA (Vulcan / Atlas)",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · MNTS 10-K mentions: 3",
+      "country": "US",
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Propulsion",
+      "name": "Propulsion",
+      "tier": 1,
+      "group": "rocket",
+      "description": "Subsystem category — Propulsion",
+      "country": null,
+      "mentionScore": 41,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Momentus Vigoride",
+      "name": "Momentus Vigoride",
+      "tier": 2,
+      "group": "rocket",
+      "description": "Propulsion · MNTS 10-K mentions: 41",
+      "country": "US",
+      "mentionScore": 41,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "Power & solar",
+      "target": "Momentus Vigoride orbital transfer",
+      "value": 13
+    },
+    {
+      "source": "SpaceX launch services",
+      "target": "Launch services",
+      "value": 5
+    },
+    {
+      "source": "ULA (Vulcan / Atlas)",
+      "target": "Launch services",
+      "value": 3
+    },
+    {
+      "source": "Momentus Vigoride",
+      "target": "Propulsion",
+      "value": 41
+    },
+    {
+      "source": "Launch services",
+      "target": "Momentus Vigoride orbital transfer",
+      "value": 8
+    },
+    {
+      "source": "Propulsion",
+      "target": "Momentus Vigoride orbital transfer",
+      "value": 41
+    }
+  ]
+}

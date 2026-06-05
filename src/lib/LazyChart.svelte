@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import LoadingSpinner from './LoadingSpinner.svelte';
   import { cn } from '$lib/utils.js';
+  import { runWhenIdle } from './performance.js';
 
   /**
    * @type {{
@@ -48,7 +49,7 @@
     const idle = /** @type {Record<string, () => Promise<unknown>>} */ (LOADERS);
     const preload = idle.sankey;
     if (preload && view !== 'sankey') {
-      requestIdleCallback?.(() => preload(), { timeout: 8000 });
+      runWhenIdle(() => preload(), { timeout: 8000 });
     }
   });
 </script>

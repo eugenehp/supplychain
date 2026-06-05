@@ -1,0 +1,221 @@
+{
+  "ticker": "RTX",
+  "queryVariants": [
+    "RTX Corp",
+    "RTX",
+    "RTX CORP",
+    "RTX CORPORATION",
+    "RAYTHEON COMPANY",
+    "RAYTHEON TECHNOLOGIES CORPORATION"
+  ],
+  "sampleRecipients": [
+    "RTX CORPORATION",
+    "RTX BBN TECHNOLOGIES, INC.",
+    "RAYTHEON COMPANY",
+    "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
+    "SEAKR ENGINEERING, LLC"
+  ],
+  "totalAmount": 184670788412.15005,
+  "awardCount": 263,
+  "byAgency": [
+    {
+      "agency": "Department of Defense",
+      "amount": 182781523407.68005
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 1241328780.67
+    },
+    {
+      "agency": "Department of Commerce",
+      "amount": 607132122.75
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "amount": 40804101.05
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "N0001918C1021",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 8688654906.89,
+      "psc": null,
+      "naics": null,
+      "description": "LOT 12 AAC LONG LEAD FOR PROPULSION SYSTEMS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001920C0011",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 7498605067.74,
+      "psc": null,
+      "naics": null,
+      "description": "LOT 15 FMS-1 F135 CTOL PROP SYSTEM",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001921C0011",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 4865962075.84,
+      "psc": null,
+      "naics": null,
+      "description": "FY21 PBL2",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA861108C2896",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 3648685783.01,
+      "psc": null,
+      "naics": null,
+      "description": "F119 ENGINE LONG TERM SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001923C0030",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 2803077022.26,
+      "psc": null,
+      "naics": null,
+      "description": "LOT 18 PNR/TOOLING",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001917C0020",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 2682738779.93,
+      "psc": null,
+      "naics": null,
+      "description": "LRIP 11 AAC - FMS AND INTERNATIONAL PARTNERS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001915C0004",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 2213245788.81,
+      "psc": null,
+      "naics": null,
+      "description": "F135 LRIP LOT 10 ADVANCED ACQUISITION CONTRACT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001917C0010",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 1838656695.12,
+      "psc": null,
+      "naics": null,
+      "description": "PERFORMANCE BASED LOGISTICS UCA",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA862616C2139",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1651199673.57,
+      "psc": null,
+      "naics": null,
+      "description": "ADAPTIVE ENGINE TRANSITION PROGRAM  (AETP)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA861120F1010",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1573148446.22,
+      "psc": null,
+      "naics": null,
+      "description": "F119 ENGINE SUSTAINMENT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001914C0004",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 1540870365.89,
+      "psc": null,
+      "naics": null,
+      "description": "LRIP LOT IX F135 PROPULSION SYTEMS FOR LONG LEAD-TIME ITEMS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA861118F1001",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1353542573.3,
+      "psc": null,
+      "naics": null,
+      "description": "SCAT 1, F-22, SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE 2)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001913C0016",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 1214623682.72,
+      "psc": null,
+      "naics": null,
+      "description": "F135 LRIP 8 LONG LEAD-TIME ITEMS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA812424F0001",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1127037480.95,
+      "psc": null,
+      "naics": null,
+      "description": "F117 ESS FY24 TASK ORDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA812425F0001",
+      "recipient": "RTX CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1078914542.46,
+      "psc": null,
+      "naics": null,
+      "description": "F117 ENGINE SUSTAINMENT SUPPORT FY25 TASK ORDER.",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

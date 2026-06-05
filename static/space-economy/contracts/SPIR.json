@@ -1,0 +1,219 @@
+{
+  "ticker": "SPIR",
+  "queryVariants": [
+    "Spire Global, Inc.",
+    "Spire Global",
+    "SPIRE GLOBAL, INC.",
+    "SPIRE FEDERAL LLC"
+  ],
+  "sampleRecipients": [
+    "SPIRE GLOBAL SUBSIDIARY, INC."
+  ],
+  "totalAmount": 99178408.63999999,
+  "awardCount": 35,
+  "byAgency": [
+    {
+      "agency": "Department of Commerce",
+      "amount": 52186120.36000001
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 31436374.25
+    },
+    {
+      "agency": "Department of Defense",
+      "amount": 15425804.03
+    },
+    {
+      "agency": "Department of Transportation",
+      "amount": 82110
+    },
+    {
+      "agency": "Department of State",
+      "amount": 48000
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "FA945324CX046",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 14000000,
+      "psc": null,
+      "naics": null,
+      "description": "SPIRE SEQUENTIAL SBIR PHASE II",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP25F0062",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 11190900,
+      "psc": null,
+      "naics": null,
+      "description": "TO ACQUIRE 3000 NEAR-REAL-TIME GLOBAL NAVIGATION SATELLITE SYSTEM (GNSS) RADIO OCCULTATION (RO) PROFILE/PER DAY FOR 365 DAYS.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP22FNEEP0045",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 9900000,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERICAL WEATHER DATA PROGRAM, 3300 RO PROFILES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP22FNEEP0007",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 8046500,
+      "psc": null,
+      "naics": null,
+      "description": "RADIO OCCULTATION DATA BUY FOR 308 DAYS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR24FA044",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 7900000,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR23F0070",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6500000,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM - GNSS SATELLITE DATA PRODUCTS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR22F0081",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6269160,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM - GNSS SATELLITE DATA PRODUCTS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR21F0151",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6000000,
+      "psc": null,
+      "naics": null,
+      "description": "PRIVATE SECTOR SMALL CONSTELLATION SATELLITE DATA PRODUCT PILOT.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP22CNEEP0014",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 4750000,
+      "psc": null,
+      "naics": null,
+      "description": "IN-ORBIT DEMONSTRATION OF A FLIGHT TESTED HYPERSPECTRAL MICROWAVE SOUNDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80GSFC23CA067",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 4655000,
+      "psc": null,
+      "naics": null,
+      "description": "THE PURPOSE OF THIS CONTRACT IS A PHASE A DEFINITION STUDY FOR THE SOUNDER FOR MICROWAVE-BASED APPLICATIONS INSTRUMENTS, THE NEXT GENERATION LOW-EARTH ORBIT MICROWAVE SOUNDERS.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP24F0012",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 4433153.88,
+      "psc": null,
+      "naics": null,
+      "description": "NOAA COMMERCIAL WEATHER RADIO OCCULTATION DATA BUY (RODB)-2 DELIVERY ORDER (DO)-3- THE NOAA COMMERCIAL SPACE POLICY CALLS FOR NOAA TO EXPLORE AND PURSUE DEMONSTRATION PROJECTS TO VALIDATE THE VIABILITY OF ADDING COMMERCIAL ENVIRONMENTAL DAT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP24F0104",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 3832500,
+      "psc": null,
+      "naics": null,
+      "description": "NOAA INTENDS TO ACQUIRE NEAR-REAL-TIME RADIO OCCULTATION (RO) SATELLITE DATA SATISFYING THE REQUIREMENTS SET FORTH IN THE NOAA COMMERCIAL DATA PROGRAM RADIO OCCULTATION DATA BUY II (RODB-2) IDIQ CONTRACT.  SPIRE IS EXPECTED TO DELIVER 800 C",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP23PNEEP0066",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 2855200,
+      "psc": null,
+      "naics": null,
+      "description": "OSW PILOT STUDY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP25P0040",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 2560695,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL WEATHER DATA PILOT (CWDP) OCEAN SURFACE WINDS PILOT STUDY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1332KP21FNEEP0038",
+      "recipient": "SPIRE GLOBAL SUBSIDIARY, INC.",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 2003670,
+      "psc": null,
+      "naics": null,
+      "description": "3,000 RO DATA/PER DAY FOR 181 DAYS, DATA LICENSE 3A",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

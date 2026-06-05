@@ -1,0 +1,227 @@
+{
+  "ticker": "GSAT",
+  "queryVariants": [
+    "Globalstar, Inc.",
+    "Globalstar",
+    "GLOBALSTAR, INC."
+  ],
+  "sampleRecipients": [
+    "GLOBALSTAR USA LLC",
+    "SPOT LLC"
+  ],
+  "totalAmount": 1454643.1200000003,
+  "awardCount": 34,
+  "byAgency": [
+    {
+      "agency": "Department of Justice",
+      "amount": 967732.22
+    },
+    {
+      "agency": "Department of the Interior",
+      "amount": 245917.24000000002
+    },
+    {
+      "agency": "Department of Agriculture",
+      "amount": 104451.62
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "amount": 94494.21
+    },
+    {
+      "agency": "Department of Commerce",
+      "amount": 32547.89
+    },
+    {
+      "agency": "Department of Defense",
+      "amount": 6950.34
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "amount": 2549.6
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "15DDHQ20P00000840",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Department of Justice",
+      "subAgency": "Drug Enforcement Administration",
+      "amount": 538773.72,
+      "psc": null,
+      "naics": null,
+      "description": "POP OCTOBER 1, 2020 TO SEPTEMBER 30, 2021 GLOBALSTART INC TECHNICAL AND COMPLIANCE ASSISTANCE WITH SUBPOENAS AND COURT ORDERS FOR MIAMI FD/TAMPA DO PANAMA EXPRESS STRIKE FORCE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "15DDHQ23P00000809",
+      "recipient": "SPOT LLC",
+      "agency": "Department of Justice",
+      "subAgency": "Drug Enforcement Administration",
+      "amount": 249963.51,
+      "psc": null,
+      "naics": null,
+      "description": "SURVEILLANCE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140G0118P0227",
+      "recipient": "SPOT LLC",
+      "agency": "Department of the Interior",
+      "subAgency": "U.S. Geological Survey",
+      "amount": 157983.89,
+      "psc": null,
+      "naics": null,
+      "description": "SERVICE FOR SPOT SATELLITE DEVICES IAW PERFORMANCE WORK STATEMENT  IGF::OT::IGF",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "15DDHQ25P00000429",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Department of Justice",
+      "subAgency": "Drug Enforcement Administration",
+      "amount": 90000,
+      "psc": null,
+      "naics": null,
+      "description": "TITLE: GLOBALSTAR - TAMPA DO OP JUGHEAD FY26-30 REQUESTOR: ALISON K MCNEILL AFT#: AFT25-MI-004706 ITJA#: ITJA0015908 POP DATES: 10/01/2025 TO 09/30/2030",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "15DDHQ21P00000893",
+      "recipient": "SPOT LLC",
+      "agency": "Department of Justice",
+      "subAgency": "Drug Enforcement Administration",
+      "amount": 67494,
+      "psc": null,
+      "naics": null,
+      "description": "SPOT TRACE ACTIVATION FEE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FCC16P0123",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Federal Communications Commission",
+      "subAgency": "Federal Communications Commission",
+      "amount": 66753.82,
+      "psc": null,
+      "naics": null,
+      "description": "\"IGF::OT::IGF\" PURCHASE ORDER FOR SATELLITE PHONE SERVICE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140G0318P0181",
+      "recipient": "SPOT LLC",
+      "agency": "Department of the Interior",
+      "subAgency": "U.S. Geological Survey",
+      "amount": 41388.29,
+      "psc": null,
+      "naics": null,
+      "description": "GPS BEACONS&LOCATING SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "1333MF23PNFFK0034",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Department of Commerce",
+      "subAgency": "National Oceanic and Atmospheric Administration",
+      "amount": 32547.89,
+      "psc": null,
+      "naics": null,
+      "description": "THIS AWARD IS FOR THE PURCHASE OF GLOBALSTAR SMARTONE C TRACKING DEVICES AND SPOT TRACE TRACKING DEVICES, ACTIVATION FEES AND SERVICE PLANS INCLUDING THE OPTION TO INCREASE - SEPARATELY PRICED LINE ITEM.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "12FPC121F0149",
+      "recipient": "SPOT LLC",
+      "agency": "Department of Agriculture",
+      "subAgency": "Under Secretary for Farm and Foreign Agricultural Services",
+      "amount": 29444.6,
+      "psc": null,
+      "naics": null,
+      "description": "SPOT X BLE 2-WAY MESSAGING TRACKING UNIT(S) - USED BY FIELD STAFF WHEN UTILIZING UTVS OR COMPLETING FIELD WORK IN REMOTE AREAS WHERE CELL SERVICE IS NOT AVAILABLE. THIS IS A HEALTH, WELFARE AND SAFETY ISSUE.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "273FCC21P0065",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Federal Communications Commission",
+      "subAgency": "Federal Communications Commission",
+      "amount": 27740.39,
+      "psc": null,
+      "naics": null,
+      "description": "PROVIDE GLOBALSTAR ORBIT 50 MINUTE PLANS FOR QTY (24) QUALCOMM GPS-1600 SATELLITE PHONES.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140G0325P0021",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Department of the Interior",
+      "subAgency": "U.S. Geological Survey",
+      "amount": 20666.13,
+      "psc": null,
+      "naics": null,
+      "description": "SPOT GPS ANNUAL SERVICE - FY25",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "12FPC321F0193",
+      "recipient": "SPOT LLC",
+      "agency": "Department of Agriculture",
+      "subAgency": "Under Secretary for Farm and Foreign Agricultural Services",
+      "amount": 18917.85,
+      "psc": null,
+      "naics": null,
+      "description": "BPA 12760421A0005- SPOT DEVICES AND MAPPING SUBSCRIPTION NEEDED WHEN PERFORMING MISSION RELATED WORK FOR NRCS CALIFORNIA. PURCHASE OF 53 SPOT X BT DEVICES AND 57 SPOT X BASIC ANNUAL W/ ENTERPRISE MAPPING SUBSCRIPTIONS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140G0326P0023",
+      "recipient": "GLOBALSTAR USA LLC",
+      "agency": "Department of the Interior",
+      "subAgency": "U.S. Geological Survey",
+      "amount": 15396.39,
+      "psc": null,
+      "naics": null,
+      "description": "SPOT DEVICE SATELLITE COMMUNICATIONS SERVICE PLANS, ORWSC",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "12444322F0059",
+      "recipient": "SPOT LLC",
+      "agency": "Department of Agriculture",
+      "subAgency": "Forest Service",
+      "amount": 11998.54,
+      "psc": null,
+      "naics": null,
+      "description": "61 SPOTXS BASIC SVC W/ BASIC MAPPING AND BASIC SERVICE MAPPING 33 SPOTXS BASIC SVC W/ PREMIUM MAPPING",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "12FPC321F0172",
+      "recipient": "SPOT LLC",
+      "agency": "Department of Agriculture",
+      "subAgency": "Under Secretary for Farm and Foreign Agricultural Services",
+      "amount": 10506.7,
+      "psc": null,
+      "naics": null,
+      "description": "PURCHASE SPOT X DEVICES AND ANNUAL RENEWAL OF SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

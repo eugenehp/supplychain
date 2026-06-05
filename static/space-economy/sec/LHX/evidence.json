@@ -1,0 +1,2384 @@
+{
+  "ticker": "LHX",
+  "topicId": "space-economy",
+  "count": 156,
+  "generatedAt": "2026-06-05T04:10:33.392Z",
+  "entries": [
+    {
+      "id": "LHX-kw-0",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 8594,
+      "excerpt": "…customers in the following business sectors: Tactical Communications: Design, manufacture and sustainment of resilient and interoperable secure communication solutions that include tactical radios, software, waveforms, satellite terminals and end-to-end battlefield systems. Broadband Communications: Design, manufacture and sustainment of resilient and secure communication solutions that include intelligence, reconnaissance and surveillance (“ISR”) and tactical data links, software and integrated broadband networks. Integrated Vision Solutions : Design, manufacture and sustainment of a full suite of helmet-mounted integrated night v…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 8375,
+        "end": 9014
+      }
+    },
+    {
+      "id": "LHX-kw-1",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 10809,
+      "excerpt": "…rs, target designators and transmitters; and highly scalable autonomous solutions. _____________________________________________________________________ 1 Defense Electronics(“DE”): Space communications and space flight avionics; 360-degree visible/midwave IR passive surveillance; protected GPS communications, navigation and range-testing solutions; and precision electronic components. Commercial Aviation Solutions (“CAS disposal group”) : On March 28, 2025, the CAS disposal group was divested. See Note 13: Acquisitions and Divestitures in the Notes for further information. Space & Airborne Systems (“SAS”). Supplies full mission sol…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 10590,
+        "end": 11230
+      }
+    },
+    {
+      "id": "LHX-kw-2",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 10966,
+      "excerpt": "…fense Electronics(“DE”): Space communications and space flight avionics; 360-degree visible/midwave IR passive surveillance; protected GPS communications, navigation and range-testing solutions; and precision electronic components. Commercial Aviation Solutions (“CAS disposal group”) : On March 28, 2025, the CAS disposal group was divested. See Note 13: Acquisitions and Divestitures in the Notes for further information. Space & Airborne Systems (“SAS”). Supplies full mission solutions as a prime and subsystem integrator in the space, airborne and cyber domains. We provide top-tier capabilities in the design, development, integration…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 10746,
+        "end": 11386
+      }
+    },
+    {
+      "id": "LHX-kw-3",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 12130,
+      "excerpt": "…rborne Combat Systems: Sensors, processors, hardened electronics, unmanned aircraft systems, precision weapons, infrared search and tracking, distributed aperture systems and precision pointing, weapons release systems; antennas for aircraft platforms; and threat warning and countermeasures for airborne, ground and maritime platforms. Aerojet Rocketdyne (“AR”). Provides propulsion, power and armament products and systems to U.S. Government, including the DoW, National Aeronautics and Space Administration (\"NASA\") and major aerospace and defense prime contractors in the following business sectors: Missile Solutions: Propulsion techno…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 11910,
+        "end": 12550
+      }
+    },
+    {
+      "id": "LHX-kw-4",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 12283,
+      "excerpt": "…aperture systems and precision pointing, weapons release systems; antennas for aircraft platforms; and threat warning and countermeasures for airborne, ground and maritime platforms. Aerojet Rocketdyne (“AR”). Provides propulsion, power and armament products and systems to U.S. Government, including the DoW, National Aeronautics and Space Administration (\"NASA\") and major aerospace and defense prime contractors in the following business sectors: Missile Solutions: Propulsion technologies and armament systems for strategic defense, missile defense, hypersonic, tactical and fuzing systems. Space Propulsion and Power Systems (“SPPS”):…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 12064,
+        "end": 12763
+      }
+    },
+    {
+      "id": "LHX-kw-5",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 12533,
+      "excerpt": "…products and systems to U.S. Government, including the DoW, National Aeronautics and Space Administration (\"NASA\") and major aerospace and defense prime contractors in the following business sectors: Missile Solutions: Propulsion technologies and armament systems for strategic defense, missile defense, hypersonic, tactical and fuzing systems. Space Propulsion and Power Systems (“SPPS”): Premier propulsion and power systems for national security, space and exploration missions. International Business In fiscal 2025, revenue where the end consumer is located outside the U.S., including foreign military sales funded through the U.S. G…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 12315,
+        "end": 12954
+      }
+    },
+    {
+      "id": "LHX-kw-6",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 12665,
+      "excerpt": "…ace and defense prime contractors in the following business sectors: Missile Solutions: Propulsion technologies and armament systems for strategic defense, missile defense, hypersonic, tactical and fuzing systems. Space Propulsion and Power Systems (“SPPS”): Premier propulsion and power systems for national security, space and exploration missions. International Business In fiscal 2025, revenue where the end consumer is located outside the U.S., including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was $4.8 billion (22% of our revenue) and came from over 100 countries wit…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 12445,
+        "end": 13085
+      }
+    },
+    {
+      "id": "LHX-kw-7",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 12712,
+      "excerpt": "…ing business sectors: Missile Solutions: Propulsion technologies and armament systems for strategic defense, missile defense, hypersonic, tactical and fuzing systems. Space Propulsion and Power Systems (“SPPS”): Premier propulsion and power systems for national security, space and exploration missions. International Business In fiscal 2025, revenue where the end consumer is located outside the U.S., including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was $4.8 billion (22% of our revenue) and came from over 100 countries with no single foreign country accounting for more…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 12492,
+        "end": 13192
+      }
+    },
+    {
+      "id": "LHX-kw-8",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 14710,
+      "excerpt": "…chnological capabilities; service; past performance; ability to develop and implement complex, integrated solutions; ability to meet delivery schedules; and cost-effectiveness. We frequently “partner” or are involved in subcontracting and teaming relationships with companies that are, from time to time, competitors on other programs. We compete domestically and internationally against large defense companies; principally BAE Systems, Boeing, General Dynamics, Lockheed Martin, Northrop Grumman, RTX, Thales and non-traditional defense contractors, such as Anduril, Ursa Major and Silvus Technologies. For further discussion of trends in…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 14490,
+        "end": 15190
+      }
+    },
+    {
+      "id": "LHX-kw-9",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22495,
+      "excerpt": "…upply chain resilience, which may result in new opportunities and requirements for defense contractors, as well as increased emphasis on rapid innovation and responsiveness in fulfilling government contracts. Materials, Suppliers and Seasonality Because of the diversity of our products and services, as well as the wide geographic dispersion of our facilities, we use numerous sources for the wide array of materials, such as electronic components, printed circuit boards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22275,
+        "end": 22975
+      }
+    },
+    {
+      "id": "LHX-kw-10",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22713,
+      "excerpt": "…, Suppliers and Seasonality Because of the diversity of our products and services, as well as the wide geographic dispersion of our facilities, we use numerous sources for the wide array of materials, such as electronic components, printed circuit boards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulato…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22493,
+        "end": 23133
+      }
+    },
+    {
+      "id": "LHX-kw-11",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22812,
+      "excerpt": "…ide geographic dispersion of our facilities, we use numerous sources for the wide array of materials, such as electronic components, printed circuit boards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic compon…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22592,
+        "end": 23232
+      }
+    },
+    {
+      "id": "LHX-kw-12",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22822,
+      "excerpt": "…phic dispersion of our facilities, we use numerous sources for the wide array of materials, such as electronic components, printed circuit boards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resul…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22602,
+        "end": 23242
+      }
+    },
+    {
+      "id": "LHX-kw-13",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22836,
+      "excerpt": "…n of our facilities, we use numerous sources for the wide array of materials, such as electronic components, printed circuit boards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in indust…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22616,
+        "end": 23256
+      }
+    },
+    {
+      "id": "LHX-kw-14",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22873,
+      "excerpt": "…sources for the wide array of materials, such as electronic components, printed circuit boards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22653,
+        "end": 23353
+      }
+    },
+    {
+      "id": "LHX-kw-15",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22963,
+      "excerpt": "…ards, metals and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22743,
+        "end": 23442
+      }
+    },
+    {
+      "id": "LHX-kw-16",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22973,
+      "excerpt": "…ls and plastics needed for our operations and products. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk Factors” o…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22753,
+        "end": 23393
+      }
+    },
+    {
+      "id": "LHX-kw-17",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 23021,
+      "excerpt": "…oducts. We depend on suppliers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk Factors” of this Report. We do not consider any material p…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22801,
+        "end": 23441
+      }
+    },
+    {
+      "id": "LHX-kw-18",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 23046,
+      "excerpt": "…liers and subcontractors for a large number of components and subsystems. We also rely on a limited number of certified microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk Factors” of this Report. We do not consider any material portion of our business to…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 22827,
+        "end": 23467
+      }
+    },
+    {
+      "id": "LHX-kw-19",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 23226,
+      "excerpt": "…ve experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk Factors” of this Report. We do not consider any material portion of our business to be seasonal. Various factors can affect the distribution of our revenue between accounting periods, including the timing of contract awards and the timing and availability of U.S.…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 23006,
+        "end": 23706
+      }
+    },
+    {
+      "id": "LHX-kw-20",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 23334,
+      "excerpt": "…e shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk Factors” of this Report. We do not consider any material portion of our business to be seasonal. Various factors can affect the distribution of our revenue between accounting periods, including the timing of contract awards and the timing and availability of U.S. Government funding, as well as the timing of product deliveries and customer acceptance. Human Capital Our…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 23114,
+        "end": 23813
+      }
+    },
+    {
+      "id": "LHX-kw-21",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 23353,
+      "excerpt": "…ry landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “Item 1A. Risk Factors” of this Report. We do not consider any material portion of our business to be seasonal. Various factors can affect the distribution of our revenue between accounting periods, including the timing of contract awards and the timing and availability of U.S. Government funding, as well as the timing of product deliveries and customer acceptance. Human Capital Our success depends on…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 23133,
+        "end": 23832
+      }
+    },
+    {
+      "id": "LHX-kw-22",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 30501,
+      "excerpt": "…ing, without limitation, those set forth below, any one of which could cause our actual results to vary materially from recent results or our anticipated future results. Macroeconomic, Industry and Governmental Risks We depend on winning profitable business in competitive markets from U.S. Government customers for a significant portion of our revenue. We are highly dependent on revenue from U.S. Government customers, primarily defense-related programs with the DoW and other government agencies. The market for sales to U.S. Government customers is highly competitive and the U.S. Government may choose to use other contractors as part…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 30281,
+        "end": 30980
+      }
+    },
+    {
+      "id": "LHX-kw-23",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 31118,
+      "excerpt": "…er contractors as part of competitive bidding processes or otherwise. The U.S. Government has increasingly relied on certain types of contracts that are subject to multiple competitive bidding processes, including multi-vendor indefinite-delivery, indefinite-quantity (“IDIQ”), government-wide acquisition contracts, General _____________________________________________________________________ 5 Services Administration Schedules and other multi-award contracts, which has resulted in greater competition and increased pricing pressure. The DoW’s current procurement reform initiative, including the increased use of other transaction auth…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 30898,
+        "end": 31538
+      }
+    },
+    {
+      "id": "LHX-kw-24",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 36878,
+      "excerpt": "…applications and can last for years, unforeseen events, such as technological difficulties, increases in the price of materials, a significant increase in or a sustained period of increased inflation, problems with our suppliers, labor market conditions and cost overruns, can result in less favorable economics or even losses over time (which, especially in the case of sharp and significant sustained inflation, could happen quickly and have long lasting impacts). Furthermore, if we do not meet contract deadlines or specifications, we may need to renegotiate contracts on less favorable terms, be forced to pay penalties or liquidated…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 36659,
+        "end": 37357
+      }
+    },
+    {
+      "id": "LHX-kw-25",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 39867,
+      "excerpt": "…nd final negotiation of audits. Negative audit findings could also result in termination of a contract, forfeiture of profits, suspension of payments, fines or suspension or debarment from U.S. Government contracting or subcontracting for a period of time. In addition, U.S. Government contracts generally contain provisions permitting termination, in whole or in part, without prior notice at the U.S. Government’s convenience upon payment only for work done and commitments made at the time of termination. For some contracts, we are a subcontractor and the U.S. Government could terminate the prime contractor for convenience without reg…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 39648,
+        "end": 40288
+      }
+    },
+    {
+      "id": "LHX-kw-26",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 40185,
+      "excerpt": "…isions permitting termination, in whole or in part, without prior notice at the U.S. Government’s convenience upon payment only for work done and commitments made at the time of termination. For some contracts, we are a subcontractor and the U.S. Government could terminate the prime contractor for convenience without regard for our performance as a subcontractor. We may be unable to secure new contracts to offset revenue or contractual backlog lost as a result of any termination of our U.S. Government contracts. From time to time, we may begin performance of a U.S. Government contract under an undefinitized contract action with a no…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 39965,
+        "end": 40605
+      }
+    },
+    {
+      "id": "LHX-kw-27",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 40316,
+      "excerpt": "…work done and commitments made at the time of termination. For some contracts, we are a subcontractor and the U.S. Government could terminate the prime contractor for convenience without regard for our performance as a subcontractor. We may be unable to secure new contracts to offset revenue or contractual backlog lost as a result of any termination of our U.S. Government contracts. From time to time, we may begin performance of a U.S. Government contract under an undefinitized contract action with a not-to-exceed price before the terms, specifications or price are agreed to between the parties. In these arrangements, the U.S. Gove…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 40098,
+        "end": 40737
+      }
+    },
+    {
+      "id": "LHX-kw-28",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 41693,
+      "excerpt": "…ng our margins. Failure to comply with applicable regulations and requirements could lead to fines, penalties, repayments or compensatory or treble damages, or suspension or debarment from U.S. Government contracting or subcontracting for a period of time. The termination of a U.S. Government contract or relationship in particular as a result of any of these acts would have an adverse impact on our operations and could have an adverse effect on our standing and eligibility for future U.S. Government contracts. Because a significant portion of our revenue is dependent on our performance and payment under our government contracts, the…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 41473,
+        "end": 42173
+      }
+    },
+    {
+      "id": "LHX-kw-29",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 42915,
+      "excerpt": "…nd for our products, systems, services or technologies. As a result of that uncertainty, it is difficult to develop accurate estimates of the level of growth in the markets we serve. Because those estimates underpin all components of our budgeting and _____________________________________________________________________ 7 forecasting, our estimates or guidance for future revenue, income and expenditures may be inaccurate, and we may make significant investments and expenditures but never realize the anticipated benefits. We cannot predict the consequences of future geo-political events, but they may adversely affect the markets in w…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 42695,
+        "end": 43335
+      }
+    },
+    {
+      "id": "LHX-kw-30",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 44473,
+      "excerpt": "…which could further impact demand. Unfavorable credit conditions in financial markets outside of the U.S. or changes in U.S. aid or financial support could adversely affect the ability of our international customers and suppliers to obtain financing and could result in a decrease in or cancellation of orders for our products and services or impact the ability of our customers to make payments. These matters also may cause us to experience increased costs, such as for insurance coverage and performance bonds (or for them to be unavailable altogether), as well as difficulty with financing our operating, investing or financing (or refi…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 44253,
+        "end": 44893
+      }
+    },
+    {
+      "id": "LHX-kw-31",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 45703,
+      "excerpt": "…tractual requirements. Under U.S. Government regulations, an indictment of L3Harris by a federal grand jury, or an administrative finding against us as to our present responsibility to be a U.S. Government contractor or subcontractor, could result in us being suspended for a period of time from eligibility for awards of new government contracts or task orders or in a loss of export privileges, which could have a material adverse effect on our business, financial condition, results of operations, cash flows and equity. A conviction, or an administrative finding against us that satisfies the requisite level of seriousness, could resul…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 45483,
+        "end": 46123
+      }
+    },
+    {
+      "id": "LHX-kw-32",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 48917,
+      "excerpt": "…cott legislation or sanctions against U.S. defense companies; and • Increased risk of an incident resulting in damage or destruction to our facilities or products or resulting in injury or loss of life to our employees, subcontractors or other third parties. Business and Operational Risks We depend on our subcontractors and suppliers, and failures in or disruptions to our supply chain could cause our products and or services to be produced or delivered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to p…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 48697,
+        "end": 49337
+      }
+    },
+    {
+      "id": "LHX-kw-33",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 48990,
+      "excerpt": "…ased risk of an incident resulting in damage or destruction to our facilities or products or resulting in injury or loss of life to our employees, subcontractors or other third parties. Business and Operational Risks We depend on our subcontractors and suppliers, and failures in or disruptions to our supply chain could cause our products and or services to be produced or delivered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In so…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 48771,
+        "end": 49411
+      }
+    },
+    {
+      "id": "LHX-kw-34",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49004,
+      "excerpt": "…n incident resulting in damage or destruction to our facilities or products or resulting in injury or loss of life to our employees, subcontractors or other third parties. Business and Operational Risks We depend on our subcontractors and suppliers, and failures in or disruptions to our supply chain could cause our products and or services to be produced or delivered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances,…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 48784,
+        "end": 49483
+      }
+    },
+    {
+      "id": "LHX-kw-35",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49023,
+      "excerpt": "…g in damage or destruction to our facilities or products or resulting in injury or loss of life to our employees, subcontractors or other third parties. Business and Operational Risks We depend on our subcontractors and suppliers, and failures in or disruptions to our supply chain could cause our products and or services to be produced or delivered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a si…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 48803,
+        "end": 49443
+      }
+    },
+    {
+      "id": "LHX-kw-36",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49304,
+      "excerpt": "…could cause our products and or services to be produced or delivered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49085,
+        "end": 49724
+      }
+    },
+    {
+      "id": "LHX-kw-37",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49323,
+      "excerpt": "…oducts and or services to be produced or delivered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may r…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49103,
+        "end": 49743
+      }
+    },
+    {
+      "id": "LHX-kw-38",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49368,
+      "excerpt": "…vered in an untimely or unsatisfactory manner. Our ability to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may result in increased costs. Any inability to ti…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49148,
+        "end": 49788
+      }
+    },
+    {
+      "id": "LHX-kw-39",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49448,
+      "excerpt": "…liver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may result in increased costs. Any inability to timely develop cost-effective alternative sources of supply could materially impac…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49228,
+        "end": 49868
+      }
+    },
+    {
+      "id": "LHX-kw-40",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49469,
+      "excerpt": "…rvices to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may result in increased costs. Any inability to timely develop cost-effective alternative sources of supply could materially impact our ability to manu…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49249,
+        "end": 49889
+      }
+    },
+    {
+      "id": "LHX-kw-41",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49510,
+      "excerpt": "…and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may result in increased costs. Any inability to timely develop cost-effective alternative sources of supply could materially impact our ability to manufacture and deliver products and services…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49291,
+        "end": 49990
+      }
+    },
+    {
+      "id": "LHX-kw-42",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49630,
+      "excerpt": "…me instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may result in increased costs. Any inability to timely develop cost-effective alternative sources of supply could materially impact our ability to manufacture and deliver products and services to our customers. In addition, we are required to procure certain materials and components, including microelectronic c…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49410,
+        "end": 50050
+      }
+    },
+    {
+      "id": "LHX-kw-43",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 49691,
+      "excerpt": "…mponents, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can be difficult, time-consuming and may result in increased costs. Any inability to timely develop cost-effective alternative sources of supply could materially impact our ability to manufacture and deliver products and services to our customers. In addition, we are required to procure certain materials and components, including microelectronic components, from U.S. Government-approved supply sources. Heig…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49471,
+        "end": 50111
+      }
+    },
+    {
+      "id": "LHX-kw-44",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50011,
+      "excerpt": "…y develop cost-effective alternative sources of supply could materially impact our ability to manufacture and deliver products and services to our customers. In addition, we are required to procure certain materials and components, including microelectronic components, from U.S. Government-approved supply sources. Heightened regulatory requirements that may apply to these sources can further limit the subcontractors and suppliers we may utilize. Legislation, regulatory changes or other governmental actions, including product certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, produc…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49791,
+        "end": 50431
+      }
+    },
+    {
+      "id": "LHX-kw-45",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50049,
+      "excerpt": "…ources of supply could materially impact our ability to manufacture and deliver products and services to our customers. In addition, we are required to procure certain materials and components, including microelectronic components, from U.S. Government-approved supply sources. Heightened regulatory requirements that may apply to these sources can further limit the subcontractors and suppliers we may utilize. Legislation, regulatory changes or other governmental actions, including product certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulati…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49829,
+        "end": 50469
+      }
+    },
+    {
+      "id": "LHX-kw-46",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50196,
+      "excerpt": "…d to procure certain materials and components, including microelectronic components, from U.S. Government-approved supply sources. Heightened regulatory requirements that may apply to these sources can further limit the subcontractors and suppliers we may utilize. Legislation, regulatory changes or other governmental actions, including product certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and suppliers. From time to time, our subcontractors and suppliers experience fin…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50017,
+        "end": 50577
+      }
+    },
+    {
+      "id": "LHX-kw-47",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50215,
+      "excerpt": "…n materials and components, including microelectronic components, from U.S. Government-approved supply sources. Heightened regulatory requirements that may apply to these sources can further limit the subcontractors and suppliers we may utilize. Legislation, regulatory changes or other governmental actions, including product certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and suppliers. From time to time, our subcontractors and suppliers experience financial and operatio…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 49995,
+        "end": 50635
+      }
+    },
+    {
+      "id": "LHX-kw-48",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50520,
+      "excerpt": "…ns, including product certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and suppliers. From time to time, our subcontractors and suppliers experience financial and operational difficulties outside of our direct control, which may impact their ability to deliver the materials, components, subsystems and services we need. In recent years, global supply chains, including ours, have experienced significant disruption from material availability and supplier performance, as well…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50300,
+        "end": 51000
+      }
+    },
+    {
+      "id": "LHX-kw-49",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50539,
+      "excerpt": "…ct certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and suppliers. From time to time, our subcontractors and suppliers experience financial and operational difficulties outside of our direct control, which may impact their ability to deliver the materials, components, subsystems and services we need. In recent years, global supply chains, including ours, have experienced significant disruption from material availability and supplier performance, as well as extended lead t…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50319,
+        "end": 50959
+      }
+    },
+    {
+      "id": "LHX-kw-50",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50573,
+      "excerpt": "…quirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and suppliers. From time to time, our subcontractors and suppliers experience financial and operational difficulties outside of our direct control, which may impact their ability to deliver the materials, components, subsystems and services we need. In recent years, global supply chains, including ours, have experienced significant disruption from material availability and supplier performance, as well as extended lead times, pricing volatility, inflatio…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50353,
+        "end": 50993
+      }
+    },
+    {
+      "id": "LHX-kw-51",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50592,
+      "excerpt": "…g restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and suppliers. From time to time, our subcontractors and suppliers experience financial and operational difficulties outside of our direct control, which may impact their ability to deliver the materials, components, subsystems and services we need. In recent years, global supply chains, including ours, have experienced significant disruption from material availability and supplier performance, as well as extended lead times, pricing volatility, inflationary pressures and…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50372,
+        "end": 51071
+      }
+    },
+    {
+      "id": "LHX-kw-52",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50740,
+      "excerpt": "…subcontractors and suppliers. From time to time, our subcontractors and suppliers experience financial and operational difficulties outside of our direct control, which may impact their ability to deliver the materials, components, subsystems and services we need. In recent years, global supply chains, including ours, have experienced significant disruption from material availability and supplier performance, as well as extended lead times, pricing volatility, inflationary pressures and labor issues. We and our subcontractors and suppliers have also experienced difficulties in the timely procurement of necessary materials and compon…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50520,
+        "end": 51160
+      }
+    },
+    {
+      "id": "LHX-kw-53",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50911,
+      "excerpt": "…y impact their ability to deliver the materials, components, subsystems and services we need. In recent years, global supply chains, including ours, have experienced significant disruption from material availability and supplier performance, as well as extended lead times, pricing volatility, inflationary pressures and labor issues. We and our subcontractors and suppliers have also experienced difficulties in the timely procurement of necessary materials and components, including microelectronics. Current geopolitical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have co…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50691,
+        "end": 51331
+      }
+    },
+    {
+      "id": "LHX-kw-54",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 51037,
+      "excerpt": "…hains, including ours, have experienced significant disruption from material availability and supplier performance, as well as extended lead times, pricing volatility, inflationary pressures and labor issues. We and our subcontractors and suppliers have also experienced difficulties in the timely procurement of necessary materials and components, including microelectronics. Current geopolitical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have contributed to issues procuring necessary materials and components. For example, some materials and components in our supply cha…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50817,
+        "end": 51457
+      }
+    },
+    {
+      "id": "LHX-kw-55",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 51056,
+      "excerpt": "…rs, have experienced significant disruption from material availability and supplier performance, as well as extended lead times, pricing volatility, inflationary pressures and labor issues. We and our subcontractors and suppliers have also experienced difficulties in the timely procurement of necessary materials and components, including microelectronics. Current geopolitical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have contributed to issues procuring necessary materials and components. For example, some materials and components in our supply chain have previously…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50836,
+        "end": 51535
+      }
+    },
+    {
+      "id": "LHX-kw-56",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 51154,
+      "excerpt": "…s well as extended lead times, pricing volatility, inflationary pressures and labor issues. We and our subcontractors and suppliers have also experienced difficulties in the timely procurement of necessary materials and components, including microelectronics. Current geopolitical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have contributed to issues procuring necessary materials and components. For example, some materials and components in our supply chain have previously been sourced from areas now under sanctions or other trade restrictions, such as specialty metals…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 50934,
+        "end": 51633
+      }
+    },
+    {
+      "id": "LHX-kw-57",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 51385,
+      "excerpt": "…including microelectronics. Current geopolitical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have contributed to issues procuring necessary materials and components. For example, some materials and components in our supply chain have previously been sourced from areas now under sanctions or other trade restrictions, such as specialty metals from Russia and certain equipment from China, or are currently sourced from areas which are at risk of sanctions or other trade restrictive actions, not just by the United States but by other nations or groups, such as the European…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 51167,
+        "end": 51806
+      }
+    },
+    {
+      "id": "LHX-kw-58",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 51429,
+      "excerpt": "…tical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have contributed to issues procuring necessary materials and components. For example, some materials and components in our supply chain have previously been sourced from areas now under sanctions or other trade restrictions, such as specialty metals from Russia and certain equipment from China, or are currently sourced from areas which are at risk of sanctions or other trade restrictive actions, not just by the United States but by other nations or groups, such as the European Union. While we continuously work to implem…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 51209,
+        "end": 51849
+      }
+    },
+    {
+      "id": "LHX-kw-59",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 53114,
+      "excerpt": "…or reactionary measures including retaliatory tariffs, legal challenges, or currency manipulation, could adversely impact us. Even though we primarily sell our products and services to U.S. Government customers and our suppliers are primarily domestic, we still rely on imported materials, components, or finished goods, and if tariffs increase, our supply chain costs may rise, adversely affecting our business, results of operations and cash flows. We also operate a business in Canada that supports both domestic and international programs. If we are not granted exemptions from tariffs due to the nature of our business and customers,…",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "keyword",
+      "range": {
+        "start": 52895,
+        "end": 53593
+      }
+    },
+    {
+      "id": "176ddc3a3396fb72",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 1838,
+      "excerpt": "aligning common capabilities and business models. See Note 16: Subsequent Events in the Notes. Our business segments provide a wide-range of capabilities to various customers and are described below. Communication Systems (“CS”). Enables warfighters across all domains with solutions critical to mission success even in the most contested environments. We are a leading provider of resilient communication solutions for the U.S. Department of War (“DoW”) and international, federal, and state agency",
+      "sectionId": "item_1_business_general_l3harris_technol",
+      "sectionHeader": "ITEM 1. BUSINESS. General L3Harris Technologies, Inc. is the Trusted Disruptor in the def",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 7875,
+        "end": 8434
+      }
+    },
+    {
+      "id": "dcef6a09949b814b",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4102,
+      "excerpt": "tion and sensor systems for naval platforms; integrated autonomous vessels for surface and undersea operations; fleet management; in-service support; missionization prototyping; and naval integration. Targeting & Sensor Systems (“TSS”) : Multi-domain, multi-spectral electro-optical (“EO”) and infrared (“IR”) sensor systems supporting ISR and target acquisition missions; manufacturing of specialty laser and filter glass materials, laser range finders, target designators and transmitters; and high",
+      "sectionId": "item_1_business_general_l3harris_technol",
+      "sectionHeader": "ITEM 1. BUSINESS. General L3Harris Technologies, Inc. is the Trusted Disruptor in the def",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 10138,
+        "end": 10638
+      }
+    },
+    {
+      "id": "fbe3147fa9596f42",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 5077,
+      "excerpt": "s and Divestitures in the Notes for further information. Space & Airborne Systems (“SAS”). Supplies full mission solutions as a prime and subsystem integrator in the space, airborne and cyber domains. We provide top-tier capabilities in the design, development, integration, production and sustainment of weapons systems for national security, civil government and international customers in the following business sectors: Space Systems: ISR; position, navigation and timing; weather and climate mon",
+      "sectionId": "item_1_business_general_l3harris_technol",
+      "sectionHeader": "ITEM 1. BUSINESS. General L3Harris Technologies, Inc. is the Trusted Disruptor in the def",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 11113,
+        "end": 11613
+      }
+    },
+    {
+      "id": "eb893de038d1d5b6",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 6037,
+      "excerpt": "systems and precision pointing, weapons release systems; antennas for aircraft platforms; and threat warning and countermeasures for airborne, ground and maritime platforms. Aerojet Rocketdyne (“AR”). Provides propulsion, power and armament products and systems to U.S. Government, including the DoW, National Aeronautics and Space Administration (\"NASA\") and major aerospace and defense prime contractors in the following business sectors: Missile Solutions: Propulsion technologies and armament sys",
+      "sectionId": "item_1_business_general_l3harris_technol",
+      "sectionHeader": "ITEM 1. BUSINESS. General L3Harris Technologies, Inc. is the Trusted Disruptor in the def",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 12073,
+        "end": 12573
+      }
+    },
+    {
+      "id": "eeb21a901df41d02",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7805,
+      "excerpt": "r levels of expenditures for research and development (“R&D”). We concentrate on the opportunities that we believe are compatible with our resources, overall technological capabilities and objectives. We also collaborate with innovative partners, such as our strategic partnerships with Palantir Technologies, Shield Capital, Anduril and Amazon Kuiper to develop new capabilities to meet the demands of our customers. Such collaboration is driven by modern market dynamics where competing in our mark",
+      "sectionId": "item_1_business_general_l3harris_technol",
+      "sectionHeader": "ITEM 1. BUSINESS. General L3Harris Technologies, Inc. is the Trusted Disruptor in the def",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 13841,
+        "end": 14341
+      }
+    },
+    {
+      "id": "429d6fdbad6aeac5",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 8589,
+      "excerpt": "livery schedules; and cost-effectiveness. We frequently “partner” or are involved in subcontracting and teaming relationships with companies that are, from time to time, competitors on other programs. We compete domestically and internationally against large defense companies; principally BAE Systems, Boeing, General Dynamics, Lockheed Martin, Northrop Grumman, RTX, Thales and non-traditional defense contractors, such as Anduril, Ursa Major and Silvus Technologies. For further discussion of tren",
+      "sectionId": "item_1_business_general_l3harris_technol",
+      "sectionHeader": "ITEM 1. BUSINESS. General L3Harris Technologies, Inc. is the Trusted Disruptor in the def",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 14625,
+        "end": 15125
+      }
+    },
+    {
+      "id": "d3bb85dcc50af525",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 808,
+      "excerpt": "authority to empowered portfolio acquisition executives, and increasing the use of commercial solutions and alternative contracting methods to accelerate the delivery of urgently needed capabilities. These changes are designed to expand competition, incentivize private investment, and enhance supply chain resilience, which may result in new opportunities and requirements for defense contractors, as well as increased emphasis on rapid innovation and responsiveness in fulfilling government contrac",
+      "sectionId": "item_1a_risk_factors_and_item_3_legal_pr",
+      "sectionHeader": "Item 1A. Risk Factors” and “Item 3. Legal Proceedings” of this Report and Note 1: Signific",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 21980,
+        "end": 22480
+      }
+    },
+    {
+      "id": "dae62351f3f2a6a2",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 1775,
+      "excerpt": "microelectronics component suppliers for our products. We have experienced component shortages from vendors as a result of the global pandemic, natural disasters, or the shifting regulatory landscape. These events or regulations may cause a spike in demand for certain electronic components resulting in industry-wide supply chain disruptions. For further discussion of risks relating to subcontractors and suppliers, see “",
+      "sectionId": "item_1a_risk_factors_and_item_3_legal_pr",
+      "sectionHeader": "Item 1A. Risk Factors” and “Item 3. Legal Proceedings” of this Report and Note 1: Signific",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 22946,
+        "end": 23369
+      }
+    },
+    {
+      "id": "cd699cb3e9427637",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 1A. RISK FACTORS. Our business, financial condition, results of operations, cash flows and equity are subject to, and could be materially adversely affected by, various risks and uncertainties, including, without limitation, those set forth below, any one of which could cause our actual results to vary materially from recent results or our anticipated future results. Macroeconomic, Industry and Governmental Risks We depend on winning profitable business in competitive markets from U.S. Gove",
+      "sectionId": "item_1a_risk_factors_our_business_financ",
+      "sectionHeader": "ITEM 1A. RISK FACTORS. Our business, financial condition, results of operations, cash flow",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 30076,
+        "end": 30576
+      }
+    },
+    {
+      "id": "27844e0b88e559ca",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 700,
+      "excerpt": "ies. The market for sales to U.S. Government customers is highly competitive and the U.S. Government may choose to use other contractors as part of competitive bidding processes or otherwise. The U.S. Government has increasingly relied on certain types of contracts that are subject to multiple competitive bidding processes, including multi-vendor indefinite-delivery, indefinite-quantity (“IDIQ”), government-wide acquisition contracts, General _____________________________________________________",
+      "sectionId": "item_1a_risk_factors_our_business_financ",
+      "sectionHeader": "ITEM 1A. RISK FACTORS. Our business, financial condition, results of operations, cash flow",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 30776,
+        "end": 31276
+      }
+    },
+    {
+      "id": "fe63a19b31ed9a49",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 860,
+      "excerpt": "us to potentially large losses because the U.S. Government can hold us responsible for completing a project or, in limited circumstances, paying the entire cost of its replacement by another provider. Contracts for development programs include complex design and technical requirements and are generally contracted on a cost-type basis, however, some existing development programs are contracted on a fixed-price basis or include cost-type contracting for the development phase with fixed-price produ",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 36083,
+        "end": 36583
+      }
+    },
+    {
+      "id": "a6d0a35161eb0e1b",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 4417,
+      "excerpt": "etion and final negotiation of audits. Negative audit findings could also result in termination of a contract, forfeiture of profits, suspension of payments, fines or suspension or debarment from U.S. Government contracting or subcontracting for a period of time. In addition, U.S. Government contracts generally contain provisions permitting termination, in whole or in part, without prior notice at the U.S. Government’s convenience upon payment only for work done and commitments made at the time",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 39640,
+        "end": 40199
+      }
+    },
+    {
+      "id": "571779d41123d413",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 5308,
+      "excerpt": "U.S. Government contract under an undefinitized contract action with a not-to-exceed price before the terms, specifications or price are agreed to between the parties. In these arrangements, the U.S. Government has the ability to unilaterally definitize the contract if a mutual agreement regarding terms, specifications and price cannot be reached. These uncertainties or loss of negotiating leverage associated with long delays could have a material adverse impact on our business, financial condit",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 40532,
+        "end": 41032
+      }
+    },
+    {
+      "id": "d41d1ef5903a4bac",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 6306,
+      "excerpt": "tions and requirements could lead to fines, penalties, repayments or compensatory or treble damages, or suspension or debarment from U.S. Government contracting or subcontracting for a period of time. The termination of a U.S. Government contract or relationship in particular as a result of any of these acts would have an adverse impact on our operations and could have an adverse effect on our standing and eligibility for future U.S. Government contracts. Because a significant portion of our rev",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 41529,
+        "end": 42029
+      }
+    },
+    {
+      "id": "c0fa7258bfcc8123",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7065,
+      "excerpt": "in markets that are often subject to uncertain economic conditions, which makes it difficult to estimate growth in our markets and, as a result, future income and expenditures. We participate in U.S. and international markets that are subject to uncertain economic conditions which could experience increasing price sensitivity due to economic conditions or seek solutions which could adversely affect demand for our products, systems, services or technologies. As a result of that uncertainty, it is",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 42289,
+        "end": 42849
+      }
+    },
+    {
+      "id": "a11dc30e2f35af68",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 8954,
+      "excerpt": "economic and social instability in the geographic areas in which we operate which could further impact demand. Unfavorable credit conditions in financial markets outside of the U.S. or changes in U.S. aid or financial support could adversely affect the ability of our international customers and suppliers to obtain financing and could result in a decrease in or cancellation of orders for our products and services or impact the ability of our customers to make payments. These matters also may caus",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 44177,
+        "end": 44677
+      }
+    },
+    {
+      "id": "bc55c1d10efac617",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 9951,
+      "excerpt": "including the International Traffic in Arms Regulations (“ITAR”), the Export Administration Regulations (“EAR”), and U.S. Foreign Corrupt Practices Act (“FCPA”). From time to time agencies of the U.S. Government investigate whether we have been and are operating in accordance with these and/or applicable contractual requirements. Under U.S. Government regulations, an indictment of L3Harris by a federal grand jury, or an administrative finding against us as to our present responsibility to be a U",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 45174,
+        "end": 45674
+      }
+    },
+    {
+      "id": "5433b5cac0428a7e",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 13190,
+      "excerpt": "hts and occasional requirements for onerous contract terms; _____________________________________________________________________ 8 • Changes in government, economic and political policies, political or civil unrest, acts of terrorism, threats of international boycotts, U.S. anti-boycott legislation or sanctions against U.S. defense companies; and • Increased risk of an incident resulting in damage or destruction to our facilities or products or resulting in injury or loss of life to our employe",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 48413,
+        "end": 48913
+      }
+    },
+    {
+      "id": "ecc641289393fa96",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 13981,
+      "excerpt": "ty to manufacture and deliver products and services to our customers requires our U.S. and non-U.S. subcontractors and suppliers to provide a variety of materials, components, subsystems and services. In some instances, we depend upon a single supplier for certain components, which adds risk because that supplier may at times be unable to meet our needs and because we may have limited negotiating leverage with sole-source suppliers. Identifying and qualifying dual and second-source suppliers can",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 49204,
+        "end": 49764
+      }
+    },
+    {
+      "id": "d01c74d5fa23979b",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 14817,
+      "excerpt": "ectronic components, from U.S. Government-approved supply sources. Heightened regulatory requirements that may apply to these sources can further limit the subcontractors and suppliers we may utilize. Legislation, regulatory changes or other governmental actions, including product certification or stewardship requirements, sourcing restrictions, tariffs, export controls, embargoes, product authenticity, cybersecurity regulation, and environmental standards may all impact our subcontractors and s",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 50040,
+        "end": 50540
+      }
+    },
+    {
+      "id": "9edb466cf93bca69",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 15770,
+      "excerpt": "nary pressures and labor issues. We and our subcontractors and suppliers have also experienced difficulties in the timely procurement of necessary materials and components, including microelectronics. Current geopolitical conditions, including sanctions and other trade restrictive activities and strained inter-country relations, have contributed to issues procuring necessary materials and components. For example, some materials and components in our supply chain have previously been sourced from",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 50993,
+        "end": 51553
+      }
+    },
+    {
+      "id": "27faca409838a917",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 17399,
+      "excerpt": "could impact our supply chain and our business. While certain of such tariffs have been paused, ultimately trade policy decisions are outside of our control and may have consequences for our business. Changes in trade policies, such as new tariffs or increases in tariffs, or reactionary measures including retaliatory tariffs, legal challenges, or currency manipulation, could adversely impact us. Even though we primarily sell our products and services to U.S. Government customers and our supplier",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 52622,
+        "end": 53122
+      }
+    },
+    {
+      "id": "fbc82d4c8f788710",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 19223,
+      "excerpt": "in highly-qualified management and technical personnel, including engineers and employees who have, or can obtain, U.S. Government security clearances, particularly clearances of top secret and above. To the extent that the demand for qualified personnel exceeds supply in certain areas, we could experience higher labor, recruiting or training costs in order to attract and retain such employees. Failure to attract and retain such personnel would damage our future prospects and could adversely aff",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 54446,
+        "end": 54946
+      }
+    },
+    {
+      "id": "cad5996b265e3ecc",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 20071,
+      "excerpt": "insider threat, or threats to the physical security of our facilities and employees or other significant disruption of our IT networks and related systems or those of our suppliers or subcontractors. The risk of a security breach or disruption, particularly through cyber-attack or cyber intrusion, including by computer hackers, foreign governments and cyber terrorists, is persistent. The volume, intensity and sophistication of threats from around the world remains elevated. These risks may incre",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operat",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 55295,
+        "end": 55795
+      }
+    },
+    {
+      "id": "acd2ba73d1ed6636",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and strategy related to cybersecurity threats. Our efforts and measures have not been entirely effective in the case of every cyber security incident, but no incident has had a material negative impact on us to date. Even the most well-protected information, networks, systems and facilities remain potentially vulnerable because attempted security breaches, particularly cyber-attacks and cyber intrusions, or disr",
+      "sectionId": "item_1c_cybersecurity_in_this_report_for",
+      "sectionHeader": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and s",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 56354,
+        "end": 56854
+      }
+    },
+    {
+      "id": "77ddf54776085446",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 1924,
+      "excerpt": "exceed our insurance coverage and/or indemnification arrangements; • Subject us to claims for contract breach, damages, credits, penalties or termination; and • Damage our reputation with our customers and the general public. We must also rely on the safeguards of varying levels put in place by customers, suppliers, vendors, subcontractors or other third parties to minimize the impact of cyber threats, other security threats or business disruptions. These third parties may have varying levels of",
+      "sectionId": "item_1c_cybersecurity_in_this_report_for",
+      "sectionHeader": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and s",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 58278,
+        "end": 58838
+      }
+    },
+    {
+      "id": "35410a76ee4f1256",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 2851,
+      "excerpt": "party’s employee or agent, the breakdown of a third party’s data protection processes, which may not be as sophisticated as ours, or a cyber-attack on a third party’s information network and systems. _____________________________________________________________________ 10 Any or all of the foregoing could have a negative impact on our business, financial condition, results of operations, cash flows and equity, reputation, ability to protect data, assets, and intellectual property, maintenance of",
+      "sectionId": "item_1c_cybersecurity_in_this_report_for",
+      "sectionHeader": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and s",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 59206,
+        "end": 59766
+      }
+    },
+    {
+      "id": "1af48589a0c6dc89",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 6262,
+      "excerpt": "he event of a natural disaster or other significant disruption. Our corporate headquarters and significant business operations are located in Florida, which is subject to the risk of major hurricanes. Our worldwide operations and operations of our suppliers and customers could be subject to natural disasters or other significant disruptions, including hurricanes, typhoons, tsunamis, floods, earthquakes, fires, water shortages, other extreme weather conditions, epidemics, pandemics, acts of terro",
+      "sectionId": "item_1c_cybersecurity_in_this_report_for",
+      "sectionHeader": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and s",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 62616,
+        "end": 63116
+      }
+    },
+    {
+      "id": "2e503ab4e8017735",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7247,
+      "excerpt": "penses, delay or decrease orders and revenue from our customers and have a material adverse effect on the continuity of our business, financial condition, results of operations, cash flows and equity. Risk of the release, unplanned ignition, explosion, or improper handling of dangerous materials used in our business could disrupt our operations and adversely affect our financial results. Our business operations are subject to risk in connection with the handling, production, and disposition of p",
+      "sectionId": "item_1c_cybersecurity_in_this_report_for",
+      "sectionHeader": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and s",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 63601,
+        "end": 64101
+      }
+    },
+    {
+      "id": "a9ffc3736ba27b2b",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 10954,
+      "excerpt": "assumptions for schedule and technical issues. Due to the size and nature of many of our contracts, the estimation of total revenue and cost at completion is complicated and subject to many variables. For example, we must make assumptions regarding: (i) the nature and complexity of the work to be performed; (ii) subcontractors’ and suppliers’ expected performance; (iii) availability and costs of labor, materials, components subsystems and services (including expected increases in wages and price",
+      "sectionId": "item_1c_cybersecurity_in_this_report_for",
+      "sectionHeader": "Item 1C. Cybersecurity\" in this Report for further discussion of our risk management and s",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 67308,
+        "end": 67808
+      }
+    },
+    {
+      "id": "53700f6058245ab0",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Operations - Critical Accounting Estimates” of this Report. Our level of indebtedness and our ability to make payments on or service our indebtedness may materially adversely affect our financial and operating activities or our ability to incur additional debt. As of January 2, 2026, we had $10.9 billion in aggregate principal amount of outstanding fixed-rate debt, which reflects our total long-term debt, includi",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Opera",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 69230,
+        "end": 69730
+      }
+    },
+    {
+      "id": "8f6b936553715dd2",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4477,
+      "excerpt": "gulations within the countries in which we operate relating to the discharge, storage, treatment, handling, disposal and remediation of certain materials, substances and wastes used in our operations. Our real estate assets in particular are subject to various risks, including that our reserves for estimated future environmental obligations may prove to be insufficient, we may be unable to complete environmental remediation or, we may be unable to have state and federal environmental restriction",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Opera",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 73707,
+        "end": 74207
+      }
+    },
+    {
+      "id": "2a10dafb0b94d614",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 5327,
+      "excerpt": "perational changes to limit emissions or discharges. Our suppliers may face similar business interruptions and incur additional costs that may increase the price of materials needed for manufacturing. We also incur, and expect to continue to incur, costs to comply with current environmental laws and regulations related to remediation of conditions in the environment. In addition, if violations of environmental laws result in us, or in one or more of our operations, being identified as an exclude",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Opera",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 74557,
+        "end": 75057
+      }
+    },
+    {
+      "id": "e507458445f3baeb",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 11773,
+      "excerpt": "demark registrations. Our U.S. Government customers may challenge our data rights assertions. We may be required to spend significant resources to monitor and enforce our intellectual property rights. Litigation to determine the scope of intellectual property rights, even if ultimately successful, could be costly and could divert management’s attention away from other aspects of our business. We may not be able to detect infringement, and our competitive position may be harmed before we do so. I",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Opera",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 81003,
+        "end": 81503
+      }
+    },
+    {
+      "id": "f78cd3a999f7bc34",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 12718,
+      "excerpt": "s systems and products. New technologies associated with these systems and products may be untested or unproven. Components of certain defense systems and products we develop are inherently dangerous. Failures of satellites, missile systems, air traffic control systems, electronic warfare systems, space superiority systems, command, control, computers, communications, cyber, ISR, homeland security applications and aircraft have the potential to cause loss of life and extensive property damage. O",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Opera",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 81948,
+        "end": 82448
+      }
+    },
+    {
+      "id": "ec1f51dea1fb7f1a",
+      "ticker": "LHX",
+      "vendor": "Arm",
+      "charOffset": 13542,
+      "excerpt": "nnot be accessed for repair or replacement, problems with quality and workmanship, country of origin, delivery of subcontractor components or services and unplanned degradation of product performance. In addition, problems and delays in development or delivery as a result of issues with respect to design, technology, licensing and patent rights, labor, learning curve assumptions or materials and components could prevent us from achieving contractual requirements. In many circumstances, we may re",
+      "sectionId": "item_7_management_s_discussion_and_analy",
+      "sectionHeader": "Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Opera",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 82772,
+        "end": 83272
+      }
+    },
+    {
+      "id": "d2e37efd2d615bb8",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 994,
+      "excerpt": "s as part of the ERM process. The CIO oversees the internal cybersecurity organization of more than 100 full-time employees headed by our Chief Information Security Officer (our “Cybersecurity Team”). Risks related to cybersecurity threats are reflected in an enterprise risk “heat map,” along with other material risks identified through the ERM process, and any mitigation plans developed to manage such risks are reported to our Board of Directors (“Board”). The “heat map” includes risks related",
+      "sectionId": "item_1b_unresolved_staff_comments_not_ap",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS. Not applicable. ITEM 1C. CYBERSECURITY. Risk Managemen",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 90353,
+        "end": 90912
+      }
+    },
+    {
+      "id": "754523e1e0633df0",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 3685,
+      "excerpt": "ting our dedication to maintaining stringent security controls. To mitigate cybersecurity risks introduced from our supply chain, we have a dedicated Cybersecurity - Supply Chain Risk Management team. This team assesses new suppliers against best cybersecurity practices, ensures cybersecurity regulations are contractually flowed down and coordinates mitigation actions across the company if a supplier is impacted by a cybersecurity incident. The Supply Chain Risk Management team utilizes industry",
+      "sectionId": "item_1b_unresolved_staff_comments_not_ap",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS. Not applicable. ITEM 1C. CYBERSECURITY. Risk Managemen",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 93044,
+        "end": 93604
+      }
+    },
+    {
+      "id": "7398e94af0bb454b",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. Market Information Our common stock, par value $1.00 per share, is listed and traded on the New York Stock Exchange (“NYSE”), under the ticker symbol “LHX.” According to the records of our transfer agent, as of February 6, 2026, there were 8,747 holders of record of our common stock. _____________________________________________________________________ 18 Dividends During fiscal",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PUR",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 100917,
+        "end": 101476
+      }
+    },
+    {
+      "id": "b197fcdbd4c1341e",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 863,
+      "excerpt": "will depend on a number of factors, including our financial condition, capital requirements, cash flows, results of operations, future business prospects and other factors our Board may deem relevant. Stock Performance Graph The following graph provides a five year comparison of cumulative total shareholder return (“TSR”), assuming reinvestment of all dividends and an initial investment of $100 at the close of business on December 31, 2020, in L3Harris common stock, the Standard & Poor’s 500 Com",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PUR",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 101780,
+        "end": 102280
+      }
+    },
+    {
+      "id": "63cb0afa20ab9772",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4529,
+      "excerpt": "appropriations. The Commerce-Justice-Science appropriations bill, which provides funding for NASA and National Oceanic and Atmospheric Administration (“NOAA”), was signed into law on January 23, 2026. The bill provides $6 billion above the Administration’s GFY 2026 budget request for NASA and rejects the proposed termination of the Space Launch System (“SLS”) and Orion following the Artemis III mission and directs the inclusion of an SLS-based option in any competition for future Artemis launch",
+      "sectionId": "item_1a_risk_factors_of_this_report_for_",
+      "sectionHeader": "Item 1A. Risk Factors of this Report. For additional information, see Part I. Item 1. Busi",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 110624,
+        "end": 111183
+      }
+    },
+    {
+      "id": "962c030668e43138",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1A. Risk Factors” of this Report. We continue to monitor and evaluate the potential impact of current and proposed changes in trade policies and in particular, tariffs. In response to enacted tariffs, we are seeking exemptions, evaluating alternative sources of materials and subcontracted components, as well as engaging in supplier negotiations to help manage cost impacts and are considering price adjustments and other strategies to support profitability. There was no material impact on our",
+      "sectionId": "item_1a_risk_factors_of_this_report_we_c",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. We continue to monitor and evaluate the potential i",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 114034,
+        "end": 114594
+      }
+    },
+    {
+      "id": "8bea389da531270d",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 1893,
+      "excerpt": "LHX NeXt will be fully integrated within our operations as standard practice, with ongoing cost savings measured as operational improvement, which we refer to as e3 (excellence, everywhere, everyday). Our strategic priorities continue to be performance, growth and innovation. We plan to continue to invest, consistent with profitable growth opportunities, and sustain our culture of innovation, while delivering on our commitments to investors, our customers and on every contract we are awarded. We",
+      "sectionId": "item_1a_risk_factors_of_this_report_we_c",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. We continue to monitor and evaluate the potential i",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 115927,
+        "end": 116487
+      }
+    },
+    {
+      "id": "09438cc4b80e1163",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4723,
+      "excerpt": "et by a $204 million decrease reflecting the absence of the CAS disposal group as a result of the March 2025 divestiture. Gross margin as a percentage of revenue remained flat compared to fiscal 2024. For discussion of operating income by segment see “Business Segment Results of Operations” below in this MD&A for further information. _____________________________________________________________________ 23 General and Administrative (“G&A”) Expenses. The following table presents the components of",
+      "sectionId": "item_1a_risk_factors_of_this_report_we_c",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. We continue to monitor and evaluate the potential i",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 118757,
+        "end": 119317
+      }
+    },
+    {
+      "id": "dbfda49431f404e3",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7074,
+      "excerpt": "uisition-related intangibles and merger, acquisition, and divestiture-related expenses, partially offset by an increase in business divestiture-related losses. Impairment of Goodwill and Other Assets. In fiscal 2025, we recognized a $85 million non-cash charge for impairment of goodwill in connection with execution of the agreement to sell a newly established technology company, consisting of certain product lines of our SPPS sector (“SPPS business”), reported in our AR segment, and our Space Av",
+      "sectionId": "item_1a_risk_factors_of_this_report_we_c",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. We continue to monitor and evaluate the potential i",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 121108,
+        "end": 121608
+      }
+    },
+    {
+      "id": "bab12abbf2ce3c81",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7943,
+      "excerpt": "l group”) and a $24 million non-cash charge for impairment of other assets in our CS segment associated with the Tactical Data Links (“TDL”) acquisition. Non-service FAS Pension Income and Other, Net. The following table presents the components of non-service FAS pension income and other, net: Fiscal Year (In millions) 2025 2024 Non-service FAS pension income (1) $ 356 $ 322 Change in fair value of deferred compensation plan assets 44 22 Other, net (2) 19 10 Non-service FAS pension income and ot",
+      "sectionId": "item_1a_risk_factors_of_this_report_we_c",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. We continue to monitor and evaluate the potential i",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 121977,
+        "end": 122477
+      }
+    },
+    {
+      "id": "6580672fcf404484",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 3213,
+      "excerpt": "fe assets, aligned with our transformation and value creation priorities, higher volume, favorable mix impact from higher airborne electro-optical sensors volume and LHX NeXt driven cost savings. SAS. Our SAS segment includes satellites and space payloads, sensors and full-mission solutions; classified intelligence and cyber; airborne combat systems, and mission networks for air traffic management operations. Fiscal Year (Dollars in millions) 2025 2024 % Inc/(Dec) Revenue $ 6,946 $ 6,869 1 % Ope",
+      "sectionId": "item_1_business_of_this_report_for_a_des",
+      "sectionHeader": "Item 1. Business” of this Report for a description of the sectors in each segment. CS. Ou",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 127469,
+        "end": 127969
+      }
+    },
+    {
+      "id": "ef2bd6c032a0ee7c",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4030,
+      "excerpt": "lume associated with program timing, $129 million in Intel & Cyber from lower classified program volume and $76 million in Airborne Combat Systems from the May 2024 Antenna disposal group divestiture. SAS operating income increased in fiscal 2025 compared with fiscal 2024 primarily due to stabilized program performance, an increase in gains of $23 million recognized in connection with the monetization of legacy end-of-life assets aligned with our transformation and value creation priorities and",
+      "sectionId": "item_1_business_of_this_report_for_a_des",
+      "sectionHeader": "Item 1. Business” of this Report for a description of the sectors in each segment. CS. Ou",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 128286,
+        "end": 128845
+      }
+    },
+    {
+      "id": "fd1c3fea108f77b4",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4645,
+      "excerpt": "th propulsion technologies for strategic defense, missile defense, hypersonic, tactical and fuzing systems; and space propulsion and power systems for national security space and exploration missions. Fiscal Year (Dollars in millions) 2025 2024 % Inc/(Dec) Revenue $ 2,845 $ 2,580 10 % Operating income 270 307 (12 %) Operating margin 9.5 % 11.9 % Ending contractual backlog $ 8,171 $ 7,564 AR revenue increased in fiscal 2025 compared with fiscal 2024 primarily due to higher revenues of $235 millio",
+      "sectionId": "item_1_business_of_this_report_for_a_des",
+      "sectionHeader": "Item 1. Business” of this Report for a description of the sectors in each segment. CS. Ou",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 128901,
+        "end": 129401
+      }
+    },
+    {
+      "id": "8127cd12c883b4b9",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 11464,
+      "excerpt": "operations was positive in all of our business segments in fiscal 2025. Investing Activities. Our primary investing activities include capital expenditures and cash proceeds from sales of businesses. The $670 million change in net cash provided by investing activities in fiscal 2025 compared with net cash used in investing activities in fiscal 2024 was primarily due to a $547 million increase in proceeds from the sale of businesses in fiscal 2025 (see “Divestitures” section below), net of cash d",
+      "sectionId": "item_1_business_of_this_report_for_a_des",
+      "sectionHeader": "Item 1. Business” of this Report for a description of the sectors in each segment. CS. Ou",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 135721,
+        "end": 136221
+      }
+    },
+    {
+      "id": "53a00f8c1c14d79a",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities” of this Report. Cash Requirements Total Fixed-Rate Debt. As of January 2, 2026, we had fixed-rate debt of $10.9 billion, reflecting our total long-term debt, including current portion but excluding finance leases, of which $650 million is due within the next 12 months. In addition, cash interest on fixed-rate debt of $520 million is due within the next 12 months. The majority of",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 139784,
+        "end": 140343
+      }
+    },
+    {
+      "id": "bf616ad5620b4415",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 885,
+      "excerpt": "tions mainly consist of outstanding commitments on open purchase orders made to suppliers, subcontractors and other outsourcing partners under U.S. Government contracts and managed service agreements. Our risk associated with these purchase obligations is generally limited to the termination liability provisions within such contracts. As such, we do not believe there to be a material liquidity risk associated with outstanding purchase obligations. Operating and finance lease commitments. As of J",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 140669,
+        "end": 141169
+      }
+    },
+    {
+      "id": "0e4acbb546d4b790",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 1866,
+      "excerpt": "ons to our U.S. qualified defined benefit pension plans. We expect to make approximately $18 million of contributions to these plans in fiscal 2026 and may consider voluntary contributions thereafter. Future required contributions primarily will depend on the actual annual return on plan assets and the discount rate used to measure the benefit obligation at the end of each year. Depending on these factors, and the resulting funded status of our pension plans, the level of future statutory requir",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 141650,
+        "end": 142150
+      }
+    },
+    {
+      "id": "671d924d2bc95db5",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7027,
+      "excerpt": "revenue recognition, whereby we measure our progress towards completion of the performance obligation based on the ratio of costs incurred to date to estimated costs at completion under the contract. Because costs incurred represent work performed, we believe this method best depicts the transfer of control of the asset to the customer. Under the POC cost-to-cost method of revenue recognition, a single estimated profit margin is used to recognize profit for each performance obligation over its p",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 146812,
+        "end": 147312
+      }
+    },
+    {
+      "id": "1acc43f40df28252",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 7980,
+      "excerpt": "exity of the work to be performed, subcontractor performance, the cost and availability of purchased materials and services, labor cost and availability and the risk and impact of delayed performance. Factors that must be considered in estimating the total transaction price include contractual cost or performance incentives (such as incentive fees, award fees and penalties) and other forms of variable consideration as well as our historical experience and our expectation for performance on the c",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 147764,
+        "end": 148264
+      }
+    },
+    {
+      "id": "e047d759e094204a",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 12295,
+      "excerpt": "ppropriate margin under the cost plus margin approach, we consider historical margins on similar products sold to similar customers or within similar geographies where objective evidence is available. We may also consider our cost structure and profit objectives, the nature of the proposal, the effects of customization of pricing, our practices used to establish pricing of bundled products, the expected technological life of the product, margins earned on similar contracts with different custome",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 152079,
+        "end": 152579
+      }
+    },
+    {
+      "id": "afc978f6386f8781",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 13274,
+      "excerpt": "lated to defined benefit plans depend on various assumptions, including discount rates, expected return on plan assets, rate of future compensation increases, mortality, termination and other factors. We develop assumptions using relevant experience, in conjunction with market-related data for each plan. Assumptions are reviewed annually with third-party experts and adjusted as appropriate. Actual results that differ from our assumptions are accumulated and generally amortized for each plan to t",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 153058,
+        "end": 153558
+      }
+    },
+    {
+      "id": "00effe165de50efa",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 22265,
+      "excerpt": "wo sectors, Global Optical Systems and Defense Electronics, and moving one Electro Optical business to the Maritime sector. Global Optical Systems and Defense Electronics represent one reporting unit. Immediately before and after the realignment, we performed a quantitative impairment assessment under our former and new reporting unit structure. These assessments indicated no impairment existed either before or after the realignment. Antenna disposal group divestiture . For information related t",
+      "sectionId": "item_5_market_for_registrant_s_common_eq",
+      "sectionHeader": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Pur",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 162049,
+        "end": 162549
+      }
+    },
+    {
+      "id": "d2e33aad6876c847",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. Foreign Currency Risk We are exposed to foreign currency risks that arise in normal course of our business operations. These risks include the translation of local currency balances of foreign subsidiaries into U.S. dollars and transactions denominated in currencies other than a subsidiary’s functional currency. Assets and liabilities of international subsidiaries that use local currency as the functional currency, are translat",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. Foreign Currency Risk",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 168206,
+        "end": 168706
+      }
+    },
+    {
+      "id": "7f65882aae372f7e",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 917,
+      "excerpt": "ders’ equity. Our U.S. and foreign businesses enter into contracts with customers, subcontractors or vendors that are denominated in currencies other than the functional currencies of such businesses. To manage our exposure to currency risk and market fluctuation risk associated with anticipated cash flows that are probable of occurring in the future, we implement foreign currency forward contracts to hedge both balance sheet and off-balance sheet future foreign currency commitments. As of Janua",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. Foreign Currency Risk",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 169123,
+        "end": 169623
+      }
+    },
+    {
+      "id": "2cea311fd7f28928",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4115,
+      "excerpt": "er establishing the estimated total cost at completion, the Company reviews the progress and performance on its ongoing contracts at least quarterly and updates the estimated total cost at completion. Such estimates are subject to change during the performance of the contract and significant changes in estimates could have a material effect on the Company’s results of operations. Auditing the cost estimation for revenue recognition on development and production contracts where revenue is recogni",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 176132,
+        "end": 176632
+      }
+    },
+    {
+      "id": "1d427ed1f121d85e",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 4999,
+      "excerpt": "timates of the cost of the work to be completed, the Company considered the nature and complexity of the work to be performed, subcontractor performance and the risk and impact of delayed performance. Estimates of total cost at completion are also affected by management’s assessment of the current status of the contract and expectation for performance on the contract, as well as historical experience. How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 177016,
+        "end": 177576
+      }
+    },
+    {
+      "id": "878e021c55216e9e",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 20435,
+      "excerpt": "current on our Consolidated Balance Sheet based on our contract operating cycle. Contract liabilities include advance payments and billings in excess of revenue recognized, including deferred revenue. Contract assets and liabilities are reported on a contract-by-contract basis at the end of each reporting period. Contract assets related to amounts withheld by customers until contract completion are not considered a significant financing component of our contracts because the intent is to protect",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 192452,
+        "end": 193012
+      }
+    },
+    {
+      "id": "161ad86b7e72b4ac",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 27520,
+      "excerpt": "we determine the lease classification (operating or finance) at the lease commencement date and recognize the related right-of-use (“ROU”) asset and lease liability on our Consolidated Balance Sheet. ROU assets for operating and finance leases are included as a component of the “Other non-current assets” and “Property, plant and equipment, net” line items, respectively. The current portion of the related lease liability is included as a component of the “Other current liabilities” line item, and",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 199538,
+        "end": 200098
+      }
+    },
+    {
+      "id": "412c03ebfffba607",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 28379,
+      "excerpt": "eases do not provide an implicit rate that is readily available, therefore the present value of future lease payments is determined using our incremental borrowing rate at the lease commencement date. The expected lease term includes periods covered by options to extend or terminate the lease when it is reasonably certain that such options will be exercised. Certain lease payments vary based on changes in market indices. These variable lease costs are expensed as incurred and included in the “Co",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 200396,
+        "end": 200896
+      }
+    },
+    {
+      "id": "1ce76490c79c43e2",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 29357,
+      "excerpt": "uded in the “Cost of revenue” and “General and administrative expenses” line items in our _____________________________________________________________________ 45 Consolidated Statement of Operations. Interest expense related to finance lease liabilities is recognized in the “Interest expense, net” line item in our Consolidated Statement of Operations. Investments — We hold certain investments in companies that align with our strategic business objectives, including advancing capabilities, marke",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 201374,
+        "end": 201874
+      }
+    },
+    {
+      "id": "93e0ca55d142f6b5",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 31923,
+      "excerpt": "We follow specific and detailed guidelines in each tax jurisdiction regarding the recoverability of any tax assets recorded on the balance sheet and provide necessary valuation allowances as required. We regularly review our deferred tax assets for recoverability based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. We have elected to account for tax on Global Intangible Low-Taxed I",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 203940,
+        "end": 204440
+      }
+    },
+    {
+      "id": "de9418cb3e547c33",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 32706,
+      "excerpt": "ghted average exchange rate for the year. The resulting translation adjustments are recorded as a component of the “Accumulated other comprehensive income” line item in our Consolidated Balance Sheet. Share-Based Compensation — We measure compensation cost for all share-based awards (including employee stock options) at fair value and recognize cost over the vesting period, with forfeitures recognized as they occur. It is our practice to issue shares when options are exercised. Share-based compe",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 204723,
+        "end": 205223
+      }
+    },
+    {
+      "id": "c0c80ae3fc7f9dba",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 45869,
+      "excerpt": "gh we have some fixed-price development contracts. Time-and-material contracts are considered fixed-price contracts as they specify a fixed hourly rate for each labor hour charged. Contract Estimates. Under the POC cost-to-cost method of revenue recognition, a single estimated profit margin is used to recognize profit for each performance obligation over its period of performance. Recognition of profit on a contract requires estimates of the total cost at completion and transaction price and the",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 217886,
+        "end": 218446
+      }
+    },
+    {
+      "id": "9471082faa0e1863",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 46665,
+      "excerpt": "e considered in estimating the cost of the work to be completed include the nature and complexity of the work to be performed, subcontractor performance and the risk and impact of delayed performance. Factors that must be considered in estimating the total transaction price include contractual cost or performance incentives (such as incentive fees, award fees and penalties) and other forms of variable consideration, as well as our historical experience and our expectation for performance on the",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 218682,
+        "end": 219241
+      }
+    },
+    {
+      "id": "6e0881812492f999",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 50837,
+      "excerpt": "oximately 70 % by the end of fiscal 2027, with the remainder to be recognized thereafter. As of January 3, 2025, our contractual backlog was $ 34.2 billion, of which $ 23.3 billion was funded backlog. Retirement Benefits — The funded or unfunded status of each defined benefit plan is recorded in our Consolidated Balance Sheet. Funded status is derived by subtracting the respective year-end values of the PBO from the fair value of plan assets. Actuarial gains and losses and prior service credits",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 222854,
+        "end": 223413
+      }
+    },
+    {
+      "id": "4edcf9a7df89a94f",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 51820,
+      "excerpt": "nefit plans depend on various assumptions, including discount rates, expected return on plan assets, the rate of future compensation increases, mortality, termination and health care cost trend rates. We develop each assumption using relevant Company experience in conjunction with market-related data. Actuarial assumptions are reviewed annually with third-party consultants and adjusted as appropriate. For the recognition of net periodic benefit income, we use a market-related value of plan asset",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 223837,
+        "end": 224337
+      }
+    },
+    {
+      "id": "127af21befc6e2da",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 56290,
+      "excerpt": "ce or elimination of intersegment profits. FAS/CAS Operating Adjustment — We calculate and allocate a portion of our defined benefit plan costs to our U.S. Government contracts in accordance with CAS. However, our Consolidated Financial Statements require we calculate our defined benefit plan costs (net periodic benefit income) in accordance with FAS requirements. The difference between CAS pension cost and the service cost component of net periodic benefit income (“FAS pension service cost”) is",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 228307,
+        "end": 228867
+      }
+    },
+    {
+      "id": "f392e56775cab525",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 57198,
+      "excerpt": "$ 10 $ 28 $ 110 The non-service cost component of net periodic benefit income is included in the “Non-service FAS pension income and other, net” line item in our Consolidated Statement of Operations. See Note 9: Retirement Benefits in these Notes for additional information regarding our defined benefit plans and composition of net periodic benefit income. R&D — Company-funded R&D costs are expensed as incurred and are included in the “General and administrative expenses” line item in our Consoli",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 229216,
+        "end": 229716
+      }
+    },
+    {
+      "id": "4307a90074c74544",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 62509,
+      "excerpt": "verage common shares outstanding 188.4 190.7 190.6 Anti-dilutive share-based awards excluded from diluted EPS were 2.0 million, 3.3 million and 3.7 million in fiscal 2025, 2024 and 2023, respectively. NOTE 3: CONTRACT ASSETS AND LIABILITIES Contract assets and liabilities are summarized below: (In millions) January 2, 2026 January 3, 2025 Contract assets $ 3,566 $ 3,230 Contract liabilities, current ( 2,262 ) ( 2,142 ) Contract liabilities, non-current (1) ( 108 ) ( 91 ) Net contract assets $ 1,",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 234526,
+        "end": 235026
+      }
+    },
+    {
+      "id": "d0afb3341bdeab42",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 65293,
+      "excerpt": "999 2,966 20,325 Assets of business held for sale — ( 120 ) — ( 165 ) ( 285 ) Impairment of goodwill — — — ( 85 ) ( 85 ) Currency translation adjustments — 24 31 — 55 Balance as of January 2, 2026 $ 4,938 $ 6,326 $ 6,030 $ 2,716 $ 20,010 _______________ (1) Goodwill recognized in connection with the Aerojet Rocketdyne Holdings, Inc. (“AJRD”) acquisition. See Note 13: Acquisitions and Divestitures in these Notes for further information. (2) SAS: Goodwill (net of impairment) derecognized in connec",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 237310,
+        "end": 237810
+      }
+    },
+    {
+      "id": "6d53aca1a417f846",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 68793,
+      "excerpt": "DE reporting unit). In connection with the transaction, goodwill of $ 250 million and $ 120 million was allocated to the SPPS business and SA&C business, respectively, on a relative fair value basis. In connection with the preparation of our financial statements for fiscal 2025, we performed quantitative impairment assessments on goodwill assigned to the SPPS business and SA&C business and qualitative impairment assessments on the goodwill assigned to the retained businesses of the AR and TSS an",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 240811,
+        "end": 241311
+      }
+    },
+    {
+      "id": "c2f88bca9f86fc1c",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 69646,
+      "excerpt": "he SA&C business and retained businesses of the AR and TSS and DE reporting units indicated no impairment existed. Fiscal 2024. On May 31, 2024, we completed the divestiture of Antenna disposal group. As the Antenna disposal group represents the disposal of a portion of the SAS reporting unit, which is also the SAS segment, we assigned $ 93 million of goodwill to the Antenna disposal group on a relative fair value basis. In connection with the preparation of our financial statements for the quar",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 241663,
+        "end": 242163
+      }
+    },
+    {
+      "id": "c8a4f52c569fb15a",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 71495,
+      "excerpt": "titative impairment tests for both reporting units as of November 27, 2023, utilizing an income approach aligned to market prices for the two reporting units, as specified in the definitive agreement. As a result of these tests, we determined that the fair value of the CTS reporting unit was above carrying value, while the fair value of the Commercial Avionics reporting unit was below its carrying value, and concluded goodwill related to the Commercial Aviation reporting unit was impaired. There",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 243512,
+        "end": 244012
+      }
+    },
+    {
+      "id": "d344187373fa63df",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 77219,
+      "excerpt": "subsidiaries that are considered indefinitely reinvested and are comprised predominantly of purchase accounting adjustments and to a lesser extent, undistributed earnings and other equity adjustments. In the event of a disposition of the foreign subsidiaries or a distribution, we may be subject to incremental U.S. income taxes, subject to an adjustment for foreign tax credits, and withholding taxes or income taxes payable to the foreign jurisdictions. As of January 2, 2026, the determination of",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 249236,
+        "end": 249795
+      }
+    },
+    {
+      "id": "1fb7e73d657a0b07",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 86652,
+      "excerpt": "Program, we may issue unsecured commercial paper notes up to a maximum aggregate amount of $ 3.0 billion. The CP Program is supported by amounts available under our credit agreements, discussed below. The commercial paper notes are sold at par less a discount representing an interest factor or, if interest bearing, at par, and the maturities vary but may not exceed 397 days from the date of issue. The commercial paper notes will rank at least pari passu with all other unsecured and unsubordinate",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 258669,
+        "end": 259169
+      }
+    },
+    {
+      "id": "09b2a7758573c9ee",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 102060,
+      "excerpt": "ther Benefits Pension Other Benefits ABO $ 152 N/A $ 153 N/A Fair value of plan assets 3 N/A 3 N/A _____________________________________________________________________ 64 Net Periodic Benefit Income. We record the service cost component of net periodic benefit income in the “Cost of revenue” and “General and administrative expenses” line items and the non-service cost components in the “Non-service FAS pension income and other, net” line item in our Consolidated Statement of Operations. The fol",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 274077,
+        "end": 274577
+      }
+    },
+    {
+      "id": "5207471c3f0ccd55",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 123804,
+      "excerpt": "recognized over a weighted-average period of 1.80 years. The total fair value of stock options that vested was $ 13 million, $ 14 million and $ 14 million in fiscal 2025, 2024 and 2023, respectively. NOTE 11: LEASES Our operating and finance leases primarily consist of real estate leases for office space, warehouses, manufacturing, R&D facilities, telecommunication tower space and land and equipment leases. Lease Costs. Components of lease costs included in our Consolidated Statement of Operatio",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 295822,
+        "end": 296322
+      }
+    },
+    {
+      "id": "9c176231d0a58df7",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 127256,
+      "excerpt": "fiscal 2025, we repurchased 5.1 million shares of our common stock under our share repurchase program for $ 1.2 billion and had remaining unused authorizations of $ 2.2 billion as of January 2, 2026. During fiscal 2024, we repurchased 2.5 million shares of our common stock under our share repurchase program for $ 554 million and had of remaining unused authorizations of $ 3.4 billion as of January 3, 2025. Preferred Stock Authorized preferred stock consists of 1,000,000 shares, without par value",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 299274,
+        "end": 299774
+      }
+    },
+    {
+      "id": "8b304272572a167f",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 129171,
+      "excerpt": "ability and provides access to the ubiquitous Link 16 waveform, better positioning us to enable the DoW integrated architecture goal in JADC2, which is reported in our CS segment. Acquisition of AJRD. On July 28, 2023, we acquired AJRD, a technology-based engineering and manufacturing company that develops and produces missile solutions with technologies for strategic defense, missile defense, and hypersonic and tactical systems, as well as space propulsion and power systems for national securit",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 301188,
+        "end": 301688
+      }
+    },
+    {
+      "id": "ecb3023551ea689a",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 130157,
+      "excerpt": "0 % noncontrolling interest. The Space Technology disposal group, which excludes our RS-25 rocket engine business, provides premier propulsion, power, space flight avionics and communications systems. Under the agreement, AE Industrial will acquire an approximately 60 % controlling interest in the new space technology company, at a net enterprise value of $ 825 million, subject to regulatory approvals and other customary closing conditions. The transaction is expected to close in the second half",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 302174,
+        "end": 302734
+      }
+    },
+    {
+      "id": "5f1863ca6fff1b99",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 132688,
+      "excerpt": "llion and $ 41 million for fiscal 2025, 2024 and 2023, respectively. Fiscal 2023 includes only a partial year of the SPPS business following the July 28, 2023 acquisition of AJRD. C AS Disposal Group. On March 28, 2025, we completed the sale of our CAS disposal group, which provided integrated aircraft avionics, pilot training and data analytics services for the commercial aviation industry, and was reported in our IMS segment through the date of sale. Income before income taxes attributable to",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 304705,
+        "end": 305264
+      }
+    },
+    {
+      "id": "5788ae2423004bbb",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 134181,
+      "excerpt": "income of $ 63 million and $ 6 million, respectively, and recognized a $ 28 million pre-tax loss, inclusive of amounts attributable to noncontrolling interest and the final purchase price adjustment. The pre-tax loss, which is included in the “General and administrative expenses” line item in our Consolidated Statement of Operations for fiscal 2025, is incremental to the previously recorded CAS disposal group losses of $ 29 million and $ 77 million recognized in fiscal 2024 and 2023, respectivel",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 306199,
+        "end": 306699
+      }
+    },
+    {
+      "id": "931a2eefa11d8593",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 134991,
+      "excerpt": "million and a $ 25 million note receivable. Visual Information Solutions (“VIS”). During fiscal 2023, we completed the divestiture of VIS from our SAS segment , for net cash proceeds of $ 71 million. NOTE 14: BUSINESS SEGMENTS We structure our operations primarily around the capabilities we provide and report our financial results in the following four reportable segments: CS: including software defined communication products and waveforms for domestic and international customers; broadband comm",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 307009,
+        "end": 307509
+      }
+    },
+    {
+      "id": "bd5d48c5543b9b8c",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 135991,
+      "excerpt": "r; airborne combat systems; and mission networks for air traffic management operations; and AR: including missile solutions with propulsion technologies for strategic defense, missile defense, hypersonic, tactical and fuzing systems; and space propulsion and power systems for national security and space exploration missions. _____________________________________________________________________ 76 Chief Operating Decision Maker (“CODM”) Our Chairman and CEO serves as the CODM and is responsible f",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 308008,
+        "end": 308508
+      }
+    },
+    {
+      "id": "59d2f28a412b1c10",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 138715,
+      "excerpt": "ity and competitiveness. The LHX NeXt effort includes non-recurring costs for workforce optimization, incremental IT expenses for implementation of new systems, third party consulting and other costs. We completed the LHX NeXt initiative in fiscal 2025. _____________________________________________________________________ 77 Disaggregation of Revenue We disaggregate revenue for all four business segments by customer relationship, contract type and geographical region. We believe these categories",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 310732,
+        "end": 311292
+      }
+    },
+    {
+      "id": "aa0984a470522fa7",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 139715,
+      "excerpt": "30 $ 6,946 $ 2,845 Revenue By Geographical Region United States $ 3,609 $ 4,852 $ 6,045 $ 2,545 International (1) 2,002 1,703 837 272 Intersegment 62 75 64 28 Total segment $ 5,673 $ 6,630 $ 6,946 $ 2,845 _______________ (1) Includes revenue where the end consumer is located outside the U.S., including foreign military sales funded through the U.S. Government, whether directly or through prime contractors. No individual foreign country represents more than 5% of our total revenue. Fiscal 2024 (I",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 311732,
+        "end": 312232
+      }
+    },
+    {
+      "id": "e8fe3bd1761237ba",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 140715,
+      "excerpt": "ntersegment 69 53 51 28 Total segment $ 5,459 $ 6,618 $ 6,869 $ 2,580 _______________ (1) Includes revenue where the end consumer is located outside the U.S., including foreign military sales funded through the U.S. Government, whether directly or through prime contractors. No individual foreign country represents more than 5% of our total revenue. _____________________________________________________________________ 78 Fiscal 2023 (In millions) CS IMS SAS AR Revenue By Customer Relationship Pri",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 312732,
+        "end": 313232
+      }
+    },
+    {
+      "id": "f33ad2e86a535109",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 149076,
+      "excerpt": "n contracts typically involve long lead times for design and development, are subject to significant changes in contract scheduling and may be unilaterally modified or canceled by the U.S. Government. Often these contracts call for successful design and production of complex and technologically advanced products or systems. We may participate in supplying products and services to the U.S. Government as either a prime contractor or as a subcontractor to a prime contractor. Disputes may arise betw",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. Report of Independent Registered Pub",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 321093,
+        "end": 321593
+      }
+    },
+    {
+      "id": "b53a0e2149c75ca6",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 944,
+      "excerpt": "tments $ 1,795 $ 1,055 Surety bonds and standby letters of credit (“Performance Bonds”) relate to advances received from customers and the guarantee of future performance, warranty and other purposes. These commitments primarily relate to our ISR and PSPC businesses. Typically, a customer is permitted to draw on a Performance Bond if we do not fulfill all terms of a project contract. In such an event, we would be obligated to reimburse the financial institution that issued the Performance Bond f",
+      "sectionId": "item_1a_risk_factors_of_this_report_inte",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. International As an international company, we are,",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 325179,
+        "end": 325679
+      }
+    },
+    {
+      "id": "9395bb1883df61ad",
+      "ticker": "LHX",
+      "vendor": null,
+      "charOffset": 1868,
+      "excerpt": "tions (“MSL”) SMS will integrate satellite and payload capabilities, including missile warning and defense, with maritime, air special missions, and other global defense and civil government programs. CSD will combine all our capabilities in resilient communications and electronic warfare, while MSL will unite propulsion, hypersonics and other advanced missile technologies. _____________________________________________________________________ 82 The historical results of businesses divested in f",
+      "sectionId": "item_1a_risk_factors_of_this_report_inte",
+      "sectionHeader": "Item 1A. Risk Factors” of this Report. International As an international company, we are,",
+      "form": "10-K",
+      "filingDate": "2026-02-12",
+      "type": "chunk",
+      "range": {
+        "start": 326103,
+        "end": 326603
+      }
+    }
+  ]
+}

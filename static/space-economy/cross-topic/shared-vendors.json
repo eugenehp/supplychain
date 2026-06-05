@@ -1,0 +1,284 @@
+{
+  "generatedAt": "2026-06-05T02:13:58.209Z",
+  "topicId": "space-economy",
+  "accelChunkCount": 12919,
+  "spaceChunkCount": 16860,
+  "sharedCount": 7,
+  "shared": [
+    {
+      "label": "Boeing",
+      "category": "Defense prime",
+      "pattern": "\\bBoeing\\b",
+      "accelerator": {
+        "mentions": 3,
+        "filerCount": 2,
+        "topFilers": [
+          {
+            "shard": "USAR",
+            "count": 2
+          },
+          {
+            "shard": "UUUU",
+            "count": 1
+          }
+        ],
+        "sample": "…as a director at B/E Aerospace, Inc. and CFO of KLX, Inc., a B/E Aerospace, Inc. spin-off, until its acquisition by The Boeing Company in 2018. Mr. Senft was an investment banker for over 30 years, including roles at Moelis & Company, CIBC World Markets Corp., and Merrill Lynch & Co. Mr."
+      },
+      "space": {
+        "mentions": 256,
+        "filerCount": 16,
+        "topFilers": [
+          {
+            "shard": "BA",
+            "count": 160
+          },
+          {
+            "shard": "report__faa-ast-compendium-2018",
+            "count": 58
+          },
+          {
+            "shard": "report__nasa-oig-artemis-supply-chain-2023",
+            "count": 8
+          },
+          {
+            "shard": "report__faa-aerospace-forecast-2025",
+            "count": 4
+          },
+          {
+            "shard": "report__rand-nssl-2023",
+            "count": 4
+          }
+        ],
+        "sample": "Item 1. Business The Boeing Company, together with its subsidiaries (herein referred to as “Boeing,” the “Company,” “we,” “us,” “our”), is one of the world’s major aerospace firms. We are organized based on the products a…"
+      },
+      "totalMentions": 259,
+      "jointStrength": 3
+    },
+    {
+      "label": "Honeywell",
+      "category": "Defense electronics",
+      "pattern": "\\bHoneywell\\b",
+      "accelerator": {
+        "mentions": 2,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "REEMF",
+            "count": 2
+          }
+        ],
+        "sample": "…March 2022), Chairman of Cotter Corporation N.S.L. (October 2011–March 2022), and a management committee member for the Honeywell/General Atomics ConverDyn partnership (June 2016–March 2022). In addition, Mr."
+      },
+      "space": {
+        "mentions": 4,
+        "filerCount": 3,
+        "topFilers": [
+          {
+            "shard": "IRDM",
+            "count": 2
+          },
+          {
+            "shard": "GSAT",
+            "count": 1
+          },
+          {
+            "shard": "RKLB",
+            "count": 1
+          }
+        ],
+        "sample": "…ilar to those marketed by us. Additionally, Garmin's inReach devices provide two-way 10 tracking with SOS capabilities; Honeywell Global Tracking has a personal tracking unit that enables a smartphone with satellite tracking and messaging capabilities; and Somewear has a satellite hotspot; all of which work on Iridium'…"
+      },
+      "totalMentions": 6,
+      "jointStrength": 2
+    },
+    {
+      "label": "Lockheed Martin",
+      "category": "Defense prime",
+      "pattern": "\\bLockheed\\s+Martin\\b",
+      "accelerator": {
+        "mentions": 2,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "USAR",
+            "count": 2
+          }
+        ],
+        "sample": "…Siemens in 2011, Ms. Humpton served as a Vice President at Booz Allen Hamilton and was a Vice President and Director at Lockheed Martin Corporation. Ms."
+      },
+      "space": {
+        "mentions": 242,
+        "filerCount": 17,
+        "topFilers": [
+          {
+            "shard": "LMT",
+            "count": 172
+          },
+          {
+            "shard": "report__faa-ast-compendium-2018",
+            "count": 16
+          },
+          {
+            "shard": "report__aerospace-corp-space-agenda-2025",
+            "count": 13
+          },
+          {
+            "shard": "report__nasa-oig-artemis-supply-chain-2023",
+            "count": 10
+          },
+          {
+            "shard": "LHX",
+            "count": 5
+          }
+        ],
+        "sample": "…ency and value to customers around the world. BDS faces strong competition primarily from General Dynamics Corporation, Lockheed Martin Corporation, Northrop Grumman Corporation, RTX Corporation and SpaceX. Non-U.S. companies such as BAE Systems and Airbus Group continue to build a strategic presence in the U.S. market…"
+      },
+      "totalMentions": 244,
+      "jointStrength": 2
+    },
+    {
+      "label": "Samsung Electronics",
+      "category": "Foundry/Memory",
+      "pattern": "\\bSamsung(?:\\s+(?:Electronics|Foundry|Semiconductor))?\\b",
+      "accelerator": {
+        "mentions": 21,
+        "filerCount": 6,
+        "topFilers": [
+          {
+            "shard": "GFS",
+            "count": 8
+          },
+          {
+            "shard": "NVDA",
+            "count": 6
+          },
+          {
+            "shard": "AMD",
+            "count": 2
+          },
+          {
+            "shard": "KLAC",
+            "count": 2
+          },
+          {
+            "shard": "MU",
+            "count": 2
+          }
+        ],
+        "sample": "…s at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices. Other Third-Party Manufacturers We outsource board-level graphics product manufacturing to third-…"
+      },
+      "space": {
+        "mentions": 1,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "VSAT",
+            "count": 1
+          }
+        ],
+        "sample": "…med her current role of Chief Accounting Officer. Previously, she worked as Senior Director — Finance and Accounting at Samsung Electronics America, a consumer electronics company, from 2009 to 2014, and as Assistant Controller at CryoCor, Inc., a medical technology company, from 2005 to 2008. She also served as a Seni…"
+      },
+      "totalMentions": 22,
+      "jointStrength": 1
+    },
+    {
+      "label": "Cadence Design",
+      "category": "EDA",
+      "pattern": "\\bCadence(?:\\s+Design)?\\b",
+      "accelerator": {
+        "mentions": 595,
+        "filerCount": 3,
+        "topFilers": [
+          {
+            "shard": "CDNS",
+            "count": 592
+          },
+          {
+            "shard": "TSM",
+            "count": 2
+          },
+          {
+            "shard": "SNPS",
+            "count": 1
+          }
+        ],
+        "sample": "…this Annual Report. We do not intend, and undertake no obligation, to update these forward-looking statements. Overview Cadence® is a global technology leader that develops computational, AI-driven software, accelerated hardware, and silicon intellectual property (“IP”) products and solutions. Our customers include sem…"
+      },
+      "space": {
+        "mentions": 1,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "RKLB",
+            "count": 1
+          }
+        ],
+        "sample": "…ess, measuring our performance, identifying trends and making strategic decisions. Launch Vehicle Build-Rate and Launch Cadence We built approximately 11 Electron launch vehicles in 2023, approximately 14 Electron launch vehicles in 2024 and approximately 24 Electron launch vehicles in 2025. We launched ten Electron ve…"
+      },
+      "totalMentions": 596,
+      "jointStrength": 1
+    },
+    {
+      "label": "Microchip Technology",
+      "category": "Microelectronics",
+      "pattern": "\\bMicrochip(?:\\s+Technology)?\\b",
+      "accelerator": {
+        "mentions": 3,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "GFS",
+            "count": 3
+          }
+        ],
+        "sample": "…Moorthy was elected to the Board of Directors in January 2026. Mr. Moorthy served as CEO, president and board member at Microchip Technology until his retirement in November 2024. He was appointed president and CEO in March 2021 and joined Microchip’s Board of Directors in January 2021. Mr. Moorthy joined Microchip in…"
+      },
+      "space": {
+        "mentions": 1,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "report__eurospace-ff-2022",
+            "count": 1
+          }
+        ],
+        "sample": "…Actual Mersen Boostec Proxy Microchip (ATMEL) Actual Microtec Proxy Miratlas…"
+      },
+      "totalMentions": 4,
+      "jointStrength": 1
+    },
+    {
+      "label": "STMicroelectronics",
+      "category": "Mixed-signal",
+      "pattern": "\\bST\\s*Microelectronics\\b|\\bSTMicro\\b",
+      "accelerator": {
+        "mentions": 3,
+        "filerCount": 2,
+        "topFilers": [
+          {
+            "shard": "TSM",
+            "count": 2
+          },
+          {
+            "shard": "ASML",
+            "count": 1
+          }
+        ],
+        "sample": "…SAP Siemens Schneider Electric Semiconductor manufacturing / design companies Broadcom Intel Micron Technology Qualcomm STMicroelectronics Infineon Technologies NXP Semiconductors Semiconductor equipment Applied Materials KLA Corporation Lam Research The 2025 remuneration for all Board of Management members, positions…"
+      },
+      "space": {
+        "mentions": 1,
+        "filerCount": 1,
+        "topFilers": [
+          {
+            "shard": "report__eurospace-ff-2022",
+            "count": 1
+          }
+        ],
+        "sample": "…Proxy Stellar Actual STMicroelectronics Actual Symetrie Actual Syrlinks…"
+      },
+      "totalMentions": 4,
+      "jointStrength": 1
+    }
+  ]
+}

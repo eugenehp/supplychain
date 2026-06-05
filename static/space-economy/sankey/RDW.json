@@ -1,0 +1,134 @@
+{
+  "ticker": "RDW",
+  "topicId": "space-economy",
+  "product": "Redwire ISAM & space components",
+  "segment": "isam",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-27",
+    "accessionNumber": "0001819810-26-000029",
+    "primaryDocument": "rdw-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/rdw-20251231.htm",
+  "summary": {
+    "nodeCount": 6,
+    "linkCount": 5,
+    "totalFlow": 206,
+    "filingChars": 516450,
+    "mentionDensity": 0.4,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Integration & test",
+        "score": 200
+      },
+      {
+        "subsystem": "Power & solar",
+        "score": 4
+      },
+      {
+        "subsystem": "Ground & comms",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 200
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "explicitSuppliers": 1,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "Redwire ISAM & space components",
+      "name": "Redwire ISAM & space components",
+      "tier": 0,
+      "group": "product",
+      "description": "RDW 10-K / 20-F · 10-K 2026-02-27",
+      "country": "US",
+      "mentionScore": 206
+    },
+    {
+      "id": "Power & solar",
+      "name": "Power & solar",
+      "tier": 1,
+      "group": "power",
+      "description": "Subsystem category — Power & solar",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category — Ground & comms",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · RDW 10-K mentions: 2",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    },
+    {
+      "id": "Integration & test",
+      "name": "Integration & test",
+      "tier": 1,
+      "group": "integration",
+      "description": "Subsystem category — Integration & test",
+      "country": null,
+      "mentionScore": 200,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Redwire Space",
+      "name": "Redwire Space",
+      "tier": 2,
+      "group": "integration",
+      "description": "Integration & test · RDW 10-K mentions: 200",
+      "country": "US",
+      "mentionScore": 200,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "Power & solar",
+      "target": "Redwire ISAM & space components",
+      "value": 4
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 2
+    },
+    {
+      "source": "Redwire Space",
+      "target": "Integration & test",
+      "value": 200
+    },
+    {
+      "source": "Ground & comms",
+      "target": "Redwire ISAM & space components",
+      "value": 2
+    },
+    {
+      "source": "Integration & test",
+      "target": "Redwire ISAM & space components",
+      "value": 200
+    }
+  ]
+}

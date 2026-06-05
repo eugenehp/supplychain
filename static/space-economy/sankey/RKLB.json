@@ -1,0 +1,272 @@
+{
+  "ticker": "RKLB",
+  "topicId": "space-economy",
+  "product": "Rocket Lab — Electron / Neutron",
+  "segment": "launch",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-26",
+    "accessionNumber": "0001819994-26-000013",
+    "primaryDocument": "rklb-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000013/rklb-20251231.htm",
+  "summary": {
+    "nodeCount": 14,
+    "linkCount": 14,
+    "totalFlow": 32,
+    "filingChars": 430368,
+    "mentionDensity": 0.07,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Propulsion",
+        "score": 10
+      },
+      {
+        "subsystem": "Power & solar",
+        "score": 5
+      },
+      {
+        "subsystem": "Optics & imaging",
+        "score": 5
+      },
+      {
+        "subsystem": "GN&C / star trackers",
+        "score": 4
+      },
+      {
+        "subsystem": "Structures & TPS",
+        "score": 4
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 15
+      },
+      {
+        "country": "CA",
+        "score": 9
+      }
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "explicitSuppliers": 6,
+    "heuristicSuppliers": 0
+  },
+  "nodes": [
+    {
+      "id": "Rocket Lab — Electron / Neutron",
+      "name": "Rocket Lab — Electron / Neutron",
+      "tier": 0,
+      "group": "product",
+      "description": "RKLB 10-K / 20-F · 10-K 2026-02-26",
+      "country": "US",
+      "mentionScore": 32
+    },
+    {
+      "id": "Propulsion",
+      "name": "Propulsion",
+      "tier": 1,
+      "group": "rocket",
+      "description": "Subsystem category — Propulsion",
+      "country": null,
+      "mentionScore": 10,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Rutherford engine",
+      "name": "Rutherford engine",
+      "tier": 2,
+      "group": "rocket",
+      "description": "Propulsion · RKLB 10-K mentions: 7",
+      "country": "US",
+      "mentionScore": 7,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Inconel / Haynes",
+      "name": "Inconel / Haynes",
+      "tier": 3,
+      "group": "structures",
+      "description": "Raw input — Inconel / Haynes",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Archimedes engine",
+      "name": "Archimedes engine",
+      "tier": 2,
+      "group": "rocket",
+      "description": "Propulsion · RKLB 10-K mentions: 3",
+      "country": "US",
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Power & solar",
+      "name": "Power & solar",
+      "tier": 1,
+      "group": "power",
+      "description": "Subsystem category — Power & solar",
+      "country": null,
+      "mentionScore": 5,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Rocket Lab SolAero",
+      "name": "Rocket Lab SolAero",
+      "tier": 2,
+      "group": "power",
+      "description": "Power & solar · RKLB 10-K mentions: 5",
+      "country": "US",
+      "mentionScore": 5,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Triple-junction solar cell",
+      "name": "Triple-junction solar cell",
+      "tier": 3,
+      "group": "power",
+      "description": "Raw input — Triple-junction solar cell",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "GN&C / star trackers",
+      "name": "GN&C / star trackers",
+      "tier": 1,
+      "group": "gnc",
+      "description": "Subsystem category — GN&C / star trackers",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Sinclair Interplanetary",
+      "name": "Sinclair Interplanetary",
+      "tier": 2,
+      "group": "gnc",
+      "description": "GN&C / star trackers · RKLB 10-K mentions: 4",
+      "country": "CA",
+      "mentionScore": 4,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Structures & TPS",
+      "name": "Structures & TPS",
+      "tier": 1,
+      "group": "structures",
+      "description": "Subsystem category — Structures & TPS",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Carbon-fiber composite",
+      "name": "Carbon-fiber composite",
+      "tier": 2,
+      "group": "structures",
+      "description": "Structures & TPS · RKLB 10-K mentions: 4",
+      "country": null,
+      "mentionScore": 4,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 5,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "MDA (Canada)",
+      "name": "MDA (Canada)",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · RKLB 10-K mentions: 5",
+      "country": "CA",
+      "mentionScore": 5,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "Rutherford engine",
+      "target": "Propulsion",
+      "value": 7
+    },
+    {
+      "source": "Inconel / Haynes",
+      "target": "Rutherford engine",
+      "value": 1
+    },
+    {
+      "source": "Archimedes engine",
+      "target": "Propulsion",
+      "value": 3
+    },
+    {
+      "source": "Inconel / Haynes",
+      "target": "Archimedes engine",
+      "value": 1
+    },
+    {
+      "source": "Power & solar",
+      "target": "Rocket Lab — Electron / Neutron",
+      "value": 9
+    },
+    {
+      "source": "Rocket Lab SolAero",
+      "target": "Power & solar",
+      "value": 5
+    },
+    {
+      "source": "Triple-junction solar cell",
+      "target": "Rocket Lab SolAero",
+      "value": 1
+    },
+    {
+      "source": "Sinclair Interplanetary",
+      "target": "GN&C / star trackers",
+      "value": 4
+    },
+    {
+      "source": "Carbon-fiber composite",
+      "target": "Structures & TPS",
+      "value": 4
+    },
+    {
+      "source": "MDA (Canada)",
+      "target": "Optics & imaging",
+      "value": 5
+    },
+    {
+      "source": "Propulsion",
+      "target": "Rocket Lab — Electron / Neutron",
+      "value": 10
+    },
+    {
+      "source": "GN&C / star trackers",
+      "target": "Rocket Lab — Electron / Neutron",
+      "value": 4
+    },
+    {
+      "source": "Structures & TPS",
+      "target": "Rocket Lab — Electron / Neutron",
+      "value": 4
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "Rocket Lab — Electron / Neutron",
+      "value": 5
+    }
+  ]
+}

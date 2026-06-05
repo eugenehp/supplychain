@@ -1,0 +1,211 @@
+{
+  "ticker": "VSAT",
+  "queryVariants": [
+    "VIASAT INC",
+    "VIASAT",
+    "VIASAT, INC."
+  ],
+  "sampleRecipients": [
+    "VIASAT INC",
+    "TRELLISWARE TECHNOLOGIES INC"
+  ],
+  "totalAmount": 2100965039.5599997,
+  "awardCount": 101,
+  "byAgency": [
+    {
+      "agency": "Department of Defense",
+      "amount": 1717907991.49
+    },
+    {
+      "agency": "General Services Administration",
+      "amount": 362939352.81
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "amount": 20117695.259999998
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "HC101318C0001",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 476493261.97,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF AWARD FOR AMSS III",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC108418C0002",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 136226345.17,
+      "psc": null,
+      "naics": null,
+      "description": "BFT2 WARRANTIES/ LICENSES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "0012",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 76714086,
+      "psc": null,
+      "naics": null,
+      "description": "TACTICAL TARGETING NETWORK TECHNOLOGY (TTNT) SPECTRUM RELOCATION DEVELOPMENT DELIVERY ORDER.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "47QFLA25F0054",
+      "recipient": "VIASAT INC",
+      "agency": "General Services Administration",
+      "subAgency": "Federal Acquisition Service",
+      "amount": 66588478.91,
+      "psc": null,
+      "naics": null,
+      "description": "VIASAT TO16",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0003920F0291",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 58422130,
+      "psc": null,
+      "naics": null,
+      "description": "MIDS JTRS TERMINAL",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0003919F0342",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 43377299.38,
+      "psc": null,
+      "naics": null,
+      "description": "MIDS JTRS TERMINAL",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101320C0005",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 39663100.81,
+      "psc": null,
+      "naics": null,
+      "description": "NAVAL SENIOR LEADERSHIP COMMUNICATION - AIRCRAFT (NSLC-A) SATELLITE COMMUNICATIONS SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0003920F0422",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 36870117,
+      "psc": null,
+      "naics": null,
+      "description": "MIDS JTRS TERMINALS&SPARES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "0005",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 36168745.11,
+      "psc": null,
+      "naics": null,
+      "description": "MULTIFUNCTIONAL INFORMATION DISTRIBUTION SYSTEM (MIDS) JOINT TACTICAL RADIO SYSTEM (JTRS) UNITED STATES AIR FORCE (USAF) F22 DSYSTEM DESIGN&DEVELOPMENT.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC102822F0217",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 34345740,
+      "psc": null,
+      "naics": null,
+      "description": "BFT2 GROUND VEHICULAR TRANSCEIVERS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC108424C0004",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 32906464.98,
+      "psc": null,
+      "naics": null,
+      "description": "BFT2 FOLLOW ON AWARD",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "47QFLA24F0144",
+      "recipient": "VIASAT INC",
+      "agency": "General Services Administration",
+      "subAgency": "Federal Acquisition Service",
+      "amount": 32730695.68,
+      "psc": null,
+      "naics": null,
+      "description": "JS VIASAT TO295 MCSC",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101317C0004",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 30537451.29,
+      "psc": null,
+      "naics": null,
+      "description": "IGF::OT::IGF GLOBAL NETWORK SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HC101322C0005",
+      "recipient": "VIASAT INC",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Information Systems Agency",
+      "amount": 30039821.52,
+      "psc": null,
+      "naics": null,
+      "description": "VGNET KU PLUS-8 SIMOPS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "47QFLA25F0041",
+      "recipient": "VIASAT INC",
+      "agency": "General Services Administration",
+      "subAgency": "Federal Acquisition Service",
+      "amount": 26718864.3,
+      "psc": null,
+      "naics": null,
+      "description": "47QFLA25Q0043  VIASAT TO13 USMC",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

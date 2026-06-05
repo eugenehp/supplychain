@@ -1,0 +1,63 @@
+{
+  "ticker": "RTX",
+  "cik": "0000101829",
+  "current": {
+    "form": "10-K",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "accessionNumber": "0000101829-26-000006",
+    "sentCount": 398
+  },
+  "prior": {
+    "form": "10-K",
+    "filingDate": "2025-02-03",
+    "reportDate": "2024-12-31",
+    "accessionNumber": "0000101829-25-000005",
+    "sentCount": 477
+  },
+  "addedCount": 14,
+  "removedCount": 93,
+  "added": [
+    "We face risks relating to our U.S. government contracts and programs, including the mix of our U.S. government contracts and programs, our performance, and our ability to control costs.",
+    "Transactions related to non-U.S. operations may be denominated in local currencies.",
+    "These measures have adversely affected and could continue to adversely affect the Company and/or our supply chain, business partners, or customers. 15 Table of Contents We continue to closely monitor potential impacts to RTX’s business, customers, suppliers, employees, and operations in Israel, the Middle East, and the region at large due to continued regional instability and tensions.",
+    "This issue has resulted in increased engine removals and inspections, shop visits, aircraft on ground levels, and costs to the Company.",
+    "Additionally, some customers, including the DoW, are increasingly turning to commercial contractors, other non-traditional defense contractors, and startups.",
+    "Global supply chain disruptions have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities.",
+    "However, the labor environment has experienced shifts that pose higher risk of future labor disruption.",
+    "Any restrictions on the export or import of our products or product lines could have a material adverse effect on our competitive position, results of operations, financial condition, or liquidity. 20 Table of Contents In addition, as previously disclosed, on August 29, 2024, the Company entered into a Consent Agreement (CA) with the DOS to resolve alleged civil violations of the AECA and the ITAR.",
+    "A single independent compliance monitor was selected to oversee Raytheon Company’s and the Company’s compliance with their respective obligations under DPA-1, DPA-2, and the SEC Administrative Order, and that monitor is expected to be in place by the end of the first quarter.",
+    "Customers, shareholders, and institutional investors may focus on measuring and minimizing environmental impact, including our environmental sustainability practices and commitments with respect to our operations, products, and suppliers.",
+    "As a result, we continue to evaluate making additional investments in new technologies and capabilities, and devoting management and other resources in response to the foregoing.",
+    "Our results of operations, financial condition, or liquidity could be negatively impacted by any of the above factors, the outcome of any one of which cannot be predicted with certainty.",
+    "Goodwill and other intangible assets represent a significant portion of our assets, and any impairment of these assets could negatively impact our results of operations and financial condition.",
+    "In addition, pursuant to a January 7, 2026 Executive Order, the Secretary of War could seek to limit our ability to pay cash dividends or make share repurchases if the Secretary of War determines that we have underperformed or lacked sufficient prioritization of, investment in or production speed in carrying out / performing under our U.S. government contracts."
+  ],
+  "removed": [
+    "INDUSTRY RISKS Our business may be adversely affected by changes in global economic, capital market, and political conditions.",
+    "Our business, operating results, financial condition, and liquidity may be adversely affected by changes in global economic conditions, international relations, and geopolitical events and actions, including inflation, credit market conditions, levels of consumer and business confidence, commodity (including energy) prices and supply, trade policies (including tariffs), exchange rates, levels of government spending and deficits, the threat environment, political conditions, and actual or anticipated default on sovereign debt.",
+    "Supply chain challenges and inflationary pressures continue to negatively affect our performance and the performance of our suppliers and subcontractors.",
+    "Inflation has increased material and component prices, labor rates, and supplier costs.",
+    "In addition, due to the nature of our government and commercial aerospace businesses, and their respective customer and supplier contracts, we may be unable to increase our contract value or pricing to offset cost increases, in particular on our fixed price contracts.",
+    "Our operating profits and margins under our contracts could be adversely affected by these factors.",
+    "In addition, high interest rates can increase the cost of borrowing and tighten the availability of capital for the Company, which could have an adverse effect on our operating results, financial condition, and liquidity.",
+    "Tightening of credit in financial markets also could adversely affect the ability of our customers and suppliers to obtain financing for significant purchases and operations, could result in a decrease in, or cancellation of, orders for our products and services, could impact the ability of our customers to make payments, and could increase the risk of supplier financial distress.",
+    "Moreover, volatility in interest rates and financial markets can lead to economic uncertainty, an economic downturn or recession and impact the demand for our products and services as well as impact our supply chain.",
+    "Our global business is also adversely affected by decreases in the general level of economic activity, such as decreases in business and consumer spending, air travel, the financial strength and performance of airframers, airlines and business jet operators, and government procurement.",
+    "In addition, geopolitical risks could affect government priorities, budgets, and policies, such as U.S. approvals of our foreign defense sales as well as sanctions, imposition of tariffs, and other trade-restrictive activities, which could impact sales of defense and other products and services.",
+    "The U.S. government is currently operating under a continuing resolution to keep the government funded while Congress works to enact full year fiscal year 2025 (FY25) appropriation bills.",
+    "It is currently uncertain whether Congress will be able to enact FY25 appropriation bills and, if such bills are passed, the spending levels and priorities for defense and other areas.",
+    "If Congress is unable to complete the FY25 appropriation bills, (or pass another continuing resolution), then the U.S. government would shut down, during which time federal agencies would cease all non-essential functions.",
+    "We also may experience similar impacts in the event of an extended period of continuing resolutions.",
+    "Generally, the significance of these impacts will primarily be based on the length of the continuing resolution or shutdown.",
+    "Furthermore, under the Fiscal Responsibility Act of 2023, which imposes limits on discretionary spending for defense and non-defense programs in exchange for the lifting of the debt ceiling in June 2023, if Congress fails to enact all appropriation bills by April 30, 2025, then the budget caps will be reduced and corresponding automatic reductions to agency budget accounts will be enforced through sequestration.",
+    "Our non-U.S. operations transactions may be denominated in local currencies.",
+    "From time to time, we have disputes with such representatives regarding claimed commissions and other matters which can result in litigation or arbitration.",
+    "In addition, we face risks related to the unintended or unauthorized use of our products.",
+    "In addition, foreign companies may be subject to fewer restrictions on technology transfer than U.S. companies.",
+    "These measures have adversely affected and could continue to adversely affect the Company and/or our supply chain, business partners, or customers.",
+    "We continue to closely monitor potential impacts to RTX’s business, customers, suppliers, employees, and operations in Israel, the Middle East, and the region at large due to the war in Gaza, including a recently-announced ceasefire, the related escalation of conflict and instability in the region, and the regime change in Syria.",
+    "RTX’s commercial manufacturing facilities in Israel remain open and operational and have continued exporting products and importing critical items and raw materials.",
+    "RTX’s defense programs’ ability to receive components from Israel has not been impacted in any material respect, although we could experience future delivery delays of certain products if the ceasefire does not hold, or if further escalations arise."
+  ]
+}

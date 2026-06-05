@@ -1,0 +1,218 @@
+{
+  "ticker": "PL",
+  "queryVariants": [
+    "Planet Labs PBC",
+    "PLANET LABS PBC",
+    "PLANET LABS FEDERAL INC."
+  ],
+  "sampleRecipients": [
+    "PLANET LABS PBC"
+  ],
+  "totalAmount": 19561215.48,
+  "awardCount": 15,
+  "byAgency": [
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 18500001
+    },
+    {
+      "agency": "Department of the Interior",
+      "amount": 631075.98
+    },
+    {
+      "agency": "Department of Defense",
+      "amount": 239760
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "amount": 142018.5
+    },
+    {
+      "agency": "Smithsonian Institution",
+      "amount": 48360
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "80HQTR23F0108",
+      "recipient": "PLANET LABS PBC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6166667,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM - PLANETSCOPE AND RAPIDEYE DATA PURCHASE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR23F0098",
+      "recipient": "PLANET LABS PBC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6166667,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM - GNSS SATELLITE DATA PRODUCTS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR23F0071",
+      "recipient": "PLANET LABS PBC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 6166667,
+      "psc": null,
+      "naics": null,
+      "description": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM - GNSS SATELLITE DATA PRODUCTS",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140S0323F0001",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "Office of Surface Mining, Reclamation and Enforcement",
+      "amount": 291003.6,
+      "psc": null,
+      "naics": null,
+      "description": "PLANET LABS DAILY IMAGERY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "W913E524P0016",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Army",
+      "amount": 239760,
+      "psc": null,
+      "naics": null,
+      "description": "PLANET LAB SKYSAT IMAGERY OF SEA ICE AROUND 25 DRIFING ARTIC BUOYS U437G00",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "75F40123F80012",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of Health and Human Services",
+      "subAgency": "Food and Drug Administration",
+      "amount": 142018.5,
+      "psc": null,
+      "naics": null,
+      "description": "THE PURPOSE OF THIS REQUIREMENT IS TO SECURE CONTINUED ACCESS TO SATELLITE IMAGERY AND DATA NECESSARY FOR UNDERSTANDING AND MODELING LANDSCAPE CHANGE IN PRODUCE GROWING AREAS OF THE USA.  FDA WILL LICENSE AND ACQUIRE ACCESS TO VIEW AND DOWN",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140G0326P0132",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "U.S. Geological Survey",
+      "amount": 60345,
+      "psc": null,
+      "naics": null,
+      "description": "EO 14398 - THIS REQUIREMENT IS FOR SUPPORT SERVICES FOR VOLCANO SCIENCE CENTER. SATELLITE IMAGERY SUBSCRIPTION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140R8125F0190",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "Bureau of Reclamation",
+      "amount": 48876,
+      "psc": null,
+      "naics": null,
+      "description": "G1 SATELLITE IMAGERY ORDER 2025 MSCP",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140R8123F0002",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "Bureau of Reclamation",
+      "amount": 48876,
+      "psc": null,
+      "naics": null,
+      "description": "G1 PLANET LABS ORDER LCR MSCP",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140R3024F0085",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "Bureau of Reclamation",
+      "amount": 48876,
+      "psc": null,
+      "naics": null,
+      "description": "SATELLITE IMAGERY ORDER 2024",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140R3024F0003",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "Bureau of Reclamation",
+      "amount": 48876,
+      "psc": null,
+      "naics": null,
+      "description": "SATELLITE IMAGERY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140P2123F0119",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "National Park Service",
+      "amount": 46482.38,
+      "psc": null,
+      "naics": null,
+      "description": "NPS-NATIONAL INTERAGENCY FIRE CENTER (NIFC) - BPA CALL - FIRE INCIDENT REMOTE SENSING - SATELLITE IMAGERY SUBSCRIPTIONS SERVICES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "140G0223F0184",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Department of the Interior",
+      "subAgency": "U.S. Geological Survey",
+      "amount": 37741,
+      "psc": null,
+      "naics": null,
+      "description": "SATELLITE IMAGERY, THE FOOTPRINT OF THE 2022 MOOSE FIRE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "33315224P00513418",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Smithsonian Institution",
+      "subAgency": "Smithsonian Institution",
+      "amount": 24180,
+      "psc": null,
+      "naics": null,
+      "description": "LICENSING/EDUCATIONAL RESOURCES FOR INFORMATION TECHNOLOGY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "33315223P00498972",
+      "recipient": "PLANET LABS PBC",
+      "agency": "Smithsonian Institution",
+      "subAgency": "Smithsonian Institution",
+      "amount": 24180,
+      "psc": null,
+      "naics": null,
+      "description": "ACADEMIC SITE LICENSE RENEWAL",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

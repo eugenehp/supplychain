@@ -1,0 +1,55 @@
+{
+  "ticker": "LHX",
+  "topicId": "space-economy",
+  "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+  "cik": "0000202058",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-12",
+    "accessionNumber": "0000202058-26-000015",
+    "primaryDocument": "hrs-20260102.htm",
+    "reportDate": "2026-01-02"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000015/hrs-20260102.htm",
+  "facts": {
+    "Revenues": {
+      "value": 6182000000,
+      "end": "2018-06-29",
+      "filed": "2018-08-27",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 21865000000,
+      "end": "2026-01-02",
+      "filed": "2026-02-12",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 1871700000,
+      "end": "2010-07-02",
+      "filed": "2010-08-30",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 41195000000,
+      "end": "2026-01-02",
+      "filed": "2026-02-12",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 5900000000,
+      "end": "2017-06-30",
+      "filed": "2017-08-29",
+      "form": "10-K"
+    }
+  },
+  "textLength": 364329,
+  "exportedAt": "2026-06-05T04:10:32.628Z",
+  "localUrls": {
+    "text": "/space-economy/sec/LHX/filing.txt",
+    "metadata": "/space-economy/sec/LHX/metadata.json",
+    "sections": "/space-economy/sec/LHX/sections.json",
+    "evidence": "/space-economy/sec/LHX/evidence.json",
+    "display": "/space-economy/sec/LHX/display.json"
+  }
+}

@@ -8,6 +8,7 @@
   import { hybridSearch } from './hybrid-search.js';
   import { excerptForHighlight } from './filing-open.js';
   import { prefetchFiling } from './filing-cache.js';
+  import { getSecRoot } from './rag-namespace.js';
   import * as Select from '$lib/components/ui/select/index.js';
   import { Input } from '$lib/components/ui/input/index.js';
   import { Label } from '$lib/components/ui/label/index.js';
@@ -112,7 +113,7 @@
 
   async function loadEmbeddings() {
     try {
-      const res = await fetch('/sec/evidence-embeddings.json');
+      const res = await fetch(`${getSecRoot()}/evidence-embeddings.json`);
       if (!res.ok) return;
       embeddingIndex = loadEmbeddingIndex(await res.json());
     } catch {

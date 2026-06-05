@@ -1,0 +1,883 @@
+{
+  "generatedAt": "2026-06-05T04:10:45.435Z",
+  "topicId": "space-economy",
+  "filings": [
+    {
+      "ticker": "ASTS",
+      "topicId": "space-economy",
+      "name": "AST SpaceMobile, Inc.",
+      "cik": "0001780312",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-02",
+        "accessionNumber": "0001780312-26-000006",
+        "primaryDocument": "asts-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1780312/000178031226000006/asts-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 4400000,
+          "end": "2024-12-31",
+          "filed": "2025-03-03",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 13825000,
+          "end": "2024-12-31",
+          "filed": "2025-03-03",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 28115000,
+          "end": "2025-12-31",
+          "filed": "2026-03-02",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 0,
+          "end": "2023-12-31",
+          "filed": "2024-04-01",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 0,
+          "end": "2023-12-31",
+          "filed": "2024-04-01",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 5014387000,
+          "end": "2025-12-31",
+          "filed": "2026-03-02",
+          "form": "10-K"
+        }
+      },
+      "textLength": 507399,
+      "exportedAt": "2026-06-05T04:10:25.324Z",
+      "localUrls": {
+        "text": "/space-economy/sec/ASTS/filing.txt",
+        "metadata": "/space-economy/sec/ASTS/metadata.json",
+        "sections": "/space-economy/sec/ASTS/sections.json",
+        "evidence": "/space-economy/sec/ASTS/evidence.json",
+        "display": "/space-economy/sec/ASTS/display.json"
+      },
+      "evidenceCount": 259,
+      "sectionCount": 15,
+      "displayBlockCount": 406
+    },
+    {
+      "ticker": "BA",
+      "topicId": "space-economy",
+      "name": "BOEING CO",
+      "cik": "0000012927",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-30",
+        "accessionNumber": "0001628280-26-004357",
+        "primaryDocument": "ba-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 89463000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-30",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 76559000000,
+          "end": "2019-12-31",
+          "filed": "2020-01-31",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 3615000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-30",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 85174000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-30",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 4289000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 168235000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-30",
+          "form": "10-K"
+        }
+      },
+      "textLength": 419592,
+      "exportedAt": "2026-06-05T04:10:27.007Z",
+      "localUrls": {
+        "text": "/space-economy/sec/BA/filing.txt",
+        "metadata": "/space-economy/sec/BA/metadata.json",
+        "sections": "/space-economy/sec/BA/sections.json",
+        "evidence": "/space-economy/sec/BA/evidence.json",
+        "display": "/space-economy/sec/BA/display.json"
+      },
+      "evidenceCount": 170,
+      "sectionCount": 16,
+      "displayBlockCount": 362
+    },
+    {
+      "ticker": "BKSY",
+      "topicId": "space-economy",
+      "name": "BlackSky Technology Inc.",
+      "cik": "0001753539",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-17",
+        "accessionNumber": "0001753539-26-000032",
+        "primaryDocument": "bksy-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000032/bksy-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 0,
+          "end": "2020-12-31",
+          "filed": "2021-03-31",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 106575000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 433000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 386246000,
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "form": "10-K"
+        }
+      },
+      "textLength": 469438,
+      "exportedAt": "2026-06-05T04:10:27.886Z",
+      "localUrls": {
+        "text": "/space-economy/sec/BKSY/filing.txt",
+        "metadata": "/space-economy/sec/BKSY/metadata.json",
+        "sections": "/space-economy/sec/BKSY/sections.json",
+        "evidence": "/space-economy/sec/BKSY/evidence.json",
+        "display": "/space-economy/sec/BKSY/display.json"
+      },
+      "evidenceCount": 270,
+      "sectionCount": 15,
+      "displayBlockCount": 388
+    },
+    {
+      "ticker": "GSAT",
+      "topicId": "space-economy",
+      "name": "Globalstar, Inc.",
+      "cik": "0001366868",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-27",
+        "accessionNumber": "0001366868-26-000012",
+        "primaryDocument": "gsat-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1366868/000136686826000012/gsat-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 31835000,
+          "end": "2019-12-31",
+          "filed": "2020-02-28",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 272986000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 6100000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 2326265000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        }
+      },
+      "textLength": 370776,
+      "exportedAt": "2026-06-05T04:10:29.719Z",
+      "localUrls": {
+        "text": "/space-economy/sec/GSAT/filing.txt",
+        "metadata": "/space-economy/sec/GSAT/metadata.json",
+        "sections": "/space-economy/sec/GSAT/sections.json",
+        "evidence": "/space-economy/sec/GSAT/evidence.json",
+        "display": "/space-economy/sec/GSAT/display.json"
+      },
+      "evidenceCount": 235,
+      "sectionCount": 18,
+      "displayBlockCount": 273
+    },
+    {
+      "ticker": "IRDM",
+      "topicId": "space-economy",
+      "name": "Iridium Communications Inc.",
+      "cik": "0001418819",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-12",
+        "accessionNumber": "0001418819-26-000009",
+        "primaryDocument": "irdm-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000009/irdm-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 871659000,
+          "end": "2025-12-31",
+          "filed": "2026-02-12",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 871659000,
+          "end": "2025-12-31",
+          "filed": "2026-02-12",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 19758000,
+          "end": "2025-12-31",
+          "filed": "2026-02-12",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 2531009000,
+          "end": "2025-12-31",
+          "filed": "2026-02-12",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 448046000,
+          "end": "2017-12-31",
+          "filed": "2018-02-22",
+          "form": "10-K"
+        }
+      },
+      "textLength": 388640,
+      "exportedAt": "2026-06-05T04:10:30.984Z",
+      "localUrls": {
+        "text": "/space-economy/sec/IRDM/filing.txt",
+        "metadata": "/space-economy/sec/IRDM/metadata.json",
+        "sections": "/space-economy/sec/IRDM/sections.json",
+        "evidence": "/space-economy/sec/IRDM/evidence.json",
+        "display": "/space-economy/sec/IRDM/display.json"
+      },
+      "evidenceCount": 282,
+      "sectionCount": 16,
+      "displayBlockCount": 371
+    },
+    {
+      "ticker": "LHX",
+      "topicId": "space-economy",
+      "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "cik": "0000202058",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-12",
+        "accessionNumber": "0000202058-26-000015",
+        "primaryDocument": "hrs-20260102.htm",
+        "reportDate": "2026-01-02"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000015/hrs-20260102.htm",
+      "facts": {
+        "Revenues": {
+          "value": 6182000000,
+          "end": "2018-06-29",
+          "filed": "2018-08-27",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 21865000000,
+          "end": "2026-01-02",
+          "filed": "2026-02-12",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 1871700000,
+          "end": "2010-07-02",
+          "filed": "2010-08-30",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 41195000000,
+          "end": "2026-01-02",
+          "filed": "2026-02-12",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 5900000000,
+          "end": "2017-06-30",
+          "filed": "2017-08-29",
+          "form": "10-K"
+        }
+      },
+      "textLength": 364329,
+      "exportedAt": "2026-06-05T04:10:32.628Z",
+      "localUrls": {
+        "text": "/space-economy/sec/LHX/filing.txt",
+        "metadata": "/space-economy/sec/LHX/metadata.json",
+        "sections": "/space-economy/sec/LHX/sections.json",
+        "evidence": "/space-economy/sec/LHX/evidence.json",
+        "display": "/space-economy/sec/LHX/display.json"
+      },
+      "evidenceCount": 156,
+      "sectionCount": 18,
+      "displayBlockCount": 278
+    },
+    {
+      "ticker": "LMT",
+      "topicId": "space-economy",
+      "name": "LOCKHEED MARTIN CORP",
+      "cik": "0000936468",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-29",
+        "accessionNumber": "0001628280-26-004195",
+        "primaryDocument": "lmt-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 75048000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 59812000000,
+          "end": "2019-12-31",
+          "filed": "2020-02-07",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2000000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 67429000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 7619000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 59840000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-29",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 51048000000,
+          "end": "2017-12-31",
+          "filed": "2018-02-06",
+          "form": "10-K"
+        }
+      },
+      "textLength": 435418,
+      "exportedAt": "2026-06-05T04:10:33.404Z",
+      "localUrls": {
+        "text": "/space-economy/sec/LMT/filing.txt",
+        "metadata": "/space-economy/sec/LMT/metadata.json",
+        "sections": "/space-economy/sec/LMT/sections.json",
+        "evidence": "/space-economy/sec/LMT/evidence.json",
+        "display": "/space-economy/sec/LMT/display.json"
+      },
+      "evidenceCount": 150,
+      "sectionCount": 15,
+      "displayBlockCount": 411
+    },
+    {
+      "ticker": "MNTS",
+      "topicId": "space-economy",
+      "name": "Momentus Inc.",
+      "cik": "0001781162",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-31",
+        "accessionNumber": "0001628280-26-022291",
+        "primaryDocument": "mnts-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1781162/000162828026022291/mnts-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 1110000,
+          "end": "2025-12-31",
+          "filed": "2026-03-31",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 9190000,
+          "end": "2025-12-31",
+          "filed": "2026-03-31",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 1200000,
+          "end": "2022-05-31",
+          "filed": "2023-03-08",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 1108000,
+          "end": "2025-12-31",
+          "filed": "2026-03-31",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 40319000,
+          "end": "2025-12-31",
+          "filed": "2026-03-31",
+          "form": "10-K"
+        }
+      },
+      "textLength": 489036,
+      "exportedAt": "2026-06-05T04:10:34.209Z",
+      "localUrls": {
+        "text": "/space-economy/sec/MNTS/filing.txt",
+        "metadata": "/space-economy/sec/MNTS/metadata.json",
+        "sections": "/space-economy/sec/MNTS/sections.json",
+        "evidence": "/space-economy/sec/MNTS/evidence.json",
+        "display": "/space-economy/sec/MNTS/display.json"
+      },
+      "evidenceCount": 197,
+      "sectionCount": 14,
+      "displayBlockCount": 468
+    },
+    {
+      "ticker": "NOC",
+      "topicId": "space-economy",
+      "name": "NORTHROP GRUMMAN CORP /DE/",
+      "cik": "0001133421",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-27",
+        "accessionNumber": "0001133421-26-000003",
+        "primaryDocument": "noc-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 41954000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-27",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 1100000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-27",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 51377000000,
+          "end": "2025-12-31",
+          "filed": "2026-01-27",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 25803000000,
+          "end": "2017-12-31",
+          "filed": "2018-01-29",
+          "form": "10-K"
+        }
+      },
+      "textLength": 370611,
+      "exportedAt": "2026-06-05T04:10:35.346Z",
+      "localUrls": {
+        "text": "/space-economy/sec/NOC/filing.txt",
+        "metadata": "/space-economy/sec/NOC/metadata.json",
+        "sections": "/space-economy/sec/NOC/sections.json",
+        "evidence": "/space-economy/sec/NOC/evidence.json",
+        "display": "/space-economy/sec/NOC/display.json"
+      },
+      "evidenceCount": 166,
+      "sectionCount": 14,
+      "displayBlockCount": 419
+    },
+    {
+      "ticker": "PL",
+      "topicId": "space-economy",
+      "name": "Planet Labs PBC",
+      "cik": "0001836833",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-23",
+        "accessionNumber": "0001193125-26-119957",
+        "primaryDocument": "pl-20260131.htm",
+        "reportDate": "2026-01-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526119957/pl-20260131.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 307727000,
+          "end": "2026-01-31",
+          "filed": "2026-03-23",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 106749000,
+          "end": "2026-01-31",
+          "filed": "2026-03-23",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 107746000,
+          "end": "2024-01-31",
+          "filed": "2024-03-29",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 172485000,
+          "end": "2026-01-31",
+          "filed": "2026-03-23",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 1145686000,
+          "end": "2026-01-31",
+          "filed": "2026-03-23",
+          "form": "10-K"
+        }
+      },
+      "textLength": 551747,
+      "exportedAt": "2026-06-05T04:10:36.034Z",
+      "localUrls": {
+        "text": "/space-economy/sec/PL/filing.txt",
+        "metadata": "/space-economy/sec/PL/metadata.json",
+        "sections": "/space-economy/sec/PL/sections.json",
+        "evidence": "/space-economy/sec/PL/evidence.json",
+        "display": "/space-economy/sec/PL/display.json"
+      },
+      "evidenceCount": 273,
+      "sectionCount": 10,
+      "displayBlockCount": 502
+    },
+    {
+      "ticker": "RDW",
+      "topicId": "space-economy",
+      "name": "Redwire Corp",
+      "cik": "0001819810",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-27",
+        "accessionNumber": "0001819810-26-000029",
+        "primaryDocument": "rdw-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/rdw-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 335381000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 19761000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 17285000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 1449137000,
+          "end": "2025-12-31",
+          "filed": "2026-02-27",
+          "form": "10-K"
+        }
+      },
+      "textLength": 516450,
+      "exportedAt": "2026-06-05T04:10:38.162Z",
+      "localUrls": {
+        "text": "/space-economy/sec/RDW/filing.txt",
+        "metadata": "/space-economy/sec/RDW/metadata.json",
+        "sections": "/space-economy/sec/RDW/sections.json",
+        "evidence": "/space-economy/sec/RDW/evidence.json",
+        "display": "/space-economy/sec/RDW/display.json"
+      },
+      "evidenceCount": 190,
+      "sectionCount": 14,
+      "displayBlockCount": 389
+    },
+    {
+      "ticker": "RKLB",
+      "topicId": "space-economy",
+      "name": "Rocket Lab Corp",
+      "cik": "0001819994",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001819994-26-000013",
+        "primaryDocument": "rklb-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000013/rklb-20251231.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 601799000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 270716000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 394618000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 207181000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 2324478000,
+          "end": "2025-12-31",
+          "filed": "2026-02-26",
+          "form": "10-K"
+        }
+      },
+      "textLength": 430368,
+      "exportedAt": "2026-06-05T04:10:39.480Z",
+      "localUrls": {
+        "text": "/space-economy/sec/RKLB/filing.txt",
+        "metadata": "/space-economy/sec/RKLB/metadata.json",
+        "sections": "/space-economy/sec/RKLB/sections.json",
+        "evidence": "/space-economy/sec/RKLB/evidence.json",
+        "display": "/space-economy/sec/RKLB/display.json"
+      },
+      "evidenceCount": 260,
+      "sectionCount": 13,
+      "displayBlockCount": 260
+    },
+    {
+      "ticker": "RTX",
+      "topicId": "space-economy",
+      "name": "RTX Corp",
+      "cik": "0000101829",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-06",
+        "accessionNumber": "0000101829-26-000006",
+        "primaryDocument": "rtx-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 80738000000,
+          "end": "2024-12-31",
+          "filed": "2025-02-03",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 88603000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 2807000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 2153000000,
+          "end": "2020-12-31",
+          "filed": "2021-02-08",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 171079000000,
+          "end": "2025-12-31",
+          "filed": "2026-02-06",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 59837000000,
+          "end": "2017-12-31",
+          "filed": "2018-02-09",
+          "form": "10-K"
+        }
+      },
+      "textLength": 541597,
+      "exportedAt": "2026-06-05T04:10:41.075Z",
+      "localUrls": {
+        "text": "/space-economy/sec/RTX/filing.txt",
+        "metadata": "/space-economy/sec/RTX/metadata.json",
+        "sections": "/space-economy/sec/RTX/sections.json",
+        "evidence": "/space-economy/sec/RTX/evidence.json",
+        "display": "/space-economy/sec/RTX/display.json"
+      },
+      "evidenceCount": 199,
+      "sectionCount": 15,
+      "displayBlockCount": 435
+    },
+    {
+      "ticker": "SPIR",
+      "topicId": "space-economy",
+      "name": "Spire Global, Inc.",
+      "cik": "0001816017",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-19",
+        "accessionNumber": "0001193125-26-116169",
+        "primaryDocument": "spir-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526116169/spir-20251231.htm",
+      "facts": {
+        "Revenues": {
+          "value": 110451000,
+          "end": "2024-12-31",
+          "filed": "2025-03-31",
+          "form": "10-K"
+        },
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 71553000,
+          "end": "2025-12-31",
+          "filed": "2026-03-19",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 36672000,
+          "end": "2025-12-31",
+          "filed": "2026-03-19",
+          "form": "10-K"
+        },
+        "CostOfRevenue": {
+          "value": 42390000,
+          "end": "2025-12-31",
+          "filed": "2026-03-19",
+          "form": "10-K"
+        },
+        "GrossProfit": {
+          "value": 29163000,
+          "end": "2025-12-31",
+          "filed": "2026-03-19",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 210992000,
+          "end": "2025-12-31",
+          "filed": "2026-03-19",
+          "form": "10-K"
+        }
+      },
+      "textLength": 378469,
+      "exportedAt": "2026-06-05T04:10:42.393Z",
+      "localUrls": {
+        "text": "/space-economy/sec/SPIR/filing.txt",
+        "metadata": "/space-economy/sec/SPIR/metadata.json",
+        "sections": "/space-economy/sec/SPIR/sections.json",
+        "evidence": "/space-economy/sec/SPIR/evidence.json",
+        "display": "/space-economy/sec/SPIR/display.json"
+      },
+      "evidenceCount": 211,
+      "sectionCount": 18,
+      "displayBlockCount": 358
+    },
+    {
+      "ticker": "VSAT",
+      "topicId": "space-economy",
+      "name": "VIASAT INC",
+      "cik": "0000797721",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-05-29",
+        "accessionNumber": "0001193125-26-248290",
+        "primaryDocument": "vsat-20260331.htm",
+        "reportDate": "2026-03-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/797721/000119312526248290/vsat-20260331.htm",
+      "facts": {
+        "RevenueFromContractWithCustomerExcludingAssessedTax": {
+          "value": 4640280000,
+          "end": "2026-03-31",
+          "filed": "2026-05-29",
+          "form": "10-K"
+        },
+        "ResearchAndDevelopmentExpense": {
+          "value": 164908000,
+          "end": "2026-03-31",
+          "filed": "2026-05-29",
+          "form": "10-K"
+        },
+        "Assets": {
+          "value": 15226596000,
+          "end": "2026-03-31",
+          "filed": "2026-05-29",
+          "form": "10-K"
+        },
+        "SalesRevenueNet": {
+          "value": 1594625000,
+          "end": "2018-03-31",
+          "filed": "2018-05-30",
+          "form": "10-K"
+        }
+      },
+      "textLength": 517166,
+      "exportedAt": "2026-06-05T04:10:43.439Z",
+      "localUrls": {
+        "text": "/space-economy/sec/VSAT/filing.txt",
+        "metadata": "/space-economy/sec/VSAT/metadata.json",
+        "sections": "/space-economy/sec/VSAT/sections.json",
+        "evidence": "/space-economy/sec/VSAT/evidence.json",
+        "display": "/space-economy/sec/VSAT/display.json"
+      },
+      "evidenceCount": 290,
+      "sectionCount": 14,
+      "displayBlockCount": 309
+    }
+  ],
+  "errors": []
+}

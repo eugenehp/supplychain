@@ -1,0 +1,227 @@
+{
+  "ticker": "LMT",
+  "name": "LOCKHEED MARTIN CORP",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 9,
+  "byCategory": [
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "disclosure",
+      "count": 2
+    },
+    {
+      "category": "contract",
+      "count": 2
+    },
+    {
+      "category": "governance",
+      "count": 1
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-07",
+      "count": 2
+    },
+    {
+      "month": "2025-08",
+      "count": 1
+    },
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2025-12",
+      "count": 2
+    },
+    {
+      "month": "2026-01",
+      "count": 1
+    },
+    {
+      "month": "2026-04",
+      "count": 1
+    },
+    {
+      "month": "2026-05",
+      "count": 1
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0000936468-26-000011",
+      "filingDate": "2026-05-13",
+      "reportDate": "2026-05-12",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646826000011/lmt-20260512.htm"
+    },
+    {
+      "accessionNumber": "0001628280-26-026683",
+      "filingDate": "2026-04-23",
+      "reportDate": "2026-04-23",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026026683/lmt-20260423.htm"
+    },
+    {
+      "accessionNumber": "0001628280-26-003970",
+      "filingDate": "2026-01-29",
+      "reportDate": "2026-01-29",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026003970/lmt-20260129.htm"
+    },
+    {
+      "accessionNumber": "0000936468-25-000057",
+      "filingDate": "2025-12-18",
+      "reportDate": "2025-12-18",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646825000057/lmt-20251218.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-312904",
+      "filingDate": "2025-12-09",
+      "reportDate": "2025-12-05",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000119312525312904/d28654d8k.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-045582",
+      "filingDate": "2025-10-21",
+      "reportDate": "2025-10-21",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828025045582/lmt-20251021.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-192837",
+      "filingDate": "2025-08-29",
+      "reportDate": "2025-08-28",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000119312525192837/d14459d8k.htm"
+    },
+    {
+      "accessionNumber": "0000936468-25-000050",
+      "filingDate": "2025-07-28",
+      "reportDate": "2025-07-28",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646825000050/lmt-20250728.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-035502",
+      "filingDate": "2025-07-22",
+      "reportDate": "2025-07-22",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828025035502/lmt-20250722.htm"
+    }
+  ]
+}

@@ -1,0 +1,1500 @@
+Published in December 2024
+Contact information:
+Table of Contents
+
+1. Introduction .................................................................................................................... 1
+
+2. The Space Economy in 2023 ......................................................................................... 2
+
+2.1. Overview ....................................................................................................................... 2
+
+2.2. Public Investment in Space ........................................................................................... 3
+
+2.3. Private Investment in Space ......................................................................................... 9
+
+2.4. Space Activity ............................................................................................................. 13
+
+2.5. Upstream Market Value .............................................................................................. 16
+
+2.6. Downstream Market Value .......................................................................................... 19
+
+2.7. Space Workforce ........................................................................................................ 23
+
+3. The Space Economy in 2024: First Insights .............................................................. 25
+
+3.1. Macro-Economic Context............................................................................................ 25
+
+3.2. Preliminary Trends of the Space Sector in 2024 ......................................................... 27
+1. Introduction
+
+As published by the Organisation for Economic Co-operation and Development (OECD) in
+20121, the space economy is the full range of activities and the use of resources that create
+value and benefits to human beings in the course of exploring, researching, understanding,
+managing, and utilising space. The definition, applied by the European Space Agency, and
+developed through the work of the OECD Space Forum2, includes the value of the space
+sector itself, comprising of space upstream and downstream companies, as well as the value
+of impacts that space activities have on the economy, environment and society.
+The scope of the present “Report on the Space Economy” is on the space sector’s economic
+value. It provides an annual update on the status and trends of the space industry, globally
+and for Europe specifically. The document is structured in two main chapters.
+Chapter 2 presents key trends and figures for 2023, covering public and private investment
+in space, space activity, space industry’s revenues both upstream and downstream and the
+space sector’s workforce.
+Chapter 3 highlights selected trends at the macro-economic level in 2024, providing context
+to the environment in which the space industry is evolving. It also presents preliminary
+insights on the space sector in 2024, covering anticipated public investment, trends in
+private investment, space activity and satellite manufacturing orders, based on data
+available as of 30 September 2024.
+The document is based on a selected and carefully reviewed set of data to describe the
+status and main trends affecting the global and European space industries. This work is
+centred on the continuous assessment of the data presented in the report, notably by:
+    •    Ensuring an in-depth understanding of the methodology used by the data producing
+         entities;
+    •    Identifying any changes of scope or approach to dissociate statistical growth from
+         actual organic growth;
+    •    Outlining clear definitions to avoid misleading comparison across different datasets;
+         and;
+    •    Conducting sanity checks with additional sources to validate orders of magnitude.
+Since 2022, the entire set of quantitative data is originating from European entities. The work
+of the team builds on strategic partnerships with the OECD, but also Eurostat and has
+allowed significant improvement in key datasets and better alignment of various sources on
+core indicators.
+
+
+
+
+1 OECD, Handbook on Measuring the Space Economy, 1 st Edition, 2012.
+
+2 For more information, please see ESA Space Economy – Partnering with the OECD to develop international best
+
+practices, July 2024.
+                                                         1
+2. The Space Economy in 2023
+
+2.1. Overview
+
+
+                          The Space Economy in 2023
+   Public Investment in Space                                Private Investment in Space
+      World 106b€               +11%                                  World 6b€                 -32%
+
+      Europe   11.9b€            +1%                                  Europe   977M€            -14%
+
+                   Europe’s share of global                                     Europe’s share of global
+        11%                                                           16%
+                   space public funding                                         space private investment
+
+
+                                        Space Activity
+              221 launches +18%                                  67 Self-provisioned launches
+          2,940 satellites launched +17%                         +48% of mass launched
+
+                               Space Upstream Market Value
+                     World                                                     Europe
+
+             53b€             -19%                              10%                             40%
+               Manufacturing ↓
+                                                       Europe’s share of                 Europe’s share of its
+                   Launch ↓                            global upstream                   accessible upstream
+                                                            market                             market
+
+                             Space Downstream Market Value
+                       World                                                   Europe
+               358b€            +4%                                    82b€               +4%
+                     Satcom ↓
+                                                                                  Europe’s share of global
+                   Navigation ↑                                        23%        downstream market
+               Earth Observation ↑
+
+                 Figure 1: Space Economy in 2023 (all growth rates compared to 2022)3
+
+
+
+3 Self-provisioned launched are launches carried out for satellites operated in-house.
+
+
+                                                            2
+2.2. Public Investment in Space
+
+As shown in Figure 2, institutional space budgets (civil and defence) reached a new historic
+high of €106 billion in 20234, posting an 11% increase compared to 2022 and continuing
+their growth path with an 8% CAGR over the past five years.
+As in 2022, the defence spending is the main driver behind the growth of overall public space
+budgets in 2023 (18% growth from defence from 2022 to 2023 and 7% from civil).
+While civil space remained the largest contributor to public space budgets worldwide since
+the early 1990s, the share of defence has been continuously growing and now exceeds civil
+space spending for the first time in 2023 (just above 50%).
+Worldwide public budgets for civil space programmes keep being driven by long-term
+investment from established space nations in space exploration and in particular human
+spaceflight.
+In Europe, the consolidated public space budget was €11.9 billion in 20235, representing a
+1% increase compared to 2022. The share of civil space budget in Europe is around 85% in
+2023, displaying a completely different behaviour compared with other major space players.
+
+                                  120
+
+                                  100
+
+                                     80
+
+                                b€   60
+
+                                     40
+
+                                     20
+
+                                      0
+                                          2019    2020       2021      2022   2023
+                                                    Global    Europe
+
+                 Figure 2: Institutional space budgets 2019-2023 (civil and defence)4,5
+
+
+
+
+4 Euroconsult, Government Space Programs, 23rd Edition, December 2023.
+
+5 Eurospace, Facts and Figures, Press Release, 28th Edition, July 2024; European Commission.
+
+
+                                                         3
+                               58%
+                                          57%
+                                                         56%
+
+                                                                   52%
+                                                                            50.2%
+                                                                   48%
+                                                                             49.8%
+                                                         44%
+                                          43%
+                               42%
+
+
+                               2019       2020           2021      2022      2023
+
+                                        Share of civil          Share of defence
+
+
+       Figure 3: Evolution of civil and defence share of global space budgets, 2019-20234
+
+
+
+Figure 4 presents the distribution of institutional space budgets among the main space-faring
+nations and Europe. In 2023, the US remained the largest single space budget by far, yet
+its share of the global space budget has been gradually decreasing, from over 75% in 2000
+to just above 60% in 2023. On the other hand, China keeps reinforcing its second place,
+going from an estimated 2% to 12% from 2000 to 2023 through ambitious long-term
+programmes in both civil and defence, and surpassing the overall budget allocated to space
+in Europe. The European share has remained rather stable, and accounts for 11% of the
+global space budget in 2023.
+
+                                               India; 2%           Rest of the
+                                  Russia; 3%                       World; 4%
+                         Japan; 4%
+
+                         Europe;
+                          11%
+
+                                                                                United
+                                                                              States; 64%
+                     China; 12%
+
+
+
+
+        Figure 4: Distribution of institutional space budgets in 2023 (civil and defence)4,5
+
+
+
+Given the width of their space programmes and notably their respective launch capabilities,
+it is acknowledged that the Russian and Chinese space budgets are most likely
+underestimated (due to the unavailability of public information), which makes the budget
+comparison a challenging exercise.
+
+
+
+
+                                                          4
+The mass launched by major space players provides a complementary view of the budget
+comparison and has the advantage of being based on publicly available data.
+Figure 5 below shows the mass launched by production region, for government
+programmes, over the period 2014-2023. The figure outlines a very different distribution of
+space activity between the major space players, with the US, China and Russia accounting
+respectively for 33% and 32% and 22% of the total mass launched for government
+programmes, while Europe accounts for 8%.
+Beyond the funding gap, a significant difference between Europe and its competitors is
+related to human spaceflight. Across the 2014-2023 period, human spaceflight accounted
+for about 20% of the total mass launched, and 30% when removing Starlink.
+
+
+
+                                                          India; 2%   Rest of the
+                                          Japan; 2%                   World; 1%
+
+                                Europe; 8%
+
+
+                                                                                United
+                                                                              States; 33%
+                            Russia;
+                             22%
+
+
+
+
+                                                                      China; 32%
+
+ Figure 5: Mass of spacecraft launched, by production region, 2014-2023 (tons, civil and defence,
+                                 government programmes only)6
+
+
+
+
+6 Eurospace, 2024 Facts & Figures Global Context, upcoming publication.
+
+
+                                                         5
+2.2.1. Public Space Budgets as Share of GDP
+
+The ratio of public space budget to the Gross Domestic Product (GDP) provides a view on
+public space funding intensity. As presented in Figure 6, the share for Europe (EU27,
+Norway, Switzerland and the UK) was 0.06% in 2023, slightly below the 2022 level (0.058%),
+mostly due to a slight increase in European GDP compared to a rather stable European
+public space budget. Reaching 0.135% in 2023, Luxembourg remains the highest share of
+public space budget per GDP in Europe. At the global level, Luxembourg ranks third, behind
+the US (0.262%) and Russia (0.169%).
+
+                  United States
+                          Russia
+                   Luxembourg
+                           Japan
+                         France
+                           China
+                             Italy
+                         Europe                   0.06%
+                        Belgium
+                            India
+                      Germany
+                        Canada
+                        Norway
+                United Kingdom
+                         Estonia
+                           Spain
+                    Switzerland
+                       Romania
+                         Finland
+                        Sweden
+                Czech Republic
+                         Greece
+                         Poland
+                         Austria
+                       Hungary
+                       Portugal
+                   Netherlands
+                      Denmark
+                       Slovenia
+                         Ireland
+                         Cyprus
+                           Latvia
+                       Slovakia
+                        Bulgaria
+                         Croatia
+                      Lithuania
+                           Malta
+                                 0.00%      0.05%         0.10%       0.15%         0.20%        0.25%           0.30%
+
+              Figure 6: Selected institutional space budgets as share of GDP in 20234,5,7
+
+
+
+7 Eurostat, UK Office of National Statistics, US Bureau of Economic Analysis and World Bank, national accounts
+
+databases, GDP at current prices, extracted in August 2024.
+                                                           6
+2.2.2. Public Space Budgets as Share of Government Expenditures
+
+As shown in Figure 7, the share for Europe (EU27, Norway, Switzerland and the UK) of
+space budget to total government expenditures was 0.12% in 2023, stable compared to
+2022. Similarly to the share of space to GDP, Luxembourg ranks first with a value of 0.281%,
+followed by France (0.167%), Italy (0.103%) and Belgium (0.095%).
+
+                           Luxembourg
+                                 France
+                                Europe                                   0.12%
+                                    Italy
+                                Belgium
+                              Germany
+                            Switzerland
+                        United Kingdom
+                                 Estonia
+                                Norway
+                               Romania
+                                   Spain
+                        Czech Republic
+                                Sweden
+                                 Poland
+                                 Finland
+                                 Greece
+                               Portugal
+                               Hungary
+                                 Austria
+                           Netherlands
+                                 Ireland
+                              Denmark
+                               Slovenia
+                                   Latvia
+                               Slovakia
+                              Lithuania
+                                Bulgaria
+                                   Malta
+
+                                        0.00%      0.05%        0.10%       0.15%       0.20%        0.25%   0.30%
+
+   Figure 7: Selected institutional space budgets as share of government expenditures in 20235,8
+
+
+
+
+8 Eurostat and UK Office of National Statistics, national accounts databases, extracted in August 2024.
+
+
+
+
+                                                            7
+Highlight: European government defence expenditures9
+In the period from 2018 to 2022, the level                     In absolute terms, European defence
+of defence expenditures in Europe has                          expenditure reached €204 billion in 2022,
+remained stable around 1.3% of GDP and                         up from €163 billion in 2021, posting a
+2.6% of total public expenditures. In                          25% increase in five years. From 2021 to
+comparison, public expenditures in space                       2022, among the broad categories of
+in Europe accounts for about 0.06% of                          government expenditures in Europe,
+GDP and 0.12% of government                                    defence posted the second-strongest
+expenditures.                                                  increase (growing 11% year-on-year).
+
+
+                                                                        200
+        2.6       2.6      2.5      2.5       2.6
+                                                                        150
+                                                                   b€
+        1.2       1.2      1.3      1.3       1.3
+                                                                        100
+
+
+                                                                        50
+
+       2018      2019     2020     2021      2022
+                                                                         0
+              Defence as % of GDP                                             2018 2019 2020 2021 2022
+              Defence as % of total expenditures
+                                                                  Figure 9: European Government defence
+  Figure 8: European Government defence                                   expenditures, 2018-2022
+  expenditures, as share of GDP and total
+    government expenditures, 2018-2022
+
+
+
+
+9 Eurostat, Government expenditure on defence - Statistics Explained.
+
+
+                                                          8
+2.3. Private Investment in Space
+
+2.3.1. Private Investment in the Global Space Sector
+
+Private investment in space continued its decline in 2023, reaching €6 billion10. This
+represents a 32% drop from 2022, and a 51% decrease compared with the historical high
+of €12 billion that marked 2021. Worldwide space companies received investments through
+266 funding rounds in 2023, a 9% decrease of the volume from 2022.
+As anticipated, Europe also experienced a decrease in 2023, with private space ventures
+receiving just below €980 million, a 14% drop compared to 2022. While the value still outlines
+outstanding growth in the past decade, compared with €18 million raised by European space
+startups in 2014, the decline marks a likely change in the investment decision, towards the
+most promising but also most mature business opportunities.
+Although the US drives most of the decline at global level in 2023, its space sector still
+attracts most investments (60%), followed by Europe (16%) and China (9%).
+An important observation relates to the ‘Rest of the World’ (countries which are not the US,
+Europe, China and Japan)11, which has seen a growth of almost 250% in deals’ value over
+the past three years, a trend that is expected to continue.
+
+  14                                                                                               Rest of the
+                                                                                                     World
+  12                                                                           Japan                  9%
+                                                                                5%
+  10
+     8                                                                  China
+b€
+     6                                                                   9%
+
+     4
+                                                                                                                  United
+     2                                                                                                            States
+                                                                      Europe                                       60%
+     0
+                                                                       16%
+             2021             2022           2023
+                         Global   Europe
+
+
+ Figure 10: Private space investment, 2021-                            Figure 11: Distribution of private space
+                    202310                                                      investment in 202310
+
+
+
+Several factors are driving the decline at global level, including the decreased access to
+Venture Capital (VC, dropping by 18% from 2022 but still accounting for 73% of the total
+value of deals in 2023), and the sharp drop of the SPAC (Special Purpose Acquisition
+Company).
+
+
+
+
+10 ESPI, Space Venture Europe 2023, 2024.
+
+11 According to ESPI analysis, the value of deals in the ‘rest of the world’ is predominantly originating from Canada, India,
+
+Israel, and Australia.
+                                                             9
+Additionally, there was a notable absence of major acquisition in 2023, with only 20
+transactions recorded (19 fewer than in 2022). Debt Financing increased by 53% from 2022,
+highlighting a notable change in the fundraising of space companies.
+
+
+                           14
+                           12
+                           10
+                       b€   8
+                            6
+                            4
+                            2
+                            0
+                                       2019           2020        2021      2022       2023
+                                    Venture Capital           SPAC merger       Private Equity
+                                    Business Angel            Acquisition       Debt Financing
+                                    Initial Public Offering
+
+                 Figure 12: Global space private investment value, by type 2019-202310
+
+2.3.2. Focus on the European space startups
+
+The level of private investment in European space startups12 reached €942 million in 2023,
+a 7% decrease over 2022, reversing the trend of the past years. 78 European private
+investment deals were recorded for space startups in 2023, a 30% decrease in volume.
+
+
+
+                           1200                                                                  120
+
+                           1000                                                                  100
+
+                            800                                                                  80
+                      M€
+                            600                                                                  60
+
+                            400                                                                  40
+
+                            200                                                                  20
+
+                                0                                                                -
+                                          2019        2020       2021    2022         2023
+                                                  Value of deals      Number of deals
+
+           Figure 13: Number and value of deals in European space startups, 2019-202310
+
+
+
+
+12 Since 2014, ESPI has been collecting and reporting data on the private investment received by space startups in Europe,
+
+a perimeter much narrower than other data sources. The objective has been to allow monitoring the focused evolution of
+the New Space industry. Since 2021, ESPI also provides data for Europe along a broader perimeter, allowing comparison
+with global figures, but also with other major players, such as the US.
+                                                                 10
+While European investors remain the most important source of financing for European space
+startups (European lead investors represented 79% of all deals in 2023), the value of deals
+led by non-European investors has been increasing, from 16% in 2021 to 28% in 2023. In
+2023, the US share of deals accounted for 14%, a number relatively stable across the past
+three years. The trends therefore show that foreign investment in European space startups
+is becoming more concentrated on fewer deals, but of increased value.
+Similar to previous years, the largest share of investment value originates from Venture
+Capital (91%), followed by Debt Financing (5%), and Acquisition (4%). ESPI analysis
+highlights that mergers and acquisitions are overall complex to track, with values rarely
+publicly disclosed or emerging only well after the completion of the transaction. A large
+proportion of deals for Debt Financing remains undisclosed as well. This results in a probably
+significant underrepresentation of the importance of this investment types in the European
+space startup ecosystem.
+Similarly to previous years, the upstream launch and manufacturing segment received the
+majority of funding. Upstream companies raised 61% of the total investment value in 2023,
+with €334 million across 5 deals in the launch segment (manufacturing of launch vehicles
+and provision of launch services) and €232 million across 21 deals in the manufacturing
+segment (manufacturing of spacecraft).
+A continuously growing number of institutions at European and national levels aims at
+developing financial instruments to foster entrepreneurship and accelerate investment into
+space startups. This has resulted in strong support from public institutions in Europe, either
+directly through participation in funding rounds, and indirectly through the provision of capital
+or guarantees to VCs. For the first time in 2023, more than 50% of the funding was raised
+by a mix of public and private investors, such as Isar Aerospace €155 million Series C (with
+the participation of Bayern Kapital, which is a subsidiary of LfA, the development bank of
+the German State of Bavaria) and the €58 million Series B raised by Exotrail, led by BPI
+France with the participation of other private investors. Examples of public funds supporting
+private VC funds include VSquared Ventures, which participated in Isar’s Series C,
+supported by InnovFin Equity, with the financial backing of the European Union under
+Horizon 2020 Financial Instruments and the European Fund for Strategic Investments
+(EFSI).
+
+
+
+
+                                               11
+Highlight: A decade of private investment in European space start-ups10
+2023 saw a year-on-year decline of €68              The trend is driven by the fact that the
+million, and the number of deals was back           combined value of the largest deals is
+to pre-2021. Yet, Europe is currently               growing while their share within the overall
+experiencing its best investment cycle to           ecosystem is gradually diminishing.
+date, with the last two years (2022 and
+2023) bringing more than half of all
+investment since 2014.                                   1200                                                                         14
+
+                                                         1000                                                                         12
+The average deal value grew by 34% from
+                                                                                                                                      10
+2022, reaching €12 million in 2023, and                   800
+recording the highest value ever.                   M€                                                                                8
+                                                          600                                                                             M€
+                                                                                                                                      6
+The top five European space startups                      400
+                                                                                                                                      4
+investment deals reached €411 million in
+                                                          200                                                                         2
+2023, with Isar Aerospace raising €155
+million, D-Orbit €100 million, Exotrail €58                0                                                                          -
+million, Sylvera €52 million and Open                           2014   2015   2016   2017   2018   2019   2020   2021   2022   2023
+Cosmos €46 million. Together, the top five                                      Value of deals
+deals in 2023 represented 44% of the total,                                     Average value per deal
+a level similar to 2022, but much lower than
+                                                     Figure 14: A decade of private investment in
+a decade ago (where it averaged around                  European space startups, 2014-2023.
+90%).
+
+
+
+
+                                               12
+2.4. Space Activity
+
+As shown in Figure 15, there were 221 orbital launches in 2023, an 18% increase over 2022,
+marking a third consecutive double-digit growth rate (28% in 2022; 27% in 2021)13. A total
+of 212 launches were successful.
+Launches for commercial and export customers accounted for more than half of the total
+(116 launches, 53%), of which 67 were self-provisioned launches (63 operated by SpaceX
+for Starlink and 4 by CASIC for China’s national GuoWang LEO broadband mega-
+constellation project).
+A total of 8 inaugural launches occurred in 2023, of which 3 succeeded, including the SSLV
+small-lift launch vehicle developed by ISRO and Firefly's small-lift rocket, Alpha.
+2023 also experienced a large increase of the mass launched (48%), reaching 1,400 tons.
+Starlink satellites account for almost 70% of the total mass launched in 2023.
+
+                           250                                                  1,600
+                                                                                1,400
+                           200
+                                                                                1,200
+                           150                                                  1,000
+                                                                                800
+                           100                                                  600
+                                                                                400
+                            50
+                                                                                200
+                            -                                                   -
+                                 2019      2020      2021    2022    2023
+                                        Number of launches      Mass launched
+
+
+                   Figure 15: Number of launches and mass launched, 2019-202313,14
+
+
+
+The US conducted more than half of the launches (114, of which 96 by SpaceX), posting a
+growth of 31% compared to 2022. China accounted for 30% with 67 launches, a 5% increase
+from 2022, and Russia for 19 launches.
+The European launch service provider conducted 3 launches in 2023: JUICE (Jupiter Icy
+Moons Explorer), Europe’s first mission to Jupiter, Germany’s Heinrich Hertz
+communications satellite aboard the last Ariane 5 launch vehicle and Vega VV23 mission,
+carrying two primary payloads (THEOS-2 and FORMOSAT-7R/TRITON) and ten small
+secondary payloads.
+
+
+
+
+13 Source: ESA Internal.
+
+14 Eurospace LEAT database.
+
+
+
+
+                                                       13
+                               250
+
+                               200
+
+                               150
+
+                               100
+
+                                50
+
+                                 0
+                                          2019        2020            2021     2022      2023
+                                                 United States        China    Europe   Others
+
+          Figure 16: Number of launches, by origin of Launch Service Provider, 2019-202313
+
+In total, 2,940 spacecraft were put into orbit in 2023, setting another all-time record with an
+increase of 17% compared to 202215. The US accounted for 80%, largely due to the launch
+of Starlink satellites (1,984 Starlink satellites launched in 2023). In line with the trend in the
+public space investment (section 2.2), the number of satellites launched for defence
+customers has doubled in the past five years.
+
+          2023
+
+          2022
+
+          2021
+
+          2020
+
+          2019
+
+                 -              500              1,000            1,500         2,000           2,500         3,000
+                     <15 kg    16-50 kg      51-500 kg           501-2000 kg     2001-5000 kg      >5000 kg
+
+                 Figure 17: Satellites launched worldwide, by mass category, 2019-202315
+
+63% of the 2,940 satellites launched in 2023 weighed less than 500kg compared to 95% in
+2022. A key driver lies in the significantly higher mass of Starlink satellites. In February 2023,
+SpaceX launches the first set of upgraded Starlink satellites, for the second generation of
+the constellation. This “V2 Mini” version of the satellites is significantly larger and more
+powerful than the first generation (from about 300kg to 800kg)16. According to FCC filing, a
+next version of the second-generation satellites, that would weight around 2,000kg, and is
+expected to be launched by SpaceX Starship17.
+
+
+15 Euroconsult, Satellites to be built and launched, 26 th Edition, January 2024.
+
+16 SpaceX launches first upgraded Starlink satellites - SpaceNews, 28 February 2023.
+
+17 FCC approves Starlink first generation upgrade plan - SpaceNews, 20 August 2024.
+
+
+                                                                 14
+Highlight: The development of launch rideshare opportunities18
+In addition to dedicated launches and                put in place not only by SpaceX
+increased customisation of launch services,          (Transporter, Bandwagon) but also by
+a complementary space transportation                 China Great Wall Industry Corporation
+market trend is seen in the increased offer          (CGWIC, on Long March Express),
+of rideshare launches, accommodating                 NewSpace India Limited (NSIL, on PSLV),
+multiple smaller satellites from different           Glavkosmos (on Soyuz 2), JAXA (RAISE on
+operators on a single launch. This offer has         Epsilon S) and the Chinese CAS Space
+been developed initially to provide lower-           (Innovation X Scientific Flight on Kinetica
+cost launch solutions, in particular to              1). The slots on these launches are today
+institutional customers. With the increasing         sold directly by the commercially active
+use of LEO orbits by commercial operators,           launch service providers but also
+the development of more performant small             increasingly through launch service
+satellite busses, standardised CubeSat               aggregators. They often include the use of
+formats, and of satellite constellations, the        dispensers or tugs developed by the latter
+demand for rideshare opportunities has               (60% of payloads launched in 2023 were
+been steadily increasing. While initially            lodged in a deployer, 19% deployed via a
+offered      occasionally    and    on     an        tug and only 21% launched on a classical
+opportunistic basis by launch vehicles such          payload adapter). As a result, the customer
+as the Indian Polar Satellite Launch Vehicle         interface is increasingly shifting towards
+(PSLV), the decision by US institutional             operators of Orbital Transfer Vehicles
+customers to fund the development and                (OTV) who in turn interface with the launch
+procurement of rideshare services, as well           service provider (16 OTVs launched in
+as the success of SpaceX rideshare                   2023). In parallel, institutionally sponsored
+scheme, have been instrumental in                    rideshare schemes for institutional (often
+encouraging other launch service providers           educational) light satellites have been put in
+to follow suit. From six launches on average         place by NASA and ISRO.
+per year over the period 2019-2021, the
+                                                     With the growing success of LEO rideshare
+number of rideshare launches has                     launches, a possible miniaturisation of
+increased to 14 launches in 2023 using
+                                                     certain payloads and the development of
+several types of launch vehicles (Falcon 9,          super heavy lift launch vehicles, other
+Electron, LauncherOne, Ceres 1, Long                 rideshare solutions are already tentatively
+March 2, Zhuque 2, Kinetica 1, PSLV and
+                                                     offered and may become more common
+Vega). Their customers have been both                place if their commercial success is proven.
+commercial and institutional, with most              This includes the development of SpaceX
+payloads conforming to the CubeSat format            Starship rideshare scheme, a first lunar
+and about half of the rideshare launches             lander rideshare launch slot sold in March
+filled with constellation payloads.                  2023 by SpaceX, as well as announced
+Dedicated rideshare programmes with                  plans by Impulse Space for a GEO
+regularly scheduled launches have been               rideshare scheme.
+
+
+
+
+18 Source: ESA Internal.
+
+
+                                                15
+2.5. Upstream Market Value
+
+The global launch and manufacturing market was estimated at a value of €53 billion in 2023,
+posting a decrease of 19% compared with 202214,19. Spacecraft manufacturing accounts for
+about 80% of the total and the launch segment 20%.
+While the deployment of Starlink drives the number of launches, satellite launched and mass
+launched, due to its vertically integrated structure it represents a much lower share of the
+upstream market in value, accounting for an estimated 17% of the launch value and 6% of
+the manufacturing value in 2023.
+Despite the fact that since 2022, the share of mass launched procured by commercial
+operators has surpassed the one procured for government programmes, the upstream
+remains a market largely driven by institutional demand, primarily from US and China.
+In 2023, institutional customers accounted for 80% of the launch and manufacturing demand
+value. When excluding Starlink deployment, the combination of Chinese captive demand for
+defence and human spaceflight programmes (including the development of their own space
+station) represents almost all of the upstream growth (99%, in mass and value) in the past
+five years.
+This trend negatively affects Europe’s market share of the global market, which was 10% in
+2023, down from 15% in 2018 and 21% in 2008.
+
+                                   70
+                                   60
+                                   50
+                                   40
+                              b€
+                                   30
+                                   20
+                                   10
+                                    0
+                                         2019       2020        2021      2022      2023
+                                                       Global    Europe
+
+                          Figure 18: Manufacturing and launch value, 2019-202314
+
+
+
+
+19 Eurospace LEAT database builds primarily on open-source data, tracking orbital launch activity on a quarterly basis. A
+
+parametric model based on hard data and estimates (particularly for military activity for which data availability is scarce)
+then provides quantitative figures for the value of the launch and manufacturing segments. Contrary to industry surveys
+which measure industry final sales in a given year (such as the annual Eurospace Facts and Figures), the model allocates
+the value of the complete spacecraft as well as the value of its launch in the launch year. The advantage of the model is
+to provide a tool that allows comparison of upstream activity, and competitiveness analysis of individual space players, at
+the global level.
+                                                            16
+In the past 20 years for the launch segment20,21, about two-thirds of the global launch and
+manufacturing market are not accessible to European primes (European launch service
+provider and spacecraft manufacturers) because of captive demand from institutional
+programmes, in particular human spaceflight (e.g. US, China, Russia) and from vertically
+integrated constellations (e.g. Starlink).
+In 2023, Europe captured about 40% of its accessible market, a share which has been
+degrading over time, from an average 50% in the decade 2004-2013 to 42% on average in
+the past decade (2014-2023). As further detailed in the highlight below, the European space
+industry is impacted by several trends, and in particular the decline in the GEO satcom
+market demand.
+
+                                70
+                                60
+                                50
+                                40
+
+                           b€   30
+                                20
+                                10
+                                 0
+                                     2019   2020       2021       2022     2023
+                                            Global
+                                            Not accessible to European primes
+                                            Accessible to European primes
+                                            Captured by Europe
+
+                 Figure 19: Manufacturing and launch market accessibility, 2019-202314
+
+One important factor and particularity of the European space industry is that its accessible
+market is commercially accessible to all space industries in the world. In addition, it does not
+benefit from the sizeable demand base provided by other large space powers (notably US,
+China, Russia or Japan) to their domestic launch providers and spacecraft manufacturers,
+resulting in fewer opportunities for cost efficiency. These factors result in the European
+space industry being the most exposed to the commercial market variations, with the urge
+to constantly remain competitive to maintain its level of industrial activity.
+
+
+
+
+20 Source: ESA Internal.
+
+21 Source: ESA Internal.
+
+
+
+
+                                                   17
+Highlight: Evolution of the European space industry sales22
+
+According to Eurospace 2023 survey, the                        2023 and continues to suffer from a
+European space industry posted sales                           consistently declining trend. The main
+worth €8,458 million in 2023.                                  driver is the loss of about €1 billion of
+                                                               revenues from the GEO satcom market in
+The primary customer segment for the
+                                                               the past five years, which affected both
+European upstream space industry is its
+                                                               satellite manufacturers and launchers.
+domestic      institutional  market,   that
+accounted for almost 70% of total final
+sales in 2023. Within this segment, ESA is
+                                                                 10,000     8,814                8,617               8,458
+the single largest customer, accounting for                                                                8,251
+                                                                                      7,721
+44% of the total and 63% of sales to                                8,000
+European institutional customers.                                   6,000
+                                                               M€
+In line with the European public space                              4,000
+investment trend (section 2.2), sales for
+                                                                    2,000
+European military programmes accounted
+for 9% of total final sales in 2023, a share                           -
+                                                                             2019     2020       2021      2022      2023
+which has remained relatively stable in the
+                                                                                Total upstream sales (consolidated)
+past five years.                                                                Sales to European institutional customers
+                                                                                Sales to commercial & export customers
+The second market segment is related to
+                                                                                Sales from European military programmes
+commercial and export customers, which
+accounted for 27% of total final sales in                       Figure 20: European upstream industry sales
+
+
+
+
+22 Eurospace, Facts and Figures, 28th Edition, The European space industry in 2023, July 2024.
+
+
+                                                          18
+2.6. Downstream Market Value
+
+In 2023, the global downstream market for space was estimated at €358 billion, posting a
+4% increase compared to 202223,24,25. With an estimated €82 billion in 2023, Europe
+accounts for 23% of the total downstream market. Contrary to the upstream space market,
+the majority (>90%) of the downstream market is commercial and therefore accessible to
+the European industry.
+At least 80% of the currently available market estimate for the downstream space segments
+is generated by businesses that use space as a key input to deliver such services. The
+scope of the downstream, and in particular the boundary between the part that should be
+considered within the space industry and the part that relates to the impacts of space, is a
+topic currently subject to discussion.
+
+                                 400
+                                 350
+                                 300
+                                 250
+                            b€   200
+                                 150
+                                 100
+                                  50
+                                   0
+                                        2019      2020        2021      2022     2023
+                                                    Global     Europe
+
+                         Figure 21: Downstream space market value, 2019-2023
+
+The downstream space market value covers revenues across three application segments:
+Earth observation (EO), satellite communications (satcom) and satellite navigation (GNSS).
+
+2.6.1. Downstream EO market
+
+Considering Earth observation, the downstream value consists of revenues from commercial
+data sales (including data acquisition and basic preprocessing) which accounts for 38% of
+the EO downstream value, as well as revenues from value-added services (from advanced
+calibration to analytics), representing 62% of the total EO downstream value in 202323.
+Europe is the second largest market for EO data and services, with a market share of 22%,
+behind North America (US and Canada) that accounts for 45% of total EO downstream
+revenues in 2023.
+
+
+
+
+23 Euroconsult, Earth Observation Data & Services Market, 16 th Edition, November 2023
+
+24 Euroconsult, Space Economy Report, 10 th Edition, January 2024
+
+25 EUSPA, EO and GNSS Market Report, Issue 2, 2024
+
+
+                                                         19
+The EO data market is structurally highly concentrated, with the two primary suppliers
+(Airbus and Maxar) capturing more than 40% of the demand.
+The EO service market has been growing at a higher pace than the data market, posting a
+9% CAGR in the past five years (compared with 6% for the data market). Governments, and
+particularly defence, are the primary customers of EO downstream products and services.
+
+                   5
+
+                   4
+
+                   3
+             b€
+                   2
+
+                   1
+
+                   0
+                           2019 2020 2021 2022 2023 2019 2020 2021 2022 2023
+                                    Global                             Europe
+                                              Commercial data sales
+                                              Revenues from value-added services
+
+           Figure 22: Downstream EO market value, global and Europe, 2019-202323
+
+2.6.2. Downstream satcom market
+
+The satcom downstream value consists of operators’ revenues (from both FSS-Fixed
+Satellite Service and MSS-Mobile-Satellite Service capacity), which accounts for 10% of the
+total satcom downstream value, as well as revenues from services (video, telecom and
+mobility), which represent 90% of the total satcom downstream value in 2023 24. In the
+present report, the revenues from satcom user terminals are included in the service market.
+
+                   14
+                   12
+                   10
+
+              b€       8
+                       6
+                       4
+                       2
+                       0
+                           2019 2020 2021 2022 2023 2019 2020 2021 2022 2023
+                                     Global                            Europe
+
+                                                   Capacity revenues
+                                                   Service revenues
+
+         Figure 23: Downstream satcom market value, global and Europe, 2019-202324
+                                                     20
+The sector continues to go through significant evolutions, led by large NGEO constellations
+(non-geostationary orbits, also called NGSO) such as Starlink and OneWeb which address
+the demand for universal connectivity (and particularly consumer broadband). The provision
+of broadband internet access is the fastest growing satellite service market segment of the
+past three years, a growth led by SpaceX’s Starlink. Since 2020, the number of broadband
+subscribers for Starlink has grown from 5,000 to more than 2 million in 2023.
+                                2,000
+
+
+                                1,500                                   North America
+                                                                        Oceania and Pacific
+
+                    Thousands
+                                                                        Latin America and Caribbean
+                                1,000                                   Europe
+                                                                        Russia and Central Asia
+                                                                        Asia
+                                 500
+                                                                        Middle East and Africa
+
+                                   -
+                                        2020   2021   2022   2023
+
+                                  Figure 24: Starlink broadband subscribers, 2019-2023
+
+The jump in capacity supply and consequent decrease of capacity prices drive significant
+strategy shifts of the operators. The segment experiences a strong trend of both vertical and
+horizontal integration, through partnerships or collaborations (e.g. SES with Starlink, but also
+Hispasat, Intelsat, Eutelsat, and OneWeb).
+Highlight: Direct-to-Device (D2D), a vehicle to position satcom into the much larger
+mainstream telecommunications market26
+Direct-to-Device (D2D) is the direct                              relevant not just to the consumer-type
+communication between a consumer-type                             smartphone use cases but to multiple
+devices and a satellite communication                             mobility-related vertical business segments
+system. This new and disruptive type of                           such as automotive, aviation and maritime.
+service recently enabled by lower orbit
+                                                                  This service is however emerging in a
+satellites (LEO) represents the ultimate form
+                                                                  context of a satcom market in turmoil and a
+of connectivity which capitalises on both,
+                                                                  European ecosystem in stand still with
+terrestrial and satellite networks, providing
+                                                                  limited investment capabilities while new and
+the ultimate ubiquitous coverage and
+                                                                  prominent players are emerging outside of
+seamless connectivity everywhere, anytime
+                                                                  Europe such as Apple and Mobile Network
+and to everyone. As such, D2D represents a
+                                                                  Operators (MNO) like T-Mobile with Starlink
+utmost concrete vehicle to position satcom
+                                                                  in the US, as well as entire Chinese
+into     the   much      larger   mainstream
+                                                                  ecosystem.
+telecommunications        market;   inherently
+
+
+
+
+26 Source: ESA Internal.
+
+
+                                                             21
+2.6.3. Downstream GNSS market
+
+The GNSS downstream market has been measured by the EU Agency for the Space
+Programme (EUSPA) since 201025. The market value consists of revenues from the sales
+of GNSS devices, which accounts for 27% in 2023, and services revenues (including both
+augmentation services and other services attributable to GNSS) representing 73% in 2023.
+The services attributable to GNSS are based on the fact that they rely on GNSS for their
+functionalities.
+The markets of consumer solutions (previously called location-based services, LBS) and
+road transportation largely dominate the GNSS downstream market, making up for 59% and
+35% respectively of the total estimated value in 2023 (together accounting for almost 95%
+of the total). In particular, revenues from smartphone apps (including for example personal
+banking, ride-hailing apps, in-app purchases for games and social media applications)
+represent a significant component, representing over 60% of the service revenues, and over
+40% of the total revenues.
+
+
+
+
+                                            22
+2.7. Space Workforce
+
+There are currently no surveys or published analysis on the total employment in the global
+upstream and downstream space markets. Estimates of space workforce are instead
+published within industry surveys with specific perimeters that allow time-series and
+understanding of evolution over time, but do not enable global overview or comparison.
+The annual survey of the European space upstream industry 22 has been providing the
+employment level within the launch and manufacturing industry segments in Europe for
+more than 20 years. In 2023, it is estimated to have reached 62,659 Full Time Equivalent
+(FTE) in 2023. This represented a 9% increase compared to 2022, a growth trend which has
+been sustained since 2005.
+
+                                   70,000
+                                   60,000
+                                   50,000
+                             FTE
+                                   40,000
+                                   30,000
+                                   20,000
+                                   10,000
+                                       -
+                                             2019     2020      2021     2022       2023
+                                               Total European upstream employment
+                                               European upstream startups
+
+            Figure 25: Employment in the European space upstream industry, 2019-202322
+
+The survey notably highlights the rapid growth of the employment in European space
+startups27, estimated to account for more than 8,500 FTEs in 2023, representing 14% of
+total European space employment. While the segment has had the most impressive growth
+in terms of employment, the majority of these new players remain unable to cover their costs
+with sufficient revenues, resulting in additional funding needs until businesses become
+mature.
+
+
+
+
+27 Eurospace defines startups as new space players, or companies that are pure space players that were created after
+
+2010 with the financing of private equity. While most of these newcomers still qualify as SMEs, their business dynamics
+is different than the legacy or established SMEs since they lack a mature product or market.
+                                                           23
+Highlight: A decreasing US space employment28
+
+The US Bureau of Economic Analysis                          The US upstream sector can be considered
+(BEA), a division of the US Department of                   as the combination of space-related
+Commerce, provides US macro-economic                        Manufacturing and Professional and
+and industry statistics. Since 2020, it has                 Business Services, leading to US space
+developed a set of statistics specifically                  upstream employment estimated at around
+assessing the US space economy. In June                     155,000 in 2022, compared to 57,300 FTEs
+2024, the BEA released updated estimates                    in the European space upstream industry
+for the period 2017-2022, notably                           the same year. Looking at overall evolution
+highlighting the contributions of space-                    from 2019 to 2022, the US upstream
+related industries to GDP, gross output, but                employment decreased from 158,000 to
+also employment.                                            155,000. In contrast, European upstream
+                                                            employment grew from about 49,000 in
+The data, classified using the North
+                                                            2019 to more than 57,300 in 2022, notably
+American Industry Classification System
+                                                            driven by the rapid expansion of startups,
+(NAICS), revealed a decline in total US
+                                                            which surged from 1,500 to 7,000 over the
+space economy employment from 383,000
+                                                            same period.
+in 2017 to 347,000 in 2022, with the
+sharpest drop occurring in 2021, followed                         500,000
+by a slight recovery in 2022.                                     400,000
+
+Space economy employment within the US                            300,000
+manufacturing industry accounts for slightly                FTE
+                                                                  200,000
+less than 30% of the total and has
+remained stable, while space-related                              100,000
+employment in the US information industry                              -
+experienced a steep decline, falling from                                   2017   2018   2019   2020    2021      2022
+110,000 to 76,000 jobs over the period.                                       Professional and business services
+                                                                              Manufacturing
+In contrast, space economy employment                                         Information
+                                                                              Other
+within Professional and Business Services
+showed resilience, recovering in 2022 and                   Figure 26: US space economy employees by
+surpassing 2017 levels.                                                      industry
+
+
+
+
+28 US BEA, New and Revised Statistics for the U.S. Space Economy, 2017–2022, June 2024.
+
+
+                                                       24
+3. The Space Economy in 2024: First Insights
+
+3.1. Macro-Economic Context
+
+3.1.1. Key Figures at Global Level
+
+Worldwide GDP is expected to increase by 3.1% in 2024, a further slight deceleration
+compared to last year’s 3.3%29. GDP growth forecasts at national level vary from 1.3% for
+China (1.2% in 2023), 2.6% for the United States (2.5% in 2023) and 0.8% for the Euro Area
+(0.7% in 2023). Russia’s GDP is predicted to slightly decrease to 3.2% in 2024 (-0.4%
+compared to 2023). Looking ahead, a steady increase in GDP is expected, suggesting a
+cautiously optimistic outlook.
+Last year’s surge in inflation has moderated in 2024. This resulted in a decrease in core
+goods prices globally. Service price inflation has proven to be more resilient, keeping core
+inflation above initial predictions30. In advanced economies, inflation is expected to continue
+decreasing, despite a slow down at the end of this year and the beginning of next year, with
+the objective to reach a 2% target by the end of 2025.
+Following recent shocks such as the COVID-19 pandemic and Russia’s invasion of Ukraine,
+countries are reassessing their trading relationships with a focus on economic resilience and
+national sovereignty. This reassessment also redirects foreign direct investment along
+geopolitical lines, making the global economy increasingly fragmented into geo-economic
+blocs with growing barriers to international trade. Examples include China's export controls
+on critical materials (2024) and the US export restrictions on advanced technology to China
+(2024)31.This fragmentation could hinder global economic integration, reducing capital,
+goods, and labour flows between nations, and potentially diminishing global cooperation.
+According to the International Labour Organization (ILO), global employment is projected to
+have a positive but modest growth of 0.8% in 2024, slowing down from the 2.2% growth rate
+in 202332. A concerning trend is expected in high-income countries33, where employment
+rate evolution is expected to become negative by the end of 2024 with only modest
+improvements anticipated in 2025. In contrast, employment growth is expected to be
+consistent and massive in low and lower-middle income countries.
+
+
+
+
+29 IMF, World Economic Outlook, 2024 (July update).
+
+30 OECD defines core inflation as price inflation that excludes food and energy prices.
+
+31 IMF, Geopolitics and its Impact on Global Trade, May 2024.
+
+32 ILO, World Employment and Social Outlook – Trends, 2024.
+
+33 ILO refers to the World Bank grouping of income countries, accordingly, “low-income economies are defined as those
+
+with a GNI per capita of $1,145 or less in 2023; lower middle-income economies are those with a GNI per capita between
+$1,146 and $4,515; upper middle-income economies are those with a GNI per capita between $4,516 and $14,005; high-
+income economies are those with more than a GNI per capita of $14,005“. The World Bank, Country Classification, July
+2024.
+                                                            25
+3.1.2. Key Figures in Europe
+
+Europe's economic recovery is lagging behind the global average, with GDP growth rates
+predictions of 0.8% for the Euro Area (1.0% for the EU-27), and uneven progress among
+European countries. Although posting a slight decline from a 2.5% growth rate seen in 2023,
+Spain is experiencing one of the highest growth rates, with a projected 2.1% increase in
+GDP for 2024. Germany, whose GDP growth rate was 0.3% in 2023, is experiencing a slow
+recovery with a forecasted GDP growth of 0.1% in 2024. Other major economies are also
+expected to face economic stagnation, with growth rates projected at 0.6% for the United
+Kingdom, 0.9% for Italy, and 0.7% for France34.
+European inflation forecasts show an average rate of 2.5% for 2024, which is expected to
+decrease to 2.2% in 2025 and further to 1.9% by 2026. To counter inflationary pressures,
+the European Central Bank (ECB) implemented significant rate hikes from July 2022,
+reaching the highest level by September 2023, with the main refinancing rate at 4.5%. In
+June 2024, the ECB began easing rates, lowering them by September 2024 to 3.65% for
+refinancing and 3.50% for deposits. The tightening of monetary policy significantly affected
+the economy, particularly private investments in the Euro area. Since 2022, private
+investments declined by about 10% as central banks raised interest rates, making borrowing
+more expensive and reducing credit availability. While the ECB has begun lowering interest
+rates, businesses remain hesitant due to inflation concerns and past tight monetary
+conditions35.
+In response to both the pandemic and energy shocks, public debt ratios in Europe increased
+significantly and remain higher than before the COVID-19 outbreak in most countries. While
+debt stabilisation will depend on achieving ambitious fiscal consolidation and sustained
+growth, important medium- to long-term spending pressures are expected, notably from
+defence and climate transition36.
+
+The employment rate in the Euro Area has demonstrated resilience amidst recent economic
+challenges. Unemployment rate has remained stable at 6.4%, its lowest level since the
+euro’s inception37.
+
+
+
+
+34 European Central Bank (ECB), Spring Economic Forecast, 15 May 2024. Spring 2024 Economic Forecast: A gradual
+
+expansion amid high geopolitical risks - European Commission (europa.eu).
+35 European Investment Bank (EIB), Investment Report 2023/2024.
+
+36 IMF Working Paper, Taming Public Debt in Europe, August 2024.
+
+37 European Commission, Unemployment statistics, July 2024.
+
+
+                                                         26
+3.2. Preliminary Trends of the Space Sector in 2024
+
+3.2.1. Public Investment in Space
+
+According to preliminary estimates, institutional space budgets are expected to reach €121
+billion in 2024, which would lead to a 7% growth compared to 202338. Defence expenditures
+in space continue to grow faster than civil spending, expected to account for 53% in 2024.
+47% of public space investment are expected to be dedicated to civil spending in 2024, an
+evolution of 5% compared to 2023.
+
+In Europe, public space investment in 2024 still benefits from the results of ESA Ministerial
+Council in November 2022, as well as the current 2021-2027 EU long-term budget
+(Multiannual Financial Framework, MFF). Important next steps will occur with ESA
+Ministerial Council in 2025 and the new EU budget for 2028-2034.
+
+3.2.2. Private Investment in Space
+
+Private space investment shows signs of resilience in 2024. While venture capital is
+expected to remain a leading source of funding for space private ventures, 2024 is seeing
+very large debt operations. Significant deals included:
+
+     •    Shanghai Spacecom Satellite Technology (SSST) raising $994 million in February
+          2024 in Series A funding for the construction of the 12,000 satellite G60 mega-
+          constellation for communication39;
+     •    SES securing a $3.2 billion financing package in debt in June 2024 to fund the
+          acquisition of satellite operator Intelsat, marking a deal between two of the major
+          GEO satellite operators40,41;
+     •    Telesat finalising its funding agreements with the Canadian and the Quebec
+          governments to fund the LEO Lightspeed satellite network, reaching a Canadian
+          $2.54 billion loan in September 202442.
+
+As in 2023, SpaceX has not raised capital so far in 2024. With a cumulated amount close
+to $10 billion raised to date, is contributing to the downward trend.
+
+
+
+
+38 Euroconsult, Government Space Programs, estimates as of 30 September 2024.
+
+39 Shanghai firm behind G60 megaconstellation raises $943 million - SpaceNews.
+
+40 SES to acquire Intelsat for $3.1 billion - SpaceNews.
+
+41 SES Secures Financing for Intelsat Acquisition   - Via Satellite (satellitetoday.com).
+42 Telesat secures $1.9 billion government funding for Lightspeed - SpaceNews.
+
+
+                                                             27
+Highlight: A slowdown of general private investments
+Economic challenges such as the COVID-                        investments, recording a striking decrease
+19 pandemic, inflation, rising interest                       of 22% from 2022 to 202343.
+rates, and geopolitical tensions have led to
+                                                              By 2024, private investment is expected to
+reduced business confidence and a
+                                                              continue decreasing, reflecting sustained
+slowdown in capital expenditures.
+                                                              economic uncertainty and higher costs of
+In Europe, private investments suffered                       financing45.
+from a decline of 3% from 2022 to 202343.
+                                                              Such scenario is reflected in Venture
+This contraction is attributed to rising
+                                                              Capital (VC) evolution analysis. According
+costs, higher interest rates, and an overall
+                                                              to OECD data, both Europe and North
+cautious economic outlook.
+                                                              America experienced a sharp decrease in
+While some growth is expected beyond                          VC investments in the 2022-2023 period46.
+2024, investment is predicted to remain
+                                                              Namely, both Europe and North America
+constrained due to ongoing economic
+                                                              showed a decrease of 31%. This analysis
+uncertainties44.
+                                                              confirms the trends in the above-
+In contrast, North America experienced a                      mentioned dynamics of private investment
+more severe contraction in private                            in North America and Europe.
+
+
+
+
+43 McKinsey & Company, Private markets: A slower era, McKinsey Global Private Markets Review, March 2024.
+
+44 ECB, What do recent surveys reveal about euro area business investment in 2024? May 2024.
+
+45 European Commission, Spring 2024 Economic Forecast: A gradual expansion amid high geopolitical risks, May 2024.
+
+46 OECD Database, Venture capital investments, Structural and Demographic Business Statistics.
+
+
+                                                         28
+3.2.3. Space Activity
+
+As of end of Q3-2024, a total of 181 launches have occurred, a 14% year-over-year growth
+from September 2023. The US accounts for more than 60% of the launches (110 by end of
+September), with 64 launches operated by SpaceX to launch Starlink satellites (35% of the
+total). China operated 46 launches (25%), a similar number compared to September 2023.
+2024 saw the successful launch of Ariane 6 on 9 July from Europe’s Spaceport in French
+Guiana47.
+With a total of 421 tons launched to orbit in Q3-2024 (28% less than in Q2-2024), the
+quarter’s total launch mass marked a decrease for the first time since Q3-2021, putting an
+end to eleven quarters of uninterrupted growth48. While this decline is due to an exceptionally
+reduced launch cadence of SpaceX’s Falcon 9, the total mass launched for 2024 as of end
+of Q3-2024 already exceeds the total of 2023.
+In total, 2,006 satellites had been launched by 30 September 2024, a year-over-year
+decrease of 12%. Yet, 3,119 satellites are expected to be launched by the end of the year,
+a number slightly above the total of 2023 (2,940) but with a much lower growth rate than
+previous years (6% increase).
+As of end of Q3-2024, 1,412 Starlink satellites were launched, expected to reach 1,868 by
+the end of the year, an estimated decrease of 6%.
+
+3.2.4. Satellite Manufacturing Orders
+
+As of end of Q3-2024, a total of 169 satellite manufacturing orders were registered, a year-
+over-year decrease of 58% compared with end of Q3-202347. The sharp decline is driven by
+the commercial customer segment, with 41 orders placed as of 30 September 2024,
+compared with 297 last year at the same period. Orders from defence customers remain
+stable (91 in both end of Q3-2023 and end of Q3-2024), and orders from public civil
+customers have been multiplied by three (36 orders by end of September 2024 compared
+with 12 orders by end of September 2023).
+In contrast, the value of 2024 orders by end of Q3 displays an almost 20% growth compared
+to end of Q3 last year, reaching €8.3 billion. Lockheed Martin, L3Harris and Sierra Space
+together account for 33% of the value.
+Similarly to previous years, defence customers account for the largest share of satellite
+manufacturing orders, reaching 66% as end of Q3-2024 (50% in Q3 of last year). Orders
+from government civil customers are posting the most impressive growth, multiplying by
+three the value of orders from last year at the same period. Significant orders have taken
+place, including:
+
+
+
+
+47 Euroconsult, Space Market Monitoring, estimates as of 30 September 2024.
+
+48 Eurospace, LEAT Quarterly Report – Q3-2024, October 2024.
+
+
+                                                        29
+     •    In June 2024, Lockheed Martin won a contract to build US geostationary weather
+          satellites, three GeoXO satellites, for the National Oceanic and Atmospheric
+          Administration (NOAA) with an estimated order value of almost $2.3 billion49.
+     •    In June 2024, Airbus was contracted by Yahsat for two GEO communications
+          satellites based on Eurostar Neo platform, Al Yah 4 (AY4) and Al Yah 5 (AY5). The
+          full programme is estimated at around $1 billion (also including two Low-Earth Orbit
+          (LEO) satellite platforms based on the Airbus Arrow line50.
+As of 30 September 2024, European satellite manufacturers had been awarded 37% of total
+order value worldwide, compared to 11% by 30 September 2023. The total value of orders
+secured by Europe was multiplied by almost four from last year at the same period, going
+from €756 million in Q3-2023 to €3 billion in Q3-2024. Several orders include:
+•    In March 2024, ESA awarded a €76.6 million contract to a consortium led by OHB Italia
+     to build and operate the Genesis mission. It also awarded two contracts of €78.4 million
+     each for the LEO-PNT mission. The projects are led by GMV Aerospace and Defense
+     and Thales Alenia Space (TAS) France and involve a consortium of more than 50
+     entities from 14 countries. The three contracts amount to almost a quarter billion of
+     euros51.
+•    In May 2024, TAS secured a $250 million order from SkyPerfect JSAT to build JSAT-
+     3152.
+•    In May 2024, ESA signed a contract with Airbus Defence and Space UK worth €340
+     million for the development of the space weather spacecraft mission Vigil53,54.
+
+
+Highlight: A shift towards Micro-GEO on the satcom market55
+A noticeable shift is occurring in the GEO                            volume of satellite orders appears similar,
+commercial satcom toward Micro-GEO                                    Micro-GEO satellites tend to have a lower
+satellites, with 36% of GEO orders since                              financial value compared to larger
+2021 being for this smaller class of                                  commercial GEO satellites.
+satellites.
+                                                                      Some European companies are active in
+In 2024, a total of five orders has been                              this market, such as Swissto12, with its
+placed so far, of which two for Micro-GEO                             HummingSat product which has already
+satellites. While the overall year-on-year                            captured several commercial contracts.
+
+
+
+
+49 Lockheed Martin wins contract to build U.S. geostationary weather satellites - SpaceNews.
+
+50 Yahsat Orders Al Yah 4 and 5 Satellites from Airbus   - Via Satellite (satellitetoday.com).
+51 ESA awards three contracts for satellite navigation missions - SpaceNews.
+
+52 SKY Perfect JSAT selects Thales Alenia Space to build a new cutting-edge software-defined satellite “JSAT-31” |
+
+Thales Alenia Space.
+53 Airbus awarded space weather spacecraft mission Vigil | Airbus.
+
+54 ESA - Airbus is the prime contractor for ESA's Vigil spacecraft.
+
+55 Source: ESA Internal.
+
+
+                                                             30
+Highlight: The programmes of the US Space Development Agency (SDA)56, 57, 58
+The US military’s involvement in space                         (PWSA), aims to create a constellation of
+technology dates back to 1958 and has                          400-600 LEO satellites to provide resilient
+evolved significantly to rely on space-based                   missile defence, satcom, and PNT services,
+systems for intelligence, surveillance,                        particularly in GPS-denied environments.
+reconnaissance; satellite communications;                      LEO satellites offer enhanced resilience due
+and position, navigation, and timing.                          to their large numbers, rapid production
+However,       advancements        in   space                  timelines, and high velocity.
+capabilities by strategic competitors,
+                                                               A notable innovation in the SDA's approach
+particularly China, have made the US
+                                                               is its adoption of a "spiral development"
+traditional reliance on large, costly, and
+                                                               procurement model. This method partners
+slow-to-deploy GEO satellites increasingly
+                                                               with both more established and emerging
+vulnerable. To address these concerns, the
+                                                               satellite manufacturers to design, build, and
+US government established the US Space
+                                                               launch satellites in four tranches, with new
+Force in 2019, with its budget growing from
+                                                               capabilities introduced every two years. This
+$15 billion in 2021 to $30 billion by 2024.
+                                                               approach         significantly      accelerates
+A key element of the Space Force’s                             deployment        timelines     compared      to
+modernisation efforts is led by the Space                      traditional military satellite programs, which
+Development Agency (SDA). Formed in                            could take a decade or more to deliver. The
+2019 and later integrated into the Space                       diverse     collaboration       has    fostered
+Force, the SDA was tasked with rapidly                         innovation while driving down costs, with
+developing and deploying new space                             LEO satellites priced at approximately $14
+technologies, with a particular focus on LEO                   million each, compared to about $1 billion for
+satellite constellations. The SDA presents                     GEO satellites58.
+significant opportunities for the space
+                                                               Tranche 0 satellites were launched in 2023,
+industry, with its budget growing from under
+                                                               with subsequent tranches scheduled every
+$100 million to nearly $5 billion annually in
+                                                               two years, each incorporating more
+just five years. So far, the SDA has awarded
+                                                               sophisticated technologies, presenting new
+contracts worth nearly $11 billion to major
+                                                               business opportunities for both more
+defence contractors (such as Northrop
+                                                               established and emerging companies. In
+Grumman, Lockheed Martin, L3Harris, and
+                                                               FY2024, the SDA has awarded $4.4 billion
+Raytheon, as well as to new entrants in the
+                                                               in contracts and is expected to award an
+sector), to construct, launch, and operate
+                                                               additional $400 million to $500 million
+476 satellites.
+                                                               contract by end 2024 for 20 Tranche 2
+The     SDA’s   flagship   initiative, the                     Transport "Gamma" variant satellites.
+Proliferated Warfighter Space Architecture
+
+
+
+
+56 Source: ESA Internal.
+
+57 Stars, Stripes, and Satellites - by Space Case (substack.com), 26 January 2024.
+
+58 The Proliferated Warfighter Space Architecture (PWSA): An Explainer - Payload (payloadspace.com), 5 December
+
+2022.
+                                                          31
+space-economy.esa
+        32
+

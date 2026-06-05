@@ -1,0 +1,220 @@
+{
+  "ticker": "NOC",
+  "queryVariants": [
+    "NORTHROP GRUMMAN CORP /DE/",
+    "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "Northrop Grumman"
+  ],
+  "sampleRecipients": [
+    "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "NORTHROP GRUMMAN SYSTEMS CORP",
+    "NORTHROP GRUMMAN TECHNICAL SERVICES, INC."
+  ],
+  "totalAmount": 120907946193.92003,
+  "awardCount": 108,
+  "byAgency": [
+    {
+      "agency": "Department of Defense",
+      "amount": 107599250743.03001
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 11525200243.49
+    },
+    {
+      "agency": "Social Security Administration",
+      "amount": 734075303.25
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "amount": 664729454.94
+    },
+    {
+      "agency": "General Services Administration",
+      "amount": 384690449.21
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "F4261098C0001",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 10009419769.13,
+      "psc": null,
+      "naics": null,
+      "description": "200506!000026!5700!FA8214!OO-ALC/PKME/LMKE                !F4261098C0001  !A!N! !Y!             !P01502!20041213!20050701!001563738!004179453!016435559!N!NORTHROP GRUMMAN SPACE & MISSI!888 S 2000 E              !CLEARFIELD          !UT!8401",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001918C1037",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 8473019987.67,
+      "psc": null,
+      "naics": null,
+      "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001913C9999",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 5374740355.12,
+      "psc": null,
+      "naics": null,
+      "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-2)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "NNM07AA75C",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 4430784857,
+      "psc": null,
+      "naics": null,
+      "description": "FIRST DDT AND E, ARES I-X, AND FLIGHT TESTS.  FIRST STAGE WILL BE A FIVE SEGMENT, SOLID ROCKET BOOSTER DERIVED FROM THE SPACE SHUTTLE PROGRAM (SSP) SOLID ROCKET BOOSTER (SRB)/REUSABLE SOLID ROCKET MOTOR (RSRM). THE CONTRACTOR SHALL FURNISH ",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "F0470102C0502",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 4395003228.74,
+      "psc": null,
+      "naics": null,
+      "description": "",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "GSFC0200211DNAS502200",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 4345585999.01,
+      "psc": null,
+      "naics": null,
+      "description": "THE JAMES WEBB SPACE TELESCOPE (JWST) PHASE 2 OBSERVATORY CONTRACTOR SHALL BE RESPONSIBLE FOR PROVIDING THE SPACECRAFT, THE OPTICAL TELESCOPE ELEMENT (OTE), PORTIONS OF THE INTEGRATED SCIENCE INSTRUMENT MODULE (ISIM), OBSERVATORY AND SYSTEM",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881018C0006",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 3243980501.13,
+      "psc": null,
+      "naics": null,
+      "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED POLAR SPACE VEHICLES 1 AND 2 STUDY.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001908C0023",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 3229122597.17,
+      "psc": null,
+      "naics": null,
+      "description": "TAS::17 1319::TAS SYSTEM DEVELOPMENT AND DEMONSTRATION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001903C0057",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Defense Contract Management Agency",
+      "amount": 3076522196.73,
+      "psc": null,
+      "naics": null,
+      "description": "",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HQ085621C0003",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Missile Defense Agency",
+      "amount": 2395436919.18,
+      "psc": null,
+      "naics": null,
+      "description": "DESIGN, DEVELOPMENT, AND DEVELOPMENTAL TESTING OF THE NEXT GENERATION INTERCEPTOR (NGI) ALL-UP-ROUND (AUR)",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "F0470102C0009",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Missile Defense Agency",
+      "amount": 1926774531.37,
+      "psc": null,
+      "naics": null,
+      "description": "200208!000056!5700!CZ39 !SMC/PKZ LOS ANGELES AFB !F0470102C0009 !A!N! !N! !20020418!20100930!008324949!008324949!004179453!N!TRW INC !1 SPACE PARK BLVD !REDONDO BEACH !CA!90278!60018!037!06!REDONDO BEACH !LOS ANGELES !CALIFORNIA!+0000100000",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "N0001919C0008",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Navy",
+      "amount": 1808132092.37,
+      "psc": null,
+      "naics": null,
+      "description": "MQ-4C TRITON LRIP LOT 5 LONG LEAD ITEMS TO SUPPORT U.S. NAVY AND COOPERATIVE PARTNER AUSTRALIA.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "F1962800C0100",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1726084211.32,
+      "psc": null,
+      "naics": null,
+      "description": "200103!000014!5700!GV47  !ESC/JSK                         !F1962800C0100  !A!N!*!N!                   !20001211!20031231!938535028!008255408!016435559!N!NORTHROP GRUMMAN SYSTEMS CORPO!ONE HORNET WAY            !EL SEGUNDO          !CA!90245",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA861517C6047",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1714445762.81,
+      "psc": null,
+      "naics": null,
+      "description": "F-16 ACTIVE ELECTRONICALLY SCANNED ARRAY JOINT EMERGENT OPERATIONAL NEED",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA862512C6598",
+      "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1603584166.83,
+      "psc": null,
+      "naics": null,
+      "description": "ACAT 1C, ASC/WLY, LAIRCM FOLLOW-ON (LAF)",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

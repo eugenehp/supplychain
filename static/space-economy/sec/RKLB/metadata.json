@@ -1,0 +1,55 @@
+{
+  "ticker": "RKLB",
+  "topicId": "space-economy",
+  "name": "Rocket Lab Corp",
+  "cik": "0001819994",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-26",
+    "accessionNumber": "0001819994-26-000013",
+    "primaryDocument": "rklb-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000013/rklb-20251231.htm",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 601799000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 270716000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 394618000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 207181000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 2324478000,
+      "end": "2025-12-31",
+      "filed": "2026-02-26",
+      "form": "10-K"
+    }
+  },
+  "textLength": 430368,
+  "exportedAt": "2026-06-05T04:10:39.480Z",
+  "localUrls": {
+    "text": "/space-economy/sec/RKLB/filing.txt",
+    "metadata": "/space-economy/sec/RKLB/metadata.json",
+    "sections": "/space-economy/sec/RKLB/sections.json",
+    "evidence": "/space-economy/sec/RKLB/evidence.json",
+    "display": "/space-economy/sec/RKLB/display.json"
+  }
+}

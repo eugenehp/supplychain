@@ -1,8 +1,9 @@
 /**
  * Load RAG chunk entries — parallel shard fetch when manifest lists shardUrls.
  * @param {object} manifest
+ * @param {{ ragRoot?: string }} [opts]
  */
-export async function fetchRagChunkEntries(manifest) {
+export async function fetchRagChunkEntries(manifest, opts = {}) {
   const shardUrls = manifest?.shardUrls;
   if (shardUrls && typeof shardUrls === 'object' && Object.keys(shardUrls).length) {
     const payloads = await Promise.all(
@@ -15,9 +16,10 @@ export async function fetchRagChunkEntries(manifest) {
     return payloads.flatMap((payload) => payload.entries ?? []);
   }
 
-  const chunksUrl = manifest?.chunksUrl ?? '/rag/chunks.json';
+  const fallback = `${opts.ragRoot ?? '/rag'}/chunks.json`;
+  const chunksUrl = manifest?.chunksUrl ?? fallback;
   const res = await fetch(chunksUrl);
-  if (!res.ok) throw new Error('RAG static index missing — run `npm run rag`');
+  if (!res.ok) throw new Error('RAG static index missing — run the topic pipeline');
   const chunksData = await res.json();
   return chunksData.entries ?? [];
 }

@@ -3,6 +3,7 @@
 export const RESEARCH_MODES = [
   { id: 'accelerators', label: 'AI accelerators', description: 'SEC-grounded chip supply chains' },
   { id: 'materials', label: 'Raw materials', description: 'Extractive inputs — rare earth elements' },
+  { id: 'space-economy', label: 'Space economy', description: 'Launch, satellites, ground & in-space services' },
 ];
 
 const STORAGE_KEY = 'supply-chain-research-mode';
@@ -22,6 +23,7 @@ export function researchModeFromHash(hash = '') {
   if (!raw) return null;
   const parts = raw.startsWith('/') ? raw.slice(1).split('/') : raw.split('/');
   if (parts[0] === 'materials') return 'materials';
+  if (parts[0] === 'space-economy') return 'space-economy';
   return null;
 }
 
@@ -34,7 +36,15 @@ export function saveResearchMode(mode, { hash = true } = {}) {
     if (window.location.hash !== next) {
       history.replaceState(null, '', `${window.location.pathname}${window.location.search}${next}`);
     }
-  } else if (window.location.hash.startsWith('#materials')) {
+  } else if (mode === 'space-economy') {
+    const next = '#space-economy';
+    if (window.location.hash !== next) {
+      history.replaceState(null, '', `${window.location.pathname}${window.location.search}${next}`);
+    }
+  } else if (
+    window.location.hash.startsWith('#materials') ||
+    window.location.hash.startsWith('#space-economy')
+  ) {
     const topic = localStorage.getItem('supply-chain-topic');
     const next = topic ? `#${topic}` : '';
     history.replaceState(null, '', `${window.location.pathname}${window.location.search}${next}`);

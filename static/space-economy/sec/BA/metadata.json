@@ -1,0 +1,61 @@
+{
+  "ticker": "BA",
+  "topicId": "space-economy",
+  "name": "BOEING CO",
+  "cik": "0000012927",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-30",
+    "accessionNumber": "0001628280-26-004357",
+    "primaryDocument": "ba-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm",
+  "facts": {
+    "Revenues": {
+      "value": 89463000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-30",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 76559000000,
+      "end": "2019-12-31",
+      "filed": "2020-01-31",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 3615000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-30",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 85174000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-30",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 4289000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-30",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 168235000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-30",
+      "form": "10-K"
+    }
+  },
+  "textLength": 419592,
+  "exportedAt": "2026-06-05T04:10:27.007Z",
+  "localUrls": {
+    "text": "/space-economy/sec/BA/filing.txt",
+    "metadata": "/space-economy/sec/BA/metadata.json",
+    "sections": "/space-economy/sec/BA/sections.json",
+    "evidence": "/space-economy/sec/BA/evidence.json",
+    "display": "/space-economy/sec/BA/display.json"
+  }
+}

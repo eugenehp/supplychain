@@ -1,0 +1,281 @@
+{
+  "generatedAt": "2026-06-05T02:13:58.236Z",
+  "topicId": "space-economy",
+  "tickers": [
+    {
+      "ticker": "ASTS",
+      "product": "AST SpaceMobile BlueBird constellation",
+      "segment": "downstream",
+      "nodeCount": 10,
+      "linkCount": 9,
+      "totalFlow": 91,
+      "mentionDensity": 0.18,
+      "topSubsystems": [
+        "Ground & comms",
+        "RF & antenna",
+        "Launch services"
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "explicitSuppliers": 4,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "BA",
+      "product": "Boeing Defense, Space & Security",
+      "segment": "satellites",
+      "nodeCount": 5,
+      "linkCount": 4,
+      "totalFlow": 7,
+      "mentionDensity": 0.02,
+      "topSubsystems": [
+        "Launch services",
+        "Integration & test"
+      ],
+      "countries": [
+        "FR",
+        "US"
+      ],
+      "explicitSuppliers": 2,
+      "heuristicSuppliers": 0
+    },
+    {
+      "ticker": "BKSY",
+      "product": "BlackSky EO constellation",
+      "segment": "downstream",
+      "nodeCount": 8,
+      "linkCount": 7,
+      "totalFlow": 15,
+      "mentionDensity": 0.03,
+      "topSubsystems": [
+        "Optics & imaging",
+        "Integration & test",
+        "Ground & comms"
+      ],
+      "countries": [
+        "FR",
+        "US"
+      ],
+      "explicitSuppliers": 2,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "GSAT",
+      "product": "Globalstar MSS",
+      "segment": "downstream",
+      "nodeCount": 9,
+      "linkCount": 8,
+      "totalFlow": 83,
+      "mentionDensity": 0.22,
+      "topSubsystems": [
+        "Ground & comms",
+        "Optics & imaging",
+        "Launch services"
+      ],
+      "countries": [
+        "CA",
+        "GB",
+        "US"
+      ],
+      "explicitSuppliers": 5,
+      "heuristicSuppliers": 0
+    },
+    {
+      "ticker": "IRDM",
+      "product": "Iridium NEXT constellation",
+      "segment": "ground",
+      "nodeCount": 11,
+      "linkCount": 10,
+      "totalFlow": 79,
+      "mentionDensity": 0.2,
+      "topSubsystems": [
+        "Ground & comms",
+        "Launch services",
+        "RF & antenna"
+      ],
+      "countries": [
+        "FR",
+        "GB",
+        "US"
+      ],
+      "explicitSuppliers": 5,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "LHX",
+      "product": "L3Harris / Aerojet Rocketdyne",
+      "segment": "propulsion",
+      "nodeCount": 8,
+      "linkCount": 7,
+      "totalFlow": 11,
+      "mentionDensity": 0.03,
+      "topSubsystems": [
+        "Optics & imaging",
+        "Propulsion"
+      ],
+      "countries": [
+        "US"
+      ],
+      "explicitSuppliers": 2,
+      "heuristicSuppliers": 0
+    },
+    {
+      "ticker": "LMT",
+      "product": "Lockheed Martin Space segment",
+      "segment": "satellites",
+      "nodeCount": 3,
+      "linkCount": 2,
+      "totalFlow": 8,
+      "mentionDensity": 0.02,
+      "topSubsystems": [
+        "Launch services"
+      ],
+      "countries": [
+        "US"
+      ],
+      "explicitSuppliers": 1,
+      "heuristicSuppliers": 0
+    },
+    {
+      "ticker": "MNTS",
+      "product": "Momentus Vigoride orbital transfer",
+      "segment": "isam",
+      "nodeCount": 7,
+      "linkCount": 6,
+      "totalFlow": 62,
+      "mentionDensity": 0.13,
+      "topSubsystems": [
+        "Propulsion",
+        "Power & solar",
+        "Launch services"
+      ],
+      "countries": [
+        "US"
+      ],
+      "explicitSuppliers": 3,
+      "heuristicSuppliers": 0
+    },
+    {
+      "ticker": "NOC",
+      "product": "Northrop Grumman Space Systems",
+      "segment": "satellites",
+      "nodeCount": 6,
+      "linkCount": 5,
+      "totalFlow": 5,
+      "mentionDensity": 0.01,
+      "topSubsystems": [
+        "Optics & imaging",
+        "Ground & comms"
+      ],
+      "countries": [
+        "US"
+      ],
+      "explicitSuppliers": 1,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "PL",
+      "product": "Planet EO constellation",
+      "segment": "downstream",
+      "nodeCount": 8,
+      "linkCount": 7,
+      "totalFlow": 8,
+      "mentionDensity": 0.01,
+      "topSubsystems": [
+        "Optics & imaging",
+        "Launch services",
+        "Integration & test"
+      ],
+      "countries": [
+        "FR",
+        "US"
+      ],
+      "explicitSuppliers": 2,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "RDW",
+      "product": "Redwire ISAM & space components",
+      "segment": "isam",
+      "nodeCount": 6,
+      "linkCount": 5,
+      "totalFlow": 206,
+      "mentionDensity": 0.4,
+      "topSubsystems": [
+        "Integration & test",
+        "Power & solar",
+        "Ground & comms"
+      ],
+      "countries": [
+        "US"
+      ],
+      "explicitSuppliers": 1,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "RKLB",
+      "product": "Rocket Lab — Electron / Neutron",
+      "segment": "launch",
+      "nodeCount": 14,
+      "linkCount": 14,
+      "totalFlow": 32,
+      "mentionDensity": 0.07,
+      "topSubsystems": [
+        "Propulsion",
+        "Power & solar",
+        "Optics & imaging"
+      ],
+      "countries": [
+        "CA",
+        "US"
+      ],
+      "explicitSuppliers": 6,
+      "heuristicSuppliers": 0
+    },
+    {
+      "ticker": "RTX",
+      "product": "RTX Space programs",
+      "segment": "propulsion",
+      "nodeCount": 6,
+      "linkCount": 5,
+      "totalFlow": 10,
+      "mentionDensity": 0.02,
+      "topSubsystems": [
+        "Integration & test",
+        "Optics & imaging"
+      ],
+      "countries": [
+        "FR",
+        "US"
+      ],
+      "explicitSuppliers": 1,
+      "heuristicSuppliers": 1
+    },
+    {
+      "ticker": "SPIR",
+      "error": "no supplier matches"
+    },
+    {
+      "ticker": "VSAT",
+      "product": "Viasat satcom network",
+      "segment": "ground",
+      "nodeCount": 13,
+      "linkCount": 12,
+      "totalFlow": 346,
+      "mentionDensity": 0.67,
+      "topSubsystems": [
+        "Ground & comms",
+        "RF & antenna",
+        "Launch services"
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "explicitSuppliers": 5,
+      "heuristicSuppliers": 1
+    }
+  ]
+}

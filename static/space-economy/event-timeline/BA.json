@@ -1,0 +1,243 @@
+{
+  "ticker": "BA",
+  "name": "BOEING CO",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 9,
+  "byCategory": [
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "governance",
+      "count": 3
+    },
+    {
+      "category": "disclosure",
+      "count": 1
+    },
+    {
+      "category": "contract",
+      "count": 1
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-07",
+      "count": 2
+    },
+    {
+      "month": "2025-08",
+      "count": 1
+    },
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2025-12",
+      "count": 2
+    },
+    {
+      "month": "2026-01",
+      "count": 1
+    },
+    {
+      "month": "2026-04",
+      "count": 2
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001628280-26-026391",
+      "filingDate": "2026-04-22",
+      "reportDate": "2026-04-22",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026026391/ba-20260422.htm"
+    },
+    {
+      "accessionNumber": "0001628280-26-025684",
+      "filingDate": "2026-04-17",
+      "reportDate": "2026-04-17",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026025684/ba-20260417.htm"
+    },
+    {
+      "accessionNumber": "0001628280-26-003518",
+      "filingDate": "2026-01-27",
+      "reportDate": "2026-01-27",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026003518/ba-20260127.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-055825",
+      "filingDate": "2025-12-08",
+      "reportDate": "2025-12-08",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828025055825/ba-20251208.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-055122",
+      "filingDate": "2025-12-03",
+      "reportDate": "2025-12-01",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828025055122/ba-20251201.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-046915",
+      "filingDate": "2025-10-29",
+      "reportDate": "2025-10-29",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828025046915/ba-20251029.htm"
+    },
+    {
+      "accessionNumber": "0000012927-25-000064",
+      "filingDate": "2025-08-28",
+      "reportDate": "2025-08-25",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000064/ba-20250825.htm"
+    },
+    {
+      "accessionNumber": "0000012927-25-000058",
+      "filingDate": "2025-07-29",
+      "reportDate": "2025-07-29",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000058/ba-20250729.htm"
+    },
+    {
+      "accessionNumber": "0000012927-25-000050",
+      "filingDate": "2025-07-03",
+      "reportDate": "2025-06-27",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000050/ba-20250627.htm"
+    }
+  ]
+}

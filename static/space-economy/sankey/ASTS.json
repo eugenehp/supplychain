@@ -1,0 +1,199 @@
+{
+  "ticker": "ASTS",
+  "topicId": "space-economy",
+  "product": "AST SpaceMobile BlueBird constellation",
+  "segment": "downstream",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-02",
+    "accessionNumber": "0001780312-26-000006",
+    "primaryDocument": "asts-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1780312/000178031226000006/asts-20251231.htm",
+  "summary": {
+    "nodeCount": 10,
+    "linkCount": 9,
+    "totalFlow": 91,
+    "filingChars": 507399,
+    "mentionDensity": 0.18,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Ground & comms",
+        "score": 58
+      },
+      {
+        "subsystem": "RF & antenna",
+        "score": 31
+      },
+      {
+        "subsystem": "Launch services",
+        "score": 2
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "GB",
+        "score": 38
+      },
+      {
+        "country": "US",
+        "score": 7
+      }
+    ],
+    "countries": [
+      "GB",
+      "US"
+    ],
+    "explicitSuppliers": 4,
+    "heuristicSuppliers": 1
+  },
+  "nodes": [
+    {
+      "id": "AST SpaceMobile BlueBird constellation",
+      "name": "AST SpaceMobile BlueBird constellation",
+      "tier": 0,
+      "group": "product",
+      "description": "ASTS 10-K / 20-F · 10-K 2026-03-02",
+      "country": "US",
+      "mentionScore": 91
+    },
+    {
+      "id": "RF & antenna",
+      "name": "RF & antenna",
+      "tier": 1,
+      "group": "rf",
+      "description": "Subsystem category — RF & antenna",
+      "country": null,
+      "mentionScore": 31,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Phased-array antenna",
+      "name": "Phased-array antenna",
+      "tier": 2,
+      "group": "rf",
+      "description": "RF & antenna · ASTS 10-K mentions: 31",
+      "country": null,
+      "mentionScore": 31,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "GaN / GaAs RFIC",
+      "name": "GaN / GaAs RFIC",
+      "tier": 3,
+      "group": "rf",
+      "description": "Raw input — GaN / GaAs RFIC",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 2,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "SpaceX launch services",
+      "name": "SpaceX launch services",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · ASTS 10-K mentions: 2",
+      "country": "US",
+      "mentionScore": 2,
+      "disclosure": "heuristic"
+    },
+    {
+      "id": "Ground & comms",
+      "name": "Ground & comms",
+      "tier": 1,
+      "group": "ground",
+      "description": "Subsystem category — Ground & comms",
+      "country": null,
+      "mentionScore": 58,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Gateway / teleport",
+      "name": "Gateway / teleport",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · ASTS 10-K mentions: 15",
+      "country": null,
+      "mentionScore": 15,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Viasat global network",
+      "name": "Viasat global network",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · ASTS 10-K mentions: 5",
+      "country": "US",
+      "mentionScore": 5,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Inmarsat ELERA",
+      "name": "Inmarsat ELERA",
+      "tier": 2,
+      "group": "ground",
+      "description": "Ground & comms · ASTS 10-K mentions: 38",
+      "country": "GB",
+      "mentionScore": 38,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "Phased-array antenna",
+      "target": "RF & antenna",
+      "value": 31
+    },
+    {
+      "source": "GaN / GaAs RFIC",
+      "target": "Phased-array antenna",
+      "value": 1
+    },
+    {
+      "source": "SpaceX launch services",
+      "target": "Launch services",
+      "value": 2
+    },
+    {
+      "source": "Gateway / teleport",
+      "target": "Ground & comms",
+      "value": 15
+    },
+    {
+      "source": "Viasat global network",
+      "target": "Ground & comms",
+      "value": 5
+    },
+    {
+      "source": "Inmarsat ELERA",
+      "target": "Ground & comms",
+      "value": 38
+    },
+    {
+      "source": "RF & antenna",
+      "target": "AST SpaceMobile BlueBird constellation",
+      "value": 31
+    },
+    {
+      "source": "Launch services",
+      "target": "AST SpaceMobile BlueBird constellation",
+      "value": 2
+    },
+    {
+      "source": "Ground & comms",
+      "target": "AST SpaceMobile BlueBird constellation",
+      "value": 58
+    }
+  ]
+}

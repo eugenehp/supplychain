@@ -1,0 +1,2288 @@
+{
+  "ticker": "LMT",
+  "topicId": "space-economy",
+  "count": 150,
+  "generatedAt": "2026-06-05T04:10:34.197Z",
+  "entries": [
+    {
+      "id": "LMT-kw-0",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 10010,
+      "excerpt": "…ectively during the year indicated their intent to purchase 72 additional aircraft beyond their existing programs of record. The F-35 program is significant and complex, and we, our customers, and our and our customers’ suppliers continually review aircraft performance, schedule, cost and requirements. Our current areas of focus include technology modernization, life-cycle cost containment, delivery schedule optimization, and aircraft readiness enhancements. For additional information on the F-35 program, see Item 1A - Risk Factors for a discussion of risks related to the F-35 program. In addition to the aircraft programs above, Aer…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 9790,
+        "end": 10430
+      }
+    },
+    {
+      "id": "LMT-kw-1",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 12090,
+      "excerpt": "…ts using kinetic energy. THAAD is a transportable defensive missile system for the U.S. Government and international customers designed to engage targets both within and outside of the Earth’s atmosphere. • The Multiple Launch Rocket System (MLRS), Precision Strike Missile (PrSM), Joint Air-to-Surface Standoff Missile (JASSM), Long Range Anti-Ship Missile (LRASM), Hellfire and Joint Air-to-Ground Missile (JAGM) tactical and strike missile programs. MLRS is a highly mobile, automatic system that fires surface-to-surface rockets and missiles from the M270 and High Mobility Artillery Rocket System (HIMARS) platforms produced for the U.…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 11870,
+        "end": 12510
+      }
+    },
+    {
+      "id": "LMT-kw-2",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 12675,
+      "excerpt": "…ry Rocket System (HIMARS) platforms produced for the U.S. Army and international customers and PrSM is the next generation of precision strike surface-to-surface weapon systems that is compatible with the MLRS family of launchers in support of the U.S. Army. JASSM is an air-to-ground missile launched from fixed-wing aircraft, which is produced for the U.S. Air Force and international customers. LRASM is a precision guided anti-ship missile derived from JASSM and designed to interdict a variety of surface threats at very long range and produced for the U.S. Air Force, U.S. Navy, and international customers. Hellfire and JAGM are air-…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 12455,
+        "end": 13095
+      }
+    },
+    {
+      "id": "LMT-kw-3",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 12748,
+      "excerpt": "…ational customers and PrSM is the next generation of precision strike surface-to-surface weapon systems that is compatible with the MLRS family of launchers in support of the U.S. Army. JASSM is an air-to-ground missile launched from fixed-wing aircraft, which is produced for the U.S. Air Force and international customers. LRASM is a precision guided anti-ship missile derived from JASSM and designed to interdict a variety of surface threats at very long range and produced for the U.S. Air Force, U.S. Navy, and international customers. Hellfire and JAGM are air-to-ground missile used on rotary and fixed-wing aircraft, which is produc…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 12529,
+        "end": 13169
+      }
+    },
+    {
+      "id": "LMT-kw-4",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 17145,
+      "excerpt": "…ed mix of existing program portfolios designed to accelerate mission‑focused solutions and enhance our customers’ experience. Space Space is engaged in the research and design, development, engineering and production of satellites, space transportation systems, and strategic, advanced strike, and defensive systems. Space provides network-enabled situational awareness and integrates complex space and ground global systems to help our customers gather, analyze and securely distribute critical intelligence data. Space is also responsible for various classified systems and services in support of vital national security systems. Space’s…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 16925,
+        "end": 17624
+      }
+    },
+    {
+      "id": "LMT-kw-5",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 17692,
+      "excerpt": "…rious classified systems and services in support of vital national security systems. Space’s major programs include: • The Trident II D5 Fleet Ballistic Missile (FBM), a program with the U.S. Navy for the only submarine-launched intercontinental ballistic missile currently in production in the U.S. • The Next Generation Overhead Persistent Infrared (Next Gen OPIR) system, which provides the U.S. Space Force with enhanced worldwide missile warning capabilities. • Next Generation Interceptor (NGI), a program with the Missile Defense Agency (MDA) utilizing next generation propulsion and sensors to provide homeland missile defense. • Th…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 17472,
+        "end": 18112
+      }
+    },
+    {
+      "id": "LMT-kw-6",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 18048,
+      "excerpt": "…Gen OPIR) system, which provides the U.S. Space Force with enhanced worldwide missile warning capabilities. • Next Generation Interceptor (NGI), a program with the Missile Defense Agency (MDA) utilizing next generation propulsion and sensors to provide homeland missile defense. • The Orion Multi-Purpose Crew Vehicle (Orion), NASA’s next generation exploration-class crewed vehicle for human exploration to the Moon and throughout the solar system. • Global Positioning System (GPS) III, a program to modernize the GPS satellite system for the U.S. Space Force. • Hypersonics programs, which include several programs with the U.S. Army an…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 17830,
+        "end": 18529
+      }
+    },
+    {
+      "id": "LMT-kw-7",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 18349,
+      "excerpt": "…pose Crew Vehicle (Orion), NASA’s next generation exploration-class crewed vehicle for human exploration to the Moon and throughout the solar system. • Global Positioning System (GPS) III, a program to modernize the GPS satellite system for the U.S. Space Force. • Hypersonics programs, which include several programs with the U.S. Army and U.S. Navy to design, develop and build hypersonic strike weapons. • The Transport and Tracking Layer programs, multiple tranches of small satellites to support the proliferated space architecture, with constellations of missile warning and communications satellites for the Space Development Agency.…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 18129,
+        "end": 18829
+      }
+    },
+    {
+      "id": "LMT-kw-8",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 18608,
+      "excerpt": "…ce. • Hypersonics programs, which include several programs with the U.S. Army and U.S. Navy to design, develop and build hypersonic strike weapons. • The Transport and Tracking Layer programs, multiple tranches of small satellites to support the proliferated space architecture, with constellations of missile warning and communications satellites for the Space Development Agency. Intellectual Property We routinely apply for and own a substantial number of U.S. and foreign patents and trademarks related to the products and services we provide. We also develop and own other intellectual property, including copyrights, trade secrets and…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 18388,
+        "end": 19088
+      }
+    },
+    {
+      "id": "LMT-kw-9",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 18672,
+      "excerpt": "…the U.S. Army and U.S. Navy to design, develop and build hypersonic strike weapons. • The Transport and Tracking Layer programs, multiple tranches of small satellites to support the proliferated space architecture, with constellations of missile warning and communications satellites for the Space Development Agency. Intellectual Property We routinely apply for and own a substantial number of U.S. and foreign patents and trademarks related to the products and services we provide. We also develop and own other intellectual property, including copyrights, trade secrets and research, development and engineering know-how, that contribute…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 18452,
+        "end": 19092
+      }
+    },
+    {
+      "id": "LMT-kw-10",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 18725,
+      "excerpt": "…ild hypersonic strike weapons. • The Transport and Tracking Layer programs, multiple tranches of small satellites to support the proliferated space architecture, with constellations of missile warning and communications satellites for the Space Development Agency. Intellectual Property We routinely apply for and own a substantial number of U.S. and foreign patents and trademarks related to the products and services we provide. We also develop and own other intellectual property, including copyrights, trade secrets and research, development and engineering know-how, that contributes significantly to our business. In addition, we lice…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 18505,
+        "end": 19145
+      }
+    },
+    {
+      "id": "LMT-kw-11",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 19413,
+      "excerpt": "…ies. The Federal Acquisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS) provide the U.S. Government certain rights in intellectual property, including patents, developed by us and our subcontractors and suppliers in performance of government contracts or with government funding. The U.S. Government may use or authorize others, including competitors, to use such intellectual property. See the discussion of matters related to our intellectual property in Item 1A - Risk Factors. Non-U.S. governments also may have certain rights in patents and other intellectual property developed in performance of ou…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 19193,
+        "end": 19833
+      }
+    },
+    {
+      "id": "LMT-kw-12",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 19432,
+      "excerpt": "…quisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS) provide the U.S. Government certain rights in intellectual property, including patents, developed by us and our subcontractors and suppliers in performance of government contracts or with government funding. The U.S. Government may use or authorize others, including competitors, to use such intellectual property. See the discussion of matters related to our intellectual property in Item 1A - Risk Factors. Non-U.S. governments also may have certain rights in patents and other intellectual property developed in performance of our contracts for the…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 19212,
+        "end": 19852
+      }
+    },
+    {
+      "id": "LMT-kw-13",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 20818,
+      "excerpt": "…, and related test activities. See “Note 1 – Organization and Significant Accounting Policies” (under the caption “Research and development and similar costs”) included in our Notes to Consolidated Financial Statements. Raw Materials, Suppliers and Seasonality Some of our products require relatively scarce raw materials, such as rare earth minerals. Other important materials and components, on which certain of our products rely, include aluminum, titanium, specialty steel, carbon fiber and advanced microelectronics, such as semiconductors. We rely on other companies to provide materials, components and products and to 5 Table of Con…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 20598,
+        "end": 21238
+      }
+    },
+    {
+      "id": "LMT-kw-14",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 20833,
+      "excerpt": "…est activities. See “Note 1 – Organization and Significant Accounting Policies” (under the caption “Research and development and similar costs”) included in our Notes to Consolidated Financial Statements. Raw Materials, Suppliers and Seasonality Some of our products require relatively scarce raw materials, such as rare earth minerals. Other important materials and components, on which certain of our products rely, include aluminum, titanium, specialty steel, carbon fiber and advanced microelectronics, such as semiconductors. We rely on other companies to provide materials, components and products and to 5 Table of Contents perform a…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 20613,
+        "end": 21313
+      }
+    },
+    {
+      "id": "LMT-kw-15",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 20906,
+      "excerpt": "…icies” (under the caption “Research and development and similar costs”) included in our Notes to Consolidated Financial Statements. Raw Materials, Suppliers and Seasonality Some of our products require relatively scarce raw materials, such as rare earth minerals. Other important materials and components, on which certain of our products rely, include aluminum, titanium, specialty steel, carbon fiber and advanced microelectronics, such as semiconductors. We rely on other companies to provide materials, components and products and to 5 Table of Contents perform a portion of the services that are provided to our customers under the ter…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 20686,
+        "end": 21326
+      }
+    },
+    {
+      "id": "LMT-kw-16",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 20980,
+      "excerpt": "…cluded in our Notes to Consolidated Financial Statements. Raw Materials, Suppliers and Seasonality Some of our products require relatively scarce raw materials, such as rare earth minerals. Other important materials and components, on which certain of our products rely, include aluminum, titanium, specialty steel, carbon fiber and advanced microelectronics, such as semiconductors. We rely on other companies to provide materials, components and products and to 5 Table of Contents perform a portion of the services that are provided to our customers under the terms of most of our contracts. Although long-term agreements have historical…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 20761,
+        "end": 21401
+      }
+    },
+    {
+      "id": "LMT-kw-17",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 21193,
+      "excerpt": "…ls and components, on which certain of our products rely, include aluminum, titanium, specialty steel, carbon fiber and advanced microelectronics, such as semiconductors. We rely on other companies to provide materials, components and products and to 5 Table of Contents perform a portion of the services that are provided to our customers under the terms of most of our contracts. Although long-term agreements have historically helped enable a continued supply of these materials, supply chain challenges, supplier disputes, regulatory restrictions, and inflationary pressures have resulted in certain parts’ shortages, extended lead time…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 20973,
+        "end": 21613
+      }
+    },
+    {
+      "id": "LMT-kw-18",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 21481,
+      "excerpt": "…of the services that are provided to our customers under the terms of most of our contracts. Although long-term agreements have historically helped enable a continued supply of these materials, supply chain challenges, supplier disputes, regulatory restrictions, and inflationary pressures have resulted in certain parts’ shortages, extended lead times and pricing escalations affecting certain sources of supply. We are working with U.S. Government, customers and suppliers on phase-in of regulatory requirements for transitioning the supply chains for rare earth minerals and magnets to secure and compliant sources. The current availabi…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 21262,
+        "end": 21901
+      }
+    },
+    {
+      "id": "LMT-kw-19",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 21727,
+      "excerpt": "…ory restrictions, and inflationary pressures have resulted in certain parts’ shortages, extended lead times and pricing escalations affecting certain sources of supply. We are working with U.S. Government, customers and suppliers on phase-in of regulatory requirements for transitioning the supply chains for rare earth minerals and magnets to secure and compliant sources. The current availability of sources of supply meeting regulatory requirements and the ability to ensure compliance down to the mining level within the timeframes required by the regulations are challenges we continue to work with our multi-tier supplier base. At the…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 21507,
+        "end": 22207
+      }
+    },
+    {
+      "id": "LMT-kw-20",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 22126,
+      "excerpt": "…of sources of supply meeting regulatory requirements and the ability to ensure compliance down to the mining level within the timeframes required by the regulations are challenges we continue to work with our multi-tier supplier base. At the same time, we are focused on minimizing the impact of these supply chain challenges on our programs. However, many of the challenges are industry wide or caused by geopolitical events and general economic conditions that are outside of our control. These supplier disruptions have resulted in delays and increased costs and have adversely affected our program performance and operating results. The…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 21906,
+        "end": 22546
+      }
+    },
+    {
+      "id": "LMT-kw-21",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 22403,
+      "excerpt": "…zing the impact of these supply chain challenges on our programs. However, many of the challenges are industry wide or caused by geopolitical events and general economic conditions that are outside of our control. These supplier disruptions have resulted in delays and increased costs and have adversely affected our program performance and operating results. These dynamics are expected to continue in 2026. For more information on the risks related to our suppliers and raw materials, see Item 1A - Risk Factors. No material portion of our business is considered to be seasonal. Various factors, however, can affect the distribution of ou…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 22184,
+        "end": 22884
+      }
+    },
+    {
+      "id": "LMT-kw-22",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 22641,
+      "excerpt": "…ns have resulted in delays and increased costs and have adversely affected our program performance and operating results. These dynamics are expected to continue in 2026. For more information on the risks related to our suppliers and raw materials, see Item 1A - Risk Factors. No material portion of our business is considered to be seasonal. Various factors, however, can affect the distribution of our sales between accounting periods, including the timing of government awards, the availability of government funding, product deliveries and customer acceptance. Human Capital Due to the specialized nature of our business, our performanc…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 22421,
+        "end": 23061
+      }
+    },
+    {
+      "id": "LMT-kw-23",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 22655,
+      "excerpt": "…ed in delays and increased costs and have adversely affected our program performance and operating results. These dynamics are expected to continue in 2026. For more information on the risks related to our suppliers and raw materials, see Item 1A - Risk Factors. No material portion of our business is considered to be seasonal. Various factors, however, can affect the distribution of our sales between accounting periods, including the timing of government awards, the availability of government funding, product deliveries and customer acceptance. Human Capital Due to the specialized nature of our business, our performance depends on i…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 22436,
+        "end": 23076
+      }
+    },
+    {
+      "id": "LMT-kw-24",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 28197,
+      "excerpt": "…ide our customers with the best mix of capabilities to address specific requirements. Additionally, a company competing to be a prime contractor may, upon ultimate award of the contract to another competitor, serve as a subcontractor to the ultimate prime contracting company. It is not unusual to compete for a contract award with a peer company and, simultaneously, perform as a supplier to or a customer of that same competitor on other contracts. Our broad portfolio of products and services competes domestically and internationally against products and services of the companies listed above, numerous smaller competitors and startups…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 27977,
+        "end": 28617
+      }
+    },
+    {
+      "id": "LMT-kw-25",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 28358,
+      "excerpt": "…te award of the contract to another competitor, serve as a subcontractor to the ultimate prime contracting company. It is not unusual to compete for a contract award with a peer company and, simultaneously, perform as a supplier to or a customer of that same competitor on other contracts. Our broad portfolio of products and services competes domestically and internationally against products and services of the companies listed above, numerous smaller competitors and startups, and increasingly, non-traditional and non-U.S. defense contractors. In some areas of our business, customer requirements and acquisition processes are changing…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 28138,
+        "end": 28838
+      }
+    },
+    {
+      "id": "LMT-kw-26",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 32542,
+      "excerpt": "…rged, and otherwise govern our right to reimbursement under certain U.S. Government and foreign contracts; • require specific security controls to protect U.S. Government controlled unclassified information and that our suppliers that have access to this type of information comply with cyber security regulations; • restrict the use and dissemination of information classified for national security purposes and the export of certain products, services and technical data; • prohibit the acquisition from or use by contractors of materials, products or services procured from certain countries or entities located outside the United States…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 32322,
+        "end": 33022
+      }
+    },
+    {
+      "id": "LMT-kw-27",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 33721,
+      "excerpt": "…unting for the acquisition, use, issuing and disposition of material, and property management systems. The U.S. Government and in limited cases certain other governments may terminate any of our government contracts and subcontracts either at their convenience or for default based on our performance. If a contract is terminated for convenience, we generally are protected by provisions covering reimbursement for costs incurred on the contract, up to termination, and profit on those costs. If a contract is terminated for default, we generally are entitled to payment for our work that has been accepted by the U.S. Government or other g…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 33501,
+        "end": 34141
+      }
+    },
+    {
+      "id": "LMT-kw-28",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 38626,
+      "excerpt": "…ure laws, regulations or policies in response to concerns over GHG emissions such as carbon taxes, mandatory reporting and disclosure obligations, including environmental requirements for certain federal contractors and subcontractors, and changes in procurement policies, including the use of environmental goals in proposal evaluation, could significantly increase our operational and compliance burdens and costs. We monitor developments in climate change-related regulation for their potential effect on us and also have a comprehensive sustainability program that seeks to mitigate our impact on the environment, including targets to r…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 38406,
+        "end": 39046
+      }
+    },
+    {
+      "id": "LMT-kw-29",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 47806,
+      "excerpt": "…ormance, program and delivery schedule, cost, and requirements as part of the DoW, Congressional, and international countries’ oversight and budgeting processes. Challenges and risks associated with this program include supplier performance, software development, definitizing and receiving funding for contracts on a timely basis, execution of future flight tests and findings resulting from testing and operating the aircraft, the level of cost associated with life cycle operations, sustainment and potential contractual obligations, inflation-related cost pressures, the ability to improve affordability, and potential competition from…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 47586,
+        "end": 48285
+      }
+    },
+    {
+      "id": "LMT-kw-30",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 48501,
+      "excerpt": "…risks for other complex and technologically advanced programs. We also may not be successful in making hardware upgrades and other modernization capabilities in a timely manner, including as a result of dependencies on suppliers, which could increase costs and create schedule delays. Our ability to capture and retain future F-35 growth in development, production and sustainment is dependent on the success of our efforts to achieve F-35 sustainment performance, customer affordability, supply chain improvements, continued reliability improvements and other efficiencies, some of which are outside our control. See also the Risk Factor…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 48282,
+        "end": 48980
+      }
+    },
+    {
+      "id": "LMT-kw-31",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 48966,
+      "excerpt": "…customer affordability, supply chain improvements, continued reliability improvements and other efficiencies, some of which are outside our control. See also the Risk Factor below captioned “We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail to perform their obligations, our performance and ability to win future business could be adversely affected” for further discussion. We are subject to extensive procurement and other laws, regulations, and contract terms, including those that enable the U.S. Government to terminate contracts for convenience. Ou…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 48747,
+        "end": 49386
+      }
+    },
+    {
+      "id": "LMT-kw-32",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 48987,
+      "excerpt": "…ty, supply chain improvements, continued reliability improvements and other efficiencies, some of which are outside our control. See also the Risk Factor below captioned “We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail to perform their obligations, our performance and ability to win future business could be adversely affected” for further discussion. We are subject to extensive procurement and other laws, regulations, and contract terms, including those that enable the U.S. Government to terminate contracts for convenience. Our business and reputa…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 48767,
+        "end": 49407
+      }
+    },
+    {
+      "id": "LMT-kw-33",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 49011,
+      "excerpt": "…ments, continued reliability improvements and other efficiencies, some of which are outside our control. See also the Risk Factor below captioned “We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail to perform their obligations, our performance and ability to win future business could be adversely affected” for further discussion. We are subject to extensive procurement and other laws, regulations, and contract terms, including those that enable the U.S. Government to terminate contracts for convenience. Our business and reputation could be adversely…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 48791,
+        "end": 49490
+      }
+    },
+    {
+      "id": "LMT-kw-34",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 49899,
+      "excerpt": "…tract laws and regulations affect how we do business with our customers and impose certain risks and costs on our business. A violation of these laws and regulations by us, our employees, others working on our behalf, a supplier or a joint venture partner could harm our reputation and result in the imposition of fines and penalties, the termination of our contracts, suspension or debarment from bidding on or being awarded contracts, loss of our ability to export products or perform services and civil or criminal investigations or proceedings. From time to time, the U.S. Government has proposed contract terms, imposed internal polici…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 49679,
+        "end": 50319
+      }
+    },
+    {
+      "id": "LMT-kw-35",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 53672,
+      "excerpt": "…olicitation or the award of a contract. We may encounter bid protests from unsuccessful bidders on new program awards seeking to overturn the award. Unsuccessful bidders also may protest with the goal of being awarded a subcontract for a portion of the work in return for withdrawing the protest. Bid protests can result in significant expenses to us, contract modifications or even loss of the contract award and the resolution can extend the time until contract activity can begin and delay the recognition of sales and defer underlying cash flows and adversely affect our operating results. Our efforts to protest or challenge any bids f…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 53452,
+        "end": 54092
+      }
+    },
+    {
+      "id": "LMT-kw-36",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 54453,
+      "excerpt": "…ent contracts at its convenience or for default based on our performance, either of which could adversely affect our business and financial performance. Generally, prime contractors have similar termination rights under subcontracts related to government contracts. If a contract is terminated for convenience, we generally are protected by provisions covering reimbursement for costs incurred on the contract and profit on those costs. However, to the extent insufficient funds have been appropriated by the U.S. Government to cover our costs upon a termination for convenience, the U.S. Government may assert that it is not required to ap…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 54233,
+        "end": 54873
+      }
+    },
+    {
+      "id": "LMT-kw-37",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 55271,
+      "excerpt": "…ss other special penalties, exposing us to liability and adversely affecting our ability to compete for future contracts and orders. In addition, the U.S. Government could terminate a prime contract under which we are a subcontractor, notwithstanding the fact that our performance and the quality of the products or services we delivered were consistent with our contractual obligations as a subcontractor. Competition and changing customer procurement policies could adversely affect our business and financial results. We operate in a highly competitive industry and our competitors may have more extensive or more specialized engineering…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 55052,
+        "end": 55752
+      }
+    },
+    {
+      "id": "LMT-kw-38",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 55443,
+      "excerpt": "…terminate a prime contract under which we are a subcontractor, notwithstanding the fact that our performance and the quality of the products or services we delivered were consistent with our contractual obligations as a subcontractor. Competition and changing customer procurement policies could adversely affect our business and financial results. We operate in a highly competitive industry and our competitors may have more extensive or more specialized engineering, technical, marketing and servicing capabilities than we do in certain areas. Our competitors may develop new technologies, products or services that could replace our cur…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 55223,
+        "end": 55863
+      }
+    },
+    {
+      "id": "LMT-kw-39",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 56422,
+      "excerpt": "…n from new entrants, startups and non-traditional defense contractors. Furthermore, acquisitions in our industry, including vertical integration, also could result in increased competition or limit our access to certain suppliers without appropriate remedies to protect our interests. A substantial portion of our business is awarded through competitive bidding. The U.S. Government increasingly has relied on competitive contract award types, including indefinite-delivery, indefinite-quantity and other multi-award contracts, which have the potential to create pricing pressure and to increase our costs by requiring us to submit multiple…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 56243,
+        "end": 56802
+      }
+    },
+    {
+      "id": "LMT-kw-40",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 61789,
+      "excerpt": "…t may increase for many reasons, including technical and manufacturing challenges, schedule delays, workforce-related issues, inaccurate initial contract cost estimates, the timeliness and availability of materials from suppliers, internal and subcontractor performance or product quality issues, inability to meet cost reduction initiatives or achieve efficiencies from digital transformation, changing laws or regulations, inflation and natural disasters. Certain contracts may impose other risks, such as temporary payment withholds, forfeiting fees, paying penalties, or providing replacement systems in the event of performance failure…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 61569,
+        "end": 62209
+      }
+    },
+    {
+      "id": "LMT-kw-41",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 61813,
+      "excerpt": "…reasons, including technical and manufacturing challenges, schedule delays, workforce-related issues, inaccurate initial contract cost estimates, the timeliness and availability of materials from suppliers, internal and subcontractor performance or product quality issues, inability to meet cost reduction initiatives or achieve efficiencies from digital transformation, changing laws or regulations, inflation and natural disasters. Certain contracts may impose other risks, such as temporary payment withholds, forfeiting fees, paying penalties, or providing replacement systems in the event of performance failure. Contracts for developm…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 61593,
+        "end": 62233
+      }
+    },
+    {
+      "id": "LMT-kw-42",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 67763,
+      "excerpt": "…iety were made against us. Similar government oversight and risks to our business and reputation exist in most other countries where we conduct business. Other Risks Related to our Operations We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail to perform their obligations, our performance and ability to win future business could be adversely affected. We are the prime contractor on most of our contracts and rely on other companies to provide materials, major components and products, and to perform a portion of the services that are provided to our cus…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 67543,
+        "end": 68183
+      }
+    },
+    {
+      "id": "LMT-kw-43",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 67784,
+      "excerpt": "…t us. Similar government oversight and risks to our business and reputation exist in most other countries where we conduct business. Other Risks Related to our Operations We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail to perform their obligations, our performance and ability to win future business could be adversely affected. We are the prime contractor on most of our contracts and rely on other companies to provide materials, major components and products, and to perform a portion of the services that are provided to our customers. These arrange…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 67564,
+        "end": 68204
+      }
+    },
+    {
+      "id": "LMT-kw-44",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 67808,
+      "excerpt": "…oversight and risks to our business and reputation exist in most other countries where we conduct business. Other Risks Related to our Operations We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail to perform their obligations, our performance and ability to win future business could be adversely affected. We are the prime contractor on most of our contracts and rely on other companies to provide materials, major components and products, and to perform a portion of the services that are provided to our customers. These arrangements may involve subcon…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 67589,
+        "end": 68228
+      }
+    },
+    {
+      "id": "LMT-kw-45",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 68089,
+      "excerpt": "…to perform their obligations, our performance and ability to win future business could be adversely affected. We are the prime contractor on most of our contracts and rely on other companies to provide materials, major components and products, and to perform a portion of the services that are provided to our customers. These arrangements may involve subcontracts, teaming arrangements, joint ventures, or supply agreements with other companies (contracting parties) and, in many cases, contracting parties in turn rely on lower-tier subcontractors. We sometimes have disputes with our contracting parties, including regarding the cost, q…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 67870,
+        "end": 68509
+      }
+    },
+    {
+      "id": "LMT-kw-46",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 68222,
+      "excerpt": "…actor on most of our contracts and rely on other companies to provide materials, major components and products, and to perform a portion of the services that are provided to our customers. These arrangements may involve subcontracts, teaming arrangements, joint ventures, or supply agreements with other companies (contracting parties) and, in many cases, contracting parties in turn rely on lower-tier subcontractors. We sometimes have disputes with our contracting parties, including regarding the cost, quality and timeliness of work performed, workshares, customer concerns about the contracting party’s performance, issues related to l…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 68002,
+        "end": 68642
+      }
+    },
+    {
+      "id": "LMT-kw-47",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 68405,
+      "excerpt": "…mers. These arrangements may involve subcontracts, teaming arrangements, joint ventures, or supply agreements with other companies (contracting parties) and, in many cases, contracting parties in turn rely on lower-tier subcontractors. We sometimes have disputes with our contracting parties, including regarding the cost, quality and timeliness of work performed, workshares, customer concerns about the contracting party’s performance, issues related to lower-tier subcontractor performance, our failure to issue or extend task orders, or our hiring the personnel of a subcontractor, teammate or joint venture partner or vice versa. We al…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 68185,
+        "end": 68825
+      }
+    },
+    {
+      "id": "LMT-kw-48",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 68652,
+      "excerpt": "…s have disputes with our contracting parties, including regarding the cost, quality and timeliness of work performed, workshares, customer concerns about the contracting party’s performance, issues related to lower-tier subcontractor performance, our failure to issue or extend task orders, or our hiring the personnel of a subcontractor, teammate or joint venture partner or vice versa. We also could be adversely affected by actions or issues experienced by our contracting parties that are outside of our control, such as misconduct and reputational issues involving our contracting parties, which could subject us to liability or advers…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 68432,
+        "end": 69072
+      }
+    },
+    {
+      "id": "LMT-kw-49",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 68756,
+      "excerpt": "…rk performed, workshares, customer concerns about the contracting party’s performance, issues related to lower-tier subcontractor performance, our failure to issue or extend task orders, or our hiring the personnel of a subcontractor, teammate or joint venture partner or vice versa. We also could be adversely affected by actions or issues experienced by our contracting parties that are outside of our control, such as misconduct and reputational issues involving our contracting parties, which could subject us to liability or adversely affect our ability to compete for contract awards. The financial stability and viability of our cont…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 68536,
+        "end": 69176
+      }
+    },
+    {
+      "id": "LMT-kw-50",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 69206,
+      "excerpt": "…ssues involving our contracting parties, which could subject us to liability or adversely affect our ability to compete for contract awards. The financial stability and viability of our contracting parties or lower-tier subcontractors have and in the future could adversely affect their ability to meet their performance obligations and result in an impact on our business and results of operations. A failure by one or more of our contracting parties to provide agreed-upon materials, components or products, or perform agreed-upon services, on a timely basis, according to specifications, including compliance with regulatory requirements…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 68986,
+        "end": 69686
+      }
+    },
+    {
+      "id": "LMT-kw-51",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 69472,
+      "excerpt": "…versely affect their ability to meet their performance obligations and result in an impact on our business and results of operations. A failure by one or more of our contracting parties to provide agreed-upon materials, components or products, or perform agreed-upon services, on a timely basis, according to specifications, including compliance with regulatory requirements we flow down from our prime contracts, or at all, has and may adversely affect our ability to perform our obligations and require that we transition impacted work to other companies. Contracting party performance deficiencies may result in additional costs or delay…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 69252,
+        "end": 69892
+      }
+    },
+    {
+      "id": "LMT-kw-52",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71234,
+      "excerpt": "…esult in increased procurement lead times and increased costs and potential shortages, which could affect our performance. We also must comply with specific procurement requirements that can limit the number of eligible suppliers, and a significant number of the components or supplies used are currently single or sole sourced. Because the identification and qualification of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our bu…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71015,
+        "end": 71655
+      }
+    },
+    {
+      "id": "LMT-kw-53",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71277,
+      "excerpt": "…nd increased costs and potential shortages, which could affect our performance. We also must comply with specific procurement requirements that can limit the number of eligible suppliers, and a significant number of the components or supplies used are currently single or sole sourced. Because the identification and qualification of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government cont…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71057,
+        "end": 71697
+      }
+    },
+    {
+      "id": "LMT-kw-54",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71329,
+      "excerpt": "…uld affect our performance. We also must comply with specific procurement requirements that can limit the number of eligible suppliers, and a significant number of the components or supplies used are currently single or sole sourced. Because the identification and qualification of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government contracting regulations that limit the source or manufac…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71109,
+        "end": 71749
+      }
+    },
+    {
+      "id": "LMT-kw-55",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71409,
+      "excerpt": "…ements that can limit the number of eligible suppliers, and a significant number of the components or supplies used are currently single or sole sourced. Because the identification and qualification of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government contracting regulations that limit the source or manufacture of suppliers and impose stringent cybersecurity regulations also may create…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71190,
+        "end": 71830
+      }
+    },
+    {
+      "id": "LMT-kw-56",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71502,
+      "excerpt": "…nents or supplies used are currently single or sole sourced. Because the identification and qualification of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government contracting regulations that limit the source or manufacture of suppliers and impose stringent cybersecurity regulations also may create challenges for our supply chain and increase costs. We remain heavily dependent on our suppl…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71282,
+        "end": 71922
+      }
+    },
+    {
+      "id": "LMT-kw-57",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71567,
+      "excerpt": "…use the identification and qualification of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government contracting regulations that limit the source or manufacture of suppliers and impose stringent cybersecurity regulations also may create challenges for our supply chain and increase costs. We remain heavily dependent on our supply chain for sourcing contractually compliant components, which is…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71347,
+        "end": 72047
+      }
+    },
+    {
+      "id": "LMT-kw-58",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71604,
+      "excerpt": "…ion of new or additional suppliers can take an extended period of time and can result in additional cost, issues with suppliers or trade actions that limit our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government contracting regulations that limit the source or manufacture of suppliers and impose stringent cybersecurity regulations also may create challenges for our supply chain and increase costs. We remain heavily dependent on our supply chain for sourcing contractually compliant components, which is outside of our direct control and is…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71384,
+        "end": 72084
+      }
+    },
+    {
+      "id": "LMT-kw-59",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 71757,
+      "excerpt": "…it our ability to use certain suppliers, especially when single or sole sourced, can have an adverse impact on our business. Complying with U.S. Government contracting regulations that limit the source or manufacture of suppliers and impose stringent cybersecurity regulations also may create challenges for our supply chain and increase costs. We remain heavily dependent on our supply chain for sourcing contractually compliant components, which is outside of our direct control and is multi-tiered. The future occurrence of non-compliant components in our programs could cause 14 Table of Contents suspensions in product deliveries, reme…",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "keyword",
+      "range": {
+        "start": 71537,
+        "end": 72177
+      }
+    },
+    {
+      "id": "414f42f9ce4f9c3f",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 3579,
+      "excerpt": "ers. Aircraft production is expected to continue well into the future given the U.S. Government’s stated objective of procuring 2,456 aircraft for the U.S. Air Force, U.S. Marine Corps, and U.S. Navy. We also have commitments from seven international partner countries and 12 FMS customers, who collectively during the year indicated their intent to purchase 72 additional aircraft beyond their existing programs of record. The F-35 program is significant and complex, and we, our customers, and our",
+      "sectionId": "item_1_business_general_we_are_a_global_",
+      "sectionHeader": "ITEM 1. Business General We are a global aerospace and defense technology company that bu",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 9491,
+        "end": 10050
+      }
+    },
+    {
+      "id": "f7e4f0eb03ad43d7",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 983,
+      "excerpt": "issile defense systems; tactical missiles and precision strike weapon systems; logistics; fire control systems; and mission operations support, readiness, engineering support and integration services. MFC also has contracts with the U.S. Government for various classified programs. MFC’s major programs include: • The Patriot Advanced Capability-3 (PAC-3) and Terminal High Altitude Area Defense (THAAD) air and missile defense programs. PAC-3 is an advanced defensive missile for the U.S. Army and i",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to the F-35 program. In addition t",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 11288,
+        "end": 11788
+      }
+    },
+    {
+      "id": "9578932978f4ba7d",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 1817,
+      "excerpt": "cision Strike Missile (PrSM), Joint Air-to-Surface Standoff Missile (JASSM), Long Range Anti-Ship Missile (LRASM), Hellfire and Joint Air-to-Ground Missile (JAGM) tactical and strike missile programs. MLRS is a highly mobile, automatic system that fires surface-to-surface rockets and missiles from the M270 and High Mobility Artillery Rocket System (HIMARS) platforms produced for the U.S. Army and international customers and PrSM is the next generation of precision strike surface-to-surface weapo",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to the F-35 program. In addition t",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 12122,
+        "end": 12622
+      }
+    },
+    {
+      "id": "3c5846ce9046fd0f",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 6545,
+      "excerpt": "losely aligns with C6ISR. SEMS and MIC2 will therefore incorporate an updated mix of existing program portfolios designed to accelerate mission‑focused solutions and enhance our customers’ experience. Space Space is engaged in the research and design, development, engineering and production of satellites, space transportation systems, and strategic, advanced strike, and defensive systems. Space provides network-enabled situational awareness and integrates complex space and ground global systems",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to the F-35 program. In addition t",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 16850,
+        "end": 17409
+      }
+    },
+    {
+      "id": "98267ceb74c7f1a1",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 7431,
+      "excerpt": "currently in production in the U.S. • The Next Generation Overhead Persistent Infrared (Next Gen OPIR) system, which provides the U.S. Space Force with enhanced worldwide missile warning capabilities. • Next Generation Interceptor (NGI), a program with the Missile Defense Agency (MDA) utilizing next generation propulsion and sensors to provide homeland missile defense. • The Orion Multi-Purpose Crew Vehicle (Orion), NASA’s next generation exploration-class crewed vehicle for human exploration to",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to the F-35 program. In addition t",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 17736,
+        "end": 18296
+      }
+    },
+    {
+      "id": "70c44a65426ffb58",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 8430,
+      "excerpt": "for the Space Development Agency. Intellectual Property We routinely apply for and own a substantial number of U.S. and foreign patents and trademarks related to the products and services we provide. We also develop and own other intellectual property, including copyrights, trade secrets and research, development and engineering know-how, that contributes significantly to our business. In addition, we license intellectual property to and from third parties. The Federal Acquisition Regulation (FA",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to the F-35 program. In addition t",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 18736,
+        "end": 19236
+      }
+    },
+    {
+      "id": "b14737b8a146ba60",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 931,
+      "excerpt": "activities. See “Note 1 – Organization and Significant Accounting Policies” (under the caption “Research and development and similar costs”) included in our Notes to Consolidated Financial Statements. Raw Materials, Suppliers and Seasonality Some of our products require relatively scarce raw materials, such as rare earth minerals. Other important materials and components, on which certain of our products rely, include aluminum, titanium, specialty steel, carbon fiber and advanced microelectronic",
+      "sectionId": "item_1a_risk_factors_non_u_s_governments",
+      "sectionHeader": "Item 1A - Risk Factors. Non-U.S. governments also may have certain rights in patents and ot",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 20617,
+        "end": 21117
+      }
+    },
+    {
+      "id": "0a8bae7958ec33ed",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 1814,
+      "excerpt": "regulatory restrictions, and inflationary pressures have resulted in certain parts’ shortages, extended lead times and pricing escalations affecting certain sources of supply. We are working with U.S. Government, customers and suppliers on phase-in of regulatory requirements for transitioning the supply chains for rare earth minerals and magnets to secure and compliant sources. The current availability of sources of supply meeting regulatory requirements and the ability to ensure compliance down",
+      "sectionId": "item_1a_risk_factors_non_u_s_governments",
+      "sectionHeader": "Item 1A - Risk Factors. Non-U.S. governments also may have certain rights in patents and ot",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 21500,
+        "end": 22060
+      }
+    },
+    {
+      "id": "175eccbb79aa04f0",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1A – Risk Factors. Competition We compete with many different companies both within and outside of the defense and aerospace industry. The Boeing Company, General Dynamics, L3Harris Technologies, Northrop Grumman, and RTX Corporation are some of our primary competitors. Key characteristics of our industry include long operating cycles and intense competition, which is evident through the number of competitors bidding on program opportunities and the existence of bid protests (competitor pro",
+      "sectionId": "item_1a_risk_factors_competition_we_comp",
+      "sectionHeader": "Item 1A – Risk Factors. Competition We compete with many different companies both within an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 27342,
+        "end": 27842
+      }
+    },
+    {
+      "id": "ea31f50a5b5ce682",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 885,
+      "excerpt": "prime contracting company. It is not unusual to compete for a contract award with a peer company and, simultaneously, perform as a supplier to or a customer of that same competitor on other contracts. Our broad portfolio of products and services competes domestically and internationally against products and services of the companies listed above, numerous smaller competitors and startups, and increasingly, non-traditional and non-U.S. defense contractors. In some areas of our business, customer",
+      "sectionId": "item_1a_risk_factors_competition_we_comp",
+      "sectionHeader": "Item 1A – Risk Factors. Competition We compete with many different companies both within an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 28227,
+        "end": 28786
+      }
+    },
+    {
+      "id": "942dc4c96b5b2fff",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 975,
+      "excerpt": "at may differ from U.S. generally accepted accounting principles (GAAP); • impose acquisition regulations, which may change or be replaced over time, that define which costs can be charged to the U.S. Government, how and when costs can be charged, and otherwise govern our right to reimbursement under certain U.S. Government and foreign contracts; • require specific security controls to protect U.S. Government controlled unclassified information and that our suppliers that have access to this typ",
+      "sectionId": "item_1a_risk_factors_regulatory_matters_",
+      "sectionHeader": "Item 1A - Risk Factors. Regulatory Matters Our business is heavily regulated. We contract w",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 32080,
+        "end": 32580
+      }
+    },
+    {
+      "id": "66d6ea3087c033fb",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 1975,
+      "excerpt": "he acquisition and use of certain telecommunications and video surveillance services or equipment); and • require the review and approval of contractor business systems, including accounting systems, estimating systems, earned value management systems for managing cost and schedule performance on certain complex programs, purchasing systems, material management and accounting systems for planning, controlling and accounting for the acquisition, use, issuing and disposition of material, and prope",
+      "sectionId": "item_1a_risk_factors_regulatory_matters_",
+      "sectionHeader": "Item 1A - Risk Factors. Regulatory Matters Our business is heavily regulated. We contract w",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 33080,
+        "end": 33580
+      }
+    },
+    {
+      "id": "c2b04a9517c2bc41",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "Item 1A – Risk Factors. Climate and Sustainability Reporting and Regulation There is an increasing global regulatory focus on greenhouse gas (GHG) emissions and their potential impacts relating to climate change. Various jurisdictions around the world in which we operate, including the U.S., the European Union, the United Kingdom, Australia and certain U.S. States, have adopted or proposed laws related to climate and sustainability reporting. These and future laws, regulations or policies in res",
+      "sectionId": "item_1a_risk_factors_climate_and_sustain",
+      "sectionHeader": "Item 1A – Risk Factors. Climate and Sustainability Reporting and Regulation There is an inc",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 37946,
+        "end": 38446
+      }
+    },
+    {
+      "id": "0cc2216a7f63165d",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 4484,
+      "excerpt": "tinual reviews related to aircraft performance, program and delivery schedule, cost, and requirements as part of the DoW, Congressional, and international countries’ oversight and budgeting processes. Challenges and risks associated with this program include supplier performance, software development, definitizing and receiving funding for contracts on a timely basis, execution of future flight tests and findings resulting from testing and operating the aircraft, the level of cost associated wit",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 47547,
+        "end": 48047
+      }
+    },
+    {
+      "id": "e121e4d0be7eb074",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 5303,
+      "excerpt": "ccessful in making hardware upgrades and other modernization capabilities in a timely manner, including as a result of dependencies on suppliers, which could increase costs and create schedule delays. Our ability to capture and retain future F-35 growth in development, production and sustainment is dependent on the success of our efforts to achieve F-35 sustainment performance, customer affordability, supply chain improvements, continued reliability improvements and other efficiencies, some of w",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 48366,
+        "end": 48866
+      }
+    },
+    {
+      "id": "ba96492ca2deb86d",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 6266,
+      "excerpt": ".S. Government to terminate contracts for convenience. Our business and reputation could be adversely affected if we or those we do business with fail to comply with these laws, regulations, or terms. We must comply with extensive laws and regulations relating to the award, administration and performance of U.S. Government contracts. Government contract laws and regulations affect how we do business with our customers and impose certain risks and costs on our business. A violation of these laws",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 49329,
+        "end": 49888
+      }
+    },
+    {
+      "id": "95e557b07e3d78c4",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 9946,
+      "excerpt": "s the right to unilaterally definitize contracts, which it has exercised in the past and which, absent a successful appeal, obligates us to perform under terms and conditions imposed on us by the U.S. Government and may negatively affect our expected profit and cash flows on a program or impose burdensome terms. Bid Protests. U.S. Government procurement laws permit legal challenges, referred to as bid protests, to the terms of a contract solicitation or the award of a contract. We may encounter",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 53009,
+        "end": 53568
+      }
+    },
+    {
+      "id": "f5d9a99c0a51ffc0",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 10926,
+      "excerpt": "g cash flows and adversely affect our operating results. Our efforts to protest or challenge any bids for contracts that were not awarded to us also may be unsuccessful. Contract Termination. The U.S. Government may terminate any of our government contracts at its convenience or for default based on our performance, either of which could adversely affect our business and financial performance. Generally, prime contractors have similar termination rights under subcontracts related to government c",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 53989,
+        "end": 54489
+      }
+    },
+    {
+      "id": "a1d6ed65e12b3464",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 11920,
+      "excerpt": "o reduce our recovery or recoup its procurement costs and could assess other special penalties, exposing us to liability and adversely affecting our ability to compete for future contracts and orders. In addition, the U.S. Government could terminate a prime contract under which we are a subcontractor, notwithstanding the fact that our performance and the quality of the products or services we delivered were consistent with our contractual obligations as a subcontractor. Competition and changing",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 54983,
+        "end": 55542
+      }
+    },
+    {
+      "id": "703bd8fe322ad6a7",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 12904,
+      "excerpt": "ices or products more quickly, at equivalent or in some cases even reduced capabilities, we may lose new business opportunities or contract recompetes, which could adversely affect our future results. We are facing increased competition from new entrants, startups and non-traditional defense contractors. Furthermore, acquisitions in our industry, including vertical integration, also could result in increased competition or limit our access to certain suppliers without appropriate remedies to pro",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 55967,
+        "end": 56467
+      }
+    },
+    {
+      "id": "6fa069d064b09bbd",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 17990,
+      "excerpt": "ins and profits are reduced and we could incur a reach-forward loss. A reach-forward loss is when estimates of total costs to be incurred on a contract exceed total estimates of the transaction price. When this occurs, a provision for the entire loss is determined at the contract level and is recorded in the period in which the loss is evident. Under both fixed-price and cost-reimbursable contracts, if we are unable to control costs, our operating results could be adversely affected. Costs to co",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 61053,
+        "end": 61553
+      }
+    },
+    {
+      "id": "bcbb6a0dc45cf2a9",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 24306,
+      "excerpt": "aterial adverse effect on us because of our dependence on contracts with the U.S. Government. In addition, we could suffer serious reputational harm if allegations of impropriety were made against us. Similar government oversight and risks to our business and reputation exist in most other countries where we conduct business. Other Risks Related to our Operations We are heavily dependent on suppliers and if our subcontractors or other suppliers or teaming agreement or joint venture partners fail",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 67369,
+        "end": 67929
+      }
+    },
+    {
+      "id": "e756aa3bff176119",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 25157,
+      "excerpt": "e subcontracts, teaming arrangements, joint ventures, or supply agreements with other companies (contracting parties) and, in many cases, contracting parties in turn rely on lower-tier subcontractors. We sometimes have disputes with our contracting parties, including regarding the cost, quality and timeliness of work performed, workshares, customer concerns about the contracting party’s performance, issues related to lower-tier subcontractor performance, our failure to issue or extend task order",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 68220,
+        "end": 68720
+      }
+    },
+    {
+      "id": "810926b1707f14fa",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 26122,
+      "excerpt": "arties or lower-tier subcontractors have and in the future could adversely affect their ability to meet their performance obligations and result in an impact on our business and results of operations. A failure by one or more of our contracting parties to provide agreed-upon materials, components or products, or perform agreed-upon services, on a timely basis, according to specifications, including compliance with regulatory requirements we flow down from our prime contracts, or at all, has and",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 69185,
+        "end": 69744
+      }
+    },
+    {
+      "id": "b304c46db6c8afe6",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 27873,
+      "excerpt": "hese products due to increased demand or other supply chain challenges could result in increased procurement lead times and increased costs and potential shortages, which could affect our performance. We also must comply with specific procurement requirements that can limit the number of eligible suppliers, and a significant number of the components or supplies used are currently single or sole sourced. Because the identification and qualification of new or additional suppliers can take an exten",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 70936,
+        "end": 71436
+      }
+    },
+    {
+      "id": "0d357e4d5f532084",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 28775,
+      "excerpt": "es for our supply chain and increase costs. We remain heavily dependent on our supply chain for sourcing contractually compliant components, which is outside of our direct control and is multi-tiered. The future occurrence of non-compliant components in our programs could cause 14 Table of Contents suspensions in product deliveries, remediation work on installed components, contract price adjustments and alternate supply sourcing, all of which could adversely affect our financial condition and r",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 71838,
+        "end": 72338
+      }
+    },
+    {
+      "id": "9bb70b5e535c9411",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 34911,
+      "excerpt": "ies and our ability to perform, the impacts of which could impact our results of operations. Government actions relating to rare earth minerals that are used in certain of our products, including U.S. Government sourcing prohibitions on the import of such minerals and the imposition of export controls on such minerals by China, have 15 Table of Contents raised concerns about supply availability. The rare earth supply chain continues to be vulnerable to disruption due to increasing scarcity and c",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 77974,
+        "end": 78474
+      }
+    },
+    {
+      "id": "f9182ea7486423fc",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 35820,
+      "excerpt": "als and component parts that go into making our products are imported into the U.S. and are subject to tariffs, sanctions, embargoes, export and import controls, and other trade restrictions. The U.S. Government has increased, expanded, or imposed new tariffs on goods imported from various countries. We also export certain products to other countries, and several countries have increased or imposed additional tariffs in response to U.S. tariffs. The tariff environment has been dynamic in 2025, w",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 78883,
+        "end": 79383
+      }
+    },
+    {
+      "id": "9c6b8de9ee394214",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 36634,
+      "excerpt": "iffs announced by the U.S. or actions taken in response to these tariffs by other countries will have a material adverse effect upon our results of operation or financial condition over the long term. The actual impact of the tariffs is subject to a number of factors including the effective date and duration of such tariffs, changes in the amount, scope and nature of the tariffs, any countermeasures that the target countries may take, the result of negotiations between the U.S. and trade partner",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 79697,
+        "end": 80197
+      }
+    },
+    {
+      "id": "14b8b2022a96892b",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 37569,
+      "excerpt": "rnational demand for our products or that may prevent, restrict or otherwise impose conditions upon the sale and delivery of our products or the transfer of sensitive technology. For example, the U.S. Government has imposed certain sanctions on Türkish entities and persons, which has affected our ability to obtain certain U.S. export permits or authorizations necessary to perform under our existing contracts supporting the Türkish Utility Helicopter Program (TUHP), and could impact our work with",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 80632,
+        "end": 81192
+      }
+    },
+    {
+      "id": "7fbd4d993ea43ca6",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 38541,
+      "excerpt": "s, claims and contract terminations by these customers and suppliers, and limitations on our ability to pursue new business, which could have an adverse effect on our operating results. Macroeconomic. Heightened levels of inflation and the potential worsening of macroeconomic conditions, including slower growth or recession, changes to fiscal and monetary policy, tighter credit, higher interest rates and currency fluctuations, present risks for us, our suppliers and the stability of the broader",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 81604,
+        "end": 82163
+      }
+    },
+    {
+      "id": "dd58e0be9c266d98",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 42909,
+      "excerpt": "riation of earnings, exchange controls, the Foreign Corrupt Practices Act and other anti-corruption laws and regulations, and the anti-boycott provisions of the U.S. Export Control Reform Act of 2018. While we have extensive policies in place to comply with such laws and regulations, failure by us, our employees or others working on our behalf to comply with these laws and regulations could result in administrative, civil, or criminal liabilities, including suspension, debarment from bidding for",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 85972,
+        "end": 86532
+      }
+    },
+    {
+      "id": "7864430a593b2bd3",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 44500,
+      "excerpt": "ation, industrial development or localization agreements, sometimes referred to as offset agreements (also known as offset contracts), as a condition to obtaining orders for our products and services. These agreements generally extend over several years and obligate the contractor to perform certain commitments, which may include in-country purchases, technology transfers, local manufacturing support, consulting support to in-country projects, investments in joint ventures and financial support",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 87563,
+        "end": 88122
+      }
+    },
+    {
+      "id": "e1791541a1832834",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 46200,
+      "excerpt": "e third-party intellectual property, which could negatively affect our business. We own a substantial number of U.S. and foreign patents and trademarks related to the products and services we provide. In addition to owning a large portfolio of patents and trademarks, we develop and own other intellectual property, including copyrights, trade secrets and research, development and engineering know-how, which contribute significantly to our business. We also license intellectual property to and fro",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 89263,
+        "end": 89763
+      }
+    },
+    {
+      "id": "2521ce575cd2ac98",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 47031,
+      "excerpt": "to use, such intellectual property. Non-U.S. governments also may have certain rights in patents and other intellectual property developed in performance of our contracts with these entities. The U.S. Government is pursuing aggressive positions on the acquisition of broad technical data and software packages as well as the scope and applicability of the rights in such technical data and software once acquired. The DoW is also implementing an overarching intellectual property acquisition policy t",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 90094,
+        "end": 90594
+      }
+    },
+    {
+      "id": "b9b80dddb664dd39",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 47802,
+      "excerpt": "ect and exploit our intellectual property and to leverage supplier intellectual property, for example, if we are unable to obtain necessary licenses from our suppliers to meet government requirements. Additionally, third parties may assert 17 Table of Contents that our products or services infringe their intellectual property rights, which could result in costly and time-consuming disputes, subject us to damages and injunctions and adversely affect our ability to compete and perform on certain c",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 90865,
+        "end": 91365
+      }
+    },
+    {
+      "id": "5cc808c1afd81815",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 50283,
+      "excerpt": "personnel, and successfully manage the short and long-term development and transfer of critical knowledge and skills, including leadership development and succession planning throughout our business. While we have processes in place for management transition and the transfer of knowledge and skills, the loss of key personnel, coupled with an inability to adequately train other personnel, hire new personnel or transfer knowledge and skills, could significantly impact our ability to perform under",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 93347,
+        "end": 93906
+      }
+    },
+    {
+      "id": "608595125fa6b40b",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 52169,
+      "excerpt": "ddition to cybersecurity threats, we face threats to the security of our facilities and employees from terrorist acts, sabotage and other disruptions, any of which could adversely affect our business. The improper conduct of our employees or others working on our behalf who have access to export controlled, classified or other sensitive information could also adversely affect our business and reputation. If we are unable to protect sensitive information, including by complying with evolving info",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 95232,
+        "end": 95732
+      }
+    },
+    {
+      "id": "9b8e16503677eeb2",
+      "ticker": "LMT",
+      "vendor": "Arm",
+      "charOffset": 53136,
+      "excerpt": "and research, development and engineering know-how) and other third-party data (such as that of subcontractors, suppliers and vendors) could be compromised, which could adversely affect our business. Products and services we provide to customers also carry cybersecurity risks, including risks that they could be breached or fail to detect, prevent or combat attacks, which could result in losses to our customers and claims against us, and could harm our relationships with our customers and financi",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 96200,
+        "end": 96700
+      }
+    },
+    {
+      "id": "2695fd5a091c6c14",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 54037,
+      "excerpt": "rotect increase and create different risks relative to other industries. National security considerations may also preclude us from, or cause us to delay, publicly disclosing a cybersecurity incident. 18 Table of Contents Our customers (including sites that we operate and manage for our customers), suppliers, subcontractors, joint venture partners and acquired entities that we do not fully integrate face similar security threats and an incident at one of these entities could adversely impact our",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 97100,
+        "end": 97660
+      }
+    },
+    {
+      "id": "2589f9c67cc2aad9",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 55026,
+      "excerpt": "reaches in our multi-tiered supply chain, which is comprised of thousands of direct and indirect suppliers, have and could in the future compromise our data and adversely affect customer deliverables. We also must rely on our supply chain for adequately detecting and reporting cyber incidents, which could affect our ability to report or respond to cybersecurity incidents effectively or in a timely manner. For information on our cybersecurity risk management, strategy and governance, see",
+      "sectionId": "item_1a_risk_factors_an_investment_in_ou",
+      "sectionHeader": "ITEM 1A. Risk Factors An investment in our common stock or debt securities involves risks",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 98089,
+        "end": 98640
+      }
+    },
+    {
+      "id": "7c86db0dd3bec120",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 11651,
+      "excerpt": "unproven. Failure of some of these products and services could result in extensive loss of life or property damage. Accordingly, we may incur liabilities that are unique to our products and services. In some but not all circumstances, we may be entitled to certain legal protections or indemnifications from our customers, either through U.S. Government indemnifications under Public Law 85-804, 10 U.S.C. 3861, the Commercial Space Launch Act or the Price-Anderson Act, qualification of our products",
+      "sectionId": "item_1c_cybersecurity_if_we_fail_to_succ",
+      "sectionHeader": "Item 1C. – Cybersecurity. If we fail to successfully complete or manage acquisitions, divest",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 110233,
+        "end": 110793
+      }
+    },
+    {
+      "id": "f9a3ef83f1c8491d",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 907,
+      "excerpt": "set values or increases in liabilities, including liabilities associated with employee benefit plans and assets and liabilities associated with taxes, can reduce net earnings and stockholders’ equity. Under certain circumstances, a deficit in stockholders’ equity could limit our ability to pay dividends and make share repurchases under Maryland state law in the future. In addition, the timing and amount of share repurchases under Board of Directors approved share repurchase plans may differ from",
+      "sectionId": "item_3_legal_proceedings_and_note_14_leg",
+      "sectionHeader": "Item 3 – Legal Proceedings and “Note 14 – Legal Proceedings, Commitments and Contingencies",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 120864,
+        "end": 121424
+      }
+    },
+    {
+      "id": "bc65a1220fa2771a",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 1B. Unresolved Staff Comments None. ITEM 1C. Cybersecurity Risk Management and Strategy We believe cybersecurity is critical to advancing our 21st Century Security vision and enabling our digital transformation efforts. As an aerospace and defense company, we face a multitude of cybersecurity threats that range from attacks common to most industries, such as ransomware and denial-of-service, to attacks from more advanced and persistent, highly organized adversaries, including nation state a",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. Unresolved Staff Comments None. ITEM 1C. Cybersecurity Risk Management and Strate",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 121720,
+        "end": 122220
+      }
+    },
+    {
+      "id": "ed96110fa2103f14",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 2698,
+      "excerpt": "ntelligence Driven Defense ® model that seeks to identify and prevent cybersecurity incidents by understanding the nature of adversaries and using this information to minimize the impact of an attack. The effectiveness of our security controls are validated by external third parties, including an independent audit agency to maintain our ISO 27001 certification. Whether through independent audits or consulting on best practices, we continuously evaluate both the design and operational effectivene",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. Unresolved Staff Comments None. ITEM 1C. Cybersecurity Risk Management and Strate",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 124418,
+        "end": 124918
+      }
+    },
+    {
+      "id": "2b07c0c0896effe0",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 3594,
+      "excerpt": "r could materially adversely impact us. We assess third party cybersecurity controls through a cybersecurity questionnaire and include security and privacy addendums to our contracts where applicable. We also contractually flow cybersecurity regulatory requirements to our subcontractors as required by the DFARS and other government agency specific requirements. These contractual flow downs include the requirement that our subcontractors implement certain security controls, and that our subcontra",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. Unresolved Staff Comments None. ITEM 1C. Cybersecurity Risk Management and Strate",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 125314,
+        "end": 125814
+      }
+    },
+    {
+      "id": "6e25f24fbd2d0953",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 4513,
+      "excerpt": "ces, and seek to work directly with those suppliers to address potential deficiencies identified. We also make available cybersecurity education and awareness materials and briefings to our suppliers. 23 Table of Contents Governance The Board of Directors oversees management’s processes for identifying and mitigating risks, including cybersecurity risks, to help align our risk exposure with our strategic objectives. Senior leadership, including our Chief Information Security Officer (CISO), repo",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. Unresolved Staff Comments None. ITEM 1C. Cybersecurity Risk Management and Strate",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 126233,
+        "end": 126733
+      }
+    },
+    {
+      "id": "4e1295ad4beb4eff",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 1971,
+      "excerpt": "(age 50), Vice President and Controller Mr. Paul has served as Vice President and Controller since June 2022. Previously, he served as Vice President, Accounting from March 2015 to June 2022. Maria A. Ricciardone (age 50), Vice President, Treasurer and Investor Relations Ms. Ricciardone has served as Vice President, Treasurer and Investor Relations since January 2024. She previously served as Vice President, Investor Relations from October 2022 to December 2023. Prior to joining Lockheed Martin",
+      "sectionId": "item_4_mine_safety_disclosures_not_appli",
+      "sectionHeader": "ITEM 4. Mine Safety Disclosures Not applicable. Information about our Executive Officers",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 135133,
+        "end": 135692
+      }
+    },
+    {
+      "id": "a43118167e5c92dc",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 997,
+      "excerpt": "technology, and cybersecurity capabilities serve U.S. and international customers in defense, civil and commercial applications. Our principal customers are agencies of the U.S. Government and allies. In 2025, 72% of our $75.0 billion in sales were from the U.S. Government, either as a prime contractor or as a subcontractor (including 63% from the Department of War (DoW), also known as the Department of Defense under 10 U.S.C. § 111(a)) and 28% were from international customers (including foreig",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 - Financial Statements and Supplementary Data. The MD&A generally discusses 2025 an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 142777,
+        "end": 143277
+      }
+    },
+    {
+      "id": "0cbd7593eaf8db2e",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 5401,
+      "excerpt": "prove their security posture, our business primarily operates on a long-cycle basis. As a result, the U.S. Government has been broadly focused on increasing industry capacity to meet long-term demand. We continue to work with the U.S. Government, international partners, and our supply chain to increase capacity and enhance our ability to scale our operations to anticipate potential demand, deliver critical capabilities, and replenish depleted U.S. and allied stockpiles of products that have been",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 - Financial Statements and Supplementary Data. The MD&A generally discusses 2025 an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 147181,
+        "end": 147741
+      }
+    },
+    {
+      "id": "62f236b12d7d291f",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 6397,
+      "excerpt": "d other performance challenges, as well as competing demands for limited resources to address such increased costs and other challenges, for our company, our suppliers and partners, and our customers. We have experienced, and continue to experience, supply chain challenges, including supplier shortages and performance issues. While on-time deliveries are improving, pressures remain in certain areas, and we are proactively working with our suppliers to meet our contract commitments. In addition,",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 - Financial Statements and Supplementary Data. The MD&A generally discusses 2025 an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 148177,
+        "end": 148736
+      }
+    },
+    {
+      "id": "b5527cabbbeefcc7",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 7386,
+      "excerpt": "or high rates of inflation, and are unable to successfully mitigate the impact, our future profits, margins and cash flows, particularly for existing fixed-price contracts, may be adversely affected. We remain committed to our ongoing efforts to increase the efficiency of our operations and improve the cost competitiveness and affordability of our products and services, which may, in part, offset cost increases from inflation. Recent Developments in Trade and Regulatory Policies Certain material",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 - Financial Statements and Supplementary Data. The MD&A generally discusses 2025 an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 149167,
+        "end": 149667
+      }
+    },
+    {
+      "id": "f08692cb32b6b9cd",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 9873,
+      "excerpt": "by other countries will have a material adverse effect upon our results of operations or financial condition over the long term. Significant changes in tax, trade, or other policies either in the U.S. or other countries, as well as any fluctuation in foreign exchange rates as a result of such activity, could materially increase our tax burden, the price we pay for materials and component parts, the price our customers pay, and result in delays in products received or non-delivery from our vendor",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "Item 8 - Financial Statements and Supplementary Data. The MD&A generally discusses 2025 an",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 151653,
+        "end": 152153
+      }
+    },
+    {
+      "id": "b2eec2b458da56b0",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 2436,
+      "excerpt": "curity environment, inflationary pressures, and macroeconomic conditions. The result may be shifting funding priorities, which could have material impacts on defense spending broadly and our programs. Additionally, the Administration continues to take steps to evaluate government-wide and defense-specific staffing and procurement, which includes assessing mission priorities, procurement methods, program performance, and other factors and then potentially taking action based on those assessments.",
+      "sectionId": "item_1a_risk_factors_for_additional_risk",
+      "sectionHeader": "Item 1A - Risk Factors for additional risks to the company related to the geopolitical and",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 155236,
+        "end": 155796
+      }
+    },
+    {
+      "id": "bd993d7662866f60",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 7692,
+      "excerpt": "%, in 2025 as compared to 2024. The increase in service sales was primarily due to higher sales of approximately $620 million at Aeronautics as a result of higher volume on F-35 sustainment contracts. Operating Costs and Expenses Operating costs and expenses, for both products and services, consist of materials, labor, subcontracting costs and an allocation of indirect costs (overhead and general and administrative), as well as the costs to fulfill our industrial cooperation agreements, sometime",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 164293,
+        "end": 164793
+      }
+    },
+    {
+      "id": "7c999740a8ab622c",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 10794,
+      "excerpt": "cribed. Impairment and Other Charges We recorded charges totaling $66 million ($52 million, or $0.22 per share, after-tax) in 2025 and $87 million ($69 million, or $0.29 per share, after-tax) in 2024. See “Note 16 – Impairment and Other Charges” included in our Notes to Consolidated Financial Statements for additional information. Other Unallocated, Net Other unallocated, net primarily includes the FAS/CAS pension operating adjustment (which represents the difference between total CAS pension co",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 167395,
+        "end": 167895
+      }
+    },
+    {
+      "id": "5232d5b6f01a50c8",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 20740,
+      "excerpt": "8 930 1,118 Total consolidated operating profit $ 7,731 $ 7,013 $ 8,507 The following segment discussions include information relating to backlog for each segment. Also see “Backlog” discussion above. Management evaluates performance on our contracts by focusing on sales and operating profit and not by type or amount of operating expense. Consequently, our discussion of business segment performance focuses on sales and operating profit, consistent with our approach for managing the business. Thi",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 177341,
+        "end": 177841
+      }
+    },
+    {
+      "id": "61677920178fa312",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 21738,
+      "excerpt": "product would typically align to the subcomponents of that product (such as a wing-box on an aircraft) and for services would align to the type of work being performed (such as aircraft sustainment). Our contracts generally allow for the recovery of costs in the pricing of our products and services. Most of our contracts are bid and negotiated with our customers under circumstances in which we are required to disclose our estimated total costs to provide the product or service. This approach for",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 178340,
+        "end": 178900
+      }
+    },
+    {
+      "id": "5c3472710cb836ef",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 23708,
+      "excerpt": "customer, we recognize revenue at the point in time in which each performance obligation is fully satisfied. Many of our contracts span several years and include highly complex technical requirements. At the outset of a contract accounted for under the percentage-of-completion cost-to-cost method, we identify and monitor risks to the achievement of the technical, schedule and cost aspects of the contract, as well as our ability to earn variable consideration, and assess the effects of those risk",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 180309,
+        "end": 180809
+      }
+    },
+    {
+      "id": "31a090bf2cad7524",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 34903,
+      "excerpt": ",682 $ 11,253 Operating profit 1,989 413 1,541 Operating margin 13.8 % 3.3 % 13.7 % Backlog at year-end $ 46,650 $ 38,783 $ 32,229 MFC’s sales in 2025 increased $1.8 billion, or 14%, compared to 2024. The increase was primarily attributable to higher sales of approximately $1.4 billion for tactical and strike missile programs due to increased volume (primarily JASSM, LRASM, Guided Multiple Launch Rocket System (GMLRS) and PrSM); and about $450 million for integrated air and missile defense progr",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 191504,
+        "end": 192004
+      }
+    },
+    {
+      "id": "1d7777d7b2bdb996",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 37364,
+      "excerpt": "offset by lower sales of $165 million for various training, logistics and simulation (TLS) programs due to lower volume. RMS’ operating profit in 2025 decreased $598 million, or 31%, compared to 2024. The decrease was primarily due to the reach-forward losses of approximately $570 million on the CMHP program and $95 million on the TUHP program recognized in the second quarter of 2025; and about $60 million on C6ISR programs due to unfavorable profit adjustments. These decreases were partially of",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 193965,
+        "end": 194465
+      }
+    },
+    {
+      "id": "9620cb250bfe2b12",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 38341,
+      "excerpt": ". Space provides network-enabled situational awareness and integrates complex space and ground global systems to help our customers gather, analyze, and securely distribute critical intelligence data. Space is also responsible for various classified systems and services in support of vital national security systems. Space’s major programs include the Trident II D5 Fleet Ballistic Missile (FBM), Orion Multi-Purpose Crew Vehicle (Orion), Next Generation Overhead Persistent Infrared (Next Gen OPIR)",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 194942,
+        "end": 195502
+      }
+    },
+    {
+      "id": "899e43cd3b8fa7c3",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 39302,
+      "excerpt": "79 $ 12,605 Operating profit 1,345 1,226 1,158 Operating margin 10.3 % 9.8 % 9.2 % Backlog at year-end $ 39,822 $ 36,377 $ 30,456 Space’s sales in 2025 increased $550 million, or 4%, compared to 2024. The increase was primarily attributable to higher sales of approximately $380 million for strategic and missile defense programs due to the ramp on the NGI program and higher volume on FBM program; and about $255 million for commercial and civil space programs due to higher volume (primarily Orion)",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 195903,
+        "end": 196403
+      }
+    },
+    {
+      "id": "edc8da7da73dbb66",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 52259,
+      "excerpt": "$ 127,473 $ 42,191 The table above includes debt presented gross of any unamortized discounts and issuance costs, but excludes the net unfunded obligation and estimated minimum funding requirements related to our qualified defined benefit pension plans. For additional information about obligations and our future minimum contribution requirements for these plans, see “Note 11 – Retirement Benefits” included in our Notes to Consolidated Financial Statements. Amounts related to other liabilities re",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 208861,
+        "end": 209361
+      }
+    },
+    {
+      "id": "f3899fa87d86a18c",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 53183,
+      "excerpt": "r contain terms that would subject us to liquidated damages. Such agreements and contracts may, for example, be related to direct materials, obligations to subcontractors and outsourcing arrangements. Total purchase obligations for operating activities in the preceding table include approximately $75.5 billion 43 Table of Contents related to contractual commitments entered into as a result of contracts we have with our U.S. Government customers. The U.S. Government generally would be required to",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 209784,
+        "end": 210344
+      }
+    },
+    {
+      "id": "9fa951d5627ffa5a",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 55034,
+      "excerpt": "l expenditures for information technology to support programs and general enterprise information technology infrastructure, inclusive of costs for the development or purchase of internal-use software. We also may enter into industrial cooperation agreements, sometimes referred to as offset agreements, as a condition to obtaining orders for our products and services from certain customers in foreign countries. These agreements are designed to enhance the social and economic environment of the for",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 211635,
+        "end": 212135
+      }
+    },
+    {
+      "id": "0544014d626aced8",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 56004,
+      "excerpt": "upplies from in-country vendors, providing financial support for in-country projects, establishment of joint ventures with local companies and building or leasing facilities for in-country operations. We typically do not commit to offset agreements until orders for our products or services are definitive. The amounts ultimately applied against our offset agreements are based on negotiations with the customer and typically require cash outlays that represent only a fraction of the original amount",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 212605,
+        "end": 213165
+      }
+    },
+    {
+      "id": "aadf02fc291935ac",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 76215,
+      "excerpt": "ng a combination of a discounted cash flow (DCF) analysis and market-based valuation methodologies such as comparable public company trading values and values observed in recent business acquisitions. Determining fair value requires the exercise of significant judgments, including the amount and timing of expected future cash flows, long-term growth rates, discount rates and relevant comparable public company earnings multiples and relevant transaction multiples. The cash flows employed in the D",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 232816,
+        "end": 233316
+      }
+    },
+    {
+      "id": "6498d63e325ee706",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 76861,
+      "excerpt": ".S. Government budgets, existing firm orders, expected future orders, contracts with suppliers, labor agreements, changes in working capital, long term business plans and recent operating performance. The discount rates utilized in the DCF analysis are based on the respective reporting unit’s weighted average cost of capital, which takes into account the relative weights of each component of capital structure (equity and debt) and represents the expected cost of new capital, adjusted as appropri",
+      "sectionId": "item_1a_risk_factors_for_a_discussion_of",
+      "sectionHeader": "Item 1A - Risk Factors for a discussion of risks related to international sales. In 2025, i",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 233462,
+        "end": 233962
+      }
+    },
+    {
+      "id": "5f784ace0c7d6983",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 14255,
+      "excerpt": "duration of the related contract or program as our operating cycle, which is generally longer than one year. This primarily impacts receivables, contract assets, inventories, and contract liabilities. We classify all other assets and liabilities based on whether the asset will be realized or the liability will be paid within one year. Additionally, certain prior year amounts in the consolidated statements of cash flows have been reclassified within operating activities to conform to the current",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 255367,
+        "end": 255926
+      }
+    },
+    {
+      "id": "5fae3b346919ba3f",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 17915,
+      "excerpt": "d circumstances. We provide our products and services under fixed-price and cost-reimbursable contracts. Under fixed-price contracts, we agree to perform the specified work for a pre-determined price. To the extent our actual costs vary from the estimates upon which the price was negotiated, we will generate more or less profit or could incur a loss. Some fixed-price contracts have a performance-based component under which we may earn incentive payments or incur financial penalties based on our",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 259027,
+        "end": 259586
+      }
+    },
+    {
+      "id": "075e3e9f751cf303",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 28816,
+      "excerpt": "to deliver complex systems, we typically receive advance payments prior to commencement of work, as well as milestone payments that are paid in accordance with the terms of our contract as we perform. We recognize a liability for payments in excess of revenue recognized, which is presented as a contract liability on the balance sheet. The portion of payments retained by the customer until final contract settlement is not considered a significant financing component because the intent is to prote",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 269928,
+        "end": 270428
+      }
+    },
+    {
+      "id": "3a7ac750f7a9a898",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 29814,
+      "excerpt": "and due from our customers under both contract types are classified as receivables on the balance sheet. Significant estimates and assumptions are made in estimating contract sales, costs, and profit. We estimate profit as the difference between estimated sales and total estimated costs to complete the contract. At the outset of a long-term contract, we identify and monitor risks to the achievement of the technical, schedule and cost aspects of the contract, as well as our ability to earn variab",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 270926,
+        "end": 271426
+      }
+    },
+    {
+      "id": "60c7b776afab70be",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 35029,
+      "excerpt": "t and $ 155 million of favorable profit rate adjustments following the resolution of a long-standing claim associated with a completed C-5 Galaxy aircraft contract at our Aeronautics business segment. During the year ended December 31, 2023, we recorded a reach-forward loss of $ 100 million on CMHP as a result of increased costs and lower than planned revenues and a favorable profit adjustment of $ 65 million on an international surveillance and control program due to the positive resolution of",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 276141,
+        "end": 276700
+      }
+    },
+    {
+      "id": "86bc0f4c858b9151",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 41491,
+      "excerpt": "hey would each be at a loss. During the first quarter of 2024, we concluded it was probable that the first option would be exercised and recognized a reach-forward loss of approximately $ 100 million. During the fourth quarter of 2024, we again assessed the likelihood that additional options may be exercised and concluded then that it is probable that all options will be exercised based on performance to date, future requirements of the program, discussions with the customer and suppliers, and a",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 282603,
+        "end": 283103
+      }
+    },
+    {
+      "id": "37d5034a16f09912",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 49835,
+      "excerpt": "d tax rates that will apply in the years in which we expect the temporary differences to be recovered or paid. We periodically assess our tax exposures related to periods that are open to examination. Based on the latest available information, we evaluate our tax positions to determine whether the position will more likely than not be sustained upon examination by the Internal Revenue Service (IRS) or other taxing authorities. If we cannot reach a more-likely-than-not determination, no benefit i",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 290947,
+        "end": 291447
+      }
+    },
+    {
+      "id": "2eb18fb39b23984e",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 51700,
+      "excerpt": "-to-cost method of revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer. Contract assets are recorded at the net amount expected to be billed and collected. Contract assets are classified as current based on our contract operating cycle and include amounts that may be billed and collected beyond one year due to the long-cycle nature of our contracts. Contract liabilities – Contract liabilities include advance payments and billings in excess of revenue",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 292812,
+        "end": 293371
+      }
+    },
+    {
+      "id": "c048d8afbb6a8883",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 52509,
+      "excerpt": "ty of our inventory represents work-in-process for contracts where control has not yet passed to the customer. Work-in-process primarily consists of labor, material, subcontractor, and overhead costs. In addition, costs incurred to fulfill a contract in advance of the contract being awarded are recorded in inventories as work-in-process if we determine that those costs relate directly to a contract or to an anticipated contract that we can specifically identify and contract award is probable, th",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 293621,
+        "end": 294121
+      }
+    },
+    {
+      "id": "60c601284bfe3faa",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 58637,
+      "excerpt": "ting profit in other income, net on our consolidated statements of earnings since the activities of the investee are closely aligned with the operations of the business segment holding the investment. We evaluate our equity method investments for impairment whenever events or changes in circumstances indicate that the carrying amounts of such investments may be impaired. If a decline in the value of an equity method investment is determined to be other than temporary, a loss is recorded in earni",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 299749,
+        "end": 300249
+      }
+    },
+    {
+      "id": "af82904d981d82a8",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 63055,
+      "excerpt": "can readily be determined. Therefore, we use a discount rate based on our incremental borrowing rate, which is determined using our credit rating and information available as of the commencement date. ROU operating lease assets include lease payments made at or before the lease commencement date, net of any lease incentives. Our operating lease agreements may include options to extend the lease term or terminate it early. We include options to extend or terminate leases in the ROU operating leas",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 304167,
+        "end": 304667
+      }
+    },
+    {
+      "id": "2fe288b300c99b4d",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 64021,
+      "excerpt": "account for the lease and non-lease components as a single component. Additionally, for certain equipment leases, we apply a portfolio approach to recognize operating lease ROU assets and liabilities. We evaluate ROU assets for impairment consistent with our property, plant and equipment policy. Retirement benefits – Many of our employees and retirees participate in various retirement benefit plans including defined benefit pension, retiree medical and life insurance, disability insurance, and d",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 305133,
+        "end": 305633
+      }
+    },
+    {
+      "id": "e3c9feb259da98f6",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 75722,
+      "excerpt": "p our customers gather, analyze and securely distribute critical intelligence data. Space is also responsible for various classified systems and services in support of vital national security systems. Operating profit for our Space business segment also includes our share of earnings for our 50 % ownership interest in ULA, which provides expendable launch services to the U.S. Government and commercial customers. Our investment in ULA totaled $ 551 million at both December 31, 2025 and 2024. 67 T",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 316834,
+        "end": 317334
+      }
+    },
+    {
+      "id": "4c9fc53736a7651d",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 80233,
+      "excerpt": "es and operating costs and expenses. Our consolidated financial statements must present pension expense calculated in accordance with Financial Accounting Standards (FAS) requirements under U.S. GAAP. The operating portion of the total FAS/CAS pension adjustment represents the difference between the service cost component of FAS pension (expense) income and total CAS pension cost. The non-service FAS pension (expense) income components are included in non-service FAS pension (expense) income in",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 321345,
+        "end": 321904
+      }
+    },
+    {
+      "id": "719fe478d8fad117",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 98918,
+      "excerpt": "ognized tax benefits as part of our income tax expense. For the years ended December 31, 2025, 2024 and 2023, our accrued interest and penalties related to unrecognized tax benefits were not material. Deferred Income Taxes The primary components of our federal and foreign deferred income tax assets and liabilities at December 31 were as follows (in millions): 2025 2024 Deferred tax assets related to: Pensions $ 999 $ 1,184 Accrued compensation and benefits 764 741 Contract accounting methods 1,2",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 340030,
+        "end": 340530
+      }
+    },
+    {
+      "id": "9b437c9eae656e3f",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 111180,
+      "excerpt": "ice components of our FAS income (expense) for our retiree medical and life insurance plans as part of the other non-operating income (expense), net account on our consolidated statements of earnings. 79 Table of Contents Funded Status The following table provides a reconciliation of benefit obligations, plan assets and net (unfunded) funded status of our qualified defined benefit pension plans and our retiree medical and life insurance plans (in millions): Qualified Defined Benefit Pension Plan",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 352292,
+        "end": 352792
+      }
+    },
+    {
+      "id": "ad5929933b3aa22f",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 125120,
+      "excerpt": "Lockheed Martin Corporation Master Retirement Trust (MRT) obtained a loan from a third-party financial institution, collateralized by private equity investments, to invest in fixed income securities. Cash equivalents are mostly comprised of short-term money-market instruments or short-term investment funds and are valued at cost, which approximates fair value. U.S. equity securities and international equity securities categorized as Level 1 are traded on active national and international exchang",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 366233,
+        "end": 366733
+      }
+    },
+    {
+      "id": "d7fd9fafbaea8bc0",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 125950,
+      "excerpt": "categorized as Level 2 if the custodian obtains corroborated quotes from a pricing vendor or categorized as Level 3 if the custodian obtains uncorroborated quotes from a broker or investment manager. 84 Table of Contents Commingled equity funds categorized as Level 1 are traded on active national and international exchanges and are valued at their closing prices on the last trading day of the year. For commingled equity funds not traded on an active exchange, or if the closing price is not avail",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 367063,
+        "end": 367563
+      }
+    },
+    {
+      "id": "50d97de810a0928e",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 126904,
+      "excerpt": "ata (e.g., interest rates and yield curves observable at commonly quoted intervals and credit spreads), bids provided by brokers or dealers or quoted prices of securities with similar characteristics. Fixed income investments are categorized as Level 3 when valuations using observable inputs are unavailable. The trustee typically obtains pricing based on indicative quotes or bid evaluations from vendors, brokers or the investment manager. In addition, certain other fixed income investments categ",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 368016,
+        "end": 368516
+      }
+    },
+    {
+      "id": "44c276c6690bde51",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 137417,
+      "excerpt": "mately 7.1 million shares reserved for issuance under the plans. At December 31, 2025, we had no outstanding options to purchase common stock and have not issued stock options to employees since 2012. At December 31, 2025, approximately 4.3 million of the shares reserved for issuance remained available for grant under our stock-based compensation plans. We issue new shares when restrictions on RSUs and PSUs have been satisfied. The minimum vesting period under our equity compensation plan for em",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 378529,
+        "end": 379029
+      }
+    },
+    {
+      "id": "661d29f28ae3649e",
+      "ticker": "LMT",
+      "vendor": null,
+      "charOffset": 138418,
+      "excerpt": "noncash stock-based compensation expense totaling $ 304 million, $ 277 million and $ 265 million, which is included as a component of other unallocated, net on our consolidated statements of earnings. The net impact to earnings for the respective years was $ 240 million, $ 219 million and $ 209 million. As of December 31, 2025, we had $ 349 million of unrecognized compensation cost related to nonvested awards, which is expected to be recognized over a weighted average period of 1.8 years. We had",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. Financial Statements and Supplementary Data Report of Independent Registered Publ",
+      "form": "10-K",
+      "filingDate": "2026-01-29",
+      "type": "chunk",
+      "range": {
+        "start": 379530,
+        "end": 380090
+      }
+    }
+  ]
+}

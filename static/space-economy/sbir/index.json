@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-06-05T03:08:16.615Z",
+  "topicId": "space-economy",
+  "tickers": [
+    {
+      "ticker": "ASTS",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "BA",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "BKSY",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "GSAT",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "IRDM",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "LHX",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "LMT",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "MNTS",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "NOC",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "PL",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "RDW",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "RKLB",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "RTX",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "SPIR",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    },
+    {
+      "ticker": "VSAT",
+      "totalAmount": 0,
+      "awardCount": 0,
+      "topAgency": null,
+      "sampleFirms": []
+    }
+  ]
+}

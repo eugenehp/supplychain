@@ -1,0 +1,479 @@
+{
+  "ticker": "RDW",
+  "name": "Redwire Corp",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 18,
+  "byCategory": [
+    {
+      "category": "governance",
+      "count": 6
+    },
+    {
+      "category": "disclosure",
+      "count": 4
+    },
+    {
+      "category": "contract",
+      "count": 4
+    },
+    {
+      "category": "earnings",
+      "count": 3
+    },
+    {
+      "category": "m-and-a",
+      "count": 1
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-06",
+      "count": 3
+    },
+    {
+      "month": "2025-07",
+      "count": 2
+    },
+    {
+      "month": "2025-08",
+      "count": 1
+    },
+    {
+      "month": "2025-09",
+      "count": 1
+    },
+    {
+      "month": "2025-10",
+      "count": 2
+    },
+    {
+      "month": "2025-11",
+      "count": 3
+    },
+    {
+      "month": "2026-02",
+      "count": 2
+    },
+    {
+      "month": "2026-03",
+      "count": 1
+    },
+    {
+      "month": "2026-05",
+      "count": 3
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001819810-26-000065",
+      "filingDate": "2026-05-20",
+      "reportDate": "2026-05-20",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000065/rdw-20260520.htm"
+    },
+    {
+      "accessionNumber": "0001819810-26-000060",
+      "filingDate": "2026-05-06",
+      "reportDate": "2026-05-06",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000060/rdw-20260506.htm"
+    },
+    {
+      "accessionNumber": "0001819810-26-000054",
+      "filingDate": "2026-05-05",
+      "reportDate": "2026-05-05",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000054/rdw-20260505.htm"
+    },
+    {
+      "accessionNumber": "0001819810-26-000038",
+      "filingDate": "2026-03-17",
+      "reportDate": "2026-03-12",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000038/rdw-20260312.htm"
+    },
+    {
+      "accessionNumber": "0001819810-26-000017",
+      "filingDate": "2026-02-25",
+      "reportDate": "2026-02-20",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "1.02",
+          "label": "Material agreement terminated",
+          "category": "contract"
+        },
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material agreement terminated; Earnings results; Material direct financial obligation; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000017/rdw-20260220.htm"
+    },
+    {
+      "accessionNumber": "0001819810-26-000014",
+      "filingDate": "2026-02-17",
+      "reportDate": "2026-02-11",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000014/rdw-20260211.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000253",
+      "filingDate": "2025-11-10",
+      "reportDate": "2025-11-10",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000253/rdw-20251110.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000251",
+      "filingDate": "2025-11-10",
+      "reportDate": "2025-11-10",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000251/rdw-20251110.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000244",
+      "filingDate": "2025-11-05",
+      "reportDate": "2025-11-05",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000244/rdw-20251105.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000231",
+      "filingDate": "2025-10-08",
+      "reportDate": "2025-10-06",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000231/rdw-20251006.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000229",
+      "filingDate": "2025-10-07",
+      "reportDate": "2025-10-02",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000229/rdw-20251002.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000226",
+      "filingDate": "2025-09-17",
+      "reportDate": "2025-09-15",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000226/rdw-20250915.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000212",
+      "filingDate": "2025-08-06",
+      "reportDate": "2025-08-06",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000212/rdw-20250806.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000192",
+      "filingDate": "2025-07-15",
+      "reportDate": "2025-07-11",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000192/rdw-20250711.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000172",
+      "filingDate": "2025-07-02",
+      "reportDate": "2025-06-26",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000172/rdw-20250626.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000168",
+      "filingDate": "2025-06-18",
+      "reportDate": "2025-06-16",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000168/rdw-20250616.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000163",
+      "filingDate": "2025-06-13",
+      "reportDate": "2025-06-13",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.01",
+          "label": "Acquisition or disposition",
+          "category": "m-and-a"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "m-and-a",
+      "summary": "Material agreement entered; Acquisition or disposition; Material direct financial obligation; Unregistered equity sale; Submission of matters to vote; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000163/rdw-20250613.htm"
+    },
+    {
+      "accessionNumber": "0001819810-25-000157",
+      "filingDate": "2025-06-09",
+      "reportDate": "2025-06-04",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Regulation FD disclosure; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000157/rdw-20250604.htm"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, readFileSync, existsSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { PATHS } from './paths.mjs';
 import {
@@ -50,7 +50,7 @@ export async function exportStaticRag(processed, { skipEmbed = false } = {}) {
   let entries = chunks;
 
   if (!skipEmbed && chunks.length) {
-    console.log(`  Embedding ${chunks.length} filing chunks (MiniLM-L6-v2)…`);
+    console.log(`  Embedding ${chunks.length} filing chunks (${EMBEDDING_MODEL})…`);
     const vectors = await embedTexts(
       chunks.map((c) => c.text),
       {
@@ -66,11 +66,37 @@ export async function exportStaticRag(processed, { skipEmbed = false } = {}) {
       ...chunk,
       q: [...quantizeVector(vectors[i])],
     }));
+  } else if (skipEmbed) {
+    // Preserve previously-computed q vectors from existing shard files so that
+    // --skip-embed doesn't silently wipe the corpus's semantic search readiness.
+    const shardsDir = join(PATHS.staticRag, 'shards');
+    const carried = new Map();
+    if (existsSync(shardsDir)) {
+      for (const file of readdirSync(shardsDir).filter((f) => f.endsWith('.json'))) {
+        try {
+          const prev = JSON.parse(readFileSync(join(shardsDir, file), 'utf8'));
+          for (const e of prev.entries ?? []) {
+            if (e?.id && Array.isArray(e.q)) carried.set(e.id, e.q);
+          }
+        } catch { /* ignore malformed shard */ }
+      }
+    }
+    if (carried.size) {
+      let hydrated = 0;
+      entries = chunks.map((chunk) => {
+        const q = carried.get(chunk.id);
+        if (q) { hydrated++; return { ...chunk, q }; }
+        return chunk;
+      });
+      console.log(`  --skip-embed: carried forward ${hydrated} of ${chunks.length} existing vectors`);
+    }
   }
+
+  const hasEmbeddings = entries.some((e) => Array.isArray(e.q));
 
   const chunksPayload = {
     generatedAt: new Date().toISOString(),
-    model: skipEmbed ? null : EMBEDDING_MODEL,
+    model: hasEmbeddings ? EMBEDDING_MODEL : null,
     dim: EMBEDDING_DIM,
     count: entries.length,
     sharded: true,
@@ -113,8 +139,8 @@ export async function exportStaticRag(processed, { skipEmbed = false } = {}) {
     chunkCount: chunks.length,
     vendorCount: vendors.length,
     tickers: [...new Set(chunks.map((c) => c.ticker))].sort(),
-    embeddingModel: skipEmbed ? null : EMBEDDING_MODEL,
-    embeddingsReady: !skipEmbed && chunks.length > 0,
+    embeddingModel: hasEmbeddings ? EMBEDDING_MODEL : null,
+    embeddingsReady: hasEmbeddings,
     sharded: true,
     shardUrls,
     chunksUrl: '/rag/chunks.json',

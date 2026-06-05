@@ -1,0 +1,182 @@
+[
+  {
+    "id": "item_3",
+    "item": "3",
+    "title": "Legal Proceedings",
+    "header": "Item 3. Legal Proceedings",
+    "charStart": 21199,
+    "charEnd": 23369,
+    "length": 2170,
+    "type": "item"
+  },
+  {
+    "id": "item_7",
+    "item": "7",
+    "title": "Management's Discussion and Analysis",
+    "header": "Item 7. Management's Discussion and Analysis",
+    "charStart": 35223,
+    "charEnd": 56354,
+    "length": 21131,
+    "type": "item"
+  },
+  {
+    "id": "item_1c",
+    "item": "1C",
+    "title": "Cybersecurity",
+    "header": "Item 1C. Cybersecurity",
+    "charStart": 56354,
+    "charEnd": 69230,
+    "length": 12876,
+    "type": "item"
+  },
+  {
+    "id": "item_2",
+    "item": "2",
+    "title": "Properties",
+    "header": "Item 2. Properties",
+    "charStart": 96417,
+    "charEnd": 98276,
+    "length": 1859,
+    "type": "item"
+  },
+  {
+    "id": "item_4",
+    "item": "4",
+    "title": "Mine Safety Disclosures",
+    "header": "Item 4. Mine Safety Disclosures",
+    "charStart": 98511,
+    "charEnd": 100917,
+    "length": 2406,
+    "type": "item"
+  },
+  {
+    "id": "item_1a",
+    "item": "1A",
+    "title": "Risk Factors",
+    "header": "Item 1A. Risk Factors",
+    "charStart": 114034,
+    "charEnd": 124256,
+    "length": 10222,
+    "type": "item"
+  },
+  {
+    "id": "item_1",
+    "item": "1",
+    "title": "Business",
+    "header": "Item 1. Business",
+    "charStart": 124256,
+    "charEnd": 138173,
+    "length": 13917,
+    "type": "item"
+  },
+  {
+    "id": "item_5",
+    "item": "5",
+    "title": "Market for Registrant's Common Equity",
+    "header": "Item 5. Market for Registrant's Common Equity",
+    "charStart": 139784,
+    "charEnd": 168206,
+    "length": 28422,
+    "type": "item"
+  },
+  {
+    "id": "item_7a",
+    "item": "7A",
+    "title": "Quantitative and Qualitative Disclosures About Market Risk",
+    "header": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "charStart": 168206,
+    "charEnd": 172017,
+    "length": 3811,
+    "type": "item"
+  },
+  {
+    "id": "item_8",
+    "item": "8",
+    "title": "Financial Statements and Supplementary Data",
+    "header": "Item 8. Financial Statements and Supplementary Data",
+    "charStart": 172017,
+    "charEnd": 324235,
+    "length": 152218,
+    "type": "item"
+  },
+  {
+    "id": "item_9a",
+    "item": "9A",
+    "title": "Controls and Procedures",
+    "header": "Item 9A. Controls and Procedures",
+    "charStart": 327729,
+    "charEnd": 334970,
+    "length": 7241,
+    "type": "item"
+  },
+  {
+    "id": "item_9b",
+    "item": "9B",
+    "title": "Other Information",
+    "header": "Item 9B. Other Information",
+    "charStart": 334970,
+    "charEnd": 336574,
+    "length": 1604,
+    "type": "item"
+  },
+  {
+    "id": "item_10",
+    "item": "10",
+    "title": "Directors, Executive Officers and Corporate Governance",
+    "header": "Item 10. Directors, Executive Officers and Corporate Governance",
+    "charStart": 336677,
+    "charEnd": 339019,
+    "length": 2342,
+    "type": "item"
+  },
+  {
+    "id": "item_11",
+    "item": "11",
+    "title": "Executive Compensation",
+    "header": "Item 11. Executive Compensation",
+    "charStart": 339019,
+    "charEnd": 339430,
+    "length": 411,
+    "type": "item"
+  },
+  {
+    "id": "item_12",
+    "item": "12",
+    "title": "Security Ownership of Certain Beneficial Owners",
+    "header": "Item 12. Security Ownership of Certain Beneficial Owners",
+    "charStart": 339430,
+    "charEnd": 341673,
+    "length": 2243,
+    "type": "item"
+  },
+  {
+    "id": "item_14",
+    "item": "14",
+    "title": "Principal Accountant Fees and Services",
+    "header": "Item 14. Principal Accountant Fees and Services",
+    "charStart": 341962,
+    "charEnd": 342320,
+    "length": 358,
+    "type": "item"
+  },
+  {
+    "id": "item_15",
+    "item": "15",
+    "title": "Exhibits and Financial Statement Schedules",
+    "header": "Item 15. Exhibits and Financial Statement Schedules",
+    "charStart": 342320,
+    "charEnd": 362345,
+    "length": 20025,
+    "type": "item"
+  },
+  {
+    "id": "item_16",
+    "item": "16",
+    "title": "Form 10-K Summary",
+    "header": "Item 16. Form 10-K Summary",
+    "charStart": 362345,
+    "charEnd": 364329,
+    "length": 1984,
+    "type": "item"
+  }
+]

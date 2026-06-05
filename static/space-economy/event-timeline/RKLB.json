@@ -1,0 +1,459 @@
+{
+  "ticker": "RKLB",
+  "name": "Rocket Lab Corp",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 18,
+  "byCategory": [
+    {
+      "category": "disclosure",
+      "count": 7
+    },
+    {
+      "category": "governance",
+      "count": 5
+    },
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "financing",
+      "count": 2
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-06",
+      "count": 1
+    },
+    {
+      "month": "2025-08",
+      "count": 3
+    },
+    {
+      "month": "2025-09",
+      "count": 2
+    },
+    {
+      "month": "2025-11",
+      "count": 1
+    },
+    {
+      "month": "2025-12",
+      "count": 1
+    },
+    {
+      "month": "2026-01",
+      "count": 1
+    },
+    {
+      "month": "2026-02",
+      "count": 1
+    },
+    {
+      "month": "2026-03",
+      "count": 3
+    },
+    {
+      "month": "2026-04",
+      "count": 1
+    },
+    {
+      "month": "2026-05",
+      "count": 4
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001819994-26-000048",
+      "filingDate": "2026-05-21",
+      "reportDate": "2026-05-20",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000048/rklb-20260520.htm"
+    },
+    {
+      "accessionNumber": "0001819994-26-000045",
+      "filingDate": "2026-05-20",
+      "reportDate": "2026-05-20",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000045/rklb-20260520.htm"
+    },
+    {
+      "accessionNumber": "0001753926-26-000799",
+      "filingDate": "2026-05-08",
+      "reportDate": "2026-05-08",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000175392626000799/g085715_8k.htm"
+    },
+    {
+      "accessionNumber": "0001819994-26-000027",
+      "filingDate": "2026-05-07",
+      "reportDate": "2026-05-07",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000027/rklb-20260507.htm"
+    },
+    {
+      "accessionNumber": "0001753926-26-000654",
+      "filingDate": "2026-04-14",
+      "reportDate": "2026-04-14",
+      "items": [
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "financing",
+      "summary": "Unregistered equity sale; Regulation FD disclosure; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000175392626000654/g085683_8k.htm"
+    },
+    {
+      "accessionNumber": "0001753926-26-000568",
+      "filingDate": "2026-03-30",
+      "reportDate": "2026-03-30",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000175392626000568/g085462_8k-rocket.htm"
+    },
+    {
+      "accessionNumber": "0001628280-26-018789",
+      "filingDate": "2026-03-17",
+      "reportDate": "2026-03-17",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000162828026018789/rklb-20260317.htm"
+    },
+    {
+      "accessionNumber": "0001819994-26-000016",
+      "filingDate": "2026-03-12",
+      "reportDate": "2026-03-12",
+      "items": [
+        {
+          "code": "5.08",
+          "label": "Shareholder director nominations",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Shareholder director nominations; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000016/rklb-20260312.htm"
+    },
+    {
+      "accessionNumber": "0001819994-26-000012",
+      "filingDate": "2026-02-26",
+      "reportDate": "2026-02-26",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000012/rklb-20260226.htm"
+    },
+    {
+      "accessionNumber": "0001819994-26-000004",
+      "filingDate": "2026-01-22",
+      "reportDate": "2026-01-21",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000004/rklb-20260121.htm"
+    },
+    {
+      "accessionNumber": "0001819994-25-000024",
+      "filingDate": "2025-12-19",
+      "reportDate": "2025-12-17",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999425000024/rklb-20251217.htm"
+    },
+    {
+      "accessionNumber": "0001819994-25-000020",
+      "filingDate": "2025-11-10",
+      "reportDate": "2025-11-07",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Officer / director change; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999425000020/rklb-20251107.htm"
+    },
+    {
+      "accessionNumber": "0001819994-25-000010",
+      "filingDate": "2025-09-25",
+      "reportDate": "2025-09-25",
+      "items": [
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "financing",
+      "summary": "Unregistered equity sale; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999425000010/rklb-20250925.htm"
+    },
+    {
+      "accessionNumber": "0001753926-25-001488",
+      "filingDate": "2025-09-15",
+      "reportDate": "2025-09-15",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000175392625001488/g084950_8k.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-041402",
+      "filingDate": "2025-08-29",
+      "reportDate": "2025-08-25",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Submission of matters to vote; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000162828025041402/rklb-20250825.htm"
+    },
+    {
+      "accessionNumber": "0001753926-25-001284",
+      "filingDate": "2025-08-12",
+      "reportDate": "2025-08-12",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000175392625001284/g084916_8k.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-038900",
+      "filingDate": "2025-08-07",
+      "reportDate": "2025-08-07",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000162828025038900/rklb-20250807.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-030197",
+      "filingDate": "2025-06-09",
+      "reportDate": "2025-06-09",
+      "items": [
+        {
+          "code": "5.08",
+          "label": "Shareholder director nominations",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Shareholder director nominations; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819994/000162828025030197/rklb-20250609.htm"
+    }
+  ]
+}

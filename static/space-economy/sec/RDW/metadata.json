@@ -1,0 +1,49 @@
+{
+  "ticker": "RDW",
+  "topicId": "space-economy",
+  "name": "Redwire Corp",
+  "cik": "0001819810",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-27",
+    "accessionNumber": "0001819810-26-000029",
+    "primaryDocument": "rdw-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/rdw-20251231.htm",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 335381000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 19761000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 17285000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 1449137000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    }
+  },
+  "textLength": 516450,
+  "exportedAt": "2026-06-05T04:10:38.162Z",
+  "localUrls": {
+    "text": "/space-economy/sec/RDW/filing.txt",
+    "metadata": "/space-economy/sec/RDW/metadata.json",
+    "sections": "/space-economy/sec/RDW/sections.json",
+    "evidence": "/space-economy/sec/RDW/evidence.json",
+    "display": "/space-economy/sec/RDW/display.json"
+  }
+}

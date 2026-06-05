@@ -1,0 +1,3072 @@
+{
+  "ticker": "RTX",
+  "topicId": "space-economy",
+  "count": 199,
+  "generatedAt": "2026-06-05T04:10:42.379Z",
+  "entries": [
+    {
+      "id": "RTX-kw-0",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 6835,
+      "excerpt": "…d government customers in both the original equipment and aftermarket parts and services segments of the aerospace industry. Our defense business serves both domestic and international customers as a prime contractor or subcontractor on a broad portfolio of defense and related programs for military and government customers. RTX Corporation was incorporated in Delaware in 1934. The following description of our business should be read in conjunction with “Management’s Discussion and Analysis of Financial Condition and Results of Operations” within Item 7 of this Form 10-K, including the information contained therein under the heading…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 6615,
+        "end": 7314
+      }
+    },
+    {
+      "id": "RTX-kw-1",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 8246,
+      "excerpt": "…ns, manufactures, and supplies electric power generation, management and distribution systems, environmental control systems, flight control systems, air data and aircraft sensing systems, engine control systems, engine components, engine nacelle systems, including thrust reversers and mounting pylons, interior and exterior aircraft lighting, aircraft cargo systems, evacuation systems, landing systems (including landing gear, wheels, and braking systems), communication, navigation, surveillance systems, fire and ice detection and protection systems, integrated avionics, and propeller systems. Collins also designs, manufactures, and…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 8027,
+        "end": 8666
+      }
+    },
+    {
+      "id": "RTX-kw-2",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 8593,
+      "excerpt": "…rcraft cargo systems, evacuation systems, landing systems (including landing gear, wheels, and braking systems), communication, navigation, surveillance systems, fire and ice detection and protection systems, integrated avionics, and propeller systems. Collins also designs, manufactures, and supports complete cabin interiors, including seating, oxygen systems, food and beverage preparation, storage and galley systems, lavatory, and wastewater management systems. Collins’ solutions support human space exploration with environmental control and power systems and extravehicular activity suits. Collins also provides connected aviation s…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 8373,
+        "end": 9013
+      }
+    },
+    {
+      "id": "RTX-kw-3",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 9902,
+      "excerpt": "…are Boeing and Airbus with combined sales, prior to discounts and incentives, of 16%, 16%, and 19% of total Collins segment sales in 2025, 2024, and 2023, respectively. In 2025, Collins was awarded a contract to deliver satellite communication systems to support survivable communications across multiple frequency bands. Collins was also awarded a contract by the Federal Aviation Administration (FAA) to support the Radar System Replacement program as part of the Department of Transportation’s Brand New Air Traffic Control System. Collins was selected to be the primary subcontractor for the U.S. Navy’s solution for engineering design…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 9682,
+        "end": 10381
+      }
+    },
+    {
+      "id": "RTX-kw-4",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 10256,
+      "excerpt": "…act by the Federal Aviation Administration (FAA) to support the Radar System Replacement program as part of the Department of Transportation’s Brand New Air Traffic Control System. Collins was selected to be the primary subcontractor for the U.S. Navy’s solution for engineering design and manufacturing of the Very Low Frequency communication subsystem, as well as mission command, control, and communications infrastructure, Advanced Extremely High Frequency and voice communications. In addition, Collins was awarded a follow-on contract from the FAA to continue support of the Standard Terminal Automation Replacement System (STARS) whi…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 10036,
+        "end": 10676
+      }
+    },
+    {
+      "id": "RTX-kw-5",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 12214,
+      "excerpt": "…ting in higher efficiency build processes, that reduce chemical and power usage and increase the use of recycling. Collins’ thermoplastic and carbon structural technologies support optimization of the design of aircraft components and equipment to minimize weight, maximize energy efficiency, reduce fuel burn, and extend brake life. Collins works closely with numerous other industry organizations and airframers to explore alternative energy solutions such as sustainable aviation fuel, hydrogen, and hybrid electric power sources. Collins also continues to invest in operational capacity in strategic locations in the United States (incl…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 11994,
+        "end": 12634
+      }
+    },
+    {
+      "id": "RTX-kw-6",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 12746,
+      "excerpt": "…. Collins also continues to invest in operational capacity in strategic locations in the United States (including Puerto Rico), India, Mexico, Singapore, and the Philippines. Pratt & Whitney is among the world’s leading suppliers of aircraft engines for commercial, military, business jet, and general aviation customers. Pratt & Whitney designs, manufactures, and services large engines for widebody, narrowbody, and large regional aircraft for commercial customers and for fighter, bomber, tanker, and transport aircraft for military customers. Pratt & Whitney also designs, manufactures, and services small engines powering regional airl…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 12526,
+        "end": 13166
+      }
+    },
+    {
+      "id": "RTX-kw-7",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 15082,
+      "excerpt": "…ngine for the U.S. government’s F-35 Joint Program Office to exclusively power the single-engine F-35 Lightning II fifth generation aircraft (commonly known as the Joint Strike Fighter) produced by Lockheed Martin. F135 propulsion system configurations are used for the U.S. Air Force’s F-35A, the U.S. Marine Corps’ F-35B, and the U.S. Navy’s F-35C jets. F135 engines are also used on all F-35 aircraft purchased by Joint Strike Fighter partner countries and other countries through foreign military sales arrangements. In 2025, Pratt & Whitney’s F135 engine surpassed one million engine flight hours, and the company was awarded a $2.8 bi…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 14862,
+        "end": 15502
+      }
+    },
+    {
+      "id": "RTX-kw-8",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 15942,
+      "excerpt": "…design maturation and aircraft integration efforts for the F135 Engine Core Upgrade (ECU). Significant activity continued on Pratt & Whitney’s military engine development programs, including the Next Generation Adaptive Propulsion (NGAP) program. In early 2025, Pratt & Whitney completed the Detailed Design Review of its XA103 engine for the U.S. Air Force’s NGAP, allowing it to begin procurement of hardware for the construction of the prototype ground demonstrator. Most recently, Pratt & Whitney announced accelerated XA103 engine development through the use of digital data packages, and continued progress toward the next major progr…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 15723,
+        "end": 16363
+      }
+    },
+    {
+      "id": "RTX-kw-9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 16886,
+      "excerpt": "…in and lead a Clean Aviation program. As part of the PHARES consortium, Pratt & Whitney Canada will collaborate with Collins, ATR, Airbus, and technology research organizations to design and integrate a hybrid-electric propulsion demonstrator, targeting up to 20% improved fuel efficiency on regional aircraft missions. Finally, in 2025, Pratt & Whitney Canada’s PT6 E-Series™ engine family surpassed 500,000 engine flight hours since entering service. The development of new engines and improvements to current production engines present important growth opportunities for Pratt & Whitney. In view of the risks and costs associated with d…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 16667,
+        "end": 17306
+      }
+    },
+    {
+      "id": "RTX-kw-10",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 19408,
+      "excerpt": "…r Tier Air and Missile Defense Sensor (LTAMDS), the National Advanced Surface-to-Air Missile System (NASAMS), Javelin, Excalibur, Stinger, and High-Energy Lasers. Raytheon also provides technologically advanced sensors, satellites, and interceptors, including the AN/TPY-2 radar, and Standard Missile 3 (SM-3). Raytheon delivers integrated space solutions including sensors, mission orchestration, satellite control, and software. Raytheon also focuses on the development and early introduction of next-generation technologies and systems, including hypersonics, counter-hypersonics, next-generation radars, sensor experimentation, and elec…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 19188,
+        "end": 19828
+      }
+    },
+    {
+      "id": "RTX-kw-11",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 19586,
+      "excerpt": "…rovides technologically advanced sensors, satellites, and interceptors, including the AN/TPY-2 radar, and Standard Missile 3 (SM-3). Raytheon delivers integrated space solutions including sensors, mission orchestration, satellite control, and software. Raytheon also focuses on the development and early introduction of next-generation technologies and systems, including hypersonics, counter-hypersonics, next-generation radars, sensor experimentation, and electro-optical/infrared (EO/IR) advancements, and aligns products that use shared technologies, including fire control radars, surveillance radars, EO/IR, space-qualified satellite…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 19367,
+        "end": 20006
+      }
+    },
+    {
+      "id": "RTX-kw-12",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 19996,
+      "excerpt": "…-generation radars, sensor experimentation, and electro-optical/infrared (EO/IR) advancements, and aligns products that use shared technologies, including fire control radars, surveillance radars, EO/IR, space-qualified satellite components, and electronics. Raytheon serves as a prime contractor or major subcontractor on numerous programs with the U.S. Department of War (DoW) (formerly referred to as the U.S. Department of Defense), including the U.S. Navy, U.S. Army, Missile Defense Agency, U.S. Air Force, and U.S. Space Force, as well as programs with U.S. federal civil customers, and other international and classified customers.…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 19777,
+        "end": 20416
+      }
+    },
+    {
+      "id": "RTX-kw-13",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 20006,
+      "excerpt": "…n radars, sensor experimentation, and electro-optical/infrared (EO/IR) advancements, and aligns products that use shared technologies, including fire control radars, surveillance radars, EO/IR, space-qualified satellite components, and electronics. Raytheon serves as a prime contractor or major subcontractor on numerous programs with the U.S. Department of War (DoW) (formerly referred to as the U.S. Department of Defense), including the U.S. Navy, U.S. Army, Missile Defense Agency, U.S. Air Force, and U.S. Space Force, as well as programs with U.S. federal civil customers, and other international and classified customers. In 2025, R…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 19786,
+        "end": 20426
+      }
+    },
+    {
+      "id": "RTX-kw-14",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 20082,
+      "excerpt": "…cements, and aligns products that use shared technologies, including fire control radars, surveillance radars, EO/IR, space-qualified satellite components, and electronics. Raytheon serves as a prime contractor or major subcontractor on numerous programs with the U.S. Department of War (DoW) (formerly referred to as the U.S. Department of Defense), including the U.S. Navy, U.S. Army, Missile Defense Agency, U.S. Air Force, and U.S. Space Force, as well as programs with U.S. federal civil customers, and other international and classified customers. In 2025, Raytheon achieved key advancements in, or received contract awards for, the f…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 19862,
+        "end": 20502
+      }
+    },
+    {
+      "id": "RTX-kw-15",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 24268,
+      "excerpt": "…o us as a U.S. company. Our aerospace businesses compete with numerous U.S. and foreign businesses that obtain regulatory agency approval to manufacture products and spare parts. Customer selections of aircraft engines, components, and systems can also have a significant impact on future sales of parts and services. In addition, customers (including the U.S. government and other governments) may purchase parts from suppliers other than the original equipment manufacturer, which affects spare parts sales. Some competitors may offer substantial discounts and other financial incentives, performance and operating cost guarantees, and pa…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 24048,
+        "end": 24688
+      }
+    },
+    {
+      "id": "RTX-kw-16",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 24467,
+      "excerpt": "…of aircraft engines, components, and systems can also have a significant impact on future sales of parts and services. In addition, customers (including the U.S. government and other governments) may purchase parts from suppliers other than the original equipment manufacturer, which affects spare parts sales. Some competitors may offer substantial discounts and other financial incentives, performance and operating cost guarantees, and participation in financing arrangements in an effort to compete for the aftermarket associated with these products. Our defense businesses compete with numerous U.S. and foreign companies in most defen…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 24247,
+        "end": 24887
+      }
+    },
+    {
+      "id": "RTX-kw-17",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 25082,
+      "excerpt": "…n companies in most defense and government electronics, space, effectors, communications, command and control, technical services and support, and other segments. We frequently partner on defense programs with our major suppliers, some of whom are, from time to time, competitors on other programs. In addition, the competitive landscape in the defense industry continues to evolve with trends such as the continued increase in commercial competitors, new entrants with different technology approaches and business models, governmental bid evaluation processes requesting expanded intellectual property disclosures and rights sharing that m…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 24862,
+        "end": 25502
+      }
+    },
+    {
+      "id": "RTX-kw-18",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 26070,
+      "excerpt": "…or industrial cooperation obligations, sometimes in the form of in-country industrial participation (ICIP) agreements, designed to enhance local industry. People As a global technology and innovation-driven company, we depend on a highly skilled workforce. Attracting, developing, advancing, and retaining the best talent while promoting trust, accountability and shared purpose, is critical for us to execute our strategy and grow our business. Individuals with technical, engineering, and science backgrounds, experience, or interests are particularly important for us to succeed in the industries in which we compete. In addition, our d…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 25851,
+        "end": 26490
+      }
+    },
+    {
+      "id": "RTX-kw-19",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 30952,
+      "excerpt": "…sinesses, we do not believe that our business would be materially affected by the expiration of any particular intellectual property right or termination of any particular intellectual property patent license agreement. Suppliers and Raw Materials We are dependent on a global supply chain for a wide range of raw materials, commodities, components, and services. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with s…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 30732,
+        "end": 31372
+      }
+    },
+    {
+      "id": "RTX-kw-20",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 30966,
+      "excerpt": "…o not believe that our business would be materially affected by the expiration of any particular intellectual property right or termination of any particular intellectual property patent license agreement. Suppliers and Raw Materials We are dependent on a global supply chain for a wide range of raw materials, commodities, components, and services. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procur…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 30746,
+        "end": 31386
+      }
+    },
+    {
+      "id": "RTX-kw-21",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31042,
+      "excerpt": "…on of any particular intellectual property right or termination of any particular intellectual property patent license agreement. Suppliers and Raw Materials We are dependent on a global supply chain for a wide range of raw materials, commodities, components, and services. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 30822,
+        "end": 31521
+      }
+    },
+    {
+      "id": "RTX-kw-22",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31070,
+      "excerpt": "…ctual property right or termination of any particular intellectual property patent license agreement. Suppliers and Raw Materials We are dependent on a global supply chain for a wide range of raw materials, commodities, components, and services. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely depe…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 30850,
+        "end": 31490
+      }
+    },
+    {
+      "id": "RTX-kw-23",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31143,
+      "excerpt": "…ty patent license agreement. Suppliers and Raw Materials We are dependent on a global supply chain for a wide range of raw materials, commodities, components, and services. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tan…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 30923,
+        "end": 31563
+      }
+    },
+    {
+      "id": "RTX-kw-24",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31194,
+      "excerpt": "…rials We are dependent on a global supply chain for a wide range of raw materials, commodities, components, and services. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 30974,
+        "end": 31674
+      }
+    },
+    {
+      "id": "RTX-kw-25",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31312,
+      "excerpt": "…es. Some of our products require relatively scarce raw materials. In some instances, we depend upon a single source of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supp…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31092,
+        "end": 31732
+      }
+    },
+    {
+      "id": "RTX-kw-26",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31426,
+      "excerpt": "…e of supply or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth element…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31206,
+        "end": 31846
+      }
+    },
+    {
+      "id": "RTX-kw-27",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31440,
+      "excerpt": "…participate in commodity markets that may be subject to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth elements, microelectr…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31221,
+        "end": 31860
+      }
+    },
+    {
+      "id": "RTX-kw-28",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31529,
+      "excerpt": "…by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities, resulting in delays and increased costs. These disruption…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31309,
+        "end": 31949
+      }
+    },
+    {
+      "id": "RTX-kw-29",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31634,
+      "excerpt": "…y limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities, resulting in delays and increased costs. These disruptions have been driven by supply chain market constraints and macroeconomic conditions, including inflation a…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31414,
+        "end": 32054
+      }
+    },
+    {
+      "id": "RTX-kw-30",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31661,
+      "excerpt": "…ubcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities, resulting in delays and increased costs. These disruptions have been driven by supply chain market constraints and macroeconomic conditions, including inflation and labor market shortages.…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31441,
+        "end": 32140
+      }
+    },
+    {
+      "id": "RTX-kw-31",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31679,
+      "excerpt": "…ay utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities, resulting in delays and increased costs. These disruptions have been driven by supply chain market constraints and macroeconomic conditions, including inflation and labor market shortages. The high inflation…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31459,
+        "end": 32099
+      }
+    },
+    {
+      "id": "RTX-kw-32",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 31795,
+      "excerpt": "…ium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities, resulting in delays and increased costs. These disruptions have been driven by supply chain market constraints and macroeconomic conditions, including inflation and labor market shortages. The high inflationary environment has increased material and component prices, labor rates and supplier costs, which has negatively im…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31575,
+        "end": 32215
+      }
+    },
+    {
+      "id": "RTX-kw-33",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32142,
+      "excerpt": "…sed costs. These disruptions have been driven by supply chain market constraints and macroeconomic conditions, including inflation and labor market shortages. The high inflationary environment has increased material and component prices, labor rates and supplier costs, which has negatively impacted our costs. Current geopolitical conditions, including conflicts and other causes of strained intercountry relations, as well as sanctions and other trade restrictive activities, such as tariffs and export controls, are continuing to contribute to these supply chain issues. We have implemented certain actions and programs which have mitiga…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31922,
+        "end": 32562
+      }
+    },
+    {
+      "id": "RTX-kw-34",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32176,
+      "excerpt": "…been driven by supply chain market constraints and macroeconomic conditions, including inflation and labor market shortages. The high inflationary environment has increased material and component prices, labor rates and supplier costs, which has negatively impacted our costs. Current geopolitical conditions, including conflicts and other causes of strained intercountry relations, as well as sanctions and other trade restrictive activities, such as tariffs and export controls, are continuing to contribute to these supply chain issues. We have implemented certain actions and programs which have mitigated some of the impacts, but we an…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 31956,
+        "end": 32596
+      }
+    },
+    {
+      "id": "RTX-kw-35",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32667,
+      "excerpt": "…uing to contribute to these supply chain issues. We have implemented certain actions and programs which have mitigated some of the impacts, but we anticipate that supply chain disruptions will continue. We work with our suppliers and subcontractors to assess and address the causes of performance failures and delays, including by providing suppliers with raw materials and technical support. We have arranged second and third supply source alternatives in some cases and have increased our materials and parts inventory. We regularly pursue cost reductions through a number of mechanisms, including consolidating or re-sourcing our purchas…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 32447,
+        "end": 33087
+      }
+    },
+    {
+      "id": "RTX-kw-36",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32681,
+      "excerpt": "…bute to these supply chain issues. We have implemented certain actions and programs which have mitigated some of the impacts, but we anticipate that supply chain disruptions will continue. We work with our suppliers and subcontractors to assess and address the causes of performance failures and delays, including by providing suppliers with raw materials and technical support. We have arranged second and third supply source alternatives in some cases and have increased our materials and parts inventory. We regularly pursue cost reductions through a number of mechanisms, including consolidating or re-sourcing our purchases, expanding…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 32461,
+        "end": 33160
+      }
+    },
+    {
+      "id": "RTX-kw-37",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32788,
+      "excerpt": "…me of the impacts, but we anticipate that supply chain disruptions will continue. We work with our suppliers and subcontractors to assess and address the causes of performance failures and delays, including by providing suppliers with raw materials and technical support. We have arranged second and third supply source alternatives in some cases and have increased our materials and parts inventory. We regularly pursue cost reductions through a number of mechanisms, including consolidating or re-sourcing our purchases, expanding the use of long-term agreements, reducing the number of suppliers generally (except as described above for…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 32569,
+        "end": 33208
+      }
+    },
+    {
+      "id": "RTX-kw-38",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32803,
+      "excerpt": "…ts, but we anticipate that supply chain disruptions will continue. We work with our suppliers and subcontractors to assess and address the causes of performance failures and delays, including by providing suppliers with raw materials and technical support. We have arranged second and third supply source alternatives in some cases and have increased our materials and parts inventory. We regularly pursue cost reductions through a number of mechanisms, including consolidating or re-sourcing our purchases, expanding the use of long-term agreements, reducing the number of suppliers generally (except as described above for important suppl…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 32583,
+        "end": 33223
+      }
+    },
+    {
+      "id": "RTX-kw-39",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 33157,
+      "excerpt": "…materials and parts inventory. We regularly pursue cost reductions through a number of mechanisms, including consolidating or re-sourcing our purchases, expanding the use of long-term agreements, reducing the number of suppliers generally (except as described above for important supply alternatives), strategic sourcing in cost competitive regions, capitalizing on competitions among suppliers and other low-cost sourcing initiatives, and extending our contractually negotiated raw material pricing to higher-tier suppliers in our supply chain. For additional information related to supply chain issues, see Item IA. “Risk Factors” of thi…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 32938,
+        "end": 33577
+      }
+    },
+    {
+      "id": "RTX-kw-40",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 33323,
+      "excerpt": "…e use of long-term agreements, reducing the number of suppliers generally (except as described above for important supply alternatives), strategic sourcing in cost competitive regions, capitalizing on competitions among suppliers and other low-cost sourcing initiatives, and extending our contractually negotiated raw material pricing to higher-tier suppliers in our supply chain. For additional information related to supply chain issues, see Item IA. “Risk Factors” of this Form 10-K. Other Matters Relating to Our Business As worldwide businesses, our operations can be affected by a variety of economic, industry, and other factors, inc…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 33103,
+        "end": 33743
+      }
+    },
+    {
+      "id": "RTX-kw-41",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 33417,
+      "excerpt": "…above for important supply alternatives), strategic sourcing in cost competitive regions, capitalizing on competitions among suppliers and other low-cost sourcing initiatives, and extending our contractually negotiated raw material pricing to higher-tier suppliers in our supply chain. For additional information related to supply chain issues, see Item IA. “Risk Factors” of this Form 10-K. Other Matters Relating to Our Business As worldwide businesses, our operations can be affected by a variety of economic, industry, and other factors, including those described in this section, in Item 7. “Management’s Discussion and Analysis of Fi…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 33198,
+        "end": 33837
+      }
+    },
+    {
+      "id": "RTX-kw-42",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 33453,
+      "excerpt": "…ives), strategic sourcing in cost competitive regions, capitalizing on competitions among suppliers and other low-cost sourcing initiatives, and extending our contractually negotiated raw material pricing to higher-tier suppliers in our supply chain. For additional information related to supply chain issues, see Item IA. “Risk Factors” of this Form 10-K. Other Matters Relating to Our Business As worldwide businesses, our operations can be affected by a variety of economic, industry, and other factors, including those described in this section, in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Ope…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 33234,
+        "end": 33874
+      }
+    },
+    {
+      "id": "RTX-kw-43",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 35719,
+      "excerpt": "…tion, cash withholds on contract payments, forfeiture of profits, and/or the assessment of civil or criminal penalties and fines, and could lead to suspension or debarment, for cause, from U.S. government contracting or subcontracting for a period of time. In addition, in order to support U.S. government priorities, we may begin performance on an undefinitized contract action prior to completing contract negotiations on the terms, specifications, or price between the parties. The U.S. government has the ability to unilaterally definitize contracts, which would obligate us to perform under terms and conditions imposed by the U.S. gov…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 35499,
+        "end": 36139
+      }
+    },
+    {
+      "id": "RTX-kw-44",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 38448,
+      "excerpt": "….S. or other licensing jurisdictions may affect the licensing process or otherwise prevent us from engaging in business dealings with certain individuals, entities, or countries. Any failure by us, our customers, or our suppliers to comply with these laws and regulations could result in civil or criminal penalties, fines, seizure of our products, adverse publicity, restrictions on our ability to engage in export or import transactions, or the suspension or debarment from doing business with the U.S. government. For further discussion of risks related to exports and imports, see Item 1A. “Risk Factors”. Compliance Matters. As previou…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 38229,
+        "end": 38869
+      }
+    },
+    {
+      "id": "RTX-kw-45",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 45385,
+      "excerpt": "…ory disclosure obligations could lead to new or additional investment in product designs and facility upgrades and could increase our operational and environmental compliance expenditures, including increased energy and raw materials costs and costs associated with manufacturing changes. For further discussion of risks related to environmental and climate matters and other government regulations, see Item 1A. “Risk Factors” of this Form 10-K. Other Applicable Regulations. We conduct our businesses through subsidiaries and affiliates worldwide. As a result, our businesses and operations are subject to both U.S. and non-U.S. governmen…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 45165,
+        "end": 45805
+      }
+    },
+    {
+      "id": "RTX-kw-46",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 48821,
+      "excerpt": "…hnologies and new products and services and the realization of anticipated benefits; • the challenges of operating in RTX’s highly-competitive industries both domestically and abroad; • our reliance on U.S. and non-U.S. suppliers and commodity markets, including cost increases and disruptions in the delivery of materials and services to RTX or our suppliers; • changes in trade policies, implementation of sanctions, imposition of tariffs (and counter-tariffs), and other trade measures and restrictions, foreign currency fluctuations, and sales methods; • the economic condition of the aerospace industry; • the ability of RTX to attract…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 48601,
+        "end": 49241
+      }
+    },
+    {
+      "id": "RTX-kw-47",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 48951,
+      "excerpt": "…-competitive industries both domestically and abroad; • our reliance on U.S. and non-U.S. suppliers and commodity markets, including cost increases and disruptions in the delivery of materials and services to RTX or our suppliers; • changes in trade policies, implementation of sanctions, imposition of tariffs (and counter-tariffs), and other trade measures and restrictions, foreign currency fluctuations, and sales methods; • the economic condition of the aerospace industry; • the ability of RTX to attract, train, qualify, and retain qualified personnel and maintain its culture and high ethical standards, and the ability of our perso…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 48731,
+        "end": 49371
+      }
+    },
+    {
+      "id": "RTX-kw-48",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 50922,
+      "excerpt": "…business, labor, or other challenges, and the resulting effect on its or their demand for our products and services; • an RTX product safety failure, quality issue, or other failure affecting RTX’s or its customers’ or suppliers’ products or systems; • cybersecurity, including cyber-attacks on RTX’s information technology (IT) infrastructure, products, suppliers, customers and partners, and cybersecurity-related regulations; • insufficient indemnity or insurance coverage; • our intellectual property and certain third-party intellectual property; • threats to RTX facilities and personnel, or those of its suppliers or customers, as w…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 50703,
+        "end": 51342
+      }
+    },
+    {
+      "id": "RTX-kw-49",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 51058,
+      "excerpt": "…afety failure, quality issue, or other failure affecting RTX’s or its customers’ or suppliers’ products or systems; • cybersecurity, including cyber-attacks on RTX’s information technology (IT) infrastructure, products, suppliers, customers and partners, and cybersecurity-related regulations; • insufficient indemnity or insurance coverage; • our intellectual property and certain third-party intellectual property; • threats to RTX facilities and personnel, or those of its suppliers or customers, as well as public health crises, damaging weather, acts of nature, or other similar events outside of RTX’s control that may affect RTX or i…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 50838,
+        "end": 51478
+      }
+    },
+    {
+      "id": "RTX-kw-50",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 51314,
+      "excerpt": "…nd cybersecurity-related regulations; • insufficient indemnity or insurance coverage; • our intellectual property and certain third-party intellectual property; • threats to RTX facilities and personnel, or those of its suppliers or customers, as well as public health crises, damaging weather, acts of nature, or other similar events outside of RTX’s control that may affect RTX or its suppliers or customers; 11 Table of Contents • changes in accounting estimates for our programs on our financial results; • changes in pension and other postretirement plan estimates and assumptions and contributions; • an impairment of goodwill and oth…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 51094,
+        "end": 51734
+      }
+    },
+    {
+      "id": "RTX-kw-51",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 51481,
+      "excerpt": "…ats to RTX facilities and personnel, or those of its suppliers or customers, as well as public health crises, damaging weather, acts of nature, or other similar events outside of RTX’s control that may affect RTX or its suppliers or customers; 11 Table of Contents • changes in accounting estimates for our programs on our financial results; • changes in pension and other postretirement plan estimates and assumptions and contributions; • an impairment of goodwill and other intangible assets; and • climate change and climate-related regulations, and any related customer and market demands, products and technologies. In addition, this F…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 51261,
+        "end": 51901
+      }
+    },
+    {
+      "id": "RTX-kw-52",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 55725,
+      "excerpt": "…rams, our performance, and our ability to control costs. The termination of one or more of our U.S. government contracts, or the occurrence of performance delays, cost overruns, product failures, shortages in materials, components, or labor, contract definitization delays, or other failures to perform to customer expectations and contract requirements, could negatively impact our reputation and competitive position, results of operations, financial condition, and liquidity. U.S. government contracts with prime contractors generally permit the government to terminate the contract, in whole or in part, without prior notice, at the U.S…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 55505,
+        "end": 56145
+      }
+    },
+    {
+      "id": "RTX-kw-53",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 56736,
+      "excerpt": "…ents for work accepted by the U.S. government. A termination arising out of our default could expose us to liability and have a negative impact on our ability to obtain future contracts and orders. In addition, we are a subcontractor on some programs, and the U.S. government could terminate the prime contract for convenience or otherwise, without regard to our performance as a subcontractor. We may not be able to offset lost revenues resulting from contract termination. Moreover, because the funding of U.S. government programs is subject to congressional appropriations made on a fiscal year basis even for multi-year programs, progra…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 56516,
+        "end": 57156
+      }
+    },
+    {
+      "id": "RTX-kw-54",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 56896,
+      "excerpt": "…o obtain future contracts and orders. In addition, we are a subcontractor on some programs, and the U.S. government could terminate the prime contract for convenience or otherwise, without regard to our performance as a subcontractor. We may not be able to offset lost revenues resulting from contract termination. Moreover, because the funding of U.S. government programs is subject to congressional appropriations made on a fiscal year basis even for multi-year programs, programs are often only partially funded initially and may not continue to be funded in future years. Appropriation bills may be delayed, which may result in delays t…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 56676,
+        "end": 57316
+      }
+    },
+    {
+      "id": "RTX-kw-55",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 57902,
+      "excerpt": "…ry dates or other requirements, but we may not be reimbursed. Further, if appropriations for one of our programs become unavailable, reduced, or delayed, the U.S. government may terminate for convenience our contract or subcontract under that program. In addition, our U.S. government contracts typically involve the development, application, and manufacture of advanced defense and technology systems and products aimed at achieving challenging goals. As a result of untested or unproven technologies, or modified requirements or specifications, we may experience technological and other performance difficulties (including delays, setback…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 57682,
+        "end": 58322
+      }
+    },
+    {
+      "id": "RTX-kw-56",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 60256,
+      "excerpt": "…able contracts could also result in lower profit rates. We may incur unexpected costs for various reasons, including technical and manufacturing challenges, schedule delays, the timeliness and availability of materials, components, or labor, the inaccuracy of initial contract cost estimates, internal and subcontractor performance or product quality issues, inability to achieve expected cost reduction, digital transformation, manufacturing, operating, and other strategic initiatives, inflation, inability to pass on tariff costs, and changing laws or regulations, natural disasters, and public health crises. We may also experience cost…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 60036,
+        "end": 60736
+      }
+    },
+    {
+      "id": "RTX-kw-57",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 60342,
+      "excerpt": "…for various reasons, including technical and manufacturing challenges, schedule delays, the timeliness and availability of materials, components, or labor, the inaccuracy of initial contract cost estimates, internal and subcontractor performance or product quality issues, inability to achieve expected cost reduction, digital transformation, manufacturing, operating, and other strategic initiatives, inflation, inability to pass on tariff costs, and changing laws or regulations, natural disasters, and public health crises. We may also experience cost underruns which would reduce contract value and related expected revenues, and we may…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 60122,
+        "end": 60822
+      }
+    },
+    {
+      "id": "RTX-kw-58",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 61763,
+      "excerpt": "…tion Authority (OTA) agreements, under which it awards certain prototypes, research, and production contracts without all of the procurement requirements that typically apply to DoW contracts, including justification of sole source awards. OTAs may use fixed-price contracting during all phases of the contract, or mandated contract cost sharing. They may also require non-traditional subcontractor participation and impose other requirements that differ from our other DoW contracts. Our business may be negatively impacted if we are unable to bid for OTA work and/or perform on our OTA agreements, including any applicable non-traditional…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 61543,
+        "end": 62243
+      }
+    },
+    {
+      "id": "RTX-kw-59",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 61928,
+      "excerpt": "…lly apply to DoW contracts, including justification of sole source awards. OTAs may use fixed-price contracting during all phases of the contract, or mandated contract cost sharing. They may also require non-traditional subcontractor participation and impose other requirements that differ from our other DoW contracts. Our business may be negatively impacted if we are unable to bid for OTA work and/or perform on our OTA agreements, including any applicable non-traditional requirements. In addition, in order to support U.S. government priorities, we may begin performance on an undefinitized contract action with a not-to-exceed price b…",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "keyword",
+      "range": {
+        "start": 61708,
+        "end": 62348
+      }
+    },
+    {
+      "id": "41c994996f9189eb",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provides advanced systems and services for commercial, military, and government customers worldwide. The terms “we,” “us,” “our,” the “Company”, and “RTX” mean RTX Corporation and its subsidiaries, unless the context indicates another meaning. We serve commercial and government customers in both the original equipment and aftermarket parts and services segments of the aerospace industry. Our defense business serves",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 6267,
+        "end": 6827
+      }
+    },
+    {
+      "id": "d2e885771f13bf6f",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 527,
+      "excerpt": "ional customers as a prime contractor or subcontractor on a broad portfolio of defense and related programs for military and government customers. RTX Corporation was incorporated in Delaware in 1934. The following description of our business should be read in conjunction with “Management’s Discussion and Analysis of Financial Condition and Results of Operations” within Item 7 of this Form 10-K, including the information contained therein under the heading “Business Overview.” Business Segments",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 6794,
+        "end": 7353
+      }
+    },
+    {
+      "id": "51a80ff3ac006cd6",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 1342,
+      "excerpt": "s include aftermarket services for civil and military aircraft manufacturers, commercial airlines, and regional, business, and general aviation, as well as for defense and commercial space operations. Aftermarket services include spare parts, overhaul and repair, engineering and technical support, training and fleet management solutions, asset management services, and information management services. Collins designs, manufactures, and supplies electric power generation, management and distributi",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 7609,
+        "end": 8109
+      }
+    },
+    {
+      "id": "b0837ccd701b4cc0",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 2158,
+      "excerpt": "stems (including landing gear, wheels, and braking systems), communication, navigation, surveillance systems, fire and ice detection and protection systems, integrated avionics, and propeller systems. Collins also designs, manufactures, and supports complete cabin interiors, including seating, oxygen systems, food and beverage preparation, storage and galley systems, lavatory, and wastewater management systems. Collins’ solutions support human space exploration with environmental control and pow",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 8425,
+        "end": 8925
+      }
+    },
+    {
+      "id": "0e22792331327801",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 3038,
+      "excerpt": "ystems, crew escape systems, and simulation and training. Collins sells aerospace and defense products and services to aircraft manufacturers, airlines, airports and other aircraft operators, the U.S. and foreign governments, defense contractors, maintenance, repair, and overhaul providers, and independent distributors around the world. Collins’ largest commercial customers are Boeing and Airbus with combined sales, prior to discounts and incentives, of 16%, 16%, and 19% of total Collins segment",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 9305,
+        "end": 9865
+      }
+    },
+    {
+      "id": "c212997726d1a79c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 3815,
+      "excerpt": "A) to support the Radar System Replacement program as part of the Department of Transportation’s Brand New Air Traffic Control System. Collins was selected to be the primary subcontractor for the U.S. Navy’s solution for engineering design and manufacturing of the Very Low Frequency communication subsystem, as well as mission command, control, and communications infrastructure, Advanced Extremely High Frequency and voice communications. In addition, Collins was awarded a follow-on contract from",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 10082,
+        "end": 10641
+      }
+    },
+    {
+      "id": "4d13e2da6bb6261f",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 5175,
+      "excerpt": "porating a Collins 250kW motor and integrated power controller. Collins will also develop an advanced propeller system for improved fuel efficiency and reduced noise for such engine as part of PHARES. 4 Table of Contents Collins continues to invest in sustainable technologies, such as electrical power architectures, advanced composite materials, digital trajectory optimizers, highly efficient cooling systems, and numerous other technologies that provide lower weight, improved drag, and carbon fo",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 11442,
+        "end": 11942
+      }
+    },
+    {
+      "id": "b2be1e8b18e1fc82",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 6060,
+      "excerpt": "Collins works closely with numerous other industry organizations and airframers to explore alternative energy solutions such as sustainable aviation fuel, hydrogen, and hybrid electric power sources. Collins also continues to invest in operational capacity in strategic locations in the United States (including Puerto Rico), India, Mexico, Singapore, and the Philippines. Pratt & Whitney is among the world’s leading suppliers of aircraft engines for commercial, military, business jet, and general",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 12328,
+        "end": 12887
+      }
+    },
+    {
+      "id": "81cbe43168238f4c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 7953,
+      "excerpt": "imately 26% year over year in 2025. The GTF family now powers more than 2,600 aircraft for over 90 operators across three aircraft platforms: Airbus A320neo family, Airbus A220, and Embraer E-Jets E2. In 2025, the GTF Advantage engine received FAA and European Union Safety Agency (EASA) certification for the Airbus A320 neo family and is expected to extend the benefits of the current GTF engine, increasing takeoff thrust by 4 to 8 percent and reducing fuel consumption by up to an additional 1 pe",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 14220,
+        "end": 14720
+      }
+    },
+    {
+      "id": "76ac0c29518faa44",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 8915,
+      "excerpt": "5B, and the U.S. Navy’s F-35C jets. F135 engines are also used on all F-35 aircraft purchased by Joint Strike Fighter partner countries and other countries through foreign military sales arrangements. In 2025, Pratt & Whitney’s F135 engine surpassed one million engine flight hours, and the company was awarded a $2.8 billion undefinitized contract action (UCA) for production of Lot 18 and Lot 19 long lead funding for the F135 engines to power all three variants of the F-35 Lightning II aircraft.",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 15182,
+        "end": 15741
+      }
+    },
+    {
+      "id": "fb4ef8a3781db20f",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 9908,
+      "excerpt": "nd demonstrator. Most recently, Pratt & Whitney announced accelerated XA103 engine development through the use of digital data packages, and continued progress toward the next major program milestone. Meanwhile, the B-21 Raider, which is powered by Pratt & Whitney engines, continued to progress its flight test program. In 2025, Pratt & Whitney Canada was selected by the European Union's Clean Aviation to lead the PHARES project, marking the first time a Canadian company will participate in and l",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 16175,
+        "end": 16675
+      }
+    },
+    {
+      "id": "71db76a3d6390e71",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 12534,
+      "excerpt": "ration Jammer (NGJ), shipboard missiles including the Tomahawk and Standard Missile 6 (SM-6), air-to-air missiles such as the AIM-9X SIDEWINDER missile, and integrated systems such as the SPY-6 radar. In addition, Raytheon provides advanced systems and products that span layered land and integrated air and missile defense, including the Patriot air and missile defense system, the Lower Tier Air and Missile Defense Sensor (LTAMDS), the National Advanced Surface-to-Air Missile System (NASAMS), Jav",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 18801,
+        "end": 19301
+      }
+    },
+    {
+      "id": "456bb4fc0d14770e",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 13151,
+      "excerpt": ", and interceptors, including the AN/TPY-2 radar, and Standard Missile 3 (SM-3). Raytheon delivers integrated space solutions including sensors, mission orchestration, satellite control, and software. Raytheon also focuses on the development and early introduction of next-generation technologies and systems, including hypersonics, counter-hypersonics, next-generation radars, sensor experimentation, and electro-optical/infrared (EO/IR) advancements, and aligns products that use shared technologie",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 19418,
+        "end": 19918
+      }
+    },
+    {
+      "id": "424024195e788dc9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 17759,
+      "excerpt": "hat may be available to us as a U.S. company. Our aerospace businesses compete with numerous U.S. and foreign businesses that obtain regulatory agency approval to manufacture products and spare parts. Customer selections of aircraft engines, components, and systems can also have a significant impact on future sales of parts and services. In addition, customers (including the U.S. government and other governments) may purchase parts from suppliers other than the original equipment manufacturer, w",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 24026,
+        "end": 24526
+      }
+    },
+    {
+      "id": "7bd9fe6cc1016b65",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 18693,
+      "excerpt": "and control, technical services and support, and other segments. We frequently partner on defense programs with our major suppliers, some of whom are, from time to time, competitors on other programs. In addition, the competitive landscape in the defense industry continues to evolve with trends such as the continued increase in commercial competitors, new entrants with different technology approaches and business models, governmental bid evaluation processes requesting expanded intellectual prop",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 24960,
+        "end": 25460
+      }
+    },
+    {
+      "id": "02b797220404be6e",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 19640,
+      "excerpt": "form of in-country industrial participation (ICIP) agreements, designed to enhance local industry. People As a global technology and innovation-driven company, we depend on a highly skilled workforce. Attracting, developing, advancing, and retaining the best talent while promoting trust, accountability and shared purpose, is critical for us to execute our strategy and grow our business. Individuals with technical, engineering, and science backgrounds, experience, or interests are particularly im",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 25907,
+        "end": 26407
+      }
+    },
+    {
+      "id": "a47f0430a182acd9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 24160,
+      "excerpt": "h are developed or used in the performance of government contracts. Commercial customers also have licenses to certain of our intellectual property largely in connection with the sale of our products. While our intellectual property rights in the aggregate are important to the operation of each of our businesses, we do not believe that our business would be materially affected by the expiration of any particular intellectual property right or termination of any particular intellectual property p",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 30427,
+        "end": 30927
+      }
+    },
+    {
+      "id": "ff929cf0cc40ec75",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 25003,
+      "excerpt": "ect to allocations of limited supplies by suppliers. In addition, in some cases, we must comply with specific procurement requirements, which may limit the suppliers and subcontractors we may utilize. We are largely dependent upon foreign sources for certain raw materials, such as cobalt, tantalum, chromium, rhenium, nickel, and titanium, and we rely on foreign suppliers as single-source suppliers of some components. In recent years, we have experienced supply chain disruptions that have impacte",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 31270,
+        "end": 31770
+      }
+    },
+    {
+      "id": "dc908329ffe2e1db",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 25765,
+      "excerpt": "including inflation and labor market shortages. The high inflationary environment has increased material and component prices, labor rates and supplier costs, which has negatively impacted our costs. Current geopolitical conditions, including conflicts and other causes of strained intercountry relations, as well as sanctions and other trade restrictive activities, such as tariffs and export controls, are continuing to contribute to these supply chain issues. We have implemented certain actions a",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 32033,
+        "end": 32533
+      }
+    },
+    {
+      "id": "01072fd9bf3f80e1",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 26501,
+      "excerpt": "luding by providing suppliers with raw materials and technical support. We have arranged second and third supply source alternatives in some cases and have increased our materials and parts inventory. We regularly pursue cost reductions through a number of mechanisms, including consolidating or re-sourcing our purchases, expanding the use of long-term agreements, reducing the number of suppliers generally (except as described above for important supply alternatives), strategic sourcing in cost c",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 32768,
+        "end": 33268
+      }
+    },
+    {
+      "id": "40db0b70eb9b59b8",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 29225,
+      "excerpt": "termination, cash withholds on contract payments, forfeiture of profits, and/or the assessment of civil or criminal penalties and fines, and could lead to suspension or debarment, for cause, from U.S. government contracting or subcontracting for a period of time. In addition, in order to support U.S. government priorities, we may begin performance on an undefinitized contract action prior to completing contract negotiations on the terms, specifications, or price between the parties. The U.S. gov",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 35492,
+        "end": 35992
+      }
+    },
+    {
+      "id": "3700e0413a5357f7",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 31939,
+      "excerpt": "oreign policy of the U.S. or other licensing jurisdictions may affect the licensing process or otherwise prevent us from engaging in business dealings with certain individuals, entities, or countries. Any failure by us, our customers, or our suppliers to comply with these laws and regulations could result in civil or criminal penalties, fines, seizure of our products, adverse publicity, restrictions on our ability to engage in export or import transactions, or the suspension or debarment from do",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 38206,
+        "end": 38706
+      }
+    },
+    {
+      "id": "1e17e1d02378b12c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 38190,
+      "excerpt": "used in performing any U.S. government contract we are awarded until the Environmental Protection Agency (EPA) thereafter certifies that the condition giving rise to the violation has been corrected. In addition, we could be affected by future foreign or domestic laws or regulations imposed in response to concerns over climate change, and we monitor developments in environmental and climate-related laws and regulations and their potential impact to our business and financial condition. Changes i",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 44458,
+        "end": 44958
+      }
+    },
+    {
+      "id": "c288819779db5df5",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 41959,
+      "excerpt": "nges in U.S. government defense spending, national priorities, and policy positions; • our performance on our contracts and programs, including our ability to control costs, and our dependence on U.S. government approvals for certain international contracts; • challenges in the development, certification, production, delivery, support, and performance of RTX’s advanced technologies and new products and services and the realization of anticipated benefits; • the challenges of operating in RTX’s h",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 48226,
+        "end": 48726
+      }
+    },
+    {
+      "id": "c486487c450bb875",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 43959,
+      "excerpt": "ctors; • realizing expected benefits from, incurring costs for, and successfully managing strategic initiatives such as cost reduction, restructuring, digital transformation, and other operational initiatives; • additional tax exposures due to new tax legislation or other developments in the U.S. and other countries in which RTX and its businesses operate; • the Powder Metal Matter; • changes in production volumes of one or more of our significant customers as a result of business, labor, or oth",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 50226,
+        "end": 50726
+      }
+    },
+    {
+      "id": "2fbe6c38d08203b7",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 44959,
+      "excerpt": "party intellectual property; • threats to RTX facilities and personnel, or those of its suppliers or customers, as well as public health crises, damaging weather, acts of nature, or other similar events outside of RTX’s control that may affect RTX or its suppliers or customers; 11 Table of Contents • changes in accounting estimates for our programs on our financial results; • changes in pension and other postretirement plan estimates and assumptions and contributions; • an impairment of goodwill",
+      "sectionId": "item_1_business_general_rtx_corporation_",
+      "sectionHeader": "ITEM 1. BUSINESS General RTX Corporation is an aerospace and defense company that provide",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 51226,
+        "end": 51786
+      }
+    },
+    {
+      "id": "e6a163cde75a61a9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 2575,
+      "excerpt": "uld have a material adverse effect on our results of operations, financial condition, and liquidity. We face risks relating to our U.S. government contracts and programs, including the mix of our U.S. government contracts and programs, our performance, and our ability to control costs. The termination of one or more of our U.S. government contracts, or the occurrence of performance delays, cost overruns, product failures, shortages in materials, components, or labor, contract definitization dela",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 55275,
+        "end": 55775
+      }
+    },
+    {
+      "id": "728821e5a63c369d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 3526,
+      "excerpt": "tracts is terminated for convenience, we would generally be entitled to payments for our allowable costs incurred, termination costs, and would receive some allowance for profit on the work performed. If one of our contracts is terminated for default, we would generally be entitled to payments for work accepted by the U.S. government. A termination arising out of our default could expose us to liability and have a negative impact on our ability to obtain future contracts and orders. In addition,",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 56226,
+        "end": 56786
+      }
+    },
+    {
+      "id": "f3b502eb07648473",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 4351,
+      "excerpt": "subject to congressional appropriations made on a fiscal year basis even for multi-year programs, programs are often only partially funded initially and may not continue to be funded in future years. Appropriation bills may be delayed, which may result in delays to funding, the collection of receivables, and our contract performance due to lack of authorized funds to procure related products and services. The timing of contract definitization can be affected by factors specific to the U.S. gover",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 57052,
+        "end": 57552
+      }
+    },
+    {
+      "id": "d88fa9b0015fdfd1",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 7106,
+      "excerpt": "y paid a fixed or performance-based fee, but we are generally not reimbursed for unauthorized costs exceeding a cost ceiling amount or costs not allowable under the contract or applicable regulations. Excess costs on cost reimbursable contracts could also result in lower profit rates. We may incur unexpected costs for various reasons, including technical and manufacturing challenges, schedule delays, the timeliness and availability of materials, components, or labor, the inaccuracy of initial co",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 59806,
+        "end": 60306
+      }
+    },
+    {
+      "id": "e859f1df79658a66",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 7966,
+      "excerpt": "ience cost underruns which would reduce contract value and related expected revenues, and we may be unable to expand the contract scope or secure additional work to offset the resulting lost revenues. While contracts for development programs with complex design and technical challenges are often cost reimbursable, they can be FFP or FPI, which can significantly increase our risk of a potential negative profit adjustment, as development contracts by nature involve elements that have not been unde",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 60666,
+        "end": 61166
+      }
+    },
+    {
+      "id": "d2b332e948cd1020",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 8882,
+      "excerpt": "which it awards certain prototypes, research, and production contracts without all of the procurement requirements that typically apply to DoW contracts, including justification of sole source awards. OTAs may use fixed-price contracting during all phases of the contract, or mandated contract cost sharing. They may also require non-traditional subcontractor participation and impose other requirements that differ from our other DoW contracts. Our business may be negatively impacted if we are unab",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 61582,
+        "end": 62082
+      }
+    },
+    {
+      "id": "f4decae570614ef6",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 10733,
+      "excerpt": "bject to risks associated with political and economic factors, regulatory requirements, competition, and other risks. A significant portion of our sales are international, including U.S. export sales. Transactions related to non-U.S. operations may be denominated in local currencies. Foreign currency exchange rate fluctuations (including their impact on supplier prices) may negatively affect demand for our products and our operating profit and margins. The majority of our commercial aerospace sa",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 63433,
+        "end": 63933
+      }
+    },
+    {
+      "id": "9171108c4eaf1da5",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 11724,
+      "excerpt": "h local government laws, regulations, and policies, including with respect to investments, taxation, exchange controls, capital controls, employment regulations, repatriation of earnings, and tariffs. Differing legal systems, customs, and contract laws and regulations pose additional risk. International transactions may include contractual terms that differ from those of similar contracts in the U.S. or that may be interpreted differently in foreign countries. In addition, in certain foreign cou",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 64424,
+        "end": 64924
+      }
+    },
+    {
+      "id": "084c8d83cfb79e5d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 15210,
+      "excerpt": "ies, or regime change can affect demand for our products and services, the competitive position of our products, our supply chain, and our ability to manufacture or sell products in certain countries. Further, operations in emerging market countries are subject to additional risks, including volatility in rates of economic growth, government instability, cultural differences (such as employment and business practices), the imposition of exchange and capital controls, and risks associated with ex",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 67910,
+        "end": 68410
+      }
+    },
+    {
+      "id": "2d959d272dc9665b",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 16911,
+      "excerpt": "strictions, as well as potential human rights issues associated with the use of our defense products. These risks and uncertainties may directly or indirectly impact our commercial businesses as well. In February 2023, China announced sanctions against Raytheon Missiles & Defense (RMD) (a former RTX Corporation (RTX) business segment, which became part of Raytheon as a result of the July 1, 2023 RTX segment realignment), and previously announced it may take measures against RTX, in connection wi",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 69611,
+        "end": 70111
+      }
+    },
+    {
+      "id": "fbab38465926714b",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 17830,
+      "excerpt": "on against RTX, our suppliers, affiliates, or partners, it could potentially disrupt our business operations. Any impact of these or other potential sanctions, or other actions by China, is uncertain. Our businesses have sold, and are expected to sell in the future, additional defense products to Taiwan from time to time in alignment with U.S. government policy, and we are unable to determine the potential impact, if any, of any future sanctions or other actions by China in response to these sal",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 70530,
+        "end": 71030
+      }
+    },
+    {
+      "id": "979a961aefc44e35",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 18812,
+      "excerpt": "dustries, entities, and individuals in Russia. The Russian government has implemented similar counter-sanctions and export controls targeting specific industries, entities, and individuals in the U.S. and other jurisdictions in which we operate, including certain members of the Company’s management team and Board of Directors. These government measures, among other limitations, restrict transactions involving various Russian banks and financial institutions and impose enhanced export controls li",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 71512,
+        "end": 72012
+      }
+    },
+    {
+      "id": "d875d968a201fb24",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 19746,
+      "excerpt": "nd operations in Israel, the Middle East, and the region at large due to continued regional instability and tensions. Our financial performance is dependent on the condition of the aerospace industry. Our commercial aerospace businesses constitute a substantial portion of our financial results, and the performance of those businesses is directly tied to economic conditions in the commercial aerospace industry, which is cyclical in nature. Capital spending and demand for aircraft engines, aerospa",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 72446,
+        "end": 72946
+      }
+    },
+    {
+      "id": "94514e5c38b368bc",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 23368,
+      "excerpt": "research and development efforts to pursue advancements in a wide range of technologies, products, and services aimed at meeting the ever-evolving product, program, and service needs of our customers. Our ability to realize the anticipated benefits of our investments depends on a variety of factors, including the competitiveness of our offerings’ performance relative to our peers; meeting development, production, certification, and regulatory approval schedules; receiving regulatory approvals; e",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 76068,
+        "end": 76568
+      }
+    },
+    {
+      "id": "5926fb4820b24e86",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 26179,
+      "excerpt": "andards, along with the long duration of development, production, and aftermarket support programs, creates uncertainty regarding program profitability, particularly with our aircraft engine products. Development efforts divert resources from other potential investments in our businesses, and these efforts may not lead to the development of new technologies or products on a timely 16 Table of Contents basis or meet the needs of our customers as fully as alternative investments. In addition, the",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 78879,
+        "end": 79438
+      }
+    },
+    {
+      "id": "62eaf32f66c094a3",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 26871,
+      "excerpt": "es in developing and producing new products and services, and may not realize the degree or timing of benefits initially anticipated or may otherwise suffer significant adverse financial consequences. Due to the design complexity of our products, or those of our customers or third party manufacturers that incorporate our products into theirs or our customers’ products, we may experience delays in completing the development and introduction of new products, or we may experience the suspension of",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 79571,
+        "end": 80130
+      }
+    },
+    {
+      "id": "9b31e0ba18dd749b",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 27804,
+      "excerpt": "ning all or a portion of next generation programs, including in key areas such as advanced sensing solutions, next-generation aircraft engine technologies, advanced avionics solutions and hypersonics. Any of the foregoing could have a material adverse effect on our competitive position, results of operations, financial condition, or liquidity. In particular, Pratt & Whitney’s Geared Turbofan (GTF) family of engines incorporates advanced technologies. The level of orders received for the GTF fami",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 80504,
+        "end": 81004
+      }
+    },
+    {
+      "id": "92bd8160da1ff0f8",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 28673,
+      "excerpt": "(PW1100) GTF fleet, which powers the A320neo family of aircraft. This issue has resulted in increased engine removals and inspections, shop visits, aircraft on ground levels, and costs to the Company. If any of our production or maintenance, repair, and overhaul ramp-up efforts are delayed, if suppliers cannot timely deliver or perform to our standards, if any other engine models are found to be materially impacted by the powder metal issue, and/or if we identify or experience other issues, incl",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 81373,
+        "end": 81873
+      }
+    },
+    {
+      "id": "dcc8efcc8861d2db",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 32329,
+      "excerpt": "multinational firms. Additionally, some customers, including the DoW, are increasingly turning to commercial contractors, other non-traditional defense contractors, and startups. For example, the U.S. government may award large competitive contracts to other suppliers to maintain a broad industrial base. In addition, U.S. government procurement policies and procedures and the application thereof are regularly changing. For example, an increase in the use of contract structures that shift risk to",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 85029,
+        "end": 85589
+      }
+    },
+    {
+      "id": "e1efc2d75ed75b52",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 33285,
+      "excerpt": "ions, could adversely affect our profit rates, ability to preserve differentiated product offerings, maintain lower tier suppliers, or make it more difficult to win new 17 Table of Contents contracts. If we are unable to continue to compete successfully against our current or future competitors in our core businesses, we may experience declines in revenues and industry segment share which could have a material adverse effect on our competitive position, results of operations, financial condition",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 85985,
+        "end": 86485
+      }
+    },
+    {
+      "id": "ecc8f1a62b686d33",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 34088,
+      "excerpt": "structure, and the products and services that we provide our customers are also at risk of being adversely affected by cyber-attacks. Like other companies, we regularly experience cyber-based attacks. Cybersecurity threats are continuously evolving and may have an impact on our customers, suppliers, subcontractors, and other third parties with whom we do business routinely, both on premises and in the cloud, attempting to gain unauthorized access to our confidential, proprietary, or otherwise pr",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 86788,
+        "end": 87288
+      }
+    },
+    {
+      "id": "1c24edf75fefb9fa",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 35829,
+      "excerpt": "its allies, which target us and other defense contractors. These types of threats are related to the geopolitical environment and have, therefore, grown in number due to recent geopolitical conflicts. In addition, as a result of the rapid pace of technological change, we and our customers, suppliers, subcontractors, and other third parties with whom we conduct business continue to rely on legacy systems and software, which can be more vulnerable to cyber threats and attacks. Moreover, we, like o",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 88529,
+        "end": 89029
+      }
+    },
+    {
+      "id": "62f74db22a1146a2",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 36788,
+      "excerpt": "anges in domestic and international cybersecurity-related laws and regulations have expanded cybersecurity-related compliance requirements, and cybersecurity regulatory enforcement activity has grown. We expect the regulatory environment to continue to evolve, and these regulatory changes could increase our operational and compliance expenditures and those of our suppliers, and lead to new or additional IT and product development expenses. We also face reputational, litigation, and financial ris",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 89488,
+        "end": 89988
+      }
+    },
+    {
+      "id": "3a693a6b83896f5d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 37478,
+      "excerpt": ", and recovery capabilities, and to mitigate potential risks to our technology, products, services, and operations from potential cybersecurity threats, as well as to comply with evolving regulations. However, given the unpredictability, nature, and scope of cyber-attacks, it is possible that we are unable to defend against all cyber-attacks, that potential vulnerabilities could go undetected and persist in the environment for an extended period, or that we may otherwise be unable to mitigate cu",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 90178,
+        "end": 90678
+      }
+    },
+    {
+      "id": "01f0ab5967d951c9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 38222,
+      "excerpt": "ctual property. In some cases, we must rely on the safeguards put in place by our customers, suppliers, subcontractors, and other third parties to protect against and report cyber threats and attacks. We could potentially be subject to production downtimes, operational delays, other detrimental impacts on our operations, or ability to provide products and services to our customers, the compromise of confidential information, intellectual property or otherwise protected information, misappropriat",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 90922,
+        "end": 91422
+      }
+    },
+    {
+      "id": "d7d00dadf016ea14",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 39040,
+      "excerpt": "dverse effect on our competitive position, results of operations, financial condition, or liquidity. Due to the evolving nature of such risks, the impact of any potential incident cannot be predicted. Further, our insurance coverage, which may exclude losses from war or cyber operations, may not be adequate to cover all related costs and we may not otherwise be fully indemnified for them. We are dependent on a global supply chain and subject to risks related to the availability of materials and",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 91740,
+        "end": 92299
+      }
+    },
+    {
+      "id": "682db51355a69f79",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 39844,
+      "excerpt": "ring services, and we rely on U.S. and non-U.S. suppliers (including third-party manufacturing suppliers, subcontractors, and service providers) and commodity markets for these materials and services. In some instances, we depend upon a single source of supply, manufacturing, services support, or assembly, or participate in commodity markets that may be subject to allocations of limited supplies by suppliers. Emerging laws and increasing regulatory 18 Table of Contents requirements aimed at glob",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 92544,
+        "end": 93044
+      }
+    },
+    {
+      "id": "477e049277715bb9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 40810,
+      "excerpt": "may further limit the suppliers and subcontractors they may utilize. Identifying and qualifying second- or third- source suppliers can be difficult, time-consuming, and may result in increased costs. Global supply chain disruptions have impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities. These disruptions have been driven by supply chain market constraints and macroeconomic conditions, including inflation and labor mark",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 93511,
+        "end": 94011
+      }
+    },
+    {
+      "id": "bfd16ac93eacb2c5",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 41667,
+      "excerpt": "supplier costs, and negatively impacted costs. Credit market conditions, including higher interest rates and the availability of credit, have impacted some of our suppliers and subcontractors as well. As a result of these procurement issues, the production flow in our factories has been negatively impacted, which has, in turn, hindered our ability to perform on our commitments to customers and negatively affected our results of operations, financial condition, and liquidity. Our supply costs hav",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 94367,
+        "end": 94867
+      }
+    },
+    {
+      "id": "6f58372fd77c4a55",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 42605,
+      "excerpt": "f sanctions or other trade restrictive actions, such as China. The timing of the impacts of these supply chain risks and issues and our ability to mitigate them are uncertain and difficult to predict. However, we expect the current supply chain, inflation, and price issues, and their negative impacts on our business, to continue. In particular, we expect to experience prolonged delays for certain critical component parts and sub-systems. Furthermore, the existing supply chain issues could be com",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 95305,
+        "end": 95805
+      }
+    },
+    {
+      "id": "e6727b437510eee2",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 43605,
+      "excerpt": "r transport and distribution issues, any of which could further negatively impact our ability to meet our commitments to customers or increase our operating costs and therefore incrementally affect our results of operations, financial condition, and liquidity. Due to the nature of our products and services, a product safety failure, quality issue, or other failure affecting our or our customers’ or suppliers’ products or systems could seriously harm our business. Our products and services are hi",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 96305,
+        "end": 96805
+      }
+    },
+    {
+      "id": "3c1a463007f37b36",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 44466,
+      "excerpt": "ense systems, including commercial and military jet engines, power and control systems, and other aircraft parts, air and missile defense systems, and military sensors and command and control systems. Technical, mechanical, quality, electronic, and other failures may occur from time to time, whether as a result of manufacturing or design defect, operational process, or production issue attributable to us, our customers, suppliers, partners, third party integrators, or others. Product design chan",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 97166,
+        "end": 97666
+      }
+    },
+    {
+      "id": "c23fa97fdc72b0ef",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 48046,
+      "excerpt": "on the Company’s results of operations for the periods in which it is recognized. In addition, other engine models within Pratt & Whitney’s fleet contain parts manufactured with affected powder metal. The negative impacts arising from the Powder Metal Matter could increase if any other engine models are found to be materially impacted by this rare condition. We depend on the recruitment and retention of qualified personnel, and our failure to attract, train, and retain such personnel could serio",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 100746,
+        "end": 101246
+      }
+    },
+    {
+      "id": "1e1b06eb7dfc6b96",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 51582,
+      "excerpt": ", and we are required to obtain licenses and authorizations from the appropriate U.S. government agencies before exporting these products out of the U.S. or importing these products into the U.S. U.S. foreign policy or the foreign policy of other licensing jurisdictions may affect the licensing process or otherwise prevent us from engaging in business dealings with certain individuals, entities, or countries. From time to time, we identify, investigate, remediate and voluntarily disclose violati",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 104282,
+        "end": 104782
+      }
+    },
+    {
+      "id": "7e8caa3aaaf22de0",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 54837,
+      "excerpt": "ounter threats to our physical security, including our facilities and personnel, and threats from workplace violence, civil unrest, terrorism, or similar acts, any of which could disrupt our business. In addition, our business, and the businesses of our suppliers, subcontractors, service providers, and customers, could be disrupted by public health crises, such as pandemics and epidemics, and governmental, business, and individual actions taken in response, damaging weather or other acts of natu",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 107537,
+        "end": 108037
+      }
+    },
+    {
+      "id": "fc06a051e2698a11",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 55827,
+      "excerpt": "n of management’s attention and resources, or loss of business, any of which could have a material adverse effect on our competitive position, results of operations, financial condition, or liquidity. The impact of any such business disruption is difficult to predict. We depend on our intellectual property and have access to certain third-party intellectual property; infringement or failure to protect our intellectual property or access to third party intellectual property could adversely affect",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 108527,
+        "end": 109087
+      }
+    },
+    {
+      "id": "5031dace5792b736",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 56651,
+      "excerpt": "in contracts, IT security systems, and other measures to protect certain customer and supplier information and intellectual property that we have in our possession or to which we have access. The U.S. government and foreign governments have licenses under certain of our intellectual property, including certain patents, which are developed or used in performance of government contracts. Governments may use or authorize others (including our competitors) to use such patents and intellectual proper",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 109351,
+        "end": 109851
+      }
+    },
+    {
+      "id": "a8c781c6f74838c0",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 67341,
+      "excerpt": "dings, resulting in additional criminal and civil penalties and fines, extension of either DPA’s term(s), including the terms of the monitorship, increased future regulatory and legal scrutiny by U.S. or foreign government agencies, additional reputational harm, additional compliance costs, suspension of export privileges and/or suspension or debarment from U.S. government contracting or subcontracting for a period of time, any of which could negatively affect our results of operations, financia",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 120041,
+        "end": 120541
+      }
+    },
+    {
+      "id": "5ecd1479906ccb69",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 75547,
+      "excerpt": "ather. Our business may be impacted by climate change and governmental and industry actions taken in response, which present short, medium, and long-term risks to our business and financial condition. Current and emerging environmental and climate-related laws, regulations, or other policies, including regulations on greenhouse gas emissions, carbon pricing, energy taxes, product efficiency standards, and mandatory disclosure obligations, could increase our operational and compliance expenditure",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 128247,
+        "end": 128747
+      }
+    },
+    {
+      "id": "3c2e01c00c18dccb",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 76413,
+      "excerpt": "echnologies, including low to no carbon products and services, the use of alternative energy sources, and other sustainable aviation technologies, weather and climate monitoring products and services. Customers, shareholders, and institutional investors may focus on measuring and minimizing environmental impact, including our environmental sustainability practices and commitments with respect to our operations, products, and suppliers. As a result, we continue to evaluate making additional inves",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 129113,
+        "end": 129613
+      }
+    },
+    {
+      "id": "35c83037106b6c69",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 77221,
+      "excerpt": "and customer requirements, and our ability to anticipate them and develop in-demand technologies on a timely basis, and other risks related to the development of advanced technologies described above. In addition, certain technologies will be dependent upon government action, such as investments in infrastructure, creating appropriate market incentives, and making certain raw materials available for development of certain technologies. Moreover, we rely on our suppliers to timely and effectively",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 129921,
+        "end": 130481
+      }
+    },
+    {
+      "id": "e2cc45dab509ea2b",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 78198,
+      "excerpt": "tance in advance of or instead of our products. In addition, as we and our competitors develop increasingly sustainable technologies, demand for our older offerings may decrease or become nonexistent. Our reputation may also be damaged if we or our industry fail, or are perceived to fail, to achieve sustainability goals or commitments or to comply with evolving environmental and climate-related regulations. In addition, climate-related litigation and government investigations could be commenced",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 130898,
+        "end": 131457
+      }
+    },
+    {
+      "id": "8c065d46c2c8cc75",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 79063,
+      "excerpt": "including hurricanes, tornadoes, floods, snow and ice storms, fires, heat waves, and mud slides, and by chronic changes in weather patterns, such as temperature increases, drought, and sea level rise. These events could damage our and our suppliers’ facilities, products, and other assets, and cause disruptions to our business and operations, supply chain, and distribution networks, and the businesses of our customers, and require an increase in expenditures to improve climate resiliency of our o",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 131763,
+        "end": 132263
+      }
+    },
+    {
+      "id": "f88a5135a60a03dd",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 82336,
+      "excerpt": "tivity. Due to the nature of the work required to be performed on many of our performance obligations, the estimation of total revenues and cost at completion is complex and subject to many variables. Management must make assumptions and estimates regarding contract revenue and cost (such as estimates of variable consideration, including award fees and penalties), including with respect to: (1) labor productivity and availability; (2) the complexity and scope of the work to be performed; (3) the",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 135036,
+        "end": 135596
+      }
+    },
+    {
+      "id": "345e58e4c61a6296",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 86365,
+      "excerpt": "is required in determining our worldwide provision for income taxes. In the ordinary course of our business, there are transactions and calculations where the ultimate tax determination is uncertain. Changes in tax laws and regulations, as well as changes and conflicts in related interpretations and other tax guidance, and fluctuations in taxable income could materially impact our tax receivables and liabilities and our deferred tax assets and deferred tax liabilities, as well as our income tax",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 139066,
+        "end": 139625
+      }
+    },
+    {
+      "id": "a95a3a356a922e26",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 89058,
+      "excerpt": "s could have a negative impact on our results of operations and financial condition. Quarterly cash dividends and share repurchases are subject to uncertainties and may affect our common stock price . Quarterly cash dividends and share repurchases under our share repurchase program generally constitute components of our capital allocation strategy, which we fund through a combination of operating free cash flow, borrowings, and proceeds from divestitures. However, we are not required to declare",
+      "sectionId": "item_1a_risk_factors_our_business_operat",
+      "sectionHeader": "ITEM 1A. RISK FACTORS Our business, operating results, financial condition, and liquidity",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 141758,
+        "end": 142317
+      }
+    },
+    {
+      "id": "d8151c4fcea74748",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and defense company serving commercial and government customers in the aerospace industry and domestic and international military and government customers as a defense contractor, we are the target of advanced and persistent cyber-attacks from a variety of sources. Our products and services are highly sophisticated and specialized, involve complex advanced technologies including information technology (IT) syst",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 151414,
+        "end": 151914
+      }
+    },
+    {
+      "id": "fbafe9e0e40727f0",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 990,
+      "excerpt": "nformation, or information relating to our employees, customers, and other third parties, or to disrupt our systems or the systems of our customers, suppliers, subcontractors, and other third parties. 27 Table of Contents Cybersecurity threats also include attempts to infiltrate our products or services, such as attacks targeting the security, confidentiality, integrity or availability of the hardware, software and information installed, stored, or transmitted in our products, which may occur af",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 152404,
+        "end": 152904
+      }
+    },
+    {
+      "id": "39ca2af42ffc6a30",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 1944,
+      "excerpt": "nd our supply chain. Our cybersecurity program is made up of two components: our enterprise cybersecurity program and our cybersecurity program for our products and services. Enterprise Cybersecurity. Our enterprise cybersecurity program aligns with the National Institute of Standards and Technology (NIST) standards. Our program includes processes and controls for the deployment of new IT systems by the Company and controls over new and existing system operation. We monitor and conduct regular t",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 153358,
+        "end": 153858
+      }
+    },
+    {
+      "id": "0db319f600a06752",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 4699,
+      "excerpt": "cidents are reported internally to members of senior management and the Board of Directors as appropriate based on severity and incident type and are also analyzed for external reporting requirements. Our incident management process is designed to coordinate functions to enable continuity of essential business operation in the event of a cyber crisis. Third-Party Service Providers. We engage third party service providers to expand the capabilities and capacity of our cybersecurity program, inclu",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 156113,
+        "end": 156613
+      }
+    },
+    {
+      "id": "a7dd9bf95650cb28",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 5558,
+      "excerpt": "s and controls. We assess and periodically reassess the cybersecurity posture of third-party service providers who store, process, or transmit our information as a service, or connect to our networks. We also require our suppliers, subcontractors, and other third-party service providers to agree to cybersecurity-related contractual terms and conditions of purchase. Many of these third parties are also subject to regulatory requirements in mandatory government procurement clauses, including those",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 156972,
+        "end": 157532
+      }
+    },
+    {
+      "id": "0dd277af5123d62b",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 8237,
+      "excerpt": "ecial Activities Committee of the Board supports the Board in oversight of classified business cybersecurity, including with respect to Company internal information and operational technology systems. The Audit Committee also considers enterprise cybersecurity risks in connection with its financial and compliance risk oversight role. Our global chief information security officer (CISO) , under the direction of our chief digital officer, leads our enterprise cybersecurity program and is responsib",
+      "sectionId": "item_1b_unresolved_staff_comments_none_i",
+      "sectionHeader": "ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY As a global aerospace and",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 159651,
+        "end": 160151
+      }
+    },
+    {
+      "id": "139e77d03b1c03a2",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 996,
+      "excerpt": "tions of this Form 10-K, including Item 1A. “Risk Factors.” BUSINESS OVERVIEW We are a global premier systems provider of high technology products and services to the aerospace and defense industries. We operate in three principal business segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon. Unless the context otherwise requires, the terms “we,” “our,” “us,” “the Company,” and “RTX” mean RTX Corporation and its subsidiaries. Industry Considerations Our worldwide operations can b",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 171687,
+        "end": 172187
+      }
+    },
+    {
+      "id": "936fc788b540c0bd",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 1739,
+      "excerpt": "s. Our defense business serves both domestic and international customers primarily as a prime contractor or subcontractor on a broad portfolio of defense and related programs for government customers. Our business mix also reflects the combination of shorter cycles in our commercial aerospace spares contracts and certain service contracts in our defense business, and longer cycles in our aerospace OEM and aftermarket maintenance contracts and on our defense contracts to design, develop, manufact",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 172430,
+        "end": 172930
+      }
+    },
+    {
+      "id": "a3d9d165fc1e70fa",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 2329,
+      "excerpt": "our businesses reflect an extensive geographic diversification that has evolved with continued globalization. Government legislation, policies, and regulations can impact our business and operations. Changes in environmental and climate change-related laws or regulations, including regulations on greenhouse gas emissions, carbon pricing, and energy taxes, could lead to new or additional investment in product designs and facility upgrades and could increase our operational and environmental compl",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 173021,
+        "end": 173521
+      }
+    },
+    {
+      "id": "d837deefa86235c9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 4298,
+      "excerpt": "quire U.S. government licenses and approvals, as well as foreign military sales, which are government-to-government transactions initiated by, and carried out at the direction of, the U.S. government. Changes in these budget and spending levels, policies, or priorities, which are subject to U.S. domestic and foreign geopolitical risks and threats, may impact our defense businesses, including the timing of and delays in U.S. government licenses and approvals for sales, the risk of sanctions, or o",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 174989,
+        "end": 175489
+      }
+    },
+    {
+      "id": "a834dfc135491bc2",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 6181,
+      "excerpt": "tter”). Global Supply Chain. We are dependent on a global supply chain and have experienced supply chain disruptions that resulted in delays and increased costs and adversely affected our performance. These disruptions impacted our ability to procure raw materials, including certain rare earth elements, microelectronics, and certain commodities on a timely basis and/or at expected prices, and are driven by supply chain market constraints and macroeconomic conditions, including inflation and labo",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 176872,
+        "end": 177372
+      }
+    },
+    {
+      "id": "5a03d293aa53a7b2",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 7165,
+      "excerpt": "ronment. The inflationary environment has increased material and component prices, labor rates, and supplier costs and has negatively impacted our performance, including our productivity expectations. Due to the nature of our government and commercial aerospace businesses, and their respective customer and supplier contracts, we are not always able to offset cost increases by increasing our contract value or pricing, in particular on our fixed-price contracts. Increasing material, component, and",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 177856,
+        "end": 178416
+      }
+    },
+    {
+      "id": "b0a2c9ff8dbda289",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 7897,
+      "excerpt": "gs, these effects can constrain our customers’ purchasing power and decrease orders for our products and services and impact the ability of our customers to make payments and our suppliers to perform. Moreover, changes in the macroeconomic environment, including volatility with respect to global trade policy, interest rates, and financial markets, can lead to economic uncertainty, an economic downturn or recession and impact the demand for our products and services as well as our supply chain. W",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 178588,
+        "end": 179088
+      }
+    },
+    {
+      "id": "cfbf01f129bb6786",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 8858,
+      "excerpt": "nd future developments. The global trade environment is highly dynamic. Since February 2025, the U.S. government has imposed tariffs on imports from all countries with which the U.S. engages in trade. In response, certain countries have announced, and in some cases imposed, tariffs, and non-tariff countermeasures on goods that are imported from the U.S. Our businesses and suppliers import goods subject to U.S. imposed tariffs, as well as goods subject to counter tariffs imposed by other countrie",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 179549,
+        "end": 180049
+      }
+    },
+    {
+      "id": "1176781427377937",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 9848,
+      "excerpt": "lity of the tariffs and counter tariffs remain uncertain, we are continuing to evaluate the potential future impacts of the imposition of the announced tariffs to our business and financial condition. Based on current conditions, we do not believe that the tariffs announced by the U.S. or counter tariffs or other actions taken by other countries will have a material adverse effect upon our results of operations, financial condition, or cash flows. However, the actual financial impacts of tariffs",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 180539,
+        "end": 181099
+      }
+    },
+    {
+      "id": "6860c78da18bf721",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 10567,
+      "excerpt": "of tariffs and counter-tariffs, the implementation of tariff and non-tariff countermeasures by countries subject to U.S. tariffs, and our and our suppliers’ ability to mitigate the impacts of tariffs. Changes in any of these factors and actual tariff costs incurred could significantly affect the estimates inherent in our financial statements, including those used in our estimates-at-completion (EACs), and estimates supporting the recoverability of our inventories, contract fulfillment costs, def",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 181258,
+        "end": 181758
+      }
+    },
+    {
+      "id": "3395e40f2a76846b",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 12344,
+      "excerpt": "5 Executive Order, calls for the development and deployment of a next-generation missile defense shield. On May 20, 2025, the DoW announced a draft architecture and implementation plan for the system. With next generation technologies across land, sea and space that build upon existing, proven defense capabilities, RTX’s portfolio is well-positioned to play a role in delivering reliable solutions for the Golden Dome for America initiative. Whether this Executive Order or corresponding funding wi",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 183035,
+        "end": 183535
+      }
+    },
+    {
+      "id": "2a74cf235502ce21",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 16091,
+      "excerpt": "t RTX, in connection with certain foreign military sales to Taiwan. The Chinese sanctions against RMD included a fine equal to twice the value of the arms that RMD sold to Taiwan since September 2020. Since that time, China has announced additional sanctions against the Raytheon business and a Collins joint venture. If China were to impose additional sanctions, enforce announced sanctions, or take other regulatory action against RTX, our suppliers, affiliates, or partners, it could potentially d",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 186782,
+        "end": 187282
+      }
+    },
+    {
+      "id": "3a64c6ff45fbdf25",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 17041,
+      "excerpt": "nuing review and potential changes. Likewise, regulatory approvals previously granted for prior sales can be paused or revoked if the products and services have not yet been delivered to the customer. In addition, certain programs require approvals by foreign governments, and those approvals may not be obtained on a timely basis or at all or may be revoked. If we ultimately do not receive all of the regulatory approvals, or those approvals are revoked, it could have a material effect on our fina",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 187732,
+        "end": 188232
+      }
+    },
+    {
+      "id": "a07d223bb5717df4",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 21938,
+      "excerpt": "nd the effect of foreign currency exchange rate translation fluctuations and other significant non-operational items and/or significant operational items that may occur at irregular intervals (Other). Additionally, the organic change in Cost of sales and Operating profit excludes restructuring costs, the FAS/CAS operating adjustment, and acquisition accounting adjustments. Restructuring costs generally arise from severance related to workforce reductions and facility exit costs. We are continuou",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 192629,
+        "end": 193129
+      }
+    },
+    {
+      "id": "e22a8aa067ead3bb",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 46592,
+      "excerpt": "rtain smaller non-reportable segments. Segment results exclude certain acquisition accounting adjustments, the FAS/CAS operating adjustment, and certain corporate expenses, as further discussed below. We present a FAS/CAS operating adjustment outside of segment results, which represents the difference between the service cost component of our pension and postretirement benefit (PRB) expense under the Financial Accounting Standards (FAS) requirements of U.S. GAAP and our pension and PRB expense u",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 217283,
+        "end": 217783
+      }
+    },
+    {
+      "id": "73df363fa70b9bbe",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 71698,
+      "excerpt": "he decrease in net sales and operating profit due to Acquisitions / Divestitures, net in 2024 compared to 2023 primarily relates to the sale of the CIS business completed in the first quarter of 2024. The decrease in Other operating profit in 2024 compared to 2023 was primarily driven by $0.6 billion related to the Raytheon Contract Termination initiated in the second quarter of 2024, partially offset by a $0.4 billion gain on the sale of the CIS business in the first quarter of 2024, and a $0.1",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 242389,
+        "end": 242949
+      }
+    },
+    {
+      "id": "7164dad568718ca7",
+      "ticker": "RTX",
+      "vendor": "Arm",
+      "charOffset": 72674,
+      "excerpt": "llion on several contracts to provide Guidance Enhanced Missiles (GEM-T) and Patriot launchers for international customers and the U.S. Army, $2.1 billion to provide AMRAAM to the U.S. Air Force, U.S. Navy, and international customers, $1.5 billion for low-rate initial production (LRIP) of LTAMDS for the U.S. Army and Poland, $1.2 billion for Iron Dome Tamir production for an international customer, $1.2 billion to provide Patriot systems for Spain, $1.1 billion for AIM-9X Sidewinder Block II sh",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 243365,
+        "end": 243865
+      }
+    },
+    {
+      "id": "f41b3dc4f343c0ea",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 75493,
+      "excerpt": "by higher selling, general and administrative expenses of $0.1 billion in 2025 and the absence of a $0.2 billion benefit from a tax related indemnity receivable recorded in the third quarter of 2024. The change in corporate expenses and other unallocated items of $0.7 billion in 2024 compared to 2023 was primarily due to a $0.9 billion charge related to the Resolution of Certain Legal Matters recorded in the second quarter of 2024, partially offset by a $0.2 billion benefit from a tax related in",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 246185,
+        "end": 246685
+      }
+    },
+    {
+      "id": "0c2579fdbeadfd1e",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 76481,
+      "excerpt": "solidated pension expense in operating profit equal to the service cost component of FAS expense under U.S. GAAP. The segment results of Collins and Pratt & Whitney generally include FAS service cost. The CAS expense calculation is different from the FAS requirements and calculation methodology. While the ultimate liability for pension costs under FAS and CAS is similar, the pattern of cost recognition is different. Our CAS pension expense is comprised primarily of CAS service cost and amortizat",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 247172,
+        "end": 247672
+      }
+    },
+    {
+      "id": "21665f4c9464b07c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 77168,
+      "excerpt": "r plans that are not fully funded on a CAS basis. Consequently, if plans become or cease to be fully funded under CAS due to our asset or liability experience, our CAS expense will change accordingly. The components of the FAS/CAS operating adjustment were as follows: (dollars in millions) 2025 2024 2023 FAS service cost (expense) $ (120) $ (138) $ (145) CAS expense 873 971 1,272 FAS/CAS operating adjustment $ 753 $ 833 $ 1,127 The change in our FAS/CAS operating adjustment of $0.1 billion in 20",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 247859,
+        "end": 248359
+      }
+    },
+    {
+      "id": "86e6f5cf84ded3ed",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 77863,
+      "excerpt": "he change in our FAS/CAS operating adjustment of $0.3 billion in 2024 compared to 2023 was driven by a decrease in CAS expense, primarily due to the recognition of historical CAS gain/loss experience. Acquisition accounting adjustments Acquisition accounting adjustments include the amortization of acquired intangible assets related to acquisitions, the amortization of the property, plant, and equipment fair value adjustment acquired through acquisitions, the amortization of 49 Table of Contents",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 248554,
+        "end": 249113
+      }
+    },
+    {
+      "id": "7aaf9a55e87cee5b",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 82339,
+      "excerpt": "mercial paper borrowing limit was $5.0 billion as the commercial paper is backed by our $5.0 billion revolving credit agreement. We had no commercial paper borrowings outstanding at December 31, 2025. During 2025, we made the following repayments of long-term debt: Date Description of Notes Aggregate Principal Balance (in millions) December 17, 2025 3 Month SOFR plus 1.225% Term Loan due 2026 $ 1,100 August 18, 2025 3.950% notes due 2025 1,500 May 7, 2025 3 Month SOFR plus 1.225% term loan due 2",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 253030,
+        "end": 253530
+      }
+    },
+    {
+      "id": "bca9d859b5598b76",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 83255,
+      "excerpt": "enables our suppliers, at their sole discretion, to sell their receivables from the Company to the financial institutions at a rate that leverages our credit rating, which might be beneficial to them. Our suppliers’ participation in the SCF programs does not impact or change our terms and conditions with those suppliers, and therefore, we have no economic interest in a supplier’s decision to participate in the programs. In addition, we do not pay for any of the costs of the programs incurred by",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 253946,
+        "end": 254505
+      }
+    },
+    {
+      "id": "39722ef71d88d706",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 100706,
+      "excerpt": "tion of customer-directed delays or reductions in scheduled deliveries, technical requirements, customer activity levels, such as flight hours or aircraft landings, and related variable consideration. Management must make assumptions and estimates regarding contract revenues and costs, including estimates of labor productivity and availability, the complexity and scope of the work to be performed, the availability and cost of materials including any impact from changing costs or inflation, the l",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 271397,
+        "end": 271897
+      }
+    },
+    {
+      "id": "bea84c94908027b0",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 114505,
+      "excerpt": "r of 2023, through its safety management system, Pratt & Whitney continued its engineering and industrial assessment, which resulted in an updated fleet management plan for the remaining PW1100 fleet. This updated plan requires a combination of part inspections and retirements for some high pressure turbine and high pressure compressor parts made from affected raw material. Guidance to affected operators was released via service bulletins (SB) and SI in November 2023, and this guidance has been",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 285196,
+        "end": 285755
+      }
+    },
+    {
+      "id": "af2247b30b977de2",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 118657,
+      "excerpt": "e pension and PRB liabilities are generally based on yield curves developed using high-quality corporate bonds which are subject to macroeconomic factors, as well as plan specific expected cash flows. For our significant plans, we utilize a full yield curve approach in the estimation of the service cost and interest cost components of net periodic pension income by applying the specific spot rates along the yield curve used in determination of the benefit obligation to the relevant discounted pr",
+      "sectionId": "item_6_reserved_32_table_of_contents_ite",
+      "sectionHeader": "ITEM 6. Reserved. 32 Table of Contents ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FI",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 289348,
+        "end": 289848
+      }
+    },
+    {
+      "id": "e8a3323c0db6af76",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Our primary market exposures are to fluctuations in foreign currency exchange rates and interest rates as it relates to our market risk sensitive instruments, which are primarily cash, debt, and derivative instruments. To quantify our market risk exposure, we perform a sensitivity analysis based on hypothetical changes in foreign currency exchange rates and interest rates. Refer to “Note 1: Basis of Presentation and Summary of A",
+      "sectionId": "item_7a_quantitative_and_qualitative_dis",
+      "sectionHeader": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Our primary market exp",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 295327,
+        "end": 295827
+      }
+    },
+    {
+      "id": "787a9b17abf9386c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 9813,
+      "excerpt": "to, any outstanding key contract matters, progress towards completion and the related program schedule, identified risks and opportunities, and the related changes in estimates of revenues and costs. The risks and opportunities relate to management’s judgment about the ability and cost to achieve the schedule, consideration of customer-directed delays or reductions in scheduled deliveries, technical requirements, customer activity levels, such as flight hours or aircraft landings, and related va",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 271076,
+        "end": 271576
+      }
+    },
+    {
+      "id": "08a126e6a9bafc38",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 10761,
+      "excerpt": "from the customer, overhead cost rates, and current and past maintenance cost and frequency driven by estimated aircraft and engine utilization and estimated useful lives of components, among others. Changes in estimates of net sales, cost of sales and the related impact to operating profit on contracts recognized over time are recognized on a cumulative catch-up basis, which recognizes the cumulative effect of the profit changes on current and prior periods based on a performance obligation’s p",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 312033,
+        "end": 312533
+      }
+    },
+    {
+      "id": "f85e4595644b2e06",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 43454,
+      "excerpt": "ermining the present value of lease payments, and use the implicit rate when readily determinable. We determine our incremental borrowing rate through market sources including relevant industry rates. Our lease right-of-use assets also include any initial direct costs and lease pre-payments made at or before the commencement date and are reduced for any lease incentives received at or before the commencement date. Certain of our leases include variable payments, which may vary based upon changes",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 344725,
+        "end": 345285
+      }
+    },
+    {
+      "id": "014652a480795f0d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 45330,
+      "excerpt": "ered held for disposal, we must have committed to a plan to dispose of the assets. Once deemed held for disposal, the assets are stated at the lower of the carrying amount or fair value. Income Taxes. Future income taxes represent the tax effects of transactions which are reported in different periods for tax and financial reporting purposes. These amounts consist of the tax effects of temporary differences between the tax and financial reporting balance sheets and tax carryforwards. Future inco",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 346601,
+        "end": 347101
+      }
+    },
+    {
+      "id": "c83ba1906b21cb7d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 46103,
+      "excerpt": "s our income tax positions and record tax benefits for all years subject to examination based upon management’s evaluation of the facts, circumstances, and information available at the reporting date. For those tax positions where it is more-likely-than-not that a tax benefit will be sustained, we have recorded 73 Table of Contents the largest amount of tax benefit with a greater than 50% likelihood of being realized upon ultimate settlement with a taxing authority that has full knowledge of all",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 347374,
+        "end": 347934
+      }
+    },
+    {
+      "id": "5c27b273588954b8",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 47948,
+      "excerpt": "ration is probable. For certain contracts that meet the foregoing requirements, primarily contracts that are directly with a foreign government, we are required to obtain certain regulatory approvals. In these cases, we recognize revenue when obtaining regulatory approvals is considered probable based on all known facts and circumstances. A performance obligation is a promise in a contract with a customer to transfer a distinct good or service to the customer. Some of our contracts with customer",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 349219,
+        "end": 349719
+      }
+    },
+    {
+      "id": "10449d62c410282e",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 49803,
+      "excerpt": "nue. Consideration payable to a customer may include cash amounts we are obligated to pay or expect to pay a customer, as well as credits or other items that can be applied against amounts owed to us. In our Collins and Pratt & Whitney businesses, we may offer customer incentives to purchase our products, which may result in payments made to those customers. When reasonably able to estimate, we include variable consideration in the transaction price at the most likely amount to which we expect t",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 351074,
+        "end": 351574
+      }
+    },
+    {
+      "id": "b6f301284791e56e",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 50741,
+      "excerpt": "onent, which they generally do not. Timing of the satisfaction of performance obligations varies across our businesses due to our diverse product and service mix, customer base, and contractual terms. Performance obligations are satisfied as of a point-in-time for certain aerospace components, engines, and spare parts. Revenue is recognized when control of the product transfers to the customer, generally upon product shipment. Since billing also typically occurs upon product shipment, we general",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 352012,
+        "end": 352512
+      }
+    },
+    {
+      "id": "491d17f4d5d05add",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 51622,
+      "excerpt": "contractual right to payment for performance to date. We recognize revenue on an over-time basis for substantially all defense contracts and certain long-term aerospace OEM and aftermarket contracts. Substantially all of our defense business revenue, which primarily relates to our Raytheon segment, and to a lesser extent Pratt & Whitney and Collins, is recognized over time because of the continuous transfer of control to our customers. For performance obligations satisfied over time, revenue is",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 352894,
+        "end": 353453
+      }
+    },
+    {
+      "id": "eecb82a2bed31fce",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 53505,
+      "excerpt": "the contract, our U.S. government fixed-price contracts generally result in revenue recognized in excess of billings which we present as Contract assets on the Consolidated Balance Sheet. For our U.S. government cost-type contracts, the customer generally pays us for our costs incurred within a short period of time. For non-U.S. government contracts, we typically receive interim payments as work progresses, although for some contracts, we may be entitled to receive an advance payment. Such advan",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 354776,
+        "end": 355276
+      }
+    },
+    {
+      "id": "43b38ba6a028261e",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 58682,
+      "excerpt": "from our customer, overhead cost rates, and current and past maintenance cost and frequency driven by estimated aircraft and engine utilization and estimated useful lives of components, among others. In particular, fixed-price development programs involve significant management judgment, as development contracts by nature have elements that have not been done before and thus, are highly subject to future unexpected cost changes. Cost estimates may also include the estimated cost of satisfying ou",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 272023,
+        "end": 272523
+      }
+    },
+    {
+      "id": "ee2406eb4bdecc26",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 66859,
+      "excerpt": "ed revenue-generating contracts. Foreign Exchange. We conduct business in many different currencies and, accordingly, are subject to the inherent risks associated with foreign exchange rate movements. The financial position and results of operations of many of our foreign subsidiaries are often measured using the local currency as the functional currency. Foreign currency denominated assets and liabilities are translated into U.S. Dollars at the exchange rates existing at the respective balance",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 368130,
+        "end": 368689
+      }
+    },
+    {
+      "id": "99f875e7ee4f3750",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 69470,
+      "excerpt": "h offsetting transaction gains and losses on the items being hedged. Derivatives are also used to hedge foreign currency translation risk arising from the net investment in certain foreign operations. Derivatives used to hedge forecasted cash flows associated with foreign currency commitments or forecasted commodity purchases may be accounted for as cash flow hedges, as deemed appropriate. Changes in the fair value of derivatives that are designated and qualify as a hedge of the net investment i",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 370741,
+        "end": 371241
+      }
+    },
+    {
+      "id": "bb02ee81b2aa007d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 70238,
+      "excerpt": "sses representing components excluded from the assessment of effectiveness for net investment hedges are recognized on a straight-line basis in Other income (expense), net over the term of the hedges. To the extent that a previously-designated hedging 77 Table of Contents transa ction for cash flow hedges or net investment hedges are no longer an effective hedge, any ineffectiveness measured in the hedging relationship is recorded currently in earnings in the period it occurs. To the extent the",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 371509,
+        "end": 372068
+      }
+    },
+    {
+      "id": "3f17eb7d88f30177",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 73082,
+      "excerpt": "remediation activities. Pension and Postretirement Obligations. U.S. GAAP requires balance sheet recognition of the overfunded or underfunded status of pension and postretirement benefit (PRB) plans. Funded status is measured at least annually in the fourth quarter and represents the difference between the plans’ projected benefit obligation (PBO) and the fair market value of the plans’ assets. Changes to our pension and PRB plans’ funded status can result from company actions, such as contribut",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 374354,
+        "end": 374854
+      }
+    },
+    {
+      "id": "4f8b8f3e288c6d00",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 73971,
+      "excerpt": "increase in employee compensation levels. These gains or losses are recorded in Other comprehensive loss, net of tax, until they are amortized as a component of net periodic benefit (income) expense. A calculated “market-related value” of our plan assets is generally used to develop the amount of deferred asset gains or losses to be amortized. The market-related value of assets is generally equal to the fair value of assets adjusted to reflect the recognition, and subsequent amortization, of the",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 375243,
+        "end": 375803
+      }
+    },
+    {
+      "id": "16fb87e42b27c759",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 74753,
+      "excerpt": "amortization of gains and losses, which limits the expense recognition to the net outstanding gains and losses in excess of the greater of 10% of the PBO or 10% of the market-related value of assets. Gains and losses exceeding the corridor are amortized in net periodic benefit (income) expense over either the projected average remaining employee service period or the projected average remaining lifetime of inactive participants depending on the plan. Net periodic benefit (income) expense is clas",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 376025,
+        "end": 376525
+      }
+    },
+    {
+      "id": "6ef28e70e2943149",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 86711,
+      "excerpt": "25, 2024, and 2023, we recognized revenue of $ 8.1 billion, $ 7.2 billion, and $ 5.3 billion related to our Contract liabilities at January 1, 2025, January 1, 2024, and January 1, 2023, respectively. Contract assets, net consisted of the following at December 31: (dollars in millions) 2025 2024 Revenue recognized in advance of customer billings $ 35,023 $ 30,226 Progress payments ( 17,931 ) ( 15,656 ) Total contract assets, net $ 17,092 $ 14,570 For U.S. government contracts that provide progre",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 387982,
+        "end": 388482
+      }
+    },
+    {
+      "id": "7d705926c58a5a36",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 87711,
+      "excerpt": "4,164 Work-in-process 4,554 4,493 Finished goods 4,137 4,111 Total inventory, net $ 13,364 $ 12,768 Raw materials, work-in-process, and finished goods are net of total valuation reserves of $ 2.3 billion and $ 2.1 billion as of December 31, 2025 and 2024, respectively. NOTE 8: FIXED ASSETS, NET Fixed assets, net, consisted of the following: (dollars in millions) Estimated Useful Lives 2025 2024 Land $ 710 $ 695 Buildings and improvements 10 - 45 years 9,188 8,615 Machinery, tools, and equipment",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 388982,
+        "end": 389541
+      }
+    },
+    {
+      "id": "ee1ae02dae9b8993",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 100408,
+      "excerpt": "sion and PRB non-current liabilities shown above, Future pension and postretirement benefit obligations on the Consolidated Balance Sheet includes other immaterial pension and PRB-related liabilities. 86 Table of Contents Information for pension plans with accumulated benefit obligations in excess of plan assets: (dollars in millions) 2025 2024 Projected benefit obligation $ 3,311 $ 3,260 Accumulated benefit obligation 3,284 3,239 Fair value of plan assets 1,634 1,537 The accumulated benefit obl",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 401679,
+        "end": 402179
+      }
+    },
+    {
+      "id": "569879eb35d1640f",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 103377,
+      "excerpt": "odic Pension Income 2025 2024 2025 2024 2023 Discount rate PBO 5.3 % 5.6 % 5.6 % 5.1 % 5.5 % Interest cost (1) N/A N/A 5.3 % 5.0 % 5.3 % Service cost (1) N/A N/A 5.6 % 5.0 % 5.4 % Salary scale 4.4 % 4.4 % 4.4 % 4.4 % 4.4 % Expected return on plan assets N/A N/A 7.1 % 7.1 % 7.1 % Interest crediting rate 5.0 % 5.0 % 5.0 % 5.0 % 4.4 % (1) The discount rates used to measure the service cost and interest cost applies to our significant plans. The PBO discount rate is used for the service cost and int",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 404648,
+        "end": 405148
+      }
+    },
+    {
+      "id": "08f055ab00f7e00d",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 104245,
+      "excerpt": "ost components of net periodic pension income by applying the specific spot rates along the yield curve used in determination of the benefit obligation to the relevant discounted projected cash flows. In determining the EROA assumption, we consider the target asset allocation of plan assets, as well as economic and other indicators of future performance. We consult with and consider the opinions of financial and other professionals in determining the appropriate capital market assumptions. Retur",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 405516,
+        "end": 406016
+      }
+    },
+    {
+      "id": "6a1fdb025efd2ca9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 127753,
+      "excerpt": ": Foreign exchange contracts Other assets, current $ 79 $ 10 Other accrued liabilities 11 101 At December 31, 2025, all derivative contracts accounted for as cash flow hedges will mature b y May 2036. Cash receipts or payments on derivatives designated as cash flow hedges are recorded in Other operating activities, net within the Consolidated Statement of Cash Flows. The Company utilizes the critical terms match method for cash flow hedges in assessing derivatives for hedge effectiveness. Gains",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 429024,
+        "end": 429583
+      }
+    },
+    {
+      "id": "daf15265a002ced9",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 142528,
+      "excerpt": "o engage in activities supporting local defense or commercial industries, promoting a balance of trade, developing in-country technology capabilities, or addressing other local development priorities. Offset agreements may be satisfied through activities that do not require a direct cash payment, including transferring technology, providing manufacturing, training, and other consulting support to in-country projects, and the purchase by third parties (e.g., our vendors) of supplies from in-count",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 443799,
+        "end": 444299
+      }
+    },
+    {
+      "id": "276b5eaecf974b30",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 151150,
+      "excerpt": "1100 GTF powered A320neo aircraft, which required accelerated inspections and engine removals covering an initial subset of operational engines, no later than 100 Table of Contents September 15, 2023. During the third quarter of 2023, through its safety management system, Pratt & Whitney continued its engineering and industrial assessment, which resulted in an updated fleet management plan for the remaining PW1100 fleet. This updated plan requires a combination of part inspections and retirement",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 452421,
+        "end": 452921
+      }
+    },
+    {
+      "id": "96787c920a9f342a",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 172039,
+      "excerpt": "settlement was due to the significant increase in the price of our common stock during the ASR term. The final average price under the ASR was $ 94.28 per share. Accumulated Other Comprehensive Loss. A summary of the changes in each component of Accumulated other comprehensive loss, net of tax is provided below: (dollars in millions) Foreign Currency Translation (1) Defined Benefit Pension and Postretirement Plans Unrealized Hedging (Losses) Gains Accumulated Other Comprehensive Loss Balance at",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 473311,
+        "end": 473870
+      }
+    },
+    {
+      "id": "aaefdddbf5b787dc",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 173039,
+      "excerpt": "alance at December 31, 2024 $ ( 949 ) $ ( 2,679 ) $ ( 127 ) $ ( 3,755 ) Other comprehensive income (loss) before reclassifications, net 1,454 ( 910 ) 278 822 Amounts reclassified, pre-tax ( 18 ) 118 6 106 Tax benefit (expense) 5 167 ( 63 ) 109 Balance at December 31, 2025 $ 492 $ ( 3,304 ) $ 94 $ ( 2,718 ) (1) The amount of foreign currency translation recognized in Other Comprehensive Income (loss) (OCI) includes gains (losses) relating to net investment hedges, as further discussed in “Note 13",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 474310,
+        "end": 474810
+      }
+    },
+    {
+      "id": "bde473c1310417a7",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 173935,
+      "excerpt": "the annuity buy-out conversion. These costs are recorded as components of net periodic benefit (income) expense for each period presented. See “Note 10: Employee Benefit Plans” for additional details. 104 Table of Contents NOTE 19: STOCK-BASED COMPENSATION RTX’s long-term incentive plans authorize various types of market and performance-based incentive awards that may be granted to officers and key employees. The RTX Corporation Long-Term Incentive Plan (LTIP), was last amended on October 29, 20",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 475206,
+        "end": 475706
+      }
+    },
+    {
+      "id": "bc25b1f4f41e237f",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 181273,
+      "excerpt": "anagement organization has general operating autonomy over diversified products and services. Collins Aerospace is a leading global provider of technologically advanced aerospace and defense products. Collins’ solutions include aftermarket services for civil and military aircraft manufacturers, commercial airlines, and regional, business, and general aviation, as well as for defense and commercial space operations. Aftermarket services include spare parts, overhaul and repair, engineering and te",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 482544,
+        "end": 483044
+      }
+    },
+    {
+      "id": "62942a07e839a37c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 182273,
+      "excerpt": "ms, evacuation systems, landing systems (including landing gear, wheels, and braking systems), communication, navigation, surveillance systems, fire and ice detection and protection systems, integrated avionics, and propeller systems. Collins also designs, manufactures, and supports complete cabin interiors, including seating, oxygen systems, food and beverage preparation, storage and galley systems, lavatory, and wastewater management systems. Collins’ solutions support human space exploration",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 8391,
+        "end": 8950
+      }
+    },
+    {
+      "id": "2f12dcb928e08793",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 183191,
+      "excerpt": "ms, crew escape systems, and simulation and training. Pratt & Whitney is among the world’s leading suppliers of aircraft engines for commercial, military, business jet, and general aviation customers. Pratt & Whitney designs, manufactures, and services large engines for widebody, narrowbody, and large regional aircraft for commercial customers and for fighter, bomber, tanker, and transport aircraft for military customers. Pratt & Whitney also designs, manufactures, and services small engines pow",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 484462,
+        "end": 484962
+      }
+    },
+    {
+      "id": "c141400680e3404e",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 186362,
+      "excerpt": "ital and other investments. Total net sales and operating profit (loss) by segment include inter-segment sales which are generally recorded at cost-plus a specified fee or at a negotiated fixed price. These pricing arrangements may result in margins different than what the purchasing segment realizes on the ultimate third-party sales. We present a FAS/CAS operating adjustment outside of segment results, which represents the difference between the service cost component of our pension and PRB exp",
+      "sectionId": "item_8_financial_statements_and_suppleme",
+      "sectionHeader": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTR",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 487633,
+        "end": 488133
+      }
+    },
+    {
+      "id": "c245eb0904d27e2c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 0,
+      "excerpt": "ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE The information required by Item 10 with respect to directors, the Audit Committee of the Board of Directors, audit committee financial experts, and the procedures by which our shareowners may recommend nominees to our Board of Directors is incorporated herein by reference to the sections of our Proxy Statement for the 2026 Annual Meeting of Shareowners titled “Election of Directors” (including under the subheadings “Nominees” and",
+      "sectionId": "item_10_directors_executive_officers_and",
+      "sectionHeader": "ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE The information required",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 503263,
+        "end": 503822
+      }
+    },
+    {
+      "id": "e04d0bd567fbd08c",
+      "ticker": "RTX",
+      "vendor": null,
+      "charOffset": 792,
+      "excerpt": "oy Brunk President, Collins Aerospace (since July 2024) President, Mission Systems, Collins Aerospace; President, Avionics, Collins Aerospace; President, Interiors, Collins Aerospace 56 Christopher T. Calio Chairman (since April 2025), Chief Executive Officer (since May 2024), and President, RTX Corporation (since March 2023) Chief Operating Officer and Director, RTX Corporation; President, Pratt & Whitney 52 Kevin G. DaSilva Senior Vice President, Treasurer, RTX Corporation (since April 2020) 6",
+      "sectionId": "item_10_directors_executive_officers_and",
+      "sectionHeader": "ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE The information required",
+      "form": "10-K",
+      "filingDate": "2026-02-06",
+      "type": "chunk",
+      "range": {
+        "start": 504055,
+        "end": 504555
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ticker": "NOC",
+  "topicId": "space-economy",
+  "name": "NORTHROP GRUMMAN CORP /DE/",
+  "cik": "0001133421",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-27",
+    "accessionNumber": "0001133421-26-000003",
+    "primaryDocument": "noc-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+  "facts": {
+    "Revenues": {
+      "value": 41954000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-27",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 1100000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-27",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 51377000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-27",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 25803000000,
+      "end": "2017-12-31",
+      "filed": "2018-01-29",
+      "form": "10-K"
+    }
+  },
+  "textLength": 370611,
+  "exportedAt": "2026-06-05T04:10:35.346Z",
+  "localUrls": {
+    "text": "/space-economy/sec/NOC/filing.txt",
+    "metadata": "/space-economy/sec/NOC/metadata.json",
+    "sections": "/space-economy/sec/NOC/sections.json",
+    "evidence": "/space-economy/sec/NOC/evidence.json",
+    "display": "/space-economy/sec/NOC/display.json"
+  }
+}

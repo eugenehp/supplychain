@@ -1,0 +1,792 @@
+{
+  "ticker": "MNTS",
+  "name": "Momentus Inc.",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 30,
+  "byCategory": [
+    {
+      "category": "contract",
+      "count": 17
+    },
+    {
+      "category": "disclosure",
+      "count": 6
+    },
+    {
+      "category": "governance",
+      "count": 5
+    },
+    {
+      "category": "earnings",
+      "count": 1
+    },
+    {
+      "category": "distress",
+      "count": 1
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-06",
+      "count": 4
+    },
+    {
+      "month": "2025-07",
+      "count": 1
+    },
+    {
+      "month": "2025-08",
+      "count": 2
+    },
+    {
+      "month": "2025-09",
+      "count": 4
+    },
+    {
+      "month": "2025-10",
+      "count": 4
+    },
+    {
+      "month": "2025-11",
+      "count": 1
+    },
+    {
+      "month": "2025-12",
+      "count": 4
+    },
+    {
+      "month": "2026-01",
+      "count": 2
+    },
+    {
+      "month": "2026-02",
+      "count": 2
+    },
+    {
+      "month": "2026-04",
+      "count": 3
+    },
+    {
+      "month": "2026-05",
+      "count": 3
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001140361-26-023337",
+      "filingDate": "2026-05-29",
+      "reportDate": "2026-05-26",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126023337/ef20075150_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-022497",
+      "filingDate": "2026-05-22",
+      "reportDate": "2026-05-19",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126022497/ef20074640_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-019009",
+      "filingDate": "2026-05-05",
+      "reportDate": "2026-05-05",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126019009/ef20072374_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-015530",
+      "filingDate": "2026-04-20",
+      "reportDate": "2026-04-17",
+      "items": [
+        {
+          "code": "1.02",
+          "label": "Material agreement terminated",
+          "category": "contract"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement terminated",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126015530/ef20070972_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-014988",
+      "filingDate": "2026-04-16",
+      "reportDate": "2026-04-14",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126014988/ef20070575_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-014365",
+      "filingDate": "2026-04-13",
+      "reportDate": "2026-04-13",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126014365/ef20070362_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-006335",
+      "filingDate": "2026-02-20",
+      "reportDate": "2026-02-20",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126006335/ef20066258_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-004972",
+      "filingDate": "2026-02-12",
+      "reportDate": "2026-02-06",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126004972/ef20065509_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-001016",
+      "filingDate": "2026-01-13",
+      "reportDate": "2026-01-09",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.03",
+          "label": "Material modification to security holder rights",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Material modification to security holder rights; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126001016/ef20062613_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-26-000853",
+      "filingDate": "2026-01-09",
+      "reportDate": "2026-01-05",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036126000853/ef20062616_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-046720",
+      "filingDate": "2025-12-29",
+      "reportDate": "2025-12-23",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.03",
+          "label": "Material modification to security holder rights",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Material modification to security holder rights; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125046720/ef20061954_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-045491",
+      "filingDate": "2025-12-15",
+      "reportDate": "2025-12-15",
+      "items": [
+        {
+          "code": "3.03",
+          "label": "Material modification to security holder rights",
+          "category": "governance"
+        },
+        {
+          "code": "5.03",
+          "label": "Amendments to charter or bylaws",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Material modification to security holder rights; Amendments to charter or bylaws; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125045491/ef20061090_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-045310",
+      "filingDate": "2025-12-12",
+      "reportDate": "2025-12-09",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125045310/ef20061056_8-k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-045087",
+      "filingDate": "2025-12-10",
+      "reportDate": "2025-12-05",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Unregistered equity sale",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125045087/ef20061002_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-043134",
+      "filingDate": "2025-11-24",
+      "reportDate": "2025-11-24",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125043134/ny20047547x42_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-038203",
+      "filingDate": "2025-10-15",
+      "reportDate": "2025-10-14",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125038203/ef20057132_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-037763",
+      "filingDate": "2025-10-09",
+      "reportDate": "2025-10-09",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125037763/ef20056825_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-037391",
+      "filingDate": "2025-10-06",
+      "reportDate": "2025-09-30",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125037391/ny20047547x36_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-036869",
+      "filingDate": "2025-10-01",
+      "reportDate": "2025-09-30",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125036869/ef20056502_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-036535",
+      "filingDate": "2025-09-29",
+      "reportDate": "2025-09-25",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125036535/ny20047547x33_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-036125",
+      "filingDate": "2025-09-25",
+      "reportDate": "2025-09-19",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125036125/ef20056044_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-035420",
+      "filingDate": "2025-09-18",
+      "reportDate": "2025-09-17",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125035420/ef20055710_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-034600",
+      "filingDate": "2025-09-11",
+      "reportDate": "2025-09-08",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125034600/ef20055431_form8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-031042",
+      "filingDate": "2025-08-14",
+      "reportDate": "2025-08-13",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125031042/ef20053912_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-029141",
+      "filingDate": "2025-08-06",
+      "reportDate": "2025-08-01",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125029141/ny20047547x26_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-024623",
+      "filingDate": "2025-07-02",
+      "reportDate": "2025-06-30",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125024623/ny20047547x22_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-024111",
+      "filingDate": "2025-06-30",
+      "reportDate": "2025-06-30",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125024111/ny20047547x20_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-023559",
+      "filingDate": "2025-06-25",
+      "reportDate": "2025-06-24",
+      "items": [
+        {
+          "code": "3.01",
+          "label": "Notice of delisting / non-compliance",
+          "category": "distress"
+        }
+      ],
+      "category": "distress",
+      "summary": "Notice of delisting / non-compliance",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125023559/ef20051048_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-023204",
+      "filingDate": "2025-06-20",
+      "reportDate": "2025-06-17",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "1.02",
+          "label": "Material agreement terminated",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material agreement terminated; Material direct financial obligation; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125023204/ny20047547x15_8k.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-021550",
+      "filingDate": "2025-06-05",
+      "reportDate": "2025-05-30",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Unregistered equity sale; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781162/000114036125021550/ny20047547x10_8k.htm"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "ticker": "LHX",
+  "topicId": "space-economy",
+  "product": "L3Harris / Aerojet Rocketdyne",
+  "segment": "propulsion",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-12",
+    "accessionNumber": "0000202058-26-000015",
+    "primaryDocument": "hrs-20260102.htm",
+    "reportDate": "2026-01-02"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000015/hrs-20260102.htm",
+  "summary": {
+    "nodeCount": 8,
+    "linkCount": 7,
+    "totalFlow": 11,
+    "filingChars": 364329,
+    "mentionDensity": 0.03,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Optics & imaging",
+        "score": 8
+      },
+      {
+        "subsystem": "Propulsion",
+        "score": 3
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 3
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "explicitSuppliers": 2,
+    "heuristicSuppliers": 0
+  },
+  "nodes": [
+    {
+      "id": "L3Harris / Aerojet Rocketdyne",
+      "name": "L3Harris / Aerojet Rocketdyne",
+      "tier": 0,
+      "group": "product",
+      "description": "LHX 10-K / 20-F · 10-K 2026-02-12",
+      "country": "US",
+      "mentionScore": 11
+    },
+    {
+      "id": "Propulsion",
+      "name": "Propulsion",
+      "tier": 1,
+      "group": "rocket",
+      "description": "Subsystem category — Propulsion",
+      "country": null,
+      "mentionScore": 3,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "Aerojet Rocketdyne",
+      "name": "Aerojet Rocketdyne",
+      "tier": 2,
+      "group": "rocket",
+      "description": "Propulsion · LHX 10-K mentions: 3",
+      "country": "US",
+      "mentionScore": 3,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Inconel / Haynes",
+      "name": "Inconel / Haynes",
+      "tier": 3,
+      "group": "structures",
+      "description": "Raw input — Inconel / Haynes",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Titanium",
+      "name": "Titanium",
+      "tier": 3,
+      "group": "structures",
+      "description": "Raw input — Titanium",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    },
+    {
+      "id": "Optics & imaging",
+      "name": "Optics & imaging",
+      "tier": 1,
+      "group": "optics",
+      "description": "Subsystem category — Optics & imaging",
+      "country": null,
+      "mentionScore": 8,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "EO imager",
+      "name": "EO imager",
+      "tier": 2,
+      "group": "optics",
+      "description": "Optics & imaging · LHX 10-K mentions: 8",
+      "country": null,
+      "mentionScore": 8,
+      "disclosure": "explicit"
+    },
+    {
+      "id": "Focal-plane array",
+      "name": "Focal-plane array",
+      "tier": 3,
+      "group": "optics",
+      "description": "Raw input — Focal-plane array",
+      "country": null,
+      "mentionScore": 1,
+      "disclosure": "industry-modeled"
+    }
+  ],
+  "links": [
+    {
+      "source": "Aerojet Rocketdyne",
+      "target": "Propulsion",
+      "value": 3
+    },
+    {
+      "source": "Inconel / Haynes",
+      "target": "Aerojet Rocketdyne",
+      "value": 1
+    },
+    {
+      "source": "Titanium",
+      "target": "Aerojet Rocketdyne",
+      "value": 1
+    },
+    {
+      "source": "EO imager",
+      "target": "Optics & imaging",
+      "value": 8
+    },
+    {
+      "source": "Focal-plane array",
+      "target": "EO imager",
+      "value": 1
+    },
+    {
+      "source": "Propulsion",
+      "target": "L3Harris / Aerojet Rocketdyne",
+      "value": 3
+    },
+    {
+      "source": "Optics & imaging",
+      "target": "L3Harris / Aerojet Rocketdyne",
+      "value": 8
+    }
+  ]
+}

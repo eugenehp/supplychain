@@ -1,0 +1,51 @@
+{
+  "ticker": "PL",
+  "cik": "0001836833",
+  "name": "Planet Labs PBC",
+  "scrapedAt": "2026-06-04T23:42:17.549Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 307727000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 106749000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 107746000,
+      "end": "2024-01-31",
+      "filed": "2024-03-29",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 172485000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 1145686000,
+      "end": "2026-01-31",
+      "filed": "2026-03-23",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 307727000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-03-23",
+    "accessionNumber": "0001193125-26-119957",
+    "primaryDocument": "pl-20260131.htm",
+    "reportDate": "2026-01-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526119957/pl-20260131.htm",
+  "htmlLength": 5134123
+}

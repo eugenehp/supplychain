@@ -3,8 +3,46 @@
 import { join } from 'node:path';
 import { PATHS, ROOT } from './paths.mjs';
 
-export const EMBEDDING_MODEL = 'Xenova/all-MiniLM-L6-v2';
-export const EMBEDDING_DIM = 384;
+/**
+ * Supported embedding models. Pick via EMBED_MODEL env var.
+ *   EMBED_MODEL=minilm  (default) — Xenova/all-MiniLM-L6-v2, 384d, ~25MB
+ *   EMBED_MODEL=nomic              — Xenova/nomic-embed-text-v1.5, 768d, ~110MB
+ *   EMBED_MODEL=qwen3              — onnx-community/Qwen3-Embedding-0.6B-ONNX, 1024d, ~1.2GB
+ *
+ *   maxTokens — feature-extraction pipeline input cap.
+ *   docPrefix / queryPrefix — Nomic/Qwen3 require task-prefixes for full quality.
+ */
+export const EMBED_PROFILES = {
+  minilm: {
+    id: 'Xenova/all-MiniLM-L6-v2',
+    dim: 384,
+    maxTokens: 512,
+    docPrefix: '',
+    queryPrefix: '',
+    label: 'MiniLM-L6-v2',
+  },
+  nomic: {
+    id: 'Xenova/nomic-embed-text-v1',
+    dim: 768,
+    maxTokens: 768,
+    docPrefix: 'search_document: ',
+    queryPrefix: 'search_query: ',
+    label: 'Nomic Embed Text v1',
+  },
+  qwen3: {
+    id: 'onnx-community/Qwen3-Embedding-0.6B-ONNX',
+    dim: 1024,
+    maxTokens: 1024,
+    docPrefix: '',
+    queryPrefix: 'Represent this query for searching relevant passages: ',
+    label: 'Qwen3 Embedding 0.6B',
+  },
+};
+
+const PROFILE_KEY = (process.env.EMBED_MODEL ?? 'minilm').toLowerCase();
+export const EMBED_PROFILE = EMBED_PROFILES[PROFILE_KEY] ?? EMBED_PROFILES.minilm;
+export const EMBEDDING_MODEL = EMBED_PROFILE.id;
+export const EMBEDDING_DIM = EMBED_PROFILE.dim;
 
 /** @type {Promise<(text: string, opts?: object) => Promise<{ data: Float32Array }>> | null} */
 let embedPipelinePromise = null;
@@ -29,19 +67,27 @@ export function evidenceEmbedText(entry) {
   return [entry.excerpt, entry.vendor, entry.sectionHeader, entry.ticker].filter(Boolean).join(' ');
 }
 
-export async function embedText(text) {
+function prefixed(text, isQuery = false) {
+  const prefix = isQuery ? EMBED_PROFILE.queryPrefix : EMBED_PROFILE.docPrefix;
+  return prefix ? prefix + text : text;
+}
+
+export async function embedText(text, { isQuery = false } = {}) {
   const pipe = await getEmbedPipeline();
-  const out = await pipe(text.slice(0, 512), { pooling: 'mean', normalize: true });
+  const input = prefixed(text, isQuery).slice(0, EMBED_PROFILE.maxTokens * 4);
+  const out = await pipe(input, { pooling: 'mean', normalize: true });
   return new Float32Array(out.data);
 }
 
-export async function embedTexts(texts, { batchSize = 32, onProgress = null } = {}) {
+export async function embedTexts(texts, { batchSize = 32, onProgress = null, isQuery = false } = {}) {
   const pipe = await getEmbedPipeline();
   const vectors = [];
+  const charCap = EMBED_PROFILE.maxTokens * 4;
   for (let i = 0; i < texts.length; i += batchSize) {
     const batch = texts.slice(i, i + batchSize);
     for (const text of batch) {
-      const out = await pipe(text.slice(0, 512), { pooling: 'mean', normalize: true });
+      const input = prefixed(text, isQuery).slice(0, charCap);
+      const out = await pipe(input, { pooling: 'mean', normalize: true });
       vectors.push(new Float32Array(out.data));
     }
     onProgress?.(Math.min(i + batch.length, texts.length), texts.length);

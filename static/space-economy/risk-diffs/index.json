@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-05T02:13:57.058Z",
+  "topicId": "space-economy",
+  "tickers": [
+    {
+      "ticker": "ASTS",
+      "addedCount": 133,
+      "removedCount": 407,
+      "currentDate": "2026-03-02",
+      "priorDate": "2025-03-03",
+      "error": null
+    },
+    {
+      "ticker": "BA",
+      "addedCount": 55,
+      "removedCount": 133,
+      "currentDate": "2026-01-30",
+      "priorDate": "2025-02-03",
+      "error": null
+    },
+    {
+      "ticker": "BKSY",
+      "addedCount": 66,
+      "removedCount": 191,
+      "currentDate": "2026-03-17",
+      "priorDate": "2025-03-20",
+      "error": null
+    },
+    {
+      "ticker": "GSAT",
+      "addedCount": 30,
+      "removedCount": 581,
+      "currentDate": "2026-02-27",
+      "priorDate": "2025-02-28",
+      "error": null
+    },
+    {
+      "ticker": "IRDM",
+      "addedCount": 54,
+      "removedCount": 238,
+      "currentDate": "2026-02-12",
+      "priorDate": "2025-02-13",
+      "error": null
+    },
+    {
+      "ticker": "LHX",
+      "addedCount": 40,
+      "removedCount": 346,
+      "currentDate": "2026-02-12",
+      "priorDate": "2025-02-14",
+      "error": null
+    },
+    {
+      "ticker": "LMT",
+      "addedCount": 37,
+      "removedCount": 292,
+      "currentDate": "2026-01-29",
+      "priorDate": "2025-01-28",
+      "error": null
+    },
+    {
+      "ticker": "MNTS",
+      "addedCount": 107,
+      "removedCount": 91,
+      "currentDate": "2026-03-31",
+      "priorDate": "2025-04-01",
+      "error": null
+    },
+    {
+      "ticker": "NOC",
+      "addedCount": 91,
+      "removedCount": 80,
+      "currentDate": "2026-01-27",
+      "priorDate": "2025-01-30",
+      "error": null
+    },
+    {
+      "ticker": "PL",
+      "addedCount": 176,
+      "removedCount": 132,
+      "currentDate": "2026-03-23",
+      "priorDate": "2025-03-26",
+      "error": null
+    },
+    {
+      "ticker": "RDW",
+      "addedCount": 158,
+      "removedCount": 330,
+      "currentDate": "2026-02-27",
+      "priorDate": "2025-03-11",
+      "error": null
+    },
+    {
+      "ticker": "RKLB",
+      "addedCount": 60,
+      "removedCount": 52,
+      "currentDate": "2026-02-26",
+      "priorDate": "2025-02-27",
+      "error": null
+    },
+    {
+      "ticker": "RTX",
+      "addedCount": 14,
+      "removedCount": 93,
+      "currentDate": "2026-02-06",
+      "priorDate": "2025-02-03",
+      "error": null
+    },
+    {
+      "ticker": "SPIR",
+      "addedCount": 139,
+      "removedCount": 739,
+      "currentDate": "2026-03-19",
+      "priorDate": "2025-03-31",
+      "error": null
+    },
+    {
+      "ticker": "VSAT",
+      "addedCount": 350,
+      "removedCount": 0,
+      "currentDate": "2026-05-29",
+      "priorDate": "2025-05-27",
+      "error": null
+    }
+  ]
+}

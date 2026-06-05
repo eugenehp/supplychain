@@ -1,0 +1,277 @@
+{
+  "ticker": "BKSY",
+  "name": "BlackSky Technology Inc.",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 10,
+  "byCategory": [
+    {
+      "category": "earnings",
+      "count": 5
+    },
+    {
+      "category": "contract",
+      "count": 3
+    },
+    {
+      "category": "governance",
+      "count": 2
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-07",
+      "count": 2
+    },
+    {
+      "month": "2025-08",
+      "count": 1
+    },
+    {
+      "month": "2025-09",
+      "count": 1
+    },
+    {
+      "month": "2025-11",
+      "count": 1
+    },
+    {
+      "month": "2025-12",
+      "count": 1
+    },
+    {
+      "month": "2026-02",
+      "count": 1
+    },
+    {
+      "month": "2026-04",
+      "count": 1
+    },
+    {
+      "month": "2026-05",
+      "count": 2
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001628280-26-037716",
+      "filingDate": "2026-05-22",
+      "reportDate": "2026-05-22",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000162828026037716/bksy-20260522.htm"
+    },
+    {
+      "accessionNumber": "0001753539-26-000057",
+      "filingDate": "2026-05-07",
+      "reportDate": "2026-05-07",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000057/bksy-20260507.htm"
+    },
+    {
+      "accessionNumber": "0001753539-26-000045",
+      "filingDate": "2026-04-07",
+      "reportDate": "2026-04-07",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000045/bksy-20260407.htm"
+    },
+    {
+      "accessionNumber": "0001753539-26-000009",
+      "filingDate": "2026-02-26",
+      "reportDate": "2026-02-26",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000009/bksy-20260226.htm"
+    },
+    {
+      "accessionNumber": "0001628280-25-056784",
+      "filingDate": "2025-12-12",
+      "reportDate": "2025-12-12",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000162828025056784/bksy-20251212.htm"
+    },
+    {
+      "accessionNumber": "0001753539-25-000103",
+      "filingDate": "2025-11-06",
+      "reportDate": "2025-11-06",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353925000103/bksy-20251106.htm"
+    },
+    {
+      "accessionNumber": "0001753539-25-000097",
+      "filingDate": "2025-09-11",
+      "reportDate": "2025-09-10",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353925000097/bksy-20250910.htm"
+    },
+    {
+      "accessionNumber": "0001753539-25-000091",
+      "filingDate": "2025-08-07",
+      "reportDate": "2025-08-07",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353925000091/bksy-20250807.htm"
+    },
+    {
+      "accessionNumber": "0001753539-25-000073",
+      "filingDate": "2025-07-22",
+      "reportDate": "2025-07-17",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "1.02",
+          "label": "Material agreement terminated",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material agreement terminated; Material direct financial obligation; Unregistered equity sale; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353925000073/bksy-20250717.htm"
+    },
+    {
+      "accessionNumber": "0001753539-25-000067",
+      "filingDate": "2025-07-17",
+      "reportDate": "2025-07-17",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Regulation FD disclosure",
+      "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353925000067/bksy-20250717.htm"
+    }
+  ]
+}

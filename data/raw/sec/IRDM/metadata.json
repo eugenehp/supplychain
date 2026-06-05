@@ -1,0 +1,51 @@
+{
+  "ticker": "IRDM",
+  "cik": "0001418819",
+  "name": "Iridium Communications Inc.",
+  "scrapedAt": "2026-06-04T23:42:15.371Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 871659000,
+      "end": "2025-12-31",
+      "filed": "2026-02-12",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 871659000,
+      "end": "2025-12-31",
+      "filed": "2026-02-12",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 19758000,
+      "end": "2025-12-31",
+      "filed": "2026-02-12",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 2531009000,
+      "end": "2025-12-31",
+      "filed": "2026-02-12",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 448046000,
+      "end": "2017-12-31",
+      "filed": "2018-02-22",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 871659000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-12",
+    "accessionNumber": "0001418819-26-000009",
+    "primaryDocument": "irdm-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000009/irdm-20251231.htm",
+  "htmlLength": 1905707
+}

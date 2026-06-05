@@ -81,7 +81,7 @@
           role="gridcell"
           aria-pressed={selectedSymbol === cell.symbol}
           aria-label="{cell.name}, atomic number {cell.atomicNumber}"
-          title="{cell.importance ? `${cell.name}: ${cell.importance}` : cell.name}"
+          title={cell.importance ? cell.name + ': ' + cell.importance : cell.name}
           onclick={() => onselect?.(cell.symbol)}
         >
           <span class="text-muted-foreground text-[8px] leading-none sm:text-[9px]">{cell.atomicNumber}</span>

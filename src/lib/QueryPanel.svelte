@@ -17,11 +17,19 @@
   import * as ScrollArea from '$lib/components/ui/scroll-area/index.js';
   import { cn } from '$lib/utils.js';
 
-  /** @type {{ topicId?: string }} */
-  let { topicId = 'nvidia-h200' } = $props();
+  /** @type {{ topicId?: string, suggestions?: string[], tickerOptions?: string[], title?: string, description?: string, placeholder?: string }} */
+  let {
+    topicId = 'nvidia-h200',
+    suggestions = null,
+    tickerOptions = null,
+    title = 'SEC filing search',
+    description = null,
+    placeholder = 'e.g. CoWoS TSMC single source supplier',
+  } = $props();
 
-  const SUGGESTIONS = ['HBM', 'GaN', 'CoWoS TSMC', 'sole source', 'EUV lithography', 'advanced packaging'];
-  const TICKERS = ['', 'NVDA', 'TSM', 'ASML', 'AMAT', 'LRCX', 'KLAC', 'SNPS', 'CDNS', 'MU'];
+  const DEFAULT_SUGGESTIONS = ['HBM', 'GaN', 'CoWoS TSMC', 'sole source', 'EUV lithography', 'advanced packaging'];
+  const DEFAULT_TICKERS = ['NVDA', 'TSM', 'ASML', 'AMAT', 'LRCX', 'KLAC', 'SNPS', 'CDNS', 'MU'];
+  const SUGGESTIONS = $derived(suggestions?.length ? suggestions : DEFAULT_SUGGESTIONS);
   const SEARCH_MODES = [
     { value: 'hybrid', label: 'Hybrid' },
     { value: 'exact', label: 'Exact match' },
@@ -48,6 +56,16 @@
 
   const tickerLabel = $derived(ticker ? ticker : 'All tickers');
   const modeLabel = $derived(SEARCH_MODES.find((m) => m.value === searchMode)?.label ?? 'Hybrid');
+  const availableTickers = $derived(
+    tickerOptions?.length
+      ? tickerOptions
+      : stats?.tickers?.length
+        ? [...stats.tickers]
+        : DEFAULT_TICKERS,
+  );
+  const defaultDescription = $derived(
+    'Search ' + (stats?.documents?.toLocaleString() ?? '…') + ' indexed chunks entirely in your browser.',
+  );
 
   function openFilingFromChunk(chunk) {
     if (!chunk?.ticker) return;
@@ -108,6 +126,18 @@
     });
   }
 
+  /**
+   * Imperative entry point — parent components can prefill query/mode/ticker and trigger a search.
+   * Used by the Research questions panel's "Run as query" buttons.
+   * @param {{ query: string, mode?: string, ticker?: string }} params
+   */
+  export function runWithQuery({ query: q, mode, ticker: t }) {
+    if (typeof q === 'string') query = q;
+    if (mode && SEARCH_MODES.some((m) => m.value === mode)) searchMode = mode;
+    if (typeof t === 'string') ticker = t;
+    void runQuery();
+  }
+
   async function runQuery() {
     if (!query.trim()) return;
     loading = true;
@@ -162,9 +192,9 @@
 <Card.Root class="ui-panel-fill">
   <Card.Header class="flex flex-row flex-wrap items-start justify-between gap-4 space-y-0">
     <div class="space-y-1">
-      <Card.Title>SEC filing search</Card.Title>
+      <Card.Title>{title}</Card.Title>
       <Card.Description>
-        Search {stats?.documents?.toLocaleString() ?? '…'} indexed chunks entirely in your browser.
+        {description ?? defaultDescription}
       </Card.Description>
     </div>
     {#if stats && !indexLoading}
@@ -189,7 +219,7 @@
         <Input
           id="rag-query"
           bind:value={query}
-          placeholder="e.g. CoWoS TSMC single source supplier"
+          {placeholder}
           onkeydown={(e) => e.key === 'Enter' && runQuery()}
           disabled={indexLoading}
         />
@@ -203,7 +233,7 @@
           </Select.Trigger>
           <Select.Content>
             <Select.Item value="" label="All tickers">All tickers</Select.Item>
-            {#each TICKERS.filter(Boolean) as t}
+            {#each availableTickers as t}
               <Select.Item value={t} label={t}>{t}</Select.Item>
             {/each}
           </Select.Content>
@@ -300,7 +330,7 @@
           </h3>
           <ScrollArea.Root class="min-h-[10rem] pr-3">
             <div class="space-y-2">
-              {#each results.vendors as v (`${v.name}|${v.ticker}`)}
+              {#each results.vendors as v (v.name + '|' + v.ticker)}
                 <button
                   type="button"
                   class="hover:bg-muted/60 w-full rounded-lg border bg-card p-4 text-left text-sm transition-colors"

@@ -4,161 +4,161 @@
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg",
     "bytes": 3613,
-    "fetchedAt": "2026-06-03T05:51:12.141Z"
+    "fetchedAt": "2026-06-05T03:31:31.288Z"
   },
   "TSM": {
-    "source": "wikidata",
-    "ext": "svg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/TSMC_wordmark.svg",
-    "bytes": 4774,
-    "fetchedAt": "2026-06-03T05:51:14.570Z"
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://storage.googleapis.com/iex/api/logos/TSM.png",
+    "bytes": 9975,
+    "fetchedAt": "2026-06-05T03:31:35.317Z"
   },
   "ASML": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ASML_Logo.svg",
     "bytes": 10411,
-    "fetchedAt": "2026-06-03T05:51:06.166Z"
+    "fetchedAt": "2026-06-05T03:31:19.938Z"
   },
   "AMAT": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Applied_Materials_Logo.svg",
     "bytes": 13416,
-    "fetchedAt": "2026-06-03T05:51:04.557Z"
+    "fetchedAt": "2026-06-05T03:31:18.346Z"
   },
   "LRCX": {
-    "source": "wikidata",
-    "ext": "svg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lam-Research-Logo.svg",
-    "bytes": 12215,
-    "fetchedAt": "2026-06-03T05:51:10.424Z"
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://storage.googleapis.com/iex/api/logos/LRCX.png",
+    "bytes": 6967,
+    "fetchedAt": "2026-06-05T03:31:27.807Z"
   },
   "KLAC": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/KLA_Corp._logo.svg",
     "bytes": 1323,
-    "fetchedAt": "2026-06-03T05:51:10.053Z"
+    "fetchedAt": "2026-06-05T03:31:26.418Z"
   },
   "SNPS": {
-    "source": "wikidata",
-    "ext": "svg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Synopsys_Logo.svg",
-    "bytes": 4058,
-    "fetchedAt": "2026-06-03T05:51:13.962Z"
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://storage.googleapis.com/iex/api/logos/SNPS.png",
+    "bytes": 5608,
+    "fetchedAt": "2026-06-05T03:31:34.219Z"
   },
   "CDNS": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cadence-Logo.svg",
     "bytes": 4091,
-    "fetchedAt": "2026-06-03T05:51:07.415Z"
+    "fetchedAt": "2026-06-05T03:31:23.063Z"
   },
   "MU": {
-    "source": "wikidata",
-    "ext": "svg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Micron_Technology_logo_2024.svg",
-    "bytes": 2735,
-    "fetchedAt": "2026-06-03T05:51:11.776Z"
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/MU.png",
+    "bytes": 10893,
+    "fetchedAt": "2026-06-05T03:31:30.227Z"
   },
   "AMD": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg",
     "bytes": 694,
-    "fetchedAt": "2026-06-03T05:51:04.896Z"
+    "fetchedAt": "2026-06-05T03:31:18.723Z"
   },
   "AMKR": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Amkor_Technology_logo.svg",
     "bytes": 15969,
-    "fetchedAt": "2026-06-03T05:51:05.235Z"
+    "fetchedAt": "2026-06-05T03:31:19.152Z"
   },
   "GFS": {
     "source": "legacy",
     "ext": "png",
     "url": "https://financialmodelingprep.com/image-stock/GFS.png",
     "bytes": 8012,
-    "fetchedAt": "2026-06-03T05:51:07.931Z"
+    "fetchedAt": "2026-06-05T03:31:23.547Z"
   },
   "INTC": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Intel_logo_%281968-2006%29.svg",
     "bytes": 1810,
-    "fetchedAt": "2026-06-03T05:51:09.348Z"
+    "fetchedAt": "2026-06-05T03:31:25.581Z"
   },
   "AMZN": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
     "bytes": 5530,
-    "fetchedAt": "2026-06-03T05:51:05.641Z"
+    "fetchedAt": "2026-06-05T03:31:19.525Z"
   },
   "MSFT": {
-    "source": "wikidata",
+    "source": "legacy",
     "ext": "png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Microsoft_logo_%281981%29.png",
-    "bytes": 44684,
-    "fetchedAt": "2026-06-03T05:51:11.434Z"
+    "url": "https://storage.googleapis.com/iex/api/logos/MSFT.png",
+    "bytes": 524,
+    "fetchedAt": "2026-06-05T03:31:29.558Z"
   },
   "GOOGL": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alphabet_Inc_Logo_2015.svg",
     "bytes": 2345,
-    "fetchedAt": "2026-06-03T05:51:08.265Z"
+    "fetchedAt": "2026-06-05T03:31:23.916Z"
   },
   "META": {
-    "source": "wikidata",
-    "ext": "svg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Facebook%2C_Inc._Logo_2019.svg",
-    "bytes": 3313,
-    "fetchedAt": "2026-06-03T05:51:10.784Z"
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/META.png",
+    "bytes": 16236,
+    "fetchedAt": "2026-06-05T03:31:28.452Z"
   },
   "BIDU": {
     "source": "legacy",
     "ext": "png",
     "url": "https://storage.googleapis.com/iex/api/logos/BIDU.png",
     "bytes": 7462,
-    "fetchedAt": "2026-06-03T05:51:06.504Z"
+    "fetchedAt": "2026-06-05T03:31:21.130Z"
   },
   "HW": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Huawei_wordmark.svg",
     "bytes": 3499,
-    "fetchedAt": "2026-06-03T05:51:08.968Z"
+    "fetchedAt": "2026-06-05T03:31:25.113Z"
   },
   "SN": {
     "source": "legacy",
     "ext": "png",
     "url": "https://storage.googleapis.com/iex/api/logos/SN.png",
     "bytes": 12666,
-    "fetchedAt": "2026-06-03T05:51:13.585Z"
+    "fetchedAt": "2026-06-05T03:31:33.784Z"
   },
   "TT": {
     "source": "legacy",
     "ext": "png",
     "url": "https://storage.googleapis.com/iex/api/logos/TT.png",
     "bytes": 2095,
-    "fetchedAt": "2026-06-03T05:51:14.924Z"
+    "fetchedAt": "2026-06-05T03:31:35.721Z"
   },
   "CB": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cerebras_logo.svg",
     "bytes": 8009,
-    "fetchedAt": "2026-06-03T05:51:06.910Z"
+    "fetchedAt": "2026-06-05T03:31:22.612Z"
   },
   "GQ": {
     "source": "wikidata",
     "ext": "svg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Groq_logo.svg",
     "bytes": 2754,
-    "fetchedAt": "2026-06-03T05:51:08.624Z"
+    "fetchedAt": "2026-06-05T03:31:24.301Z"
   },
   "AREC": {
     "source": "legacy",
@@ -194,5 +194,110 @@
     "url": "https://storage.googleapis.com/iex/api/logos/UUUU.png",
     "bytes": 9264,
     "fetchedAt": "2026-06-03T05:51:15.269Z"
+  },
+  "ASTS": {
+    "source": "wikidata",
+    "ext": "png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/AST_SpaceMobile_logo.png",
+    "bytes": 29940,
+    "fetchedAt": "2026-06-05T03:31:20.414Z"
+  },
+  "BA": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Boeing_full_logo.svg",
+    "bytes": 2402,
+    "fetchedAt": "2026-06-05T03:31:20.804Z"
+  },
+  "BKSY": {
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/BKSY.png",
+    "bytes": 3275,
+    "fetchedAt": "2026-06-05T03:31:22.252Z"
+  },
+  "GSAT": {
+    "source": "wikidata",
+    "ext": "png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Globalstar_Logo.png",
+    "bytes": 15867,
+    "fetchedAt": "2026-06-05T03:31:24.709Z"
+  },
+  "IRDM": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Iridium-Logo.svg",
+    "bytes": 6888,
+    "fetchedAt": "2026-06-05T03:31:25.976Z"
+  },
+  "LHX": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/L3Harris_Technologies_logo.svg",
+    "bytes": 3606,
+    "fetchedAt": "2026-06-05T03:31:26.972Z"
+  },
+  "LMT": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lockheed_Martin_logo_%282011%E2%80%932022%29.svg",
+    "bytes": 3708,
+    "fetchedAt": "2026-06-05T03:31:27.328Z"
+  },
+  "MNTS": {
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/MNTS.png",
+    "bytes": 16963,
+    "fetchedAt": "2026-06-05T03:31:29.074Z"
+  },
+  "NOC": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Northrop_Grumman_logo_blue-on-clear_2020.svg",
+    "bytes": 3675,
+    "fetchedAt": "2026-06-05T03:31:30.589Z"
+  },
+  "PL": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Planet_Labs_logo.svg",
+    "bytes": 1877,
+    "fetchedAt": "2026-06-05T03:31:31.632Z"
+  },
+  "RDW": {
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/RDW.png",
+    "bytes": 19486,
+    "fetchedAt": "2026-06-05T03:31:32.265Z"
+  },
+  "RKLB": {
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/RKLB.png",
+    "bytes": 5313,
+    "fetchedAt": "2026-06-05T03:31:32.852Z"
+  },
+  "RTX": {
+    "source": "wikidata",
+    "ext": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raytheon_Technologies_logo.svg",
+    "bytes": 19361,
+    "fetchedAt": "2026-06-05T03:31:33.223Z"
+  },
+  "SPIR": {
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://financialmodelingprep.com/image-stock/SPIR.png",
+    "bytes": 31975,
+    "fetchedAt": "2026-06-05T03:31:34.903Z"
+  },
+  "VSAT": {
+    "source": "legacy",
+    "ext": "png",
+    "url": "https://storage.googleapis.com/iex/api/logos/VSAT.png",
+    "bytes": 4766,
+    "fetchedAt": "2026-06-05T03:31:36.153Z"
   }
 }

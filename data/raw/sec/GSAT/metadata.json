@@ -1,0 +1,45 @@
+{
+  "ticker": "GSAT",
+  "cik": "0001366868",
+  "name": "Globalstar, Inc.",
+  "scrapedAt": "2026-06-04T23:42:14.671Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 31835000,
+      "end": "2019-12-31",
+      "filed": "2020-02-28",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 272986000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 6100000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 2326265000,
+      "end": "2025-12-31",
+      "filed": "2026-02-27",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 31835000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-02-27",
+    "accessionNumber": "0001366868-26-000012",
+    "primaryDocument": "gsat-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/1366868/000136686826000012/gsat-20251231.htm",
+  "htmlLength": 1972690
+}

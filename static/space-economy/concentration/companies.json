@@ -1,0 +1,1310 @@
+{
+  "generatedAt": "2026-06-05T03:20:03.723Z",
+  "topicId": "space-economy",
+  "buckets": [
+    {
+      "id": "diversified",
+      "threshold": 0,
+      "label": "Diversified (HHI < 0.15)"
+    },
+    {
+      "id": "moderate",
+      "threshold": 0.15,
+      "label": "Moderate (0.15–0.25)"
+    },
+    {
+      "id": "concentrated",
+      "threshold": 0.25,
+      "label": "Concentrated (0.25–0.50)"
+    },
+    {
+      "id": "highly-concentrated",
+      "threshold": 0.5,
+      "label": "Highly concentrated (0.50–0.75)"
+    },
+    {
+      "id": "sole-source",
+      "threshold": 0.75,
+      "label": "Sole-source exposure (HHI ≥ 0.75)"
+    }
+  ],
+  "companies": [
+    {
+      "ticker": "ASTS",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 92,
+      "weightedHHI": 0.666,
+      "overallBucket": "highly-concentrated",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "RF & antenna",
+          "hhi": 0.939,
+          "topSupplier": "Phased-array antenna",
+          "totalMentions": 32
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "rf",
+          "label": "RF & antenna",
+          "totalMentions": 32,
+          "supplierCount": 2,
+          "topSupplier": "Phased-array antenna",
+          "hhi": 0.939,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Phased-array antenna",
+              "mentions": 31,
+              "share": 0.969
+            },
+            {
+              "supplier": "Ka / Ku band electronics",
+              "mentions": 1,
+              "share": 0.031
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 58,
+          "supplierCount": 3,
+          "topSupplier": "Inmarsat ELERA",
+          "hhi": 0.504,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "Inmarsat ELERA",
+              "mentions": 38,
+              "share": 0.655
+            },
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 15,
+              "share": 0.259
+            },
+            {
+              "supplier": "Viasat global network",
+              "mentions": 5,
+              "share": 0.086
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "BA",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 9,
+      "weightedHHI": 0.822,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Integration & test",
+          "hhi": 1,
+          "topSupplier": "Airbus Defence & Space",
+          "totalMentions": 3
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "avionics",
+          "label": "Avionics & ASIC/FPGA",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "BAE Systems",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "BAE Systems",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "integration",
+          "label": "Integration & test",
+          "totalMentions": 3,
+          "supplierCount": 1,
+          "topSupplier": "Airbus Defence & Space",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Airbus Defence & Space",
+              "mentions": 3,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 5,
+          "supplierCount": 2,
+          "topSupplier": "ULA (Vulcan / Atlas)",
+          "hhi": 0.68,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "ULA (Vulcan / Atlas)",
+              "mentions": 4,
+              "share": 0.8
+            },
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 1,
+              "share": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "BKSY",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 16,
+      "weightedHHI": 0.887,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 2,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Optics & imaging",
+          "hhi": 0.82,
+          "topSupplier": "EO imager",
+          "totalMentions": 10
+        },
+        {
+          "subsystem": "Integration & test",
+          "hhi": 1,
+          "topSupplier": "Thales Alenia Space",
+          "totalMentions": 4
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 10,
+          "supplierCount": 2,
+          "topSupplier": "EO imager",
+          "hhi": 0.82,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "EO imager",
+              "mentions": 9,
+              "share": 0.9
+            },
+            {
+              "supplier": "SAR payload",
+              "mentions": 1,
+              "share": 0.1
+            }
+          ]
+        },
+        {
+          "subsystem": "integration",
+          "label": "Integration & test",
+          "totalMentions": 4,
+          "supplierCount": 1,
+          "topSupplier": "Thales Alenia Space",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Thales Alenia Space",
+              "mentions": 4,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "GSAT",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 85,
+      "weightedHHI": 0.755,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 2,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Optics & imaging",
+          "hhi": 1,
+          "topSupplier": "MDA (Canada)",
+          "totalMentions": 29
+        },
+        {
+          "subsystem": "Launch services",
+          "hhi": 1,
+          "topSupplier": "SpaceX launch services",
+          "totalMentions": 24
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 29,
+          "supplierCount": 1,
+          "topSupplier": "MDA (Canada)",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "MDA (Canada)",
+              "mentions": 29,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 24,
+          "supplierCount": 1,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 24,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 32,
+          "supplierCount": 5,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 0.35,
+          "bucket": "concentrated",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 16,
+              "share": 0.5
+            },
+            {
+              "supplier": "Viasat global network",
+              "mentions": 8,
+              "share": 0.25
+            },
+            {
+              "supplier": "Inmarsat ELERA",
+              "mentions": 6,
+              "share": 0.188
+            },
+            {
+              "supplier": "Eutelsat OneWeb",
+              "mentions": 1,
+              "share": 0.031
+            },
+            {
+              "supplier": "SES network",
+              "mentions": 1,
+              "share": 0.031
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "IRDM",
+      "subsystemCount": 4,
+      "totalSupplierMentions": 81,
+      "weightedHHI": 0.645,
+      "overallBucket": "highly-concentrated",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Launch services",
+          "hhi": 1,
+          "topSupplier": "SpaceX launch services",
+          "totalMentions": 4
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "avionics",
+          "label": "Avionics & ASIC/FPGA",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Frontgrade (Cobham)",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Frontgrade (Cobham)",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "rf",
+          "label": "RF & antenna",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "Ka / Ku band electronics",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Ka / Ku band electronics",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 4,
+          "supplierCount": 1,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 4,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 74,
+          "supplierCount": 5,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 0.611,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 57,
+              "share": 0.77
+            },
+            {
+              "supplier": "Viasat global network",
+              "mentions": 8,
+              "share": 0.108
+            },
+            {
+              "supplier": "Inmarsat ELERA",
+              "mentions": 5,
+              "share": 0.068
+            },
+            {
+              "supplier": "Eutelsat OneWeb",
+              "mentions": 3,
+              "share": 0.041
+            },
+            {
+              "supplier": "SES network",
+              "mentions": 1,
+              "share": 0.014
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "LHX",
+      "subsystemCount": 4,
+      "totalSupplierMentions": 13,
+      "weightedHHI": 1,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 2,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Propulsion",
+          "hhi": 1,
+          "topSupplier": "Aerojet Rocketdyne",
+          "totalMentions": 3
+        },
+        {
+          "subsystem": "Optics & imaging",
+          "hhi": 1,
+          "topSupplier": "EO imager",
+          "totalMentions": 8
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "propulsion",
+          "label": "Propulsion",
+          "totalMentions": 3,
+          "supplierCount": 1,
+          "topSupplier": "Aerojet Rocketdyne",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Aerojet Rocketdyne",
+              "mentions": 3,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "avionics",
+          "label": "Avionics & ASIC/FPGA",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "BAE Systems",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "BAE Systems",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 8,
+          "supplierCount": 1,
+          "topSupplier": "EO imager",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "EO imager",
+              "mentions": 8,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Viasat global network",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Viasat global network",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "LMT",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 10,
+      "weightedHHI": 1,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Launch services",
+          "hhi": 1,
+          "topSupplier": "ULA (Vulcan / Atlas)",
+          "totalMentions": 8
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "MDA (Canada)",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "MDA (Canada)",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "structures",
+          "label": "Structures & TPS",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Carbon-fiber composite",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Carbon-fiber composite",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 8,
+          "supplierCount": 1,
+          "topSupplier": "ULA (Vulcan / Atlas)",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "ULA (Vulcan / Atlas)",
+              "mentions": 8,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "MNTS",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 52,
+      "weightedHHI": 0.877,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Propulsion",
+          "hhi": 1,
+          "topSupplier": "Momentus Vigoride",
+          "totalMentions": 41
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "propulsion",
+          "label": "Propulsion",
+          "totalMentions": 41,
+          "supplierCount": 1,
+          "topSupplier": "Momentus Vigoride",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Momentus Vigoride",
+              "mentions": 41,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Maxar Intelligence",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Maxar Intelligence",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 10,
+          "supplierCount": 4,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 0.36,
+          "bucket": "concentrated",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 5,
+              "share": 0.5
+            },
+            {
+              "supplier": "ULA (Vulcan / Atlas)",
+              "mentions": 3,
+              "share": 0.3
+            },
+            {
+              "supplier": "Relativity Space",
+              "mentions": 1,
+              "share": 0.1
+            },
+            {
+              "supplier": "Firefly Aerospace",
+              "mentions": 1,
+              "share": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "NOC",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 7,
+      "weightedHHI": 0.786,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 0,
+      "exposedSubsystems": [],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 4,
+          "supplierCount": 2,
+          "topSupplier": "EO imager",
+          "hhi": 0.625,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "EO imager",
+              "mentions": 3,
+              "share": 0.75
+            },
+            {
+              "supplier": "MDA (Canada)",
+              "mentions": 1,
+              "share": 0.25
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "ULA (Vulcan / Atlas)",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "ULA (Vulcan / Atlas)",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "PL",
+      "subsystemCount": 4,
+      "totalSupplierMentions": 11,
+      "weightedHHI": 0.745,
+      "overallBucket": "highly-concentrated",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Optics & imaging",
+          "hhi": 1,
+          "topSupplier": "EO imager",
+          "totalMentions": 3
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 3,
+          "supplierCount": 1,
+          "topSupplier": "EO imager",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "EO imager",
+              "mentions": 3,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "integration",
+          "label": "Integration & test",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "Airbus Defence & Space",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Airbus Defence & Space",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 5,
+          "supplierCount": 3,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 0.44,
+          "bucket": "concentrated",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 3,
+              "share": 0.6
+            },
+            {
+              "supplier": "Mitsubishi Heavy Industries",
+              "mentions": 1,
+              "share": 0.2
+            },
+            {
+              "supplier": "Firefly Aerospace",
+              "mentions": 1,
+              "share": 0.2
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "RDW",
+      "subsystemCount": 3,
+      "totalSupplierMentions": 203,
+      "weightedHHI": 1,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Integration & test",
+          "hhi": 1,
+          "topSupplier": "Redwire Space",
+          "totalMentions": 200
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "EO imager",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "EO imager",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "integration",
+          "label": "Integration & test",
+          "totalMentions": 200,
+          "supplierCount": 1,
+          "topSupplier": "Redwire Space",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Redwire Space",
+              "mentions": 200,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "subsystemCount": 8,
+      "totalSupplierMentions": 38,
+      "weightedHHI": 0.65,
+      "overallBucket": "highly-concentrated",
+      "exposedSubsystemCount": 2,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Power & solar",
+          "hhi": 1,
+          "topSupplier": "Rocket Lab SolAero",
+          "totalMentions": 5
+        },
+        {
+          "subsystem": "Structures & TPS",
+          "hhi": 1,
+          "topSupplier": "Carbon-fiber composite",
+          "totalMentions": 4
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "propulsion",
+          "label": "Propulsion",
+          "totalMentions": 10,
+          "supplierCount": 2,
+          "topSupplier": "Rutherford engine",
+          "hhi": 0.58,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "Rutherford engine",
+              "mentions": 7,
+              "share": 0.7
+            },
+            {
+              "supplier": "Archimedes engine",
+              "mentions": 3,
+              "share": 0.3
+            }
+          ]
+        },
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 8,
+          "supplierCount": 4,
+          "topSupplier": "MDA (Canada)",
+          "hhi": 0.438,
+          "bucket": "concentrated",
+          "breakdown": [
+            {
+              "supplier": "MDA (Canada)",
+              "mentions": 5,
+              "share": 0.625
+            },
+            {
+              "supplier": "EO imager",
+              "mentions": 1,
+              "share": 0.125
+            },
+            {
+              "supplier": "Maxar Intelligence",
+              "mentions": 1,
+              "share": 0.125
+            },
+            {
+              "supplier": "Capella Space",
+              "mentions": 1,
+              "share": 0.125
+            }
+          ]
+        },
+        {
+          "subsystem": "power",
+          "label": "Power & solar",
+          "totalMentions": 5,
+          "supplierCount": 1,
+          "topSupplier": "Rocket Lab SolAero",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Rocket Lab SolAero",
+              "mentions": 5,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "gnc",
+          "label": "GN&C / star trackers",
+          "totalMentions": 5,
+          "supplierCount": 2,
+          "topSupplier": "Sinclair Interplanetary",
+          "hhi": 0.68,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "Sinclair Interplanetary",
+              "mentions": 4,
+              "share": 0.8
+            },
+            {
+              "supplier": "Reaction wheel",
+              "mentions": 1,
+              "share": 0.2
+            }
+          ]
+        },
+        {
+          "subsystem": "structures",
+          "label": "Structures & TPS",
+          "totalMentions": 4,
+          "supplierCount": 1,
+          "topSupplier": "Carbon-fiber composite",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Carbon-fiber composite",
+              "mentions": 4,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "integration",
+          "label": "Integration & test",
+          "totalMentions": 3,
+          "supplierCount": 3,
+          "topSupplier": "Thales Alenia Space",
+          "hhi": 0.333,
+          "bucket": "concentrated",
+          "breakdown": [
+            {
+              "supplier": "Thales Alenia Space",
+              "mentions": 1,
+              "share": 0.333
+            },
+            {
+              "supplier": "OHB System",
+              "mentions": 1,
+              "share": 0.333
+            },
+            {
+              "supplier": "Redwire Space",
+              "mentions": 1,
+              "share": 0.333
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 2,
+          "supplierCount": 2,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 0.5,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 1,
+              "share": 0.5
+            },
+            {
+              "supplier": "ULA (Vulcan / Atlas)",
+              "mentions": 1,
+              "share": 0.5
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Gateway / teleport",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "RTX",
+      "subsystemCount": 2,
+      "totalSupplierMentions": 11,
+      "weightedHHI": 0.879,
+      "overallBucket": "sole-source",
+      "exposedSubsystemCount": 1,
+      "exposedSubsystems": [
+        {
+          "subsystem": "Integration & test",
+          "hhi": 1,
+          "topSupplier": "Airbus Defence & Space",
+          "totalMentions": 8
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 3,
+          "supplierCount": 2,
+          "topSupplier": "EO imager",
+          "hhi": 0.556,
+          "bucket": "highly-concentrated",
+          "breakdown": [
+            {
+              "supplier": "EO imager",
+              "mentions": 2,
+              "share": 0.667
+            },
+            {
+              "supplier": "MDA (Canada)",
+              "mentions": 1,
+              "share": 0.333
+            }
+          ]
+        },
+        {
+          "subsystem": "integration",
+          "label": "Integration & test",
+          "totalMentions": 8,
+          "supplierCount": 1,
+          "topSupplier": "Airbus Defence & Space",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Airbus Defence & Space",
+              "mentions": 8,
+              "share": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "SPIR",
+      "subsystemCount": 0,
+      "totalSupplierMentions": 0,
+      "weightedHHI": 0,
+      "overallBucket": "diversified",
+      "exposedSubsystemCount": 0,
+      "exposedSubsystems": [],
+      "subsystems": []
+    },
+    {
+      "ticker": "VSAT",
+      "subsystemCount": 6,
+      "totalSupplierMentions": 350,
+      "weightedHHI": 0.497,
+      "overallBucket": "concentrated",
+      "exposedSubsystemCount": 2,
+      "exposedSubsystems": [
+        {
+          "subsystem": "RF & antenna",
+          "hhi": 0.905,
+          "topSupplier": "Ka / Ku band electronics",
+          "totalMentions": 20
+        },
+        {
+          "subsystem": "Launch services",
+          "hhi": 1,
+          "topSupplier": "SpaceX launch services",
+          "totalMentions": 4
+        }
+      ],
+      "subsystems": [
+        {
+          "subsystem": "propulsion",
+          "label": "Propulsion",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Safran (propulsion)",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Safran (propulsion)",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "avionics",
+          "label": "Avionics & ASIC/FPGA",
+          "totalMentions": 2,
+          "supplierCount": 1,
+          "topSupplier": "BAE Systems",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "BAE Systems",
+              "mentions": 2,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "rf",
+          "label": "RF & antenna",
+          "totalMentions": 20,
+          "supplierCount": 2,
+          "topSupplier": "Ka / Ku band electronics",
+          "hhi": 0.905,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Ka / Ku band electronics",
+              "mentions": 19,
+              "share": 0.95
+            },
+            {
+              "supplier": "Comtech Telecommunications",
+              "mentions": 1,
+              "share": 0.05
+            }
+          ]
+        },
+        {
+          "subsystem": "optics",
+          "label": "Optics & imaging",
+          "totalMentions": 1,
+          "supplierCount": 1,
+          "topSupplier": "Maxar Intelligence",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "Maxar Intelligence",
+              "mentions": 1,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "launch",
+          "label": "Launch services",
+          "totalMentions": 4,
+          "supplierCount": 1,
+          "topSupplier": "SpaceX launch services",
+          "hhi": 1,
+          "bucket": "sole-source",
+          "breakdown": [
+            {
+              "supplier": "SpaceX launch services",
+              "mentions": 4,
+              "share": 1
+            }
+          ]
+        },
+        {
+          "subsystem": "ground",
+          "label": "Ground & comms",
+          "totalMentions": 322,
+          "supplierCount": 4,
+          "topSupplier": "Inmarsat ELERA",
+          "hhi": 0.459,
+          "bucket": "concentrated",
+          "breakdown": [
+            {
+              "supplier": "Inmarsat ELERA",
+              "mentions": 158,
+              "share": 0.491
+            },
+            {
+              "supplier": "Viasat global network",
+              "mentions": 150,
+              "share": 0.466
+            },
+            {
+              "supplier": "Gateway / teleport",
+              "mentions": 13,
+              "share": 0.04
+            },
+            {
+              "supplier": "Eutelsat OneWeb",
+              "mentions": 1,
+              "share": 0.003
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

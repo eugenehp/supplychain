@@ -1,0 +1,209 @@
+{
+  "ticker": "RKLB",
+  "queryVariants": [
+    "Rocket Lab Corp",
+    "Rocket Lab",
+    "ROCKET LAB CORP",
+    "ROCKET LAB USA, INC.",
+    "Rocket Lab USA Inc"
+  ],
+  "sampleRecipients": [
+    "ROCKET LAB USA INC",
+    "ROCKET LAB NATIONAL SECURITY LLC"
+  ],
+  "totalAmount": 75081553,
+  "awardCount": 15,
+  "byAgency": [
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "amount": 54362453
+    },
+    {
+      "agency": "Department of Defense",
+      "amount": 20719100
+    }
+  ],
+  "byYear": [],
+  "topAwards": [
+    {
+      "id": "80KSC023FA107",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 39685522,
+      "psc": null,
+      "naics": null,
+      "description": "VENTURE-CLASS ACQUISITION OF DEDICATED AND RIDESHARE (VADR) UMBRELLA TASK ORDER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881824FB016",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 14496100,
+      "psc": null,
+      "naics": null,
+      "description": "THE OBJECTIVE OF THE STP-S30 MISSION IS TO DELIVER SCIENTIFIC RESEARCH AND DEVELOPMENT EXPERIMENTS TO SPACE THAT MATURE EXISTING CAPABILITIES AND DEMONSTRATE NEXT-GENERATION TECHNOLOGY IN THE SPACE DOMAIN TO ENSURE A FUTURE OF SPACE DOMINAN",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80KSC020C0002",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 10065500,
+      "psc": null,
+      "naics": null,
+      "description": "CISLUNAR AUTONOMOUS POSITIONING SYSTEM TECHNOLOGY OPERATIONS AND NAVIGATION EXPERIMENT (CAPSTONE) LAUNCH SERVICE",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881125FB007",
+      "recipient": "ROCKET LAB NATIONAL SECURITY LLC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 5000000,
+      "psc": null,
+      "naics": null,
+      "description": "NATIONAL SECURITY SPACE LAUNCH (NSSL) PHASE 3 LANE 1 LAUNCH SERVICES PROCUREMENT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80NSSC21C0042",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 2591350,
+      "psc": null,
+      "naics": null,
+      "description": "LOW COST EXPENDABLE LAUNCH TECHNOLOGY",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA930024C6007",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 960000,
+      "psc": null,
+      "naics": null,
+      "description": "DIGITAL ENGINEERING APPROACH FOR ARCHIMEDES ENGINE DEVELOPMENT",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80HQTR24CA009",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 625000,
+      "psc": null,
+      "naics": null,
+      "description": "CONTRACTOR TO PROVIDE RAPID STUDIES FOR THE MARS SAMPLE RETURN (MSR) PROGRAM.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC25FA060",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 546480,
+      "psc": null,
+      "naics": null,
+      "description": "THE CONTRACTOR SHALL DEVELOP GEN 1 SOLAR SAIL MISSION CONCEPTS THAT WILL ADDRESS THE OBJECTIVES OF A FUTURE IMPLEMENTATION PLAN IN ACCORDANCE WITH THE MANIFEST REQUIREMENTS DOCUMENT (MRD) TITLED T0412 GEN1 SOLAR SAIL DEMONSTRATION",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC26FA041",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 432665,
+      "psc": null,
+      "naics": null,
+      "description": "DEVELOP GEOSPACE DYNAMICS CONSTELLATION (GDC) TRAILBLAZER MISSION CONCEPTS THAT WILL ADDRESS THE OBJECTIVES OF A FUTURE IMPLEMENTATION PLAN IN ACCORDANCE WITH THE MANIFEST REQUIREMENTS DOCUMENT (MRD) TITLED T0433 GDC TRAILBLAZER",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80GSFC26C0008",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 390936,
+      "psc": null,
+      "naics": null,
+      "description": "MARS END-TO-END COMMUNICATION SERVICE ARCHITECTURES: STUDIES TO ADVANCE END-TO-END COMMUNICATION SOLUTIONS FOR MARS EXPLORATION, IDENTIFYING PERFORMANCE NEEDS AND COMMERCIAL SERVICE OPPORTUNITIES.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA881823F0023",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 261500,
+      "psc": null,
+      "naics": null,
+      "description": "ROCKET LAB QUINTESSENTIAL STUDIES",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80AFRC24FA027",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 25000,
+      "psc": null,
+      "naics": null,
+      "description": "MINIMUM GUARANTEED",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "FA865625FB071",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "Department of Defense",
+      "subAgency": "Department of the Air Force",
+      "amount": 1000,
+      "psc": null,
+      "naics": null,
+      "description": "FOURTH ON-RAMP FOR EGLIN WIDE AGILE ACQUISITION CONTRACT (EWAAC) VEHICLE.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "HQ085926FE799",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "Department of Defense",
+      "subAgency": "Missile Defense Agency",
+      "amount": 500,
+      "psc": null,
+      "naics": null,
+      "description": "SCALABLE HOMELAND INNOVATIVE ENTERPRISE LAYERED DEFENSE (SHIELD) INITIAL ORDER.",
+      "periodStart": null,
+      "periodEnd": null
+    },
+    {
+      "id": "80KSC023FA021",
+      "recipient": "ROCKET LAB USA INC",
+      "agency": "National Aeronautics and Space Administration",
+      "subAgency": "National Aeronautics and Space Administration",
+      "amount": 0,
+      "psc": null,
+      "naics": null,
+      "description": "TIME-RESOLVED OBSERVATIONS OF PRECIPITATION STRUCTURE AND STORM INTENSITY WITH A CONSTELLATION OF SMALLSATS (TROPICS) LAUNCH SERVICES TASK ORDER (LSTO).",
+      "periodStart": null,
+      "periodEnd": null
+    }
+  ]
+}

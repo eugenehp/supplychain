@@ -1,10 +1,17 @@
 import { createWorkerBridge } from './worker-bridge.js';
 import RagWorker from './workers/rag.worker.js?worker';
+import { getRagRoot, onRagNamespaceChange } from './rag-namespace.js';
 
 /** @type {ReturnType<typeof createWorkerBridge> | null} */
 let bridge = null;
 /** @type {Promise<object> | null} */
 let indexPromise = null;
+
+onRagNamespaceChange(() => {
+  bridge?.terminate?.();
+  bridge = null;
+  indexPromise = null;
+});
 
 function getBridge() {
   if (typeof Worker === 'undefined') return null;
@@ -16,7 +23,7 @@ function getBridge() {
 export function preloadRagIndex() {
   const b = getBridge();
   if (!b) return Promise.reject(new Error('Workers unavailable'));
-  if (!indexPromise) indexPromise = b.call('load-index');
+  if (!indexPromise) indexPromise = b.call('load-index', { ragRoot: getRagRoot() });
   return indexPromise;
 }
 

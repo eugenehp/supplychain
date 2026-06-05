@@ -1,0 +1,380 @@
+{
+  "ticker": "PL",
+  "name": "Planet Labs PBC",
+  "windowDays": 365,
+  "cutoff": "2025-06-05",
+  "total": 14,
+  "byCategory": [
+    {
+      "category": "earnings",
+      "count": 4
+    },
+    {
+      "category": "disclosure",
+      "count": 4
+    },
+    {
+      "category": "financing",
+      "count": 3
+    },
+    {
+      "category": "governance",
+      "count": 2
+    },
+    {
+      "category": "contract",
+      "count": 1
+    }
+  ],
+  "monthlyCounts": [
+    {
+      "month": "2025-07",
+      "count": 2
+    },
+    {
+      "month": "2025-09",
+      "count": 3
+    },
+    {
+      "month": "2025-12",
+      "count": 1
+    },
+    {
+      "month": "2026-01",
+      "count": 3
+    },
+    {
+      "month": "2026-02",
+      "count": 1
+    },
+    {
+      "month": "2026-03",
+      "count": 2
+    },
+    {
+      "month": "2026-05",
+      "count": 1
+    },
+    {
+      "month": "2026-06",
+      "count": 1
+    }
+  ],
+  "events": [
+    {
+      "accessionNumber": "0001193125-26-257401",
+      "filingDate": "2026-06-04",
+      "reportDate": "2026-06-04",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526257401/pl-20260604.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-204366",
+      "filingDate": "2026-05-04",
+      "reportDate": "2026-05-04",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526204366/pl-20260504.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-127750",
+      "filingDate": "2026-03-27",
+      "reportDate": "2026-03-27",
+      "items": [
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526127750/pl-20260327.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-115951",
+      "filingDate": "2026-03-19",
+      "reportDate": "2026-03-19",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526115951/pl-20260319.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-038075",
+      "filingDate": "2026-02-05",
+      "reportDate": "2026-02-03",
+      "items": [
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "3.03",
+          "label": "Material modification to security holder rights",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "financing",
+      "summary": "Unregistered equity sale; Material modification to security holder rights; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526038075/pl-20260203.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-020587",
+      "filingDate": "2026-01-23",
+      "reportDate": "2026-01-21",
+      "items": [
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "3.03",
+          "label": "Material modification to security holder rights",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "financing",
+      "summary": "Unregistered equity sale; Material modification to security holder rights; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526020587/pl-20260121.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-014326",
+      "filingDate": "2026-01-16",
+      "reportDate": "2026-01-13",
+      "items": [
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "3.03",
+          "label": "Material modification to security holder rights",
+          "category": "governance"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        }
+      ],
+      "category": "financing",
+      "summary": "Unregistered equity sale; Material modification to security holder rights; Other events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526014326/pl-20260113.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-009922",
+      "filingDate": "2026-01-12",
+      "reportDate": "2026-01-12",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526009922/pl-20260112.htm"
+    },
+    {
+      "accessionNumber": "0001193125-25-314160",
+      "filingDate": "2025-12-10",
+      "reportDate": "2025-12-10",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312525314160/pl-20251210.htm"
+    },
+    {
+      "accessionNumber": "0001140361-25-034840",
+      "filingDate": "2025-09-12",
+      "reportDate": "2025-09-08",
+      "items": [
+        {
+          "code": "1.01",
+          "label": "Material agreement entered",
+          "category": "contract"
+        },
+        {
+          "code": "2.03",
+          "label": "Material direct financial obligation",
+          "category": "financing"
+        },
+        {
+          "code": "3.02",
+          "label": "Unregistered equity sale",
+          "category": "financing"
+        },
+        {
+          "code": "8.01",
+          "label": "Other events",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "contract",
+      "summary": "Material agreement entered; Material direct financial obligation; Unregistered equity sale; Other events; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000114036125034840/ef20055521_8k.htm"
+    },
+    {
+      "accessionNumber": "0001836833-25-000108",
+      "filingDate": "2025-09-10",
+      "reportDate": "2025-09-05",
+      "items": [
+        {
+          "code": "5.02",
+          "label": "Officer / director change",
+          "category": "governance"
+        },
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        },
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "governance",
+      "summary": "Officer / director change; Submission of matters to vote; Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000183683325000108/pl-20250905.htm"
+    },
+    {
+      "accessionNumber": "0001836833-25-000103",
+      "filingDate": "2025-09-08",
+      "reportDate": "2025-09-08",
+      "items": [
+        {
+          "code": "2.02",
+          "label": "Earnings results",
+          "category": "earnings"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "earnings",
+      "summary": "Earnings results; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000183683325000103/pl-20250908.htm"
+    },
+    {
+      "accessionNumber": "0001836833-25-000096",
+      "filingDate": "2025-07-11",
+      "reportDate": "2025-07-10",
+      "items": [
+        {
+          "code": "5.07",
+          "label": "Submission of matters to vote",
+          "category": "governance"
+        }
+      ],
+      "category": "governance",
+      "summary": "Submission of matters to vote",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000183683325000096/pl-20250710.htm"
+    },
+    {
+      "accessionNumber": "0001836833-25-000075",
+      "filingDate": "2025-07-01",
+      "reportDate": "2025-07-01",
+      "items": [
+        {
+          "code": "7.01",
+          "label": "Regulation FD disclosure",
+          "category": "disclosure"
+        },
+        {
+          "code": "9.01",
+          "label": "Financial statements / exhibits",
+          "category": "disclosure"
+        }
+      ],
+      "category": "disclosure",
+      "summary": "Regulation FD disclosure; Financial statements / exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836833/000183683325000075/pl-20250701.htm"
+    }
+  ]
+}

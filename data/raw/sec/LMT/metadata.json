@@ -1,0 +1,63 @@
+{
+  "ticker": "LMT",
+  "cik": "0000936468",
+  "name": "LOCKHEED MARTIN CORP",
+  "scrapedAt": "2026-06-04T23:42:16.253Z",
+  "hasSubmissions": true,
+  "hasCompanyFacts": true,
+  "facts": {
+    "Revenues": {
+      "value": 75048000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "value": 59812000000,
+      "end": "2019-12-31",
+      "filed": "2020-02-07",
+      "form": "10-K"
+    },
+    "ResearchAndDevelopmentExpense": {
+      "value": 2000000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "CostOfRevenue": {
+      "value": 67429000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "GrossProfit": {
+      "value": 7619000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "Assets": {
+      "value": 59840000000,
+      "end": "2025-12-31",
+      "filed": "2026-01-29",
+      "form": "10-K"
+    },
+    "SalesRevenueNet": {
+      "value": 51048000000,
+      "end": "2017-12-31",
+      "filed": "2018-02-06",
+      "form": "10-K"
+    }
+  },
+  "hasRevenue": true,
+  "revenue": 75048000000,
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-29",
+    "accessionNumber": "0001628280-26-004195",
+    "primaryDocument": "lmt-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+  "htmlLength": 2909179
+}

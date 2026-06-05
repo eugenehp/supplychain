@@ -1,0 +1,81 @@
+{
+  "ticker": "LMT",
+  "topicId": "space-economy",
+  "product": "Lockheed Martin Space segment",
+  "segment": "satellites",
+  "filing": {
+    "form": "10-K",
+    "filingDate": "2026-01-29",
+    "accessionNumber": "0001628280-26-004195",
+    "primaryDocument": "lmt-20251231.htm",
+    "reportDate": "2025-12-31"
+  },
+  "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+  "summary": {
+    "nodeCount": 3,
+    "linkCount": 2,
+    "totalFlow": 8,
+    "filingChars": 435418,
+    "mentionDensity": 0.02,
+    "subsystemBreakdown": [
+      {
+        "subsystem": "Launch services",
+        "score": 8
+      }
+    ],
+    "countryBreakdown": [
+      {
+        "country": "US",
+        "score": 8
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "explicitSuppliers": 1,
+    "heuristicSuppliers": 0
+  },
+  "nodes": [
+    {
+      "id": "Lockheed Martin Space segment",
+      "name": "Lockheed Martin Space segment",
+      "tier": 0,
+      "group": "product",
+      "description": "LMT 10-K / 20-F · 10-K 2026-01-29",
+      "country": "US",
+      "mentionScore": 8
+    },
+    {
+      "id": "Launch services",
+      "name": "Launch services",
+      "tier": 1,
+      "group": "launch",
+      "description": "Subsystem category — Launch services",
+      "country": null,
+      "mentionScore": 8,
+      "disclosure": "aggregate"
+    },
+    {
+      "id": "ULA (Vulcan / Atlas)",
+      "name": "ULA (Vulcan / Atlas)",
+      "tier": 2,
+      "group": "launch",
+      "description": "Launch services · LMT 10-K mentions: 8",
+      "country": "US",
+      "mentionScore": 8,
+      "disclosure": "explicit"
+    }
+  ],
+  "links": [
+    {
+      "source": "ULA (Vulcan / Atlas)",
+      "target": "Launch services",
+      "value": 8
+    },
+    {
+      "source": "Launch services",
+      "target": "Lockheed Martin Space segment",
+      "value": 8
+    }
+  ]
+}

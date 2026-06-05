@@ -7,6 +7,7 @@
 export const DEFAULT_BRAND_COLOR = '#76B900';
 
 export const GROUP_COLORS = {
+  // Accelerator (legacy)
   product: DEFAULT_BRAND_COLOR,
   foundry: '#E50012',
   memory: '#E60012',
@@ -17,6 +18,19 @@ export const GROUP_COLORS = {
   subcomponent: '#0071C5',
   raw: '#E35205',
   commodity: '#8D6E63',
+  // Space economy subsystem colors (matches SUBSYSTEM_CATEGORIES in scripts/lib/space/supplier-catalog.mjs).
+  rocket: '#EF4444',        // propulsion — red
+  electronics: '#2563EB',   // avionics / ASIC / FPGA — blue
+  rf: '#A855F7',            // RF & antenna — purple
+  optics: '#0EA5E9',        // optics & imaging — sky
+  power: '#F59E0B',         // power / solar — amber
+  gnc: '#22C55E',           // GN&C — green
+  structures: '#A16207',    // structures & TPS — brown
+  integration: '#475569',   // integration & test — slate
+  launch: '#0F172A',        // launch services — near-black
+  ground: '#06B6D4',        // ground & comms — cyan
+  supplier: '#7C3AED',      // generic supplier fallback
+  material: '#92400E',      // generic material fallback
   other: '#ADB5BD',
 };
 
@@ -40,6 +54,22 @@ export const TICKER_BRANDS = {
   MU: { name: 'Micron', color: '#0077C8', bg: '#0077C8', text: '#FFFFFF' },
   AMKR: { name: 'Amkor', color: '#003087', bg: '#003087', text: '#FFFFFF' },
   GFS: { name: 'GlobalFoundries', color: '#E35205', bg: '#E35205', text: '#FFFFFF' },
+  // Space economy watchlist.
+  RKLB: { name: 'Rocket Lab', color: '#1A1A1A', bg: '#1A1A1A', text: '#FFFFFF' },
+  ASTS: { name: 'AST SpaceMobile', color: '#0066CC', bg: '#0066CC', text: '#FFFFFF' },
+  BA:   { name: 'Boeing', color: '#005EB8', bg: '#005EB8', text: '#FFFFFF' },
+  LMT:  { name: 'Lockheed Martin', color: '#0E2A47', bg: '#0E2A47', text: '#FFFFFF' },
+  NOC:  { name: 'Northrop Grumman', color: '#005CB9', bg: '#005CB9', text: '#FFFFFF' },
+  RTX:  { name: 'RTX', color: '#C8102E', bg: '#C8102E', text: '#FFFFFF' },
+  LHX:  { name: 'L3Harris', color: '#003C7E', bg: '#003C7E', text: '#FFFFFF' },
+  IRDM: { name: 'Iridium', color: '#5BC2E7', bg: '#0B2E4F', text: '#FFFFFF' },
+  VSAT: { name: 'Viasat', color: '#005EB8', bg: '#005EB8', text: '#FFFFFF' },
+  GSAT: { name: 'Globalstar', color: '#F26522', bg: '#F26522', text: '#FFFFFF' },
+  PL:   { name: 'Planet Labs', color: '#0EBC8F', bg: '#0EBC8F', text: '#FFFFFF' },
+  BKSY: { name: 'BlackSky', color: '#0F172A', bg: '#0F172A', text: '#FFFFFF' },
+  SPIR: { name: 'Spire Global', color: '#001E62', bg: '#001E62', text: '#FFFFFF' },
+  MNTS: { name: 'Momentus', color: '#FF5722', bg: '#FF5722', text: '#FFFFFF' },
+  RDW:  { name: 'Redwire', color: '#E60000', bg: '#E60000', text: '#FFFFFF' },
 };
 
 /** Sankey / pack node id → SEC ticker (when applicable). */
@@ -59,6 +89,22 @@ export const NODE_TO_TICKER = {
   'Meta MTIA v2': 'META',
   'Microsoft Maia 200': 'MSFT',
   'Baidu Kunlun 2': 'BIDU',
+  // Space economy product anchors (matches TICKER_PRODUCTS in scripts/lib/space/supplier-catalog.mjs)
+  'Rocket Lab — Electron / Neutron': 'RKLB',
+  'AST SpaceMobile BlueBird constellation': 'ASTS',
+  'Boeing Defense, Space & Security': 'BA',
+  'Lockheed Martin Space segment': 'LMT',
+  'Northrop Grumman Space Systems': 'NOC',
+  'RTX Space programs': 'RTX',
+  'L3Harris / Aerojet Rocketdyne': 'LHX',
+  'Iridium NEXT constellation': 'IRDM',
+  'Viasat satcom network': 'VSAT',
+  'Globalstar MSS': 'GSAT',
+  'Planet EO constellation': 'PL',
+  'BlackSky EO constellation': 'BKSY',
+  'Spire LEMUR / weather satellites': 'SPIR',
+  'Momentus Vigoride orbital transfer': 'MNTS',
+  'Redwire ISAM & space components': 'RDW',
   NVDA: 'NVDA',
   AMD: 'AMD',
   INTC: 'INTC',

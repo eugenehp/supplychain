@@ -1,0 +1,1376 @@
+{
+  "generatedAt": "2026-06-05T02:13:57.314Z",
+  "topicId": "space-economy",
+  "columns": [
+    {
+      "key": "revenue",
+      "label": "Revenue",
+      "kind": "currency"
+    },
+    {
+      "key": "grossMargin",
+      "label": "Gross margin",
+      "kind": "percent"
+    },
+    {
+      "key": "rdPctRevenue",
+      "label": "R&D / revenue",
+      "kind": "percent"
+    },
+    {
+      "key": "capex",
+      "label": "Capex",
+      "kind": "currency"
+    },
+    {
+      "key": "capexPctRevenue",
+      "label": "Capex / revenue",
+      "kind": "percent"
+    },
+    {
+      "key": "cash",
+      "label": "Cash",
+      "kind": "currency"
+    },
+    {
+      "key": "operatingCashFlow",
+      "label": "Operating cash flow",
+      "kind": "currency-signed"
+    },
+    {
+      "key": "cashRunwayYears",
+      "label": "Cash runway (yr)",
+      "kind": "number",
+      "precision": 1
+    },
+    {
+      "key": "netIncome",
+      "label": "Net income",
+      "kind": "currency-signed"
+    },
+    {
+      "key": "govRevenuePct",
+      "label": "US Gov %",
+      "kind": "percent-narrative"
+    },
+    {
+      "key": "topCustomerPct",
+      "label": "Top customer %",
+      "kind": "percent-narrative"
+    }
+  ],
+  "companies": [
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-02",
+        "accessionNumber": "0001780312-26-000006",
+        "primaryDocument": "asts-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1780312/000178031226000006/asts-20251231.htm",
+      "revenue": {
+        "value": 4400000,
+        "end": "2024-12-31",
+        "filed": "2025-03-03",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": {
+        "value": 0,
+        "end": "2023-12-31",
+        "filed": "2024-04-01",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 0,
+        "end": "2023-12-31",
+        "filed": "2024-04-01",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 28115000,
+        "end": "2025-12-31",
+        "filed": "2026-03-02",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 5014387000,
+        "end": "2025-12-31",
+        "filed": "2026-03-02",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 2335683000,
+        "end": "2025-12-31",
+        "filed": "2026-03-02",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 1064741000,
+        "end": "2025-12-31",
+        "filed": "2026-03-02",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": -71517000,
+        "end": "2025-12-31",
+        "filed": "2026-03-02",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -341940000,
+        "end": "2025-12-31",
+        "filed": "2026-03-02",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 638.9772727272727,
+      "grossMargin": 0,
+      "capexPctRevenue": 24198.659090909092,
+      "cashRunwayYears": 32.65912999706364,
+      "govRevenuePct": null,
+      "topCustomerPct": null
+    },
+    {
+      "ticker": "BA",
+      "name": "BOEING CO",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-30",
+        "accessionNumber": "0001628280-26-004357",
+        "primaryDocument": "ba-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm",
+      "revenue": {
+        "value": 89463000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": {
+        "value": 85174000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 4289000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 3615000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 168235000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 10921000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 2942000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 1065000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 2235000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-30",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 4.040776633915697,
+      "grossMargin": 4.794160714485319,
+      "capexPctRevenue": 3.288510333881046,
+      "cashRunwayYears": null,
+      "govRevenuePct": {
+        "raw": "35",
+        "value": 35,
+        "unit": "% of revenue",
+        "excerpt": "…siness and financial condition could be adversely affected. Risks Related to Our Contracts We conduct a significant portion of our business pursuant to U.S. government contracts, which are subject to unique risks. In 2025, 35% of our revenues were earned pursuant to U.S. government contracts, which include FMS. Business conducted pursuant to such contracts is subject to extensi…",
+        "sectionId": "item_1a",
+        "sectionHeader": "Item 1A. Risk Factors",
+        "charOffset": 54893
+      },
+      "topCustomerPct": {
+        "raw": "46",
+        "value": 46,
+        "unit": "% from top customer",
+        "excerpt": "…restrictions and government actions. In 2025, non-U.S. customers, which include Foreign Military Sales through the U.S. government (FMS), accounted for 46% of our total revenues and 60% of Commercial Airplanes revenue from customer contracts. We expect non-U.S. sales will continue to account for a significant portion of our revenues for the foreseeable future. We are subject to…",
+        "sectionId": "item_1a",
+        "sectionHeader": "Item 1A. Risk Factors",
+        "charOffset": 44622
+      }
+    },
+    {
+      "ticker": "BKSY",
+      "name": "BlackSky Technology Inc.",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-17",
+        "accessionNumber": "0001753539-26-000032",
+        "primaryDocument": "bksy-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000032/bksy-20251231.htm",
+      "revenue": {
+        "value": 0,
+        "end": "2020-12-31",
+        "filed": "2021-03-31",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": null,
+      "grossProfit": null,
+      "rd": {
+        "value": 433000,
+        "end": "2025-12-31",
+        "filed": "2026-03-17",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 386246000,
+        "end": "2025-12-31",
+        "filed": "2026-03-17",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 42445000,
+        "end": "2025-12-31",
+        "filed": "2026-03-17",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": null,
+      "operatingCashFlow": {
+        "value": -28311000,
+        "end": "2025-12-31",
+        "filed": "2026-03-17",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -70260000,
+        "end": "2025-12-31",
+        "filed": "2026-03-17",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": null,
+      "grossMargin": null,
+      "capexPctRevenue": null,
+      "cashRunwayYears": 1.4992405778672602,
+      "govRevenuePct": null,
+      "topCustomerPct": {
+        "raw": "14",
+        "value": 14,
+        "unit": "% from top customer",
+        "excerpt": "…t of world 14 % 12 % Accounts Receivable As of December 31, Customer Geographic Area (1) 2025 2024 U.S. federal government and agencies United States * 76 % Customer B Rest of world * * Customer C Rest of world 50 % * Customer D Rest of world 11 % * * Revenue and/or accounts receivable from these customers were less than 10% of total revenue and/or accounts receivable during th…",
+        "sectionId": "item_1",
+        "sectionHeader": "Item 1. Business",
+        "charOffset": 421027
+      }
+    },
+    {
+      "ticker": "GSAT",
+      "name": "Globalstar, Inc.",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-27",
+        "accessionNumber": "0001366868-26-000012",
+        "primaryDocument": "gsat-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1366868/000136686826000012/gsat-20251231.htm",
+      "revenue": {
+        "value": 31835000,
+        "end": "2019-12-31",
+        "filed": "2020-02-28",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": null,
+      "grossProfit": null,
+      "rd": {
+        "value": 6100000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 2326265000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 447471000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 4594000,
+        "end": "2019-12-31",
+        "filed": "2020-02-28",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 621650000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -8651000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 19.161300455473533,
+      "grossMargin": null,
+      "capexPctRevenue": 14.430658080728758,
+      "cashRunwayYears": null,
+      "govRevenuePct": {
+        "raw": "21",
+        "value": 21,
+        "unit": "% of revenue",
+        "excerpt": "…fective income tax rate (after adoption of ASU 2023-09) (in thousands): Year Ended December 31, 2025 Amount Percent Provision at U.S. statutory rate of 21% $ ( 582 ) 21 % State and local tax effects (1) State income taxes, net of federal benefit ( 1,327 ) 48 % Adjustment to state deferred rate ( 705 ) 25 % State adjustment for filed returns 1,135 ( 41 ) % State increase in valu…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 328368
+      },
+      "topCustomerPct": {
+        "raw": "63",
+        "value": 63,
+        "unit": "% from top customer",
+        "excerpt": "…sale capacity arrangement. For the years ended December 31, 2025, 2024 and 2023, the Customer under the Updated Services Agreements was responsible for 63%, 58%, and 49%, respectively, of our total revenue. No other customer was responsible for more than 10% of our revenue during these years. The loss of the Customer may have an adverse impact on our financial condition, result…",
+        "sectionId": "item_1",
+        "sectionHeader": "Item 1. Business",
+        "charOffset": 23695
+      }
+    },
+    {
+      "ticker": "IRDM",
+      "name": "Iridium Communications Inc.",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-12",
+        "accessionNumber": "0001418819-26-000009",
+        "primaryDocument": "irdm-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000009/irdm-20251231.htm",
+      "revenue": {
+        "value": 871659000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": null,
+      "grossProfit": null,
+      "rd": {
+        "value": 19758000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 2531009000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 96501000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 100280000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 400073000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 114372000,
+        "end": "2025-12-31",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 2.2667120972765726,
+      "grossMargin": null,
+      "capexPctRevenue": 11.504498892342074,
+      "cashRunwayYears": null,
+      "govRevenuePct": {
+        "raw": "25",
+        "value": 25,
+        "unit": "% of revenue",
+        "excerpt": "…performance and making decisions about allocating capital and other resources on a consolidated basis. The Company derived approximately 29 %, 28 % and 25 % of its total revenue in the years ended December 31, 2025, 2024 and 2023, respectively, from prime contracts with the U.S. government or subcontracts with prime contractors with U.S. government contracts. For the years ende…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 359659
+      },
+      "topCustomerPct": {
+        "raw": "61",
+        "value": 61,
+        "unit": "% from top customer",
+        "excerpt": "…T services, hosted payload and other data services, and engineering services. Sales of our commercial services collectively accounted for approximately 61% of our total revenue for the year ended December 31, 2025. We also sell related voice and data equipment to our customers, which accounted for approximately 9% of our total revenue for the year ended December 31, 2025. In ad…",
+        "sectionId": "item_1",
+        "sectionHeader": "Item 1. Business",
+        "charOffset": 80863
+      }
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-12",
+        "accessionNumber": "0000202058-26-000015",
+        "primaryDocument": "hrs-20260102.htm",
+        "reportDate": "2026-01-02"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000015/hrs-20260102.htm",
+      "revenue": {
+        "value": 6182000000,
+        "end": "2018-06-29",
+        "filed": "2018-08-27",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": {
+        "value": 16240000000,
+        "end": "2026-01-02",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "CostOfGoodsAndServicesSold"
+      },
+      "grossProfit": {
+        "value": 1871700000,
+        "end": "2010-07-02",
+        "filed": "2010-08-30",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": null,
+      "assets": {
+        "value": 41195000000,
+        "end": "2026-01-02",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 1069000000,
+        "end": "2026-01-02",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 424000000,
+        "end": "2026-01-02",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 3106000000,
+        "end": "2026-01-02",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 1606000000,
+        "end": "2026-01-02",
+        "filed": "2026-02-12",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": null,
+      "grossMargin": 30.27660951148496,
+      "capexPctRevenue": 6.858621805241022,
+      "cashRunwayYears": null,
+      "govRevenuePct": null,
+      "topCustomerPct": {
+        "raw": "22",
+        "value": 22,
+        "unit": "% from top customer",
+        "excerpt": "…outside the U.S., including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was $4.8 billion (22% of our revenue) and came from over 100 countries with no single foreign country accounting for more than 5% of our total revenue. For financial information regarding our domestic and international operations, including long-…",
+        "sectionId": null,
+        "sectionHeader": null,
+        "charOffset": 13029
+      }
+    },
+    {
+      "ticker": "LMT",
+      "name": "LOCKHEED MARTIN CORP",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-29",
+        "accessionNumber": "0001628280-26-004195",
+        "primaryDocument": "lmt-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+      "revenue": {
+        "value": 75048000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": {
+        "value": 67429000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 7619000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 2000000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 59840000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 4121000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 942000000,
+        "end": "2012-12-31",
+        "filed": "2013-02-28",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 8557000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 5017000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-29",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 2.6649610915680633,
+      "grossMargin": 10.152169278328536,
+      "capexPctRevenue": 1.2551966741285578,
+      "cashRunwayYears": null,
+      "govRevenuePct": {
+        "raw": "50",
+        "value": 50,
+        "unit": "% of revenue",
+        "excerpt": "…and services in support of vital national security systems. Operating profit for our Space business segment also includes our share of earnings for our 50 % ownership interest in ULA, which provides expendable launch services to the U.S. Government and commercial customers. Our investment in ULA totaled $ 551 million at both December 31, 2025 and 2024. 67 Table of Contents Sele…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 317127
+      },
+      "topCustomerPct": {
+        "raw": "28",
+        "value": 28,
+        "unit": "% from top customer",
+        "excerpt": "…ion and other risks. International sales present risks that are different and potentially greater than those encountered in our U.S. business. In 2025, 28% of our total sales were associated with international customers. International sales are subject to numerous political and economic factors, including changes in foreign national priorities, foreign government budgets, globa…",
+        "sectionId": "item_1a",
+        "sectionHeader": "Item 1A. Risk Factors",
+        "charOffset": 83960
+      }
+    },
+    {
+      "ticker": "MNTS",
+      "name": "Momentus Inc.",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-31",
+        "accessionNumber": "0001628280-26-022291",
+        "primaryDocument": "mnts-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1781162/000162828026022291/mnts-20251231.htm",
+      "revenue": {
+        "value": 1110000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "costOfRevenue": {
+        "value": 1200000,
+        "end": "2022-05-31",
+        "filed": "2023-03-08",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 1108000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 9190000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 40319000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 12806000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 12000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": -23275000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -30468000,
+        "end": "2025-12-31",
+        "filed": "2026-03-31",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 827.927927927928,
+      "grossMargin": 99.81981981981983,
+      "capexPctRevenue": 1.0810810810810811,
+      "cashRunwayYears": 0.5502040816326531,
+      "govRevenuePct": null,
+      "topCustomerPct": {
+        "raw": "10",
+        "value": 10,
+        "unit": "% from top customer",
+        "excerpt": "…ssets are held domestically in the United States and of the $ 1.1 million of revenue recognized by the Company during the year ended December 31, 2025, 10 % was derived from customers domiciled in foreign countries. Based on the information described above and in accordance with the applicable literature, management has concluded that we are organized and operated as one operat…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 290493
+      }
+    },
+    {
+      "ticker": "NOC",
+      "name": "NORTHROP GRUMMAN CORP /DE/",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-01-27",
+        "accessionNumber": "0001133421-26-000003",
+        "primaryDocument": "noc-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+      "revenue": {
+        "value": 41954000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": null,
+      "grossProfit": null,
+      "rd": {
+        "value": 1100000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 51377000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 4403000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 1450000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 4757000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 4182000000,
+        "end": "2025-12-31",
+        "filed": "2026-01-27",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 2.6219192448872572,
+      "grossMargin": null,
+      "capexPctRevenue": 3.456166277351385,
+      "cashRunwayYears": null,
+      "govRevenuePct": {
+        "raw": "50",
+        "value": 50,
+        "unit": "% of revenue",
+        "excerpt": "…$ 20,104 $ 794 $ 46 $ 20,944 50 % Fixed-price contracts 15,079 5,196 735 21,010 50 % Total sales $ 35,183 $ 5,990 $ 781 $ 41,954 100 % (1) Sales to the U.S. government include sales from contracts for which we are the prime contractor, as well as those for which we are a subcontractor and the ultimate customer is the U.S. government. Each of the company’s segments derives a sub…",
+        "sectionId": "item_1",
+        "sectionHeader": "Item 1. Business",
+        "charOffset": 31900
+      },
+      "topCustomerPct": {
+        "raw": "34",
+        "value": 34,
+        "unit": "% from top customer",
+        "excerpt": "…44 $ 5,908 $ 636 11 % Advance payments and amounts in excess of costs incurred ( 4,086 ) ( 4,070 ) ( 16 ) — % Net contract assets $ 2,458 $ 1,838 $ 620 34 % Changes in the company’s contract assets and liabilities primarily result from timing differences between revenue recognition and customer billings and/or payments. Net contract assets as of December 31, 2025 increased 34 p…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 230048
+      }
+    },
+    {
+      "ticker": "PL",
+      "name": "Planet Labs PBC",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-23",
+        "accessionNumber": "0001193125-26-119957",
+        "primaryDocument": "pl-20260131.htm",
+        "reportDate": "2026-01-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526119957/pl-20260131.htm",
+      "revenue": {
+        "value": 307727000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "costOfRevenue": {
+        "value": 107746000,
+        "end": "2024-01-31",
+        "filed": "2024-03-29",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 172485000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 106749000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 1145686000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 229441000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 76714000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 134362000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -246860000,
+        "end": "2026-01-31",
+        "filed": "2026-03-23",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 34.689513757323866,
+      "grossMargin": 56.05130521533697,
+      "capexPctRevenue": 24.929239228277012,
+      "cashRunwayYears": null,
+      "govRevenuePct": null,
+      "topCustomerPct": {
+        "raw": "13",
+        "value": 13,
+        "unit": "% from top customer",
+        "excerpt": "…ed for 33 % of accounts receivable. As of January 31, 2025 , one customer accounted for 12% or more of accounts receivable. Two customers accounted for 13 % and 12 % of revenue for the fiscal year ended January 31, 2026 . One customer accounted for 19 %, and 21 % of revenue for the fiscal years ended January 31, 2025, and 2024, respectively. The Company’s offerings depend on co…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 388264
+      }
+    },
+    {
+      "ticker": "RDW",
+      "name": "Redwire Corp",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-27",
+        "accessionNumber": "0001819810-26-000029",
+        "primaryDocument": "rdw-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/rdw-20251231.htm",
+      "revenue": {
+        "value": 335381000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "costOfRevenue": {
+        "value": 318096000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "CostOfGoodsAndServicesSold"
+      },
+      "grossProfit": {
+        "value": 17285000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 19761000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 1449137000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 94467000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 13479000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": -177331000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -226552000,
+        "end": "2025-12-31",
+        "filed": "2026-02-27",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 5.892104800212296,
+      "grossMargin": 5.153839961118846,
+      "capexPctRevenue": 4.019011214111712,
+      "cashRunwayYears": 0.5327156560330681,
+      "govRevenuePct": null,
+      "topCustomerPct": {
+        "raw": "9",
+        "value": 9,
+        "unit": "% from top customer",
+        "excerpt": "…of customers, and we plan to continue pursuing additional agreements and partnerships. During our fiscal year ended December 31, 2025, we generated 46.9% of our revenue from national security customers, 21.6% of our revenue from civil customers, and 31.5% of our revenue from commercial customers. For the same period, revenues from customers located outside of the United States…",
+        "sectionId": "item_7",
+        "sectionHeader": "Item 7. Management's Discussion and Analysis",
+        "charOffset": 33002
+      }
+    },
+    {
+      "ticker": "RKLB",
+      "name": "Rocket Lab Corp",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "accessionNumber": "0001819994-26-000013",
+        "primaryDocument": "rklb-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000013/rklb-20251231.htm",
+      "revenue": {
+        "value": 601799000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "costOfRevenue": {
+        "value": 394618000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 207181000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 270716000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 2324478000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 828660000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 156285000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": -165521000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -198209000,
+        "end": "2025-12-31",
+        "filed": "2026-02-26",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 44.98445494259711,
+      "grossMargin": 34.426943215259584,
+      "capexPctRevenue": 25.96963437958521,
+      "cashRunwayYears": 5.006373813594649,
+      "govRevenuePct": null,
+      "topCustomerPct": null
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corp",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-02-06",
+        "accessionNumber": "0000101829-26-000006",
+        "primaryDocument": "rtx-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+      "revenue": {
+        "value": 80738000000,
+        "end": "2024-12-31",
+        "filed": "2025-02-03",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": null,
+      "grossProfit": {
+        "value": 2153000000,
+        "end": "2020-12-31",
+        "filed": "2021-02-08",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 2807000000,
+        "end": "2025-12-31",
+        "filed": "2026-02-06",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 171079000000,
+        "end": "2025-12-31",
+        "filed": "2026-02-06",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 7435000000,
+        "end": "2025-12-31",
+        "filed": "2026-02-06",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 2627000000,
+        "end": "2025-12-31",
+        "filed": "2026-02-06",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 10567000000,
+        "end": "2025-12-31",
+        "filed": "2026-02-06",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 6732000000,
+        "end": "2025-12-31",
+        "filed": "2026-02-06",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 3.476677648690827,
+      "grossMargin": 2.6666501523446207,
+      "capexPctRevenue": 3.2537343010726056,
+      "cashRunwayYears": null,
+      "govRevenuePct": {
+        "raw": "38",
+        "value": 38,
+        "unit": "% of revenue",
+        "excerpt": "…rm 10-K for additional information. U.S. Government Sales. Our U.S. government sales were as follows: (dollars in millions) 2025 2024 2023 Sales to the U.S. government (1) $ 33,279 $ 32,246 $ 31,628 Sales to the U.S. government as a percentage of total net sales (1) (2) 38 % 40 % 46 % (1) Excludes foreign military sales through the U.S. government. (2) 2023 total net sales incl…",
+        "sectionId": null,
+        "sectionHeader": null,
+        "charOffset": 22251
+      },
+      "topCustomerPct": {
+        "raw": "1",
+        "value": 1,
+        "unit": "% from top customer",
+        "excerpt": "…noted above. Research and Development (dollars in millions) 2025 2024 2023 Company-funded $ 2,807 $ 2,934 $ 2,805 Percentage of net sales 3.2 % 3.6 % 4.1 % Customer-funded (1) $ 4,886 $ 4,723 $ 4,456 Percentage of net sales 5.5 % 5.8 % 6.5 % (1) Included in Cost of sales in our Consolidated Statement of Operations. Research and development spending is subject to the variable na…",
+        "sectionId": null,
+        "sectionHeader": null,
+        "charOffset": 203599
+      }
+    },
+    {
+      "ticker": "SPIR",
+      "name": "Spire Global, Inc.",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-03-19",
+        "accessionNumber": "0001193125-26-116169",
+        "primaryDocument": "spir-20251231.htm",
+        "reportDate": "2025-12-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526116169/spir-20251231.htm",
+      "revenue": {
+        "value": 110451000,
+        "end": "2024-12-31",
+        "filed": "2025-03-31",
+        "form": "10-K",
+        "tag": "Revenues"
+      },
+      "costOfRevenue": {
+        "value": 42390000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "CostOfRevenue"
+      },
+      "grossProfit": {
+        "value": 29163000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "GrossProfit"
+      },
+      "rd": {
+        "value": 36672000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 210992000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 24813000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 32776000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": -59829000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": 51305000,
+        "end": "2025-12-31",
+        "filed": "2026-03-19",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 33.20205339924491,
+      "grossMargin": 26.40356357117636,
+      "capexPctRevenue": 29.674697377117454,
+      "cashRunwayYears": 0.41473198616055756,
+      "govRevenuePct": {
+        "raw": "43",
+        "value": 43,
+        "unit": "% of revenue",
+        "excerpt": "…ant portion of our revenue. We have historically derived a significant portion of our revenue from contracts with governmental customers. Approximately 43% of revenue for the year ended December 31, 2025, was generated by three government customers. There can be no assurance that any contract with the government of any jurisdiction will not be terminated or suspended in the fut…",
+        "sectionId": "item_1a",
+        "sectionHeader": "Item 1A. Risk Factors",
+        "charOffset": 52638
+      },
+      "topCustomerPct": {
+        "raw": "10",
+        "value": 10,
+        "unit": "% from top customer",
+        "excerpt": "…obal, Inc. Notes to Consolidated Financial Statements December 31, 2025 and 2024 agencies, of which only one government agency represented greater than 10 % of total revenue for the years ended December 31, 2025 and 2024. The following table represents 10 % or more of the Company’s total accounts receivable: Year Ended December 31, 2025 2024 Customer A 34 % * Customer B 11 % *…",
+        "sectionId": "item_8",
+        "sectionHeader": "Item 8. Financial Statements and Supplementary Data",
+        "charOffset": 242830
+      }
+    },
+    {
+      "ticker": "VSAT",
+      "name": "VIASAT INC",
+      "filing": {
+        "form": "10-K",
+        "filingDate": "2026-05-29",
+        "accessionNumber": "0001193125-26-248290",
+        "primaryDocument": "vsat-20260331.htm",
+        "reportDate": "2026-03-31"
+      },
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/797721/000119312526248290/vsat-20260331.htm",
+      "revenue": {
+        "value": 4640280000,
+        "end": "2026-03-31",
+        "filed": "2026-05-29",
+        "form": "10-K",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "costOfRevenue": null,
+      "grossProfit": null,
+      "rd": {
+        "value": 164908000,
+        "end": "2026-03-31",
+        "filed": "2026-05-29",
+        "form": "10-K",
+        "tag": "ResearchAndDevelopmentExpense"
+      },
+      "assets": {
+        "value": 15226596000,
+        "end": "2026-03-31",
+        "filed": "2026-05-29",
+        "form": "10-K",
+        "tag": "Assets"
+      },
+      "cash": {
+        "value": 1746835000,
+        "end": "2026-03-31",
+        "filed": "2026-05-29",
+        "form": "10-K",
+        "tag": "CashAndCashEquivalentsAtCarryingValue"
+      },
+      "capex": {
+        "value": 1076968000,
+        "end": "2023-03-31",
+        "filed": "2023-05-22",
+        "form": "10-K",
+        "tag": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "operatingCashFlow": {
+        "value": 1589885000,
+        "end": "2026-03-31",
+        "filed": "2026-05-29",
+        "form": "10-K",
+        "tag": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "netIncome": {
+        "value": -34086000,
+        "end": "2026-03-31",
+        "filed": "2026-05-29",
+        "form": "10-K",
+        "tag": "NetIncomeLoss"
+      },
+      "backlog": null,
+      "rdPctRevenue": 3.5538372684406974,
+      "grossMargin": null,
+      "capexPctRevenue": 23.20911669123415,
+      "cashRunwayYears": null,
+      "govRevenuePct": null,
+      "topCustomerPct": {
+        "raw": "16",
+        "value": 16,
+        "unit": "% from top customer",
+        "excerpt": "…the sale of equipment and services to government and defense users. Revenues from the U.S. Government as an individual customer comprised approximately 16%, 18% and 17% of total revenues for fiscal years 2026, 2025 and 2024, respectively. None of our other customers comprised 10% or more of total revenues in fiscal years 2026, 2025 or 2024. U.S. Government Contracts Substantial…",
+        "sectionId": "item_1",
+        "sectionHeader": "Item 1. Business",
+        "charOffset": 46265
+      }
+    }
+  ]
+}

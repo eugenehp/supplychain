@@ -1,0 +1,1016 @@
+facts & figures
+2024
+Press Release
+Introduction
+                                          The 29th edition of the annual facts and figures report is
+                                          published in July 2025.
+                                          • The 2025 report is available for free to selected institutional contacts, to
+                                            Eurospace members and to all the companies that have supported the survey.
+                                            • All others will find on www.eurospace.org the 2024 edition for free download.
+                                          • Main findings:
+                                            • Employment still in growth at 66k FTE +4%
+                                            • Final sales rebound to 8,8B€ +3%
+                                            • Productivity still in decrease
+    Employment (FTE) and sales (M€)               2022      2023    2024        Survey statistics       Nb of units Final sales M€ Employment
+
+    Direct industry employment (FTE)             57902      63402   66061     All units in the model       742         8835         66061
+
+  Other personnel working on site (FTE)           2182      2192    2396         Units updated             387         7878         52507
+     Total space industry employment                                                 Proxies               355          956         13554
+                                                 60084      65594   68457
+                   (FTE)
+        Final sales (M€ current e.c.)             8345      8570    8835    Survey representativeness      na           89%          79%
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                   2
+Key trends – European space industry
+
+Employment and consolidated                                 European industry economic                Market prospects exhibit
+sales rebound                                               fundamentals are worrying                 diverging trends
+• 66k FTE (+4%) with contrasting trends:                    • Sector profits are at an all time low   • Commercial (accessible) demand at all
+  • Startups 'explosion' vs Large Groups                    • Sector productivity receding              time low
+    receding                                                • Sector overcapacity is looming            • The promise of the Newspace is not
+• 8,8B€ (+3%)                                               • Sector cohesion is low                      (yet) realised
+  • Sales growth supported by European                                                                • Most growth potential driven by
+    institutional demand                                                                                institutional programmes (captive
+  • Commercial segment still receding                                                                   demand)
+  • Equipment Exports stable                                                                          • European institutional cohesion is
+                                                                                                        weakening
+  • Launcher programmes uptake
+                                                                                                        • National interests prevail
+
+
+
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                       3
+Contents
+
+
+
+
+      Global context and                                    European space budget   European space industry
+      macro space trends                                           trends              key data and facts
+
+
+
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                     4
+Global context
+Macro trends in space infrastructure markets
+Space infrastructure market metrics
+          Number of spacecraft launched – commercial                      Mass of spacecraft launched (tons) –                  Spacecraft Market (B$) – commercial vs
+                vs governmental programmes                              commercial vs governmental programmes                        governmental programmes
+  3 000                                                        1 800                                                       60
+                     Commercial
+                     programmes                                1 600
+  2 500              Institutional                                                                                         50
+                     programmes                                1 400
+
+  2 000                                                        1 200                                                       40
+
+
+                                                               1 000
+  1 500                                                                                                                    30
+                                                                800
+
+  1 000                                                         600                                                        20
+
+
+                                                                400
+   500                                                                                                                     10
+                                                                200
+
+     -                                                            -                                                        -    2005
+                                                                                                                                2006
+          2005 2007 2009 2011 2013 2015 2017 2019 2021 2023
+                                                                                                                                2007
+                                                                       2005 2007 2009 2011 2013 2015 2017 2019 2021 2023
+                                                                                                                                2008
+                                                                                                                                2009
+                                                                                                                                2010
+                                                                                                                                2011
+                                                                                                                                2012
+                                                                                                                                2013
+                                                                                                                                2014
+                                                                                                                                2015
+                                                                                                                                2016
+                                                                                                                                2017
+                                                                                                                                2018
+                                                                                                                                2019
+                                                                                                                                2020
+                                                                                                                                2021
+                                                                                                                                2022
+                                                                                                                                2023
+                                                                                                                                2024
+
+
+ ➢ Government programmes have a much higher value than commercial programmes
+ ➢ Commercial programmes growth (in numbers and mass) does not produce major growth in business
+
+July 9th 2025      Eurospace facts & figures - Press Release                                                                                                             6
+ Space infrastructure financing: Total Capex estimates
+ 2020-2024 by application segment – Source Eurospace LEAT database
+ Government funded (B$)                                                                  Privately funded (B$)
+ Space segment + Launch service                                                          Space segment + Launch service
+                                    -       20         40        60      80       100                                    -   20   40      60      80       100
+
+     Military communications                                                                 Military communications
+
+         Military Observation                                                                    Military Observation
+
+                  Military GNSS                                                                        Military GNSS
+                                                            252B$ in 2020-2024                                                         48B$ in 2020-2024
+                 Military (other)                            50,4B$/year avg                          Military (other)
+                                                                                                                                        9,6B$/year avg
+                                                          50% for defence users                                                   70% for telecommunications
+                      Civil GNSS                         20% is for launch services                        Civil GNSS
+                                                                                                                                    20% is for launch service
+             Civil observation                                                                       Civil observation
+
+Space science and exploration                                                           Space science and exploration
+
+           Human spaceflight                                                                       Human spaceflight
+
+        Civil communications                                                                    Civil communications
+
+      Other civil programmes                                                                  Other civil programmes
+
+
+ July 9th 2025       Eurospace facts & figures - Press Release                                                                                                   7
+Global           infrastructure                    demand
+Definition: The demand for building and launching satellites and other spacecraft
+(not included the R&D funded by space agencies)
+
+       Spacecraft mass launched (tons) – By customer                Spacecraft market (B$) – By customer region        Launch services market (B$) – By customer
+ 2 500                     region                              60                                                 60                    region
+                                             from
+              China                          250t                   55B$
+              Europe                           to
+                                                                                                                                                           14B$
+                                                               50                                                 50
+ 2 000
+              India                         2100t
+                Japan
+                Russia (& CIS)                                 40                                                 40
+ 1 500          USA
+                Others
+                                                               30                                                 30
+ 1 000
+
+                                                               20                                                 20
+
+   500
+                                                               10                                                 10
+
+
+    -    2005
+         2006
+         2007
+         2008
+         2009
+         2010
+         2011
+         2012
+         2013                                                  -    2005                                          -    2005
+         2014
+         2015
+         2016
+         2017
+         2018                                                       2006
+                                                                    2007
+                                                                    2008
+                                                                    2009
+                                                                    2010                                               2006
+                                                                                                                       2007
+                                                                                                                       2008
+                                                                                                                       2009
+                                                                                                                       2010
+         2019
+         2020
+         2021
+         2022
+         2023                                                       2011
+                                                                    2012
+                                                                    2013
+                                                                    2014
+                                                                    2015                                               2011
+                                                                                                                       2012
+                                                                                                                       2013
+                                                                                                                       2014
+                                                                                                                       2015
+         2024                                                       2016
+                                                                    2017
+                                                                    2018
+                                                                    2019
+                                                                    2020                                               2016
+                                                                                                                       2017
+                                                                                                                       2018
+                                                                                                                       2019
+                                                                                                                       2020
+                                                                    2021
+                                                                    2022
+                                                                    2023
+                                                                    2024                                               2021
+                                                                                                                       2022
+                                                                                                                       2023
+                                                                                                                       2024
+
+ ➢ Global spacecraft market: 55B$ -- Global launch market 14B$ -- moderate growth trend
+ ➢ Most of demand (85%) comes from China and the USA – Most of the growth (in value) is driven by China
+
+July 9th 2025      Eurospace facts & figures - Press Release                                                                                                       8
+The Starlink disruption
+(mass in tons)
+1600
+              China
+1400
+              Europe
+1200          India
+              Japan
+1000
+              Russia (& CIS)
+ 800          USA
+              Others
+ 600
+
+ 400
+
+ 200
+
+   0
+       2018     2019     2020   2021    2022   2023   2024        2010   2011   2012   2013   2014   2015     2016   2017    2018      2019   2020   2021   2022   2023   2024
+                                  Starlink                                                                  All the other programmes
+
+
+
+
+ ➢ The Starlink constellation radically modified launch mass statistic in the past 4 years, breaking every year a new
+   record in launched mass.
+ ➢ The only measurable growth (apart Starlink) is associated to the Chinese space programme (4x in 10 years).
+
+
+July 9th 2025         Eurospace facts & figures - Press Release                                                                                                                  9
+Key trends in institutional programmes
+Institutional Spacecraft demand – in Mass
+Institutional spacecraft mass (tons)                                                                                                                    Institutional spacecraft mass (tons)
+By mission                                                                                                                                              Civil vs. Military programmes
+                          Human activities                                                 Remote sensing
+                          Telecommunications                                               GNSS                                                                                                                  Civil          Military
+                          Science                                                          Other missions
+   600                                                                                                                                                    600
+
+
+   500                                                                                                                                                    500
+
+
+   400                                                                                                                                                    400
+
+
+   300                                                                                                                                                    300
+
+
+   200                                                                                                                                                    200
+
+
+   100                                                                                                                                                    100
+
+
+     -                                                                                                                                                      -
+           2005   2006    2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024           2005   2006   2007   2008   2009   2010   2011    2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024
+
+
+July 9th 2025            Eurospace facts & figures - Press Release                                                                                                                                                                                                                                    10
+Key trends in institutional programmes
+Institutional Spacecraft demand – in Mass –Human spaceflight excluded
+Civil institutional programmes                                                                                                                                  Military institutional programmes
+by customer region (tons)                                                                                                                                       by customer region (tons)
+ 200                                                                                                                                                            200
+
+
+                                                                                                                                                    Thousands
+ 180                                                                                                                                                            180
+
+ 160                                                                                                                                                            160
+
+ 140                                                                                                                                                            140
+
+ 120                                                                                                                                                            120
+
+ 100                                                                                                                                                            100
+
+  80                                                                                                                                                             80
+
+  60                                                                                                                                                             60
+
+  40                                                                                                                                                             40
+
+  20                                                                                                                                                             20
+
+  -                                                                                                                                                              -
+        2005   2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024                     2005   2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024
+
+       China            Europe               India              Japan           Russia (& CIS)                   USA           Others
+
+
+July 9th 2025          Eurospace facts & figures - Press Release                                                                                                                                                                                                                                           11
+Key trends in institutional programmes
+Institutional launch demand – in $ Billion
+
+   8
+                China                  Europe               India                       Japan                  Russia         USA            All others
+   7
+
+   6
+
+   5
+
+   4
+
+   3
+
+   2
+
+   1
+
+   0   2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+       2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+       2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+       2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+       2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+       2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+       2005
+       2008
+       2011
+       2014
+       2017
+       2020
+       2023
+                                                                    domestic launcher       foreign launcher
+
+ The USA and China have the highest institutional launch demand:                                The European institutional launch demand is between 300 to
+                           2-3B$/year                                                                                   500M$/year
+            Most of it served by domestic launchers                                                 Domestic preference is not always possible/enforced
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                                 12
+Spacecraft trends in commercial programmes
+Overview by customer country – Spacecraft trends - Starlink on the side
+
+  Commercial programmes – Mass trends                                                                                           Commercial programmes – Market trends
+  (tons) by customer region                                                                                                     (B$) by customer region
+                  Starlink                                              Other programmes                                                     Starlink                                        Other programmes
+ 1600                                                                                                                           7
+
+ 1400                                                                                                                           6
+
+ 1200
+                                                                                                                                5
+ 1000
+                                                                                                                                4
+  800
+                                                                                                                                3
+  600
+
+  400                                                                                                                           2
+
+  200                                                                                                                           1
+
+    0                                                                                                                           0
+         2018   2019   2020   2021   2022   2023   2024   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024       2018   2019   2020   2021   2022   2023   2024   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024
+
+
+
+July 9th 2025          Eurospace facts & figures - Press Release                                                                                                                                                                                      13
+Launch trends in commercial programmes
+Overview by customer country – Launch demand - Starlink excluded
+Commercial programmes – Mass trends (tons) by                                             Commercial programmes – Market trends (B$) by
+customer region                                                                           customer region
+140000                                                                                    2000
+
+                                                                                          1800
+120000
+                                                                                          1600
+
+100000                                                                                    1400
+
+                                                                                          1200
+ 80000
+                                                                                          1000
+ 60000
+                                                                                           800
+
+ 40000                                                                                     600
+
+                                                                                           400
+ 20000
+                                                                                           200
+
+     0                                                                                       0
+           2015   2016     2017    2018     2019   2020       2021   2022   2023   2024          2015    2016   2017     2018    2019   2020   2021      2022   2023   2024
+         China    Europe      India       Japan    Russia (& CIS)     USA    Others              China    Europe       India    Japan   Russia (& CIS)    USA     Others
+
+July 9th 2025     Eurospace facts & figures - Press Release                                                                                                                14
+Key trends in commercial programmes
+The GEO "commercial" segment
+GEO "commercial" orders by year (mass)                                     GEO "commercial" market (B$)
+by supplier region/country                                                 Value at launch date, by customer region
+140                                                                        8
+
+
+120                                                                        7
+
+
+                                                                           6
+100
+
+                                                                           5
+  80
+                                                                           4
+  60
+                                                                           3
+
+  40
+                                                                           2
+
+  20                                                                       1
+
+
+  -                                                                        -
+        2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024             2015      2016   2017    2018   2019    2020    2021      2022    2023   2024
+                China     Europe      India    Japan        Russia   USA          China     Europe      India   Japan    Russia (& CIS)     USA     Others
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                                    15
+European space budgets
+Consolidated
+European Consolidated Space (upstream) Budget 2024
+By source M€                                                                             By implementing entity M€
+                                                                   Note that only
+                                                             EU'upstream' budget is
+                                                                 included in these
+                                                             figures. In particular EU                              97     402
+                                                                budgets for H2020
+                                                               downstream market
+                                                                development and
+                2 020                                                                                                                       Managed by EU
+                                                                Galileo/Copernicus
+                                                             operations, or for large
+                                                              ground telescopes are
+                                                                                                                                 2 343
+                                                                                                                                            Managed by Eumetsat
+                                                                   not included.
+
+                         Total                                  National space budgets
+                                                                                                                 Total                      Managed by National
+                                                                                                                                            entities (civil)
+                        11 431                                  EU Space budget
+                                                                                                                11 431
+                                                                                                                                            Managed by National
+                          M€                                                                                      M€                1 112   entities (mil)
+                                                                                                                                            Managed by ESA
+
+
+                                      9 411                                                7 477
+
+                                                                                             Note that the budgets are
+                                                                                             consolidated, e.g. budget
+                                                                                          delegated by ESA to CNES & DLR
+                                                                                             are included in the shares
+                                                                                             managed at national level
+
+July 9th 2025    Eurospace facts & figures - Press Release                                                                                                   17
+European Consolidated Space Budget 2013-2024 M€
+ 10 000
+
+  9 000
+
+  8 000
+
+  7 000
+
+  6 000
+
+  5 000
+
+  4 000
+
+  3 000
+
+  2 000
+
+  1 000
+
+      -
+                2013         2014           2015             2016      2017          2018      2019          2020   2021   2022   2023   2024
+                                                                    National space budgets   EU Space budget
+
+July 9th 2025    Eurospace facts & figures - Press Release                                                                                      18
+'Small' and 'large' national space budget sources 2024 M€
+  3000
+                                                                                                                     Concentration of efforts
+                                                                                                                           Top 3: 66%
+  2500                                                                                                                     Top 5: 81%
+                                                                                                                          Top 10: 91%
+  2000
+
+
+  1500
+
+
+  1000
+
+
+   500
+
+
+      0
+
+
+
+
+                                                   to National Civil   To national Military   to ESA   to Eumetsat
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                       19
+Eurospace facts & figures
+survey
+Main results
+European space industry sales (M€) & employment (FTE)
+     10000                                                                                        70000
+
+      9000                     in 2024
+                      Final sales (left): 8,8 B€                                                  60000
+      8000
+                    Employment (right): 66 kFTE
+      7000                                                                                        50000
+
+      6000
+                                                                                                  40000
+      5000
+                                                                                                  30000
+      4000
+
+      3000                                                                                        20000
+      2000
+                                                                                                  10000
+      1000
+
+          0     1991
+                1992
+                1993                                                                              0
+                1994
+                1995
+                1996
+                1997
+                1998
+                1999
+                2000
+                2001
+                2002
+                2003
+                2004
+                2005
+                2006
+                2007
+                2008
+                2009
+                2010
+                2011
+                2012
+                2013
+                2014
+                2015
+                2016
+                2017
+                2018
+                2019
+                2020
+                2021
+                2022
+                2023
+                2024
+
+                                                            Final sales (M€)   Employment (FTE)
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                 21
+Employment distribution by country, company type
+and corporate entity
+25000
+          66 kFTE in 2024
+20000                                                                                                                                   Airbus
+                            Start-up                                                                                                     17%
+                              16%                                                                                                                 ArianeGroup
+                                                                                                                 Other                                 7%
+                      SME
+                                                                                                               companie
+15000                  6%                      Large 4                                                                                  Avio
+                                                                                                                   s
+                                                46%                                                              45%
+                                                                                                                                       GMV
+                                                                                                                                                        Beyond
+                      Midcap                                                                                                                            Gravity
+                       26%             Other                                                                                                              2%
+10000                                  Large
+                                                                                                                                                    OHB
+                                                                                                                                                     5%
+                                       Group                                                                                                     Safran
+                                        6%                                                                                          Telespazi
+                                                                                                              Thales Alenia Space                 2%
+                                                                                                                      13%               o
+                                                                                                                                       4%
+ 5000
+
+
+
+    0
+
+
+
+
+                                                            Large 4   Other Large Group   Midcap   SME   Start-up
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                                         22
+Employment trends by company type
+65,8 kFTE in 2024
+35000
+                 Large 4: Airbus,                                                                                             SME:
+                                                    Other Large                  Midcap: Independent                                                              Start-up:
+                 Thales, Safran,                                                                                       EU definition (<250
+                                                      Groups                     company, larger than                                                        New or emerging
+                    Leonardo                                                                                          employees, less than
+30000                                                                             SME and less than                        50M Sales)                         industrial player
+                                                                                     10000 total                                                           (the majority are also
+                                                                                     employees                                                                     SMEs)
+
+25000
+
+                                                                                                                                                               Start-up
+                                                                                                                                                                 16%
+20000                                                                                                                                                       SME
+                                                                                                                                                             6%                   Large 4
+                                                                                                                                                                                   46%
+
+                                                                                                                                                            Midcap
+                                                                                                                                                             26%          Other
+15000                                                                                                                                                                     Large
+                                                                                                                                                                          Group
+                                                                                                                                                                           6%
+
+
+
+
+10000
+
+
+
+ 5000
+
+
+
+    0
+                    Large 4                       Other Large Group                       Midcap                                SME                                  Start-up
+                    2009      2010    2011      2012        2013   2014   2015     2016      2017       2018   2019      2020      2021      2022   2023          2024
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                                                                                   23
+European space industry sales by main customer segment
+M€ current e.c.
+7,000
+
+
+
+6,000
+
+
+
+5,000
+
+
+
+4,000
+
+
+
+3,000
+
+
+
+2,000
+
+
+
+1,000
+
+
+
+    -
+          1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+                                                                  Institutional Europe        Commercial and Exports
+
+July 9th 2025    Eurospace facts & figures - Press Release                                                                                                                       25
+European space industry sales by main customer segment
+M€ current e.c.
+                                    ESA programmes                       EU programmes                            Eumetsat Programes
+                                    National Civil Programmes            National Military Programmes             Commercial programmes (Europe)
+  3500
+
+
+  3000
+
+
+
+  2500
+
+
+
+  2000
+
+
+  1500
+
+
+  1000
+
+
+   500
+
+
+
+      0
+            2009        2010       2011       2012       2013   2014   2015     2016      2017      2018   2019       2020     2021      2022      2023   2024
+
+July 9th 2025      Eurospace facts & figures - Press Release                                                                                                     26
+European space industry sales by main product segment
+M€ current e.c.
+6,000
+
+
+
+5,000
+
+
+
+4,000
+
+
+
+3,000
+
+
+
+2,000
+
+
+
+1,000
+
+
+
+    -
+          1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+                          Satellite applications systems       Launcher systems           Scientific systems        Support Activities        Other/unknown
+
+July 9th 2025    Eurospace facts & figures - Press Release                                                                                                                       27
+European space industry sales by main product segment
+M€ current e.c.
+                                    Launcher                                                  Telecommunications systems
+                                    Earth Observation systems                                 Navigation systems
+                                    Science & exploration                                     Space infrastructure (Human support, ISS, OOO, ADR, ...)
+                                    Microgravity (racks, experiments)                         EGSE, MGSE (test & support equipmt)
+                                    Ground stations (TT&C, UL/DL…)                            Professional services
+                                    Other & unknown
+  2500
+
+
+
+  2000
+
+
+
+  1500
+
+
+
+  1000
+
+
+
+   500
+
+
+
+      0
+            2009        2010       2011       2012       2013     2014   2015   2016   2017        2018       2019       2020      2021       2022       2023   2024
+
+July 9th 2025      Eurospace facts & figures - Press Release                                                                                                           28
+Industry segments
+dynamics
+Large Groups evolution profile
+total sales (M€ left) and employment (FTE – right) – definition: more than 10000 FTE at corporate level
+
+12000                                                                                                                           40 000
+                    Large Groups:
+                 Companies with global                                                                                          35 000
+10000             employment above
+                      10000 FTE
+                                                                                                                                30 000
+ 8000
+                                                                                                                                25 000
+
+ 6000                                                                                                                           20 000
+
+                                                                                                                                15 000
+ 4000
+                                                                                                         Avg Worker             10 000
+                                                                                                         Productivity
+ 2000
+                                                                                                            242K€               5 000
+
+      0                                                                                                                         -
+            2009 2010          2011      2012     2013 2014   2015   2016   2017 2018   2019   2020   2021 2022   2023   2024
+                    European institutional customers          European commercial customers    RoW customers
+                    Intersector sales in Europe               Employment FTE
+
+July 9th 2025   Eurospace facts & figures - Press Release                                                                               30
+Midcaps evolution profile
+total sales (M€ left) and employment (FTE – right) – definition: between 250 and 10000 FTE, independently owned
+
+4000                                                                                                                                       18 000
+            Midcap: Independent
+3500        company, larger than                                                                                                           16 000
+             SME and less than
+                10000 total
+                                                                                                                                           14 000
+3000            employees
+
+                                                                                                                                           12 000
+2500
+                                                                                                                                           10 000
+2000
+                                                                                                                                           8 000
+1500
+                                                                                                                                           6 000
+                                                                                                       Avg Worker
+1000                                                                                                   Productivity                        4 000
+                                                                                                          208K€
+ 500                                                                                                                                       2 000
+
+    0                                                                                                                                      -
+          2009      2010       2011     2012      2013       2014   2015   2016   2017   2018   2019    2020   2021   2022   2023   2024
+                      European institutional customers              European commercial customers        RoW customers
+                      Intersector sales in Europe                   Employment FTE
+
+July 9th 2025    Eurospace facts & figures - Press Release                                                                                         31
+'Legacy' SMEs evolution profile
+total sales (M€ left) and employment (FTE – right) – definition less than 250 FTE – independently owned
+
+500                                                                                                                                           4 500
+                        SME:
+450              EU definition (<250
+                                                                                                                                              4 000
+                employees, less than
+                     50M Sales)
+400                                                                                                                                           3 500
+350
+                                                                                                                       Avg Worker             3 000
+300                                                                                                                    Productivity
+                                                                                                                                              2 500
+250
+                                                                                                                          110K€
+                                                                                                                                              2 000
+200
+                                                                                                                                              1 500
+150
+100                                                                                                                                           1 000
+
+ 50                                                                                                                                           500
+
+   0                                                                                                                                          -
+         2009        2010       2011     2012      2013        2014   2015   2016   2017   2018   2019   2020   2021     2022   2023   2024
+                        European institutional customers              European commercial customers      RoW customers
+                        Intersector sales in Europe                   Employment FTE
+
+July 9th 2025      Eurospace facts & figures - Press Release                                                                                        32
+Start-ups evolution profile
+total sales (M€ left) and employment (FTE – right) – Company created after 2000, low maturity, funded by PE/VC
+
+700                                                                                                                                         12 000
+                  Start-up:
+             New or emerging
+600           industrial player                                                                                                             10 000
+           (the majority are also
+                   SMEs)
+500
+                                                                                                                      Avg Worker            8 000
+400
+                                                                                                                      Productivity
+                                                                                                                         110K€              6 000
+300
+                                                                                                                                            4 000
+200
+
+100                                                                                                                                         2 000
+
+
+   0                                                                                                                                        -
+         2009       2010        2011    2012      2013        2014   2015   2016   2017   2018   2019   2020   2021    2022   2023   2024
+                        European institutional customers              European commercial customers     RoW customers
+                        Intersector sales in Europe                   Employment FTE
+
+July 9th 2025     Eurospace facts & figures - Press Release                                                                                         33
+Evolution of apparent worker productivity
+by industry segment
+in k€/FTE
+400         Large Groups:
+         Companies with global
+          employment above
+350           10000 FTE
+
+
+300
+                                     Midcap: Independent company, larger than
+250                                  SME and less than 10000 total employees
+
+
+200
+                                                                        SME:
+150                                                              EU definition (<250
+                                                                employees, less than
+                                                                     50M Sales)
+100
+
+                                                         Start-up:
+ 50                                           New or emerging industrial player
+                                                (the majority are also SMEs)
+   0
+         2009       2010         2011     2012       2013        2014        2015       2016     2017   2018    2019       2020   2021   2022   2023   2024
+                                                             large groups              Midcaps     SMEs        Start-ups
+
+
+July 9th 2025    Eurospace facts & figures - Press Release                                                                                                    34
+The profitability issue
+Profits are decreasing
+EBIT to Sales ratio – Source: Eurospace ad hoc "profit survey"
+EBIT to Sales Ratio evolution (%)                                                Sample size M€
+ 6%                                                                             7000
+
+
+ 4%                                                                             6000
+
+ 2%
+                                                                                5000
+
+ 0%
+           2019             2020                2021         2022        2023   4000
+-2%
+                                                                                3000
+-4%
+            • "Sector" formula is the Sum of
+              the EBIT of all companies                                         2000
+-6%           divided by the Sum of the sales
+              in the segment perimeter
+              (weighted average)                                                1000
+-8%         • "Company" is the average of
+              EBIT to sales ratio of each
+              company (unweighted
+-10%                                                                               0
+              average)
+                                                                                        2019     2020              2021          2022   2023
+                       Sector EBIT %            Average Company EBIT %                         Total Space sales     Total Space EBIT
+-12%                                                                            -1000
+
+Apr 2025          Profit Survey                                                                                                                36
+

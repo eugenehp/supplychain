@@ -43,7 +43,7 @@
         <Select.Item value={topic.id} label={topic.label}>
           <span class="flex items-center gap-2">
             <TopicLogo topicMeta={topic} size={20} />
-            <span class="truncate">{topic.label}{topic.category ? ` · ${topic.category}` : ''}</span>
+            <span class="truncate">{topic.label}{topic.category ? ' · ' + topic.category : ''}</span>
           </span>
         </Select.Item>
       {/each}
@@ -55,7 +55,7 @@
             <Select.Item value={topic.id} label={topic.label}>
               <span class="flex items-center gap-2">
                 <TopicLogo topicMeta={topic} size={20} />
-                <span class="truncate">{topic.label}{topic.shortLabel ? ` (${topic.shortLabel})` : ''}</span>
+                <span class="truncate">{topic.label}{topic.shortLabel ? ' (' + topic.shortLabel + ')' : ''}</span>
               </span>
             </Select.Item>
           {/each}

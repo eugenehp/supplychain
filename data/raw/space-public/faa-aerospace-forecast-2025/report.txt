@@ -1,0 +1,465 @@
+                         FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+
+Commercial Space
+The FAA’s Office of Commercial Space                     •   Provides guidance to prospective com-
+Transportation (AST) licenses and regulates                  mercial operators on how to comply with
+U.S. commercial space launch activities in-                  regulatory requirements for obtaining an
+                                                             authorization and operating safely,
+cluding launch and reentry of vehicles and
+operation of non-federal launch and reentry
+                                                         •   Evaluates applications for licenses, ex-
+sites authorized by Executive Order 12465                    perimental permits, and safety element
+and Title 51 U.S. Code, Subtitle V, Chapter                  approvals for launch and reentry opera-
+509 (formerly the Commercial Space Launch                    tions and related commercial space
+Act). Title 51 and the Executive Order also                  transportation activities,
+direct the U.S. Department of Transportation
+to encourage, facilitate, and promote U.S.               •   Evaluates applications for licenses for
+                                                             launch and reentry site operations,
+commercial launches. The FAA’s mission is
+to license and regulate commercial launch                •   Monitors and enforces regulatory compli-
+and reentry operations and non-federal                       ance through safety inspections of
+launch sites to protect public health and                    launches, reentries, sites, and other reg-
+safety, the safety of property, and the na-                  ulated commercial space activities,
+tional security and foreign policy interests of
+the United States.                                       •   Provides U.S. Government oversight of
+                                                             investigations associated with the mis-
+The FAA licenses launches or reentries car-                  hap of an FAA authorized launch or
+                                                             reentry,
+ried out inside the U.S. and by U.S. persons
+(which includes U.S. corporations) inside or
+                                                         •   Facilitates the integration of commercial
+outside the United States. The FAA does not                  space launch and reentry operations into
+license launches or reentries the U.S. Gov-                  other modes of transportation including
+ernment carries out for the Government                       the National Airspace System (NAS) by
+(such as those owned and operated by Na-                     establishing appropriate hazard areas
+tional Aeronautics and Space Administration                  and limits to ensure the protection of the
+                                                             public,
+(NASA) or the Department of Defense). Am-
+ateur-class rockets do not require a FAA li-             •   Coordinates research into the safety and
+cense or permit 10.                                          operational implications of new technolo-
+                                                             gies and the evolving commercial space
+To accomplish its mission, the FAA performs                  transportation industry,
+the following major functions:
+                                                         •   Conducts outreach to the commercial
+•   Maintains an effective regulatory frame-                 space industry by hosting working groups
+    work for commercial space transportation                 and conferences,
+    activities,
+                                                         •   Collaborates with Government partners,
+                                                             such as the Department of Defense and
+
+10 Per 14 CFR Chapter 1, Part 1, section 1.1: Am-        (200,000 pound-seconds) or less; and cannot
+ateur rocket means an unmanned rocket that is            reach an altitude greater than 150 kilometers
+propelled by a motor or motors having a com-             above the earth’s surface.
+bined total impulse of 889,600 Newton-seconds
+
+                                                    41
+                        FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+    NASA to assure consistent approaches               Space Center and Cape Canaveral Space
+    to regulations, policy, and standards, and         Force Station in Florida; Johnson Space
+                                                       Center in Texas; Wallops Flight Facility in
+•   Conducts outreach to international coun-           Virginia; FAA’s Western-Pacific Regional
+    terparts to promote the U.S. regulatory
+                                                       Office; Vandenberg Space Force Base, and
+    framework across the world.
+                                                       the Mojave Air and Space Port in California.
+In addition to AST headquarters offices in             FAA also directly supports NASA’s commer-
+Washington, D.C., AST maintains staff with             cial space initiatives by providing on-site
+assigned duty locations near active launch             staff at both the Johnson Space Center and
+ranges to facilitate communication with                Kennedy Space Center to coordinate the
+space launch operators and to implement                FAA’s regulatory and compliance activities
+FAA’s regulatory responsibilities more effi-           with NASA’s development and operational
+ciently. AST personnel are currently as-               requirements for commercial space.
+signed to duty locations near Kennedy
+FAA Regulatory Safety Oversight Activities
+FAA supports commercial space oversight                permits, and safety element approval. Typi-
+and operations throughout the regulatory               cally, FAA issues a license with a narrow
+process. There are many activities per-                scope to a single vehicle configuration and
+formed by FAA during this process. The                 mission trajectory. With the dynamic com-
+most notable activities are described here.            mercial space industry, these licenses are
+                                                       required to be modified to add additional ve-
+Pre-Application Consultation for Licenses,             hicle configurations and mission profiles.
+Experimental Permits, and Safety Element               FAA’s new regulatory regime under Part 450
+Approvals                                              intends to allow flexibility by allowing author-
+Prospective applicants seeking commercial              ization to conduct launch or reentry activities
+space transportation licenses, experimental            for various vehicle configurations and trajec-
+permits, or safety element approvals are re-           tories from multiple sites.
+quired by regulation to consult with FAA be-
+                                                       Within safety and oversight is the require-
+fore submitting their applications. During
+                                                       ment to conduct both policy and payload re-
+this period, FAA assists them in identifying
+                                                       views. When conducting a policy review,
+potential obstacles to authorization issuance
+                                                       FAA determines whether the proposed
+and determining potential approaches to reg-
+                                                       launch, reentry, or site operation presents
+ulatory compliance. In addition, many new
+                                                       any issues that would adversely affect U.S.
+operators are seeking to incorporate new
+                                                       national security or foreign policy interests or
+technologies, vehicle types, or operational
+                                                       be inconsistent with international obligations
+models creating opportunities for FAA to as-
+                                                       of the United States. If not otherwise exempt
+sist in determining the applicable regulations
+                                                       from review, FAA reviews a payload pro-
+or approach to regulatory compliance.
+                                                       posed for launch or reentry to determine
+Licenses, Permits, and Safety Element Ap-              whether the payload would jeopardize public
+provals                                                health and safety, the safety of property, U.S.
+                                                       national security or foreign policy interests,
+FAA authorizes commercial space transpor-
+                                                       or the international obligations of the United
+tation activities via the issuance of licenses,
+
+                                                  42
+                        FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+States. The policy and/or payload determina-           sites, as well as at 4 Federal launch ranges
+tion becomes part of the licensing record on           and 3 exclusive use launch sites. The estab-
+which FAA’s licensing determination is                 lishment of non-federal launch sites requires
+based.                                                 additional inspections in areas such as
+                                                       ground safety that have traditionally been
+FAA issues launch and reentry site operator            overseen by the U.S. Air Force (now the U.S.
+licenses and license renewals. FAA coordi-             Space Force) at Federal ranges. At space-
+nates with Federal, state, and local govern-           ports and launch sites with high launch rates
+ments and with the commercial range opera-             (e.g., Cape Canaveral Space Force Station,
+tors or users for commercial space licenses            Kennedy Space Center, and Vandenberg
+and operations. As part of the evaluation of           Air Force Base), at least 70 percent of in-
+applications for launch licenses, reentry li-          spections are typically conducted by locally
+censes, and site operator licenses, FAA also           based field inspectors. Currently, the FAA in-
+conducts environmental reviews consistent              tends to leverage a risk-based approach to
+with its responsibilities under the National           respond to a dynamic operational tempo,
+Environmental Policy Act.                              minimize cost, and increase efficiency.
+FAA anticipates issuing a growing number of            Mishap Investigations
+safety element approvals for space launch
+systems equipment, processes, technicians,             Mishap events have demonstrated that FAA
+training, and other supporting activities. FAA         needs to have the capacity to oversee the in-
+reviews, evaluates, and issues safety approv-          vestigation of at least two space launch or
+als to support the continued introduction of           reentry mishaps or accidents simultaneously
+new safety systems, safety operations appli-           anywhere in the world, and to lead/oversee
+cations, and safety element approval re-               as many as nine investigations during a sin-
+newal applications.                                    gle year. FAA anticipates an increase in mis-
+                                                       haps with new operators coming online. FAA
+Safety Analyses                                        reviews all applicant mishap plans and acci-
+                                                       dent investigation procedures as part of the
+FAA conducts flight safety, system safety,
+maximum probable loss, and explosive                   license and permit evaluation process.
+safety analyses to support the evaluation and          NAS Integration
+issuance of licenses and permits. FAA also
+evaluates and analyzes the performance of a            AST works in partnership with all FAA lines-
+vehicle operator’s safety systems including            of-business, notably the Air Traffic Organiza-
+safety-critical systems and any associated             tion (ATO) and Office of Airports (ARP), to
+crew involved in the function of the safety            support the safe and efficient integration of
+system to determine how they affect public             commercial launch and reentry operations
+safety risk.                                           through the NAS and its system of airports
+                                                       and air traffic managed by the ATO. Further,
+Inspections and Enforcement                            AST works with the ATO and the Office of
+FAA currently conducts as many as 750 pre-             NextGen (ANG) as FAA develops technolo-
+flight/reentry, flight/reentry, and post-              gies to facilitate safe and efficient integration
+flight/reentry safety inspections per year. In-        of commercial launch and reentry operations
+spections often occur simultaneously at any
+of the 14 licensed commercial space launch
+
+                                                  43
+                                FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+through the NAS, including technologies to                      technologies to improve the timely and accu-
+improve the integration of launch and reentry                   rate development and distribution of notices
+data into FAA air traffic control systems and                   of aircraft hazard areas.
+
+FY 2024 Results
+
+Between 1989 and 2024, FAA licensed 824                         Correspondingly, the 142 launches were
+launch/reentries. Most of this activity oc-                     conducted by six operators, with SpaceX ac-
+curred in the last five years (2020-2024). Dur-                 counting for 83 percent of the total (118
+ing this period, 432 launches and reentries                     launches). The remaining 17 percent were
+occurred, accounting for over 56 percent of                     conducted by Rocket Lab (12 launches), Vir-
+the total. In FY 2024, launch and reentry op-                   gin Galactic (4 launches), Blue Origin
+erations totaled 148, the highest posted in                     (3 launches), United Launch Alliance
+U.S. history, and 17 percent of all activity                    (2 launches), Firefly Aerospace (2 launches),
+since 1989.                                                     and Stratolaunch (1 launch).
+
+A vast majority of the licensed launches (130                         FAA Licensed Launches by Operator - FY24
+out of 142) occurred at three U.S. sites and                    140
+one international site. The top U.S. launch                     120    118
+                                                                100
+sites included Cape Canaveral, Florida
+                                                                 80
+(61 launches), Vandenburg Space Force                            60
+Base (SFB), California (41 launches), and                        40
+                                                                                  12                                  5
+Kennedy Space Center, Florida (17                                20                            4           3
+                                                                  0
+launches). Eleven U.S. licensed launches                              SpaceX   Rocket Lab    Virgin    Blue Origin   Other
+occurred at Mahia, New Zealand. The re-                                                     Galactic
+
+maining 12 licensed launches occurred at
+five different sites. 11                                        The total number of licensed reentries in
+                                                                FY2024 was six. Four reentries were in the
+         FAA Licensed Launches by Site - FY2024                 Gulf of America, one reentry was in the At-
+ 70                                                             lantic Ocean, and one occurred at the Utah
+ 60                                                             Test and Training Range. Five of the six
+ 50
+ 40
+                                                                reentries were conducted by SpaceX, with
+ 30     61                                                      the remaining reentry conducted by Varda.
+ 20                 41
+ 10                            17          11       12
+                                                                The launches covered a variety of missions,
+  0
+        Cape    Vandenburg Kennedy     Mahia, NZ   Other
+                                                                including the first-ever privately funded
+      Canaveral    SFB     Space Cntr.                          spacewalk by non-government astronauts. 12
+                                                                Other missions included (but were not limited
+                                                                to) space tourism, satellite deployment,
+
+11 Boca Chica, Texas; Van Horn, Texas; Mid-At-                  one mission were exposed to the vacuum of
+lantic Regional Spaceport, Virginia; Mojave Air &               space at the same time. Source:
+Space Port, California; Spaceport America, New                  https://www.inc.com/kit-eaton/the-commercial-
+Mexico                                                          space-race-took-flight-in-2024/91070229.
+12 The excursion represented the first use of a
+
+privately-created space suit designed for space-
+walks, and was the first time four people from
+
+                                                           44
+                          FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+global emissions tracking of methane, and                  In FY2024, ten licensed operations resulted
+earth observation. Future missions are antic-              in a mishap (eight during CY2024).
+ipated to also include cislunar operations,
+space travel to Mars, and in-orbit services.
+
+Forecast
+
+The starting point for FAA’s launch and                    FY2034. In the low case scenario, FAA fore-
+reentry operations forecast relies on data                 casts 2,067 authorized space operations --
+collected from operators and prospective ap-               going from 174 operations in FY2025 to 259
+plicants, tying launch and reentry activity di-            operations in FY2034. The increase in oper-
+rectly to anticipated operations by commer-                ations reflects demand for activities such as
+cial space transportation firms known to                   in-orbit servicing, assembly, and manufactur-
+FAA. The forecasts are presented as a low                  ing (ISAM); cislunar operations; Mars explo-
+case scenario and a high case scenario to                  ration; satellite deployment and replacement;
+provide a range of future activity, reflecting             and space tourism. 13
+uncertainty at the pace of which launches
+and reentries will occur. All FAA-authorized               A comparison of scenarios between the cur-
+commercial space operations are included in                rent forecast and the previously released
+this forecast, regardless of where they occur.             forecast for the period FY2025-28 shows an
+                                                           overall increase of 65 operations for the
+In previous years, the commercial space op-                high case scenario. 14 Similarly, a compari-
+erations forecast covered a five-year hori-                son of the low case scenarios shows an
+zon. This year marks the first time the fore-              overall increase of 68 operations.
+cast spans a ten-year horizon. The ex-
+panded timeframe, along with the high case                 The following graph shows FAA’s low and
+scenario and a low case scenario, is in-                   high case forecasts, as well as historical
+tended to better aid government and indus-                 activity. FAA is forecasting launch and re-
+try planners.                                              entry activity to increase from a range of 174
+                                                           to 183 in FY2025 to a range of 259 to 566 in
+Increase in Operations Over Previous Pro-                  FY2034. 15
+jections
+In the high case scenario, FAA forecasts
+4,010 authorized space operations over the
+ten-year forecast horizon – going from 183
+operations in FY2025 to 566 operations in
+
+
+13 ISAM (In-orbit servicing, assembly, and manu-           providing lunar habitats as a base for scientific re-
+facturing) is an emerging field within the aero-           search and tourism.
+space industry that involves the use of robotic            14 Prior forecasts of FAA authorized space oper-
+
+technology to perform tasks in space, such as re-          ations were presented on a five-year basis.
+pairing and maintaining satellites. Cislunar oper-         15
+                                                              This forecast does not include launch activity
+ations are those that would extend up to the               not authorized by the FAA (e.g., launches the
+Moon’s orbit and may include commercial activi-            Government carries out for the Government) or
+ties such as resource mining, placing satellites to        launch activity for other nations.
+enhance global communications networks, and
+
+                                                      45
+                                            FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+
+                                            FAA Launch/Re-Entry Forecast (FY2025-2034)
+                             600
+
+
+
+
+     Number of Operations
+                             500
+
+                             400
+
+                             300
+
+                             200
+
+                             100
+
+                               0
+                                      2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034
+                    Actual            14   17   22   35   32    33   64   74    113   148
+                    Forecast - High   25   29   26   38   44    46   44   73    94    156   183   225   278   353   419   456   480   510   541   566
+                    Forecast - Low    22   25   17   17   33    34   36   52    61    134   174   177   180   184   200   210   209   225   251   259
+
+
+Factors Affecting Forecast Accuracy
+
+The commercial space transportation indus-                                            •     loosening or tightening of the regulatory
+try is rapidly evolving. The industry’s growth                                              environment, and
+through technological innovation and the de-                                          •     mishaps. 16
+velopment of new markets increases the
+challenges associated with forecasting com-                                           Satellite Deployment
+mercial space transportation operations                                               Many of the missions included in the launch
+There are several factors that magnify the                                            forecasts are affiliated with initial satellite de-
+challenges with predicting the number of                                              ployment and their eventual replacement as
+launches and reentries expected in any                                                they reach end of useful life. The timing for
+                                                                                      the deployment of satellites can affect fore-
+given year. These factors include:
+                                                                                      cast accuracy, especially in the latter years.
+•   a dynamic list of firms that launch or in-                                        In the near-term, forecast accuracy can be
+    tend to launch,                                                                   impacted by cancellation of satellite constel-
+                                                                                      lations. For example, last year’s forecast in-
+•   development of new technologies,
+                                                                                      cluded the launch of Boeing’s V-Band con-
+•   launch rates for reusable launch vehicles,                                        stellation. Boeing surrendered their license
+•   commercial spaceflight by both govern-                                            for this constellation in September 2023,
+    ment astronauts and private citizens,                                             stating that surrendering their license was a
+•   the dynamic nature of flight test pro-
+    grams,
+
+
+
+16 New technologies [e.g., reusable launch vehi-                                      crease the probability of a mishap. The time be-
+cles] allow a faster operational tempo, and at the                                    tween mishap investigations and subsequent “re-
+same time, early use of these technologies can in-                                    turn to flight” for impacted entities can take
+                                                                                      months, drastically impacting launch plans.
+
+                                                                               46
+                        FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+business decision regarding spectrum allo-             ceased operations and sold its assets and
+cation. 17                                             equipment to other aerospace companies.
+                                                       Other market changes could occur in the fu-
+The current forecast for satellite deployment          ture.
+in the near term includes (but is not limited
+to), Amazon’s Kuiper and SpaceX’s Starlink.            Move to Larger Launch Vehicles
+Deployment of Amazon’s Kuiper is expected
+                                                       Several rocket manufacturers are developing
+to begin in 2025 with 100 percent deploy-
+                                                       larger launch vehicles. SpaceX is continuing
+ment by 2031, also marking the year that sat-
+                                                       development of its 398-foot rocket, Starship.
+ellite replenishment begins. Starlink’s LEO is
+                                                       Starship’s first launch occurred in April 2023.
+expected to be 100 percent deployed by the
+                                                       Blue Origin’s 320-foot New Glenn rocket suc-
+end of 2025, with satellite replenishment be-
+                                                       cessfully launched to orbit during its first test
+ginning the same year.
+                                                       flight in January 2025, although the goal of
+Changes to the List of Firms Intending to              recovering the reusable booster stage during
+Launch                                                 re-entry was not achieved. Relativity Space
+                                                       is developing Terran R, a 216-foot rocket.
+There is potential for launch service provid-          The Terran R is not expected to be launched
+ers that have not been included in this fore-          until 2026, at the earliest.
+cast to emerge and begin conducting
+launches. Conversely, there is also the risk           Larger launch vehicles possess several key
+that a current launch service provider, or             attributes that will enable operators to lower
+even multiple providers, may drop out of the           costs on a per launch basis. A brief descrip-
+market.                                                tion of these attributes as they pertain to
+                                                       Starship, New Glenn, and Terran R are pro-
+The list of firms intending to launch is dy-           vided below.
+namic, with smaller launch providers strug-
+gling in an increasingly competitive market.           Increased Payload Mass: Terran R, New
+New arrivals to the industry face steep barri-         Glenn, and Starship will be able to launch
+ers to entry, including high development               payloads of up to 20, 45, and 150 metric
+costs and intense competition from their es-           tons, respectively, to low earth orbit. 19 For
+tablished counterparts that provide reliable,          comparison purposes, the Atlas V, classified
+frequent, and more cost-effective services.            as a medium to heavy-lift launch vehicle, can
+                                                       carry a payload of 18.9 metric tons to low
+At the start of 2024, there were 12 launch             earth orbit. 20
+service providers in the U.S. During the year,
+ABL Space Systems withdrew from the com-               Increased Payload Volume: The larger
+mercial launch business to focus on missile            launch vehicles will allow for heftier, more
+defense. 18 In the previous year (2023), Virgin
+Orbit filed for bankruptcy protection. It
+
+
+17 Source: Boeing Relinquishes License For LEO         19 Sources: https://tlpnetwork.com/news/amer-
+
+Broadband Constellation | Aviation Week Net-           ica/relativity-space-update-terran-r-preparing-
+work                                                   for-first-flight; https://www.blueorigin.com/new-
+18 Source: ABL Space exits commercial launch           glenn; https://www.spacex.com/vehicles/star-
+market, shifts focus to missile defense - Space        ship/
+News                                                   20 Source: https://en.wikipedia.org/wiki/Atlas_V
+
+
+
+                                                  47
+                          FAA Aerospace Forecast Fiscal Years 2025–2045
+
+
+complex cargo, such as satellites, space-                 The demand for space activities such as ex-
+craft, telescopes, and supplies in a single               ploration, tourism, cislunar operations, place-
+mission.                                                  ment of satellites, and in-orbit servicing, as-
+                                                          sembly, and manufacturing (ISAM), are ex-
+Reusability of Launch Vehicles: Starship is a             pected to grow with each successful mission.
+fully reusable launch vehicle that is expected            Subsequently, launch providers are moti-
+to launch 100 times before retirement. 21 New             vated towards technology that will allow for
+Glenn is designed with a reusable first stage             launches to occur at an increased pace.
+and a partially reusable second stage. New
+Glenn is expected to conduct multiple mis-                In the report Space: The $1.8 Trillion Oppor-
+sions prior to retirement. The Terran R will              tunity for Global Economic Growth, it is esti-
+have a fully reusable first stage and a second            mated the space economy will be worth be-
+stage that will be discarded after use. Initially         tween $1.4 trillion and $2.3 trillion by 2035, up
+Terran R will be designed for 20 reuses. 22               from $630 billion in 2023. 25 The main drivers
+                                                          for this growth include:
+Increased Launch Frequency: By 2026, Star-
+ship is expected to be capable of 25                      1) a decrease in launch costs, which have
+launches per year. Once fully operational,                fallen 10-fold over the last 20 years.
+New Glenn is expected to be capable of 24
+launches per year.                                        2) commercial innovation, which has led to
+                                                          the use of smaller satellites that can provide
+New Markets for Commercial Space Trans-                   higher resolution pictures at a lower cost.
+portation
+                                                          3) diversification of investment and applica-
+In a shift away from past space domination                tions, with private sector investment reaching
+by governmental agencies such as NASA                     all-time highs and space-enabled activities,
+and the Soviet Union’s space program, pri-                such as tourism, becoming mainstream.
+vate companies are increasingly interested
+in accessing the commercial space mar-                    4) cultural awareness and enthusiasm, as ev-
+ket. 23 Spurring optimism is the development              idenced by government and business leaders
+of commercial space transportation technol-               increasingly consider what space could ena-
+ogies. Space data, products, and services                 ble in the future.
+provide tangible benefits and economic op-
+portunities to people worldwide. 24
+
+
+
+
+21 Sources: Source: https://giz-                          gency responders impacted by Hurricane He-
+modo.com/spacex-sets-ambitious-goal-25-star-              lene, Hurricane Milton and the Los Angeles wild-
+ship-flights-in-2025-2000524527                           fires. https://www.ntd.com/free-starlink-service-
+22 Source: https://www.relativ-                           coming-to-los-angeles-areas-hit-by-wildfires-
+ityspace.com/press-release/2023/4/12/terran-r             musk-says_1039603.html.
+23 Source: The Future of Space: Economic Op-              25 Report published by the World Economic Fo-
+
+portunities and Challenges | New Space Econ-              rum in knowledge partnership with McKinsey &
+omy                                                       Company. Source: https://www.mckinsey.com/in-
+24 Deployment of SpaceX’s Starlink at little to no        dustries/aerospace-and-defense/our-in-
+charge for users allowed for communication and            sights/space-the-1-point-8-trillion-dollar-oppor-
+internet services critical for residents and emer-        tunity-for-global-economic-growth
+
+                                                     48
+
